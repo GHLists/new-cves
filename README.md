@@ -9,20 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 12:19 UTC
+## Latest list — 2026-09-24 13:19 UTC
 
-New CVEs published between 2026-09-24 11:19 UTC and 2026-09-24 12:19 UTC.
+New CVEs published between 2026-09-24 12:19 UTC and 2026-09-24 13:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-24T12-19-01-552821Z.csv)
+[Full CSV](data/new-cves-2026-09-24T13-19-02-076382Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-24 12:17:11 | [CVE-2026-16302](https://nvd.nist.gov/vuln/detail/CVE-2026-16302) | Medium | 4.3 | The Spectra Legacy – Gutenberg Blocks plugin for WordPress is vulnerable to Sensitive Information Exposure in all versi… |
-| 2026-09-24 12:17:12 | [CVE-2026-19532](https://nvd.nist.gov/vuln/detail/CVE-2026-19532) | Medium | 5.3 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in HAVELSAN Inc. Liman MYS… |
-| 2026-09-24 12:17:12 | [CVE-2026-3253](https://nvd.nist.gov/vuln/detail/CVE-2026-3253) | Medium | 4.3 | The MailerLite – Signup forms (official) plugin for WordPress is vulnerable to unauthorized modification of data due to… |
-| 2026-09-24 12:17:12 | [CVE-2026-4806](https://nvd.nist.gov/vuln/detail/CVE-2026-4806) | Medium | 6.5 | The Custom Thank You Page for WooCommerce plugin for WordPress is vulnerable to unauthorized access and loss of data du… |
-| 2026-09-24 12:17:12 | [CVE-2026-7169](https://nvd.nist.gov/vuln/detail/CVE-2026-7169) | High | 7.5 | a vulnerability involving an unchecked search path element in Evope Collector, versions prior to 1.1.7.13, allows a loc… |
-| 2026-09-24 12:17:13 | [CVE-2026-97311](https://nvd.nist.gov/vuln/detail/CVE-2026-97311) | Medium | 4.3 | A flaw was found in the Admin REST API of Keycloak, an identity and access management solution. The endpoints used to r… |
+| 2026-09-24 13:17:09 | [CVE-2026-19072](https://nvd.nist.gov/vuln/detail/CVE-2026-19072) | Critical | 9.9 | Velociraptor stores the compiled VQL in the hunt object internally to avoid having to recompile the artifacts for each… |
+| 2026-09-24 13:17:15 | [CVE-2026-88907](https://nvd.nist.gov/vuln/detail/CVE-2026-88907) | High | 7.4 | Incorrect Authorization vulnerability in TÜBİTAK ULAKBİM UlakPDF allows Authentication Bypass. This issue affects UlakP… |
+| 2026-09-24 13:17:16 | [CVE-2026-88916](https://nvd.nist.gov/vuln/detail/CVE-2026-88916) | Medium | 6.8 | Incorrect Authorization vulnerability in TÜBİTAK ULAKBİM UlakPDF allows Privilege Escalation. This issue affects UlakPD… |
+| 2026-09-24 13:17:17 | [CVE-2026-94416](https://nvd.nist.gov/vuln/detail/CVE-2026-94416) | Medium | 6.8 | An authorization bypass was found in the Ansible Automation Platform (AAP) gateway. The gateway API allows an authentic… |
+| 2026-09-24 13:17:17 | [CVE-2026-96515](https://nvd.nist.gov/vuln/detail/CVE-2026-96515) | High | 8.6 | This vulnerability exists in the Netlink ICT HG323RW router due to insufficient authorization and input validation cont… |
+| 2026-09-24 13:17:19 | [CVE-2026-97182](https://nvd.nist.gov/vuln/detail/CVE-2026-97182) | Medium | 5.5 | A security vulnerability has been detected in halo-dev Halo up to 2.25.4/2.26.1. Affected is an unknown function of the… |
 
 ## Data source
 
