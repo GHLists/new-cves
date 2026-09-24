@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-24T23:19:22.96Z,CVE-2026-97230,,,Received,CWE-506,2,IO::Socket::SSL::SelfCertificate versions 1.00 for Perl contains malware which executes Python code from an obfuscated URL. The generate_certificate runs a Python script saved as a certificate file. The pyhton script attempts to retrieve code from a hardcoded http URL that is obfuscated with base64…
+2026-09-24T23:19:23.077Z,CVE-2026-97387,,,Rejected,,0,Rejected reason: This CVE is a duplicate of another CVE.
