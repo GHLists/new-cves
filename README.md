@@ -9,35 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-24 20:20 UTC
+## Latest list — 2026-09-24 21:18 UTC
 
-New CVEs published between 2026-09-24 19:19 UTC and 2026-09-24 20:20 UTC.
+New CVEs published between 2026-09-24 20:20 UTC and 2026-09-24 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-24T20-20-16-565426Z.csv)
+[Full CSV](data/new-cves-2026-09-24T21-18-58-007543Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-24 20:17:29 | [CVE-2026-48540](https://nvd.nist.gov/vuln/detail/CVE-2026-48540) | Medium | 5.1 | Krayin CRM through 2.2.6 contains a stored client-side template injection vulnerability that allows authenticated attac… |
-| 2026-09-24 20:17:29 | [CVE-2026-48541](https://nvd.nist.gov/vuln/detail/CVE-2026-48541) | Medium | 5.1 | Krayin CRM through 2.2.6 contains a stored client-side template injection vulnerability that allows authenticated attac… |
-| 2026-09-24 20:17:29 | [CVE-2026-48542](https://nvd.nist.gov/vuln/detail/CVE-2026-48542) | Medium | 5.1 | Krayin CRM through 2.2.6 contains a stored client-side template injection vulnerability that allows authenticated attac… |
-| 2026-09-24 20:17:29 | [CVE-2026-48543](https://nvd.nist.gov/vuln/detail/CVE-2026-48543) | Medium | 5.1 | Krayin CRM through 2.2.6 contains a stored client-side template injection vulnerability that allows authenticated attac… |
-| 2026-09-24 20:17:30 | [CVE-2026-77967](https://nvd.nist.gov/vuln/detail/CVE-2026-77967) | High | 8.6 | The Botslab G980H dash camera firmware accepts a reusable authentication value without adequately verifying its freshne… |
-| 2026-09-24 20:17:32 | [CVE-2026-82164](https://nvd.nist.gov/vuln/detail/CVE-2026-82164) | High | 7.1 | Dell Trusted Device Client, versions prior to 8.1.359.0, contain an Incorrect Permission Assignment for Critical Resour… |
-| 2026-09-24 20:17:32 | [CVE-2026-82372](https://nvd.nist.gov/vuln/detail/CVE-2026-82372) | High | 8.5 | Improper handling of sensitive data during IPsec policy creation and modification in Brocade SANnav versions before 3.0… |
-| 2026-09-24 20:17:32 | [CVE-2026-82566](https://nvd.nist.gov/vuln/detail/CVE-2026-82566) | High | 8.7 | The Botslab G980H dash camera firmware contains a session management vulnerability in which authentication state can re… |
-| 2026-09-24 20:17:32 | [CVE-2026-84399](https://nvd.nist.gov/vuln/detail/CVE-2026-84399) | High | 8.7 | The Botslab G980H dash camera firmware contains an authorization vulnerability in its session based command functionali… |
-| 2026-09-24 20:17:32 | [CVE-2026-85496](https://nvd.nist.gov/vuln/detail/CVE-2026-85496) | High | 7.7 | The Botslab G980H dash camera firmware generates session identifiers using a small sequential value space rather than a… |
-| 2026-09-24 20:17:33 | [CVE-2026-88761](https://nvd.nist.gov/vuln/detail/CVE-2026-88761) | Medium | 6.0 | The Botslab G980H dash camera firmware generates the default WiFi password using predictable device information, portio… |
-| 2026-09-24 20:17:33 | [CVE-2026-88956](https://nvd.nist.gov/vuln/detail/CVE-2026-88956) | High | 7.0 | The Botslab G980H dash camera firmware contains an authentication vulnerability in the root account exposed through the… |
-| 2026-09-24 20:17:34 | [CVE-2026-93289](https://nvd.nist.gov/vuln/detail/CVE-2026-93289) | Critical | 9.0 | The affected products are vulnerable to command injection attack that could allow an unauthenticated attacker to execut… |
-| 2026-09-24 20:17:34 | [CVE-2026-93290](https://nvd.nist.gov/vuln/detail/CVE-2026-93290) | Medium | 6.8 | Omni C20 uses hard-coded credentials that could allow an attacker to monitor log files to obtain credentials to access… |
-| 2026-09-24 20:17:34 | [CVE-2026-93291](https://nvd.nist.gov/vuln/detail/CVE-2026-93291) | Critical | 9.3 | Omni C20 lacks proper certificate validation which could allow an attacker to perform a man-in-the-middle attack which… |
-| 2026-09-24 20:17:34 | [CVE-2026-93354](https://nvd.nist.gov/vuln/detail/CVE-2026-93354) | High | 8.5 | Taskview Community before 1.56.0 contains a missing authentication vulnerability that allows unauthenticated attackers… |
-| 2026-09-24 20:17:35 | [CVE-2026-96883](https://nvd.nist.gov/vuln/detail/CVE-2026-96883) | High | 8.7 | pgcollection is an open source extension to PostgreSQL. A type confusion issue in AWS pgcollection 2.0.0 through 2.1.1… |
-| 2026-09-24 20:17:35 | [CVE-2026-97324](https://nvd.nist.gov/vuln/detail/CVE-2026-97324) | Medium | 5.5 | A vulnerability was identified in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.08. Affected is the function updateDemo… |
-| 2026-09-24 20:17:35 | [CVE-2026-97325](https://nvd.nist.gov/vuln/detail/CVE-2026-97325) | Low | 2.1 | A security flaw has been discovered in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.08. Affected by this vulnerability… |
-| 2026-09-24 20:17:35 | [CVE-2026-97326](https://nvd.nist.gov/vuln/detail/CVE-2026-97326) | Medium | 5.5 | A weakness has been identified in songxinjianqwe Chat up to ac63d25297079eed5e4ba7e88d3b7a032637150d. Affected by this… |
-| 2026-09-24 20:17:36 | [CVE-2026-97365](https://nvd.nist.gov/vuln/detail/CVE-2026-97365) | Low | 2.1 | A vulnerability was determined in chonkie-inc littrs 0.6.1/0.6.2. Impacted is the function Sandbox::mount of the file c… |
+| 2026-09-24 21:17:10 | [CVE-2026-14441](https://nvd.nist.gov/vuln/detail/CVE-2026-14441) | Medium | 6.9 | A logic flaw in Java cache key handling object comparison handling could lead to improper identifier resolution when pr… |
+| 2026-09-24 21:17:11 | [CVE-2026-14442](https://nvd.nist.gov/vuln/detail/CVE-2026-14442) | Medium | 6.9 | An information exposure vulnerability in the job scheduling component of SANnav allows sensitive credentials to be writ… |
+| 2026-09-24 21:17:12 | [CVE-2026-14443](https://nvd.nist.gov/vuln/detail/CVE-2026-14443) | High | 8.4 | Incomplete log sanitization during bulk IPsec policy collection in Brocade SANnav versions before 3.0.1a permit extensi… |
+| 2026-09-24 21:18:36 | [CVE-2026-75558](https://nvd.nist.gov/vuln/detail/CVE-2026-75558) | Medium | 6.0 | The Botslab G980H dash camera firmware uses a hard-coded cryptographic key and initialization vector to protect WiFi cr… |
+| 2026-09-24 21:18:44 | [CVE-2026-79959](https://nvd.nist.gov/vuln/detail/CVE-2026-79959) | High | 7.0 | The Botslab G980H dash camera firmware contains a hard-coded root account password that cannot be changed by the user.… |
+| 2026-09-24 21:18:48 | [CVE-2026-81630](https://nvd.nist.gov/vuln/detail/CVE-2026-81630) | Critical | 9.2 | The Botslab G980H dash camera firmware does not adequately verify the authenticity of firmware updates. The update proc… |
+| 2026-09-24 21:18:50 | [CVE-2026-82585](https://nvd.nist.gov/vuln/detail/CVE-2026-82585) | High | 7.1 | The Botslab G980H dash camera firmware transmits sensitive information over unencrypted HTTP and RTSP connections. An a… |
+| 2026-09-24 21:18:50 | [CVE-2026-82708](https://nvd.nist.gov/vuln/detail/CVE-2026-82708) | High | 7.1 | The Botslab G980H dash camera firmware contains a path traversal vulnerability in its HTTP server. An attacker with acc… |
+| 2026-09-24 21:18:50 | [CVE-2026-82716](https://nvd.nist.gov/vuln/detail/CVE-2026-82716) | Medium | 5.1 | The Botslab G980H dash camera firmware includes sensitive configuration information, including WiFi credentials, in dia… |
+| 2026-09-24 21:18:55 | [CVE-2026-84403](https://nvd.nist.gov/vuln/detail/CVE-2026-84403) | Medium | 6.9 | The Botslab G980H dash camera firmware does not require authenticated pairing or client binding before permitting acces… |
+| 2026-09-24 21:18:56 | [CVE-2026-87118](https://nvd.nist.gov/vuln/detail/CVE-2026-87118) | Medium | 6.9 | The Botslab G980H dash camera firmware contains an out of bounds write vulnerability in its command processing function… |
+| 2026-09-24 21:18:57 | [CVE-2026-88386](https://nvd.nist.gov/vuln/detail/CVE-2026-88386) |  |  | libsndfile 1.2.2 contains a misaligned memory access issue in psf_binheader_readf() while parsing WAV fmt chunks. A spe… |
+| 2026-09-24 21:18:57 | [CVE-2026-88387](https://nvd.nist.gov/vuln/detail/CVE-2026-88387) |  |  | LibRaw 0.22.0 contains an incorrect numeric conversion vulnerability in LibRaw::parse_tiff_ifd() when processing TIFF t… |
+| 2026-09-24 21:18:57 | [CVE-2026-88388](https://nvd.nist.gov/vuln/detail/CVE-2026-88388) |  |  | Espruino 2v29 (commit bffc6d0) contains a stack-based buffer overflow vulnerability in the JavaScript error stack-trace… |
 
 ## Data source
 
