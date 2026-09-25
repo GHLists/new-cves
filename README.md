@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 04:19 UTC
+## Latest list — 2026-09-25 05:20 UTC
 
-New CVEs published between 2026-09-25 03:19 UTC and 2026-09-25 04:19 UTC.
+New CVEs published between 2026-09-25 04:19 UTC and 2026-09-25 05:20 UTC.
 
-[Full CSV](data/new-cves-2026-09-25T04-19-01-156753Z.csv)
+[Full CSV](data/new-cves-2026-09-25T05-20-12-634395Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-25 04:17:31 | [CVE-2025-14814](https://nvd.nist.gov/vuln/detail/CVE-2025-14814) | Medium | 6.4 | The CSS & JavaScript Toolbox plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's cjtoolb… |
-| 2026-09-25 04:17:50 | [CVE-2026-97732](https://nvd.nist.gov/vuln/detail/CVE-2026-97732) | Medium | 5.1 | IRONMACE Ironshield 1.0.0.167 has a tvk.sys kernel-mode driver that authenticates client executables by checking for ex… |
-| 2026-09-25 04:17:50 | [CVE-2026-97735](https://nvd.nist.gov/vuln/detail/CVE-2026-97735) | High | 8.0 | ITFlow before 26.08 allows SVG attachments in the ticket email parser (cron/ticket_email_parser.php) for email messages… |
-| 2026-09-25 04:17:50 | [CVE-2026-97736](https://nvd.nist.gov/vuln/detail/CVE-2026-97736) | Medium | 5.4 | tinyauth before 5.1.3 allows rule bypass by appending an allowed route string. This is caused by an unanchored regular… |
+| 2026-09-25 05:17:07 | [CVE-2026-97737](https://nvd.nist.gov/vuln/detail/CVE-2026-97737) | High | 7.4 | In Wakapi before 2.17.6, the user caching service allows a lookup to be resolved in an unintended lookup context, leadi… |
+| 2026-09-25 05:17:07 | [CVE-2026-97764](https://nvd.nist.gov/vuln/detail/CVE-2026-97764) | Low | 3.7 | django-allauth before 65.19.4 does not have the expected limits on failed login attempts because, in some common config… |
+| 2026-09-25 05:17:08 | [CVE-2026-97818](https://nvd.nist.gov/vuln/detail/CVE-2026-97818) | High | 8.6 | phpIPAM through 1.8.3 has incorrect authorization for id=="admins" and id=="all" in api/controllers/User.php. |
 
 ## Data source
 

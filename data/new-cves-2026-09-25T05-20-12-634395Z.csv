@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-25T05:17:07.76Z,CVE-2026-97737,HIGH,7.4,Received,CWE-843,3,"In Wakapi before 2.17.6, the user caching service allows a lookup to be resolved in an unintended lookup context, leading to account takeover."
+2026-09-25T05:17:07.953Z,CVE-2026-97764,LOW,3.7,Received,CWE-180,5,"django-allauth before 65.19.4 does not have the expected limits on failed login attempts because, in some common configurations, an attacker can leverage the handling of diacritics (e.g., accents) for a higher effective limit."
+2026-09-25T05:17:08.12Z,CVE-2026-97818,HIGH,8.6,Received,CWE-863,2,"phpIPAM through 1.8.3 has incorrect authorization for id==""admins"" and id==""all"" in api/controllers/User.php."
