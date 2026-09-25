@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 05:20 UTC
+## Latest list — 2026-09-25 06:19 UTC
 
-New CVEs published between 2026-09-25 04:19 UTC and 2026-09-25 05:20 UTC.
+New CVEs published between 2026-09-25 05:20 UTC and 2026-09-25 06:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-25T05-20-12-634395Z.csv)
+[Full CSV](data/new-cves-2026-09-25T06-19-17-306588Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-25 05:17:07 | [CVE-2026-97737](https://nvd.nist.gov/vuln/detail/CVE-2026-97737) | High | 7.4 | In Wakapi before 2.17.6, the user caching service allows a lookup to be resolved in an unintended lookup context, leadi… |
-| 2026-09-25 05:17:07 | [CVE-2026-97764](https://nvd.nist.gov/vuln/detail/CVE-2026-97764) | Low | 3.7 | django-allauth before 65.19.4 does not have the expected limits on failed login attempts because, in some common config… |
-| 2026-09-25 05:17:08 | [CVE-2026-97818](https://nvd.nist.gov/vuln/detail/CVE-2026-97818) | High | 8.6 | phpIPAM through 1.8.3 has incorrect authorization for id=="admins" and id=="all" in api/controllers/User.php. |
+| 2026-09-25 06:16:52 | [CVE-2026-97721](https://nvd.nist.gov/vuln/detail/CVE-2026-97721) | Low | 2.0 | A weakness has been identified in Sanluan PublicCMS up to 6.202506.e. This vulnerability affects the function CmsConten… |
 
 ## Data source
 
