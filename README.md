@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 03:19 UTC
+## Latest list — 2026-09-25 04:19 UTC
 
-New CVEs published between 2026-09-25 02:20 UTC and 2026-09-25 03:19 UTC.
+New CVEs published between 2026-09-25 03:19 UTC and 2026-09-25 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-25T03-19-43-665702Z.csv)
+[Full CSV](data/new-cves-2026-09-25T04-19-01-156753Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-25 03:16:59 | [CVE-2026-97650](https://nvd.nist.gov/vuln/detail/CVE-2026-97650) | Low | 2.1 | A vulnerability has been found in ningzichun student-management-system up to 98760f5711cf6dc8b4adca53a9e207ca49b02ebf.… |
-| 2026-09-25 03:16:59 | [CVE-2026-97724](https://nvd.nist.gov/vuln/detail/CVE-2026-97724) | Medium | 5.3 | A prototype pollution vulnerability in Software Mansion React Native Worklets before 0.12.2 allows an attacker-controll… |
-| 2026-09-25 03:16:59 | [CVE-2026-97730](https://nvd.nist.gov/vuln/detail/CVE-2026-97730) | High | 8.5 | In Netgate pfSense Plus before 26.07 and pfSense CE before 2.9.0, a Local File Inclusion (LFI) vulnerability in the Das… |
-| 2026-09-25 03:16:59 | [CVE-2026-97731](https://nvd.nist.gov/vuln/detail/CVE-2026-97731) | High | 7.1 | MinIO through 7aac2a2 does not verify that every x-amz-* header present on a request also appears in the client-supplie… |
+| 2026-09-25 04:17:31 | [CVE-2025-14814](https://nvd.nist.gov/vuln/detail/CVE-2025-14814) | Medium | 6.4 | The CSS & JavaScript Toolbox plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's cjtoolb… |
+| 2026-09-25 04:17:50 | [CVE-2026-97732](https://nvd.nist.gov/vuln/detail/CVE-2026-97732) | Medium | 5.1 | IRONMACE Ironshield 1.0.0.167 has a tvk.sys kernel-mode driver that authenticates client executables by checking for ex… |
+| 2026-09-25 04:17:50 | [CVE-2026-97735](https://nvd.nist.gov/vuln/detail/CVE-2026-97735) | High | 8.0 | ITFlow before 26.08 allows SVG attachments in the ticket email parser (cron/ticket_email_parser.php) for email messages… |
+| 2026-09-25 04:17:50 | [CVE-2026-97736](https://nvd.nist.gov/vuln/detail/CVE-2026-97736) | Medium | 5.4 | tinyauth before 5.1.3 allows rule bypass by appending an allowed route string. This is caused by an unanchored regular… |
 
 ## Data source
 
