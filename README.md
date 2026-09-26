@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 12:19 UTC
+## Latest list — 2026-09-26 13:19 UTC
 
-New CVEs published between 2026-09-26 11:19 UTC and 2026-09-26 12:19 UTC.
+New CVEs published between 2026-09-26 12:19 UTC and 2026-09-26 13:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-26T12-19-29-280412Z.csv)
+[Full CSV](data/new-cves-2026-09-26T13-19-01-96537Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-26 12:17:33 | [CVE-2026-100313](https://nvd.nist.gov/vuln/detail/CVE-2026-100313) | Low | 2.1 | A weakness has been identified in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
-| 2026-09-26 12:17:35 | [CVE-2026-100314](https://nvd.nist.gov/vuln/detail/CVE-2026-100314) | Medium | 5.5 | A security vulnerability has been detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494d… |
+| 2026-09-26 13:16:36 | [CVE-2026-100315](https://nvd.nist.gov/vuln/detail/CVE-2026-100315) | Medium | 5.5 | A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be.… |
 
 ## Data source
 
