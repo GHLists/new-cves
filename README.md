@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 08:19 UTC
+## Latest list — 2026-09-26 09:19 UTC
 
-New CVEs published between 2026-09-26 07:19 UTC and 2026-09-26 08:19 UTC.
+New CVEs published between 2026-09-26 08:19 UTC and 2026-09-26 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-26T08-19-43-602879Z.csv)
+[Full CSV](data/new-cves-2026-09-26T09-19-52-182543Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-26 08:16:32 | [CVE-2026-100311](https://nvd.nist.gov/vuln/detail/CVE-2026-100311) | Low | 2.0 | A vulnerability was identified in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
+| 2026-09-26 09:16:37 | [CVE-2026-100312](https://nvd.nist.gov/vuln/detail/CVE-2026-100312) | Low | 2.1 | A security flaw has been discovered in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b… |
+| 2026-09-26 09:16:38 | [CVE-2026-98163](https://nvd.nist.gov/vuln/detail/CVE-2026-98163) |  |  | In the Linux kernel, the following vulnerability has been resolved: cgroup: Avoid iteration of dying tasks with zero re… |
 
 ## Data source
 
