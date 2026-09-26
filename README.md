@@ -9,15 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 19:18 UTC
+## Latest list — 2026-09-26 21:19 UTC
 
-New CVEs published between 2026-09-26 18:18 UTC and 2026-09-26 19:18 UTC.
+New CVEs published between 2026-09-26 20:19 UTC and 2026-09-26 21:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-26T19-18-52-645643Z.csv)
+[Full CSV](data/new-cves-2026-09-26T21-19-13-400189Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-26 19:16:28 | [CVE-2026-82901](https://nvd.nist.gov/vuln/detail/CVE-2026-82901) | Critical | 9.8 | The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient fil… |
+| 2026-09-26 21:16:55 | [CVE-2026-72662](https://nvd.nist.gov/vuln/detail/CVE-2026-72662) | Medium | 6.3 | Authorization Bypass Through User-Controlled Key (CWE-639) in Kibana can lead to unauthorized disclosure, modification,… |
+| 2026-09-26 21:16:55 | [CVE-2026-72668](https://nvd.nist.gov/vuln/detail/CVE-2026-72668) | High | 7.3 | Unintended Proxy or Intermediary ('Confused Deputy') (CWE-441) in Kibana Agent Builder can lead to privilege escalation… |
+| 2026-09-26 21:16:55 | [CVE-2026-78582](https://nvd.nist.gov/vuln/detail/CVE-2026-78582) | Medium | 6.5 | Missing Authorization (CWE-862) in Kibana can lead to unauthorized deletion of data via Exploiting Incorrectly Configur… |
+| 2026-09-26 21:16:55 | [CVE-2026-82294](https://nvd.nist.gov/vuln/detail/CVE-2026-82294) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CA… |
+| 2026-09-26 21:16:55 | [CVE-2026-82300](https://nvd.nist.gov/vuln/detail/CVE-2026-82300) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead to denial of service via Excessive Allocation (CA… |
+| 2026-09-26 21:16:56 | [CVE-2026-94396](https://nvd.nist.gov/vuln/detail/CVE-2026-94396) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC… |
+| 2026-09-26 21:16:56 | [CVE-2026-94397](https://nvd.nist.gov/vuln/detail/CVE-2026-94397) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC… |
+| 2026-09-26 21:16:56 | [CVE-2026-94398](https://nvd.nist.gov/vuln/detail/CVE-2026-94398) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC… |
+| 2026-09-26 21:16:56 | [CVE-2026-94399](https://nvd.nist.gov/vuln/detail/CVE-2026-94399) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC… |
+| 2026-09-26 21:16:56 | [CVE-2026-94400](https://nvd.nist.gov/vuln/detail/CVE-2026-94400) | Medium | 6.5 | Uncontrolled Resource Consumption (CWE-400) in Kibana can lead denial of service via Excessive Allocation (CAPEC-130) |
+| 2026-09-26 21:16:56 | [CVE-2026-94408](https://nvd.nist.gov/vuln/detail/CVE-2026-94408) | Medium | 4.9 | Uncontrolled Resource Consumption (CWE-400) in Elasticsearch can lead denial of service via Excessive Allocation (CAPEC… |
 
 ## Data source
 
