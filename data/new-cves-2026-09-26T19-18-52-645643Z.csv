@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-26T19:16:28.427Z,CVE-2026-82901,CRITICAL,9.8,Received,CWE-434,7,"The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient file type validation in the 'uacf7_wpcf7_mail_components' function in all versions up to, and including, 3.5.50. This makes it possible for unauthenticated attackers to upload arbitra…"

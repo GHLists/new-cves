@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 18:18 UTC
+## Latest list — 2026-09-26 19:18 UTC
 
-New CVEs published between 2026-09-26 17:19 UTC and 2026-09-26 18:18 UTC.
+New CVEs published between 2026-09-26 18:18 UTC and 2026-09-26 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-26T18-18-53-19127Z.csv)
+[Full CSV](data/new-cves-2026-09-26T19-18-52-645643Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-26 18:16:29 | [CVE-2026-77203](https://nvd.nist.gov/vuln/detail/CVE-2026-77203) | High | 8.8 | The Groups – Memberships and Access Control plugin for WordPress is vulnerable to Privilege Escalation in all versions… |
-| 2026-09-26 18:16:31 | [CVE-2026-85984](https://nvd.nist.gov/vuln/detail/CVE-2026-85984) | Critical | 9.8 | The miniOrange OTP Login, Verification and SMS Notifications plugin for WordPress is vulnerable to Authentication Bypas… |
+| 2026-09-26 19:16:28 | [CVE-2026-82901](https://nvd.nist.gov/vuln/detail/CVE-2026-82901) | Critical | 9.8 | The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient fil… |
 
 ## Data source
 
