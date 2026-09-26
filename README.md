@@ -9,17 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-25 23:19 UTC
+## Latest list — 2026-09-26 01:18 UTC
 
-New CVEs published between 2026-09-25 22:19 UTC and 2026-09-25 23:19 UTC.
+New CVEs published between 2026-09-26 00:19 UTC and 2026-09-26 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-25T23-19-12-944137Z.csv)
+[Full CSV](data/new-cves-2026-09-26T01-18-56-192096Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-25 23:16:53 | [CVE-2026-57449](https://nvd.nist.gov/vuln/detail/CVE-2026-57449) | High | 7.1 | Actual is a local-first personal finance tool. Prior to 26.7.0, Actual Sync Server's CORS proxy is intended to let auth… |
-| 2026-09-25 23:16:54 | [CVE-2026-86066](https://nvd.nist.gov/vuln/detail/CVE-2026-86066) | Medium | 5.9 | Horilla is an HR and CRM software. Prior to 2.0.0, approve_validate_attendance_request at /attendance/approve-validate-… |
-| 2026-09-25 23:16:55 | [CVE-2026-96795](https://nvd.nist.gov/vuln/detail/CVE-2026-96795) | High | 8.8 | Horilla is an HR and CRM software. Prior to 2.0.0, HorillaListView.export_data in horilla_views/generic/cbv/views.py ac… |
+| 2026-09-26 01:16:59 | [CVE-2026-100503](https://nvd.nist.gov/vuln/detail/CVE-2026-100503) | Medium | 4.8 | Ghidra versions through 12.1.4 contain a heap use-after-free vulnerability in the decompiler's Funcdata::opInsertAfter… |
+| 2026-09-26 01:17:00 | [CVE-2026-100504](https://nvd.nist.gov/vuln/detail/CVE-2026-100504) | High | 7.3 | Ghidra versions through 12.1.4 contain a stack-based out-of-bounds write vulnerability in the decompiler's leftshift128… |
+| 2026-09-26 01:17:00 | [CVE-2026-100505](https://nvd.nist.gov/vuln/detail/CVE-2026-100505) | Medium | 4.8 | Ghidra versions 11.2 through 12.1.4 contain a heap out-of-bounds read vulnerability in StringManager::getCodepoint when… |
+| 2026-09-26 01:17:00 | [CVE-2026-100520](https://nvd.nist.gov/vuln/detail/CVE-2026-100520) | High | 8.7 | Laranode versions before 1.2.1 contain a path traversal vulnerability in the POST /filemanager/upload-file endpoint tha… |
+| 2026-09-26 01:17:00 | [CVE-2026-100521](https://nvd.nist.gov/vuln/detail/CVE-2026-100521) | Medium | 5.1 | Cotonti through 1.0.0 contains a reflected cross-site scripting vulnerability in the search plugin highlight parameter… |
+| 2026-09-26 01:17:00 | [CVE-2026-100522](https://nvd.nist.gov/vuln/detail/CVE-2026-100522) | Medium | 5.1 | Cotonti through 1.0.0 contains a reflected cross-site scripting vulnerability in message.php where the lng parameter is… |
+| 2026-09-26 01:17:00 | [CVE-2026-100523](https://nvd.nist.gov/vuln/detail/CVE-2026-100523) | Medium | 5.1 | Cotonti through 1.0.0 contains an open redirect vulnerability in message.php that base64-decodes the redirect parameter… |
+| 2026-09-26 01:17:01 | [CVE-2026-100524](https://nvd.nist.gov/vuln/detail/CVE-2026-100524) | Medium | 5.3 | Cotonti through 1.0.0 contains a cross-site request forgery vulnerability in the extensions manager that allows attacke… |
 
 ## Data source
 
