@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-26 22:19 UTC
+## Latest list — 2026-09-27 01:19 UTC
 
-New CVEs published between 2026-09-26 21:19 UTC and 2026-09-26 22:19 UTC.
+New CVEs published between 2026-09-27 00:18 UTC and 2026-09-27 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-26T22-19-50-903618Z.csv)
+[Full CSV](data/new-cves-2026-09-27T01-19-08-305052Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-26 22:16:31 | [CVE-2026-100739](https://nvd.nist.gov/vuln/detail/CVE-2026-100739) | Medium | 5.5 | A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be.… |
+| 2026-09-27 01:17:17 | [CVE-2026-100740](https://nvd.nist.gov/vuln/detail/CVE-2026-100740) | High | 8.6 | A vulnerability was detected in D-Link DIR-895L A1_102b07. Impacted is the function tunnel_set_params of the file tunne… |
 
 ## Data source
 
