@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 22:21 UTC
+## Latest list — 2026-09-27 23:19 UTC
 
-New CVEs published between 2026-09-27 21:18 UTC and 2026-09-27 22:21 UTC.
+New CVEs published between 2026-09-27 22:21 UTC and 2026-09-27 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T22-21-10-531312Z.csv)
+[Full CSV](data/new-cves-2026-09-27T23-19-02-907395Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 22:17:05 | [CVE-2026-100881](https://nvd.nist.gov/vuln/detail/CVE-2026-100881) | Low | 1.2 | A security vulnerability has been detected in zhistaredu StarTraining up to 3.8.1. This issue affects some unknown proc… |
-| 2026-09-27 22:17:06 | [CVE-2026-100882](https://nvd.nist.gov/vuln/detail/CVE-2026-100882) | Low | 1.9 | A vulnerability was detected in Krayin laravel-crm up to 2.2.5. Impacted is an unknown function of the file packages/We… |
-| 2026-09-27 22:17:06 | [CVE-2026-96282](https://nvd.nist.gov/vuln/detail/CVE-2026-96282) | Low | 3.1 | A malicious Flatpak extension can probe the host filesystem to determine what files and directories exist at arbitrary… |
-| 2026-09-27 22:17:06 | [CVE-2026-96283](https://nvd.nist.gov/vuln/detail/CVE-2026-96283) | Low | 3.3 | By calling org.freedesktop.Flatpak.SystemHelper.CancelPull on another user's pull, the pull is not actually cancelled b… |
+| 2026-09-27 23:16:58 | [CVE-2026-100883](https://nvd.nist.gov/vuln/detail/CVE-2026-100883) | Low | 2.1 | A flaw has been found in Krayin laravel-crm up to 2.2.5. The affected element is an unknown function of the file packag… |
+| 2026-09-27 23:16:58 | [CVE-2026-100884](https://nvd.nist.gov/vuln/detail/CVE-2026-100884) | Low | 2.1 | A vulnerability has been found in Krayin laravel-crm up to 2.2.5. The impacted element is the function Storage::downloa… |
+| 2026-09-27 23:16:58 | [CVE-2026-100885](https://nvd.nist.gov/vuln/detail/CVE-2026-100885) | Medium | 5.5 | A vulnerability was found in Krayin laravel-crm up to 2.2.4. This affects an unknown function of the file packages/Webk… |
+| 2026-09-27 23:16:59 | [CVE-2026-100886](https://nvd.nist.gov/vuln/detail/CVE-2026-100886) | Critical | 9.3 | A vulnerability was identified in Seetong T8108, T8108P, T8116 and T8232 4.6.1.4-build202604241011. The affected elemen… |
+| 2026-09-27 23:17:01 | [CVE-2026-96284](https://nvd.nist.gov/vuln/detail/CVE-2026-96284) | Low | 2.5 | A malicious user can get read-access to files in the flatpak-system-helper context if a system OCI repository is config… |
 
 ## Data source
 
