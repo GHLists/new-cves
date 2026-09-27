@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-27T08:16:26.813Z,CVE-2026-100741,CRITICAL,9.8,Received,CWE-95,2,"Eval injection in the JScript event-script dispatcher in Progressive Robot Ltd's hMailServer, versions 6.0.0 through 6.3.3 on Windows, allows a remote, unauthenticated attacker to run arbitrary JScript inside the hMailServer service process, with the privileges of the service account, via a passwor…"
