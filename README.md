@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 19:19 UTC
+## Latest list — 2026-09-27 20:20 UTC
 
-New CVEs published between 2026-09-27 18:19 UTC and 2026-09-27 19:19 UTC.
+New CVEs published between 2026-09-27 19:19 UTC and 2026-09-27 20:20 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T19-19-01-483683Z.csv)
+[Full CSV](data/new-cves-2026-09-27T20-20-06-616563Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 19:16:53 | [CVE-2026-100873](https://nvd.nist.gov/vuln/detail/CVE-2026-100873) | Low | 2.1 | A vulnerability was detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be.… |
-| 2026-09-27 19:16:53 | [CVE-2026-100874](https://nvd.nist.gov/vuln/detail/CVE-2026-100874) | Medium | 5.5 | A flaw has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. This a… |
-| 2026-09-27 19:16:54 | [CVE-2026-100875](https://nvd.nist.gov/vuln/detail/CVE-2026-100875) | Medium | 5.5 | A vulnerability has been found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
+| 2026-09-27 20:16:48 | [CVE-2026-100876](https://nvd.nist.gov/vuln/detail/CVE-2026-100876) | Low | 2.1 | A vulnerability was found in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7be. Af… |
+| 2026-09-27 20:16:53 | [CVE-2026-96279](https://nvd.nist.gov/vuln/detail/CVE-2026-96279) | Medium | 6.5 | A malicious OCI registry can hardlink arbitrary host files into the extraction directory when a user installs or update… |
 
 ## Data source
 
