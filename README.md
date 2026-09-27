@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 14:19 UTC
+## Latest list — 2026-09-27 15:21 UTC
 
-New CVEs published between 2026-09-27 13:19 UTC and 2026-09-27 14:19 UTC.
+New CVEs published between 2026-09-27 14:19 UTC and 2026-09-27 15:21 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T14-19-38-115834Z.csv)
+[Full CSV](data/new-cves-2026-09-27T15-21-52-837621Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 14:16:28 | [CVE-2026-101032](https://nvd.nist.gov/vuln/detail/CVE-2026-101032) | High | 7.3 | navi through 2.24.0 fails to properly escape cheatsheet variable values when substituting them into shell commands. Att… |
-| 2026-09-27 14:16:29 | [CVE-2026-101033](https://nvd.nist.gov/vuln/detail/CVE-2026-101033) | Medium | 5.3 | KitchenOwl through 0.7.10 fails to verify that category IDs belong to the caller's household in expense and item operat… |
+| 2026-09-27 15:16:27 | [CVE-2026-101041](https://nvd.nist.gov/vuln/detail/CVE-2026-101041) | Medium | 6.3 | The account recovery (password reset) functionality in the vulnerability-lookup web application contains a time-of-chec… |
 
 ## Data source
 
