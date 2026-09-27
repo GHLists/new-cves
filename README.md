@@ -9,25 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 17:20 UTC
+## Latest list — 2026-09-27 18:19 UTC
 
-New CVEs published between 2026-09-27 16:18 UTC and 2026-09-27 17:20 UTC.
+New CVEs published between 2026-09-27 17:20 UTC and 2026-09-27 18:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T17-20-42-329928Z.csv)
+[Full CSV](data/new-cves-2026-09-27T18-19-12-351584Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 17:16:55 | [CVE-2026-101042](https://nvd.nist.gov/vuln/detail/CVE-2026-101042) | High | 7.4 | Parse Server is an open-source backend server. In versions >= 9.0.0 < 9.10.1-alpha.10 and >= 8.0.2 < 8.6.91, the code-b… |
-| 2026-09-27 17:16:55 | [CVE-2026-101049](https://nvd.nist.gov/vuln/detail/CVE-2026-101049) | High | 8.3 | Heym before 0.0.53 fails to verify Slack request signatures when trigger nodes lack credential IDs or have empty signin… |
-| 2026-09-27 17:16:56 | [CVE-2026-101050](https://nvd.nist.gov/vuln/detail/CVE-2026-101050) | High | 8.3 | Heym before 0.0.53 fails to verify the X-Telegram-Bot-Api-Secret-Token header on Telegram webhook endpoints when creden… |
-| 2026-09-27 17:16:56 | [CVE-2026-88771](https://nvd.nist.gov/vuln/detail/CVE-2026-88771) | Critical | 9.5 | Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: b… |
-| 2026-09-27 17:16:56 | [CVE-2026-88772](https://nvd.nist.gov/vuln/detail/CVE-2026-88772) | Critical | 9.5 | Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: before 14.1-73.37, before 1… |
-| 2026-09-27 17:16:56 | [CVE-2026-88773](https://nvd.nist.gov/vuln/detail/CVE-2026-88773) | Critical | 9.3 | Inconsistent interpretation of HTTP requests ('HTTP Request/Response smuggling') vulnerability in Citrix NetScaler ADC… |
-| 2026-09-27 17:16:56 | [CVE-2026-88774](https://nvd.nist.gov/vuln/detail/CVE-2026-88774) | High | 7.0 | Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: before 14.1-73.37, before 1… |
-| 2026-09-27 17:16:56 | [CVE-2026-88775](https://nvd.nist.gov/vuln/detail/CVE-2026-88775) | High | 8.8 | Memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects ADC: before 14.1… |
-| 2026-09-27 17:16:56 | [CVE-2026-88776](https://nvd.nist.gov/vuln/detail/CVE-2026-88776) | High | 8.8 | Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects AD… |
-| 2026-09-27 17:16:56 | [CVE-2026-88777](https://nvd.nist.gov/vuln/detail/CVE-2026-88777) | High | 8.8 | Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This issue affects AD… |
-| 2026-09-27 17:16:57 | [CVE-2026-88778](https://nvd.nist.gov/vuln/detail/CVE-2026-88778) | High | 8.8 | Predictable exact value from previous values vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway. This i… |
+| 2026-09-27 18:16:29 | [CVE-2026-101043](https://nvd.nist.gov/vuln/detail/CVE-2026-101043) | High | 8.3 | pnpm versions 11.0.0 before 11.11.0 and 10.7.0 before 10.34.5 expand ${VAR} environment-variable placeholders in the ht… |
+| 2026-09-27 18:16:30 | [CVE-2026-101044](https://nvd.nist.gov/vuln/detail/CVE-2026-101044) | High | 7.1 | pacquet, the Rust package-manager component shipped in the pnpm npm package versions >=12.0.0-alpha.0 and <12.0.0-alpha… |
+| 2026-09-27 18:16:30 | [CVE-2026-101045](https://nvd.nist.gov/vuln/detail/CVE-2026-101045) | High | 8.9 | Fleet-maintained app install and uninstall scripts for macOS are generated from Homebrew cask metadata. In manifests ge… |
+| 2026-09-27 18:16:31 | [CVE-2026-101046](https://nvd.nist.gov/vuln/detail/CVE-2026-101046) | Low | 2.3 | Fleet before 4.89.0 contains an SQL injection vulnerability in the activity list endpoints (GET /api/v1/fleet/activitie… |
+| 2026-09-27 18:16:31 | [CVE-2026-101047](https://nvd.nist.gov/vuln/detail/CVE-2026-101047) | Medium | 6.9 | Fleet before 4.87.0 does not protect the two endpoints that serve in-house iOS application packages and manifests (ente… |
+| 2026-09-27 18:16:31 | [CVE-2026-101048](https://nvd.nist.gov/vuln/detail/CVE-2026-101048) | Medium | 5.3 | Cloudreve before 4.17.0 registers the administrative node test endpoints (POST /api/v4/admin/node/test and POST /api/v4… |
+| 2026-09-27 18:16:31 | [CVE-2026-101051](https://nvd.nist.gov/vuln/detail/CVE-2026-101051) | Low | 2.3 | Cloudreve before 4.16.1 fails to properly sanitize file paths returned by remote downloaders, allowing authenticated us… |
+| 2026-09-27 18:16:31 | [CVE-2026-101056](https://nvd.nist.gov/vuln/detail/CVE-2026-101056) | Medium | 6.9 | Cloudreve before 4.16.1 fails to revalidate share access when restoring cached navigator state from a context_hint UUID… |
+| 2026-09-27 18:16:31 | [CVE-2026-101057](https://nvd.nist.gov/vuln/detail/CVE-2026-101057) | Low | 2.3 | utcp-mcp (the MCP plugin of python-utcp) through 1.1.2 connects to the HTTP and WebSocket MCP server URLs given in a ca… |
+| 2026-09-27 18:16:31 | [CVE-2026-101058](https://nvd.nist.gov/vuln/detail/CVE-2026-101058) | High | 7.1 | python-utcp (pip package utcp-http) before 1.1.12 does not verify whether tool URLs declared in a hand-written UTCP man… |
+| 2026-09-27 18:16:32 | [CVE-2026-101059](https://nvd.nist.gov/vuln/detail/CVE-2026-101059) | High | 7.1 | utcp-http before 1.1.4 fails to validate the OAuth2 tokenUrl field from remote OpenAPI specifications, allowing attacke… |
+| 2026-09-27 18:16:32 | [CVE-2026-101060](https://nvd.nist.gov/vuln/detail/CVE-2026-101060) | High | 8.4 | python-utcp versions before 1.1.4 contain a server-side request forgery vulnerability in HttpCommunicationProtocol.call… |
+| 2026-09-27 18:16:32 | [CVE-2026-101061](https://nvd.nist.gov/vuln/detail/CVE-2026-101061) | Low | 2.3 | utcp-gql before 1.1.1 and utcp-websocket before 1.1.1 contain server-side request forgery vulnerabilities due to incomp… |
 
 ## Data source
 
