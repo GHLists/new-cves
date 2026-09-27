@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 08:19 UTC
+## Latest list — 2026-09-27 09:19 UTC
 
-New CVEs published between 2026-09-27 07:20 UTC and 2026-09-27 08:19 UTC.
+New CVEs published between 2026-09-27 08:19 UTC and 2026-09-27 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T08-19-38-874328Z.csv)
+[Full CSV](data/new-cves-2026-09-27T09-19-15-48062Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 08:16:26 | [CVE-2026-100741](https://nvd.nist.gov/vuln/detail/CVE-2026-100741) | Critical | 9.8 | Eval injection in the JScript event-script dispatcher in Progressive Robot Ltd's hMailServer, versions 6.0.0 through 6.… |
+| 2026-09-27 09:16:36 | [CVE-2026-94418](https://nvd.nist.gov/vuln/detail/CVE-2026-94418) | Low | 2.3 | Under WOLFSSL_SMALL_CERT_VERIFY, ProcessPeerCertParse() runs the certificate signature check separately from the parse… |
+| 2026-09-27 09:16:36 | [CVE-2026-94419](https://nvd.nist.gov/vuln/detail/CVE-2026-94419) | Low | 2.3 | Without NO_SESSION_CACHE_REF, wolfSSL_get_session() does not return a session object but a ClientSession reference of t… |
 
 ## Data source
 
