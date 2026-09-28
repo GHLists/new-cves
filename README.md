@@ -9,35 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 08:20 UTC
+## Latest list — 2026-09-28 09:18 UTC
 
-New CVEs published between 2026-09-28 07:18 UTC and 2026-09-28 08:20 UTC.
+New CVEs published between 2026-09-28 08:20 UTC and 2026-09-28 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T08-20-17-721775Z.csv)
+[Full CSV](data/new-cves-2026-09-28T09-18-57-98068Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 08:16:36 | [CVE-2026-101010](https://nvd.nist.gov/vuln/detail/CVE-2026-101010) | Low | 2.0 | A vulnerability was identified in aaPanel BaoTa up to 11.8.0. The impacted element is the function getData of the file… |
-| 2026-09-28 08:16:36 | [CVE-2026-101011](https://nvd.nist.gov/vuln/detail/CVE-2026-101011) | Low | 2.0 | A security flaw has been discovered in aaPanel BaoTa up to 11.8.0. This affects the function get_domain_status of the f… |
-| 2026-09-28 08:16:37 | [CVE-2026-101012](https://nvd.nist.gov/vuln/detail/CVE-2026-101012) | Medium | 5.5 | A weakness has been identified in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
-| 2026-09-28 08:16:37 | [CVE-2026-101013](https://nvd.nist.gov/vuln/detail/CVE-2026-101013) | Medium | 5.5 | A security vulnerability has been detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494d… |
-| 2026-09-28 08:16:40 | [CVE-2026-82348](https://nvd.nist.gov/vuln/detail/CVE-2026-82348) | High | 7.7 | Authorization Bypass Through User-Controlled Key in Apache Roller 6.1.5 allows an authenticated user with authoring rig… |
-| 2026-09-28 08:16:41 | [CVE-2026-82375](https://nvd.nist.gov/vuln/detail/CVE-2026-82375) | High | 7.4 | Server-Side Request Forgery (SSRF) in Apache Roller 6.1.5 allows an authenticated user with entry-editing rights on a w… |
-| 2026-09-28 08:16:41 | [CVE-2026-82376](https://nvd.nist.gov/vuln/detail/CVE-2026-82376) | High | 7.7 | Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a user with entry-editing rights on… |
-| 2026-09-28 08:16:41 | [CVE-2026-82377](https://nvd.nist.gov/vuln/detail/CVE-2026-82377) | Critical | 9.9 | Missing Authorization in Apache Roller 6.1.5 allows an authenticated user to read, modify, or delete weblog content bel… |
-| 2026-09-28 08:16:41 | [CVE-2026-82378](https://nvd.nist.gov/vuln/detail/CVE-2026-82378) | Critical | 9.0 | Incorrect Authorization in the OAuth 1.0a authorization endpoint of Apache Roller 6.1.5 allows an unauthenticated remot… |
-| 2026-09-28 08:16:41 | [CVE-2026-82379](https://nvd.nist.gov/vuln/detail/CVE-2026-82379) | High | 7.7 | Authentication Bypass by Capture-replay in Apache Roller 6.1.5 allows an attacker who captures a valid WSSE digest auth… |
-| 2026-09-28 08:16:41 | [CVE-2026-82380](https://nvd.nist.gov/vuln/detail/CVE-2026-82380) | High | 8.1 | Cross-Site Request Forgery (CSRF) in Apache Roller 6.1.5 allows a remote attacker to cause a logged-in user to perform… |
-| 2026-09-28 08:16:41 | [CVE-2026-82381](https://nvd.nist.gov/vuln/detail/CVE-2026-82381) | Medium | 5.4 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a us… |
-| 2026-09-28 08:16:42 | [CVE-2026-82382](https://nvd.nist.gov/vuln/detail/CVE-2026-82382) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a re… |
-| 2026-09-28 08:16:42 | [CVE-2026-82383](https://nvd.nist.gov/vuln/detail/CVE-2026-82383) | High | 8.2 | Missing Authentication for Critical Function in Apache Roller 6.1.5 allows an unauthenticated remote attacker to persis… |
-| 2026-09-28 08:16:42 | [CVE-2026-82384](https://nvd.nist.gov/vuln/detail/CVE-2026-82384) | Critical | 9.8 | Deserialization of Untrusted Data in Apache Roller 6.1.5 allows an unauthenticated remote attacker to cause deserializa… |
-| 2026-09-28 08:16:42 | [CVE-2026-82385](https://nvd.nist.gov/vuln/detail/CVE-2026-82385) | Medium | 6.5 | Exposure of Sensitive Information to an Unauthorized Actor in Apache Roller 6.1.5 allows a weblog administrator to read… |
-| 2026-09-28 08:16:42 | [CVE-2026-82386](https://nvd.nist.gov/vuln/detail/CVE-2026-82386) | High | 7.7 | Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a weblog administrator to read file… |
-| 2026-09-28 08:16:42 | [CVE-2026-82387](https://nvd.nist.gov/vuln/detail/CVE-2026-82387) | Medium | 5.4 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a us… |
-| 2026-09-28 08:16:42 | [CVE-2026-82546](https://nvd.nist.gov/vuln/detail/CVE-2026-82546) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows an u… |
-| 2026-09-28 08:16:42 | [CVE-2026-91204](https://nvd.nist.gov/vuln/detail/CVE-2026-91204) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows an a… |
-| 2026-09-28 08:16:43 | [CVE-2026-91206](https://nvd.nist.gov/vuln/detail/CVE-2026-91206) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a re… |
+| 2026-09-28 09:17:03 | [CVE-2026-101014](https://nvd.nist.gov/vuln/detail/CVE-2026-101014) | Medium | 5.5 | A vulnerability was detected in Trusted Domain Project OpenDMARC up to 1.4.2. Affected by this vulnerability is the fun… |
+| 2026-09-28 09:17:05 | [CVE-2026-101015](https://nvd.nist.gov/vuln/detail/CVE-2026-101015) | Medium | 5.5 | A flaw has been found in Trusted Domain Project OpenDMARC up to 1.4.2. Affected by this issue is some unknown functiona… |
+| 2026-09-28 09:17:05 | [CVE-2026-101016](https://nvd.nist.gov/vuln/detail/CVE-2026-101016) | Medium | 5.5 | A vulnerability has been found in Trusted Domain Project OpenDMARC up to 1.4.2. This affects the function opendmarc_pol… |
+| 2026-09-28 09:17:05 | [CVE-2026-101017](https://nvd.nist.gov/vuln/detail/CVE-2026-101017) | Medium | 5.5 | A vulnerability was found in Trusted Domain Project OpenDMARC up to 1.4.2. This vulnerability affects the function strc… |
+| 2026-09-28 09:17:07 | [CVE-2026-82915](https://nvd.nist.gov/vuln/detail/CVE-2026-82915) | Medium | 6.5 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Bimser Solution Softwar… |
+| 2026-09-28 09:17:07 | [CVE-2026-82969](https://nvd.nist.gov/vuln/detail/CVE-2026-82969) | Medium | 5.4 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Bimser Solution S… |
+| 2026-09-28 09:17:07 | [CVE-2026-85134](https://nvd.nist.gov/vuln/detail/CVE-2026-85134) | High | 8.8 | Unrestricted upload of file with dangerous type vulnerability in Bimser Solution Software Trade Inc. EBA Plus Document… |
+| 2026-09-28 09:17:07 | [CVE-2026-86507](https://nvd.nist.gov/vuln/detail/CVE-2026-86507) | Medium | 6.1 | Improper neutralization of input in Apache Roller 6.1.5 allows an anonymous remote attacker to store a crafted comment-… |
+| 2026-09-28 09:17:07 | [CVE-2026-86530](https://nvd.nist.gov/vuln/detail/CVE-2026-86530) | High | 8.6 | BUFFALO Wi-Fi products handle some web form input improperly to assemble command line strings internally. An administra… |
+| 2026-09-28 09:17:08 | [CVE-2026-94282](https://nvd.nist.gov/vuln/detail/CVE-2026-94282) | Medium | 5.6 | An out-of-bounds read in libXi's XI2 enter/leave/focus cookie conversion in libXi before 1.8.4 could be used by malicio… |
+| 2026-09-28 09:17:08 | [CVE-2026-94283](https://nvd.nist.gov/vuln/detail/CVE-2026-94283) | Medium | 6.5 | An out-of-bounds read vulnerability in libX11's XIM (X Input Method) attribute parser in libX11 before 1.8.14 could be… |
+| 2026-09-28 09:17:08 | [CVE-2026-94284](https://nvd.nist.gov/vuln/detail/CVE-2026-94284) | Medium | 5.5 | An out-of-bounds read vulnerability in libX11's XIM trigger-key registration parser in libX11 before 1.8.14 could be us… |
+| 2026-09-28 09:17:08 | [CVE-2026-94285](https://nvd.nist.gov/vuln/detail/CVE-2026-94285) | Medium | 5.1 | An out-of-bounds read in libX11's byte-oriented codeset parser in libX11 before 1.8.14 could be used by malicious X ser… |
+| 2026-09-28 09:17:08 | [CVE-2026-94286](https://nvd.nist.gov/vuln/detail/CVE-2026-94286) | High | 7.1 | An out-of-bounds read in libXtst's RECORD reply parser in libXtst before 1.2.6 could be used by malicious X servers to… |
+| 2026-09-28 09:17:08 | [CVE-2026-94287](https://nvd.nist.gov/vuln/detail/CVE-2026-94287) | Medium | 5.5 | A denial of service via unsigned underflow in libXpm's write path in libXpm before 3.5.19 could be used by local attack… |
+| 2026-09-28 09:17:08 | [CVE-2026-95104](https://nvd.nist.gov/vuln/detail/CVE-2026-95104) | High | 8.7 | Stack-based buffer overflow vulnerability exists in BUFFALO Wi-Fi products. A non-authenticated crafted HTTP request ma… |
 
 ## Data source
 
