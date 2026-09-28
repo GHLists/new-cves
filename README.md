@@ -9,27 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 16:18 UTC
+## Latest list — 2026-09-28 17:19 UTC
 
-New CVEs published between 2026-09-28 15:19 UTC and 2026-09-28 16:18 UTC.
+New CVEs published between 2026-09-28 16:18 UTC and 2026-09-28 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T16-18-56-233619Z.csv)
+[Full CSV](data/new-cves-2026-09-28T17-19-30-272013Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 16:17:11 | [CVE-2026-101076](https://nvd.nist.gov/vuln/detail/CVE-2026-101076) | Critical | 9.3 | A vulnerability was detected in Netcore NR289-GE 1.4.5102. This affects the function system of the file /set_ntp_server… |
-| 2026-09-28 16:17:12 | [CVE-2026-101077](https://nvd.nist.gov/vuln/detail/CVE-2026-101077) | Critical | 9.3 | A flaw has been found in Netcore NR289-GE 1.4.5102. This impacts the function process_request of the component boa_temp… |
-| 2026-09-28 16:17:12 | [CVE-2026-101078](https://nvd.nist.gov/vuln/detail/CVE-2026-101078) | Low | 1.9 | A vulnerability has been found in deepseek-ai deepseek-harness up to 0.1.7-rc.2. Affected is an unknown function of the… |
-| 2026-09-28 16:17:12 | [CVE-2026-101079](https://nvd.nist.gov/vuln/detail/CVE-2026-101079) | Low | 0.9 | A vulnerability was found in agentverus agentverus-scanner up to 0.8.1. Affected by this vulnerability is the function… |
-| 2026-09-28 16:17:12 | [CVE-2026-101080](https://nvd.nist.gov/vuln/detail/CVE-2026-101080) | Low | 0.9 | A vulnerability was identified in Tencent AI-Infra-Guard up to 4.5.2/4.6.2. This affects the function startsWith of the… |
-| 2026-09-28 16:17:13 | [CVE-2026-101861](https://nvd.nist.gov/vuln/detail/CVE-2026-101861) | Low | 2.1 | Langflow 1.0.16 before 1.12.0 and 0.0.94 before 1.12.0 contain an unsafe eval() vulnerability in schema.py that allows… |
-| 2026-09-28 16:17:13 | [CVE-2026-12342](https://nvd.nist.gov/vuln/detail/CVE-2026-12342) | Critical | 9.6 | This vulnerability impacts all versions of IdentityIQ and allows an unauthenticated user remote code execution on the I… |
-| 2026-09-28 16:17:15 | [CVE-2026-88804](https://nvd.nist.gov/vuln/detail/CVE-2026-88804) | Critical | 9.6 | An unauthenticated update of public UI settings could be used by remote attackers to execute a stored cross-site script… |
-| 2026-09-28 16:17:16 | [CVE-2026-88805](https://nvd.nist.gov/vuln/detail/CVE-2026-88805) | High | 8.1 | Incorrect credential cleaning on logout could be used by remote attackers to keep access credentials even after the acc… |
-| 2026-09-28 16:17:16 | [CVE-2026-88808](https://nvd.nist.gov/vuln/detail/CVE-2026-88808) | High | 8.8 | A vulnerability has been identified within Rancher Manager where the Fleet agent wrote resources to downstream clusters… |
-| 2026-09-28 16:17:17 | [CVE-2026-91154](https://nvd.nist.gov/vuln/detail/CVE-2026-91154) | Medium | 6.9 | Missing Authentication for Critical Function (CWE-306) in the product cache revalidation Server Action (src/app/actions… |
-| 2026-09-28 16:17:17 | [CVE-2026-93348](https://nvd.nist.gov/vuln/detail/CVE-2026-93348) | High | 8.6 | Unsloth Zoo versions 2025.9.9 before 2026.8.14, as implemented in Unsloth 2025.9.9 through 2026.8.19, contains a code i… |
-| 2026-09-28 16:17:18 | [CVE-2026-97399](https://nvd.nist.gov/vuln/detail/CVE-2026-97399) | Low | 3.7 | The strncasecmp function in the GNU C Library 2.24 and later optimized for the Power8 architecture may read one byte be… |
+| 2026-09-28 17:17:47 | [CVE-2026-101081](https://nvd.nist.gov/vuln/detail/CVE-2026-101081) | High | 8.5 | A security flaw has been discovered in D-Link DI-8400 16.07. This vulnerability affects the function menu_nat_more_asp… |
+| 2026-09-28 17:17:48 | [CVE-2026-101082](https://nvd.nist.gov/vuln/detail/CVE-2026-101082) | Medium | 5.5 | A weakness has been identified in PMWeb 7.x/8.x/2025.x. This issue affects some unknown processing of the file download… |
+| 2026-09-28 17:17:48 | [CVE-2026-101083](https://nvd.nist.gov/vuln/detail/CVE-2026-101083) | Medium | 6.9 | A security vulnerability has been detected in PMWeb v7.x/v8.x/v2025.x. Impacted is an unknown function in the library e… |
+| 2026-09-28 17:17:48 | [CVE-2026-101098](https://nvd.nist.gov/vuln/detail/CVE-2026-101098) | Medium | 5.3 | A security vulnerability has been detected in ag-ui-protocol ag-ui up to 2026-09-23. Affected by this issue is the func… |
+| 2026-09-28 17:17:48 | [CVE-2026-101891](https://nvd.nist.gov/vuln/detail/CVE-2026-101891) | Critical | 9.3 | An improper access control vulnerability in an internal API service on WatchGuard Access Points allows an unauthenticat… |
+| 2026-09-28 17:17:48 | [CVE-2026-101894](https://nvd.nist.gov/vuln/detail/CVE-2026-101894) | Critical | 9.1 | The decompress package for Node.js extracts archives. Prior to 10.2.2 and 11.1.4, the default decompress(input, output)… |
+| 2026-09-28 17:17:49 | [CVE-2026-48100](https://nvd.nist.gov/vuln/detail/CVE-2026-48100) | High | 8.7 | Payy is an Ethereum L2 zk-rollup for privacy preserving and regulatory compliant transactions. Prior to version 1.3.0,… |
+| 2026-09-28 17:17:49 | [CVE-2026-54160](https://nvd.nist.gov/vuln/detail/CVE-2026-54160) | High | 8.2 | Network UPS Tools is a collection of programs which provide a common interface for monitoring and administering UPS, PD… |
+| 2026-09-28 17:17:50 | [CVE-2026-55096](https://nvd.nist.gov/vuln/detail/CVE-2026-55096) | High | 7.1 | fast-mcp-telegram is a Telegram MCP Server. Prior to version 30.1, the send_message/send_message_to_phone MCP tools acc… |
+| 2026-09-28 17:17:50 | [CVE-2026-58463](https://nvd.nist.gov/vuln/detail/CVE-2026-58463) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-09-28 17:17:50 | [CVE-2026-58464](https://nvd.nist.gov/vuln/detail/CVE-2026-58464) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-09-28 17:17:51 | [CVE-2026-85644](https://nvd.nist.gov/vuln/detail/CVE-2026-85644) |  |  | XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference. The wrapper function XS… |
+| 2026-09-28 17:17:51 | [CVE-2026-86102](https://nvd.nist.gov/vuln/detail/CVE-2026-86102) | Critical | 9.3 | An OS command injection vulnerability in the WatchGuard AP internal API service allows an attacker with network access… |
+| 2026-09-28 17:17:51 | [CVE-2026-87114](https://nvd.nist.gov/vuln/detail/CVE-2026-87114) | High | 7.1 | A flaw was found in kube-compare. When processing a 'container://' reference path, the tool incorrectly executes an unt… |
+| 2026-09-28 17:17:51 | [CVE-2026-87969](https://nvd.nist.gov/vuln/detail/CVE-2026-87969) | High | 8.6 | An OS command injection vulnerability in the WatchGuard AP diagnostic CLI allows an authenticated administrator to exec… |
+| 2026-09-28 17:17:52 | [CVE-2026-88815](https://nvd.nist.gov/vuln/detail/CVE-2026-88815) |  |  | DBI versions before 1.654 for Perl incorrectly treat numeric values as strings in sql_type_cast_svpv. When casting to S… |
+| 2026-09-28 17:17:52 | [CVE-2026-88816](https://nvd.nist.gov/vuln/detail/CVE-2026-88816) |  |  | DBI versions before 1.654 for Perl incorrectly treat numeric values as strings in FetchHashKeyName. fetchrow_hashref us… |
 
 ## Data source
 
