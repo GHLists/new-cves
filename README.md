@@ -9,20 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 02:21 UTC
+## Latest list — 2026-09-28 03:19 UTC
 
-New CVEs published between 2026-09-28 01:19 UTC and 2026-09-28 02:21 UTC.
+New CVEs published between 2026-09-28 02:21 UTC and 2026-09-28 03:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T02-21-38-008374Z.csv)
+[Full CSV](data/new-cves-2026-09-28T03-19-57-227077Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 02:17:19 | [CVE-2026-100893](https://nvd.nist.gov/vuln/detail/CVE-2026-100893) | Medium | 5.5 | A vulnerability was determined in Privoce VoceChat Server up to 0.5.36. This vulnerability affects the function open_gr… |
-| 2026-09-28 02:17:19 | [CVE-2026-100894](https://nvd.nist.gov/vuln/detail/CVE-2026-100894) | Low | 2.1 | A vulnerability was identified in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
-| 2026-09-28 02:17:19 | [CVE-2026-100895](https://nvd.nist.gov/vuln/detail/CVE-2026-100895) | Medium | 5.5 | A security flaw has been discovered in Trusted Domain Project OpenARC up to 1.0.0.Beta1. Impacted is the function arc_p… |
-| 2026-09-28 02:17:19 | [CVE-2026-100896](https://nvd.nist.gov/vuln/detail/CVE-2026-100896) | High | 8.6 | A weakness has been identified in TOTOLINK N150RT 3.4.0-B20201030. The affected element is the function system of the f… |
-| 2026-09-28 02:17:19 | [CVE-2026-100897](https://nvd.nist.gov/vuln/detail/CVE-2026-100897) | Medium | 5.1 | A security vulnerability has been detected in fuzui StudentInfo up to fcc42a639ec7cef620651bfd0f07ebb660529e3f. The imp… |
-| 2026-09-28 02:17:19 | [CVE-2026-100898](https://nvd.nist.gov/vuln/detail/CVE-2026-100898) | Low | 2.1 | A vulnerability was detected in DevaslanPHP project-management 1.2.1/1.2.2/1.2.3/1.2.4/2.0.0-beta1. This affects the fu… |
+| 2026-09-28 03:16:38 | [CVE-2026-100899](https://nvd.nist.gov/vuln/detail/CVE-2026-100899) | Low | 2.1 | A flaw has been found in DevaslanPHP project-management 1.2.1/1.2.2/1.2.3/1.2.4/v2.0.0-beta1. This impacts the function… |
+| 2026-09-28 03:16:38 | [CVE-2026-100900](https://nvd.nist.gov/vuln/detail/CVE-2026-100900) | Low | 2.0 | A vulnerability has been found in DevaslanPHP project-management 1.2.1/1.2.2/1.2.3/1.2.4/v2.0.0-beta1. Affected is the… |
+| 2026-09-28 03:16:38 | [CVE-2026-100901](https://nvd.nist.gov/vuln/detail/CVE-2026-100901) | Medium | 5.5 | A vulnerability was found in athlon1600 youtube-downloader up to 4.0.1. Affected by this vulnerability is the function… |
 
 ## Data source
 
