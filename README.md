@@ -9,29 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 19:21 UTC
+## Latest list — 2026-09-28 20:19 UTC
 
-New CVEs published between 2026-09-28 18:20 UTC and 2026-09-28 19:21 UTC.
+New CVEs published between 2026-09-28 19:21 UTC and 2026-09-28 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T19-21-01-239787Z.csv)
+[Full CSV](data/new-cves-2026-09-28T20-19-16-421723Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 19:16:46 | [CVE-2026-100752](https://nvd.nist.gov/vuln/detail/CVE-2026-100752) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Real Estate Manager (Free) < 6.7.9 - site/realestate… |
-| 2026-09-28 19:16:46 | [CVE-2026-100753](https://nvd.nist.gov/vuln/detail/CVE-2026-100753) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Real Estate Manager (Free) < 6.7.9 - The public pro… |
-| 2026-09-28 19:16:46 | [CVE-2026-101105](https://nvd.nist.gov/vuln/detail/CVE-2026-101105) | Low | 2.1 | A vulnerability was determined in code-projects Matrimonial System 1.0. The affected element is the function processpro… |
-| 2026-09-28 19:16:46 | [CVE-2026-101108](https://nvd.nist.gov/vuln/detail/CVE-2026-101108) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Vehicle Manager (Free) < 6.5.8 - site/vehiclemanager… |
-| 2026-09-28 19:16:47 | [CVE-2026-101109](https://nvd.nist.gov/vuln/detail/CVE-2026-101109) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Vehicle Manager (Free) < 6.5.8 - The public vehicle… |
-| 2026-09-28 19:16:47 | [CVE-2026-101110](https://nvd.nist.gov/vuln/detail/CVE-2026-101110) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Book Library (Free) < 6.4.6 - site/booklibrary.php’s… |
-| 2026-09-28 19:16:47 | [CVE-2026-101111](https://nvd.nist.gov/vuln/detail/CVE-2026-101111) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Book Library (Free) < 6.4.6 - The public book-detai… |
-| 2026-09-28 19:16:47 | [CVE-2026-101131](https://nvd.nist.gov/vuln/detail/CVE-2026-101131) | Low | 1.9 | A vulnerability was identified in deepseek-ai deepseek-harness up to 0.1.5-rc.3. Impacted is an unknown function of the… |
-| 2026-09-28 19:16:47 | [CVE-2026-101132](https://nvd.nist.gov/vuln/detail/CVE-2026-101132) | Low | 1.3 | A security flaw has been discovered in DeepSeek deepseek-harness up to 0.1.7-rc.2. The affected element is the function… |
-| 2026-09-28 19:16:47 | [CVE-2026-101139](https://nvd.nist.gov/vuln/detail/CVE-2026-101139) | Low | 2.0 | A vulnerability was detected in Webkul Bagisto up to 2.4.6. This impacts an unknown function of the file /admin/sales/i… |
-| 2026-09-28 19:16:48 | [CVE-2026-102010](https://nvd.nist.gov/vuln/detail/CVE-2026-102010) | High | 7.0 | A flaw was found in GCC. When an application calls the erase_if function on a binary heap priority queue in libstdc++,… |
-| 2026-09-28 19:16:49 | [CVE-2026-13018](https://nvd.nist.gov/vuln/detail/CVE-2026-13018) |  |  | Insufficient validation of untrusted input in Codecs in Google Chrome prior to 147.0.7727.55 allowed a remote attacker… |
-| 2026-09-28 19:16:50 | [CVE-2026-84894](https://nvd.nist.gov/vuln/detail/CVE-2026-84894) |  |  | In moxygen before commit 004123dd24c3, MoQSession::dataStreamReadLoop keeps using a stream read handle after reading a… |
-| 2026-09-28 19:16:50 | [CVE-2026-97023](https://nvd.nist.gov/vuln/detail/CVE-2026-97023) | High | 7.1 | A path traversal vulnerability in Flatpak's handling of the export/bin directory during app deployment allows a malicio… |
-| 2026-09-28 19:16:50 | [CVE-2026-97686](https://nvd.nist.gov/vuln/detail/CVE-2026-97686) | Medium | 5.5 | Wind River VxWorks 7 prior to 26.09, specific system call arguments can result in the IPNET subsystem failing to proper… |
+| 2026-09-28 20:17:08 | [CVE-2026-101141](https://nvd.nist.gov/vuln/detail/CVE-2026-101141) | Low | 2.0 | A flaw has been found in Eleveo Call Recording Software 9.7.0. Affected is an unknown function of the file /callrec/aud… |
+| 2026-09-28 20:17:08 | [CVE-2026-101142](https://nvd.nist.gov/vuln/detail/CVE-2026-101142) | Low | 2.1 | A vulnerability has been found in Eleveo Quality Management 9.7.0. Affected by this vulnerability is an unknown functio… |
+| 2026-09-28 20:17:08 | [CVE-2026-101143](https://nvd.nist.gov/vuln/detail/CVE-2026-101143) | Low | 2.1 | A vulnerability was found in Eleveo Quality Management 9.7.0. Affected by this issue is some unknown functionality of t… |
+| 2026-09-28 20:17:09 | [CVE-2026-101914](https://nvd.nist.gov/vuln/detail/CVE-2026-101914) | Medium | 6.5 | @grpc/grpc-js implements the core functionality of gRPC purely in JavaScript, without a C++ addon. Prior to 1.13.1 and… |
+| 2026-09-28 20:17:09 | [CVE-2026-101915](https://nvd.nist.gov/vuln/detail/CVE-2026-101915) | Low | 3.7 | @grpc/grpc-js implements the core functionality of gRPC purely in JavaScript, without a C++ addon. Prior to 1.13.6 and… |
+| 2026-09-28 20:17:09 | [CVE-2026-102004](https://nvd.nist.gov/vuln/detail/CVE-2026-102004) | High | 7.8 | Wind River VxWorks 7 prior to 26.09, specific system call arguments can result in memory corruption within the memory m… |
+| 2026-09-28 20:17:11 | [CVE-2026-86950](https://nvd.nist.gov/vuln/detail/CVE-2026-86950) | High | 8.8 | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS… |
+| 2026-09-28 20:17:11 | [CVE-2026-87741](https://nvd.nist.gov/vuln/detail/CVE-2026-87741) | High | 8.8 | The ConvertPlus plugin for WordPress is vulnerable to Deserialization of Untrusted Data in all versions up to, and incl… |
+| 2026-09-28 20:17:11 | [CVE-2026-93355](https://nvd.nist.gov/vuln/detail/CVE-2026-93355) | High | 7.6 | LiteLLM contains a weak authentication vulnerability that allows an attacker holding a valid JWT from the configured id… |
+| 2026-09-28 20:17:11 | [CVE-2026-96760](https://nvd.nist.gov/vuln/detail/CVE-2026-96760) |  |  | Authlib (v1.7.2 and below) contains a signature verification bypass vulnerability. The JsonWebSignature.deserialize_jso… |
 
 ## Data source
 
