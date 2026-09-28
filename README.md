@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:19 UTC
+## Latest list — 2026-09-28 01:19 UTC
 
-New CVEs published between 2026-09-27 23:19 UTC and 2026-09-28 00:19 UTC.
+New CVEs published between 2026-09-28 00:19 UTC and 2026-09-28 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T00-19-43-808358Z.csv)
+[Full CSV](data/new-cves-2026-09-28T01-19-12-712853Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 00:16:32 | [CVE-2026-100887](https://nvd.nist.gov/vuln/detail/CVE-2026-100887) | Low | 2.1 | A security flaw has been discovered in amirsanni Mini-Inventory-and-Sales-Management-System up to 81bf0b55f5933f3b0dbb1… |
-| 2026-09-28 00:16:32 | [CVE-2026-100888](https://nvd.nist.gov/vuln/detail/CVE-2026-100888) | Medium | 5.5 | A weakness has been identified in Trusted Domain Project OpenDKIM up to 2.11.0. This affects the function dkim_canon_se… |
-| 2026-09-28 00:16:32 | [CVE-2026-100889](https://nvd.nist.gov/vuln/detail/CVE-2026-100889) | Medium | 5.5 | A vulnerability was detected in Trusted Domain Project OpenDKIM up to 2.11.0. Affected is the function dkim_qp_decode o… |
+| 2026-09-28 01:16:28 | [CVE-2026-100890](https://nvd.nist.gov/vuln/detail/CVE-2026-100890) | Medium | 5.5 | A flaw has been found in Trusted Domain Project OpenDMARC up to 1.4.2. Affected by this vulnerability is the function o… |
+| 2026-09-28 01:16:28 | [CVE-2026-100891](https://nvd.nist.gov/vuln/detail/CVE-2026-100891) | Medium | 5.5 | A vulnerability has been found in Trusted Domain Project OpenDMARC up to 1.4.2. Affected by this issue is the function… |
+| 2026-09-28 01:16:28 | [CVE-2026-100892](https://nvd.nist.gov/vuln/detail/CVE-2026-100892) | Medium | 5.5 | A vulnerability was found in aligungr UERANSIM up to 3.3.0. This affects the function ULInformationTransfer of the file… |
 
 ## Data source
 
