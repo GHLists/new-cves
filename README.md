@@ -9,31 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 17:19 UTC
+## Latest list — 2026-09-28 18:20 UTC
 
-New CVEs published between 2026-09-28 16:18 UTC and 2026-09-28 17:19 UTC.
+New CVEs published between 2026-09-28 17:19 UTC and 2026-09-28 18:20 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T17-19-30-272013Z.csv)
+[Full CSV](data/new-cves-2026-09-28T18-20-28-374358Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 17:17:47 | [CVE-2026-101081](https://nvd.nist.gov/vuln/detail/CVE-2026-101081) | High | 8.5 | A security flaw has been discovered in D-Link DI-8400 16.07. This vulnerability affects the function menu_nat_more_asp… |
-| 2026-09-28 17:17:48 | [CVE-2026-101082](https://nvd.nist.gov/vuln/detail/CVE-2026-101082) | Medium | 5.5 | A weakness has been identified in PMWeb 7.x/8.x/2025.x. This issue affects some unknown processing of the file download… |
-| 2026-09-28 17:17:48 | [CVE-2026-101083](https://nvd.nist.gov/vuln/detail/CVE-2026-101083) | Medium | 6.9 | A security vulnerability has been detected in PMWeb v7.x/v8.x/v2025.x. Impacted is an unknown function in the library e… |
-| 2026-09-28 17:17:48 | [CVE-2026-101098](https://nvd.nist.gov/vuln/detail/CVE-2026-101098) | Medium | 5.3 | A security vulnerability has been detected in ag-ui-protocol ag-ui up to 2026-09-23. Affected by this issue is the func… |
-| 2026-09-28 17:17:48 | [CVE-2026-101891](https://nvd.nist.gov/vuln/detail/CVE-2026-101891) | Critical | 9.3 | An improper access control vulnerability in an internal API service on WatchGuard Access Points allows an unauthenticat… |
-| 2026-09-28 17:17:48 | [CVE-2026-101894](https://nvd.nist.gov/vuln/detail/CVE-2026-101894) | Critical | 9.1 | The decompress package for Node.js extracts archives. Prior to 10.2.2 and 11.1.4, the default decompress(input, output)… |
-| 2026-09-28 17:17:49 | [CVE-2026-48100](https://nvd.nist.gov/vuln/detail/CVE-2026-48100) | High | 8.7 | Payy is an Ethereum L2 zk-rollup for privacy preserving and regulatory compliant transactions. Prior to version 1.3.0,… |
-| 2026-09-28 17:17:49 | [CVE-2026-54160](https://nvd.nist.gov/vuln/detail/CVE-2026-54160) | High | 8.2 | Network UPS Tools is a collection of programs which provide a common interface for monitoring and administering UPS, PD… |
-| 2026-09-28 17:17:50 | [CVE-2026-55096](https://nvd.nist.gov/vuln/detail/CVE-2026-55096) | High | 7.1 | fast-mcp-telegram is a Telegram MCP Server. Prior to version 30.1, the send_message/send_message_to_phone MCP tools acc… |
-| 2026-09-28 17:17:50 | [CVE-2026-58463](https://nvd.nist.gov/vuln/detail/CVE-2026-58463) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-09-28 17:17:50 | [CVE-2026-58464](https://nvd.nist.gov/vuln/detail/CVE-2026-58464) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-09-28 17:17:51 | [CVE-2026-85644](https://nvd.nist.gov/vuln/detail/CVE-2026-85644) |  |  | XS::Parse::Infix versions from 0.40 through 0.49 for Perl treat a number as an array reference. The wrapper function XS… |
-| 2026-09-28 17:17:51 | [CVE-2026-86102](https://nvd.nist.gov/vuln/detail/CVE-2026-86102) | Critical | 9.3 | An OS command injection vulnerability in the WatchGuard AP internal API service allows an attacker with network access… |
-| 2026-09-28 17:17:51 | [CVE-2026-87114](https://nvd.nist.gov/vuln/detail/CVE-2026-87114) | High | 7.1 | A flaw was found in kube-compare. When processing a 'container://' reference path, the tool incorrectly executes an unt… |
-| 2026-09-28 17:17:51 | [CVE-2026-87969](https://nvd.nist.gov/vuln/detail/CVE-2026-87969) | High | 8.6 | An OS command injection vulnerability in the WatchGuard AP diagnostic CLI allows an authenticated administrator to exec… |
-| 2026-09-28 17:17:52 | [CVE-2026-88815](https://nvd.nist.gov/vuln/detail/CVE-2026-88815) |  |  | DBI versions before 1.654 for Perl incorrectly treat numeric values as strings in sql_type_cast_svpv. When casting to S… |
-| 2026-09-28 17:17:52 | [CVE-2026-88816](https://nvd.nist.gov/vuln/detail/CVE-2026-88816) |  |  | DBI versions before 1.654 for Perl incorrectly treat numeric values as strings in FetchHashKeyName. fetchrow_hashref us… |
+| 2026-09-28 18:17:16 | [CVE-2026-101099](https://nvd.nist.gov/vuln/detail/CVE-2026-101099) | Medium | 5.3 | A vulnerability was detected in ag-ui-protocol ag-ui up to 2026-09-23. This affects an unknown part of the file SsePars… |
+| 2026-09-28 18:17:16 | [CVE-2026-101100](https://nvd.nist.gov/vuln/detail/CVE-2026-101100) | Medium | 5.3 | A flaw has been found in ag-ui-protocol ag-ui up to 2026-09-07. This vulnerability affects the function FilterToolCalls… |
+| 2026-09-28 18:17:17 | [CVE-2026-101101](https://nvd.nist.gov/vuln/detail/CVE-2026-101101) | Medium | 5.3 | A vulnerability has been found in ag-ui-protocol ag-ui up to 2026-09-07. This issue affects the function JSON.parse of… |
+| 2026-09-28 18:17:17 | [CVE-2026-101102](https://nvd.nist.gov/vuln/detail/CVE-2026-101102) | Medium | 5.3 | A vulnerability was found in deepseek-ai deepseek-harness up to 0.1.0-rc.7. Impacted is the function run_code of the co… |
+| 2026-09-28 18:17:17 | [CVE-2026-101898](https://nvd.nist.gov/vuln/detail/CVE-2026-101898) | High | 7.0 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.13.0 until 1.20.0, Axios HTTP/2 request setup… |
+| 2026-09-28 18:17:18 | [CVE-2026-101900](https://nvd.nist.gov/vuln/detail/CVE-2026-101900) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.12.0 until 1.20.0, ResolveConfig reads inherit… |
+| 2026-09-28 18:17:18 | [CVE-2026-101901](https://nvd.nist.gov/vuln/detail/CVE-2026-101901) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.13.0 until 1.20.0, Http2Sessions does not inst… |
+| 2026-09-28 18:17:18 | [CVE-2026-101902](https://nvd.nist.gov/vuln/detail/CVE-2026-101902) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 0.27.2 until 0.34.0 and 1.20.0, Axios default-in… |
+| 2026-09-28 18:17:18 | [CVE-2026-101903](https://nvd.nist.gov/vuln/detail/CVE-2026-101903) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.16.1 until 1.20.0, the RFC 2397 regular expres… |
+| 2026-09-28 18:17:18 | [CVE-2026-101904](https://nvd.nist.gov/vuln/detail/CVE-2026-101904) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.0.0 until 1.20.0, the dispatchRequest function… |
+| 2026-09-28 18:17:18 | [CVE-2026-101905](https://nvd.nist.gov/vuln/detail/CVE-2026-101905) | High | 7.6 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.15.2 until 1.20.0, the Node HTTP adapter in li… |
+| 2026-09-28 18:17:19 | [CVE-2026-101906](https://nvd.nist.gov/vuln/detail/CVE-2026-101906) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.15.0 until 1.20.0, Axios shouldBypassProxy app… |
+| 2026-09-28 18:17:19 | [CVE-2026-101907](https://nvd.nist.gov/vuln/detail/CVE-2026-101907) | High | 7.0 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.17.0 until 1.20.0, the fetch adapter bypasses… |
+| 2026-09-28 18:17:19 | [CVE-2026-101908](https://nvd.nist.gov/vuln/detail/CVE-2026-101908) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.7.0 until 1.20.0, the fetch adapter constructs… |
+| 2026-09-28 18:17:19 | [CVE-2026-101909](https://nvd.nist.gov/vuln/detail/CVE-2026-101909) | High | 8.3 | Axios is a promise-based HTTP client for the browser and Node.js. From 0.28.0 until 0.34.0 and 1.15.1 until 1.20.0, ToF… |
+| 2026-09-28 18:17:20 | [CVE-2026-101910](https://nvd.nist.gov/vuln/detail/CVE-2026-101910) | Medium | 6.9 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. From 10.2.0 until 10.5.1, t… |
+| 2026-09-28 18:17:20 | [CVE-2026-101911](https://nvd.nist.gov/vuln/detail/CVE-2026-101911) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.7.1, the Addres… |
+| 2026-09-28 18:17:21 | [CVE-2026-101912](https://nvd.nist.gov/vuln/detail/CVE-2026-101912) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.7.1, the isInSu… |
+| 2026-09-28 18:17:21 | [CVE-2026-101913](https://nvd.nist.gov/vuln/detail/CVE-2026-101913) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.5.1, the Addres… |
+| 2026-09-28 18:17:21 | [CVE-2026-45562](https://nvd.nist.gov/vuln/detail/CVE-2026-45562) | High | 7.7 | FreePBX is an open source IP PBX. Prior to versions 16.0.4 and 17.0.6, the FreePBX Music on Hold (MoH) module contains… |
+| 2026-09-28 18:17:22 | [CVE-2026-49994](https://nvd.nist.gov/vuln/detail/CVE-2026-49994) | Critical | 9.1 | Bluehood monitors local bluetooth activity. Prior to version 0.7.1, when auth_enabled is set in Bluehood, only the HTML… |
+| 2026-09-28 18:17:22 | [CVE-2026-54674](https://nvd.nist.gov/vuln/detail/CVE-2026-54674) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.39 and 17.0.7, users authenticated via User Control Panel (UCP… |
+| 2026-09-28 18:17:22 | [CVE-2026-54675](https://nvd.nist.gov/vuln/detail/CVE-2026-54675) | High | 8.7 | FreePBX is an open source IP PBX. Prior to versions 16.0.10 and 17.0.5, a critical vulnerability exists in the sound la… |
+| 2026-09-28 18:17:22 | [CVE-2026-54708](https://nvd.nist.gov/vuln/detail/CVE-2026-54708) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.72 and 17.0.7, a critical vulnerability exists in the FreePBX… |
+| 2026-09-28 18:17:23 | [CVE-2026-54710](https://nvd.nist.gov/vuln/detail/CVE-2026-54710) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.40 and 17.0.7, a critical remote code execution (RCE) vulnerab… |
+| 2026-09-28 18:17:23 | [CVE-2026-55156](https://nvd.nist.gov/vuln/detail/CVE-2026-55156) | Medium | 5.3 | Token Optimizer MCP measures token savings per AI coding agent, optimizes context, and shares a live local knowledge gr… |
+| 2026-09-28 18:17:23 | [CVE-2026-55157](https://nvd.nist.gov/vuln/detail/CVE-2026-55157) | High | 8.4 | Token Optimizer MCP measures token savings per AI coding agent, optimizes context, and shares a live local knowledge gr… |
+| 2026-09-28 18:17:23 | [CVE-2026-55160](https://nvd.nist.gov/vuln/detail/CVE-2026-55160) | High | 7.6 | Stringer is a self-hosted, anti-social RSS reader. Prior to commit 75cb095, an unrestricted Server-Side Request Forgery… |
+| 2026-09-28 18:17:24 | [CVE-2026-75600](https://nvd.nist.gov/vuln/detail/CVE-2026-75600) | High | 8.6 | FreePBX is an open source IP PBX. Prior to version 17.0.9, authenticated users who are authorized to access the GraphQL… |
+| 2026-09-28 18:17:26 | [CVE-2026-96740](https://nvd.nist.gov/vuln/detail/CVE-2026-96740) | Medium | 6.5 | A flaw was found in the StreamsHub Console for Apache Kafka. Tenant-supplied Kafka client properties from the Console c… |
 
 ## Data source
 
