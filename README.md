@@ -9,18 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 04:19 UTC
+## Latest list — 2026-09-28 05:19 UTC
 
-New CVEs published between 2026-09-28 03:19 UTC and 2026-09-28 04:19 UTC.
+New CVEs published between 2026-09-28 04:19 UTC and 2026-09-28 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T04-19-41-314249Z.csv)
+[Full CSV](data/new-cves-2026-09-28T05-19-35-297482Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 04:16:56 | [CVE-2026-100902](https://nvd.nist.gov/vuln/detail/CVE-2026-100902) | Medium | 5.7 | A vulnerability was determined in Barco ClickShare CX-20 Gen2 up to 02.26.00.0007. Affected by this issue is some unkno… |
-| 2026-09-28 04:17:07 | [CVE-2026-100903](https://nvd.nist.gov/vuln/detail/CVE-2026-100903) | Medium | 5.5 | A vulnerability was identified in ООО НПО Ритм GEOritm up to 2.45.1. This affects an unknown part of the file /restapi/… |
-| 2026-09-28 04:17:07 | [CVE-2026-100904](https://nvd.nist.gov/vuln/detail/CVE-2026-100904) | Medium | 5.1 | A security vulnerability has been detected in amirsanni mini-inventory-and-sales-management-system up to 81bf0b55f5933f… |
-| 2026-09-28 04:17:08 | [CVE-2026-100906](https://nvd.nist.gov/vuln/detail/CVE-2026-100906) | Medium | 5.5 | A vulnerability was detected in Eyeplus 57.0.0.0308. The affected element is the function GetUsers of the file /onvif/D… |
+| 2026-09-28 05:16:28 | [CVE-2026-100907](https://nvd.nist.gov/vuln/detail/CVE-2026-100907) | Medium | 5.5 | A flaw has been found in Eyeplus 57.0.0.0308. The impacted element is an unknown function of the file /snapshot of the… |
+| 2026-09-28 05:16:29 | [CVE-2026-100908](https://nvd.nist.gov/vuln/detail/CVE-2026-100908) | High | 7.7 | A vulnerability has been found in Eyeplus 57.0.0.0308. This affects an unknown function of the component p2pcam HTTP Pa… |
+| 2026-09-28 05:16:30 | [CVE-2026-100909](https://nvd.nist.gov/vuln/detail/CVE-2026-100909) | Medium | 5.5 | A vulnerability was found in OctoberCMS up to 4.1.19/4.2.25/4.3.4. The impacted element is the function getSourcePathFo… |
+| 2026-09-28 05:16:30 | [CVE-2026-101000](https://nvd.nist.gov/vuln/detail/CVE-2026-101000) | Critical | 9.3 | A vulnerability was determined in Netcore NBR100V2 1.3.240614.030928. This affects the function uci.apply of the file /… |
+| 2026-09-28 05:16:30 | [CVE-2026-101001](https://nvd.nist.gov/vuln/detail/CVE-2026-101001) | Critical | 9.3 | A vulnerability was identified in Netcore NBR200V2 1.3.241127.071246. This impacts the function eval of the file /www/c… |
+| 2026-09-28 05:16:30 | [CVE-2026-87723](https://nvd.nist.gov/vuln/detail/CVE-2026-87723) | Medium | 5.4 | In Google fuse-archive versions prior to 1.24, an attacker who can prepend a directory to PATH or write a malicious bin… |
 
 ## Data source
 
