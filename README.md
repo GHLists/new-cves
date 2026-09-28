@@ -9,22 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:19 UTC
+## Latest list — 2026-09-28 11:18 UTC
 
-New CVEs published between 2026-09-28 09:18 UTC and 2026-09-28 10:19 UTC.
+New CVEs published between 2026-09-28 10:19 UTC and 2026-09-28 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T10-19-38-617418Z.csv)
+[Full CSV](data/new-cves-2026-09-28T11-18-58-898993Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 10:16:42 | [CVE-2026-101018](https://nvd.nist.gov/vuln/detail/CVE-2026-101018) | Low | 2.0 | A vulnerability was determined in dayrui XunruiCMS up to 4.7.2. This issue affects the function group_all_edit of the f… |
-| 2026-09-28 10:16:42 | [CVE-2026-101035](https://nvd.nist.gov/vuln/detail/CVE-2026-101035) | Medium | 5.5 | A flaw has been found in aligungr UERANSIM up to 3.3.0. This affects the function DecodePlainMmMessage in the library s… |
-| 2026-09-28 10:16:42 | [CVE-2026-101036](https://nvd.nist.gov/vuln/detail/CVE-2026-101036) | Low | 1.9 | A vulnerability has been found in FLB-Music FLB-Music-Player 1.1.8/1.1.9/1.2.0/1.2.1. This impacts the function path.jo… |
-| 2026-09-28 10:16:42 | [CVE-2026-101037](https://nvd.nist.gov/vuln/detail/CVE-2026-101037) | High | 8.6 | A vulnerability was found in FAST FAC1200R 5.0_20201119_1.0.2. Affected is the function parse_advertisement_frame of th… |
-| 2026-09-28 10:16:45 | [CVE-2026-7170](https://nvd.nist.gov/vuln/detail/CVE-2026-7170) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) in TPVEnlanube affecting the following endpoint and parameter: * CVE-2026-7170: param… |
-| 2026-09-28 10:16:45 | [CVE-2026-7171](https://nvd.nist.gov/vuln/detail/CVE-2026-7171) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) in TPVEnlanube affecting the following endpoint and parameter: * CVE-2026-7171: param… |
-| 2026-09-28 10:16:45 | [CVE-2026-7172](https://nvd.nist.gov/vuln/detail/CVE-2026-7172) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) in TPVEnlanube affecting the following endpoint and parameter: * CVE-2026-7172: param… |
-| 2026-09-28 10:16:45 | [CVE-2026-90979](https://nvd.nist.gov/vuln/detail/CVE-2026-90979) |  |  | LDAPCache and LDAPBackingEngine build LDAP search filters for user lookup and role lookup by textually substituting the… |
+| 2026-09-28 11:16:43 | [CVE-2026-101038](https://nvd.nist.gov/vuln/detail/CVE-2026-101038) | High | 8.6 | A vulnerability was determined in FAST FAC1200R 5.0_20201119_1.0.2. Affected by this vulnerability is the function MmtA… |
+| 2026-09-28 11:16:43 | [CVE-2026-101039](https://nvd.nist.gov/vuln/detail/CVE-2026-101039) | Critical | 9.3 | A vulnerability was identified in FAST FAC1900R 20190827_2.0.2. Affected by this issue is the function copy_msg_element… |
+| 2026-09-28 11:16:43 | [CVE-2026-101040](https://nvd.nist.gov/vuln/detail/CVE-2026-101040) | Medium | 5.7 | A security flaw has been discovered in Ricoh SP 330DN, SP 221, SP C252SF and Aficio SP 3500SF up to 20260813. This affe… |
+| 2026-09-28 11:16:43 | [CVE-2026-12267](https://nvd.nist.gov/vuln/detail/CVE-2026-12267) | High | 7.2 | ManageEngine DDI Central versions below 6201 are vulnerable to Command injection in Windows DNS Query Resolution Policy… |
+| 2026-09-28 11:16:44 | [CVE-2026-12268](https://nvd.nist.gov/vuln/detail/CVE-2026-12268) | High | 8.8 | ManageEngine DDI Central versions below 6201 are vulnerable to PowerShell command injection in Windows DNS SPF/TXT reco… |
+| 2026-09-28 11:16:44 | [CVE-2026-12269](https://nvd.nist.gov/vuln/detail/CVE-2026-12269) | High | 8.8 | Zohocorp ManageEngine DDI Central 6.2.0 build below 6201 had a Keepalived configuration injection vulnerability in the… |
+| 2026-09-28 11:16:45 | [CVE-2026-19759](https://nvd.nist.gov/vuln/detail/CVE-2026-19759) | Critical | 9.4 | An Incorrect Authorization vulnerability in the task configuration in Google Cloud Application Integration versions pri… |
+| 2026-09-28 11:16:47 | [CVE-2026-81375](https://nvd.nist.gov/vuln/detail/CVE-2026-81375) | High | 8.3 | A Confused Deputy vulnerability in the EmailTask component in Google Cloud Application Integration versions prior to 20… |
+| 2026-09-28 11:16:48 | [CVE-2026-81867](https://nvd.nist.gov/vuln/detail/CVE-2026-81867) | Critical | 9.4 | A Deserialization of Untrusted Data vulnerability in the JavaScript Task in Google Cloud Application Integration versio… |
+| 2026-09-28 11:16:48 | [CVE-2026-91006](https://nvd.nist.gov/vuln/detail/CVE-2026-91006) |  |  | Apache Karaf's instance-management service (InstanceServiceImpl) builds the command line used to launch a child Karaf J… |
 
 ## Data source
 
