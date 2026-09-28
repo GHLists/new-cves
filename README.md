@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 03:19 UTC
+## Latest list — 2026-09-28 04:19 UTC
 
-New CVEs published between 2026-09-28 02:21 UTC and 2026-09-28 03:19 UTC.
+New CVEs published between 2026-09-28 03:19 UTC and 2026-09-28 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T03-19-57-227077Z.csv)
+[Full CSV](data/new-cves-2026-09-28T04-19-41-314249Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 03:16:38 | [CVE-2026-100899](https://nvd.nist.gov/vuln/detail/CVE-2026-100899) | Low | 2.1 | A flaw has been found in DevaslanPHP project-management 1.2.1/1.2.2/1.2.3/1.2.4/v2.0.0-beta1. This impacts the function… |
-| 2026-09-28 03:16:38 | [CVE-2026-100900](https://nvd.nist.gov/vuln/detail/CVE-2026-100900) | Low | 2.0 | A vulnerability has been found in DevaslanPHP project-management 1.2.1/1.2.2/1.2.3/1.2.4/v2.0.0-beta1. Affected is the… |
-| 2026-09-28 03:16:38 | [CVE-2026-100901](https://nvd.nist.gov/vuln/detail/CVE-2026-100901) | Medium | 5.5 | A vulnerability was found in athlon1600 youtube-downloader up to 4.0.1. Affected by this vulnerability is the function… |
+| 2026-09-28 04:16:56 | [CVE-2026-100902](https://nvd.nist.gov/vuln/detail/CVE-2026-100902) | Medium | 5.7 | A vulnerability was determined in Barco ClickShare CX-20 Gen2 up to 02.26.00.0007. Affected by this issue is some unkno… |
+| 2026-09-28 04:17:07 | [CVE-2026-100903](https://nvd.nist.gov/vuln/detail/CVE-2026-100903) | Medium | 5.5 | A vulnerability was identified in ООО НПО Ритм GEOritm up to 2.45.1. This affects an unknown part of the file /restapi/… |
+| 2026-09-28 04:17:07 | [CVE-2026-100904](https://nvd.nist.gov/vuln/detail/CVE-2026-100904) | Medium | 5.1 | A security vulnerability has been detected in amirsanni mini-inventory-and-sales-management-system up to 81bf0b55f5933f… |
+| 2026-09-28 04:17:08 | [CVE-2026-100906](https://nvd.nist.gov/vuln/detail/CVE-2026-100906) | Medium | 5.5 | A vulnerability was detected in Eyeplus 57.0.0.0308. The affected element is the function GetUsers of the file /onvif/D… |
 
 ## Data source
 
