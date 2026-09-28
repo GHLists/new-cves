@@ -9,44 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 18:20 UTC
+## Latest list — 2026-09-28 19:21 UTC
 
-New CVEs published between 2026-09-28 17:19 UTC and 2026-09-28 18:20 UTC.
+New CVEs published between 2026-09-28 18:20 UTC and 2026-09-28 19:21 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T18-20-28-374358Z.csv)
+[Full CSV](data/new-cves-2026-09-28T19-21-01-239787Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 18:17:16 | [CVE-2026-101099](https://nvd.nist.gov/vuln/detail/CVE-2026-101099) | Medium | 5.3 | A vulnerability was detected in ag-ui-protocol ag-ui up to 2026-09-23. This affects an unknown part of the file SsePars… |
-| 2026-09-28 18:17:16 | [CVE-2026-101100](https://nvd.nist.gov/vuln/detail/CVE-2026-101100) | Medium | 5.3 | A flaw has been found in ag-ui-protocol ag-ui up to 2026-09-07. This vulnerability affects the function FilterToolCalls… |
-| 2026-09-28 18:17:17 | [CVE-2026-101101](https://nvd.nist.gov/vuln/detail/CVE-2026-101101) | Medium | 5.3 | A vulnerability has been found in ag-ui-protocol ag-ui up to 2026-09-07. This issue affects the function JSON.parse of… |
-| 2026-09-28 18:17:17 | [CVE-2026-101102](https://nvd.nist.gov/vuln/detail/CVE-2026-101102) | Medium | 5.3 | A vulnerability was found in deepseek-ai deepseek-harness up to 0.1.0-rc.7. Impacted is the function run_code of the co… |
-| 2026-09-28 18:17:17 | [CVE-2026-101898](https://nvd.nist.gov/vuln/detail/CVE-2026-101898) | High | 7.0 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.13.0 until 1.20.0, Axios HTTP/2 request setup… |
-| 2026-09-28 18:17:18 | [CVE-2026-101900](https://nvd.nist.gov/vuln/detail/CVE-2026-101900) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.12.0 until 1.20.0, ResolveConfig reads inherit… |
-| 2026-09-28 18:17:18 | [CVE-2026-101901](https://nvd.nist.gov/vuln/detail/CVE-2026-101901) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.13.0 until 1.20.0, Http2Sessions does not inst… |
-| 2026-09-28 18:17:18 | [CVE-2026-101902](https://nvd.nist.gov/vuln/detail/CVE-2026-101902) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 0.27.2 until 0.34.0 and 1.20.0, Axios default-in… |
-| 2026-09-28 18:17:18 | [CVE-2026-101903](https://nvd.nist.gov/vuln/detail/CVE-2026-101903) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.16.1 until 1.20.0, the RFC 2397 regular expres… |
-| 2026-09-28 18:17:18 | [CVE-2026-101904](https://nvd.nist.gov/vuln/detail/CVE-2026-101904) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.0.0 until 1.20.0, the dispatchRequest function… |
-| 2026-09-28 18:17:18 | [CVE-2026-101905](https://nvd.nist.gov/vuln/detail/CVE-2026-101905) | High | 7.6 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.15.2 until 1.20.0, the Node HTTP adapter in li… |
-| 2026-09-28 18:17:19 | [CVE-2026-101906](https://nvd.nist.gov/vuln/detail/CVE-2026-101906) | High | 8.2 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.15.0 until 1.20.0, Axios shouldBypassProxy app… |
-| 2026-09-28 18:17:19 | [CVE-2026-101907](https://nvd.nist.gov/vuln/detail/CVE-2026-101907) | High | 7.0 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.17.0 until 1.20.0, the fetch adapter bypasses… |
-| 2026-09-28 18:17:19 | [CVE-2026-101908](https://nvd.nist.gov/vuln/detail/CVE-2026-101908) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.7.0 until 1.20.0, the fetch adapter constructs… |
-| 2026-09-28 18:17:19 | [CVE-2026-101909](https://nvd.nist.gov/vuln/detail/CVE-2026-101909) | High | 8.3 | Axios is a promise-based HTTP client for the browser and Node.js. From 0.28.0 until 0.34.0 and 1.15.1 until 1.20.0, ToF… |
-| 2026-09-28 18:17:20 | [CVE-2026-101910](https://nvd.nist.gov/vuln/detail/CVE-2026-101910) | Medium | 6.9 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. From 10.2.0 until 10.5.1, t… |
-| 2026-09-28 18:17:20 | [CVE-2026-101911](https://nvd.nist.gov/vuln/detail/CVE-2026-101911) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.7.1, the Addres… |
-| 2026-09-28 18:17:21 | [CVE-2026-101912](https://nvd.nist.gov/vuln/detail/CVE-2026-101912) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.7.1, the isInSu… |
-| 2026-09-28 18:17:21 | [CVE-2026-101913](https://nvd.nist.gov/vuln/detail/CVE-2026-101913) | Medium | 6.3 | ip-address is a library for parsing and manipulating IPv4 and IPv6 addresses in JavaScript. Prior to 10.5.1, the Addres… |
-| 2026-09-28 18:17:21 | [CVE-2026-45562](https://nvd.nist.gov/vuln/detail/CVE-2026-45562) | High | 7.7 | FreePBX is an open source IP PBX. Prior to versions 16.0.4 and 17.0.6, the FreePBX Music on Hold (MoH) module contains… |
-| 2026-09-28 18:17:22 | [CVE-2026-49994](https://nvd.nist.gov/vuln/detail/CVE-2026-49994) | Critical | 9.1 | Bluehood monitors local bluetooth activity. Prior to version 0.7.1, when auth_enabled is set in Bluehood, only the HTML… |
-| 2026-09-28 18:17:22 | [CVE-2026-54674](https://nvd.nist.gov/vuln/detail/CVE-2026-54674) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.39 and 17.0.7, users authenticated via User Control Panel (UCP… |
-| 2026-09-28 18:17:22 | [CVE-2026-54675](https://nvd.nist.gov/vuln/detail/CVE-2026-54675) | High | 8.7 | FreePBX is an open source IP PBX. Prior to versions 16.0.10 and 17.0.5, a critical vulnerability exists in the sound la… |
-| 2026-09-28 18:17:22 | [CVE-2026-54708](https://nvd.nist.gov/vuln/detail/CVE-2026-54708) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.72 and 17.0.7, a critical vulnerability exists in the FreePBX… |
-| 2026-09-28 18:17:23 | [CVE-2026-54710](https://nvd.nist.gov/vuln/detail/CVE-2026-54710) | High | 8.6 | FreePBX is an open source IP PBX. Prior to versions 16.0.40 and 17.0.7, a critical remote code execution (RCE) vulnerab… |
-| 2026-09-28 18:17:23 | [CVE-2026-55156](https://nvd.nist.gov/vuln/detail/CVE-2026-55156) | Medium | 5.3 | Token Optimizer MCP measures token savings per AI coding agent, optimizes context, and shares a live local knowledge gr… |
-| 2026-09-28 18:17:23 | [CVE-2026-55157](https://nvd.nist.gov/vuln/detail/CVE-2026-55157) | High | 8.4 | Token Optimizer MCP measures token savings per AI coding agent, optimizes context, and shares a live local knowledge gr… |
-| 2026-09-28 18:17:23 | [CVE-2026-55160](https://nvd.nist.gov/vuln/detail/CVE-2026-55160) | High | 7.6 | Stringer is a self-hosted, anti-social RSS reader. Prior to commit 75cb095, an unrestricted Server-Side Request Forgery… |
-| 2026-09-28 18:17:24 | [CVE-2026-75600](https://nvd.nist.gov/vuln/detail/CVE-2026-75600) | High | 8.6 | FreePBX is an open source IP PBX. Prior to version 17.0.9, authenticated users who are authorized to access the GraphQL… |
-| 2026-09-28 18:17:26 | [CVE-2026-96740](https://nvd.nist.gov/vuln/detail/CVE-2026-96740) | Medium | 6.5 | A flaw was found in the StreamsHub Console for Apache Kafka. Tenant-supplied Kafka client properties from the Console c… |
+| 2026-09-28 19:16:46 | [CVE-2026-100752](https://nvd.nist.gov/vuln/detail/CVE-2026-100752) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Real Estate Manager (Free) < 6.7.9 - site/realestate… |
+| 2026-09-28 19:16:46 | [CVE-2026-100753](https://nvd.nist.gov/vuln/detail/CVE-2026-100753) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Real Estate Manager (Free) < 6.7.9 - The public pro… |
+| 2026-09-28 19:16:46 | [CVE-2026-101105](https://nvd.nist.gov/vuln/detail/CVE-2026-101105) | Low | 2.1 | A vulnerability was determined in code-projects Matrimonial System 1.0. The affected element is the function processpro… |
+| 2026-09-28 19:16:46 | [CVE-2026-101108](https://nvd.nist.gov/vuln/detail/CVE-2026-101108) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Vehicle Manager (Free) < 6.5.8 - site/vehiclemanager… |
+| 2026-09-28 19:16:47 | [CVE-2026-101109](https://nvd.nist.gov/vuln/detail/CVE-2026-101109) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Vehicle Manager (Free) < 6.5.8 - The public vehicle… |
+| 2026-09-28 19:16:47 | [CVE-2026-101110](https://nvd.nist.gov/vuln/detail/CVE-2026-101110) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Book Library (Free) < 6.4.6 - site/booklibrary.php’s… |
+| 2026-09-28 19:16:47 | [CVE-2026-101111](https://nvd.nist.gov/vuln/detail/CVE-2026-101111) | Medium | 5.3 | Joomla Extension - ordasoft.com - Reflected Cross-Site Scripting in Book Library (Free) < 6.4.6 - The public book-detai… |
+| 2026-09-28 19:16:47 | [CVE-2026-101131](https://nvd.nist.gov/vuln/detail/CVE-2026-101131) | Low | 1.9 | A vulnerability was identified in deepseek-ai deepseek-harness up to 0.1.5-rc.3. Impacted is an unknown function of the… |
+| 2026-09-28 19:16:47 | [CVE-2026-101132](https://nvd.nist.gov/vuln/detail/CVE-2026-101132) | Low | 1.3 | A security flaw has been discovered in DeepSeek deepseek-harness up to 0.1.7-rc.2. The affected element is the function… |
+| 2026-09-28 19:16:47 | [CVE-2026-101139](https://nvd.nist.gov/vuln/detail/CVE-2026-101139) | Low | 2.0 | A vulnerability was detected in Webkul Bagisto up to 2.4.6. This impacts an unknown function of the file /admin/sales/i… |
+| 2026-09-28 19:16:48 | [CVE-2026-102010](https://nvd.nist.gov/vuln/detail/CVE-2026-102010) | High | 7.0 | A flaw was found in GCC. When an application calls the erase_if function on a binary heap priority queue in libstdc++,… |
+| 2026-09-28 19:16:49 | [CVE-2026-13018](https://nvd.nist.gov/vuln/detail/CVE-2026-13018) |  |  | Insufficient validation of untrusted input in Codecs in Google Chrome prior to 147.0.7727.55 allowed a remote attacker… |
+| 2026-09-28 19:16:50 | [CVE-2026-84894](https://nvd.nist.gov/vuln/detail/CVE-2026-84894) |  |  | In moxygen before commit 004123dd24c3, MoQSession::dataStreamReadLoop keeps using a stream read handle after reading a… |
+| 2026-09-28 19:16:50 | [CVE-2026-97023](https://nvd.nist.gov/vuln/detail/CVE-2026-97023) | High | 7.1 | A path traversal vulnerability in Flatpak's handling of the export/bin directory during app deployment allows a malicio… |
+| 2026-09-28 19:16:50 | [CVE-2026-97686](https://nvd.nist.gov/vuln/detail/CVE-2026-97686) | Medium | 5.5 | Wind River VxWorks 7 prior to 26.09, specific system call arguments can result in the IPNET subsystem failing to proper… |
 
 ## Data source
 
