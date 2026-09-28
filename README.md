@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 23:19 UTC
+## Latest list — 2026-09-28 00:19 UTC
 
-New CVEs published between 2026-09-27 22:21 UTC and 2026-09-27 23:19 UTC.
+New CVEs published between 2026-09-27 23:19 UTC and 2026-09-28 00:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-27T23-19-02-907395Z.csv)
+[Full CSV](data/new-cves-2026-09-28T00-19-43-808358Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-27 23:16:58 | [CVE-2026-100883](https://nvd.nist.gov/vuln/detail/CVE-2026-100883) | Low | 2.1 | A flaw has been found in Krayin laravel-crm up to 2.2.5. The affected element is an unknown function of the file packag… |
-| 2026-09-27 23:16:58 | [CVE-2026-100884](https://nvd.nist.gov/vuln/detail/CVE-2026-100884) | Low | 2.1 | A vulnerability has been found in Krayin laravel-crm up to 2.2.5. The impacted element is the function Storage::downloa… |
-| 2026-09-27 23:16:58 | [CVE-2026-100885](https://nvd.nist.gov/vuln/detail/CVE-2026-100885) | Medium | 5.5 | A vulnerability was found in Krayin laravel-crm up to 2.2.4. This affects an unknown function of the file packages/Webk… |
-| 2026-09-27 23:16:59 | [CVE-2026-100886](https://nvd.nist.gov/vuln/detail/CVE-2026-100886) | Critical | 9.3 | A vulnerability was identified in Seetong T8108, T8108P, T8116 and T8232 4.6.1.4-build202604241011. The affected elemen… |
-| 2026-09-27 23:17:01 | [CVE-2026-96284](https://nvd.nist.gov/vuln/detail/CVE-2026-96284) | Low | 2.5 | A malicious user can get read-access to files in the flatpak-system-helper context if a system OCI repository is config… |
+| 2026-09-28 00:16:32 | [CVE-2026-100887](https://nvd.nist.gov/vuln/detail/CVE-2026-100887) | Low | 2.1 | A security flaw has been discovered in amirsanni Mini-Inventory-and-Sales-Management-System up to 81bf0b55f5933f3b0dbb1… |
+| 2026-09-28 00:16:32 | [CVE-2026-100888](https://nvd.nist.gov/vuln/detail/CVE-2026-100888) | Medium | 5.5 | A weakness has been identified in Trusted Domain Project OpenDKIM up to 2.11.0. This affects the function dkim_canon_se… |
+| 2026-09-28 00:16:32 | [CVE-2026-100889](https://nvd.nist.gov/vuln/detail/CVE-2026-100889) | Medium | 5.5 | A vulnerability was detected in Trusted Domain Project OpenDKIM up to 2.11.0. Affected is the function dkim_qp_decode o… |
 
 ## Data source
 
