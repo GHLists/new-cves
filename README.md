@@ -9,20 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 05:19 UTC
+## Latest list — 2026-09-28 06:18 UTC
 
-New CVEs published between 2026-09-28 04:19 UTC and 2026-09-28 05:19 UTC.
+New CVEs published between 2026-09-28 05:19 UTC and 2026-09-28 06:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T05-19-35-297482Z.csv)
+[Full CSV](data/new-cves-2026-09-28T06-18-52-664321Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 05:16:28 | [CVE-2026-100907](https://nvd.nist.gov/vuln/detail/CVE-2026-100907) | Medium | 5.5 | A flaw has been found in Eyeplus 57.0.0.0308. The impacted element is an unknown function of the file /snapshot of the… |
-| 2026-09-28 05:16:29 | [CVE-2026-100908](https://nvd.nist.gov/vuln/detail/CVE-2026-100908) | High | 7.7 | A vulnerability has been found in Eyeplus 57.0.0.0308. This affects an unknown function of the component p2pcam HTTP Pa… |
-| 2026-09-28 05:16:30 | [CVE-2026-100909](https://nvd.nist.gov/vuln/detail/CVE-2026-100909) | Medium | 5.5 | A vulnerability was found in OctoberCMS up to 4.1.19/4.2.25/4.3.4. The impacted element is the function getSourcePathFo… |
-| 2026-09-28 05:16:30 | [CVE-2026-101000](https://nvd.nist.gov/vuln/detail/CVE-2026-101000) | Critical | 9.3 | A vulnerability was determined in Netcore NBR100V2 1.3.240614.030928. This affects the function uci.apply of the file /… |
-| 2026-09-28 05:16:30 | [CVE-2026-101001](https://nvd.nist.gov/vuln/detail/CVE-2026-101001) | Critical | 9.3 | A vulnerability was identified in Netcore NBR200V2 1.3.241127.071246. This impacts the function eval of the file /www/c… |
-| 2026-09-28 05:16:30 | [CVE-2026-87723](https://nvd.nist.gov/vuln/detail/CVE-2026-87723) | Medium | 5.4 | In Google fuse-archive versions prior to 1.24, an attacker who can prepend a directory to PATH or write a malicious bin… |
+| 2026-09-28 06:16:29 | [CVE-2026-101002](https://nvd.nist.gov/vuln/detail/CVE-2026-101002) | High | 8.6 | A security flaw has been discovered in Netcore NBR200V2 1.3.241127.071246. Affected is the function system of the file… |
+| 2026-09-28 06:16:31 | [CVE-2026-101003](https://nvd.nist.gov/vuln/detail/CVE-2026-101003) | Medium | 5.5 | A weakness has been identified in Cesanta Mongoose up to 7.21. Affected by this vulnerability is the function fn of the… |
+| 2026-09-28 06:16:31 | [CVE-2026-101004](https://nvd.nist.gov/vuln/detail/CVE-2026-101004) | Medium | 6.9 | A security vulnerability has been detected in notionnext-org NotionNext up to 4.10.10. Affected by this issue is the fu… |
 
 ## Data source
 
