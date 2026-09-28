@@ -9,24 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 11:18 UTC
+## Latest list — 2026-09-28 12:19 UTC
 
-New CVEs published between 2026-09-28 10:19 UTC and 2026-09-28 11:18 UTC.
+New CVEs published between 2026-09-28 11:18 UTC and 2026-09-28 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T11-18-58-898993Z.csv)
+[Full CSV](data/new-cves-2026-09-28T12-19-00-341808Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 11:16:43 | [CVE-2026-101038](https://nvd.nist.gov/vuln/detail/CVE-2026-101038) | High | 8.6 | A vulnerability was determined in FAST FAC1200R 5.0_20201119_1.0.2. Affected by this vulnerability is the function MmtA… |
-| 2026-09-28 11:16:43 | [CVE-2026-101039](https://nvd.nist.gov/vuln/detail/CVE-2026-101039) | Critical | 9.3 | A vulnerability was identified in FAST FAC1900R 20190827_2.0.2. Affected by this issue is the function copy_msg_element… |
-| 2026-09-28 11:16:43 | [CVE-2026-101040](https://nvd.nist.gov/vuln/detail/CVE-2026-101040) | Medium | 5.7 | A security flaw has been discovered in Ricoh SP 330DN, SP 221, SP C252SF and Aficio SP 3500SF up to 20260813. This affe… |
-| 2026-09-28 11:16:43 | [CVE-2026-12267](https://nvd.nist.gov/vuln/detail/CVE-2026-12267) | High | 7.2 | ManageEngine DDI Central versions below 6201 are vulnerable to Command injection in Windows DNS Query Resolution Policy… |
-| 2026-09-28 11:16:44 | [CVE-2026-12268](https://nvd.nist.gov/vuln/detail/CVE-2026-12268) | High | 8.8 | ManageEngine DDI Central versions below 6201 are vulnerable to PowerShell command injection in Windows DNS SPF/TXT reco… |
-| 2026-09-28 11:16:44 | [CVE-2026-12269](https://nvd.nist.gov/vuln/detail/CVE-2026-12269) | High | 8.8 | Zohocorp ManageEngine DDI Central 6.2.0 build below 6201 had a Keepalived configuration injection vulnerability in the… |
-| 2026-09-28 11:16:45 | [CVE-2026-19759](https://nvd.nist.gov/vuln/detail/CVE-2026-19759) | Critical | 9.4 | An Incorrect Authorization vulnerability in the task configuration in Google Cloud Application Integration versions pri… |
-| 2026-09-28 11:16:47 | [CVE-2026-81375](https://nvd.nist.gov/vuln/detail/CVE-2026-81375) | High | 8.3 | A Confused Deputy vulnerability in the EmailTask component in Google Cloud Application Integration versions prior to 20… |
-| 2026-09-28 11:16:48 | [CVE-2026-81867](https://nvd.nist.gov/vuln/detail/CVE-2026-81867) | Critical | 9.4 | A Deserialization of Untrusted Data vulnerability in the JavaScript Task in Google Cloud Application Integration versio… |
-| 2026-09-28 11:16:48 | [CVE-2026-91006](https://nvd.nist.gov/vuln/detail/CVE-2026-91006) |  |  | Apache Karaf's instance-management service (InstanceServiceImpl) builds the command line used to launch a child Karaf J… |
+| 2026-09-28 12:17:35 | [CVE-2026-101052](https://nvd.nist.gov/vuln/detail/CVE-2026-101052) | Medium | 5.5 | A security vulnerability has been detected in refly-ai refly up to 1.1.0. This issue affects some unknown processing of… |
+| 2026-09-28 12:17:36 | [CVE-2026-101053](https://nvd.nist.gov/vuln/detail/CVE-2026-101053) | Medium | 5.5 | A vulnerability was determined in Thinkware U3000 up to 1.02.04. This impacts the function PUT_FILE of the file /tmp/wp… |
+| 2026-09-28 12:17:36 | [CVE-2026-101054](https://nvd.nist.gov/vuln/detail/CVE-2026-101054) | Medium | 5.5 | A vulnerability was identified in Thinkware U3000 up to 1.02.04. Affected is the function get_file of the file /tmp/wpa… |
+| 2026-09-28 12:17:36 | [CVE-2026-12264](https://nvd.nist.gov/vuln/detail/CVE-2026-12264) | High | 8.8 | Zohocorp ManageEngine DDI Central versions before 6201 are vulnerable to Arbitrary file write via HA Failover Config sy… |
+| 2026-09-28 12:17:36 | [CVE-2026-19444](https://nvd.nist.gov/vuln/detail/CVE-2026-19444) | Medium | 6.5 | A path traversal vulnerability was discovered in the Kubernetes kubectl client's kubectl cp command on Windows. When co… |
+| 2026-09-28 12:17:40 | [CVE-2026-78424](https://nvd.nist.gov/vuln/detail/CVE-2026-78424) | High | 8.8 | Improper parameter handling in NeuVector allows any authenticated user who holds the namespaced Runtime Policies (write… |
+| 2026-09-28 12:17:41 | [CVE-2026-87752](https://nvd.nist.gov/vuln/detail/CVE-2026-87752) | Medium | 6.1 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Rolantis Informat… |
+| 2026-09-28 12:17:41 | [CVE-2026-91043](https://nvd.nist.gov/vuln/detail/CVE-2026-91043) | High | 8.2 | Allocation of Resources Without Limits or Throttling vulnerability in elixir-mint mint allows a malicious HTTP/2 server… |
+| 2026-09-28 12:17:41 | [CVE-2026-92103](https://nvd.nist.gov/vuln/detail/CVE-2026-92103) | Medium | 6.3 | Allocation of Resources Without Limits or Throttling vulnerability in elixir-mint mint allows a malicious HTTP/2 server… |
+| 2026-09-28 12:17:42 | [CVE-2026-94194](https://nvd.nist.gov/vuln/detail/CVE-2026-94194) | Medium | 6.3 | Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling') vulnerability in elixir-mint mint allo… |
 
 ## Data source
 
