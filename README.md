@@ -9,27 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 15:19 UTC
+## Latest list — 2026-09-28 16:18 UTC
 
-New CVEs published between 2026-09-28 14:20 UTC and 2026-09-28 15:19 UTC.
+New CVEs published between 2026-09-28 15:19 UTC and 2026-09-28 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T15-19-47-973919Z.csv)
+[Full CSV](data/new-cves-2026-09-28T16-18-56-233619Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 15:17:12 | [CVE-2026-101073](https://nvd.nist.gov/vuln/detail/CVE-2026-101073) | Medium | 5.5 | A security flaw has been discovered in Netcore NR289-GE 1.4.5102. Impacted is an unknown function of the file /bin/boa… |
-| 2026-09-28 15:17:12 | [CVE-2026-101074](https://nvd.nist.gov/vuln/detail/CVE-2026-101074) | High | 8.9 | A weakness has been identified in Netcore NR289-GE 1.4.5102. The affected element is the function password-check of the… |
-| 2026-09-28 15:17:13 | [CVE-2026-101075](https://nvd.nist.gov/vuln/detail/CVE-2026-101075) | Critical | 9.3 | A security vulnerability has been detected in Netcore NR289-GE 1.4.5102. The impacted element is the function system of… |
-| 2026-09-28 15:17:13 | [CVE-2026-101333](https://nvd.nist.gov/vuln/detail/CVE-2026-101333) | Low | 3.7 | A flaw was found in the Micrometer user-event metrics listener of Keycloak, a solution for integrated identity and acce… |
-| 2026-09-28 15:17:17 | [CVE-2026-4556](https://nvd.nist.gov/vuln/detail/CVE-2026-4556) | High | 7.8 | Exam4 is affected by a local privilege escalation vulnerability in the com.extegrity.LogTool privileged helper, which c… |
-| 2026-09-28 15:17:23 | [CVE-2026-70413](https://nvd.nist.gov/vuln/detail/CVE-2026-70413) | Medium | 5.6 | Dell Live Optics Collector, versions prior to 27.2.13.310, contain(s) a Use of Hard-coded Password vulnerability. A low… |
-| 2026-09-28 15:17:23 | [CVE-2026-80357](https://nvd.nist.gov/vuln/detail/CVE-2026-80357) | High | 7.0 | Dell Boot Optimized Server Storage (BOSS), versions prior to 2.2.13.2038, contains an On-Chip Debug and Test Interface… |
-| 2026-09-28 15:17:23 | [CVE-2026-80358](https://nvd.nist.gov/vuln/detail/CVE-2026-80358) | Medium | 5.1 | Dell Boot Optimized Server Storage (BOSS), versions prior to 2.2.13.2038, contains an On-Chip Debug and Test Interface… |
-| 2026-09-28 15:17:24 | [CVE-2026-80359](https://nvd.nist.gov/vuln/detail/CVE-2026-80359) | Medium | 6.8 | Dell Boot Optimized Server Storage (BOSS), versions prior to 2.2.13.2038, contains an On-Chip Debug and Test Interface… |
-| 2026-09-28 15:17:24 | [CVE-2026-93538](https://nvd.nist.gov/vuln/detail/CVE-2026-93538) | High | 7.1 | A cross-tenant authorization issue was discovered in SUSE Rancher Fleet. During agent-initiated cluster registration, c… |
-| 2026-09-28 15:17:25 | [CVE-2026-93539](https://nvd.nist.gov/vuln/detail/CVE-2026-93539) | Medium | 5.4 | A vulnerability was discovered in Fleet's Git webhook receiver (the gitjob webhook service). When a webhook secret is n… |
-| 2026-09-28 15:17:25 | [CVE-2026-93540](https://nvd.nist.gov/vuln/detail/CVE-2026-93540) | Medium | 6.5 | A privilege mismatch was found in Fleet. When a bundle requested namespace labels or annotations through the namespaceL… |
-| 2026-09-28 15:17:25 | [CVE-2026-96538](https://nvd.nist.gov/vuln/detail/CVE-2026-96538) | High | 8.7 | WarehousePG (WHPG) 7.x before 7.6.0-WHPG is affected by a missing authorization vulnerability (CWE-862) in the built-in… |
+| 2026-09-28 16:17:11 | [CVE-2026-101076](https://nvd.nist.gov/vuln/detail/CVE-2026-101076) | Critical | 9.3 | A vulnerability was detected in Netcore NR289-GE 1.4.5102. This affects the function system of the file /set_ntp_server… |
+| 2026-09-28 16:17:12 | [CVE-2026-101077](https://nvd.nist.gov/vuln/detail/CVE-2026-101077) | Critical | 9.3 | A flaw has been found in Netcore NR289-GE 1.4.5102. This impacts the function process_request of the component boa_temp… |
+| 2026-09-28 16:17:12 | [CVE-2026-101078](https://nvd.nist.gov/vuln/detail/CVE-2026-101078) | Low | 1.9 | A vulnerability has been found in deepseek-ai deepseek-harness up to 0.1.7-rc.2. Affected is an unknown function of the… |
+| 2026-09-28 16:17:12 | [CVE-2026-101079](https://nvd.nist.gov/vuln/detail/CVE-2026-101079) | Low | 0.9 | A vulnerability was found in agentverus agentverus-scanner up to 0.8.1. Affected by this vulnerability is the function… |
+| 2026-09-28 16:17:12 | [CVE-2026-101080](https://nvd.nist.gov/vuln/detail/CVE-2026-101080) | Low | 0.9 | A vulnerability was identified in Tencent AI-Infra-Guard up to 4.5.2/4.6.2. This affects the function startsWith of the… |
+| 2026-09-28 16:17:13 | [CVE-2026-101861](https://nvd.nist.gov/vuln/detail/CVE-2026-101861) | Low | 2.1 | Langflow 1.0.16 before 1.12.0 and 0.0.94 before 1.12.0 contain an unsafe eval() vulnerability in schema.py that allows… |
+| 2026-09-28 16:17:13 | [CVE-2026-12342](https://nvd.nist.gov/vuln/detail/CVE-2026-12342) | Critical | 9.6 | This vulnerability impacts all versions of IdentityIQ and allows an unauthenticated user remote code execution on the I… |
+| 2026-09-28 16:17:15 | [CVE-2026-88804](https://nvd.nist.gov/vuln/detail/CVE-2026-88804) | Critical | 9.6 | An unauthenticated update of public UI settings could be used by remote attackers to execute a stored cross-site script… |
+| 2026-09-28 16:17:16 | [CVE-2026-88805](https://nvd.nist.gov/vuln/detail/CVE-2026-88805) | High | 8.1 | Incorrect credential cleaning on logout could be used by remote attackers to keep access credentials even after the acc… |
+| 2026-09-28 16:17:16 | [CVE-2026-88808](https://nvd.nist.gov/vuln/detail/CVE-2026-88808) | High | 8.8 | A vulnerability has been identified within Rancher Manager where the Fleet agent wrote resources to downstream clusters… |
+| 2026-09-28 16:17:17 | [CVE-2026-91154](https://nvd.nist.gov/vuln/detail/CVE-2026-91154) | Medium | 6.9 | Missing Authentication for Critical Function (CWE-306) in the product cache revalidation Server Action (src/app/actions… |
+| 2026-09-28 16:17:17 | [CVE-2026-93348](https://nvd.nist.gov/vuln/detail/CVE-2026-93348) | High | 8.6 | Unsloth Zoo versions 2025.9.9 before 2026.8.14, as implemented in Unsloth 2025.9.9 through 2026.8.19, contains a code i… |
+| 2026-09-28 16:17:18 | [CVE-2026-97399](https://nvd.nist.gov/vuln/detail/CVE-2026-97399) | Low | 3.7 | The strncasecmp function in the GNU C Library 2.24 and later optimized for the Power8 architecture may read one byte be… |
 
 ## Data source
 
