@@ -9,29 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:18 UTC
+## Latest list — 2026-09-28 08:20 UTC
 
-New CVEs published between 2026-09-28 06:18 UTC and 2026-09-28 07:18 UTC.
+New CVEs published between 2026-09-28 07:18 UTC and 2026-09-28 08:20 UTC.
 
-[Full CSV](data/new-cves-2026-09-28T07-18-51-902971Z.csv)
+[Full CSV](data/new-cves-2026-09-28T08-20-17-721775Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-28 07:17:18 | [CVE-2026-100750](https://nvd.nist.gov/vuln/detail/CVE-2026-100750) | High | 8.5 | Joomla Extension - regularlabs.com - LFI / SSRF in Modules Anywhere 1.5.0 - 9.0.5 for Joomla - Modules Anywhere Pro let… |
-| 2026-09-28 07:17:19 | [CVE-2026-100751](https://nvd.nist.gov/vuln/detail/CVE-2026-100751) | High | 7.5 | Joomla Extension - regularlabs.com - Privileged stored XSS via data-rlta-url attributes in Tabs & Accordions (Pro) 2.3.… |
-| 2026-09-28 07:17:19 | [CVE-2026-101005](https://nvd.nist.gov/vuln/detail/CVE-2026-101005) | Medium | 5.5 | A vulnerability was detected in October CMS up to 4.3.4. This affects the function validateExternalImageHost of the fil… |
-| 2026-09-28 07:17:20 | [CVE-2026-101006](https://nvd.nist.gov/vuln/detail/CVE-2026-101006) | Low | 2.1 | A flaw has been found in Frappe HR up to 16.15.0. This vulnerability affects the function get_expense_claims/get_shift_… |
-| 2026-09-28 07:17:20 | [CVE-2026-101007](https://nvd.nist.gov/vuln/detail/CVE-2026-101007) | High | 8.5 | A vulnerability has been found in aaPanel BaoTa up to 11.8.0. This issue affects the function InputSql of the file clas… |
-| 2026-09-28 07:17:20 | [CVE-2026-101008](https://nvd.nist.gov/vuln/detail/CVE-2026-101008) | High | 8.5 | A vulnerability was found in aaPanel BaoTa up to 11.8.0. Impacted is the function merge_split_file of the file /www/ser… |
-| 2026-09-28 07:17:20 | [CVE-2026-101009](https://nvd.nist.gov/vuln/detail/CVE-2026-101009) | High | 8.5 | A vulnerability was determined in aaPanel BaoTa up to 11.8.0. The affected element is the function panelTask.bt_task._u… |
-| 2026-09-28 07:17:20 | [CVE-2026-84744](https://nvd.nist.gov/vuln/detail/CVE-2026-84744) | Medium | 6.5 | The WPForms Lite WordPress plugin from 1.5.0.1 to 2.0.2 does not remove shortcode delimiters from submitted field value… |
-| 2026-09-28 07:17:20 | [CVE-2026-86838](https://nvd.nist.gov/vuln/detail/CVE-2026-86838) | Medium | 5.3 | The Bookly WordPress plugin before 28.3 does not validate client-supplied booking quantity values on the server before… |
-| 2026-09-28 07:17:21 | [CVE-2026-88828](https://nvd.nist.gov/vuln/detail/CVE-2026-88828) | Medium | 5.4 | The Blacklist Manager for WooCommerce WordPress plugin from 1.3.0 to 2.3.1 does not enforce its user blocking on every… |
-| 2026-09-28 07:17:21 | [CVE-2026-89300](https://nvd.nist.gov/vuln/detail/CVE-2026-89300) |  |  | The WP Verify API WordPress plugin through 1.0.0 does not have any authorisation check in one of its REST routes, allow… |
-| 2026-09-28 07:17:21 | [CVE-2026-89303](https://nvd.nist.gov/vuln/detail/CVE-2026-89303) |  |  | The Post Voting System WordPress plugin through 1.0 does not properly sanitize and escape a parameter before using it i… |
-| 2026-09-28 07:17:21 | [CVE-2026-89411](https://nvd.nist.gov/vuln/detail/CVE-2026-89411) | Medium | 5.3 | The Paymattic WordPress plugin from 4.6.20 before 4.6.26 does not verify that a confirmed Stripe payment belongs to the… |
-| 2026-09-28 07:17:21 | [CVE-2026-92996](https://nvd.nist.gov/vuln/detail/CVE-2026-92996) | Medium | 5.3 | The Verge3D WordPress plugin from 4.1.0 through 4.13.0 does not verify with the payment provider that a payment was act… |
-| 2026-09-28 07:17:21 | [CVE-2026-93000](https://nvd.nist.gov/vuln/detail/CVE-2026-93000) |  |  | The SPS-Suite WordPress plugin through 1.4.0 does not sanitise the search query before using it in a SQL query when its… |
+| 2026-09-28 08:16:36 | [CVE-2026-101010](https://nvd.nist.gov/vuln/detail/CVE-2026-101010) | Low | 2.0 | A vulnerability was identified in aaPanel BaoTa up to 11.8.0. The impacted element is the function getData of the file… |
+| 2026-09-28 08:16:36 | [CVE-2026-101011](https://nvd.nist.gov/vuln/detail/CVE-2026-101011) | Low | 2.0 | A security flaw has been discovered in aaPanel BaoTa up to 11.8.0. This affects the function get_domain_status of the f… |
+| 2026-09-28 08:16:37 | [CVE-2026-101012](https://nvd.nist.gov/vuln/detail/CVE-2026-101012) | Medium | 5.5 | A weakness has been identified in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494db3fb95b66e7b… |
+| 2026-09-28 08:16:37 | [CVE-2026-101013](https://nvd.nist.gov/vuln/detail/CVE-2026-101013) | Medium | 5.5 | A security vulnerability has been detected in mathurvishal CloudClassroom-PHP-Project up to 5dadec098bfbbf3300d60c3494d… |
+| 2026-09-28 08:16:40 | [CVE-2026-82348](https://nvd.nist.gov/vuln/detail/CVE-2026-82348) | High | 7.7 | Authorization Bypass Through User-Controlled Key in Apache Roller 6.1.5 allows an authenticated user with authoring rig… |
+| 2026-09-28 08:16:41 | [CVE-2026-82375](https://nvd.nist.gov/vuln/detail/CVE-2026-82375) | High | 7.4 | Server-Side Request Forgery (SSRF) in Apache Roller 6.1.5 allows an authenticated user with entry-editing rights on a w… |
+| 2026-09-28 08:16:41 | [CVE-2026-82376](https://nvd.nist.gov/vuln/detail/CVE-2026-82376) | High | 7.7 | Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a user with entry-editing rights on… |
+| 2026-09-28 08:16:41 | [CVE-2026-82377](https://nvd.nist.gov/vuln/detail/CVE-2026-82377) | Critical | 9.9 | Missing Authorization in Apache Roller 6.1.5 allows an authenticated user to read, modify, or delete weblog content bel… |
+| 2026-09-28 08:16:41 | [CVE-2026-82378](https://nvd.nist.gov/vuln/detail/CVE-2026-82378) | Critical | 9.0 | Incorrect Authorization in the OAuth 1.0a authorization endpoint of Apache Roller 6.1.5 allows an unauthenticated remot… |
+| 2026-09-28 08:16:41 | [CVE-2026-82379](https://nvd.nist.gov/vuln/detail/CVE-2026-82379) | High | 7.7 | Authentication Bypass by Capture-replay in Apache Roller 6.1.5 allows an attacker who captures a valid WSSE digest auth… |
+| 2026-09-28 08:16:41 | [CVE-2026-82380](https://nvd.nist.gov/vuln/detail/CVE-2026-82380) | High | 8.1 | Cross-Site Request Forgery (CSRF) in Apache Roller 6.1.5 allows a remote attacker to cause a logged-in user to perform… |
+| 2026-09-28 08:16:41 | [CVE-2026-82381](https://nvd.nist.gov/vuln/detail/CVE-2026-82381) | Medium | 5.4 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a us… |
+| 2026-09-28 08:16:42 | [CVE-2026-82382](https://nvd.nist.gov/vuln/detail/CVE-2026-82382) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a re… |
+| 2026-09-28 08:16:42 | [CVE-2026-82383](https://nvd.nist.gov/vuln/detail/CVE-2026-82383) | High | 8.2 | Missing Authentication for Critical Function in Apache Roller 6.1.5 allows an unauthenticated remote attacker to persis… |
+| 2026-09-28 08:16:42 | [CVE-2026-82384](https://nvd.nist.gov/vuln/detail/CVE-2026-82384) | Critical | 9.8 | Deserialization of Untrusted Data in Apache Roller 6.1.5 allows an unauthenticated remote attacker to cause deserializa… |
+| 2026-09-28 08:16:42 | [CVE-2026-82385](https://nvd.nist.gov/vuln/detail/CVE-2026-82385) | Medium | 6.5 | Exposure of Sensitive Information to an Unauthorized Actor in Apache Roller 6.1.5 allows a weblog administrator to read… |
+| 2026-09-28 08:16:42 | [CVE-2026-82386](https://nvd.nist.gov/vuln/detail/CVE-2026-82386) | High | 7.7 | Improper Restriction of XML External Entity Reference in Apache Roller 6.1.5 allows a weblog administrator to read file… |
+| 2026-09-28 08:16:42 | [CVE-2026-82387](https://nvd.nist.gov/vuln/detail/CVE-2026-82387) | Medium | 5.4 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a us… |
+| 2026-09-28 08:16:42 | [CVE-2026-82546](https://nvd.nist.gov/vuln/detail/CVE-2026-82546) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows an u… |
+| 2026-09-28 08:16:42 | [CVE-2026-91204](https://nvd.nist.gov/vuln/detail/CVE-2026-91204) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows an a… |
+| 2026-09-28 08:16:43 | [CVE-2026-91206](https://nvd.nist.gov/vuln/detail/CVE-2026-91206) | Medium | 6.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in Apache Roller 6.1.5 allows a re… |
 
 ## Data source
 
