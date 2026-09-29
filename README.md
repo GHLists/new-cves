@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 05:21 UTC
+## Latest list — 2026-09-29 06:19 UTC
 
-New CVEs published between 2026-09-29 04:18 UTC and 2026-09-29 05:21 UTC.
+New CVEs published between 2026-09-29 05:21 UTC and 2026-09-29 06:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T05-21-21-536329Z.csv)
+[Full CSV](data/new-cves-2026-09-29T06-19-35-314648Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 05:16:57 | [CVE-2026-102261](https://nvd.nist.gov/vuln/detail/CVE-2026-102261) | Low | 2.1 | A flaw has been found in owen2345 Camaleon CMS up to 2.9.2. Impacted is the function crop of the file app/controllers/c… |
-| 2026-09-29 05:16:58 | [CVE-2026-102263](https://nvd.nist.gov/vuln/detail/CVE-2026-102263) | Low | 2.0 | A vulnerability has been found in mwasikz robo-cafe-rms up to 228c44a02823f04e85db32b7137809a2856148fc. The affected el… |
-| 2026-09-29 05:16:59 | [CVE-2026-102264](https://nvd.nist.gov/vuln/detail/CVE-2026-102264) | Low | 2.0 | A vulnerability was found in mwasikz robo-cafe-rms up to 228c44a02823f04e85db32b7137809a2856148fc. The impacted element… |
-| 2026-09-29 05:16:59 | [CVE-2026-102290](https://nvd.nist.gov/vuln/detail/CVE-2026-102290) | Low | 2.0 | A vulnerability was determined in CodeCanyon Rocket LMS up to 2.2. This affects an unknown function of the component St… |
+| 2026-09-29 06:16:58 | [CVE-2026-102292](https://nvd.nist.gov/vuln/detail/CVE-2026-102292) | Low | 2.1 | A flaw has been found in coolbeans1212 MateisHomePage-Website up to ea2a4226deeca27ab1fb9df0552ec76444547811. Affected… |
+| 2026-09-29 06:16:58 | [CVE-2026-102293](https://nvd.nist.gov/vuln/detail/CVE-2026-102293) | Medium | 5.5 | A vulnerability was identified in realjerrytang tacomall 1.0.0. Impacted is the function OrgStaffServiceImpl.add of the… |
 
 ## Data source
 
