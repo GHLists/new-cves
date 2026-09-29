@@ -9,27 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:22 UTC
+## Latest list — 2026-09-29 22:22 UTC
 
-New CVEs published between 2026-09-29 20:19 UTC and 2026-09-29 21:22 UTC.
+New CVEs published between 2026-09-29 21:22 UTC and 2026-09-29 22:22 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T21-22-21-242162Z.csv)
+[Full CSV](data/new-cves-2026-09-29T22-22-41-465863Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 21:17:13 | [CVE-2026-102253](https://nvd.nist.gov/vuln/detail/CVE-2026-102253) | High | 8.7 | iperf3 versions prior to 3.22 contains a denial of service vulnerability that allows unauthenticated remote attackers t… |
-| 2026-09-29 21:17:18 | [CVE-2026-102620](https://nvd.nist.gov/vuln/detail/CVE-2026-102620) | Low | 1.9 | A vulnerability was determined in Freedesktop Poppler 26.06.0/26.07.0/26.08.0. This impacts the function FoFiTrueType::… |
-| 2026-09-29 21:17:18 | [CVE-2026-102904](https://nvd.nist.gov/vuln/detail/CVE-2026-102904) | Medium | 5.4 | JupyterLab is an extensible environment for interactive and reproducible computing, based on the Jupyter Notebook Archi… |
-| 2026-09-29 21:17:18 | [CVE-2026-102925](https://nvd.nist.gov/vuln/detail/CVE-2026-102925) | High | 7.8 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.7.13, the generated activate (bash… |
-| 2026-09-29 21:17:18 | [CVE-2026-102930](https://nvd.nist.gov/vuln/detail/CVE-2026-102930) | High | 7.7 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.7.12, download_wheel() accepts pip… |
-| 2026-09-29 21:17:18 | [CVE-2026-102937](https://nvd.nist.gov/vuln/detail/CVE-2026-102937) | High | 7.3 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.7.12, BatchActivator.quote() return… |
-| 2026-09-29 21:17:19 | [CVE-2026-102938](https://nvd.nist.gov/vuln/detail/CVE-2026-102938) | Medium | 5.8 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.7.11, PyEnvCfg.write() writes promp… |
-| 2026-09-29 21:19:31 | [CVE-2026-81841](https://nvd.nist.gov/vuln/detail/CVE-2026-81841) | Medium | 5.3 | Pausing a shared (public) dashboard did not revoke its access token for the endpoints that serve frontend bootstrap dat… |
-| 2026-09-29 21:19:31 | [CVE-2026-81842](https://nvd.nist.gov/vuln/detail/CVE-2026-81842) | Medium | 4.3 | An authenticated user with edit permission on one folder can move a library panel into another folder where they only h… |
-| 2026-09-29 21:19:39 | [CVE-2026-93853](https://nvd.nist.gov/vuln/detail/CVE-2026-93853) | High | 7.2 | Unverified ownership in Barman snapshot backup deletion allows a principal who can write the backup catalog to cause Ba… |
-| 2026-09-29 21:19:39 | [CVE-2026-94204](https://nvd.nist.gov/vuln/detail/CVE-2026-94204) | High | 8.7 | The central cloud storage backend for the entire dashcam platform is misconfigured with public-read permissions, allowi… |
-| 2026-09-29 21:19:39 | [CVE-2026-94952](https://nvd.nist.gov/vuln/detail/CVE-2026-94952) |  |  | A stack-based buffer overflow vulnerability exists in the web management interface of TOTOLINK N150RT (NTR150) firmware… |
-| 2026-09-29 21:19:39 | [CVE-2026-96587](https://nvd.nist.gov/vuln/detail/CVE-2026-96587) | Critical | 10.0 | The Viidure Android application embeds permanent, plaintext cloud storage credentials within its compiled code. These c… |
+| 2026-09-29 22:17:07 | [CVE-2026-102621](https://nvd.nist.gov/vuln/detail/CVE-2026-102621) | Low | 1.9 | A vulnerability was identified in Freedesktop Poppler up to 26.08.0. Affected is the function SplashClip::clipToPath of… |
+| 2026-09-29 22:17:08 | [CVE-2026-102771](https://nvd.nist.gov/vuln/detail/CVE-2026-102771) | Low | 2.0 | A security vulnerability has been detected in Naichen ThinkCMF up to 8.0.7. Affected by this issue is the function Mail… |
+| 2026-09-29 22:17:11 | [CVE-2026-63713](https://nvd.nist.gov/vuln/detail/CVE-2026-63713) | High | 8.5 | The "search" parameter in the view audit logs feature within the utilities section is susceptible to a time-based blind… |
+| 2026-09-29 22:17:15 | [CVE-2026-68068](https://nvd.nist.gov/vuln/detail/CVE-2026-68068) | High | 8.5 | The "screenID" parameter in the electronic transaction queue viewer feature within the manual transactions section is s… |
+| 2026-09-29 22:17:21 | [CVE-2026-68954](https://nvd.nist.gov/vuln/detail/CVE-2026-68954) | High | 8.5 | The "pattern" parameter used in search function in the home page of the TMS application is vulnerable to time-based bli… |
+| 2026-09-29 22:17:58 | [CVE-2026-69662](https://nvd.nist.gov/vuln/detail/CVE-2026-69662) | Low | 2.1 | The application uses unsafe functions that allow execution of inline scripts and string evaluation functions. |
+| 2026-09-29 22:18:16 | [CVE-2026-70356](https://nvd.nist.gov/vuln/detail/CVE-2026-70356) | Critical | 9.4 | The TMS file upload endpoint fails to enforce server-side file type restrictions, allowing an attacker to upload and ex… |
+| 2026-09-29 22:18:18 | [CVE-2026-71189](https://nvd.nist.gov/vuln/detail/CVE-2026-71189) | Medium | 4.8 | An attacker can construct a request that, if issued by another application user, will cause JavaScript code supplied by… |
+| 2026-09-29 22:18:18 | [CVE-2026-71302](https://nvd.nist.gov/vuln/detail/CVE-2026-71302) | High | 7.5 | The application accepts user-supplied session identifiers and does not regenerate the session ID after authentication.… |
+| 2026-09-29 22:18:21 | [CVE-2026-71379](https://nvd.nist.gov/vuln/detail/CVE-2026-71379) | Critical | 10.0 | The file export endpoint allows any unauthenticated attacker to export arbitrary database tables by sending a crafted P… |
+| 2026-09-29 22:18:21 | [CVE-2026-71971](https://nvd.nist.gov/vuln/detail/CVE-2026-71971) | High | 8.8 | U-Boot before 2026.10-rc3 with CONFIG_IP_DEFRAG enabled contains an out-of-bounds write vulnerability in the __net_defr… |
+| 2026-09-29 22:18:21 | [CVE-2026-71972](https://nvd.nist.gov/vuln/detail/CVE-2026-71972) | Medium | 6.0 | U-Boot through 2026.10-rc5 contains an out-of-bounds write vulnerability in the video_display_rle8_bitmap function in d… |
+| 2026-09-29 22:18:22 | [CVE-2026-71973](https://nvd.nist.gov/vuln/detail/CVE-2026-71973) | Medium | 5.2 | U-Boot before 2026.10-rc4 contains an integer overflow vulnerability in sqfs_read_directory_table() function when alloc… |
+| 2026-09-29 22:18:22 | [CVE-2026-71974](https://nvd.nist.gov/vuln/detail/CVE-2026-71974) | Medium | 4.3 | U-Boot before 2026.10-rc3 contains an out-of-bounds write vulnerability in read_slotted_partition() that fails to valid… |
+| 2026-09-29 22:18:22 | [CVE-2026-72507](https://nvd.nist.gov/vuln/detail/CVE-2026-72507) | High | 8.5 | The "reportType" parameter in the product summary report feature within the balancing reports section is susceptible to… |
+| 2026-09-29 22:18:22 | [CVE-2026-72510](https://nvd.nist.gov/vuln/detail/CVE-2026-72510) | High | 8.5 | The "supplier_no" parameter used in the business allocation search feature is vulnerable to time-based blind SQL inject… |
+| 2026-09-29 22:18:33 | [CVE-2026-74220](https://nvd.nist.gov/vuln/detail/CVE-2026-74220) | High | 8.8 | U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_read_reply() function in net/nfs-common.c that allows attac… |
+| 2026-09-29 22:18:33 | [CVE-2026-74221](https://nvd.nist.gov/vuln/detail/CVE-2026-74221) | High | 8.8 | U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_readlink_reply() function in net/nfs-common.c when processi… |
+| 2026-09-29 22:18:33 | [CVE-2026-74222](https://nvd.nist.gov/vuln/detail/CVE-2026-74222) | High | 8.8 | U-Boot before 2026.10-rc5 contains a use-after-free vulnerability in the httpc_recv_cb() function within the lwIP wget… |
+| 2026-09-29 22:18:33 | [CVE-2026-74225](https://nvd.nist.gov/vuln/detail/CVE-2026-74225) | High | 7.1 | U-Boot before 2026.10-rc5 contains out-of-bounds memory access in dhcp6_parse_options() that fails to validate SERVERID… |
+| 2026-09-29 22:19:01 | [CVE-2026-84409](https://nvd.nist.gov/vuln/detail/CVE-2026-84409) | High | 7.7 | The device's update mechanism retrieves metadata for software updates over an unencrypted HTTP connection and stores po… |
+| 2026-09-29 22:19:03 | [CVE-2026-91191](https://nvd.nist.gov/vuln/detail/CVE-2026-91191) | High | 7.7 | The device's update mechanism includes conditions that allow unauthorized software packages to be accepted as authentic… |
 
 ## Data source
 
