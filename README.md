@@ -9,50 +9,55 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 16:19 UTC
+## Latest list — 2026-09-29 17:20 UTC
 
-New CVEs published between 2026-09-29 15:19 UTC and 2026-09-29 16:19 UTC.
+New CVEs published between 2026-09-29 16:19 UTC and 2026-09-29 17:20 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T16-19-16-986737Z.csv)
+[Full CSV](data/new-cves-2026-09-29T17-20-01-151591Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 16:17:04 | [CVE-2023-54400](https://nvd.nist.gov/vuln/detail/CVE-2023-54400) | Critical | 9.3 | Fumasoft Fumeng Cloud contains a SQL injection vulnerability in the AjaxMethod.ashx endpoint that allows unauthenticate… |
-| 2026-09-29 16:17:04 | [CVE-2026-100286](https://nvd.nist.gov/vuln/detail/CVE-2026-100286) |  |  | Missing authorization in the data source settings API in Devolutions Server 2026.3.5.0 and earlier allows an authentica… |
-| 2026-09-29 16:17:04 | [CVE-2026-100287](https://nvd.nist.gov/vuln/detail/CVE-2026-100287) |  |  | Missing authorization in the attachment history API in Devolutions Server 2026.3.5.0 and earlier allows an authenticate… |
-| 2026-09-29 16:17:04 | [CVE-2026-100288](https://nvd.nist.gov/vuln/detail/CVE-2026-100288) |  |  | Cleartext storage of sensitive information in the database in Devolutions Server 2026.3.5.0 and earlier allows an attac… |
-| 2026-09-29 16:17:04 | [CVE-2026-100289](https://nvd.nist.gov/vuln/detail/CVE-2026-100289) |  |  | Missing authorization in the gateway network scan token API in Devolutions Server 2026.3.5.0 and earlier allows an auth… |
-| 2026-09-29 16:17:04 | [CVE-2026-100308](https://nvd.nist.gov/vuln/detail/CVE-2026-100308) | High | 8.4 | Deserialization of untrusted data in the model loading component in Amazon GluonTS before 0.17.0 might allow context-de… |
-| 2026-09-29 16:17:06 | [CVE-2026-102598](https://nvd.nist.gov/vuln/detail/CVE-2026-102598) | Medium | 6.3 | Werkzeug is a comprehensive WSGI web application library. Prior to 3.1.9, the safe_join function used by send_from_dire… |
-| 2026-09-29 16:17:06 | [CVE-2026-102600](https://nvd.nist.gov/vuln/detail/CVE-2026-102600) | High | 7.5 | Socket.IO enables bidirectional and low-latency communication for every platform. Prior to 0.1.1, @socket.io/cluster-en… |
-| 2026-09-29 16:17:06 | [CVE-2026-102601](https://nvd.nist.gov/vuln/detail/CVE-2026-102601) | Low | 3.5 | Flysystem is an open source file storage library for PHP. Prior to 3.35.3, the default WhitespacePathNormalizer in src/… |
-| 2026-09-29 16:17:06 | [CVE-2026-102630](https://nvd.nist.gov/vuln/detail/CVE-2026-102630) | Low | 2.3 | UnoPim versions before 2.0.1 and 2.1.1 trust all connecting clients as proxies and honor the X-Forwarded-Host header wi… |
-| 2026-09-29 16:17:07 | [CVE-2026-19743](https://nvd.nist.gov/vuln/detail/CVE-2026-19743) | High | 7.8 | Improper path validation in the local IPC service of TeamViewer Full Client and Host on Windows, Linux, and macOS prior… |
-| 2026-09-29 16:17:07 | [CVE-2026-35189](https://nvd.nist.gov/vuln/detail/CVE-2026-35189) |  |  | Issue summary: A certificate with many nameRelativeToCRLIssuer CRL distribution points causes disproportionate heap gro… |
-| 2026-09-29 16:17:07 | [CVE-2026-35191](https://nvd.nist.gov/vuln/detail/CVE-2026-35191) |  |  | Issue summary: The OpenSSL QUIC server, when configured to not preform address validation, can be forced to count incom… |
-| 2026-09-29 16:17:07 | [CVE-2026-42772](https://nvd.nist.gov/vuln/detail/CVE-2026-42772) |  |  | Issue summary: The QUIC stream reassembly algorithm performance deteriorates progressively as packets are arriving out… |
-| 2026-09-29 16:17:08 | [CVE-2026-54872](https://nvd.nist.gov/vuln/detail/CVE-2026-54872) |  |  | Issue summary: The generic elliptic-curve scalar multiplication used for ECDSA and SM2 signature operations with curves… |
-| 2026-09-29 16:17:08 | [CVE-2026-54873](https://nvd.nist.gov/vuln/detail/CVE-2026-54873) |  |  | Issue summary: QUIC process may keep memory for QUIC packet buffer for much longer period than necessary. Impact summar… |
-| 2026-09-29 16:17:08 | [CVE-2026-54875](https://nvd.nist.gov/vuln/detail/CVE-2026-54875) |  |  | Issue summary: A non-constant-time optimized implementation of scalar point multiplication is used for SM2 private key… |
-| 2026-09-29 16:17:09 | [CVE-2026-72897](https://nvd.nist.gov/vuln/detail/CVE-2026-72897) |  |  | Issue summary: A TLS server that calls SSL_set_SSL_CTX() to switch a connection to a different SSL_CTX part way through… |
-| 2026-09-29 16:17:10 | [CVE-2026-75804](https://nvd.nist.gov/vuln/detail/CVE-2026-75804) |  |  | Issue summary: OpenSSL QUIC stack does not enforce connection level flow control for streams. Remote peers may send mor… |
-| 2026-09-29 16:17:11 | [CVE-2026-75805](https://nvd.nist.gov/vuln/detail/CVE-2026-75805) |  |  | Issue summary: A CMP client that requests certificate revocation on the basis of a PKCS#10 CSR may dereference a NULL p… |
-| 2026-09-29 16:17:11 | [CVE-2026-75806](https://nvd.nist.gov/vuln/detail/CVE-2026-75806) |  |  | Issue summary: An established DTLS 1.2 association using an AEAD cipher suite can be terminated by a single unauthentic… |
-| 2026-09-29 16:17:11 | [CVE-2026-77177](https://nvd.nist.gov/vuln/detail/CVE-2026-77177) |  |  | Open GenAI Stack (aka ogx-ai) 2026-06-11, as used in the Meta AI backend for WhatsApp and other products, allows code e… |
-| 2026-09-29 16:17:11 | [CVE-2026-77696](https://nvd.nist.gov/vuln/detail/CVE-2026-77696) |  |  | Issue summary: SM2 signature generation uses non-constant-time arithmetic on secret values, forming a timing side-chann… |
-| 2026-09-29 16:17:12 | [CVE-2026-84782](https://nvd.nist.gov/vuln/detail/CVE-2026-84782) |  |  | Issue summary: The DTLS retransmission logic does not correctly handle a handshake message write that is suspended part… |
-| 2026-09-29 16:17:12 | [CVE-2026-84783](https://nvd.nist.gov/vuln/detail/CVE-2026-84783) |  |  | Issue summary: The first concurrent use of the same X.509 certificate by several threads may cause its cached extension… |
-| 2026-09-29 16:17:12 | [CVE-2026-84784](https://nvd.nist.gov/vuln/detail/CVE-2026-84784) |  |  | Issue summary: A malicious remote peer may flood the local QUIC stack with NEW_CONNECTION_ID frames by avoiding a limit… |
-| 2026-09-29 16:17:14 | [CVE-2026-92368](https://nvd.nist.gov/vuln/detail/CVE-2026-92368) | High | 7.8 | TeamViewer Full Client and Host for Linux and macOS prior version 15.82 contain a heap-based buffer overflow vulnerabil… |
-| 2026-09-29 16:17:14 | [CVE-2026-92369](https://nvd.nist.gov/vuln/detail/CVE-2026-92369) | High | 7.3 | TeamViewer Full Client and Host prior to version 15.82 on Windows contain a TOCTOU race condition in the installer roll… |
-| 2026-09-29 16:17:15 | [CVE-2026-92370](https://nvd.nist.gov/vuln/detail/CVE-2026-92370) | High | 8.8 | An improper access control vulnerability in TeamViewer Full Client, Host, and related affected modules on Windows, Linu… |
-| 2026-09-29 16:17:15 | [CVE-2026-92371](https://nvd.nist.gov/vuln/detail/CVE-2026-92371) | High | 7.0 | TeamViewer Full Client and Host for Linux prior version 15.82 contains an improper path validation vulnerability in the… |
-| 2026-09-29 16:17:15 | [CVE-2026-93330](https://nvd.nist.gov/vuln/detail/CVE-2026-93330) | Medium | 4.3 | Improper rule enforcement in the PAM Active Directory provider in Devolutions Server 2026.3.5 allows a user with PAM ed… |
-| 2026-09-29 16:17:15 | [CVE-2026-93332](https://nvd.nist.gov/vuln/detail/CVE-2026-93332) |  |  | Improper access control in the partial connection API in Devolutions Server 2026.3.5.0 and earlier allows an authentica… |
-| 2026-09-29 16:17:18 | [CVE-2026-97687](https://nvd.nist.gov/vuln/detail/CVE-2026-97687) | High | 7.6 | urllib3 is an HTTP client library for Python. From 1.26.0 until 2.8.0, the proxy_ssl_context, proxy_assert_hostname, pr… |
-| 2026-09-29 16:17:18 | [CVE-2026-97688](https://nvd.nist.gov/vuln/detail/CVE-2026-97688) | Medium | 6.9 | urllib3 is an HTTP client library for Python. From 2.6.2 until 2.8.0, HTTPResponse.stream and HTTPResponse.read_chunked… |
-| 2026-09-29 16:17:18 | [CVE-2026-97689](https://nvd.nist.gov/vuln/detail/CVE-2026-97689) | High | 8.9 | urllib3 is an HTTP client library for Python. From 1.10.3 until 2.8.0, the HTTPResponse.read_chunked and HTTPResponse.s… |
-| 2026-09-29 16:17:19 | [CVE-2026-97711](https://nvd.nist.gov/vuln/detail/CVE-2026-97711) | Low | 2.3 | Serialize JavaScript serializes JavaScript values to a superset of JSON that includes regular expressions and functions… |
+| 2026-09-29 17:17:00 | [CVE-2022-51019](https://nvd.nist.gov/vuln/detail/CVE-2022-51019) | High | 8.7 | Akaunting before 2.1.31 contains an OS command injection vulnerability in the module installation and update flow where… |
+| 2026-09-29 17:17:00 | [CVE-2026-100238](https://nvd.nist.gov/vuln/detail/CVE-2026-100238) |  |  | Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Wikimedia… |
+| 2026-09-29 17:17:01 | [CVE-2026-100241](https://nvd.nist.gov/vuln/detail/CVE-2026-100241) |  |  | Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation Mediawiki - EventBus E… |
+| 2026-09-29 17:17:01 | [CVE-2026-100242](https://nvd.nist.gov/vuln/detail/CVE-2026-100242) |  |  | Dependency on Vulnerable Third-Party Component and Uncontrolled Resource Consumption vulnerability in Wikimedia Foundat… |
+| 2026-09-29 17:17:01 | [CVE-2026-100243](https://nvd.nist.gov/vuln/detail/CVE-2026-100243) |  |  | Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Wikimedia… |
+| 2026-09-29 17:17:01 | [CVE-2026-100244](https://nvd.nist.gov/vuln/detail/CVE-2026-100244) |  |  | Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Wikimedia Foundation Mediawiki - CentralAut… |
+| 2026-09-29 17:17:01 | [CVE-2026-100245](https://nvd.nist.gov/vuln/detail/CVE-2026-100245) |  |  | Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in Wikimedia… |
+| 2026-09-29 17:17:01 | [CVE-2026-100240](https://nvd.nist.gov/vuln/detail/CVE-2026-100240) |  |  | Missing Authorization vulnerability in Wikimedia Foundation Mediawiki - TemplateSandbox Extension allows Accessing Func… |
+| 2026-09-29 17:17:04 | [CVE-2026-101112](https://nvd.nist.gov/vuln/detail/CVE-2026-101112) | Medium | 6.9 | Joomla Extension - balbooa.com - Unauthorized Deletion of Attachments in Balbooa Forms < 2.4.3.4 - The public removeTmp… |
+| 2026-09-29 17:17:05 | [CVE-2026-101126](https://nvd.nist.gov/vuln/detail/CVE-2026-101126) | Medium | 6.9 | Joomla Extension - balbooa.com - File meta data tampering in Balbooa Forms < 2.4.3.4 - The final form submission proces… |
+| 2026-09-29 17:17:05 | [CVE-2026-101127](https://nvd.nist.gov/vuln/detail/CVE-2026-101127) | High | 8.6 | Joomla Extension - balbooa.com - Unauthenticated upload filename stored XSS in Balbooa Forms < 2.4.3.4 - The public for… |
+| 2026-09-29 17:17:06 | [CVE-2026-102424](https://nvd.nist.gov/vuln/detail/CVE-2026-102424) | High | 8.9 | Joomla Extension - balbooa.com - Unauthenticated path traversal exfiltrates local files through auto-reply attachments… |
+| 2026-09-29 17:17:06 | [CVE-2026-102425](https://nvd.nist.gov/vuln/detail/CVE-2026-102425) | Critical | 9.5 | Joomla Extension - balbooa.com - Unauthenticated RCE via field shortcode injection in Balbooa Forms < 2.4.3.4 - Balbooa… |
+| 2026-09-29 17:17:06 | [CVE-2026-102556](https://nvd.nist.gov/vuln/detail/CVE-2026-102556) | High | 8.6 | A flaw was found in libsoup. When handling an incoming WebSocket Pong frame, SoupWebsocketConnection emitted the ::pong… |
+| 2026-09-29 17:17:06 | [CVE-2026-102557](https://nvd.nist.gov/vuln/detail/CVE-2026-102557) | High | 8.6 | A flaw was found in libsoup. When reassembling fragmented WebSocket messages into a GByteArray, libsoup did not adequat… |
+| 2026-09-29 17:17:06 | [CVE-2026-102623](https://nvd.nist.gov/vuln/detail/CVE-2026-102623) | Medium | 6.5 | A flaw was found in KubeVirt. An authenticated user with permission to create Virtual Machine Instances (VMIs) can caus… |
+| 2026-09-29 17:17:06 | [CVE-2026-102633](https://nvd.nist.gov/vuln/detail/CVE-2026-102633) | High | 8.2 | libexpat versions 2.7.2 through 2.8.5 contain an integer overflow vulnerability in expat_realloc() function on 32-bit p… |
+| 2026-09-29 17:17:07 | [CVE-2026-102634](https://nvd.nist.gov/vuln/detail/CVE-2026-102634) | High | 8.7 | SGLang through 0.5.20 in prefill/decode disaggregation mode fails to validate duplicate bootstrap_room fields in /gener… |
+| 2026-09-29 17:17:07 | [CVE-2026-102635](https://nvd.nist.gov/vuln/detail/CVE-2026-102635) | Medium | 6.3 | ImageMagick versions before 7.1.2-32 and 6.9.13-57 contain uninitialized heap memory disclosure in the GIF decoder's ap… |
+| 2026-09-29 17:17:07 | [CVE-2026-102673](https://nvd.nist.gov/vuln/detail/CVE-2026-102673) | High | 8.2 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 41.10.… |
+| 2026-09-29 17:17:07 | [CVE-2026-102674](https://nvd.nist.gov/vuln/detail/CVE-2026-102674) | High | 8.2 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 41.10.… |
+| 2026-09-29 17:17:07 | [CVE-2026-102675](https://nvd.nist.gov/vuln/detail/CVE-2026-102675) | High | 7.4 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 41.10.… |
+| 2026-09-29 17:17:07 | [CVE-2026-102676](https://nvd.nist.gov/vuln/detail/CVE-2026-102676) | High | 8.3 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 41.10.… |
+| 2026-09-29 17:17:08 | [CVE-2026-102697](https://nvd.nist.gov/vuln/detail/CVE-2026-102697) | High | 8.5 | Ollama versions 0.14.0 before 0.31.2 contain an incorrect authorization vulnerability in the experimental agent mode Ba… |
+| 2026-09-29 17:17:08 | [CVE-2026-102796](https://nvd.nist.gov/vuln/detail/CVE-2026-102796) |  |  | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Wikimedia Foundat… |
+| 2026-09-29 17:17:12 | [CVE-2026-90906](https://nvd.nist.gov/vuln/detail/CVE-2026-90906) | Medium | 5.9 | Joomla! Core - [20260901] - XSS in HTMLHelper::link method in Joomla 1.5.0-5.4.8, 6.0.0-6.1.3 - Lack of escaping leads… |
+| 2026-09-29 17:17:13 | [CVE-2026-90907](https://nvd.nist.gov/vuln/detail/CVE-2026-90907) | Medium | 6.9 | Joomla! Core - [20260902] - Core - Unauthorized user account creation via profile.save controller in Joomla 1.5.0-5.4.8… |
+| 2026-09-29 17:17:13 | [CVE-2026-90913](https://nvd.nist.gov/vuln/detail/CVE-2026-90913) | High | 7.0 | Joomla! Core - [20260903] - Core - Improper ACL checks for access level webservice endpoints in Joomla 4.0.0-5.4.8, 6.0… |
+| 2026-09-29 17:17:13 | [CVE-2026-90914](https://nvd.nist.gov/vuln/detail/CVE-2026-90914) | Medium | 5.9 | Joomla! Core - [20260904] - Core - XSS in the generic media output layouts in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 - Lack of… |
+| 2026-09-29 17:17:13 | [CVE-2026-90915](https://nvd.nist.gov/vuln/detail/CVE-2026-90915) | High | 7.0 | Joomla! Core - [20260905] - Core - Arbitrary directory deletion via cache purge action in Joomla 4.0.0-5.4.8, 6.0.0-6.1… |
+| 2026-09-29 17:17:13 | [CVE-2026-90916](https://nvd.nist.gov/vuln/detail/CVE-2026-90916) | Medium | 5.1 | Joomla! Core - [20260906] - Core - Improper ACL checks in content history comparison view in Joomla 4.0.0-5.4.8, 6.0.0-… |
+| 2026-09-29 17:17:13 | [CVE-2026-90917](https://nvd.nist.gov/vuln/detail/CVE-2026-90917) | Medium | 6.9 | Joomla! Core - [20260907] - Core - Improper ACL checks in outputs for tagged items in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 -… |
+| 2026-09-29 17:17:13 | [CVE-2026-90918](https://nvd.nist.gov/vuln/detail/CVE-2026-90918) | Medium | 6.9 | Joomla! Core - [20260908] - Core - XSS in HTML Mail Templates in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 - The mail template fe… |
+| 2026-09-29 17:17:14 | [CVE-2026-92222](https://nvd.nist.gov/vuln/detail/CVE-2026-92222) | High | 8.9 | Joomla! Core - [20260909] - Core - SSRF vectors in various core extensions in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 - URLs us… |
+| 2026-09-29 17:17:14 | [CVE-2026-92223](https://nvd.nist.gov/vuln/detail/CVE-2026-92223) | Medium | 5.1 | Joomla! Core - [20260910] - Core - Improper ACL checks for workflow stage changes in Joomla 5.0.0-5.4.8, 6.0.0-6.1.3 -… |
+| 2026-09-29 17:17:14 | [CVE-2026-92224](https://nvd.nist.gov/vuln/detail/CVE-2026-92224) | Medium | 5.9 | Joomla! Core - [20260911] - Core - XSS in link toolbar layout in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 - The link toolbar lay… |
+| 2026-09-29 17:17:14 | [CVE-2026-92225](https://nvd.nist.gov/vuln/detail/CVE-2026-92225) | Medium | 5.9 | Joomla! Core - [20260912] - Core - XSS in module list in Joomla 4.0.0-5.4.8, 6.0.0-6.1.3 - The module list layout did n… |
+| 2026-09-29 17:17:14 | [CVE-2026-92226](https://nvd.nist.gov/vuln/detail/CVE-2026-92226) | High | 7.0 | Joomla! Core - [20260913] - Core - Improper ACL checks for varous webservice edit tasks in Joomla 4.0.0-5.4.8, 6.0.0-6.… |
+| 2026-09-29 17:17:14 | [CVE-2026-92227](https://nvd.nist.gov/vuln/detail/CVE-2026-92227) | High | 8.2 | Joomla! Core - [20260914] - Core - MFA Authentication Bypass through rememberme cookies in Joomla 4.0.0-5.4.8, 6.0.0-6.… |
+| 2026-09-29 17:17:14 | [CVE-2026-92231](https://nvd.nist.gov/vuln/detail/CVE-2026-92231) | High | 7.1 | Joomla! Core - [20260915] - Core - XSS filter bypass in InputFilter via HTML5 entity decode mismatch in Joomla 1.5.0-5.… |
+| 2026-09-29 17:17:15 | [CVE-2026-92232](https://nvd.nist.gov/vuln/detail/CVE-2026-92232) | High | 7.1 | Joomla! Core - [20260916] - Core - XSS filter bypass in InputFilter via whitespace characters in HTML data URIs in Joom… |
 
 ## Data source
 
