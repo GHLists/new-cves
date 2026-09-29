@@ -9,21 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 02:20 UTC
+## Latest list — 2026-09-29 03:18 UTC
 
-New CVEs published between 2026-09-29 01:18 UTC and 2026-09-29 02:20 UTC.
+New CVEs published between 2026-09-29 02:20 UTC and 2026-09-29 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T02-20-59-744232Z.csv)
+[Full CSV](data/new-cves-2026-09-29T03-18-58-76488Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 02:16:53 | [CVE-2026-101354](https://nvd.nist.gov/vuln/detail/CVE-2026-101354) | High | 8.6 | A security flaw has been discovered in FAST FAC1203R 20200116_2.0.4. The affected element is the function _tWlanTask of… |
-| 2026-09-29 02:16:54 | [CVE-2026-101858](https://nvd.nist.gov/vuln/detail/CVE-2026-101858) | Low | 2.0 | A flaw has been found in RaspAP raspap-webgui up to 3.5.5. Affected is the function WiFiManager::writeWpaSupplicant of… |
-| 2026-09-29 02:16:54 | [CVE-2026-101859](https://nvd.nist.gov/vuln/detail/CVE-2026-101859) | Low | 2.1 | A vulnerability has been found in RaspAP raspap-webgui up to 3.5.5. Affected by this vulnerability is the function esca… |
-| 2026-09-29 02:16:54 | [CVE-2026-101860](https://nvd.nist.gov/vuln/detail/CVE-2026-101860) | High | 7.4 | A vulnerability was found in RaspAP raspap-webgui up to 3.5.5. Affected by this issue is the function PluginInstaller::… |
-| 2026-09-29 02:16:54 | [CVE-2026-101878](https://nvd.nist.gov/vuln/detail/CVE-2026-101878) | High | 7.7 | Bitwarden Server 2025.6.0 before 2026.5.0 declares the @ExternalId parameter of the User_ReadBySsoUserOrganizationIdExt… |
-| 2026-09-29 02:16:55 | [CVE-2026-102240](https://nvd.nist.gov/vuln/detail/CVE-2026-102240) | Critical | 9.3 | A vulnerability was found in Netcore NAP930 0.1.241010.141410. This affects the function eval of the file /www/cgi-bin/… |
-| 2026-09-29 02:16:55 | [CVE-2026-96326](https://nvd.nist.gov/vuln/detail/CVE-2026-96326) | High | 7.2 | The HT Contact Form – Drag & Drop Form Builder for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Sc… |
+| 2026-09-29 03:17:14 | [CVE-2026-102241](https://nvd.nist.gov/vuln/detail/CVE-2026-102241) | Low | 2.0 | A vulnerability was determined in Netcore NAP930 0.1.241010.141410. This vulnerability affects unknown code of the file… |
+| 2026-09-29 03:17:15 | [CVE-2026-102243](https://nvd.nist.gov/vuln/detail/CVE-2026-102243) | Low | 2.1 | A vulnerability was identified in MODSetter SurfSense up to 2.0.3. This issue affects some unknown processing of the fi… |
+| 2026-09-29 03:17:15 | [CVE-2026-102244](https://nvd.nist.gov/vuln/detail/CVE-2026-102244) | Low | 2.1 | A security flaw has been discovered in MODSetter SurfSense up to 0.0.36. Impacted is an unknown function of the file su… |
+| 2026-09-29 03:17:23 | [CVE-2026-97685](https://nvd.nist.gov/vuln/detail/CVE-2026-97685) | High | 7.1 | An authenticated LimeSurvey Community Edition 7.3.0 user allowed to create surveys can use their own survey as an autho… |
 
 ## Data source
 
