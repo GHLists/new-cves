@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-29T11:16:43.947Z,CVE-2026-95509,HIGH,8.8,Received,CWE-125; CWE-131,1,"Strings optimized for Latin-1 displaying Latin-1 characters cause incorrect String.arg() formatting by an incorrect buffer size calculation, causing out-of-bounds reading."
