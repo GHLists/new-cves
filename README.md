@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 06:19 UTC
+## Latest list — 2026-09-29 07:19 UTC
 
-New CVEs published between 2026-09-29 05:21 UTC and 2026-09-29 06:19 UTC.
+New CVEs published between 2026-09-29 06:19 UTC and 2026-09-29 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T06-19-35-314648Z.csv)
+[Full CSV](data/new-cves-2026-09-29T07-19-04-785891Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 06:16:58 | [CVE-2026-102292](https://nvd.nist.gov/vuln/detail/CVE-2026-102292) | Low | 2.1 | A flaw has been found in coolbeans1212 MateisHomePage-Website up to ea2a4226deeca27ab1fb9df0552ec76444547811. Affected… |
-| 2026-09-29 06:16:58 | [CVE-2026-102293](https://nvd.nist.gov/vuln/detail/CVE-2026-102293) | Medium | 5.5 | A vulnerability was identified in realjerrytang tacomall 1.0.0. Impacted is the function OrgStaffServiceImpl.add of the… |
+| 2026-09-29 07:16:35 | [CVE-2026-86157](https://nvd.nist.gov/vuln/detail/CVE-2026-86157) | Medium | 5.6 | Exposure of privileged IPC functionality in Progress Telerik Fiddler Everywhere before version 8.2.0 allows a local, lo… |
+| 2026-09-29 07:16:35 | [CVE-2026-86158](https://nvd.nist.gov/vuln/detail/CVE-2026-86158) | High | 7.7 | Missing authentication in the local .NET backend (Fiddler.WebUi) of Progress Software Fiddler Everywhere 8.0.2 allows a… |
 
 ## Data source
 
