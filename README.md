@@ -9,36 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:22 UTC
+## Latest list — 2026-09-29 23:18 UTC
 
-New CVEs published between 2026-09-29 21:22 UTC and 2026-09-29 22:22 UTC.
+New CVEs published between 2026-09-29 22:22 UTC and 2026-09-29 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T22-22-41-465863Z.csv)
+[Full CSV](data/new-cves-2026-09-29T23-18-35-837609Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 22:17:07 | [CVE-2026-102621](https://nvd.nist.gov/vuln/detail/CVE-2026-102621) | Low | 1.9 | A vulnerability was identified in Freedesktop Poppler up to 26.08.0. Affected is the function SplashClip::clipToPath of… |
-| 2026-09-29 22:17:08 | [CVE-2026-102771](https://nvd.nist.gov/vuln/detail/CVE-2026-102771) | Low | 2.0 | A security vulnerability has been detected in Naichen ThinkCMF up to 8.0.7. Affected by this issue is the function Mail… |
-| 2026-09-29 22:17:11 | [CVE-2026-63713](https://nvd.nist.gov/vuln/detail/CVE-2026-63713) | High | 8.5 | The "search" parameter in the view audit logs feature within the utilities section is susceptible to a time-based blind… |
-| 2026-09-29 22:17:15 | [CVE-2026-68068](https://nvd.nist.gov/vuln/detail/CVE-2026-68068) | High | 8.5 | The "screenID" parameter in the electronic transaction queue viewer feature within the manual transactions section is s… |
-| 2026-09-29 22:17:21 | [CVE-2026-68954](https://nvd.nist.gov/vuln/detail/CVE-2026-68954) | High | 8.5 | The "pattern" parameter used in search function in the home page of the TMS application is vulnerable to time-based bli… |
-| 2026-09-29 22:17:58 | [CVE-2026-69662](https://nvd.nist.gov/vuln/detail/CVE-2026-69662) | Low | 2.1 | The application uses unsafe functions that allow execution of inline scripts and string evaluation functions. |
-| 2026-09-29 22:18:16 | [CVE-2026-70356](https://nvd.nist.gov/vuln/detail/CVE-2026-70356) | Critical | 9.4 | The TMS file upload endpoint fails to enforce server-side file type restrictions, allowing an attacker to upload and ex… |
-| 2026-09-29 22:18:18 | [CVE-2026-71189](https://nvd.nist.gov/vuln/detail/CVE-2026-71189) | Medium | 4.8 | An attacker can construct a request that, if issued by another application user, will cause JavaScript code supplied by… |
-| 2026-09-29 22:18:18 | [CVE-2026-71302](https://nvd.nist.gov/vuln/detail/CVE-2026-71302) | High | 7.5 | The application accepts user-supplied session identifiers and does not regenerate the session ID after authentication.… |
-| 2026-09-29 22:18:21 | [CVE-2026-71379](https://nvd.nist.gov/vuln/detail/CVE-2026-71379) | Critical | 10.0 | The file export endpoint allows any unauthenticated attacker to export arbitrary database tables by sending a crafted P… |
-| 2026-09-29 22:18:21 | [CVE-2026-71971](https://nvd.nist.gov/vuln/detail/CVE-2026-71971) | High | 8.8 | U-Boot before 2026.10-rc3 with CONFIG_IP_DEFRAG enabled contains an out-of-bounds write vulnerability in the __net_defr… |
-| 2026-09-29 22:18:21 | [CVE-2026-71972](https://nvd.nist.gov/vuln/detail/CVE-2026-71972) | Medium | 6.0 | U-Boot through 2026.10-rc5 contains an out-of-bounds write vulnerability in the video_display_rle8_bitmap function in d… |
-| 2026-09-29 22:18:22 | [CVE-2026-71973](https://nvd.nist.gov/vuln/detail/CVE-2026-71973) | Medium | 5.2 | U-Boot before 2026.10-rc4 contains an integer overflow vulnerability in sqfs_read_directory_table() function when alloc… |
-| 2026-09-29 22:18:22 | [CVE-2026-71974](https://nvd.nist.gov/vuln/detail/CVE-2026-71974) | Medium | 4.3 | U-Boot before 2026.10-rc3 contains an out-of-bounds write vulnerability in read_slotted_partition() that fails to valid… |
-| 2026-09-29 22:18:22 | [CVE-2026-72507](https://nvd.nist.gov/vuln/detail/CVE-2026-72507) | High | 8.5 | The "reportType" parameter in the product summary report feature within the balancing reports section is susceptible to… |
-| 2026-09-29 22:18:22 | [CVE-2026-72510](https://nvd.nist.gov/vuln/detail/CVE-2026-72510) | High | 8.5 | The "supplier_no" parameter used in the business allocation search feature is vulnerable to time-based blind SQL inject… |
-| 2026-09-29 22:18:33 | [CVE-2026-74220](https://nvd.nist.gov/vuln/detail/CVE-2026-74220) | High | 8.8 | U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_read_reply() function in net/nfs-common.c that allows attac… |
-| 2026-09-29 22:18:33 | [CVE-2026-74221](https://nvd.nist.gov/vuln/detail/CVE-2026-74221) | High | 8.8 | U-Boot before 2026.10-rc5 contains a buffer overflow in nfs_readlink_reply() function in net/nfs-common.c when processi… |
-| 2026-09-29 22:18:33 | [CVE-2026-74222](https://nvd.nist.gov/vuln/detail/CVE-2026-74222) | High | 8.8 | U-Boot before 2026.10-rc5 contains a use-after-free vulnerability in the httpc_recv_cb() function within the lwIP wget… |
-| 2026-09-29 22:18:33 | [CVE-2026-74225](https://nvd.nist.gov/vuln/detail/CVE-2026-74225) | High | 7.1 | U-Boot before 2026.10-rc5 contains out-of-bounds memory access in dhcp6_parse_options() that fails to validate SERVERID… |
-| 2026-09-29 22:19:01 | [CVE-2026-84409](https://nvd.nist.gov/vuln/detail/CVE-2026-84409) | High | 7.7 | The device's update mechanism retrieves metadata for software updates over an unencrypted HTTP connection and stores po… |
-| 2026-09-29 22:19:03 | [CVE-2026-91191](https://nvd.nist.gov/vuln/detail/CVE-2026-91191) | High | 7.7 | The device's update mechanism includes conditions that allow unauthorized software packages to be accepted as authentic… |
+| 2026-09-29 23:17:21 | [CVE-2026-102792](https://nvd.nist.gov/vuln/detail/CVE-2026-102792) | High | 8.5 | A vulnerability was detected in Ziroom ZHOME A0101 1.0.1.0. This affects the function set_syslog of the file /api/ZRnet… |
+| 2026-09-29 23:17:21 | [CVE-2026-103040](https://nvd.nist.gov/vuln/detail/CVE-2026-103040) | Critical | 9.3 | LightLLM through 1.2.0 contains a remote code execution vulnerability in the router profiler service when started with… |
+| 2026-09-29 23:17:21 | [CVE-2026-103041](https://nvd.nist.gov/vuln/detail/CVE-2026-103041) | Critical | 9.3 | LightLLM through 1.2.0 multimodal deployments expose an unauthenticated RPyC cache service with pickle deserialization… |
+| 2026-09-29 23:17:21 | [CVE-2026-103042](https://nvd.nist.gov/vuln/detail/CVE-2026-103042) | High | 8.7 | LightLLM through 1.2.0 contains a memory exhaustion vulnerability in the NCCL control channel when started with --pd_tr… |
+| 2026-09-29 23:17:22 | [CVE-2026-103043](https://nvd.nist.gov/vuln/detail/CVE-2026-103043) | High | 8.7 | anchorme through 3.0.8 contains a regular expression denial of service vulnerability in the IPv6 host extraction regex… |
+| 2026-09-29 23:17:22 | [CVE-2026-103044](https://nvd.nist.gov/vuln/detail/CVE-2026-103044) |  |  | XML injection (aka blind XPath injection) vulnerability in The Wikimedia Foundation Mediawiki - EasyTimeline extension… |
+| 2026-09-29 23:17:22 | [CVE-2026-103045](https://nvd.nist.gov/vuln/detail/CVE-2026-103045) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in The Wikimedia Fou… |
+| 2026-09-29 23:17:22 | [CVE-2026-103046](https://nvd.nist.gov/vuln/detail/CVE-2026-103046) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Wikimedia Foundat… |
+| 2026-09-29 23:17:22 | [CVE-2026-103047](https://nvd.nist.gov/vuln/detail/CVE-2026-103047) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in The Wikimedia Fou… |
+| 2026-09-29 23:17:22 | [CVE-2026-15278](https://nvd.nist.gov/vuln/detail/CVE-2026-15278) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
 
 ## Data source
 
