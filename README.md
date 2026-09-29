@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 07:19 UTC
+## Latest list — 2026-09-29 08:24 UTC
 
-New CVEs published between 2026-09-29 06:19 UTC and 2026-09-29 07:19 UTC.
+New CVEs published between 2026-09-29 07:19 UTC and 2026-09-29 08:24 UTC.
 
-[Full CSV](data/new-cves-2026-09-29T07-19-04-785891Z.csv)
+[Full CSV](data/new-cves-2026-09-29T08-24-18-232592Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-29 07:16:35 | [CVE-2026-86157](https://nvd.nist.gov/vuln/detail/CVE-2026-86157) | Medium | 5.6 | Exposure of privileged IPC functionality in Progress Telerik Fiddler Everywhere before version 8.2.0 allows a local, lo… |
-| 2026-09-29 07:16:35 | [CVE-2026-86158](https://nvd.nist.gov/vuln/detail/CVE-2026-86158) | High | 7.7 | Missing authentication in the local .NET backend (Fiddler.WebUi) of Progress Software Fiddler Everywhere 8.0.2 allows a… |
+| 2026-09-29 08:17:19 | [CVE-2026-101169](https://nvd.nist.gov/vuln/detail/CVE-2026-101169) | High | 8.7 | In affected versions of Octopus Server, an authenticated user with permissions to edit an Environment or Project can se… |
+| 2026-09-29 08:17:21 | [CVE-2026-84154](https://nvd.nist.gov/vuln/detail/CVE-2026-84154) | Critical | 9.9 | A Code Injection vulnerability affecting GEOVIA Geospatial Data Manager from Release 3DEXPERIENCE R2024x through Releas… |
 
 ## Data source
 

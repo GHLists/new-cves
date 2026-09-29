@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-29T08:17:19.823Z,CVE-2026-101169,HIGH,8.7,Received,CWE-502,1,"In affected versions of Octopus Server, an authenticated user with permissions to edit an Environment or Project can set specifically crafted JSON content for the object. Insecure deserialization of this content allows the user to execute arbitrary code in the Octopus Server process."
+2026-09-29T08:17:21.297Z,CVE-2026-84154,CRITICAL,9.9,Received,CWE-94,1,A Code Injection vulnerability affecting GEOVIA Geospatial Data Manager from Release 3DEXPERIENCE R2024x through Release 3DEXPERIENCE R2026x could allow an attacker to execute arbitrary code on the server.
