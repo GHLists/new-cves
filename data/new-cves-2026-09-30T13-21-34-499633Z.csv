@@ -1,0 +1,145 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-09-30T13:17:14.577Z,CVE-2026-100507,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in If-So Dynamic Content Personalization <= 1.10.1 versions.
+2026-09-30T13:17:15.203Z,CVE-2026-100508,MEDIUM,5.3,Received,CWE-770,1,Unauthenticated Denial of Service Attack in Two Factor <= 0.16.0 versions.
+2026-09-30T13:17:15.35Z,CVE-2026-100513,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in CF7 Views &#8211; Complete Entry Management for Contact Form 7 <= 3.2.5 versions.
+2026-09-30T13:17:16.97Z,CVE-2026-102384,MEDIUM,5.9,Received,CWE-79,1,Author Cross Site Scripting (XSS) in Supreme Modules Lite <= 2.5.63 versions.
+2026-09-30T13:17:17.107Z,CVE-2026-102385,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Ninja Forms <= 3.15.3 versions.
+2026-09-30T13:17:17.243Z,CVE-2026-102386,MEDIUM,6.5,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in WP Photo Album Plus <= 9.3.02.003 versions.
+2026-09-30T13:17:17.38Z,CVE-2026-102395,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Easy Google Maps <= 1.14.6 versions.
+2026-09-30T13:17:17.513Z,CVE-2026-102396,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Ultimate Maps by Supsystic <= 1.5.5 versions.
+2026-09-30T13:17:17.647Z,CVE-2026-102398,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Popup by Supsystic <= 1.13.1 versions.
+2026-09-30T13:17:17.773Z,CVE-2026-102399,MEDIUM,5.4,Received,CWE-352,1,Unauthenticated Cross Site Request Forgery (CSRF) in Photo Gallery by Supsystic <= 1.21.0 versions.
+2026-09-30T13:17:17.91Z,CVE-2026-103115,LOW,2.1,Received,CWE-74; CWE-89,6,A security flaw has been discovered in OS4ED openSIS-Classic up to 9.3. This affects an unknown function of the file functions/CustomFieldsFnc.php of the component Student Search. The manipulation of the argument cust results in sql injection. It is possible to launch the attack remotely. The explo…
+2026-09-30T13:17:18.09Z,CVE-2026-103116,LOW,2.1,Received,CWE-74; CWE-89,6,A weakness has been identified in OS4ED openSIS-Classic up to 9.3. This impacts the function DBQuery of the file functions/GetStuListFnc.php of the component Student List Search Endpoint. This manipulation of the argument LO_sort causes sql injection. The attack can be initiated remotely. The explo…
+2026-09-30T13:17:18.28Z,CVE-2026-103117,LOW,2.0,Received,CWE-74; CWE-89,6,A security vulnerability has been detected in OS4ED openSIS-Classic up to 9.3. Affected is the function db_properties of the file functions/DatabaseInc.php of the component Save Data Handler. Such manipulation of the argument values leads to sql injection. The attack can be launched remotely. The e…
+2026-09-30T13:17:18.463Z,CVE-2026-103321,HIGH,8.3,Deferred,CWE-20; CWE-79,1,"MISP contains a stored cross-site script (XSS) vulnerability in the event graph preview feature. The event graph preview image field was accepted and stored without server-side validation. On the client side, the stored value was rendered into an HTML img element's src attribute via string concaten…"
+2026-09-30T13:17:18.773Z,CVE-2026-27085,LOW,2.7,Received,CWE-80,1,Shop manager Content Injection in Astra WordPress Theme <= 4.13.12 versions.
+2026-09-30T13:17:18.91Z,CVE-2026-27371,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in WPFunnels <= 3.13.1 versions.
+2026-09-30T13:17:19.053Z,CVE-2026-62078,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Premium Addons for Elementor <= 4.11.105 versions.
+2026-09-30T13:17:19.19Z,CVE-2026-62079,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Qi Addons For Elementor <= 1.11 versions.
+2026-09-30T13:17:19.327Z,CVE-2026-62080,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Happy Addons for Elementor <= 3.23.1 versions.
+2026-09-30T13:17:19.453Z,CVE-2026-62081,MEDIUM,5.4,Received,CWE-639,1,Contributor Insecure Direct Object References (IDOR) in Flexible PDF Coupons <= 1.14.11 versions.
+2026-09-30T13:17:19.587Z,CVE-2026-62083,MEDIUM,5.4,Received,CWE-1284,1,Subscriber Other Vulnerability Type in Creator LMS <= 1.2.19 versions.
+2026-09-30T13:17:19.74Z,CVE-2026-62085,HIGH,7.6,Received,CWE-89,1,Administrator SQL Injection in WP Activity Log <= 5.6.6 versions.
+2026-09-30T13:17:19.913Z,CVE-2026-74864,CRITICAL,9.3,Received,CWE-639,2,"sogo_yhn configures SOGo with a parameter that forces the request with HTTP header ""x-webobjects-remote-user"" to be treated as sent by a verified user without performing password validation. Since Nginx does not strip this header, any client can supply it arbitrarily and gain access as any user, in…"
+2026-09-30T13:17:20.083Z,CVE-2026-74865,CRITICAL,9.2,Received,CWE-639,2,"sogo_yhn configures SOGo with a parameter ""SOGoTrustProxyAuthentication=YES"". This causes the password to be bypassed during HTTP Basic authentication. An unauthenticated attacker who provides the username of an existing user and any arbitrary password can successfully log in to that user's account…"
+2026-09-30T13:17:20.247Z,CVE-2026-76504,CRITICAL,9.8,Received,CWE-177,1,"A vulnerability in the API session-based authentication management of Cisco Catalyst SD-WAN Manager could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user. This vulnerability is due to improper handling of URI encoding in an HTTP request, whic…"
+2026-09-30T13:17:21.207Z,CVE-2026-86778,MEDIUM,5.3,Received,CWE-204,1,"Observable response discrepancy vulnerability in Maksisoft Technology, IT, and Software Industry and Trade Inc. Maksisoft Gym allows Account Footprinting. This issue affects Maksisoft Gym: from 0.5.10 before 0.5.11."
+2026-09-30T13:17:21.587Z,CVE-2026-89238,,,Received,,2,"WSS4J EncryptedHeader child confusion could promote an attacker-controlled plaintext element as the decrypted header, leading to incorrect confidentiality coverage and possible policy bypass. Users are recommended to upgrade to versions 4.0.2 or 3.0.6 or 2.4.4, which fix this issue."
+2026-09-30T13:17:21.71Z,CVE-2026-92121,,,Received,,2,"In the WSS4J streaming (StAX) code, a signature reference using the WS-Security STR-Transform leaves an internal ""inside signed content"" flag permanently set. The WS-SecurityPolicy enforcer uses that flag to decide whether an element needs checking, so it stops evaluating SignedParts and SignedElem…"
+2026-09-30T13:17:21.823Z,CVE-2026-92899,MEDIUM,4.8,Received,CWE-290,2,"Apache WSS4J remembers the Nonce of each UsernameToken it accepts, so a captured token cannot be reused. It stored the Nonce as raw base64 text, but authentication decodes that text and uses the bytes.The same bytes can be written as base64 in several ways. An attacker who captured an authenticated…"
+2026-09-30T13:17:21.997Z,CVE-2026-93512,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in JW Player for WordPress <= 2.3.11 versions.
+2026-09-30T13:17:22.13Z,CVE-2026-93514,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Notification for Telegram <= 3.5.2 versions.
+2026-09-30T13:17:22.267Z,CVE-2026-93621,HIGH,8.2,Received,CWE-89,1,Unauthenticated SQL Injection in WP Data Access <= 5.5.84 versions.
+2026-09-30T13:17:22.407Z,CVE-2026-93624,HIGH,7.2,Received,CWE-502,1,Shop manager PHP Object Injection in Music Player for WooCommerce <= 1.9.1 versions.
+2026-09-30T13:17:22.543Z,CVE-2026-93651,HIGH,7.2,Received,CWE-502,1,Author PHP Object Injection in Minimum and Maximum Quantity for WooCommerce <= 2.1.2 versions.
+2026-09-30T13:17:22.677Z,CVE-2026-93770,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in WP Statistics <= 14.16.13 versions.
+2026-09-30T13:17:22.81Z,CVE-2026-93771,HIGH,7.2,Received,CWE-502,1,Shop manager PHP Object Injection in Cost of Goods for WooCommerce <= 3.5.2 versions.
+2026-09-30T13:17:22.947Z,CVE-2026-94074,MEDIUM,6.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Simply Schedule Appointments <= 1.6.12.29 versions.
+2026-09-30T13:17:23.08Z,CVE-2026-94076,HIGH,8.8,Received,CWE-502,1,Contributor PHP Object Injection in SEO Plugin by Squirrly SEO <= 14.2.5 versions.
+2026-09-30T13:17:23.21Z,CVE-2026-94077,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Safe SVG <= 2.5.0 versions.
+2026-09-30T13:17:23.35Z,CVE-2026-94078,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Site Reviews <= 8.3.1 versions.
+2026-09-30T13:17:23.523Z,CVE-2026-94081,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in WordPress Persistent Login <= 3.1.3 versions.
+2026-09-30T13:17:24.093Z,CVE-2026-94082,HIGH,7.6,Received,CWE-89,1,Author SQL Injection in Quiz Cat <= 3.1.1 versions.
+2026-09-30T13:17:24.227Z,CVE-2026-94115,HIGH,8.5,Received,CWE-89,1,Contributor SQL Injection in Easy Pricing Tables <= 4.1.2 versions.
+2026-09-30T13:17:24.363Z,CVE-2026-94120,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in GravityExport Lite for Gravity Forms <= 2.7.2 versions.
+2026-09-30T13:17:24.497Z,CVE-2026-94121,HIGH,8.8,Received,CWE-502,1,"Contributor PHP Object Injection in 10Web Booster – Website speed optimization, Cache & Page Speed optimizer <= 2.33.6 versions."
+2026-09-30T13:17:24.7Z,CVE-2026-94122,HIGH,7.2,Received,CWE-502,1,Editor PHP Object Injection in Responsive Slider Gallery <= 1.5.5 versions.
+2026-09-30T13:17:25.263Z,CVE-2026-94173,MEDIUM,5.4,Received,CWE-639,1,Contributor Insecure Direct Object References (IDOR) in Business Directory <= 6.4.27 versions.
+2026-09-30T13:17:25.583Z,CVE-2026-94177,HIGH,8.5,Received,CWE-89,1,Unauthenticated SQL Injection in GamiPress <= 8.0.2 versions.
+2026-09-30T13:17:25.953Z,CVE-2026-94178,HIGH,7.5,Received,CWE-266,1,Subscriber Privilege Escalation in Import and export users and customers <= 2.5.2 versions.
+2026-09-30T13:17:25Z,CVE-2026-94123,HIGH,7.5,Received,CWE-22,1,Unauthenticated Arbitrary File Download in NextGEN Gallery <= 4.5.0 versions.
+2026-09-30T13:17:26.84Z,CVE-2026-94389,CRITICAL,9.0,Received,CWE-94,1,Unauthenticated Remote Code Execution (RCE) in AcyMailing SMTP Newsletter <= 11.0.5 versions.
+2026-09-30T13:17:27.007Z,CVE-2026-94499,HIGH,7.1,Received,CWE-862,1,Subscriber Broken Access Control in FormGent <= 1.12.2 versions.
+2026-09-30T13:17:27.14Z,CVE-2026-94672,MEDIUM,4.3,Received,CWE-639,1,Contributor Insecure Direct Object References (IDOR) in Safe SVG <= 2.5.0 versions.
+2026-09-30T13:17:27.267Z,CVE-2026-94673,MEDIUM,5.3,Received,CWE-639,1,Unauthenticated Insecure Direct Object References (IDOR) in Simply Schedule Appointments <= 1.6.12.31 versions.
+2026-09-30T13:17:27.403Z,CVE-2026-94674,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Pixel Manager for WooCommerce <= 1.69.0 versions.
+2026-09-30T13:17:27.54Z,CVE-2026-94677,HIGH,7.2,Received,CWE-502,1,Shop manager PHP Object Injection in Kadence WooCommerce Email Designer <= 1.5.19.1 versions.
+2026-09-30T13:17:27.673Z,CVE-2026-94678,HIGH,8.8,Received,CWE-502,1,Contributor PHP Object Injection in Go Live Update Urls <= 7.0.8 versions.
+2026-09-30T13:17:27.81Z,CVE-2026-94681,MEDIUM,5.9,Received,CWE-770,1,Unauthenticated Denial of Service Attack in WP Store Locator < 3.0.0 versions.
+2026-09-30T13:17:27.94Z,CVE-2026-94683,HIGH,8.8,Received,CWE-502,1,Contributor PHP Object Injection in DesignSetGo <= 2.8.0 versions.
+2026-09-30T13:17:28.587Z,CVE-2026-95531,HIGH,8.8,Received,CWE-502,1,Subscriber PHP Object Injection in Conversational Forms for ChatBot <= 1.5.0 versions.
+2026-09-30T13:17:28.72Z,CVE-2026-95587,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Hostinger Migrator <= 1.0 versions.
+2026-09-30T13:17:28.863Z,CVE-2026-95616,HIGH,7.5,Received,CWE-190,1,An integer overflow in WSS4J's DER bounds check lets an oversized allocation pass validation. An unauthenticated attacker can send a SOAP message carrying an X.509 certificate whose SubjectKeyIdentifier extension declares a length of 0x7FFFFFFF; WSS4J decodes this while resolving the signature's ke…
+2026-09-30T13:17:29.037Z,CVE-2026-96338,MEDIUM,6.5,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in Profile Builder <= 4.0.2 versions.
+2026-09-30T13:17:29.167Z,CVE-2026-96343,HIGH,7.2,Received,CWE-502,1,Custom role PHP Object Injection in WP ERP <= 1.17.9 versions.
+2026-09-30T13:17:29.3Z,CVE-2026-96344,HIGH,7.2,Received,CWE-502,1,Custom role PHP Object Injection in eCommerce Product Catalog <= 3.6.0 versions.
+2026-09-30T13:17:29.43Z,CVE-2026-96345,HIGH,7.6,Received,CWE-89,1,Administrator SQL Injection in Estatik <= 4.3.5 versions.
+2026-09-30T13:17:29.57Z,CVE-2026-96346,HIGH,7.6,Received,CWE-89,1,Author SQL Injection in WP ERP <= 1.17.9 versions.
+2026-09-30T13:17:29.693Z,CVE-2026-96347,MEDIUM,6.5,Received,CWE-639,1,Subscriber Insecure Direct Object References (IDOR) in Bookly <= 28.2 versions.
+2026-09-30T13:17:29.833Z,CVE-2026-96348,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Bookly <= 28.2 versions.
+2026-09-30T13:17:29.967Z,CVE-2026-96349,CRITICAL,10.0,Received,CWE-94,1,Unauthenticated Remote Code Execution (RCE) in SiteSkite <= 2.1.8 versions.
+2026-09-30T13:17:30.09Z,CVE-2026-96350,CRITICAL,9.8,Received,CWE-266,1,Subscriber Privilege Escalation in Estatik <= 4.3.5 versions.
+2026-09-30T13:17:30.22Z,CVE-2026-96351,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Classified Listing <= 6.1.3 versions.
+2026-09-30T13:17:30.35Z,CVE-2026-96352,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in YITH WooCommerce Ajax Search <= 2.28.0 versions.
+2026-09-30T13:17:30.487Z,CVE-2026-96450,MEDIUM,5.4,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in pixfort Core < 4.3.3 versions.
+2026-09-30T13:17:30.623Z,CVE-2026-96814,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in WooCommerce Product Table Lite <= 5.6.7 versions.
+2026-09-30T13:17:30.77Z,CVE-2026-96815,HIGH,7.2,Received,CWE-266,1,Custom role Privilege Escalation in Vitepos <= 3.5.0 versions.
+2026-09-30T13:17:30.91Z,CVE-2026-96816,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Trusted Shops Easy Integration for WooCommerce <= 2.0.6 versions.
+2026-09-30T13:17:31.047Z,CVE-2026-96817,HIGH,8.2,Received,CWE-862,1,Subscriber Broken Access Control in MakeCommerce for WooCommerce <= 4.1.0 versions.
+2026-09-30T13:17:31.177Z,CVE-2026-96818,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in WP Express Checkout (Accept PayPal Payments) <= 2.4.9 versions.
+2026-09-30T13:17:31.31Z,CVE-2026-96819,HIGH,7.1,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in oik <= 4.15.4 versions.
+2026-09-30T13:17:31.44Z,CVE-2026-96820,HIGH,7.1,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in Awesome Support <= 6.3.9 versions.
+2026-09-30T13:17:31.597Z,CVE-2026-96821,MEDIUM,6.3,Received,CWE-266,1,Subscriber Privilege Escalation in FluentBoards <= 2.0.12 versions.
+2026-09-30T13:17:31.75Z,CVE-2026-96822,CRITICAL,9.3,Received,CWE-89,1,Unauthenticated SQL Injection in Books Gallery <= 4.8.3 versions.
+2026-09-30T13:17:31.917Z,CVE-2026-96823,HIGH,7.5,Received,CWE-862,1,Unauthenticated Arbitrary Content Deletion in Customer Reviews for WooCommerce <= 5.120.0 versions.
+2026-09-30T13:17:32.083Z,CVE-2026-96824,MEDIUM,6.8,Received,CWE-22,1,Editor Arbitrary File Deletion in Template Kit – Import <= 1.0.16 versions.
+2026-09-30T13:17:32.22Z,CVE-2026-96825,MEDIUM,4.2,Received,CWE-290,1,Subscriber Bypass Vulnerability in All In One WP Security & Firewall <= 5.4.8 versions.
+2026-09-30T13:17:32.357Z,CVE-2026-96827,HIGH,7.6,Received,CWE-89,1,Administrator SQL Injection in Admin Notices Manager <= 1.6.0 versions.
+2026-09-30T13:17:32.493Z,CVE-2026-96828,HIGH,7.6,Received,CWE-89,1,Administrator SQL Injection in Category Discount Woocommerce <= 5.18 versions.
+2026-09-30T13:17:32.627Z,CVE-2026-96829,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in The Plus Addons for Elementor Page Builder Lite <= 6.5.1 versions.
+2026-09-30T13:17:32.76Z,CVE-2026-96830,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in GiveWP <= 4.16.9 versions.
+2026-09-30T13:17:32.893Z,CVE-2026-96831,HIGH,8.8,Received,CWE-502,1,Contributor PHP Object Injection in Themify Builder <= 7.8.1 versions.
+2026-09-30T13:17:33.023Z,CVE-2026-96832,HIGH,7.2,Received,CWE-502,1,Shop manager PHP Object Injection in Content Egg <= 6.3.1 versions.
+2026-09-30T13:17:33.153Z,CVE-2026-96833,HIGH,7.2,Received,CWE-502,1,Editor PHP Object Injection in Ultimate Addons for Contact Form 7 <= 3.5.51 versions.
+2026-09-30T13:17:33.28Z,CVE-2026-96834,MEDIUM,6.5,Received,CWE-862,1,Subscriber Sensitive Data Exposure in GiveWP <= 4.16.9 versions.
+2026-09-30T13:17:33.41Z,CVE-2026-96835,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in King Addons for Elementor <= 51.1.85 versions.
+2026-09-30T13:17:33.537Z,CVE-2026-96836,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Parsi Date <= 6.3 versions.
+2026-09-30T13:17:33.673Z,CVE-2026-96837,HIGH,8.8,Received,CWE-98,1,Contributor Remote Code Execution (RCE) in CartFlows <= 3.2.0 versions.
+2026-09-30T13:17:33.81Z,CVE-2026-96838,HIGH,8.8,Received,CWE-352,1,"Unauthenticated Cross Site Request Forgery (CSRF) in Blacklist Manager &#8211; WooCommerce Anti-Fraud, Blacklist &amp; Checkout Verification <= 2.3.1 versions."
+2026-09-30T13:17:33.95Z,CVE-2026-97065,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Happyforms <= 1.26.15 versions.
+2026-09-30T13:17:34.08Z,CVE-2026-97066,MEDIUM,5.3,Received,CWE-639,1,Unauthenticated Insecure Direct Object References (IDOR) in GiveWP <= 4.16.9 versions.
+2026-09-30T13:17:34.207Z,CVE-2026-97067,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in EWWW Image Optimizer <= 8.7.7 versions.
+2026-09-30T13:17:34.34Z,CVE-2026-97074,MEDIUM,4.3,Received,CWE-639,1,"Subscriber Insecure Direct Object References (IDOR) in Newsletters, Email Marketing, SMS and Popups by Omnisend <= 1.9.0 versions."
+2026-09-30T13:17:34.47Z,CVE-2026-97077,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Ad Inserter <= 2.8.18 versions.
+2026-09-30T13:17:34.6Z,CVE-2026-97078,MEDIUM,5.3,Received,CWE-639,1,Unauthenticated Insecure Direct Object References (IDOR) in Client Invoicing by Sprout Invoices <= 20.8.17 versions.
+2026-09-30T13:17:34.73Z,CVE-2026-97079,MEDIUM,4.3,Received,CWE-639,1,Subscriber Insecure Direct Object References (IDOR) in Webba Booking <= 6.5.0 versions.
+2026-09-30T13:17:34.877Z,CVE-2026-97197,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in WordPress Backup & Migration <= 1.6.0 versions.
+2026-09-30T13:17:35.083Z,CVE-2026-97235,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in ThemeREX Addons < 2.45.0 versions.
+2026-09-30T13:17:35.227Z,CVE-2026-97236,MEDIUM,6.5,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in ThemeREX Addons < 2.45.0 versions.
+2026-09-30T13:17:35.357Z,CVE-2026-97237,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in JetEngine <= 3.8.14.3 versions.
+2026-09-30T13:17:35.483Z,CVE-2026-97238,MEDIUM,5.5,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in JetEngine <= 3.8.14.3 versions.
+2026-09-30T13:17:35.617Z,CVE-2026-97239,MEDIUM,6.5,Received,CWE-862,1,Subscriber Broken Access Control in MCP Content Manager Lite <= 1.1.0 versions.
+2026-09-30T13:17:35.747Z,CVE-2026-97240,HIGH,7.5,Received,CWE-201,1,Unauthenticated Sensitive Data Exposure in StifLi Backup Tools <= 2.2.7 versions.
+2026-09-30T13:17:35.887Z,CVE-2026-97241,HIGH,7.5,Received,CWE-201,1,Unauthenticated Sensitive Data Exposure in BackupEase <= 2.2.2 versions.
+2026-09-30T13:17:36.03Z,CVE-2026-97242,MEDIUM,6.8,Received,CWE-22,1,Author Arbitrary File Deletion in WEBO MCP <= 3.0.18 versions.
+2026-09-30T13:17:36.167Z,CVE-2026-97243,MEDIUM,5.4,Received,CWE-862,1,Subscriber Broken Access Control in AllAble Connector <= 0.13.4 versions.
+2026-09-30T13:17:36.3Z,CVE-2026-97244,HIGH,7.5,Received,CWE-35,1,Contributor Path Traversal in Creator LMS <= 1.2.19 versions.
+2026-09-30T13:17:36.433Z,CVE-2026-97245,HIGH,7.2,Received,CWE-266,1,Shop Worker Privilege Escalation in SureCart <= 4.7.2 versions.
+2026-09-30T13:17:36.563Z,CVE-2026-97246,MEDIUM,4.9,Received,CWE-502,1,Subscriber PHP Object Injection in ShortPixel Image Optimizer <= 6.5.5 versions.
+2026-09-30T13:17:36.697Z,CVE-2026-97247,MEDIUM,6.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Blocksy Companion <= 2.1.55 versions.
+2026-09-30T13:17:36.83Z,CVE-2026-97248,CRITICAL,9.8,Received,CWE-502,1,Unauthenticated PHP Object Injection in Booking Activities <= 1.18.7.1 versions.
+2026-09-30T13:17:36.96Z,CVE-2026-97249,MEDIUM,5.3,Received,CWE-290,1,Unauthenticated Bypass Vulnerability in Paid Member Subscriptions <= 3.0.9 versions.
+2026-09-30T13:17:37.11Z,CVE-2026-97250,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Geo Mashup <= 1.13.21 versions.
+2026-09-30T13:17:37.257Z,CVE-2026-97253,HIGH,7.1,Received,CWE-79,1,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kreatura LayerSlider allows Reflected XSS. This issue affects LayerSlider: from n/a through 8.4.0.
+2026-09-30T13:17:37.4Z,CVE-2026-97261,MEDIUM,5.3,Received,CWE-201,1,Unauthenticated Sensitive Data Exposure in Notivo <= 1.4.2 versions.
+2026-09-30T13:17:37.53Z,CVE-2026-97262,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Visual Composer Website Builder <= 45.16.2 versions.
+2026-09-30T13:17:37.66Z,CVE-2026-97266,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Virtue/Ascend/Pinnacle Toolkit <= 4.9.12.1 versions.
+2026-09-30T13:17:37.787Z,CVE-2026-97267,MEDIUM,4.3,Received,CWE-862,1,Subscriber Broken Access Control in Prevent files / folders access <= 2.6.7 versions.
+2026-09-30T13:17:37.913Z,CVE-2026-97270,MEDIUM,6.5,Received,CWE-79,1,Subscriber Cross Site Scripting (XSS) in CMB2 <= 2.13.0 versions.
+2026-09-30T13:17:38.04Z,CVE-2026-97271,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in WPFunnels <= 3.13.1 versions.
+2026-09-30T13:17:38.167Z,CVE-2026-97272,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Premmerce Permalink Manager for WooCommerce <= 2.3.13 versions.
+2026-09-30T13:17:38.293Z,CVE-2026-97274,CRITICAL,9.8,Received,CWE-290,1,Unauthenticated Bypass Vulnerability in OAuth Single Sign On – SSO (OAuth Client) <= 7.1.2 versions.
+2026-09-30T13:17:38.417Z,CVE-2026-97279,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Polylang <= 3.8.9 versions.
+2026-09-30T13:17:38.55Z,CVE-2026-97282,MEDIUM,5.3,Received,CWE-639,1,Unauthenticated Insecure Direct Object References (IDOR) in Review Schema <= 3.1.0 versions.
+2026-09-30T13:17:38.68Z,CVE-2026-97285,MEDIUM,5.4,Received,CWE-862,1,Contributor Broken Access Control in The Events Calendar <= 6.17.5 versions.
+2026-09-30T13:17:38.813Z,CVE-2026-97286,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Strong Testimonials <= 3.3.11 versions.
+2026-09-30T13:17:38.943Z,CVE-2026-97287,HIGH,8.5,Received,CWE-89,1,Contributor SQL Injection in Event Tickets <= 5.29.5 versions.
+2026-09-30T13:17:39.077Z,CVE-2026-97288,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in OAuth Server <= 4.5.1 versions.
+2026-09-30T13:17:39.21Z,CVE-2026-97289,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Quiz And Survey Master <= 11.2.6 versions.
+2026-09-30T13:17:39.357Z,CVE-2026-97292,MEDIUM,6.5,Received,CWE-79,1,Author Cross Site Scripting (XSS) in YITH WooCommerce Tab Manager <= 2.15.0 versions.
+2026-09-30T13:17:39.49Z,CVE-2026-97293,HIGH,8.5,Received,CWE-89,1,Contributor SQL Injection in Media LIbrary Assistant <= 3.41 versions.
+2026-09-30T13:17:39.623Z,CVE-2026-97298,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in King Addons for Elementor <= 51.1.86 versions.
+2026-09-30T13:17:39.757Z,CVE-2026-97299,MEDIUM,5.4,Received,CWE-352,1,Unauthenticated Cross Site Request Forgery (CSRF) in Razorpay Payment Links for WooCommerce <= 2.1.5 versions.
+2026-09-30T13:17:39.897Z,CVE-2026-97301,MEDIUM,6.5,Received,CWE-79,1,Contributor Cross Site Scripting (XSS) in Cool Formkit Lite <= 2.7.8 versions.
+2026-09-30T13:17:40.033Z,CVE-2026-97302,MEDIUM,5.3,Received,CWE-201,1,Unauthenticated Sensitive Data Exposure in MPG <= 4.2.3 versions.
