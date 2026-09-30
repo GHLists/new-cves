@@ -9,34 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 00:19 UTC
+## Latest list — 2026-09-30 01:19 UTC
 
-New CVEs published between 2026-09-29 23:18 UTC and 2026-09-30 00:19 UTC.
+New CVEs published between 2026-09-30 00:19 UTC and 2026-09-30 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-09-30T00-19-55-507818Z.csv)
+[Full CSV](data/new-cves-2026-09-30T01-19-35-740429Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-30 00:16:33 | [CVE-2026-102793](https://nvd.nist.gov/vuln/detail/CVE-2026-102793) | High | 8.5 | A flaw has been found in Ziroom ZHOME A0101 1.0.1.0. This vulnerability affects the function set_time_zone of the file… |
-| 2026-09-30 00:16:34 | [CVE-2026-102794](https://nvd.nist.gov/vuln/detail/CVE-2026-102794) | High | 8.5 | A vulnerability has been found in Ziroom ZHOME A0101 1.0.1.0. This issue affects some unknown processing of the file /a… |
-| 2026-09-30 00:16:35 | [CVE-2026-103048](https://nvd.nist.gov/vuln/detail/CVE-2026-103048) |  |  | URL redirection to untrusted site ('open redirect') vulnerability in The Wikimedia Foundation Mediawiki - Collection ex… |
-| 2026-09-30 00:16:35 | [CVE-2026-103049](https://nvd.nist.gov/vuln/detail/CVE-2026-103049) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in The Wikimedia Fou… |
-| 2026-09-30 00:16:35 | [CVE-2026-103050](https://nvd.nist.gov/vuln/detail/CVE-2026-103050) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in The Wikimedia Fou… |
-| 2026-09-30 00:16:35 | [CVE-2026-103051](https://nvd.nist.gov/vuln/detail/CVE-2026-103051) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in The Wikimedia Fou… |
-| 2026-09-30 00:16:35 | [CVE-2026-13046](https://nvd.nist.gov/vuln/detail/CVE-2026-13046) | High | 7.5 | A deserialization of untrusted data vulnerability in WatchGuard Fireware OS's SAML single sign-on session handling (sam… |
-| 2026-09-30 00:16:35 | [CVE-2026-13224](https://nvd.nist.gov/vuln/detail/CVE-2026-13224) | High | 8.2 | A path traversal vulnerability in the Fireware OS WebUI management agent allows an authenticated administrator to read… |
-| 2026-09-30 00:16:35 | [CVE-2026-18105](https://nvd.nist.gov/vuln/detail/CVE-2026-18105) | High | 7.1 | An uncontrolled resource consumption vulnerability in Fireware OS's diagnostic tasks feature allows a low-privileged, a… |
-| 2026-09-30 00:16:36 | [CVE-2026-18145](https://nvd.nist.gov/vuln/detail/CVE-2026-18145) | High | 8.6 | A stack-based buffer overflow vulnerability in the spamBlocker (spamd) service of WatchGuard Fireware OS allows an auth… |
-| 2026-09-30 00:16:36 | [CVE-2026-81433](https://nvd.nist.gov/vuln/detail/CVE-2026-81433) | High | 8.7 | A stack-based buffer overflow vulnerability in WatchGuard Fireware OS's DHCP fingerprinting daemon (fingerd) allows an… |
-| 2026-09-30 00:16:36 | [CVE-2026-86101](https://nvd.nist.gov/vuln/detail/CVE-2026-86101) | High | 7.2 | An improper authorization vulnerability in WatchGuard Fireware OS's SAML login process allows a remote, authenticated S… |
-| 2026-09-30 00:16:36 | [CVE-2026-86104](https://nvd.nist.gov/vuln/detail/CVE-2026-86104) | High | 8.7 | An uncontrolled resource consumption vulnerability in the Fireware OS login process (wgagent) allows a remote, unauthen… |
-| 2026-09-30 00:16:36 | [CVE-2026-86105](https://nvd.nist.gov/vuln/detail/CVE-2026-86105) | Medium | 6.0 | An improper authorization vulnerability in Fireware OS's Access Portal reverse proxy allows an authenticated, low-privi… |
-| 2026-09-30 00:16:36 | [CVE-2026-86128](https://nvd.nist.gov/vuln/detail/CVE-2026-86128) | High | 8.2 | A NULL pointer dereference vulnerability in Fireware OS's NetFlow packet-processing feature allows a remote, unauthenti… |
-| 2026-09-30 00:16:36 | [CVE-2026-86131](https://nvd.nist.gov/vuln/detail/CVE-2026-86131) | Critical | 9.2 | A code injection vulnerability in WatchGuard Fireware OS's BOVPN Over TLS client configuration handling allows an attac… |
-| 2026-09-30 00:16:36 | [CVE-2026-86132](https://nvd.nist.gov/vuln/detail/CVE-2026-86132) | High | 8.2 | An integer underflow vulnerability in the WatchGuard Fireware OS IKEv2 daemon (iked) allows a remote, unauthenticated a… |
-| 2026-09-30 00:16:37 | [CVE-2026-86133](https://nvd.nist.gov/vuln/detail/CVE-2026-86133) | High | 8.2 | An integer underflow vulnerability in the WatchGuard Fireware OS IKE daemon (iked) allows a remote attacker who has com… |
-| 2026-09-30 00:16:37 | [CVE-2026-86136](https://nvd.nist.gov/vuln/detail/CVE-2026-86136) | High | 7.1 | A missing authorization vulnerability in the wgagent management daemon's session initialization function allows an auth… |
-| 2026-09-30 00:16:37 | [CVE-2026-90441](https://nvd.nist.gov/vuln/detail/CVE-2026-90441) | High | 7.1 | A missing authorization vulnerability in the wgagent management daemon's session initialization function allows an auth… |
+| 2026-09-30 01:16:35 | [CVE-2026-102804](https://nvd.nist.gov/vuln/detail/CVE-2026-102804) | Medium | 5.5 | A vulnerability was detected in Nothings stb up to 2c980bb59875b0d32144a71867fbdebb2f77cd20. The impacted element is th… |
+| 2026-09-30 01:16:36 | [CVE-2026-102805](https://nvd.nist.gov/vuln/detail/CVE-2026-102805) | Medium | 5.5 | A flaw has been found in Nothings stb up to 1.16. This affects the function stbi_write_png_to_mem/stbi_write_jpg_core/s… |
+| 2026-09-30 01:16:36 | [CVE-2026-102842](https://nvd.nist.gov/vuln/detail/CVE-2026-102842) | Low | 2.1 | A vulnerability was identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. Affect… |
+| 2026-09-30 01:16:36 | [CVE-2026-103053](https://nvd.nist.gov/vuln/detail/CVE-2026-103053) | Medium | 5.3 | AiSOC versions 9.0.0 before 12.0.0 fail to enforce authentication on the response-action API endpoints when AISOC_DEV_M… |
+| 2026-09-30 01:16:36 | [CVE-2026-103054](https://nvd.nist.gov/vuln/detail/CVE-2026-103054) | High | 7.1 | AiSOC versions before 12.0.0 contain an authorization bypass vulnerability in the MSSP module that allows authenticated… |
+| 2026-09-30 01:16:36 | [CVE-2026-103055](https://nvd.nist.gov/vuln/detail/CVE-2026-103055) | High | 8.7 | AiSOC versions 7.5.0 before 12.0.0 use a hard-coded constant for JWT verification in the realtime WebSocket and SSE ser… |
+| 2026-09-30 01:16:37 | [CVE-2026-103056](https://nvd.nist.gov/vuln/detail/CVE-2026-103056) | Critical | 9.4 | AiSOC versions 7.2.0 before 12.0.0 contain a command injection vulnerability in the actions service that builds CrowdSt… |
+| 2026-09-30 01:16:37 | [CVE-2026-103057](https://nvd.nist.gov/vuln/detail/CVE-2026-103057) | Medium | 5.3 | AiSOC versions 5.1.0 before 12.0.0 contain an authentication bypass vulnerability in the realtime service internal endp… |
+| 2026-09-30 01:16:37 | [CVE-2026-51936](https://nvd.nist.gov/vuln/detail/CVE-2026-51936) | Low | 2.1 | Zetetic SQLCipher before 4.15.0 allows SQL injection. The sqlcipher_export convenience function can be used to copy the… |
 
 ## Data source
 
