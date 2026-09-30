@@ -9,36 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:19 UTC
+## Latest list — 2026-09-30 09:21 UTC
 
-New CVEs published between 2026-09-30 07:18 UTC and 2026-09-30 08:19 UTC.
+New CVEs published between 2026-09-30 08:19 UTC and 2026-09-30 09:21 UTC.
 
-[Full CSV](data/new-cves-2026-09-30T08-19-28-66943Z.csv)
+[Full CSV](data/new-cves-2026-09-30T09-21-35-92339Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-09-30 08:16:31 | [CVE-2026-102508](https://nvd.nist.gov/vuln/detail/CVE-2026-102508) | Critical | 9.2 | Improper Verification of Cryptographic Signature and Improper Certificate Validation in the OPC UA driver of Apache PLC… |
-| 2026-09-30 08:16:32 | [CVE-2026-11895](https://nvd.nist.gov/vuln/detail/CVE-2026-11895) | Medium | 6.4 | The HT Mega Addons for Elementor – Elementor Widgets & Template Builder plugin for WordPress is vulnerable to Stored Cr… |
-| 2026-09-30 08:16:32 | [CVE-2026-14876](https://nvd.nist.gov/vuln/detail/CVE-2026-14876) | Medium | 6.4 | The Smart Slider 3 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'data-href' parameter in a… |
-| 2026-09-30 08:16:32 | [CVE-2026-16596](https://nvd.nist.gov/vuln/detail/CVE-2026-16596) | Medium | 6.5 | The WP Directory Kit plugin for WordPress is vulnerable to generic SQL Injection via the 'data_fields_list' parameter i… |
-| 2026-09-30 08:16:33 | [CVE-2026-6170](https://nvd.nist.gov/vuln/detail/CVE-2026-6170) | Medium | 6.4 | The Bold Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'images' parameter of t… |
-| 2026-09-30 08:16:33 | [CVE-2026-6171](https://nvd.nist.gov/vuln/detail/CVE-2026-6171) | Medium | 6.4 | The Bold Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'target' parameter of t… |
-| 2026-09-30 08:16:33 | [CVE-2026-6172](https://nvd.nist.gov/vuln/detail/CVE-2026-6172) | Medium | 6.4 | The Bold Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'caption' parameter of… |
-| 2026-09-30 08:16:33 | [CVE-2026-6173](https://nvd.nist.gov/vuln/detail/CVE-2026-6173) | Medium | 6.4 | The Bold Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'background_image' para… |
-| 2026-09-30 08:16:34 | [CVE-2026-6806](https://nvd.nist.gov/vuln/detail/CVE-2026-6806) | High | 7.5 | The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to time-based blind SQL Inj… |
-| 2026-09-30 08:16:34 | [CVE-2026-88037](https://nvd.nist.gov/vuln/detail/CVE-2026-88037) | Medium | 6.4 | The Bold Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the `title` attribute of th… |
-| 2026-09-30 08:16:34 | [CVE-2026-92867](https://nvd.nist.gov/vuln/detail/CVE-2026-92867) | High | 8.7 | An out-of-bounds write vulnerability exists in Pgpool-II , which may allow an authenticated attacker to cause abnormal… |
-| 2026-09-30 08:16:34 | [CVE-2026-92868](https://nvd.nist.gov/vuln/detail/CVE-2026-92868) | Medium | 6.9 | An improper certificate validation vulnerability exists in Pgpool-II, which may allow an unauthenticated attacker to by… |
-| 2026-09-30 08:16:34 | [CVE-2026-92869](https://nvd.nist.gov/vuln/detail/CVE-2026-92869) | High | 7.1 | An out-of-bounds write vulnerability exists in Pgpool-II, which may allow an authenticated attacker to cause abnormal p… |
-| 2026-09-30 08:16:35 | [CVE-2026-92870](https://nvd.nist.gov/vuln/detail/CVE-2026-92870) | High | 8.7 | A stack-based buffer overflow vulnerability exists in Pgpool-II, which may allow an unauthenticated attacker to cause a… |
-| 2026-09-30 08:16:35 | [CVE-2026-92871](https://nvd.nist.gov/vuln/detail/CVE-2026-92871) | High | 8.7 | A NULL pointer dereference vulnerability exists in Pgpool-II, which may allow an unauthenticated attacker to cause abno… |
-| 2026-09-30 08:16:35 | [CVE-2026-92872](https://nvd.nist.gov/vuln/detail/CVE-2026-92872) | Medium | 5.3 | Pgpool-II inserts sensitive information into log file, which may allow an authenticated attacker to obtain the cluster… |
-| 2026-09-30 08:16:35 | [CVE-2026-92873](https://nvd.nist.gov/vuln/detail/CVE-2026-92873) | Medium | 6.9 | Pgpool-II contains an incorrect implementation of an authentication algorithm, which may allow an unauthenticated attac… |
-| 2026-09-30 08:16:35 | [CVE-2026-93460](https://nvd.nist.gov/vuln/detail/CVE-2026-93460) | Medium | 5.1 | Stored Cross-site scripting via appended strings in email form fields vulnerability exists in baserCMS . If this vulner… |
-| 2026-09-30 08:16:35 | [CVE-2026-93462](https://nvd.nist.gov/vuln/detail/CVE-2026-93462) | Medium | 6.9 | Missing authentication for critical function vulnerability exists in baserCMS . If a remote unauthenticated attacker th… |
-| 2026-09-30 08:16:35 | [CVE-2026-93463](https://nvd.nist.gov/vuln/detail/CVE-2026-93463) | Medium | 5.1 | Cross-Site Scripting via Script Validation Bypass exists in baserCMS. If this vulnerability is exploited, an arbitrary… |
-| 2026-09-30 08:16:36 | [CVE-2026-93464](https://nvd.nist.gov/vuln/detail/CVE-2026-93464) | Medium | 5.1 | Stored Cross-Site Scripting via custom content descriptions vulnerability exists in baserCMS . If this vulnerability is… |
-| 2026-09-30 08:16:36 | [CVE-2026-97150](https://nvd.nist.gov/vuln/detail/CVE-2026-97150) | High | 8.6 | When converting baserCMS4-style addons to baserCMS5-style ones, BcAddonMigrator includes "config.php" from the addon, w… |
+| 2026-09-30 09:17:11 | [CVE-2025-14564](https://nvd.nist.gov/vuln/detail/CVE-2025-14564) | Medium | 6.4 | The Viable URL Media Uploader plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in… |
+| 2026-09-30 09:17:13 | [CVE-2026-102454](https://nvd.nist.gov/vuln/detail/CVE-2026-102454) | High | 8.6 | EasyFlow .NET developed by Digiwin has an Arbitrary File Upload vulnerability. Privileged remote attackers can upload a… |
+| 2026-09-30 09:17:13 | [CVE-2026-102455](https://nvd.nist.gov/vuln/detail/CVE-2026-102455) | Critical | 9.3 | EasyFlow .NET developed by Digiwin has a Insecure Deserialization vulnerability. Unauthenticated remote attackers can e… |
+| 2026-09-30 09:17:13 | [CVE-2026-102456](https://nvd.nist.gov/vuln/detail/CVE-2026-102456) | High | 7.1 | EasyFlow .NET developed by Digiwin has an SQL Injection vulnerability. Authenticated remote attackers can inject arbitr… |
+| 2026-09-30 09:17:13 | [CVE-2026-102457](https://nvd.nist.gov/vuln/detail/CVE-2026-102457) | High | 7.1 | EasyFlow .NET developed by Digiwin has an Arbitrary File Read vulnerability. Authenticated remote attackers can exploit… |
+| 2026-09-30 09:17:13 | [CVE-2026-102458](https://nvd.nist.gov/vuln/detail/CVE-2026-102458) | Critical | 9.3 | EasyFlow .NET developed by Digiwin has a Missing Authentication vulnerability. Unauthenticated remote attackers can obt… |
+| 2026-09-30 09:17:13 | [CVE-2026-102459](https://nvd.nist.gov/vuln/detail/CVE-2026-102459) | Medium | 5.1 | EasyFlow .NET developed by Digiwin has a Reflected Cross-site Scripting vulnerability. Unauthenticated remote attackers… |
+| 2026-09-30 09:17:14 | [CVE-2026-102509](https://nvd.nist.gov/vuln/detail/CVE-2026-102509) | High | 8.7 | Memory Allocation with Excessive Size Value, Allocation of Resources Without Limits, and Uncontrolled Recursion in the… |
+| 2026-09-30 09:17:14 | [CVE-2026-102510](https://nvd.nist.gov/vuln/detail/CVE-2026-102510) | High | 8.7 | Integer Overflow, Improper Validation of Array Index, Uncontrolled Recursion and Memory Allocation with Excessive Size… |
+| 2026-09-30 09:17:14 | [CVE-2026-102511](https://nvd.nist.gov/vuln/detail/CVE-2026-102511) | High | 8.5 | Improper Verification of Source of a Communication Channel in the ADS discovery of the Go implementation of Apache PLC4… |
+| 2026-09-30 09:17:14 | [CVE-2026-102577](https://nvd.nist.gov/vuln/detail/CVE-2026-102577) | Medium | 4.3 | A flaw was found in Moodle. Incorrect handling of IPv4-mapped IPv6 addresses within the URL downloader's host-blocking… |
+| 2026-09-30 09:17:14 | [CVE-2026-102578](https://nvd.nist.gov/vuln/detail/CVE-2026-102578) | Medium | 5.5 | A flaw was found in Moodle. An authenticated attacker with access to the question bank web service can submit unsanitiz… |
+| 2026-09-30 09:17:14 | [CVE-2026-102579](https://nvd.nist.gov/vuln/detail/CVE-2026-102579) | Medium | 4.3 | A flaw was found in Moodle. An incorrect capability check in the grade web service allows an authenticated student to a… |
+| 2026-09-30 09:17:15 | [CVE-2026-102580](https://nvd.nist.gov/vuln/detail/CVE-2026-102580) | Low | 2.2 | A flaw was found in Moodle. An authenticated attacker can supply an improperly validated audience class name to the Rep… |
+| 2026-09-30 09:17:15 | [CVE-2026-102581](https://nvd.nist.gov/vuln/detail/CVE-2026-102581) | Medium | 4.6 | A flaw was found in Moodle. Insufficient output escaping in templates used to display forum posts enables a stored cros… |
+| 2026-09-30 09:17:15 | [CVE-2026-102582](https://nvd.nist.gov/vuln/detail/CVE-2026-102582) | Low | 2.2 | A flaw was found in Moodle. The manual enrolment management page did not properly check whether the manual enrolment pl… |
+| 2026-09-30 09:17:15 | [CVE-2026-102583](https://nvd.nist.gov/vuln/detail/CVE-2026-102583) | Low | 2.7 | A flaw was found in Moodle. An incorrect capability check in the artificial intelligence (AI) editor placement's image… |
+| 2026-09-30 09:17:15 | [CVE-2026-102584](https://nvd.nist.gov/vuln/detail/CVE-2026-102584) | Medium | 4.3 | A flaw was found in Moodle. Due to a missing capability check, a low-privileged authenticated user can trigger the reca… |
+| 2026-09-30 09:17:15 | [CVE-2026-102585](https://nvd.nist.gov/vuln/detail/CVE-2026-102585) | Medium | 4.3 | A flaw was found in Moodle. When enrolling a user into a course while assigning them to a group, the application does n… |
+| 2026-09-30 09:17:15 | [CVE-2026-102586](https://nvd.nist.gov/vuln/detail/CVE-2026-102586) | Medium | 4.3 | A flaw was found in Moodle. Insufficient sanitization of username input on the password reset page allows a remote atta… |
+| 2026-09-30 09:17:16 | [CVE-2026-102587](https://nvd.nist.gov/vuln/detail/CVE-2026-102587) | Low | 2.7 | A flaw was found in Moodle. User list filters do not properly enforce visibility restrictions on user profile fields. A… |
+| 2026-09-30 09:17:16 | [CVE-2026-102588](https://nvd.nist.gov/vuln/detail/CVE-2026-102588) | Medium | 6.5 | A flaw was found in Moodle. The XML grade import feature lacks proper Cross-Site Request Forgery (CSRF) token validatio… |
+| 2026-09-30 09:17:16 | [CVE-2026-75098](https://nvd.nist.gov/vuln/detail/CVE-2026-75098) | High | 7.5 | The Product Designer App plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including… |
+| 2026-09-30 09:17:16 | [CVE-2026-92712](https://nvd.nist.gov/vuln/detail/CVE-2026-92712) | Medium | 6.4 | The ReactPress – Create React App for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via t… |
+| 2026-09-30 09:17:16 | [CVE-2026-93908](https://nvd.nist.gov/vuln/detail/CVE-2026-93908) | Medium | 6.4 | The Real Estate Manager – Property Listing and Agent Management plugin for WordPress is vulnerable to Stored Cross-Site… |
+| 2026-09-30 09:17:16 | [CVE-2026-97347](https://nvd.nist.gov/vuln/detail/CVE-2026-97347) | High | 7.2 | The Post Views Stats Counter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User-Agent Header in… |
 
 ## Data source
 
