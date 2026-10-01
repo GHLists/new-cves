@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:18 UTC
+## Latest list — 2026-10-01 02:19 UTC
 
-New CVEs published between 2026-10-01 00:22 UTC and 2026-10-01 01:18 UTC.
+New CVEs published between 2026-10-01 01:18 UTC and 2026-10-01 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T01-18-56-490834Z.csv)
+[Full CSV](data/new-cves-2026-10-01T02-19-19-118161Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 01:16:35 | [CVE-2026-103531](https://nvd.nist.gov/vuln/detail/CVE-2026-103531) | Medium | 5.1 | A flaw has been found in OpenSC up to 0.27.1. The impacted element is the function setcos_construct_fci_44 of the file… |
+| 2026-10-01 02:16:53 | [CVE-2026-103532](https://nvd.nist.gov/vuln/detail/CVE-2026-103532) | Medium | 6.9 | A vulnerability has been found in immich-app Immich up to 2.7.5. This affects the function checkSharedLinkAccess of the… |
+| 2026-10-01 02:16:53 | [CVE-2026-13313](https://nvd.nist.gov/vuln/detail/CVE-2026-13313) | High | 8.9 | An Active Debug Code vulnerability in certain ASUS router models allows a remote authenticated user, via a crafted HTTP… |
+| 2026-10-01 02:16:53 | [CVE-2026-14157](https://nvd.nist.gov/vuln/detail/CVE-2026-14157) | Critical | 9.4 | Use of an Externally Controlled Format String in the ASUS Router modules allow a remote authenticated user to execute a… |
+| 2026-10-01 02:16:54 | [CVE-2026-93495](https://nvd.nist.gov/vuln/detail/CVE-2026-93495) | High | 7.0 | Improper initialization in an ASUS certain motherboard allows an physically proximate user to read or write arbitrary m… |
 
 ## Data source
 
