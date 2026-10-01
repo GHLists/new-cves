@@ -9,35 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 09:20 UTC
+## Latest list — 2026-10-01 10:20 UTC
 
-New CVEs published between 2026-10-01 08:18 UTC and 2026-10-01 09:20 UTC.
+New CVEs published between 2026-10-01 09:20 UTC and 2026-10-01 10:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T09-20-30-281105Z.csv)
+[Full CSV](data/new-cves-2026-10-01T10-20-08-87977Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 09:17:06 | [CVE-2026-100179](https://nvd.nist.gov/vuln/detail/CVE-2026-100179) | Medium | 6.1 | The Calculated Fields Form – AI Form Builder for WordPress – Contact, Payment, Quote, Quiz & More plugin for WordPress… |
-| 2026-10-01 09:17:07 | [CVE-2026-100184](https://nvd.nist.gov/vuln/detail/CVE-2026-100184) | Medium | 4.7 | The Calculated Fields Form – AI Form Builder for WordPress – Contact, Payment, Quote, Quiz & More plugin for WordPress… |
-| 2026-10-01 09:17:07 | [CVE-2026-101925](https://nvd.nist.gov/vuln/detail/CVE-2026-101925) | Medium | 6.4 | The bbp style pack plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'display_name (via /wp-adm… |
-| 2026-10-01 09:17:07 | [CVE-2026-103431](https://nvd.nist.gov/vuln/detail/CVE-2026-103431) | High | 7.7 | colmux in collectl before 4.3.20.2 does not sanitize ANSI/VT100 terminal escape sequences in data received from remote… |
-| 2026-10-01 09:17:07 | [CVE-2026-103655](https://nvd.nist.gov/vuln/detail/CVE-2026-103655) | Critical | 9.3 | MISP contains a vulnerability in its two-factor authentication (TOTP) verification process that permits a valid one-tim… |
-| 2026-10-01 09:17:08 | [CVE-2026-103656](https://nvd.nist.gov/vuln/detail/CVE-2026-103656) |  |  | Rejected reason: none |
-| 2026-10-01 09:17:08 | [CVE-2026-103659](https://nvd.nist.gov/vuln/detail/CVE-2026-103659) | High | 7.1 | MISP contains an authorization bypass in the event flattening feature. When a user requests an event with the flatten o… |
-| 2026-10-01 09:17:08 | [CVE-2026-103662](https://nvd.nist.gov/vuln/detail/CVE-2026-103662) | Medium | 5.1 | MISP contains a reflected cross-site scripting (XSS) vulnerability in the legacy taxonomy tag management confirmation f… |
-| 2026-10-01 09:17:08 | [CVE-2026-103664](https://nvd.nist.gov/vuln/detail/CVE-2026-103664) | Medium | 4.8 | MISP contains a reflected cross-site scripting (XSS) vulnerability in the analyst data notes panel. The seed path param… |
-| 2026-10-01 09:17:08 | [CVE-2026-14995](https://nvd.nist.gov/vuln/detail/CVE-2026-14995) | High | 7.2 | The Autoptimize plugin for WordPress is vulnerable to Stored Cross-Site Scripting via REQUEST_URI Path in all versions… |
-| 2026-10-01 09:17:09 | [CVE-2026-15983](https://nvd.nist.gov/vuln/detail/CVE-2026-15983) | High | 8.1 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Arbitrary File/Directory Deletion in a… |
-| 2026-10-01 09:17:09 | [CVE-2026-85235](https://nvd.nist.gov/vuln/detail/CVE-2026-85235) | High | 7.2 | The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to Stored Cr… |
-| 2026-10-01 09:17:09 | [CVE-2026-89424](https://nvd.nist.gov/vuln/detail/CVE-2026-89424) | Medium | 6.4 | The Duplicate Post plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'noti_token' parameter in… |
-| 2026-10-01 09:17:09 | [CVE-2026-89427](https://nvd.nist.gov/vuln/detail/CVE-2026-89427) | Medium | 6.1 | The Ad Inserter – Ad Manager & AdSense Ads plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via 's'… |
-| 2026-10-01 09:17:09 | [CVE-2026-90992](https://nvd.nist.gov/vuln/detail/CVE-2026-90992) | Medium | 6.4 | The Redux Framework plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User Meta Merge via 'user-med… |
-| 2026-10-01 09:17:10 | [CVE-2026-92244](https://nvd.nist.gov/vuln/detail/CVE-2026-92244) | High | 7.2 | The PDF Invoices & Packing Slips for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
-| 2026-10-01 09:17:10 | [CVE-2026-95687](https://nvd.nist.gov/vuln/detail/CVE-2026-95687) | High | 8.8 | The WPC Shop as a Customer for WooCommerce plugin for WordPress is vulnerable to privilege escalation via account takeo… |
-| 2026-10-01 09:17:10 | [CVE-2026-96268](https://nvd.nist.gov/vuln/detail/CVE-2026-96268) | Medium | 6.4 | The Awesome Support – WordPress HelpDesk & Support Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scrip… |
-| 2026-10-01 09:17:10 | [CVE-2026-96573](https://nvd.nist.gov/vuln/detail/CVE-2026-96573) | High | 7.2 | The Appointment Hour Booking – Booking Calendar plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scrip… |
-| 2026-10-01 09:17:10 | [CVE-2026-96813](https://nvd.nist.gov/vuln/detail/CVE-2026-96813) | High | 7.2 | The Form Maker by 10Web – Mobile-Friendly Drag & Drop Contact Form Builder plugin for WordPress is vulnerable to Stored… |
-| 2026-10-01 09:17:11 | [CVE-2026-97661](https://nvd.nist.gov/vuln/detail/CVE-2026-97661) | High | 7.2 | The Business Essentials for Contact Form 7 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'gatew… |
+| 2026-10-01 10:17:12 | [CVE-2026-103488](https://nvd.nist.gov/vuln/detail/CVE-2026-103488) | High | 7.1 | In JetBrains YouTrack before 2026.2.19422 missing authorisation allowed authenticated users to add themselves to projec… |
+| 2026-10-01 10:17:14 | [CVE-2026-103489](https://nvd.nist.gov/vuln/detail/CVE-2026-103489) | Low | 2.0 | In JetBrains YouTrack before 2026.2.19422 hTML injection in VCS command failure notifications was possible |
+| 2026-10-01 10:17:14 | [CVE-2026-103490](https://nvd.nist.gov/vuln/detail/CVE-2026-103490) | High | 7.2 | In JetBrains YouTrack before 2026.2.19422 privilege escalation was possible via user group links |
+| 2026-10-01 10:17:14 | [CVE-2026-103491](https://nvd.nist.gov/vuln/detail/CVE-2026-103491) | Medium | 6.5 | In JetBrains YouTrack before 2026.2.19422 iDOR in the issue activities API allowed reading restricted issues |
+| 2026-10-01 10:17:14 | [CVE-2026-103492](https://nvd.nist.gov/vuln/detail/CVE-2026-103492) | Medium | 6.5 | In JetBrains YouTrack before 2026.2.19422 doS attack was possible via crafted PSD attachments |
+| 2026-10-01 10:17:14 | [CVE-2026-103493](https://nvd.nist.gov/vuln/detail/CVE-2026-103493) | High | 8.1 | In JetBrains YouTrack before 2026.2.19422 stored XSS via Mermaid and LaTeX content was possible |
+| 2026-10-01 10:17:14 | [CVE-2026-103494](https://nvd.nist.gov/vuln/detail/CVE-2026-103494) | Medium | 6.6 | In JetBrains YouTrack before 2026.2.19422 privilege escalation was possible via user group membership changes |
+| 2026-10-01 10:17:15 | [CVE-2026-103495](https://nvd.nist.gov/vuln/detail/CVE-2026-103495) | Medium | 4.3 | In JetBrains YouTrack before 2026.2.19422 missing authorisation allowed reloading of translation catalogs |
+| 2026-10-01 10:17:15 | [CVE-2026-103496](https://nvd.nist.gov/vuln/detail/CVE-2026-103496) | Medium | 5.4 | In JetBrains YouTrack before 2026.2.19422 iDOR in inbox threads allowed reading other users' notifications |
+| 2026-10-01 10:17:15 | [CVE-2026-103497](https://nvd.nist.gov/vuln/detail/CVE-2026-103497) | Medium | 5.5 | In JetBrains YouTrack before 2026.2.19422 sSRF was possible via the GitHub VCS integration |
+| 2026-10-01 10:17:15 | [CVE-2026-34189](https://nvd.nist.gov/vuln/detail/CVE-2026-34189) | Medium | 5.9 | Cross-Site Request Forgery (CSRF) vulnerability allows unauthorized deletion of event responses via a forged GET reques… |
+| 2026-10-01 10:17:15 | [CVE-2026-34190](https://nvd.nist.gov/vuln/detail/CVE-2026-34190) | Medium | 5.9 | Cross-Site Request Forgery (CSRF) vulnerability allows unauthorized deletion of alert commands via sequential, unvalida… |
+| 2026-10-01 10:17:15 | [CVE-2026-64946](https://nvd.nist.gov/vuln/detail/CVE-2026-64946) | High | 7.4 | A chained CSRF and unrestricted SVG file upload vulnerability in the File Manager module allows stored Cross-Site Scrip… |
+| 2026-10-01 10:17:15 | [CVE-2026-64947](https://nvd.nist.gov/vuln/detail/CVE-2026-64947) | High | 7.5 | A chained CSRF bypass and unrestricted file upload vulnerability in the Plugin File Manager allows an attacker to uploa… |
+| 2026-10-01 10:17:16 | [CVE-2026-64948](https://nvd.nist.gov/vuln/detail/CVE-2026-64948) | High | 7.1 | Missing authorization in module data retrieval allows unauthorized cross-group access to module history. Affects Pandor… |
+| 2026-10-01 10:17:16 | [CVE-2026-64949](https://nvd.nist.gov/vuln/detail/CVE-2026-64949) | High | 8.6 | Incomplete extension blacklist in the File Manager module allows authenticated upload and execution of arbitrary .phar… |
+| 2026-10-01 10:17:16 | [CVE-2026-64950](https://nvd.nist.gov/vuln/detail/CVE-2026-64950) | High | 8.4 | Missing input validation and output encoding on the directory name parameter in File Manager's Create Directory allows… |
+| 2026-10-01 10:17:16 | [CVE-2026-75786](https://nvd.nist.gov/vuln/detail/CVE-2026-75786) | High | 7.2 | Unsanitized concatenation of the module parameter in the Grafana datasource endpoint allows authenticated blind SQL inj… |
+| 2026-10-01 10:17:16 | [CVE-2026-7173](https://nvd.nist.gov/vuln/detail/CVE-2026-7173) | Medium | 4.8 | CVE-2026-7173: Cross-Site Scripting vulnerability in Entradium, by Crocantickets. Exploitation of this vulnerability co… |
+| 2026-10-01 10:17:16 | [CVE-2026-7174](https://nvd.nist.gov/vuln/detail/CVE-2026-7174) | Medium | 4.8 | CVE-2026-7174: Stored Cross-Site Scripting vulnerability in Entradium, by Crocantickets. Specifically, in the Name and… |
+| 2026-10-01 10:17:16 | [CVE-2026-7175](https://nvd.nist.gov/vuln/detail/CVE-2026-7175) | Medium | 4.8 | CVE-2026-7175: the Business Name parameter in the /promoters/edit endpoint of the My Profile section of a promoter’s pr… |
+| 2026-10-01 10:17:17 | [CVE-2026-7176](https://nvd.nist.gov/vuln/detail/CVE-2026-7176) | Medium | 4.8 | CVE-2026-7176: the Help text and Title parameters in the endpoint /events/<event_name>-<event_city>/custom_form/edit du… |
+| 2026-10-01 10:17:17 | [CVE-2026-83589](https://nvd.nist.gov/vuln/detail/CVE-2026-83589) | Medium | 6.1 | A flaw was found in oauth-proxy. The application fails to properly validate the destination redirect parameter (`rd`) d… |
+| 2026-10-01 10:17:17 | [CVE-2026-92144](https://nvd.nist.gov/vuln/detail/CVE-2026-92144) | High | 7.2 | The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to Stored Cr… |
+| 2026-10-01 10:17:17 | [CVE-2026-96256](https://nvd.nist.gov/vuln/detail/CVE-2026-96256) | Medium | 6.4 | The Gutenberg Essential Blocks – Page Builder for Gutenberg Blocks & Patterns plugin for WordPress is vulnerable to Sto… |
+| 2026-10-01 10:17:17 | [CVE-2026-96577](https://nvd.nist.gov/vuln/detail/CVE-2026-96577) | High | 7.1 | A flaw was found in oc-mirror. During mirroring operations, the embedded local cache registry binds to all network inte… |
 
 ## Data source
 
