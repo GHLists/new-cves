@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 03:18 UTC
+## Latest list — 2026-10-01 04:18 UTC
 
-New CVEs published between 2026-10-01 02:19 UTC and 2026-10-01 03:18 UTC.
+New CVEs published between 2026-10-01 03:18 UTC and 2026-10-01 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T03-18-43-460929Z.csv)
+[Full CSV](data/new-cves-2026-10-01T04-18-33-908563Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 03:16:58 | [CVE-2026-101887](https://nvd.nist.gov/vuln/detail/CVE-2026-101887) | Low | 2.1 | BlueALSA (bluez-alsa/bluealsad) contains a division-by-zero vulnerability in the LC3plus sink decoder (a2dp-lc3plus.c,… |
-| 2026-10-01 03:16:59 | [CVE-2026-103533](https://nvd.nist.gov/vuln/detail/CVE-2026-103533) | Low | 1.2 | A vulnerability was found in David-Crty databasement up to 1.7.1. This impacts the function https:/github.com/David-Crt… |
-| 2026-10-01 03:16:59 | [CVE-2026-92537](https://nvd.nist.gov/vuln/detail/CVE-2026-92537) | Medium | 5.3 | The Newsletter – Send awesome emails from WordPress plugin for WordPress is vulnerable to Insufficiently Protected Cred… |
+| 2026-10-01 04:18:04 | [CVE-2026-103534](https://nvd.nist.gov/vuln/detail/CVE-2026-103534) | Low | 2.1 | A vulnerability was determined in David-Crty databasement up to 1.7.1. Affected is the function SnapshotPolicy.viewAny/… |
+| 2026-10-01 04:18:04 | [CVE-2026-103641](https://nvd.nist.gov/vuln/detail/CVE-2026-103641) | Medium | 5.5 | A flaw was found in GEGL. The Radiance HDR loader reads past the end of a memory-mapped image when an uncompressed scan… |
+| 2026-10-01 04:18:21 | [CVE-2026-91109](https://nvd.nist.gov/vuln/detail/CVE-2026-91109) | Medium | 6.5 | The Simply Schedule Appointments plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions… |
+| 2026-10-01 04:18:21 | [CVE-2026-92245](https://nvd.nist.gov/vuln/detail/CVE-2026-92245) | High | 7.5 | The Simply Schedule Appointments plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions u… |
+| 2026-10-01 04:18:22 | [CVE-2026-96561](https://nvd.nist.gov/vuln/detail/CVE-2026-96561) | High | 7.2 | The AI Engine – The Chatbot, AI Framework & MCP for WordPress plugin for WordPress is vulnerable to Stored Cross-Site S… |
 
 ## Data source
 
