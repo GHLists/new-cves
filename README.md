@@ -9,33 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 05:19 UTC
+## Latest list — 2026-10-01 06:20 UTC
 
-New CVEs published between 2026-10-01 04:18 UTC and 2026-10-01 05:19 UTC.
+New CVEs published between 2026-10-01 05:19 UTC and 2026-10-01 06:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T05-19-08-480065Z.csv)
+[Full CSV](data/new-cves-2026-10-01T06-20-38-869343Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 05:17:06 | [CVE-2026-103536](https://nvd.nist.gov/vuln/detail/CVE-2026-103536) | Medium | 5.5 | A vulnerability was identified in ZongXR Supermarket 1.0.0.0. Affected by this vulnerability is the function OrderContr… |
-| 2026-10-01 05:17:08 | [CVE-2026-103538](https://nvd.nist.gov/vuln/detail/CVE-2026-103538) | Medium | 5.5 | A security flaw has been discovered in ZongXR SuperMarket 1.0.0.0. Affected by this issue is the function OrderControll… |
-| 2026-10-01 05:17:08 | [CVE-2026-103539](https://nvd.nist.gov/vuln/detail/CVE-2026-103539) | Low | 2.1 | A weakness has been identified in ZongXR SuperMarket 1.0.0.0. This affects the function startBuy of the file instant-bu… |
-| 2026-10-01 05:17:08 | [CVE-2026-12241](https://nvd.nist.gov/vuln/detail/CVE-2026-12241) | Medium | 5.4 | The Advanced Woo Labels – Product Labels & Badges for WooCommerce plugin for WordPress is vulnerable to unauthorized mo… |
-| 2026-10-01 05:17:09 | [CVE-2026-76142](https://nvd.nist.gov/vuln/detail/CVE-2026-76142) | Critical | 9.3 | Insufficient authentication and access control on the internal-only IPC SOAP endpoint of the Genian NAC/ZTNA policy ser… |
-| 2026-10-01 05:17:09 | [CVE-2026-76143](https://nvd.nist.gov/vuln/detail/CVE-2026-76143) | High | 7.3 | A missing authorization vulnerability in Genian SSL PNS allows an attacker to bypass multi-factor authentication by man… |
-| 2026-10-01 05:17:09 | [CVE-2026-76144](https://nvd.nist.gov/vuln/detail/CVE-2026-76144) | Low | 1.8 | An unrestricted file upload vulnerability caused by insufficient file extension and integrity verification in Genian SS… |
-| 2026-10-01 05:17:09 | [CVE-2026-76145](https://nvd.nist.gov/vuln/detail/CVE-2026-76145) | High | 7.5 | An improper privilege management vulnerability in Genian SSL PNS allows an attacker to escalate to super administrator… |
-| 2026-10-01 05:17:09 | [CVE-2026-76146](https://nvd.nist.gov/vuln/detail/CVE-2026-76146) | High | 8.4 | An OS command injection vulnerability in Genian SSL PNS allows an attacker who knows only the client access ID, without… |
-| 2026-10-01 05:17:09 | [CVE-2026-76147](https://nvd.nist.gov/vuln/detail/CVE-2026-76147) | Medium | 5.9 | A path traversal (ZIP Slip) vulnerability caused by insufficient authorization and integrity verification in the agent… |
-| 2026-10-01 05:17:10 | [CVE-2026-78210](https://nvd.nist.gov/vuln/detail/CVE-2026-78210) | High | 7.1 | In affected versions of Octopus Server, users with certain scoped permission sets could execute arbitrary scripts in an… |
-| 2026-10-01 05:17:10 | [CVE-2026-82824](https://nvd.nist.gov/vuln/detail/CVE-2026-82824) | Critical | 9.3 | Hitachi Coding Software Suite contains a vulnerability related to Path Traversal vulnerability that allows an attacker… |
-| 2026-10-01 05:17:10 | [CVE-2026-82825](https://nvd.nist.gov/vuln/detail/CVE-2026-82825) | Critical | 9.3 | Hitachi Coding Software Suite contains a vulnerability related to Missing Authentication for Critical Function. This al… |
-| 2026-10-01 05:17:10 | [CVE-2026-82826](https://nvd.nist.gov/vuln/detail/CVE-2026-82826) | High | 8.7 | Hitachi Coding Software Suite contains a vulnerability related to the Cleartext Transmission of Sensitive Information w… |
-| 2026-10-01 05:17:10 | [CVE-2026-82827](https://nvd.nist.gov/vuln/detail/CVE-2026-82827) | Critical | 9.3 | Hitachi Coding Software Suite contains a vulnerability related to Use of Hard-coded Cryptographic Key. The Hardcoding o… |
-| 2026-10-01 05:17:10 | [CVE-2026-82828](https://nvd.nist.gov/vuln/detail/CVE-2026-82828) | High | 8.7 | Hitachi Coding Software Suite contains an Incorrect Authorization vulnerability that allows an unprivileged user to per… |
-| 2026-10-01 05:17:11 | [CVE-2026-82829](https://nvd.nist.gov/vuln/detail/CVE-2026-82829) | Critical | 9.3 | Hitachi Coding Software Suite contains a vulnerability related to Hidden Functionality vulnerability which allows an at… |
-| 2026-10-01 05:17:11 | [CVE-2026-92548](https://nvd.nist.gov/vuln/detail/CVE-2026-92548) | Medium | 5.3 | The WP Popular Posts plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and in… |
-| 2026-10-01 05:17:11 | [CVE-2026-92966](https://nvd.nist.gov/vuln/detail/CVE-2026-92966) | Critical | 9.1 | The The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable… |
+| 2026-10-01 06:17:01 | [CVE-2026-101147](https://nvd.nist.gov/vuln/detail/CVE-2026-101147) |  |  | The Featured Image from URL (FIFU) WordPress plugin before 6.0.8, Featured Image from URL (FIFU) Premium WordPress plug… |
+| 2026-10-01 06:17:04 | [CVE-2026-101148](https://nvd.nist.gov/vuln/detail/CVE-2026-101148) |  |  | The BackupSheep WordPress Backup Plugin WordPress plugin through 1.8 does not properly validate its integration key, tr… |
+| 2026-10-01 06:17:04 | [CVE-2026-103540](https://nvd.nist.gov/vuln/detail/CVE-2026-103540) | Low | 2.1 | A security vulnerability has been detected in formtools.org Form Tools up to 3.1.1. This vulnerability affects the func… |
+| 2026-10-01 06:17:05 | [CVE-2026-103541](https://nvd.nist.gov/vuln/detail/CVE-2026-103541) | Low | 2.1 | A vulnerability was detected in formtools.org Form Tools up to 3.1.1. This issue affects the function Files::uploadFile… |
+| 2026-10-01 06:17:06 | [CVE-2026-103542](https://nvd.nist.gov/vuln/detail/CVE-2026-103542) | Low | 2.1 | A flaw has been found in formtools.org Form Tools up to 3.1.1. Impacted is the function smart_fill of the file /global/… |
+| 2026-10-01 06:17:07 | [CVE-2026-103543](https://nvd.nist.gov/vuln/detail/CVE-2026-103543) | Low | 2.1 | A vulnerability has been found in itsourcecode Leave Management System 1.0. The affected element is an unknown function… |
+| 2026-10-01 06:17:08 | [CVE-2026-19253](https://nvd.nist.gov/vuln/detail/CVE-2026-19253) |  |  | The Cache Enabler WordPress plugin before 1.8.17 does not validate a URL before using it to build a filesystem path in… |
+| 2026-10-01 06:17:08 | [CVE-2026-67075](https://nvd.nist.gov/vuln/detail/CVE-2026-67075) | Medium | 6.5 | HCL Digital Experience is affected by improper input sanitation. This can result in HTML injection which could be lever… |
+| 2026-10-01 06:17:09 | [CVE-2026-80275](https://nvd.nist.gov/vuln/detail/CVE-2026-80275) | High | 8.8 | Comelit Multi-User Gateway for VIP System (model 1456B) firmware versions 2.9.1 and 2.10.0 fail to enforce server-side… |
+| 2026-10-01 06:17:10 | [CVE-2026-80276](https://nvd.nist.gov/vuln/detail/CVE-2026-80276) | High | 7.5 | Comelit Multi-User Gateway for VIP System (model 1456B) firmware versions 2.9.1 and 2.10.0 expose a network-accessible… |
+| 2026-10-01 06:17:10 | [CVE-2026-81739](https://nvd.nist.gov/vuln/detail/CVE-2026-81739) |  |  | The Paytm Payment Gateway WordPress plugin before 2.8.9 does not sanitize and escape data it stores from payment callba… |
+| 2026-10-01 06:17:11 | [CVE-2026-81809](https://nvd.nist.gov/vuln/detail/CVE-2026-81809) |  |  | The Paytm Payment Gateway WordPress plugin before 2.8.9 does not properly escape data taken from payment callbacks befo… |
+| 2026-10-01 06:17:11 | [CVE-2026-85679](https://nvd.nist.gov/vuln/detail/CVE-2026-85679) | High | 7.2 | The Extendify plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'styles.blocks' Block Type Key in a… |
+| 2026-10-01 06:17:12 | [CVE-2026-86610](https://nvd.nist.gov/vuln/detail/CVE-2026-86610) |  |  | The Download Manager WordPress plugin before 3.3.71 does not sufficiently sanitise and escape a package setting before… |
+| 2026-10-01 06:17:12 | [CVE-2026-87970](https://nvd.nist.gov/vuln/detail/CVE-2026-87970) |  |  | The If-So Dynamic Content WordPress plugin before 1.10.2 does not escape a request-supplied value before reflecting it… |
+| 2026-10-01 06:17:13 | [CVE-2026-87973](https://nvd.nist.gov/vuln/detail/CVE-2026-87973) |  |  | The If-So Dynamic Content WordPress plugin before 1.10.2 does not sanitize a conversion name before storing it, nor esc… |
+| 2026-10-01 06:17:13 | [CVE-2026-88999](https://nvd.nist.gov/vuln/detail/CVE-2026-88999) | Medium | 4.3 | The Redux Framework plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 4.… |
+| 2026-10-01 06:17:14 | [CVE-2026-89296](https://nvd.nist.gov/vuln/detail/CVE-2026-89296) |  |  | The Pro Like Button WordPress plugin before 2.0 does not properly sanitize and escape a parameter before using it in a… |
+| 2026-10-01 06:17:14 | [CVE-2026-90972](https://nvd.nist.gov/vuln/detail/CVE-2026-90972) |  |  | The WP Fusion Lite WordPress plugin before 3.48.0 does not perform a capability check on two of its admin AJAX handlers… |
+| 2026-10-01 06:17:15 | [CVE-2026-90974](https://nvd.nist.gov/vuln/detail/CVE-2026-90974) |  |  | The WP Fusion Lite WordPress plugin before 3.48.0 does not require authentication on a settings handler that runs durin… |
+| 2026-10-01 06:17:15 | [CVE-2026-92412](https://nvd.nist.gov/vuln/detail/CVE-2026-92412) |  |  | The Five Star Restaurant Reviews WordPress plugin before 2.3.14 does not properly escape a user-supplied value before o… |
+| 2026-10-01 06:17:15 | [CVE-2026-96173](https://nvd.nist.gov/vuln/detail/CVE-2026-96173) |  |  | The Payments for Hubtel WordPress plugin before 1.0.2 does not verify that the requester is authorized to view an order… |
+| 2026-10-01 06:17:16 | [CVE-2026-96200](https://nvd.nist.gov/vuln/detail/CVE-2026-96200) |  |  | The Payments for Hubtel WordPress plugin before 1.0.2 does not verify that payment notifications received by its paymen… |
+| 2026-10-01 06:17:16 | [CVE-2026-96255](https://nvd.nist.gov/vuln/detail/CVE-2026-96255) |  |  | The Payments for Hubtel WordPress plugin before 1.0.2 does not prevent public access to a debug log in which it records… |
 
 ## Data source
 
