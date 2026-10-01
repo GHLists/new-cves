@@ -9,49 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 17:18 UTC
+## Latest list — 2026-10-01 18:21 UTC
 
-New CVEs published between 2026-10-01 16:19 UTC and 2026-10-01 17:18 UTC.
+New CVEs published between 2026-10-01 17:18 UTC and 2026-10-01 18:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T17-18-45-786937Z.csv)
+[Full CSV](data/new-cves-2026-10-01T18-21-44-360506Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 17:17:16 | [CVE-2025-31980](https://nvd.nist.gov/vuln/detail/CVE-2025-31980) | Medium | 4.3 | HCL BigFix Service Management is affected by an Improper Input Validation vulnerability, which could allow an attacker… |
-| 2026-10-01 17:17:17 | [CVE-2026-101888](https://nvd.nist.gov/vuln/detail/CVE-2026-101888) | High | 8.6 | The Prime Mover plugin for WordPress before 2.2.1 contains a Zip Slip path traversal vulnerability that allows authenti… |
-| 2026-10-01 17:17:17 | [CVE-2026-101889](https://nvd.nist.gov/vuln/detail/CVE-2026-101889) | High | 7.0 | The Prime Mover plugin for WordPress before 2.2.1 contains a path traversal vulnerability that allows authenticated adm… |
-| 2026-10-01 17:17:17 | [CVE-2026-101890](https://nvd.nist.gov/vuln/detail/CVE-2026-101890) | Medium | 5.1 | The Prime Mover plugin for WordPress before 2.2.1 contains a stored cross-site scripting vulnerability that allows atta… |
-| 2026-10-01 17:17:19 | [CVE-2026-103921](https://nvd.nist.gov/vuln/detail/CVE-2026-103921) | High | 7.4 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to 1.1.35, the executor-le… |
-| 2026-10-01 17:17:19 | [CVE-2026-12405](https://nvd.nist.gov/vuln/detail/CVE-2026-12405) | High | 8.8 | A flaw was found in rubygem-foreman_remote_execution. A command injection vulnerability exists in the Red Hat Satellite… |
-| 2026-10-01 17:17:19 | [CVE-2026-12423](https://nvd.nist.gov/vuln/detail/CVE-2026-12423) | High | 7.5 | A flaw was found in Foreman. The Red Hat Satellite /unattended/provision API endpoint is vulnerable to an authenticatio… |
-| 2026-10-01 17:17:20 | [CVE-2026-12540](https://nvd.nist.gov/vuln/detail/CVE-2026-12540) | High | 8.2 | A flaw was found in Foreman. A command injection vulnerability exists in the foreman-rake errors:fetch_log task. The re… |
-| 2026-10-01 17:17:20 | [CVE-2026-12541](https://nvd.nist.gov/vuln/detail/CVE-2026-12541) | High | 8.2 | A flaw was found in Foreman. OS command injection vulnerabilities exist in the foreman-rake db:dump and db:import_dump… |
-| 2026-10-01 17:17:20 | [CVE-2026-12544](https://nvd.nist.gov/vuln/detail/CVE-2026-12544) | High | 7.7 | A flaw was found in Foreman. The foreman-rake initialization logic in /usr/share/foreman/config/settings.rb contains a… |
-| 2026-10-01 17:17:21 | [CVE-2026-13043](https://nvd.nist.gov/vuln/detail/CVE-2026-13043) | Critical | 9.3 | A missing authentication vulnerability in the Kernel Memory Access Driver (PSKMAD) used by WatchGuard endpoint security… |
-| 2026-10-01 17:17:21 | [CVE-2026-14316](https://nvd.nist.gov/vuln/detail/CVE-2026-14316) | High | 8.1 | The revoked-key error path builds a human-readable failure reason using sprintf() into a heap buffer. The allocated buf… |
-| 2026-10-01 17:17:23 | [CVE-2026-21833](https://nvd.nist.gov/vuln/detail/CVE-2026-21833) | Low | 3.7 | HCL AION is affected by a vulnerability in which the Content-Security-Policy (CSP) HTTP response header is not configur… |
-| 2026-10-01 17:17:25 | [CVE-2026-48005](https://nvd.nist.gov/vuln/detail/CVE-2026-48005) |  |  | Missing authentication checks in mod_auth_digest in Apache Software Foundation Apache HTTP Server before 2.4.69 on all… |
-| 2026-10-01 17:17:26 | [CVE-2026-56153](https://nvd.nist.gov/vuln/detail/CVE-2026-56153) |  |  | Out-of-bounds Write vulnerability in Apache HTTP Server's mod_charset_lite. This issue affects Apache HTTP Server: from… |
-| 2026-10-01 17:17:26 | [CVE-2026-56154](https://nvd.nist.gov/vuln/detail/CVE-2026-56154) |  |  | Use After Free vulnerability in Apache HTTP Server's mod_rewrite when using lookahead (%{LA-U:HTTP:...}) This issue aff… |
-| 2026-10-01 17:17:26 | [CVE-2026-56449](https://nvd.nist.gov/vuln/detail/CVE-2026-56449) |  |  | Out-of-bounds Write vulnerability in Apache HTTP Server's mod_proxy_html with crafted HTTP response bodies. This issue… |
-| 2026-10-01 17:17:27 | [CVE-2026-57941](https://nvd.nist.gov/vuln/detail/CVE-2026-57941) |  |  | Use After Free vulnerability in Apache HTTP Server's mod_http2 via shared session->bbtmp re-entrancy This issue affects… |
-| 2026-10-01 17:17:29 | [CVE-2026-58415](https://nvd.nist.gov/vuln/detail/CVE-2026-58415) |  |  | Internal state files accessible to external parties in mod_dav_fs in Apache Software Foundation Apache HTTP Server befo… |
-| 2026-10-01 17:17:29 | [CVE-2026-59685](https://nvd.nist.gov/vuln/detail/CVE-2026-59685) |  |  | Out-of-bounds Write vulnerability in Apache HTTP Server on Windows while processing paths with 8.3 names that may grow… |
-| 2026-10-01 17:17:29 | [CVE-2026-59797](https://nvd.nist.gov/vuln/detail/CVE-2026-59797) |  |  | Improper Privilege Management vulnerability in Apache HTTP Server's mod_ssl via SSLRequire and file-related expressions… |
-| 2026-10-01 17:17:29 | [CVE-2026-63045](https://nvd.nist.gov/vuln/detail/CVE-2026-63045) |  |  | Improper validation of FTP PASV reply address in mod_proxy_ftp in Apache Software Foundation Apache HTTP Server through… |
-| 2026-10-01 17:17:29 | [CVE-2026-63292](https://nvd.nist.gov/vuln/detail/CVE-2026-63292) |  |  | Stack-based buffer overflow in mod_vhost_alias in Apache Software Foundation Apache HTTP Server through 2.4.68 on all p… |
-| 2026-10-01 17:17:29 | [CVE-2026-63686](https://nvd.nist.gov/vuln/detail/CVE-2026-63686) |  |  | A NULL pointer dereference in mod_xml2enc in Apache Software Foundation Apache HTTP Server before 2.4.69 on all platfor… |
-| 2026-10-01 17:17:30 | [CVE-2026-63718](https://nvd.nist.gov/vuln/detail/CVE-2026-63718) |  |  | Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling') response smuggling vulnerability in Ap… |
-| 2026-10-01 17:17:30 | [CVE-2026-67171](https://nvd.nist.gov/vuln/detail/CVE-2026-67171) | Medium | 5.3 | HCL BigFix Service Management is affected by an Information Disclosure vulnerability because an exposed API endpoint ex… |
-| 2026-10-01 17:17:30 | [CVE-2026-67172](https://nvd.nist.gov/vuln/detail/CVE-2026-67172) | Low | 3.7 | HCL BigFix Service Management is affected by an Information Disclosure vulnerability the application returns sensitive… |
-| 2026-10-01 17:17:30 | [CVE-2026-73636](https://nvd.nist.gov/vuln/detail/CVE-2026-73636) |  |  | Authentication bypass by capture-replay in mod_auth_digest in Apache Software Foundation Apache HTTP Server 2.4.x on al… |
-| 2026-10-01 17:17:31 | [CVE-2026-73975](https://nvd.nist.gov/vuln/detail/CVE-2026-73975) | High | 8.4 | djehuty is a research data repository system developed by 4TU.ResearchData. Prior to version 26.3.2, an authenticated d… |
-| 2026-10-01 17:17:31 | [CVE-2026-77387](https://nvd.nist.gov/vuln/detail/CVE-2026-77387) | Medium | 4.0 | geopy is a geocoding library for Python. Prior to 2.5.0, geopy.Point and Point.from_string() can spend excessive CPU ti… |
-| 2026-10-01 17:17:31 | [CVE-2026-79768](https://nvd.nist.gov/vuln/detail/CVE-2026-79768) |  |  | Path equivalence: '/./' (single dot directory) vulnerability in Apache HTTP Server's mod_userdir module when configured… |
-| 2026-10-01 17:17:31 | [CVE-2026-73637](https://nvd.nist.gov/vuln/detail/CVE-2026-73637) |  |  | Use after free in mod_auth_digest in Apache Software Foundation Apache HTTP Server before 2.4.69 on all platforms allow… |
-| 2026-10-01 17:17:33 | [CVE-2026-93546](https://nvd.nist.gov/vuln/detail/CVE-2026-93546) |  |  | Integer overflow in mod_dav_fs in Apache HTTP Server through 2.4.68 allows an authenticated WebDAV client with write ac… |
-| 2026-10-01 17:17:34 | [CVE-2026-96658](https://nvd.nist.gov/vuln/detail/CVE-2026-96658) | Critical | 9.9 | A flaw was found in Foreman. An authenticated attacker with low-level permissions can achieve remote code execution (RC… |
-| 2026-10-01 17:17:35 | [CVE-2026-96659](https://nvd.nist.gov/vuln/detail/CVE-2026-96659) | Critical | 9.1 | A flaw was found in Foreman. This vulnerability allows an authenticated user with low-level Viewer permissions to cause… |
+| 2026-10-01 18:17:11 | [CVE-2023-54404](https://nvd.nist.gov/vuln/detail/CVE-2023-54404) | High | 8.2 | Zod schema-validation library through 4.6.5 contains an uncontrolled resource consumption vulnerability that allows att… |
+| 2026-10-01 18:17:12 | [CVE-2026-102294](https://nvd.nist.gov/vuln/detail/CVE-2026-102294) | High | 8.5 | TP-Link TL-WR841N contains an authenticated OS command injection vulnerability in the IPv6 WAN configuration. A crafted… |
+| 2026-10-01 18:17:12 | [CVE-2026-102369](https://nvd.nist.gov/vuln/detail/CVE-2026-102369) | High | 8.7 | Tapo C120 v1 and C200 V5 do not adequately protect login challenge data or sanitize attacker-controlled input processed… |
+| 2026-10-01 18:17:12 | [CVE-2026-103884](https://nvd.nist.gov/vuln/detail/CVE-2026-103884) | Medium | 6.5 | A flaw was found in the X.509 client certificate authenticator of Keycloak. When CRL Distribution Point checking is ena… |
+| 2026-10-01 18:17:12 | [CVE-2026-103922](https://nvd.nist.gov/vuln/detail/CVE-2026-103922) | Critical | 9.3 | Capacitor is a cross-platform native runtime for web applications. From 6.0.0 until 6.2.2, 7.6.9, 8.3.5, 8.4.3, and 8.5… |
+| 2026-10-01 18:17:13 | [CVE-2026-103923](https://nvd.nist.gov/vuln/detail/CVE-2026-103923) | Low | 2.1 | KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web. From 0.11.0 until 0.18.2, KaTeX uses… |
+| 2026-10-01 18:17:14 | [CVE-2026-104018](https://nvd.nist.gov/vuln/detail/CVE-2026-104018) | High | 8.8 | An improper privilege management vulnerability (CWE-269) exists in the command shell of Wind River VxWorks 7 all versio… |
+| 2026-10-01 18:17:15 | [CVE-2026-12542](https://nvd.nist.gov/vuln/detail/CVE-2026-12542) | Medium | 5.3 | A flaw was found in Foreman. The foreman-tail utility is vulnerable to OS command injection due to the unsafe use of th… |
+| 2026-10-01 18:17:15 | [CVE-2026-12545](https://nvd.nist.gov/vuln/detail/CVE-2026-12545) | Medium | 6.7 | A flaw was found in rubygem-hammer_cli. A command injection vulnerability exists in Hammer CLI and the Railties (Ruby o… |
+| 2026-10-01 18:17:19 | [CVE-2026-56097](https://nvd.nist.gov/vuln/detail/CVE-2026-56097) | Medium | 6.5 | A flaw was found in rubygem-katello. An SQL injection vulnerability exists in the Red Hat Satellite Katello Registry Pr… |
+| 2026-10-01 18:17:19 | [CVE-2026-56098](https://nvd.nist.gov/vuln/detail/CVE-2026-56098) | Medium | 4.3 | A flaw was found in rubygem-katello. The RegistryProxiesController in Katello contains an authorization bypass vulnerab… |
+| 2026-10-01 18:17:27 | [CVE-2026-68495](https://nvd.nist.gov/vuln/detail/CVE-2026-68495) | High | 7.5 | The CBOR parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraints.validateNameLength() when d… |
+| 2026-10-01 18:17:27 | [CVE-2026-68496](https://nvd.nist.gov/vuln/detail/CVE-2026-68496) | High | 7.5 | The Smile parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraints.validateNameLength() when… |
+| 2026-10-01 18:17:27 | [CVE-2026-73976](https://nvd.nist.gov/vuln/detail/CVE-2026-73976) | High | 7.1 | djehuty is a research data repository system developed by 4TU.ResearchData. Prior to version 26.3.2, An unauthenticated… |
+| 2026-10-01 18:17:27 | [CVE-2026-78577](https://nvd.nist.gov/vuln/detail/CVE-2026-78577) | Medium | 5.3 | Tapo C120 v1 and C200 V5 contain a vulnerability in the HTTPS onboarding scan function due to missing authentication. A… |
+| 2026-10-01 18:17:27 | [CVE-2026-78578](https://nvd.nist.gov/vuln/detail/CVE-2026-78578) | High | 7.1 | Tapo C120 v1 and C200 v5 do not enforce authentication for do method HTTPS onboarding connect actions after initial set… |
+| 2026-10-01 18:17:29 | [CVE-2026-97662](https://nvd.nist.gov/vuln/detail/CVE-2026-97662) | Medium | 6.9 | An argument injection issue in the diff scan operation in AWS security-agent-mcp-server before version 0.2.0 might allo… |
+| 2026-10-01 18:17:29 | [CVE-2026-9032](https://nvd.nist.gov/vuln/detail/CVE-2026-9032) | High | 7.1 | Tapo C120 v1 and C200 v5 contain a NULL pointer dereference in the HTTPS onboarding connect request parser. The interfa… |
 
 ## Data source
 
