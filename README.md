@@ -9,16 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 07:20 UTC
+## Latest list — 2026-10-01 08:18 UTC
 
-New CVEs published between 2026-10-01 06:20 UTC and 2026-10-01 07:20 UTC.
+New CVEs published between 2026-10-01 07:20 UTC and 2026-10-01 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T07-20-58-005067Z.csv)
+[Full CSV](data/new-cves-2026-10-01T08-18-40-100191Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 07:16:32 | [CVE-2025-41753](https://nvd.nist.gov/vuln/detail/CVE-2025-41753) | Critical | 9.3 | The object name of a dynamically created BACnet File Object is interpreted as a file path without sufficient validation… |
-| 2026-10-01 07:16:33 | [CVE-2026-103544](https://nvd.nist.gov/vuln/detail/CVE-2026-103544) | Low | 2.1 | A vulnerability was found in datadrivenconstruction OpenConstructionERP up to 14.8.1. The impacted element is an unknow… |
+| 2026-10-01 08:16:51 | [CVE-2026-103651](https://nvd.nist.gov/vuln/detail/CVE-2026-103651) | High | 7.6 | MISP contains a vulnerability in its one-time password (OTP) authentication flow that allows replay of a consumed HOTP… |
+| 2026-10-01 08:16:51 | [CVE-2026-15989](https://nvd.nist.gov/vuln/detail/CVE-2026-15989) | Critical | 9.8 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Privilege Escalation in all versions u… |
+| 2026-10-01 08:16:51 | [CVE-2026-19807](https://nvd.nist.gov/vuln/detail/CVE-2026-19807) | High | 8.8 | The ByteCoreStack – MCP Connector for AI Tools plugin for WordPress is vulnerable to Privilege Escalation in all versio… |
+| 2026-10-01 08:16:51 | [CVE-2026-19902](https://nvd.nist.gov/vuln/detail/CVE-2026-19902) | Medium | 6.1 | The Ad Inserter – Ad Manager & AdSense Ads plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the… |
+| 2026-10-01 08:16:52 | [CVE-2026-75957](https://nvd.nist.gov/vuln/detail/CVE-2026-75957) | Critical | 9.8 | The Ultimate Multisite – WordPress Multisite SaaS & WaaS Platform plugin for WordPress is vulnerable to Authentication… |
+| 2026-10-01 08:16:52 | [CVE-2026-78249](https://nvd.nist.gov/vuln/detail/CVE-2026-78249) | Medium | 6.8 | A path traversal vulnerability exists in the web management interface of multiple Multifunction Devices and Printers, i… |
+| 2026-10-01 08:16:53 | [CVE-2026-89047](https://nvd.nist.gov/vuln/detail/CVE-2026-89047) | Medium | 6.1 | The Social Media Share Buttons & Social Sharing Icons plugin for WordPress is vulnerable to Reflected Cross-Site Script… |
+| 2026-10-01 08:16:53 | [CVE-2026-93882](https://nvd.nist.gov/vuln/detail/CVE-2026-93882) | High | 7.5 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to Insecure… |
 
 ## Data source
 
