@@ -9,33 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 13:18 UTC
+## Latest list — 2026-10-01 14:18 UTC
 
-New CVEs published between 2026-10-01 12:20 UTC and 2026-10-01 13:18 UTC.
+New CVEs published between 2026-10-01 13:18 UTC and 2026-10-01 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T13-18-35-942431Z.csv)
+[Full CSV](data/new-cves-2026-10-01T14-18-37-633558Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 13:17:07 | [CVE-2026-102379](https://nvd.nist.gov/vuln/detail/CVE-2026-102379) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in VillaTheme BuildK… |
-| 2026-10-01 13:17:07 | [CVE-2026-102381](https://nvd.nist.gov/vuln/detail/CVE-2026-102381) | Medium | 5.3 | Missing Authorization vulnerability in Ahmad Majestic Support majestic-support allows Exploiting Incorrectly Configured… |
-| 2026-10-01 13:17:07 | [CVE-2026-102382](https://nvd.nist.gov/vuln/detail/CVE-2026-102382) | Medium | 4.3 | Authorization Bypass Through User-Controlled Key vulnerability in Ahmad Majestic Support majestic-support allows Exploi… |
-| 2026-10-01 13:17:07 | [CVE-2026-102390](https://nvd.nist.gov/vuln/detail/CVE-2026-102390) | Medium | 5.3 | Missing Authorization vulnerability in VillaTheme AFFI – Affiliate Marketing for WooCommerce affi-affiliate-marketing-f… |
-| 2026-10-01 13:17:07 | [CVE-2026-102394](https://nvd.nist.gov/vuln/detail/CVE-2026-102394) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPDeveloper Essen… |
-| 2026-10-01 13:17:07 | [CVE-2026-103063](https://nvd.nist.gov/vuln/detail/CVE-2026-103063) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wpmet ElementsKit… |
-| 2026-10-01 13:17:08 | [CVE-2026-103064](https://nvd.nist.gov/vuln/detail/CVE-2026-103064) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wpmet ElementsKit… |
-| 2026-10-01 13:17:08 | [CVE-2026-103067](https://nvd.nist.gov/vuln/detail/CVE-2026-103067) | High | 8.0 | Cross-Site Request Forgery (CSRF) vulnerability in Memberful Memberful - Membership Plugin memberful-wp allows Cross Si… |
-| 2026-10-01 13:17:08 | [CVE-2026-103338](https://nvd.nist.gov/vuln/detail/CVE-2026-103338) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Unlimited Element… |
-| 2026-10-01 13:17:08 | [CVE-2026-103339](https://nvd.nist.gov/vuln/detail/CVE-2026-103339) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wpmet Metform met… |
-| 2026-10-01 13:17:08 | [CVE-2026-103340](https://nvd.nist.gov/vuln/detail/CVE-2026-103340) | Medium | 5.3 | Missing Authorization vulnerability in Gemini Labs Site Reviews site-reviews allows Exploiting Incorrectly Configured A… |
-| 2026-10-01 13:17:08 | [CVE-2026-103341](https://nvd.nist.gov/vuln/detail/CVE-2026-103341) | Medium | 5.3 | Missing Authorization vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templ… |
-| 2026-10-01 13:17:08 | [CVE-2026-103343](https://nvd.nist.gov/vuln/detail/CVE-2026-103343) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP ManageNinja LL… |
-| 2026-10-01 13:17:09 | [CVE-2026-103345](https://nvd.nist.gov/vuln/detail/CVE-2026-103345) | Medium | 5.3 | Insertion of Sensitive Information Into Sent Data vulnerability in Shamim Rajani Pie Register pie-register allows Retri… |
-| 2026-10-01 13:17:09 | [CVE-2026-62058](https://nvd.nist.gov/vuln/detail/CVE-2026-62058) | Medium | 5.3 | Insertion of Sensitive Information Into Sent Data vulnerability in WPExperts CF7 Apps contact-form-7-honeypot allows Re… |
-| 2026-10-01 13:17:10 | [CVE-2026-62059](https://nvd.nist.gov/vuln/detail/CVE-2026-62059) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Ultimate Member U… |
-| 2026-10-01 13:17:10 | [CVE-2026-62060](https://nvd.nist.gov/vuln/detail/CVE-2026-62060) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in captivateaudio Ca… |
-| 2026-10-01 13:17:10 | [CVE-2026-62061](https://nvd.nist.gov/vuln/detail/CVE-2026-62061) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in Metagauss ProfileGrid profilegrid-user-profiles-group… |
-| 2026-10-01 13:17:10 | [CVE-2026-62063](https://nvd.nist.gov/vuln/detail/CVE-2026-62063) | Medium | 5.4 | Missing Authorization vulnerability in Magepeople inc. WpTravelly tour-booking-manager allows Exploiting Incorrectly Co… |
+| 2026-10-01 14:17:20 | [CVE-2026-102504](https://nvd.nist.gov/vuln/detail/CVE-2026-102504) |  |  | Imager versions before 1.037 for Perl exit the process reading a raw image with an out-of-range raw_datachannels value… |
+| 2026-10-01 14:17:20 | [CVE-2026-102505](https://nvd.nist.gov/vuln/detail/CVE-2026-102505) |  |  | Imager versions before 1.037 for Perl overflow a heap buffer fetching float samples from a paletted image in i_gsampf_f… |
+| 2026-10-01 14:17:28 | [CVE-2026-103686](https://nvd.nist.gov/vuln/detail/CVE-2026-103686) | Low | 2.0 | A flaw has been found in rhukster dom-sanitizer up to 1.0.15. Impacted is the function DOMSanitizer::isDangerousUrl of… |
+| 2026-10-01 14:17:29 | [CVE-2026-66246](https://nvd.nist.gov/vuln/detail/CVE-2026-66246) | High | 8.8 | iControl is affected by a Broken Access Control vulnerability, which could allow an attacker to exploit missing authent… |
+| 2026-10-01 14:17:29 | [CVE-2026-66247](https://nvd.nist.gov/vuln/detail/CVE-2026-66247) | Medium | 4.3 | iControl is affected by an insecure Cross-Origin Resource Sharing (CORS) policy vulnerability, which could allow a mali… |
+| 2026-10-01 14:17:30 | [CVE-2026-66248](https://nvd.nist.gov/vuln/detail/CVE-2026-66248) | Low | 3.1 | iControl is affected by an Improper Error Handling vulnerability, which could allow an unauthenticated attacker to trig… |
+| 2026-10-01 14:17:30 | [CVE-2026-66249](https://nvd.nist.gov/vuln/detail/CVE-2026-66249) | Low | 3.1 | iControl is affected by a Missing Secure Attribute vulnerability, which could allow an attacker to intercept cookies tr… |
+| 2026-10-01 14:17:30 | [CVE-2026-66253](https://nvd.nist.gov/vuln/detail/CVE-2026-66253) | Low | 3.1 | iControl is affected by a Session Timeout vulnerability, which could allow an attacker to exploit an unattended or aban… |
+| 2026-10-01 14:17:30 | [CVE-2026-79901](https://nvd.nist.gov/vuln/detail/CVE-2026-79901) | Critical | 9.9 | In deployments using BoKS keytab management, affected versions of boks_keytabmd generate Active Directory service-accou… |
 
 ## Data source
 
