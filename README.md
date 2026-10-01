@@ -9,32 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 18:21 UTC
+## Latest list — 2026-10-01 19:18 UTC
 
-New CVEs published between 2026-10-01 17:18 UTC and 2026-10-01 18:21 UTC.
+New CVEs published between 2026-10-01 18:21 UTC and 2026-10-01 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T18-21-44-360506Z.csv)
+[Full CSV](data/new-cves-2026-10-01T19-18-39-025468Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 18:17:11 | [CVE-2023-54404](https://nvd.nist.gov/vuln/detail/CVE-2023-54404) | High | 8.2 | Zod schema-validation library through 4.6.5 contains an uncontrolled resource consumption vulnerability that allows att… |
-| 2026-10-01 18:17:12 | [CVE-2026-102294](https://nvd.nist.gov/vuln/detail/CVE-2026-102294) | High | 8.5 | TP-Link TL-WR841N contains an authenticated OS command injection vulnerability in the IPv6 WAN configuration. A crafted… |
-| 2026-10-01 18:17:12 | [CVE-2026-102369](https://nvd.nist.gov/vuln/detail/CVE-2026-102369) | High | 8.7 | Tapo C120 v1 and C200 V5 do not adequately protect login challenge data or sanitize attacker-controlled input processed… |
-| 2026-10-01 18:17:12 | [CVE-2026-103884](https://nvd.nist.gov/vuln/detail/CVE-2026-103884) | Medium | 6.5 | A flaw was found in the X.509 client certificate authenticator of Keycloak. When CRL Distribution Point checking is ena… |
-| 2026-10-01 18:17:12 | [CVE-2026-103922](https://nvd.nist.gov/vuln/detail/CVE-2026-103922) | Critical | 9.3 | Capacitor is a cross-platform native runtime for web applications. From 6.0.0 until 6.2.2, 7.6.9, 8.3.5, 8.4.3, and 8.5… |
-| 2026-10-01 18:17:13 | [CVE-2026-103923](https://nvd.nist.gov/vuln/detail/CVE-2026-103923) | Low | 2.1 | KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web. From 0.11.0 until 0.18.2, KaTeX uses… |
-| 2026-10-01 18:17:14 | [CVE-2026-104018](https://nvd.nist.gov/vuln/detail/CVE-2026-104018) | High | 8.8 | An improper privilege management vulnerability (CWE-269) exists in the command shell of Wind River VxWorks 7 all versio… |
-| 2026-10-01 18:17:15 | [CVE-2026-12542](https://nvd.nist.gov/vuln/detail/CVE-2026-12542) | Medium | 5.3 | A flaw was found in Foreman. The foreman-tail utility is vulnerable to OS command injection due to the unsafe use of th… |
-| 2026-10-01 18:17:15 | [CVE-2026-12545](https://nvd.nist.gov/vuln/detail/CVE-2026-12545) | Medium | 6.7 | A flaw was found in rubygem-hammer_cli. A command injection vulnerability exists in Hammer CLI and the Railties (Ruby o… |
-| 2026-10-01 18:17:19 | [CVE-2026-56097](https://nvd.nist.gov/vuln/detail/CVE-2026-56097) | Medium | 6.5 | A flaw was found in rubygem-katello. An SQL injection vulnerability exists in the Red Hat Satellite Katello Registry Pr… |
-| 2026-10-01 18:17:19 | [CVE-2026-56098](https://nvd.nist.gov/vuln/detail/CVE-2026-56098) | Medium | 4.3 | A flaw was found in rubygem-katello. The RegistryProxiesController in Katello contains an authorization bypass vulnerab… |
-| 2026-10-01 18:17:27 | [CVE-2026-68495](https://nvd.nist.gov/vuln/detail/CVE-2026-68495) | High | 7.5 | The CBOR parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraints.validateNameLength() when d… |
-| 2026-10-01 18:17:27 | [CVE-2026-68496](https://nvd.nist.gov/vuln/detail/CVE-2026-68496) | High | 7.5 | The Smile parser in FasterXML jackson-dataformats-binary never invokes StreamReadConstraints.validateNameLength() when… |
-| 2026-10-01 18:17:27 | [CVE-2026-73976](https://nvd.nist.gov/vuln/detail/CVE-2026-73976) | High | 7.1 | djehuty is a research data repository system developed by 4TU.ResearchData. Prior to version 26.3.2, An unauthenticated… |
-| 2026-10-01 18:17:27 | [CVE-2026-78577](https://nvd.nist.gov/vuln/detail/CVE-2026-78577) | Medium | 5.3 | Tapo C120 v1 and C200 V5 contain a vulnerability in the HTTPS onboarding scan function due to missing authentication. A… |
-| 2026-10-01 18:17:27 | [CVE-2026-78578](https://nvd.nist.gov/vuln/detail/CVE-2026-78578) | High | 7.1 | Tapo C120 v1 and C200 v5 do not enforce authentication for do method HTTPS onboarding connect actions after initial set… |
-| 2026-10-01 18:17:29 | [CVE-2026-97662](https://nvd.nist.gov/vuln/detail/CVE-2026-97662) | Medium | 6.9 | An argument injection issue in the diff scan operation in AWS security-agent-mcp-server before version 0.2.0 might allo… |
-| 2026-10-01 18:17:29 | [CVE-2026-9032](https://nvd.nist.gov/vuln/detail/CVE-2026-9032) | High | 7.1 | Tapo C120 v1 and C200 v5 contain a NULL pointer dereference in the HTTPS onboarding connect request parser. The interfa… |
+| 2026-10-01 19:17:19 | [CVE-2026-104056](https://nvd.nist.gov/vuln/detail/CVE-2026-104056) |  |  | Authlib version 1.7.2 and below contains a vulnerability where discovery JSON metadata is cached without validation or… |
+| 2026-10-01 19:17:19 | [CVE-2026-104057](https://nvd.nist.gov/vuln/detail/CVE-2026-104057) | High | 8.7 | Podgrab contains an unauthenticated denial-of-service vulnerability caused by unsynchronized concurrent access to share… |
+| 2026-10-01 19:17:19 | [CVE-2026-104058](https://nvd.nist.gov/vuln/detail/CVE-2026-104058) | Medium | 6.3 | Podgrab contains a missing authentication vulnerability in which the /ws WebSocket route is registered on the root gin… |
+| 2026-10-01 19:17:19 | [CVE-2026-104059](https://nvd.nist.gov/vuln/detail/CVE-2026-104059) | High | 7.0 | Lektor 3.3.14 and 3.4.0b15 contains a cross-site request forgery vulnerability in the admin API blueprint that allows u… |
+| 2026-10-01 19:17:19 | [CVE-2026-15911](https://nvd.nist.gov/vuln/detail/CVE-2026-15911) | High | 7.4 | Confluent Kafka Python client's HashiCorp Vault KMS integration could allow a remote attacker to obtain sensitive infor… |
+| 2026-10-01 19:17:20 | [CVE-2026-27872](https://nvd.nist.gov/vuln/detail/CVE-2026-27872) | Medium | 5.6 | - Improper Privilege Management vulnerability in Johnson Controls Easy IO FG allows (Brute Force). This issue affects E… |
+| 2026-10-01 19:17:21 | [CVE-2026-55083](https://nvd.nist.gov/vuln/detail/CVE-2026-55083) | Critical | 9.1 | DHIS2 is a flexible information system for data capture, management, validation, analytics and visualization. From vers… |
+| 2026-10-01 19:17:21 | [CVE-2026-55230](https://nvd.nist.gov/vuln/detail/CVE-2026-55230) | High | 8.7 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
+| 2026-10-01 19:17:21 | [CVE-2026-55231](https://nvd.nist.gov/vuln/detail/CVE-2026-55231) | High | 7.2 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
+| 2026-10-01 19:17:21 | [CVE-2026-55232](https://nvd.nist.gov/vuln/detail/CVE-2026-55232) | High | 7.6 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
+| 2026-10-01 19:17:24 | [CVE-2026-63721](https://nvd.nist.gov/vuln/detail/CVE-2026-63721) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-01 19:17:24 | [CVE-2026-63724](https://nvd.nist.gov/vuln/detail/CVE-2026-63724) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-01 19:17:24 | [CVE-2026-84682](https://nvd.nist.gov/vuln/detail/CVE-2026-84682) | High | 7.7 | A command injection vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on Archer AX90 V1. An unauthenticated ad… |
+| 2026-10-01 19:17:25 | [CVE-2026-8618](https://nvd.nist.gov/vuln/detail/CVE-2026-8618) | High | 7.7 | A stack-based buffer overflow vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on Deco M9 Plus due to insuffi… |
 
 ## Data source
 
