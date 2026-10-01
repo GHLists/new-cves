@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 00:22 UTC
+## Latest list — 2026-10-01 01:18 UTC
 
-New CVEs published between 2026-09-30 23:18 UTC and 2026-10-01 00:22 UTC.
+New CVEs published between 2026-10-01 00:22 UTC and 2026-10-01 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T00-22-07-836547Z.csv)
+[Full CSV](data/new-cves-2026-10-01T01-18-56-490834Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 00:16:43 | [CVE-2026-103530](https://nvd.nist.gov/vuln/detail/CVE-2026-103530) | Medium | 6.9 | A vulnerability was detected in decolua 9Router up to 0.5.55. The affected element is the function fetch of the file sr… |
+| 2026-10-01 01:16:35 | [CVE-2026-103531](https://nvd.nist.gov/vuln/detail/CVE-2026-103531) | Medium | 5.1 | A flaw has been found in OpenSC up to 0.27.1. The impacted element is the function setcos_construct_fci_44 of the file… |
 
 ## Data source
 
