@@ -9,28 +9,40 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 19:18 UTC
+## Latest list — 2026-10-01 20:18 UTC
 
-New CVEs published between 2026-10-01 18:21 UTC and 2026-10-01 19:18 UTC.
+New CVEs published between 2026-10-01 19:18 UTC and 2026-10-01 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T19-18-39-025468Z.csv)
+[Full CSV](data/new-cves-2026-10-01T20-18-53-04341Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 19:17:19 | [CVE-2026-104056](https://nvd.nist.gov/vuln/detail/CVE-2026-104056) |  |  | Authlib version 1.7.2 and below contains a vulnerability where discovery JSON metadata is cached without validation or… |
-| 2026-10-01 19:17:19 | [CVE-2026-104057](https://nvd.nist.gov/vuln/detail/CVE-2026-104057) | High | 8.7 | Podgrab contains an unauthenticated denial-of-service vulnerability caused by unsynchronized concurrent access to share… |
-| 2026-10-01 19:17:19 | [CVE-2026-104058](https://nvd.nist.gov/vuln/detail/CVE-2026-104058) | Medium | 6.3 | Podgrab contains a missing authentication vulnerability in which the /ws WebSocket route is registered on the root gin… |
-| 2026-10-01 19:17:19 | [CVE-2026-104059](https://nvd.nist.gov/vuln/detail/CVE-2026-104059) | High | 7.0 | Lektor 3.3.14 and 3.4.0b15 contains a cross-site request forgery vulnerability in the admin API blueprint that allows u… |
-| 2026-10-01 19:17:19 | [CVE-2026-15911](https://nvd.nist.gov/vuln/detail/CVE-2026-15911) | High | 7.4 | Confluent Kafka Python client's HashiCorp Vault KMS integration could allow a remote attacker to obtain sensitive infor… |
-| 2026-10-01 19:17:20 | [CVE-2026-27872](https://nvd.nist.gov/vuln/detail/CVE-2026-27872) | Medium | 5.6 | - Improper Privilege Management vulnerability in Johnson Controls Easy IO FG allows (Brute Force). This issue affects E… |
-| 2026-10-01 19:17:21 | [CVE-2026-55083](https://nvd.nist.gov/vuln/detail/CVE-2026-55083) | Critical | 9.1 | DHIS2 is a flexible information system for data capture, management, validation, analytics and visualization. From vers… |
-| 2026-10-01 19:17:21 | [CVE-2026-55230](https://nvd.nist.gov/vuln/detail/CVE-2026-55230) | High | 8.7 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
-| 2026-10-01 19:17:21 | [CVE-2026-55231](https://nvd.nist.gov/vuln/detail/CVE-2026-55231) | High | 7.2 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
-| 2026-10-01 19:17:21 | [CVE-2026-55232](https://nvd.nist.gov/vuln/detail/CVE-2026-55232) | High | 7.6 | Vvveb is a powerful and easy to use CMS with page builder to build websites, blogs or ecommerce stores. Prior to versio… |
-| 2026-10-01 19:17:24 | [CVE-2026-63721](https://nvd.nist.gov/vuln/detail/CVE-2026-63721) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-01 19:17:24 | [CVE-2026-63724](https://nvd.nist.gov/vuln/detail/CVE-2026-63724) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-01 19:17:24 | [CVE-2026-84682](https://nvd.nist.gov/vuln/detail/CVE-2026-84682) | High | 7.7 | A command injection vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on Archer AX90 V1. An unauthenticated ad… |
-| 2026-10-01 19:17:25 | [CVE-2026-8618](https://nvd.nist.gov/vuln/detail/CVE-2026-8618) | High | 7.7 | A stack-based buffer overflow vulnerability exists in the TDDPv2 service (/usr/bin/tddp) on Deco M9 Plus due to insuffi… |
+| 2026-10-01 20:17:20 | [CVE-2026-100251](https://nvd.nist.gov/vuln/detail/CVE-2026-100251) | Medium | 6.9 | Wormhole.app as deployed before 2026-08-22 misconfigures the coturn TURN server and does not properly restrict TCP rela… |
+| 2026-10-01 20:17:21 | [CVE-2026-102628](https://nvd.nist.gov/vuln/detail/CVE-2026-102628) | Critical | 9.2 | The Cadmos LTI application hosted at cadmos.eummena.io had Laravel debug mode enabled (APP_DEBUG=true, APP_ENV=local) i… |
+| 2026-10-01 20:17:21 | [CVE-2026-102666](https://nvd.nist.gov/vuln/detail/CVE-2026-102666) | Medium | 6.9 | The Joyland AI app contains hard-coded credentials for the GeTui push notification service, allowing an attacker to acc… |
+| 2026-10-01 20:17:21 | [CVE-2026-102667](https://nvd.nist.gov/vuln/detail/CVE-2026-102667) | Critical | 9.0 | Joyland AI app allows an attacker with shared network access to inject JavaScript into content loaded in WebView. Witho… |
+| 2026-10-01 20:17:21 | [CVE-2026-102668](https://nvd.nist.gov/vuln/detail/CVE-2026-102668) | Medium | 6.9 | The Joyland AI app accepts any TLS certificates from any server without validation. |
+| 2026-10-01 20:17:22 | [CVE-2026-102669](https://nvd.nist.gov/vuln/detail/CVE-2026-102669) | Medium | 6.9 | Joyland AI app does not verify hostnames, allowing a malicious host to connect or intercept chat messages. |
+| 2026-10-01 20:17:22 | [CVE-2026-102670](https://nvd.nist.gov/vuln/detail/CVE-2026-102670) | Medium | 5.3 | Joyland AI app explicitly permits cleartext HTTP traffic on Android 9+ where the default is to block it. |
+| 2026-10-01 20:17:22 | [CVE-2026-102671](https://nvd.nist.gov/vuln/detail/CVE-2026-102671) | Medium | 6.9 | The Joyland AI app accepts invalid SSL certificates in the invisible advertisement WebView by default. |
+| 2026-10-01 20:17:23 | [CVE-2026-103484](https://nvd.nist.gov/vuln/detail/CVE-2026-103484) | High | 8.8 | IVFFlat index build in pgvector before 0.8.7 allows a database user to write data out-of-bounds, which can lead to arbi… |
+| 2026-10-01 20:17:24 | [CVE-2026-104286](https://nvd.nist.gov/vuln/detail/CVE-2026-104286) | Critical | 9.8 | An improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Fortinet FortiMail 8… |
+| 2026-10-01 20:17:24 | [CVE-2026-14983](https://nvd.nist.gov/vuln/detail/CVE-2026-14983) | High | 7.1 | Missing authentication in the web interface in Teledyne FLIR Aware2 versions through 6.9.0.2 allows remote unauthentica… |
+| 2026-10-01 20:17:24 | [CVE-2026-14984](https://nvd.nist.gov/vuln/detail/CVE-2026-14984) | Critical | 9.4 | Cleartext transmission in the primary control endpoints of Teledyne FLIR Aware2 versions through 6.9.0.2 allows remote… |
+| 2026-10-01 20:17:25 | [CVE-2026-53953](https://nvd.nist.gov/vuln/detail/CVE-2026-53953) | Critical | 9.1 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. In versi… |
+| 2026-10-01 20:17:25 | [CVE-2026-53964](https://nvd.nist.gov/vuln/detail/CVE-2026-53964) | High | 7.2 | Document Merge Service is a document template merge service providing an API to manage templates and merge them with gi… |
+| 2026-10-01 20:17:25 | [CVE-2026-54049](https://nvd.nist.gov/vuln/detail/CVE-2026-54049) | High | 8.7 | Sakai is a Collaboration and Learning Environment (CLE). From versions 23.0 to before 23.5, and versions 25.0 to before… |
+| 2026-10-01 20:17:25 | [CVE-2026-55251](https://nvd.nist.gov/vuln/detail/CVE-2026-55251) | Medium | 6.5 | NetBox Device Type Library is a collection of community-sourced device type definitions for import into NetBox. Prior t… |
+| 2026-10-01 20:17:26 | [CVE-2026-55252](https://nvd.nist.gov/vuln/detail/CVE-2026-55252) | Medium | 5.1 | OpenRun is an open-source, self-hosted GitOps platform for deploying web apps and internal tools to Docker or Kubernete… |
+| 2026-10-01 20:17:26 | [CVE-2026-56660](https://nvd.nist.gov/vuln/detail/CVE-2026-56660) | Critical | 9.1 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. Prior to… |
+| 2026-10-01 20:17:26 | [CVE-2026-56661](https://nvd.nist.gov/vuln/detail/CVE-2026-56661) | High | 7.5 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. Prior to… |
+| 2026-10-01 20:17:26 | [CVE-2026-56662](https://nvd.nist.gov/vuln/detail/CVE-2026-56662) | Critical | 9.6 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. Prior to… |
+| 2026-10-01 20:17:29 | [CVE-2026-70650](https://nvd.nist.gov/vuln/detail/CVE-2026-70650) | High | 8.8 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. In versi… |
+| 2026-10-01 20:17:29 | [CVE-2026-71426](https://nvd.nist.gov/vuln/detail/CVE-2026-71426) | High | 7.1 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. In versi… |
+| 2026-10-01 20:17:29 | [CVE-2026-71542](https://nvd.nist.gov/vuln/detail/CVE-2026-71542) | High | 8.7 | GetSimple CMS is a content management system (CMS), and GetSimple CMS CE is the community edition of that CMS. In versi… |
+| 2026-10-01 20:17:32 | [CVE-2026-82357](https://nvd.nist.gov/vuln/detail/CVE-2026-82357) | High | 7.1 | RT-Labs AB C-Open CANopen contains a NULL pointer dereference if the LSS protocol is used to configure the device. An o… |
+| 2026-10-01 20:17:32 | [CVE-2026-82358](https://nvd.nist.gov/vuln/detail/CVE-2026-82358) | High | 7.1 | RT-Labs AB C-Open CANopen contains a write protection bypass in the SDO (Service Data Object) server implementation 'sr… |
+| 2026-10-01 20:17:32 | [CVE-2026-93832](https://nvd.nist.gov/vuln/detail/CVE-2026-93832) | Medium | 4.8 | A component of one of the Motorola system applications was exported without permission, allowing for the revocation of… |
 
 ## Data source
 
