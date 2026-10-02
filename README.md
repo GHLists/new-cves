@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 00:18 UTC
+## Latest list — 2026-10-02 01:19 UTC
 
-New CVEs published between 2026-10-01 23:18 UTC and 2026-10-02 00:18 UTC.
+New CVEs published between 2026-10-02 00:18 UTC and 2026-10-02 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T00-18-34-202596Z.csv)
+[Full CSV](data/new-cves-2026-10-02T01-19-37-24701Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 00:16:59 | [CVE-2026-103764](https://nvd.nist.gov/vuln/detail/CVE-2026-103764) | Critical | 9.3 | Mooncake transfer engine before 0.3.13 contains an untrusted pointer dereference in ServerSession::readHeader that allo… |
-| 2026-10-02 00:16:59 | [CVE-2026-103765](https://nvd.nist.gov/vuln/detail/CVE-2026-103765) | High | 8.8 | Mooncake through 0.3.13.post1 contains a missing authentication vulnerability in the HTTP metadata server /metadata han… |
-| 2026-10-02 00:16:59 | [CVE-2026-103766](https://nvd.nist.gov/vuln/detail/CVE-2026-103766) | High | 8.6 | ClipBucket v5 through 5.5.3-#197 contains an sql injection vulnerability that allows authenticated users with ad_manage… |
-| 2026-10-02 00:17:04 | [CVE-2026-86345](https://nvd.nist.gov/vuln/detail/CVE-2026-86345) | Critical | 9.0 | A flaw was found in 389-ds-base. The server does not discard plaintext bytes already buffered from a client connection… |
+| 2026-10-02 01:16:42 | [CVE-2026-103096](https://nvd.nist.gov/vuln/detail/CVE-2026-103096) | High | 7.5 | API key is hardcoded and retrievable from the application package. Since Android applications can be reverse engineered… |
+| 2026-10-02 01:16:43 | [CVE-2026-103097](https://nvd.nist.gov/vuln/detail/CVE-2026-103097) | High | 7.5 | An API key is hardcoded and retrievable from the application package. Since Android applications can be reverse enginee… |
+| 2026-10-02 01:16:43 | [CVE-2026-103098](https://nvd.nist.gov/vuln/detail/CVE-2026-103098) | High | 7.5 | Transmission of a sensitive key in the URL over an unencrypted HTTP connection. The request is sent over HTTP rather th… |
 
 ## Data source
 
