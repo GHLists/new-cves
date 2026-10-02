@@ -9,41 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 10:18 UTC
+## Latest list — 2026-10-02 11:18 UTC
 
-New CVEs published between 2026-10-02 09:18 UTC and 2026-10-02 10:18 UTC.
+New CVEs published between 2026-10-02 10:18 UTC and 2026-10-02 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T10-18-34-152821Z.csv)
+[Full CSV](data/new-cves-2026-10-02T11-18-42-191137Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 10:17:04 | [CVE-2026-102731](https://nvd.nist.gov/vuln/detail/CVE-2026-102731) |  |  | Memory allocation with excessive size value vulnerability in Apache Directory LDAP API. A malicious peer (or a MITM) ca… |
-| 2026-10-02 10:17:06 | [CVE-2026-103552](https://nvd.nist.gov/vuln/detail/CVE-2026-103552) |  |  | Stack Overflow vulnerability in Apache Directory LDAP API. Before binding, a client can send a deeply nested search fil… |
-| 2026-10-02 10:17:06 | [CVE-2026-103877](https://nvd.nist.gov/vuln/detail/CVE-2026-103877) |  |  | Deserialization of Untrusted Data vulnerability in Apache Directory LDAP API. A rogue/compromised LDAP server (or pre-T… |
-| 2026-10-02 10:17:06 | [CVE-2026-103878](https://nvd.nist.gov/vuln/detail/CVE-2026-103878) |  |  | Cleartext transmission of sensitive information vulnerability in Apache Directory LDAP API. A StartTLS extended operati… |
-| 2026-10-02 10:17:06 | [CVE-2026-103880](https://nvd.nist.gov/vuln/detail/CVE-2026-103880) |  |  | Asymmetric Resource Consumption vulnerability in Apache Directory LDAP API. Storing a password using the bcrypt algorit… |
-| 2026-10-02 10:17:06 | [CVE-2026-103885](https://nvd.nist.gov/vuln/detail/CVE-2026-103885) |  |  | Asymmetric Resource Consumption vulnerability in Apache Directory LDAP API. A LDAP server using the LDAP API (like Apac… |
-| 2026-10-02 10:17:06 | [CVE-2026-104403](https://nvd.nist.gov/vuln/detail/CVE-2026-104403) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in ThimPress LearnPress allows Exploiting Incorrectly Co… |
-| 2026-10-02 10:17:07 | [CVE-2026-59659](https://nvd.nist.gov/vuln/detail/CVE-2026-59659) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:07 | [CVE-2026-59660](https://nvd.nist.gov/vuln/detail/CVE-2026-59660) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:07 | [CVE-2026-59661](https://nvd.nist.gov/vuln/detail/CVE-2026-59661) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:07 | [CVE-2026-59662](https://nvd.nist.gov/vuln/detail/CVE-2026-59662) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:07 | [CVE-2026-59663](https://nvd.nist.gov/vuln/detail/CVE-2026-59663) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:07 | [CVE-2026-59664](https://nvd.nist.gov/vuln/detail/CVE-2026-59664) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:08 | [CVE-2026-59665](https://nvd.nist.gov/vuln/detail/CVE-2026-59665) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:08 | [CVE-2026-59672](https://nvd.nist.gov/vuln/detail/CVE-2026-59672) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:08 | [CVE-2026-59673](https://nvd.nist.gov/vuln/detail/CVE-2026-59673) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:08 | [CVE-2026-80298](https://nvd.nist.gov/vuln/detail/CVE-2026-80298) | High | 8.8 | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in HAVELSAN Inc. Sef… |
-| 2026-10-02 10:17:08 | [CVE-2026-85492](https://nvd.nist.gov/vuln/detail/CVE-2026-85492) | Medium | 6.1 | The All in One SEO – AI SEO Plugin to Boost SEO Rankings & Traffic (Schema, Local SEO, Sitemap & SEO Insights) plugin f… |
-| 2026-10-02 10:17:08 | [CVE-2026-87920](https://nvd.nist.gov/vuln/detail/CVE-2026-87920) | High | 7.2 | The W3 Total Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content via Output-Buf… |
-| 2026-10-02 10:17:09 | [CVE-2026-94180](https://nvd.nist.gov/vuln/detail/CVE-2026-94180) | Medium | 4.3 | Authorization Bypass Through User-Controlled Key vulnerability in Monetizemore Advanced Ads allows Retrieve Embedded Se… |
-| 2026-10-02 10:17:09 | [CVE-2026-94405](https://nvd.nist.gov/vuln/detail/CVE-2026-94405) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in Shahjada Download Manager allows Retrieve Embedded Se… |
-| 2026-10-02 10:17:09 | [CVE-2026-94541](https://nvd.nist.gov/vuln/detail/CVE-2026-94541) | Critical | 9.8 | The WPMobile.App – Android and iOS App Builder plugin for WordPress is vulnerable to authorization bypass in all versio… |
-| 2026-10-02 10:17:09 | [CVE-2026-94634](https://nvd.nist.gov/vuln/detail/CVE-2026-94634) | High | 8.2 | Allocation of resources without limits or throttling, Initialization of a resource with an insecure default vulnerabili… |
-| 2026-10-02 10:17:09 | [CVE-2026-94635](https://nvd.nist.gov/vuln/detail/CVE-2026-94635) | High | 8.7 | Allocation of resources without limits or throttling, Improper handling of length parameter inconsistency vulnerability… |
-| 2026-10-02 10:17:09 | [CVE-2026-94639](https://nvd.nist.gov/vuln/detail/CVE-2026-94639) | High | 8.2 | improper handling of exceptional conditions, Allocation of resources without limits or throttling, Uncaught exception v… |
-| 2026-10-02 10:17:09 | [CVE-2026-95662](https://nvd.nist.gov/vuln/detail/CVE-2026-95662) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
-| 2026-10-02 10:17:10 | [CVE-2026-97652](https://nvd.nist.gov/vuln/detail/CVE-2026-97652) | Medium | 6.1 | The WP Statistics – Simple, privacy-friendly Google Analytics alternative plugin for WordPress is vulnerable to Reflect… |
+| 2026-10-02 11:17:26 | [CVE-2026-104606](https://nvd.nist.gov/vuln/detail/CVE-2026-104606) | Low | 2.1 | A security flaw has been discovered in itsourcecode Online Admission System Project 1.0. The impacted element is an unk… |
+| 2026-10-02 11:17:34 | [CVE-2026-59666](https://nvd.nist.gov/vuln/detail/CVE-2026-59666) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
+| 2026-10-02 11:17:34 | [CVE-2026-59667](https://nvd.nist.gov/vuln/detail/CVE-2026-59667) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
+| 2026-10-02 11:17:34 | [CVE-2026-59668](https://nvd.nist.gov/vuln/detail/CVE-2026-59668) | Medium | 4.8 | Cross-Site Scripting vulnerability in the Repasat application. Successful exploitation of this vulnerability could allo… |
+| 2026-10-02 11:17:35 | [CVE-2026-85483](https://nvd.nist.gov/vuln/detail/CVE-2026-85483) | Medium | 6.3 | Use of uninitialized resource, Return of wrong status code vulnerability in Apache Thrift c_glib bindings. This issue a… |
+| 2026-10-02 11:17:35 | [CVE-2026-85493](https://nvd.nist.gov/vuln/detail/CVE-2026-85493) | High | 8.7 | Uncontrolled Recursion vulnerability in Apache Thrift Dart and Java ME bindings. This issue affects Apache Thrift: befo… |
+| 2026-10-02 11:17:36 | [CVE-2026-85494](https://nvd.nist.gov/vuln/detail/CVE-2026-85494) | High | 8.7 | Improper handling of length parameter inconsistency, Uncaught exception, Inefficient Algorithmic Complexity, Memory all… |
+| 2026-10-02 11:17:36 | [CVE-2026-86325](https://nvd.nist.gov/vuln/detail/CVE-2026-86325) | Critical | 9.4 | A stack-based buffer overflow vulnerability exists in protocol gateways' account management interface. The vulnerabilit… |
+| 2026-10-02 11:17:36 | [CVE-2026-86326](https://nvd.nist.gov/vuln/detail/CVE-2026-86326) | High | 8.6 | An improper verification of cryptographic signature vulnerability exists in protocol gateways because the device does n… |
+| 2026-10-02 11:17:37 | [CVE-2026-91135](https://nvd.nist.gov/vuln/detail/CVE-2026-91135) | Critical | 9.2 | Heap-based buffer overflow vulnerability in Apache Thrift C++ THeaderTransport. When an application enables the ZLIB tr… |
+| 2026-10-02 11:17:37 | [CVE-2026-91137](https://nvd.nist.gov/vuln/detail/CVE-2026-91137) | High | 8.7 | Improper validation of specified quantity in input, Allocation of resources without limits or throttling, Excessive Ite… |
+| 2026-10-02 11:17:37 | [CVE-2026-93925](https://nvd.nist.gov/vuln/detail/CVE-2026-93925) | High | 8.7 | Stack-based buffer overflow, Incorrect bitwise shift of integer vulnerability in Apache Thrift C++ THeaderProtocol. Thi… |
+| 2026-10-02 11:17:37 | [CVE-2026-93926](https://nvd.nist.gov/vuln/detail/CVE-2026-93926) | High | 8.7 | Missing release of memory after effective lifetime, Missing release of resource after effective lifetime vulnerability… |
+| 2026-10-02 11:17:38 | [CVE-2026-94633](https://nvd.nist.gov/vuln/detail/CVE-2026-94633) | High | 8.7 | Memory allocation with excessive size value, Improper handling of length parameter inconsistency vulnerability in Apach… |
+| 2026-10-02 11:17:38 | [CVE-2026-94642](https://nvd.nist.gov/vuln/detail/CVE-2026-94642) | High | 8.7 | Uncaught exception vulnerability in Apache Thrift PHP bindings. This issue affects Apache Thrift: before 0.25.0. Users… |
+| 2026-10-02 11:17:38 | [CVE-2026-94644](https://nvd.nist.gov/vuln/detail/CVE-2026-94644) | High | 8.2 | Allocation of resources without limits or throttling vulnerability in Apache Thrift PHP bindings. This issue affects Ap… |
+| 2026-10-02 11:17:38 | [CVE-2026-94645](https://nvd.nist.gov/vuln/detail/CVE-2026-94645) | High | 8.2 | Improper validation of specified quantity in input, Allocation of resources without limits or throttling vulnerability… |
+| 2026-10-02 11:17:38 | [CVE-2026-94650](https://nvd.nist.gov/vuln/detail/CVE-2026-94650) | High | 8.2 | Uncontrolled Recursion vulnerability in Apache Thrift c_glib bindings. This issue affects Apache Thrift: before 0.25.0.… |
+| 2026-10-02 11:17:38 | [CVE-2026-94651](https://nvd.nist.gov/vuln/detail/CVE-2026-94651) | High | 8.2 | improper handling of exceptional conditions, Missing release of resource after effective lifetime vulnerability in Apac… |
+| 2026-10-02 11:17:39 | [CVE-2026-96990](https://nvd.nist.gov/vuln/detail/CVE-2026-96990) | High | 8.2 | Allocation of Resources Without Limits or Throttling vulnerability in Apache Thrift Erlang bindings. This issue affects… |
+| 2026-10-02 11:17:39 | [CVE-2026-97876](https://nvd.nist.gov/vuln/detail/CVE-2026-97876) | Medium | 6.4 | A local attacker with control over GRUB's configuration can bypass lockdown restrictions when booting with Secure Boot… |
 
 ## Data source
 
