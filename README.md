@@ -9,27 +9,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 15:18 UTC
+## Latest list — 2026-10-02 16:19 UTC
 
-New CVEs published between 2026-10-02 14:20 UTC and 2026-10-02 15:18 UTC.
+New CVEs published between 2026-10-02 15:18 UTC and 2026-10-02 16:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T15-18-37-121341Z.csv)
+[Full CSV](data/new-cves-2026-10-02T16-19-25-266354Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 15:17:05 | [CVE-2026-104026](https://nvd.nist.gov/vuln/detail/CVE-2026-104026) | High | 7.8 | In Sapling SCM prior to v0.2.20260929-102736, control characters were allowed to be embedded in Git subtree URLs. A mal… |
-| 2026-10-02 15:17:08 | [CVE-2026-104625](https://nvd.nist.gov/vuln/detail/CVE-2026-104625) | Low | 2.1 | A security flaw has been discovered in CodeAstro Simple Loan Management System 1.0. Impacted is an unknown function of… |
-| 2026-10-02 15:17:08 | [CVE-2026-104637](https://nvd.nist.gov/vuln/detail/CVE-2026-104637) | Medium | 5.5 | A weakness has been identified in onetwothreeneth HospitalManagementSystem up to 9ef91ed6007314b6473110ed699dff76d158f6… |
-| 2026-10-02 15:17:09 | [CVE-2026-104638](https://nvd.nist.gov/vuln/detail/CVE-2026-104638) | Medium | 5.5 | A security vulnerability has been detected in onetwothreeneth HospitalManagementSystem up to 9ef91ed6007314b6473110ed69… |
-| 2026-10-02 15:17:09 | [CVE-2026-32584](https://nvd.nist.gov/vuln/detail/CVE-2026-32584) | Medium | 5.3 | Insertion of Sensitive Information Into Sent Data vulnerability in Chiranjit Hazarika Smart One Click Setup – Complete… |
-| 2026-10-02 15:17:09 | [CVE-2026-32585](https://nvd.nist.gov/vuln/detail/CVE-2026-32585) | Medium | 6.5 | Missing Authorization vulnerability in airano Airano MCP Bridge airano-mcp-bridge allows Exploiting Incorrectly Configu… |
-| 2026-10-02 15:17:09 | [CVE-2026-39439](https://nvd.nist.gov/vuln/detail/CVE-2026-39439) | Medium | 6.5 | Missing Authorization vulnerability in Kiera Howe WebSamurai websamurai allows Exploiting Incorrectly Configured Access… |
-| 2026-10-02 15:17:09 | [CVE-2026-39444](https://nvd.nist.gov/vuln/detail/CVE-2026-39444) | Medium | 5.4 | Authorization Bypass Through User-Controlled Key vulnerability in PublishPress PublishPress Series organize-series allo… |
-| 2026-10-02 15:17:09 | [CVE-2026-39600](https://nvd.nist.gov/vuln/detail/CVE-2026-39600) | Medium | 4.7 | URL Redirection to Untrusted Site ('Open Redirect') vulnerability in Mehul Gohil Aculect AI Companion aculect-ai-compan… |
-| 2026-10-02 15:17:09 | [CVE-2026-39601](https://nvd.nist.gov/vuln/detail/CVE-2026-39601) | Low | 3.7 | Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') vulnerability in WPdevelop… |
-| 2026-10-02 15:17:10 | [CVE-2026-39717](https://nvd.nist.gov/vuln/detail/CVE-2026-39717) | Medium | 4.3 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
-| 2026-10-02 15:17:10 | [CVE-2026-5782](https://nvd.nist.gov/vuln/detail/CVE-2026-5782) | Medium | 5.2 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Loglama.net TurkH… |
-| 2026-10-02 15:17:12 | [CVE-2026-90970](https://nvd.nist.gov/vuln/detail/CVE-2026-90970) | Critical | 9.9 | GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from… |
+| 2026-10-02 16:16:42 | [CVE-2026-101104](https://nvd.nist.gov/vuln/detail/CVE-2026-101104) | Medium | 6.3 | The Meari IoT Cloud Platform OpenAPI Service is vulnerable to an authorization flaw that allows authenticated users to… |
+| 2026-10-02 16:16:43 | [CVE-2026-103621](https://nvd.nist.gov/vuln/detail/CVE-2026-103621) |  |  | Integer overflow in Compositing in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to leak cross-origin… |
+| 2026-10-02 16:16:43 | [CVE-2026-103622](https://nvd.nist.gov/vuln/detail/CVE-2026-103622) |  |  | Use after free in SVG in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary code insid… |
+| 2026-10-02 16:16:43 | [CVE-2026-103623](https://nvd.nist.gov/vuln/detail/CVE-2026-103623) |  |  | Use after free in MediaStream in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary co… |
+| 2026-10-02 16:16:43 | [CVE-2026-103624](https://nvd.nist.gov/vuln/detail/CVE-2026-103624) |  |  | Use after free in Contextual Tasks in Google Chrome on on Windows prior to 154.0.8037.97 allowed a remote attacker who… |
+| 2026-10-02 16:16:43 | [CVE-2026-103625](https://nvd.nist.gov/vuln/detail/CVE-2026-103625) |  |  | Type confusion in V8 in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary code inside… |
+| 2026-10-02 16:16:43 | [CVE-2026-103626](https://nvd.nist.gov/vuln/detail/CVE-2026-103626) |  |  | Incorrect authorization in FileSystem in Google Chrome on on Windows prior to 154.0.8037.97 allowed a remote attacker l… |
+| 2026-10-02 16:16:43 | [CVE-2026-103627](https://nvd.nist.gov/vuln/detail/CVE-2026-103627) |  |  | Information leak in SVG in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to obtain sensitive informati… |
+| 2026-10-02 16:16:43 | [CVE-2026-103628](https://nvd.nist.gov/vuln/detail/CVE-2026-103628) |  |  | Out of bounds write in WebGL in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary cod… |
+| 2026-10-02 16:16:44 | [CVE-2026-103629](https://nvd.nist.gov/vuln/detail/CVE-2026-103629) |  |  | Integer overflow in Skia in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to leak cross-origin data vi… |
+| 2026-10-02 16:16:44 | [CVE-2026-103630](https://nvd.nist.gov/vuln/detail/CVE-2026-103630) |  |  | Use after free in FedCM in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary code out… |
+| 2026-10-02 16:16:44 | [CVE-2026-103631](https://nvd.nist.gov/vuln/detail/CVE-2026-103631) |  |  | Buffer overflow in WebRTC in Google Chrome prior to 154.0.8037.97 allowed a remote attacker to execute arbitrary code i… |
+| 2026-10-02 16:16:44 | [CVE-2026-103648](https://nvd.nist.gov/vuln/detail/CVE-2026-103648) | Critical | 9.1 | Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded respon… |
+| 2026-10-02 16:16:46 | [CVE-2026-104843](https://nvd.nist.gov/vuln/detail/CVE-2026-104843) | Medium | 5.9 | uv is a Python package and project manager written in Rust. From 0.12.7 until 0.12.18, uv wheel extraction on Windows c… |
+| 2026-10-02 16:16:46 | [CVE-2026-104844](https://nvd.nist.gov/vuln/detail/CVE-2026-104844) | Medium | 5.9 | PostCSS Selector Parser is a CSS selector parser that integrates with PostCSS but does not require it. Prior to 7.1.6,… |
+| 2026-10-02 16:16:47 | [CVE-2026-104845](https://nvd.nist.gov/vuln/detail/CVE-2026-104845) | High | 7.5 | Seroval facilitates JS value stringification, including complex structures beyond JSON.stringify capabilities. Prior to… |
+| 2026-10-02 16:16:47 | [CVE-2026-104846](https://nvd.nist.gov/vuln/detail/CVE-2026-104846) | Critical | 9.8 | Seroval facilitates JS value stringification, including complex structures beyond JSON.stringify capabilities. From 0.1… |
+| 2026-10-02 16:16:47 | [CVE-2026-104847](https://nvd.nist.gov/vuln/detail/CVE-2026-104847) | High | 8.5 | ProseMirror's view component renders and manages the editable browser interface for ProseMirror documents. Prior to 1.4… |
+| 2026-10-02 16:16:47 | [CVE-2026-104900](https://nvd.nist.gov/vuln/detail/CVE-2026-104900) | Medium | 5.3 | MISP contains a stored cross-site scripting (XSS) vulnerability in the index table rendering of the remote event previe… |
+| 2026-10-02 16:16:47 | [CVE-2026-104901](https://nvd.nist.gov/vuln/detail/CVE-2026-104901) | Medium | 5.1 | MISP contains a cross-site scripting (XSS) vulnerability in the ID Translator feature. When a user views the ID Transla… |
+| 2026-10-02 16:16:48 | [CVE-2026-104906](https://nvd.nist.gov/vuln/detail/CVE-2026-104906) | Medium | 6.2 | MISP contains a cross-site scripting (XSS) vulnerability in the TAXII object viewer. When displaying a remote TAXII obj… |
+| 2026-10-02 16:16:48 | [CVE-2026-104907](https://nvd.nist.gov/vuln/detail/CVE-2026-104907) | Medium | 4.8 | MISP contains a cross-site scripting (XSS) vulnerability in the remote event preview page. When a linked (remote) MISP… |
+| 2026-10-02 16:16:48 | [CVE-2026-104908](https://nvd.nist.gov/vuln/detail/CVE-2026-104908) | High | 7.1 | MISP contains an improper input validation vulnerability in the decaying model import functionality. The import endpoin… |
+| 2026-10-02 16:16:48 | [CVE-2026-104910](https://nvd.nist.gov/vuln/detail/CVE-2026-104910) | Medium | 5.3 | MISP contains an authorization bypass in the related events listing functionality. When a user requests the list of eve… |
+| 2026-10-02 16:16:49 | [CVE-2026-104912](https://nvd.nist.gov/vuln/detail/CVE-2026-104912) | High | 7.1 | MISP contains an authorization flaw in its correlation handling during attribute searches. When a user performs an attr… |
+| 2026-10-02 16:16:49 | [CVE-2026-104914](https://nvd.nist.gov/vuln/detail/CVE-2026-104914) | Medium | 5.3 | MISP contains an improper access control vulnerability in its attribute search and paginated attribute view endpoints.… |
+| 2026-10-02 16:16:49 | [CVE-2026-51898](https://nvd.nist.gov/vuln/detail/CVE-2026-51898) |  |  | sinaptik-ai pandas-ai 3.0.0 is vulnerable to Code Injection in CodeExecutor.execute. |
+| 2026-10-02 16:16:49 | [CVE-2026-51899](https://nvd.nist.gov/vuln/detail/CVE-2026-51899) |  |  | In SuperAGI v0.0.14 and prior, controller endpoints (/api/agents/create, /api/agents/schedule, /api/agents/delete, /api… |
+| 2026-10-02 16:16:49 | [CVE-2026-51901](https://nvd.nist.gov/vuln/detail/CVE-2026-51901) |  |  | SuperAGI up to 0.0.14 is vulnerable to Incorrect Access Control. The agent execution controller endpoint /api/agentexec… |
+| 2026-10-02 16:16:50 | [CVE-2026-51904](https://nvd.nist.gov/vuln/detail/CVE-2026-51904) |  |  | SuperAGI up to v0.0.14 contains an improper access control vulnerability in the agent execution controller. In affected… |
+| 2026-10-02 16:16:50 | [CVE-2026-51906](https://nvd.nist.gov/vuln/detail/CVE-2026-51906) |  |  | In TaskingAI v0.3.0 in the DALL-E 3 image generation tool save_url_image function, a path traversal vulnerability allow… |
+| 2026-10-02 16:16:50 | [CVE-2026-51907](https://nvd.nist.gov/vuln/detail/CVE-2026-51907) |  |  | In TaskingAI v0.3.0 in the QR Code Generator plugin save_base64_image function, a path traversal vulnerability allows a… |
+| 2026-10-02 16:16:50 | [CVE-2026-51911](https://nvd.nist.gov/vuln/detail/CVE-2026-51911) |  |  | vanna v2.0.2 contains a code injection vulnerability in VannaBase.get_plotly_figure (src/vanna/legacy/base/base.py). De… |
+| 2026-10-02 16:16:50 | [CVE-2026-51914](https://nvd.nist.gov/vuln/detail/CVE-2026-51914) |  |  | TransformerOptimus SuperAGI v0.0.14 is vulnerable to Incorrect Access Control in the agent template controller. In affe… |
+| 2026-10-02 16:16:50 | [CVE-2026-51915](https://nvd.nist.gov/vuln/detail/CVE-2026-51915) |  |  | TransformerOptimus SuperAGI v0.0.14 is vulnerable to Incorrect Access Control in the tool controller. In affected sourc… |
+| 2026-10-02 16:16:50 | [CVE-2026-51916](https://nvd.nist.gov/vuln/detail/CVE-2026-51916) |  |  | TransformerOptimus SuperAGI v0.0.14 contains an incorrect access control vulnerability in delete_user_knowledge in supe… |
+| 2026-10-02 16:16:50 | [CVE-2026-51917](https://nvd.nist.gov/vuln/detail/CVE-2026-51917) |  |  | FinRobot v1.0.0 is vulnerable to Code Injection in CodingUtils.modify_code. |
+| 2026-10-02 16:16:50 | [CVE-2026-51918](https://nvd.nist.gov/vuln/detail/CVE-2026-51918) |  |  | FinRobot 1.0.0 contains code injection in CodingUtils.create_file_with_code (). |
+| 2026-10-02 16:16:51 | [CVE-2026-51922](https://nvd.nist.gov/vuln/detail/CVE-2026-51922) |  |  | agentscope v1.0.20 contains code injection in execute_shell_command (src/agentscope/tool/_coding/_shell.py). Depending… |
+| 2026-10-02 16:16:51 | [CVE-2026-67989](https://nvd.nist.gov/vuln/detail/CVE-2026-67989) |  |  | crmne/ruby_llm at commit fa6f279847d6d7027814539d9c0dfc3bbdfd2a83 contains a polynomial-time regular expression denial-… |
+| 2026-10-02 16:16:51 | [CVE-2026-94483](https://nvd.nist.gov/vuln/detail/CVE-2026-94483) | High | 8.3 | Next.js is a React framework for building full-stack web applications. From 16.0.0 until 16.3.8, Image Optimization can… |
+| 2026-10-02 16:16:51 | [CVE-2026-94484](https://nvd.nist.gov/vuln/detail/CVE-2026-94484) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 15.0.0 until 15.5.27 and 16.3.8, applicatio… |
+| 2026-10-02 16:16:51 | [CVE-2026-94485](https://nvd.nist.gov/vuln/detail/CVE-2026-94485) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.0.0 until 16.3.8, the `next dev` develop… |
+| 2026-10-02 16:16:51 | [CVE-2026-94486](https://nvd.nist.gov/vuln/detail/CVE-2026-94486) | Low | 2.3 | Next.js is a React framework for building full-stack web applications. From 16.0.0 until 16.3.8, the next dev developme… |
+| 2026-10-02 16:16:52 | [CVE-2026-94543](https://nvd.nist.gov/vuln/detail/CVE-2026-94543) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 15.0.0 until 15.5.27 and 16.3.8, self-hoste… |
+| 2026-10-02 16:16:52 | [CVE-2026-94544](https://nvd.nist.gov/vuln/detail/CVE-2026-94544) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.3.0 until 16.3.8, pending use cache fill… |
+| 2026-10-02 16:16:52 | [CVE-2026-96613](https://nvd.nist.gov/vuln/detail/CVE-2026-96613) | High | 7.1 | The Meari IoT Cloud Platform OpenAPI Service is vulnerable to an authorization flaw that allows authenticated users to… |
 
 ## Data source
 
