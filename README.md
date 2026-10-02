@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 04:18 UTC
+## Latest list — 2026-10-02 05:19 UTC
 
-New CVEs published between 2026-10-02 03:19 UTC and 2026-10-02 04:18 UTC.
+New CVEs published between 2026-10-02 04:18 UTC and 2026-10-02 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T04-18-34-312987Z.csv)
+[Full CSV](data/new-cves-2026-10-02T05-19-59-32046Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 04:18:06 | [CVE-2026-14378](https://nvd.nist.gov/vuln/detail/CVE-2026-14378) | Critical | 9.8 | The DevKit Pro plugin for WordPress is vulnerable to Authentication Bypass Leading to Administrator Account Takeover in… |
-| 2026-10-02 04:18:09 | [CVE-2026-93367](https://nvd.nist.gov/vuln/detail/CVE-2026-93367) | High | 7.2 | The Visitors Traffic Real Time Statistics Pro plugin for WordPress is vulnerable to unauthenticated stored Cross-Site S… |
+| 2026-10-02 05:16:36 | [CVE-2026-10026](https://nvd.nist.gov/vuln/detail/CVE-2026-10026) | High | 7.2 | The CTX Feed Pro plugin for WordPress is vulnerable to Code Injection in all versions up to, and including, 7.6.12. Thi… |
+| 2026-10-02 05:16:38 | [CVE-2026-19660](https://nvd.nist.gov/vuln/detail/CVE-2026-19660) | Critical | 9.8 | The Divi Membership plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 2… |
 
 ## Data source
 
