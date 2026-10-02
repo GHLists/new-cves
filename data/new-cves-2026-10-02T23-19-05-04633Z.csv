@@ -1,0 +1,6 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-02T23:16:57.787Z,CVE-2026-105048,MEDIUM,4.0,Received,CWE-1289,2,The Playground feature of Zilliz Attu before 3.0.0 allows SSRF (proxying of requests to private IP addresses).
+2026-10-02T23:16:57.943Z,CVE-2026-105049,MEDIUM,5.8,Received,CWE-306,2,Zilliz Attu before 3.0.0 has a Playground feature that does not require authentication for proxying arbitrary HTTP and HTTPS requests to URLs on the public internet.
+2026-10-02T23:16:58.093Z,CVE-2026-105050,HIGH,7.1,Received,CWE-180,4,"PeaZip before 11.3.0, in a non-default configuration, is vulnerable to OS command injection via a filename in an archive because ""quotation character already used in the string"" is mishandled."
+2026-10-02T23:16:58.247Z,CVE-2026-105051,LOW,1.9,Received,CWE-348,2,Denuvo Anti-Tamper through 2026-03-04 allows bypass of a hypervisor presence check via CPUID interception (SimpleSvm.sys on AMD; hyperkd.sys and hyperhv.dll on Intel).
+2026-10-02T23:16:58.417Z,CVE-2026-84411,CRITICAL,9.3,Received,CWE-191,3,"The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service…"

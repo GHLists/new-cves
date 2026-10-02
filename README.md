@@ -9,26 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 22:18 UTC
+## Latest list — 2026-10-02 23:19 UTC
 
-New CVEs published between 2026-10-02 21:18 UTC and 2026-10-02 22:18 UTC.
+New CVEs published between 2026-10-02 22:18 UTC and 2026-10-02 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T22-18-54-111005Z.csv)
+[Full CSV](data/new-cves-2026-10-02T23-19-05-04633Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 22:16:54 | [CVE-2026-104886](https://nvd.nist.gov/vuln/detail/CVE-2026-104886) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-78410. Reason: This candidate is a… |
-| 2026-10-02 22:16:54 | [CVE-2026-104887](https://nvd.nist.gov/vuln/detail/CVE-2026-104887) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-78409. Reason: This candidate is a… |
-| 2026-10-02 22:16:54 | [CVE-2026-105043](https://nvd.nist.gov/vuln/detail/CVE-2026-105043) | Low | 3.6 | MathWorks Simulink before R2026b, when showing a crafted .slx file, can have blocks that are never visible in the Simul… |
-| 2026-10-02 22:16:54 | [CVE-2026-105046](https://nvd.nist.gov/vuln/detail/CVE-2026-105046) | Medium | 4.3 | Kentico Xperience 13 before 13.0.216 lacks object-level authorization checks for administration API endpoints. |
-| 2026-10-02 22:16:55 | [CVE-2026-93474](https://nvd.nist.gov/vuln/detail/CVE-2026-93474) | Medium | 6.9 | Charging station authentication identifiers are publicly accessible via web-based mapping platforms. |
-| 2026-10-02 22:16:56 | [CVE-2026-94591](https://nvd.nist.gov/vuln/detail/CVE-2026-94591) | High | 8.6 | Armatura One stores database and message-broker credentials in an install configuration file, encrypting them with AES-… |
-| 2026-10-02 22:16:56 | [CVE-2026-94592](https://nvd.nist.gov/vuln/detail/CVE-2026-94592) | High | 8.6 | Armatura One's database initialization routine assigns a fixed, vendor-defined password to the database superuser accou… |
-| 2026-10-02 22:16:56 | [CVE-2026-94593](https://nvd.nist.gov/vuln/detail/CVE-2026-94593) | High | 8.5 | Armatura One's backup and restore routine records the full database connection command, including the superuser passwor… |
-| 2026-10-02 22:16:56 | [CVE-2026-94594](https://nvd.nist.gov/vuln/detail/CVE-2026-94594) | Medium | 5.1 | Armatura One's message broker logs client connection credentials and the associated password in plain text during norma… |
-| 2026-10-02 22:16:56 | [CVE-2026-95102](https://nvd.nist.gov/vuln/detail/CVE-2026-95102) | Critical | 9.3 | WebSocket endpoints lack proper authentication mechanisms, enabling attackers to impersonate charging stations. As a re… |
-| 2026-10-02 22:16:56 | [CVE-2026-97212](https://nvd.nist.gov/vuln/detail/CVE-2026-97212) | Medium | 6.9 | The WebSocket backend uses charging station identifiers to uniquely associate sessions but allows multiple endpoints to… |
-| 2026-10-02 22:16:56 | [CVE-2026-97363](https://nvd.nist.gov/vuln/detail/CVE-2026-97363) | High | 8.7 | The WebSocket Application Programming Interface lacks restrictions on the number of authentication requests. This absen… |
+| 2026-10-02 23:16:57 | [CVE-2026-105048](https://nvd.nist.gov/vuln/detail/CVE-2026-105048) | Medium | 4.0 | The Playground feature of Zilliz Attu before 3.0.0 allows SSRF (proxying of requests to private IP addresses). |
+| 2026-10-02 23:16:57 | [CVE-2026-105049](https://nvd.nist.gov/vuln/detail/CVE-2026-105049) | Medium | 5.8 | Zilliz Attu before 3.0.0 has a Playground feature that does not require authentication for proxying arbitrary HTTP and… |
+| 2026-10-02 23:16:58 | [CVE-2026-105050](https://nvd.nist.gov/vuln/detail/CVE-2026-105050) | High | 7.1 | PeaZip before 11.3.0, in a non-default configuration, is vulnerable to OS command injection via a filename in an archiv… |
+| 2026-10-02 23:16:58 | [CVE-2026-105051](https://nvd.nist.gov/vuln/detail/CVE-2026-105051) | Low | 1.9 | Denuvo Anti-Tamper through 2026-03-04 allows bypass of a hypervisor presence check via CPUID interception (SimpleSvm.sy… |
+| 2026-10-02 23:16:58 | [CVE-2026-84411](https://nvd.nist.gov/vuln/detail/CVE-2026-84411) | Critical | 9.3 | The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handlin… |
 
 ## Data source
 
