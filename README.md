@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 03:19 UTC
+## Latest list — 2026-10-02 04:18 UTC
 
-New CVEs published between 2026-10-02 02:18 UTC and 2026-10-02 03:19 UTC.
+New CVEs published between 2026-10-02 03:19 UTC and 2026-10-02 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T03-19-36-514714Z.csv)
+[Full CSV](data/new-cves-2026-10-02T04-18-34-312987Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 03:16:38 | [CVE-2026-104120](https://nvd.nist.gov/vuln/detail/CVE-2026-104120) | Medium | 5.5 | A security vulnerability has been detected in modelcontextprotocol mcp-server-fetch and mcp-server-everything up to 202… |
-| 2026-10-02 03:16:39 | [CVE-2026-104123](https://nvd.nist.gov/vuln/detail/CVE-2026-104123) | Medium | 5.5 | A vulnerability was detected in SourceCodester Online Reviewer Management System 1.0. Affected by this vulnerability is… |
+| 2026-10-02 04:18:06 | [CVE-2026-14378](https://nvd.nist.gov/vuln/detail/CVE-2026-14378) | Critical | 9.8 | The DevKit Pro plugin for WordPress is vulnerable to Authentication Bypass Leading to Administrator Account Takeover in… |
+| 2026-10-02 04:18:09 | [CVE-2026-93367](https://nvd.nist.gov/vuln/detail/CVE-2026-93367) | High | 7.2 | The Visitors Traffic Real Time Statistics Pro plugin for WordPress is vulnerable to unauthenticated stored Cross-Site S… |
 
 ## Data source
 
