@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 02:18 UTC
+## Latest list — 2026-10-02 03:19 UTC
 
-New CVEs published between 2026-10-02 01:19 UTC and 2026-10-02 02:18 UTC.
+New CVEs published between 2026-10-02 02:18 UTC and 2026-10-02 03:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T02-18-43-02304Z.csv)
+[Full CSV](data/new-cves-2026-10-02T03-19-36-514714Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 02:17:01 | [CVE-2026-104052](https://nvd.nist.gov/vuln/detail/CVE-2026-104052) | Low | 2.1 | A vulnerability was determined in itsourcecode Pet Shop Management System 1.0. The affected element is an unknown funct… |
-| 2026-10-02 02:17:01 | [CVE-2026-104053](https://nvd.nist.gov/vuln/detail/CVE-2026-104053) | Low | 2.1 | A vulnerability was identified in itsourcecode Pet Shop Management System 1.0. The impacted element is an unknown funct… |
-| 2026-10-02 02:17:01 | [CVE-2026-104054](https://nvd.nist.gov/vuln/detail/CVE-2026-104054) | Low | 2.1 | A security flaw has been discovered in calcom cal.diy up to 6.2.0. This affects the function doesUserIdHaveAccessToBook… |
-| 2026-10-02 02:17:02 | [CVE-2026-104480](https://nvd.nist.gov/vuln/detail/CVE-2026-104480) | Critical | 9.4 | Discord libdave before 1.2.0 did not reject an MLS Welcome message when the resulting group roster contained an unrecog… |
-| 2026-10-02 02:17:02 | [CVE-2026-21140](https://nvd.nist.gov/vuln/detail/CVE-2026-21140) | Medium | 6.9 | Improper access control in ManagedProvisioning prior to SMR Sep-2026 Release 1 allows local attackers to install arbitr… |
+| 2026-10-02 03:16:38 | [CVE-2026-104120](https://nvd.nist.gov/vuln/detail/CVE-2026-104120) | Medium | 5.5 | A security vulnerability has been detected in modelcontextprotocol mcp-server-fetch and mcp-server-everything up to 202… |
+| 2026-10-02 03:16:39 | [CVE-2026-104123](https://nvd.nist.gov/vuln/detail/CVE-2026-104123) | Medium | 5.5 | A vulnerability was detected in SourceCodester Online Reviewer Management System 1.0. Affected by this vulnerability is… |
 
 ## Data source
 
