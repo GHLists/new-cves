@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 23:18 UTC
+## Latest list — 2026-10-02 00:18 UTC
 
-New CVEs published between 2026-10-01 22:18 UTC and 2026-10-01 23:18 UTC.
+New CVEs published between 2026-10-01 23:18 UTC and 2026-10-02 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-01T23-18-41-041761Z.csv)
+[Full CSV](data/new-cves-2026-10-02T00-18-34-202596Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-01 23:16:46 | [CVE-2025-71427](https://nvd.nist.gov/vuln/detail/CVE-2025-71427) | High | 7.6 | Office-PowerPoint-MCP-Server through 2.0.7 contains a path traversal vulnerability that allows MCP callers to write and… |
-| 2026-10-01 23:16:46 | [CVE-2026-103760](https://nvd.nist.gov/vuln/detail/CVE-2026-103760) | High | 8.2 | Mooncake transfer engine through 0.3.13.post1 contains a denial of service vulnerability that allows unauthenticated re… |
-| 2026-10-01 23:16:46 | [CVE-2026-103761](https://nvd.nist.gov/vuln/detail/CVE-2026-103761) | High | 8.7 | Mooncake transfer engine through 0.3.13.post1 contains a memory exhaustion vulnerability in TransferMetadata::receivePe… |
+| 2026-10-02 00:16:59 | [CVE-2026-103764](https://nvd.nist.gov/vuln/detail/CVE-2026-103764) | Critical | 9.3 | Mooncake transfer engine before 0.3.13 contains an untrusted pointer dereference in ServerSession::readHeader that allo… |
+| 2026-10-02 00:16:59 | [CVE-2026-103765](https://nvd.nist.gov/vuln/detail/CVE-2026-103765) | High | 8.8 | Mooncake through 0.3.13.post1 contains a missing authentication vulnerability in the HTTP metadata server /metadata han… |
+| 2026-10-02 00:16:59 | [CVE-2026-103766](https://nvd.nist.gov/vuln/detail/CVE-2026-103766) | High | 8.6 | ClipBucket v5 through 5.5.3-#197 contains an sql injection vulnerability that allows authenticated users with ad_manage… |
+| 2026-10-02 00:17:04 | [CVE-2026-86345](https://nvd.nist.gov/vuln/detail/CVE-2026-86345) | Critical | 9.0 | A flaw was found in 389-ds-base. The server does not discard plaintext bytes already buffered from a client connection… |
 
 ## Data source
 
