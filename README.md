@@ -9,32 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 06:18 UTC
+## Latest list — 2026-10-02 07:20 UTC
 
-New CVEs published between 2026-10-02 05:19 UTC and 2026-10-02 06:18 UTC.
+New CVEs published between 2026-10-02 06:18 UTC and 2026-10-02 07:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T06-18-37-229296Z.csv)
+[Full CSV](data/new-cves-2026-10-02T07-20-58-652534Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 06:16:40 | [CVE-2026-13718](https://nvd.nist.gov/vuln/detail/CVE-2026-13718) |  |  | The Tabs Responsive WordPress plugin through 2.5 does not sanitize the content of WooCommerce product tabs before stori… |
-| 2026-10-02 06:16:40 | [CVE-2026-15896](https://nvd.nist.gov/vuln/detail/CVE-2026-15896) | Critical | 9.1 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Directory Traversal in all versions up… |
-| 2026-10-02 06:16:41 | [CVE-2026-15897](https://nvd.nist.gov/vuln/detail/CVE-2026-15897) | High | 8.8 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Privilege Escalation in all versions u… |
-| 2026-10-02 06:16:41 | [CVE-2026-78471](https://nvd.nist.gov/vuln/detail/CVE-2026-78471) | Medium | 5.4 | The Autoptimize plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Author Name in all versio… |
-| 2026-10-02 06:16:41 | [CVE-2026-81740](https://nvd.nist.gov/vuln/detail/CVE-2026-81740) |  |  | The Paytm Payment Gateway WordPress plugin before 2.8.9 does not verify that payment callbacks genuinely originate from… |
-| 2026-10-02 06:16:41 | [CVE-2026-84925](https://nvd.nist.gov/vuln/detail/CVE-2026-84925) | Medium | 6.1 | The Avada \| Website Builder For WordPress & WooCommerce theme for WordPress is vulnerable to Reflected Cross-Site Scrip… |
-| 2026-10-02 06:16:41 | [CVE-2026-85004](https://nvd.nist.gov/vuln/detail/CVE-2026-85004) |  |  | The Popup Maker WordPress plugin through 1.4.5 does not perform a capability check on one of its account-connection act… |
-| 2026-10-02 06:16:41 | [CVE-2026-85016](https://nvd.nist.gov/vuln/detail/CVE-2026-85016) |  |  | The Unlimited Elements for Elementor WordPress plugin before 2.0.21 does not escape an icon value before concatenating… |
-| 2026-10-02 06:16:42 | [CVE-2026-90438](https://nvd.nist.gov/vuln/detail/CVE-2026-90438) | High | 7.2 | The Ninja Forms – The Contact Form Builder That Grows With You plugin for WordPress is vulnerable to Stored Cross-Site… |
-| 2026-10-02 06:16:42 | [CVE-2026-90988](https://nvd.nist.gov/vuln/detail/CVE-2026-90988) |  |  | The Request a Quote WordPress plugin through 2.5.6 does not perform an authorization check on one of its unauthenticate… |
-| 2026-10-02 06:16:42 | [CVE-2026-91022](https://nvd.nist.gov/vuln/detail/CVE-2026-91022) |  |  | The Motors WordPress plugin before 1.4.124 does not sanitise and escape a listing badge setting before outputting it in… |
-| 2026-10-02 06:16:42 | [CVE-2026-91023](https://nvd.nist.gov/vuln/detail/CVE-2026-91023) |  |  | The Motors WordPress plugin before 1.4.124 does not properly verify that a user is authorised to modify a listing befor… |
-| 2026-10-02 06:16:42 | [CVE-2026-91828](https://nvd.nist.gov/vuln/detail/CVE-2026-91828) |  |  | The OMGF \| GDPR/DSGVO Compliant, Faster Google Fonts. Easy. WordPress plugin before 6.3.11 does not require authenticat… |
-| 2026-10-02 06:16:43 | [CVE-2026-92174](https://nvd.nist.gov/vuln/detail/CVE-2026-92174) | High | 7.5 | The SiteOrigin Widgets Bundle plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and inc… |
-| 2026-10-02 06:16:43 | [CVE-2026-92820](https://nvd.nist.gov/vuln/detail/CVE-2026-92820) | High | 8.1 | The Ninja Forms - File Uploads plugin for WordPress is vulnerable to arbitrary file operations in all versions up to, a… |
-| 2026-10-02 06:16:43 | [CVE-2026-94298](https://nvd.nist.gov/vuln/detail/CVE-2026-94298) |  |  | The BuildKit WordPress plugin before 1.0.29 does not properly sanitise and escape data submitted by contributor-level u… |
-| 2026-10-02 06:16:43 | [CVE-2026-97317](https://nvd.nist.gov/vuln/detail/CVE-2026-97317) |  |  | The Giveaways and Contests by RafflePress WordPress plugin before 1.12.27 does not remove the reCAPTCHA secret key from… |
-| 2026-10-02 06:16:43 | [CVE-2026-97318](https://nvd.nist.gov/vuln/detail/CVE-2026-97318) |  |  | The Giveaways and Contests by RafflePress WordPress plugin before 1.12.27 does not properly validate a giveaway's paren… |
+| 2026-10-02 07:16:35 | [CVE-2026-102565](https://nvd.nist.gov/vuln/detail/CVE-2026-102565) | High | 7.2 | The BA Book Everything plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'booking_service_qty'… |
+| 2026-10-02 07:16:36 | [CVE-2026-13413](https://nvd.nist.gov/vuln/detail/CVE-2026-13413) | Medium | 5.3 | The CMP – Coming Soon & Maintenance WordPress plugin before 4.1.20 does not correctly restrict access to the site while… |
+| 2026-10-02 07:16:36 | [CVE-2026-15999](https://nvd.nist.gov/vuln/detail/CVE-2026-15999) | High | 8.2 | Improper validation of integrity check value in the AES-CCM implementation (CcmParameters and CcmBlockCipher) in Legion… |
+| 2026-10-02 07:16:36 | [CVE-2026-16000](https://nvd.nist.gov/vuln/detail/CVE-2026-16000) | High | 8.7 | Missing cryptographic step in the DSTU 7624 CCM mode implementation (KCcmBlockCipher) in Legion of the Bouncy Castle In… |
+| 2026-10-02 07:16:36 | [CVE-2026-16001](https://nvd.nist.gov/vuln/detail/CVE-2026-16001) | High | 8.2 | Exposure of the message authentication key through the encryption keystream in the stream mode of IesEngine (an IesEngi… |
+| 2026-10-02 07:16:36 | [CVE-2026-1661](https://nvd.nist.gov/vuln/detail/CVE-2026-1661) | Medium | 4.3 | The WP Mail Logging WordPress plugin before 1.17.0 does not properly restrict the HTML and CSS of logged emails before… |
+| 2026-10-02 07:16:36 | [CVE-2026-63566](https://nvd.nist.gov/vuln/detail/CVE-2026-63566) | High | 8.7 | Memory allocation with excessive size value in the DTLS handshake reassembly (DtlsReliableHandshake, DtlsReassembler) i… |
+| 2026-10-02 07:16:37 | [CVE-2026-63567](https://nvd.nist.gov/vuln/detail/CVE-2026-63567) | High | 8.2 | Observable discrepancy in IesEngine.DecryptBlock in Legion of the Bouncy Castle Inc. bc-csharp before 2.7.0 allows a re… |
+| 2026-10-02 07:16:37 | [CVE-2026-63568](https://nvd.nist.gov/vuln/detail/CVE-2026-63568) | High | 8.7 | Allocation of resources without limits or throttling in the CMP/CRMF password-based MAC verifier (PKMacBuilder) in Legi… |
+| 2026-10-02 07:16:37 | [CVE-2026-63569](https://nvd.nist.gov/vuln/detail/CVE-2026-63569) | Critical | 9.1 | Improper input validation in DHAgreement.CalculateAgreement (MTI/A0 two-pass Diffie-Hellman) in Legion of the Bouncy Ca… |
+| 2026-10-02 07:16:37 | [CVE-2026-79618](https://nvd.nist.gov/vuln/detail/CVE-2026-79618) | Medium | 4.3 | The WP User Frontend WordPress plugin before 4.3.12 does not enforce its subscription-purchase requirement in one of it… |
+| 2026-10-02 07:16:38 | [CVE-2026-85005](https://nvd.nist.gov/vuln/detail/CVE-2026-85005) | Medium | 5.4 | The Popup Maker WP WordPress plugin through 1.4.5 does not perform authorization checks on several of its actions and e… |
+| 2026-10-02 07:16:38 | [CVE-2026-90952](https://nvd.nist.gov/vuln/detail/CVE-2026-90952) | Medium | 5.3 | The WP Edit Password Protected WordPress plugin before 2.0.7 does not enforce its site-wide access restriction on the W… |
+| 2026-10-02 07:16:38 | [CVE-2026-90987](https://nvd.nist.gov/vuln/detail/CVE-2026-90987) | Medium | 5.3 | The Easy PayPal & Stripe Buy Now Button WordPress plugin before 2.0.6 does not derive the payment amount on the server,… |
+| 2026-10-02 07:16:38 | [CVE-2026-91020](https://nvd.nist.gov/vuln/detail/CVE-2026-91020) | Medium | 5.3 | The WebToffee Gift Cards for WooCommerce WordPress plugin before 1.3.1 does not validate a user-supplied gift card amou… |
+| 2026-10-02 07:16:38 | [CVE-2026-92924](https://nvd.nist.gov/vuln/detail/CVE-2026-92924) | Medium | 5.4 | The Unlimited Elements for Elementor WordPress plugin before 2.0.21 does not check that a request to render widget outp… |
+| 2026-10-02 07:16:38 | [CVE-2026-93029](https://nvd.nist.gov/vuln/detail/CVE-2026-93029) | Critical | 9.0 | There is a stored XSS vulnerability allowing arbitrary code execution in the WHM Manage SSL Hosts interface. |
+| 2026-10-02 07:16:38 | [CVE-2026-93697](https://nvd.nist.gov/vuln/detail/CVE-2026-93697) | Critical | 9.0 | There is a stored XSS vulnerability allowing arbitrary code execution in the WHM Mass Modify Accounts interface. |
+| 2026-10-02 07:16:38 | [CVE-2026-84740](https://nvd.nist.gov/vuln/detail/CVE-2026-84740) | Medium | 6.5 | The Events Calendar WordPress plugin before 6.17.5.1 does not validate or sanitise data submitted to an unauthenticated… |
+| 2026-10-02 07:16:39 | [CVE-2026-93698](https://nvd.nist.gov/vuln/detail/CVE-2026-93698) | Critical | 9.9 | Insufficient validation allows arbitrary commands to be executed via the Multilang adminbin. |
+| 2026-10-02 07:16:39 | [CVE-2026-97219](https://nvd.nist.gov/vuln/detail/CVE-2026-97219) | Medium | 4.3 | The MStore API WordPress plugin before 4.22.1 does not restrict which fields of an order a customer may update, allowin… |
 
 ## Data source
 
