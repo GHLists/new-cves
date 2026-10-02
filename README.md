@@ -9,22 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 21:18 UTC
+## Latest list — 2026-10-02 22:18 UTC
 
-New CVEs published between 2026-10-02 20:18 UTC and 2026-10-02 21:18 UTC.
+New CVEs published between 2026-10-02 21:18 UTC and 2026-10-02 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T21-18-38-777408Z.csv)
+[Full CSV](data/new-cves-2026-10-02T22-18-54-111005Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 21:16:54 | [CVE-2026-104055](https://nvd.nist.gov/vuln/detail/CVE-2026-104055) | Medium | 5.3 | The postgresql-operator charm runs a Prometheus postgres_exporter to collect database metrics using a dedicated "monito… |
-| 2026-10-02 21:16:54 | [CVE-2026-104874](https://nvd.nist.gov/vuln/detail/CVE-2026-104874) | Medium | 5.3 | Multidict is an implementation of a multidict data structure. From 6.7.0 until 6.9.1, the C extension's items-view refl… |
-| 2026-10-02 21:16:56 | [CVE-2026-75937](https://nvd.nist.gov/vuln/detail/CVE-2026-75937) | Critical | 9.4 | A specially crafted HTTP POST request to the web administration interface allows an unauthenticated attacker to execute… |
-| 2026-10-02 21:16:56 | [CVE-2026-82041](https://nvd.nist.gov/vuln/detail/CVE-2026-82041) | Medium | 6.5 | UTMStack before 11.2.16 contains a missing authorization vulnerability in UTMIncidentCommandWebsocket.processCommand(),… |
-| 2026-10-02 21:16:56 | [CVE-2026-82042](https://nvd.nist.gov/vuln/detail/CVE-2026-82042) | Critical | 9.3 | UTMStack before 11.2.16 contains an authentication bypass vulnerability that allows remote attackers to gain full admin… |
-| 2026-10-02 21:16:56 | [CVE-2026-82043](https://nvd.nist.gov/vuln/detail/CVE-2026-82043) | Medium | 6.9 | UTMStack before 11.2.16 contains an account enumeration vulnerability that allows unauthenticated attackers to determin… |
-| 2026-10-02 21:16:56 | [CVE-2026-82044](https://nvd.nist.gov/vuln/detail/CVE-2026-82044) | Medium | 6.3 | UTMStack before 11.2.16 contains a server-side request forgery vulnerability that allows authenticated attackers to mak… |
-| 2026-10-02 21:16:57 | [CVE-2026-82045](https://nvd.nist.gov/vuln/detail/CVE-2026-82045) | High | 7.1 | UTMStack before 11.2.16 contains a JPQL injection vulnerability that allows authenticated attackers to read arbitrary e… |
+| 2026-10-02 22:16:54 | [CVE-2026-104886](https://nvd.nist.gov/vuln/detail/CVE-2026-104886) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-78410. Reason: This candidate is a… |
+| 2026-10-02 22:16:54 | [CVE-2026-104887](https://nvd.nist.gov/vuln/detail/CVE-2026-104887) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-78409. Reason: This candidate is a… |
+| 2026-10-02 22:16:54 | [CVE-2026-105043](https://nvd.nist.gov/vuln/detail/CVE-2026-105043) | Low | 3.6 | MathWorks Simulink before R2026b, when showing a crafted .slx file, can have blocks that are never visible in the Simul… |
+| 2026-10-02 22:16:54 | [CVE-2026-105046](https://nvd.nist.gov/vuln/detail/CVE-2026-105046) | Medium | 4.3 | Kentico Xperience 13 before 13.0.216 lacks object-level authorization checks for administration API endpoints. |
+| 2026-10-02 22:16:55 | [CVE-2026-93474](https://nvd.nist.gov/vuln/detail/CVE-2026-93474) | Medium | 6.9 | Charging station authentication identifiers are publicly accessible via web-based mapping platforms. |
+| 2026-10-02 22:16:56 | [CVE-2026-94591](https://nvd.nist.gov/vuln/detail/CVE-2026-94591) | High | 8.6 | Armatura One stores database and message-broker credentials in an install configuration file, encrypting them with AES-… |
+| 2026-10-02 22:16:56 | [CVE-2026-94592](https://nvd.nist.gov/vuln/detail/CVE-2026-94592) | High | 8.6 | Armatura One's database initialization routine assigns a fixed, vendor-defined password to the database superuser accou… |
+| 2026-10-02 22:16:56 | [CVE-2026-94593](https://nvd.nist.gov/vuln/detail/CVE-2026-94593) | High | 8.5 | Armatura One's backup and restore routine records the full database connection command, including the superuser passwor… |
+| 2026-10-02 22:16:56 | [CVE-2026-94594](https://nvd.nist.gov/vuln/detail/CVE-2026-94594) | Medium | 5.1 | Armatura One's message broker logs client connection credentials and the associated password in plain text during norma… |
+| 2026-10-02 22:16:56 | [CVE-2026-95102](https://nvd.nist.gov/vuln/detail/CVE-2026-95102) | Critical | 9.3 | WebSocket endpoints lack proper authentication mechanisms, enabling attackers to impersonate charging stations. As a re… |
+| 2026-10-02 22:16:56 | [CVE-2026-97212](https://nvd.nist.gov/vuln/detail/CVE-2026-97212) | Medium | 6.9 | The WebSocket backend uses charging station identifiers to uniquely associate sessions but allows multiple endpoints to… |
+| 2026-10-02 22:16:56 | [CVE-2026-97363](https://nvd.nist.gov/vuln/detail/CVE-2026-97363) | High | 8.7 | The WebSocket Application Programming Interface lacks restrictions on the number of authentication requests. This absen… |
 
 ## Data source
 
