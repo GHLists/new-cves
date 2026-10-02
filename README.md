@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 01:19 UTC
+## Latest list — 2026-10-02 02:18 UTC
 
-New CVEs published between 2026-10-02 00:18 UTC and 2026-10-02 01:19 UTC.
+New CVEs published between 2026-10-02 01:19 UTC and 2026-10-02 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T01-19-37-24701Z.csv)
+[Full CSV](data/new-cves-2026-10-02T02-18-43-02304Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 01:16:42 | [CVE-2026-103096](https://nvd.nist.gov/vuln/detail/CVE-2026-103096) | High | 7.5 | API key is hardcoded and retrievable from the application package. Since Android applications can be reverse engineered… |
-| 2026-10-02 01:16:43 | [CVE-2026-103097](https://nvd.nist.gov/vuln/detail/CVE-2026-103097) | High | 7.5 | An API key is hardcoded and retrievable from the application package. Since Android applications can be reverse enginee… |
-| 2026-10-02 01:16:43 | [CVE-2026-103098](https://nvd.nist.gov/vuln/detail/CVE-2026-103098) | High | 7.5 | Transmission of a sensitive key in the URL over an unencrypted HTTP connection. The request is sent over HTTP rather th… |
+| 2026-10-02 02:17:01 | [CVE-2026-104052](https://nvd.nist.gov/vuln/detail/CVE-2026-104052) | Low | 2.1 | A vulnerability was determined in itsourcecode Pet Shop Management System 1.0. The affected element is an unknown funct… |
+| 2026-10-02 02:17:01 | [CVE-2026-104053](https://nvd.nist.gov/vuln/detail/CVE-2026-104053) | Low | 2.1 | A vulnerability was identified in itsourcecode Pet Shop Management System 1.0. The impacted element is an unknown funct… |
+| 2026-10-02 02:17:01 | [CVE-2026-104054](https://nvd.nist.gov/vuln/detail/CVE-2026-104054) | Low | 2.1 | A security flaw has been discovered in calcom cal.diy up to 6.2.0. This affects the function doesUserIdHaveAccessToBook… |
+| 2026-10-02 02:17:02 | [CVE-2026-104480](https://nvd.nist.gov/vuln/detail/CVE-2026-104480) | Critical | 9.4 | Discord libdave before 1.2.0 did not reject an MLS Welcome message when the resulting group roster contained an unrecog… |
+| 2026-10-02 02:17:02 | [CVE-2026-21140](https://nvd.nist.gov/vuln/detail/CVE-2026-21140) | Medium | 6.9 | Improper access control in ManagedProvisioning prior to SMR Sep-2026 Release 1 allows local attackers to install arbitr… |
 
 ## Data source
 
