@@ -9,21 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 18:19 UTC
+## Latest list — 2026-10-02 19:20 UTC
 
-New CVEs published between 2026-10-02 17:18 UTC and 2026-10-02 18:19 UTC.
+New CVEs published between 2026-10-02 18:19 UTC and 2026-10-02 19:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-02T18-19-07-293706Z.csv)
+[Full CSV](data/new-cves-2026-10-02T19-20-05-15076Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-02 18:16:59 | [CVE-2026-102626](https://nvd.nist.gov/vuln/detail/CVE-2026-102626) | High | 7.2 | An authenticated LimeSurvey Community Edition 7.4.0 user with the global Surveys: create permission can store a JavaScr… |
-| 2026-10-02 18:16:59 | [CVE-2026-102795](https://nvd.nist.gov/vuln/detail/CVE-2026-102795) | High | 7.0 | Improper Access Control vulnerability in Apache Traffic Server. This issue affects Apache Traffic Server: from 9.0.0 th… |
-| 2026-10-02 18:17:02 | [CVE-2026-104855](https://nvd.nist.gov/vuln/detail/CVE-2026-104855) | Low | 2.0 | Wasmtime is a runtime for WebAssembly. From 46.0.0 until 46.0.2 and 47.0.3, fuel and epoch preemption checks inside bul… |
-| 2026-10-02 18:17:02 | [CVE-2026-104859](https://nvd.nist.gov/vuln/detail/CVE-2026-104859) | High | 7.3 | Nx is a monorepo solution for TypeScript and polyglot codebases. From 21.4.0 until 22.7.8 and from 23.0.0 until 23.1.1,… |
-| 2026-10-02 18:17:02 | [CVE-2026-104861](https://nvd.nist.gov/vuln/detail/CVE-2026-104861) | High | 7.5 | probe-image-size gets image dimensions without downloading the entire file. Prior to 7.4.0, lib/parse_sync/svg.js and l… |
-| 2026-10-02 18:17:03 | [CVE-2026-59265](https://nvd.nist.gov/vuln/detail/CVE-2026-59265) |  |  | A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted docu… |
-| 2026-10-02 18:17:05 | [CVE-2026-64818](https://nvd.nist.gov/vuln/detail/CVE-2026-64818) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-02 19:16:37 | [CVE-2014-125130](https://nvd.nist.gov/vuln/detail/CVE-2014-125130) | High | 8.7 | CodeArt Google MP3 Audio Player plugin (google-mp3-audio-player) for WordPress through 1.0.11 contains an unauthenticat… |
+| 2026-10-02 19:16:38 | [CVE-2020-37278](https://nvd.nist.gov/vuln/detail/CVE-2020-37278) | High | 8.7 | Weaver e-Bridge contains an unauthenticated arbitrary file read vulnerability that allows remote attackers to access ar… |
+| 2026-10-02 19:16:38 | [CVE-2023-54405](https://nvd.nist.gov/vuln/detail/CVE-2023-54405) | Critical | 9.3 | H3C CVM, the Cloud Virtualization Management component of the H3C CAS cloud platform, contains an unauthenticated arbit… |
+| 2026-10-02 19:16:39 | [CVE-2026-103956](https://nvd.nist.gov/vuln/detail/CVE-2026-103956) | Critical | 10.0 | Missing authentication for critical function in the authentication dependency in Loom for AWS before 1.6.1 allowed remo… |
+| 2026-10-02 19:16:39 | [CVE-2026-103957](https://nvd.nist.gov/vuln/detail/CVE-2026-103957) | High | 8.2 | Server-side request forgery in the OAuth2 discovery handling in Loom for AWS before 1.7.0 might allow an authenticated… |
+| 2026-10-02 19:16:40 | [CVE-2026-103958](https://nvd.nist.gov/vuln/detail/CVE-2026-103958) | High | 8.3 | Server-side request forgery in the tool server and remote agent connection handling in Loom for AWS before 1.7.0 might… |
+| 2026-10-02 19:16:41 | [CVE-2026-19856](https://nvd.nist.gov/vuln/detail/CVE-2026-19856) | Medium | 6.5 | The All in One SEO WordPress plugin before 5.0.2.1 does not correctly determine which shortcodes are present in content… |
+| 2026-10-02 19:16:43 | [CVE-2026-96940](https://nvd.nist.gov/vuln/detail/CVE-2026-96940) | High | 8.8 | Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a network. |
 
 ## Data source
 
