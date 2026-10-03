@@ -9,21 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 03:19 UTC
+## Latest list — 2026-10-03 04:18 UTC
 
-New CVEs published between 2026-10-03 02:21 UTC and 2026-10-03 03:19 UTC.
+New CVEs published between 2026-10-03 03:19 UTC and 2026-10-03 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-03T03-19-40-927139Z.csv)
+[Full CSV](data/new-cves-2026-10-03T04-18-33-052776Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-03 03:16:36 | [CVE-2026-100180](https://nvd.nist.gov/vuln/detail/CVE-2026-100180) | Medium | 5.4 | The Jeg Kit for Elementor – Powerful Addons for Elementor, Widgets & Templates for WordPress plugin for WordPress is vu… |
-| 2026-10-03 03:16:36 | [CVE-2026-92243](https://nvd.nist.gov/vuln/detail/CVE-2026-92243) | Medium | 6.1 | The Ivory Search – WordPress Search Plugin plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the… |
-| 2026-10-03 03:16:37 | [CVE-2026-93428](https://nvd.nist.gov/vuln/detail/CVE-2026-93428) | High | 7.5 | The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plug… |
-| 2026-10-03 03:16:37 | [CVE-2026-94378](https://nvd.nist.gov/vuln/detail/CVE-2026-94378) | Medium | 6.4 | The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to Stored… |
-| 2026-10-03 03:16:37 | [CVE-2026-94539](https://nvd.nist.gov/vuln/detail/CVE-2026-94539) | Medium | 6.5 | The SupportCandy – AI Customer Support Ticket System & Live Chatbot Agent plugin for WordPress is vulnerable to time-ba… |
-| 2026-10-03 03:16:37 | [CVE-2026-95865](https://nvd.nist.gov/vuln/detail/CVE-2026-95865) | Medium | 6.5 | The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to blind SQL Injecti… |
-| 2026-10-03 03:16:37 | [CVE-2026-96270](https://nvd.nist.gov/vuln/detail/CVE-2026-96270) | High | 7.2 | The Ultimate Member – User Profile, Registration, Login, Member Directory, Content Restriction & Membership Plugin plug… |
+| 2026-10-03 04:18:01 | [CVE-2026-92536](https://nvd.nist.gov/vuln/detail/CVE-2026-92536) | High | 8.8 | The Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content – ProfilePre… |
+| 2026-10-03 04:18:03 | [CVE-2026-92551](https://nvd.nist.gov/vuln/detail/CVE-2026-92551) | Medium | 6.1 | The Paid Membership Plugin, Ecommerce, User Registration Form, Login Form, User Profile & Restrict Content – ProfilePre… |
+| 2026-10-03 04:18:03 | [CVE-2026-92727](https://nvd.nist.gov/vuln/detail/CVE-2026-92727) | Medium | 6.4 | The EmbedPress – PDF Embedder, 3D PDF FlipBook, Google Reviews, YouTube Videos, Upload & Embed PDF documents plugin for… |
+| 2026-10-03 04:18:03 | [CVE-2026-92538](https://nvd.nist.gov/vuln/detail/CVE-2026-92538) | Medium | 6.1 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to Reflecte… |
+| 2026-10-03 04:18:04 | [CVE-2026-92826](https://nvd.nist.gov/vuln/detail/CVE-2026-92826) | Medium | 6.1 | The EWWW Image Optimizer plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via REQUEST_URI Parameter… |
+| 2026-10-03 04:18:04 | [CVE-2026-92977](https://nvd.nist.gov/vuln/detail/CVE-2026-92977) | High | 7.2 | The Real Cookie Banner: GDPR & ePrivacy Cookie Consent plugin for WordPress is vulnerable to Stored Cross-Site Scriptin… |
+| 2026-10-03 04:18:04 | [CVE-2026-97644](https://nvd.nist.gov/vuln/detail/CVE-2026-97644) | High | 8.8 | The Groundhogg — CRM, Newsletters, and Marketing Automation plugin for WordPress is vulnerable to Privilege Escalation… |
 
 ## Data source
 
