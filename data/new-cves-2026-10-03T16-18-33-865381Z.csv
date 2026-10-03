@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-03T16:16:46.92Z,CVE-2026-96451,HIGH,8.8,Received,CWE-639,1,Authorization Bypass Through User-Controlled Key vulnerability in Ultimate Member Ultimate Member ultimate-member allows Privilege Escalation.This issue affects Ultimate Member: from n/a through 2.13.1.
