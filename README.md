@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 01:18 UTC
+## Latest list — 2026-10-03 02:21 UTC
 
-New CVEs published between 2026-10-03 00:18 UTC and 2026-10-03 01:18 UTC.
+New CVEs published between 2026-10-03 01:18 UTC and 2026-10-03 02:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-03T01-18-33-760095Z.csv)
+[Full CSV](data/new-cves-2026-10-03T02-21-40-056627Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-03 01:17:23 | [CVE-2026-105080](https://nvd.nist.gov/vuln/detail/CVE-2026-105080) | Critical | 9.4 | In ConvertX before 0.19.0, converters/calibre.ts does not block recipe files, and instead passes them to the ebook-conv… |
-| 2026-10-03 01:17:25 | [CVE-2026-79113](https://nvd.nist.gov/vuln/detail/CVE-2026-79113) | Medium | 5.1 | OpenAPV before 1.1.1.0 has a read_bitstream heap-based buffer overflow. |
+| 2026-10-03 02:17:18 | [CVE-2026-105083](https://nvd.nist.gov/vuln/detail/CVE-2026-105083) | Low | 1.8 | ImageMagick before 7.1.2-32 and 6.9.13-57 contains a policy bypass vulnerability in LoadPolicyCache that silently skips… |
+| 2026-10-03 02:17:18 | [CVE-2026-105090](https://nvd.nist.gov/vuln/detail/CVE-2026-105090) | Medium | 5.1 | Formbricks before 5.4.4 and 6 before 6.0.1 allows stored XSS. The survey-level Custom Head Scripts feature did not enfo… |
 
 ## Data source
 
