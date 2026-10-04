@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 02:18 UTC
+## Latest list — 2026-10-04 03:19 UTC
 
-New CVEs published between 2026-10-04 01:19 UTC and 2026-10-04 02:18 UTC.
+New CVEs published between 2026-10-04 02:18 UTC and 2026-10-04 03:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-04T02-18-33-591391Z.csv)
+[Full CSV](data/new-cves-2026-10-04T03-19-32-377202Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-04 02:16:28 | [CVE-2026-105096](https://nvd.nist.gov/vuln/detail/CVE-2026-105096) | Low | 2.1 | A vulnerability was determined in Omega Solution CoinEx Crypto 2025. This affects an unknown function of the file /cust… |
-| 2026-10-04 02:16:33 | [CVE-2026-105131](https://nvd.nist.gov/vuln/detail/CVE-2026-105131) | Medium | 5.3 | ezBookkeeping 1.2.0 before 2.0.1 contains a privilege escalation vulnerability that allows attackers holding an API tok… |
+| 2026-10-04 03:16:49 | [CVE-2026-105097](https://nvd.nist.gov/vuln/detail/CVE-2026-105097) | Low | 2.1 | A vulnerability was identified in Omega Solution CoinEx Crypto 2025. This impacts an unknown function of the file /cust… |
 
 ## Data source
 
