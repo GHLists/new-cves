@@ -9,28 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:18 UTC
+## Latest list — 2026-10-04 16:18 UTC
 
-New CVEs published between 2026-10-04 14:19 UTC and 2026-10-04 15:18 UTC.
+New CVEs published between 2026-10-04 15:18 UTC and 2026-10-04 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-04T15-18-36-713429Z.csv)
+[Full CSV](data/new-cves-2026-10-04T16-18-42-827906Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-04 15:16:30 | [CVE-2026-105156](https://nvd.nist.gov/vuln/detail/CVE-2026-105156) | Low | 2.9 | A weakness has been identified in YzmCMS up to 7.6. Impacted is the function Password of the file /common/function/syst… |
-| 2026-10-04 15:16:30 | [CVE-2026-105157](https://nvd.nist.gov/vuln/detail/CVE-2026-105157) | Low | 2.1 | A security vulnerability has been detected in RainyGao DocSys up to 2.02.85. The affected element is the function DocCo… |
-| 2026-10-04 15:16:31 | [CVE-2026-105158](https://nvd.nist.gov/vuln/detail/CVE-2026-105158) | Medium | 5.5 | A vulnerability was detected in RainyGao DocSys up to 2.02.85. The impacted element is the function BaseController.crea… |
-| 2026-10-04 15:16:31 | [CVE-2026-105205](https://nvd.nist.gov/vuln/detail/CVE-2026-105205) | Medium | 6.9 | SiYuan before 3.8.5 contains an information disclosure vulnerability that allows publish-mode readers to learn backlink… |
-| 2026-10-04 15:16:31 | [CVE-2026-105206](https://nvd.nist.gov/vuln/detail/CVE-2026-105206) | Medium | 5.3 | ZITADEL 3.0.0 through 3.4.15 and 4.x before 4.17.3 contains an incorrect authorization flaw in the User Service API, wh… |
-| 2026-10-04 15:16:31 | [CVE-2026-105207](https://nvd.nist.gov/vuln/detail/CVE-2026-105207) | Critical | 9.3 | ZITADEL 3.0.0 through 3.4.15 and 4.0.0 before 4.17.3 creates links between user accounts and external identity provider… |
-| 2026-10-04 15:16:31 | [CVE-2026-105208](https://nvd.nist.gov/vuln/detail/CVE-2026-105208) | High | 8.7 | ZITADEL 4.x before 4.17.3 and 3.x through 3.4.15 protects IdP intent tokens with unauthenticated, malleable encryption,… |
-| 2026-10-04 15:16:32 | [CVE-2026-105209](https://nvd.nist.gov/vuln/detail/CVE-2026-105209) | Critical | 9.3 | ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains an improper authorization vulnerability: when issuing passkey… |
-| 2026-10-04 15:16:32 | [CVE-2026-105210](https://nvd.nist.gov/vuln/detail/CVE-2026-105210) | High | 8.8 | ZITADEL 3.x before 3.4.15 and 4.x before 4.17.1 contains a missing authentication flaw in the hosted Login V1 UI, whose… |
-| 2026-10-04 15:16:32 | [CVE-2026-105211](https://nvd.nist.gov/vuln/detail/CVE-2026-105211) | Critical | 9.2 | ZITADEL before 4.17.1 contains an authentication bypass vulnerability in Login V2 that allows unauthenticated attackers… |
-| 2026-10-04 15:16:32 | [CVE-2026-105212](https://nvd.nist.gov/vuln/detail/CVE-2026-105212) | High | 8.7 | ZITADEL 3.x before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the hosted Login V1 and Login V2 U… |
-| 2026-10-04 15:16:32 | [CVE-2026-105213](https://nvd.nist.gov/vuln/detail/CVE-2026-105213) | High | 8.8 | ZITADEL 4.x before 4.17.1 does not check an organization's inactive state during Login V2 authentication, verifying onl… |
-| 2026-10-04 15:16:32 | [CVE-2026-105214](https://nvd.nist.gov/vuln/detail/CVE-2026-105214) | Low | 2.3 | Zitadel before 4.16.2 contains a server-side request forgery vulnerability that allows attackers to make the server req… |
-| 2026-10-04 15:16:32 | [CVE-2026-105215](https://nvd.nist.gov/vuln/detail/CVE-2026-105215) | Critical | 9.3 | ZITADEL before 3.4.14 and 4.x before 4.16.2 contains an authentication bypass in the hosted Login V1 UI because the 'ex… |
+| 2026-10-04 16:16:28 | [CVE-2026-104402](https://nvd.nist.gov/vuln/detail/CVE-2026-104402) | Medium | 4.3 | Insertion of Sensitive Information Into Sent Data vulnerability in farvisun Mindio Magic MCP mindio-magic-mcp allows Re… |
+| 2026-10-04 16:16:30 | [CVE-2026-105086](https://nvd.nist.gov/vuln/detail/CVE-2026-105086) | Critical | 9.3 | WWBN AVideo 12.4 through 29.2.0 contains a stored cross-site scripting vulnerability that allows authenticated uploader… |
+| 2026-10-04 16:16:30 | [CVE-2026-105089](https://nvd.nist.gov/vuln/detail/CVE-2026-105089) | Critical | 9.3 | WWBN AVideo through 29.2.0 contains a stored cross-site scripting vulnerability that allows users with upload permissio… |
+| 2026-10-04 16:16:30 | [CVE-2026-105224](https://nvd.nist.gov/vuln/detail/CVE-2026-105224) | Medium | 5.1 | YesWiki before 4.6.7 contains a cross-site scripting vulnerability in the Bazar valeur action that allows page editors… |
 
 ## Data source
 
