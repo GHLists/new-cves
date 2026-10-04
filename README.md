@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 16:18 UTC
+## Latest list — 2026-10-04 18:18 UTC
 
-New CVEs published between 2026-10-04 15:18 UTC and 2026-10-04 16:18 UTC.
+New CVEs published between 2026-10-04 17:18 UTC and 2026-10-04 18:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-04T16-18-42-827906Z.csv)
+[Full CSV](data/new-cves-2026-10-04T18-18-38-881829Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-04 16:16:28 | [CVE-2026-104402](https://nvd.nist.gov/vuln/detail/CVE-2026-104402) | Medium | 4.3 | Insertion of Sensitive Information Into Sent Data vulnerability in farvisun Mindio Magic MCP mindio-magic-mcp allows Re… |
-| 2026-10-04 16:16:30 | [CVE-2026-105086](https://nvd.nist.gov/vuln/detail/CVE-2026-105086) | Critical | 9.3 | WWBN AVideo 12.4 through 29.2.0 contains a stored cross-site scripting vulnerability that allows authenticated uploader… |
-| 2026-10-04 16:16:30 | [CVE-2026-105089](https://nvd.nist.gov/vuln/detail/CVE-2026-105089) | Critical | 9.3 | WWBN AVideo through 29.2.0 contains a stored cross-site scripting vulnerability that allows users with upload permissio… |
-| 2026-10-04 16:16:30 | [CVE-2026-105224](https://nvd.nist.gov/vuln/detail/CVE-2026-105224) | Medium | 5.1 | YesWiki before 4.6.7 contains a cross-site scripting vulnerability in the Bazar valeur action that allows page editors… |
+| 2026-10-04 18:16:33 | [CVE-2026-105161](https://nvd.nist.gov/vuln/detail/CVE-2026-105161) | Medium | 6.9 | A flaw has been found in invariant-systems-ai aiir up to 1.7.0. The affected element is an unknown function of the comp… |
+| 2026-10-04 18:16:34 | [CVE-2026-105216](https://nvd.nist.gov/vuln/detail/CVE-2026-105216) | Critical | 9.1 | go-micro before 6.0.0 contains an improper certificate validation vulnerability that allows network attackers to impers… |
+| 2026-10-04 18:16:34 | [CVE-2026-105217](https://nvd.nist.gov/vuln/detail/CVE-2026-105217) | Low | 2.3 | Cockpit CMS 2.12.0 before 2.14.1 disables TLS certificate verification in the cron.php web worker restart request, allo… |
+| 2026-10-04 18:16:34 | [CVE-2026-105218](https://nvd.nist.gov/vuln/detail/CVE-2026-105218) | Critical | 9.1 | gopay before 1.5.119 disables TLS certificate verification in defaultClient() in pkg/xhttp/client.go, allowing man-in-t… |
+| 2026-10-04 18:16:34 | [CVE-2026-105219](https://nvd.nist.gov/vuln/detail/CVE-2026-105219) | High | 8.7 | Mammoth.js 1.3.0 before 1.12.3 contains a regular expression denial of service vulnerability in the style map tokeniser… |
 
 ## Data source
 
