@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 18:18 UTC
+## Latest list — 2026-10-04 22:18 UTC
 
-New CVEs published between 2026-10-04 17:18 UTC and 2026-10-04 18:18 UTC.
+New CVEs published between 2026-10-04 21:18 UTC and 2026-10-04 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-04T18-18-38-881829Z.csv)
+[Full CSV](data/new-cves-2026-10-04T22-18-58-689149Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-04 18:16:33 | [CVE-2026-105161](https://nvd.nist.gov/vuln/detail/CVE-2026-105161) | Medium | 6.9 | A flaw has been found in invariant-systems-ai aiir up to 1.7.0. The affected element is an unknown function of the comp… |
-| 2026-10-04 18:16:34 | [CVE-2026-105216](https://nvd.nist.gov/vuln/detail/CVE-2026-105216) | Critical | 9.1 | go-micro before 6.0.0 contains an improper certificate validation vulnerability that allows network attackers to impers… |
-| 2026-10-04 18:16:34 | [CVE-2026-105217](https://nvd.nist.gov/vuln/detail/CVE-2026-105217) | Low | 2.3 | Cockpit CMS 2.12.0 before 2.14.1 disables TLS certificate verification in the cron.php web worker restart request, allo… |
-| 2026-10-04 18:16:34 | [CVE-2026-105218](https://nvd.nist.gov/vuln/detail/CVE-2026-105218) | Critical | 9.1 | gopay before 1.5.119 disables TLS certificate verification in defaultClient() in pkg/xhttp/client.go, allowing man-in-t… |
-| 2026-10-04 18:16:34 | [CVE-2026-105219](https://nvd.nist.gov/vuln/detail/CVE-2026-105219) | High | 8.7 | Mammoth.js 1.3.0 before 1.12.3 contains a regular expression denial of service vulnerability in the style map tokeniser… |
+| 2026-10-04 22:16:58 | [CVE-2026-105163](https://nvd.nist.gov/vuln/detail/CVE-2026-105163) | Medium | 6.9 | A vulnerability was detected in crossplane crossplane-runtime up to 2.2.2/2.3.2. This vulnerability affects the functio… |
+| 2026-10-04 22:16:59 | [CVE-2026-105164](https://nvd.nist.gov/vuln/detail/CVE-2026-105164) | Medium | 5.1 | A flaw has been found in NASA cFS up to 7.0.1. This issue affects the function CFE_FS_ParseInputFileNameEx of the file… |
 
 ## Data source
 
