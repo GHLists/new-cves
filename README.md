@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 03:19 UTC
+## Latest list — 2026-10-04 04:20 UTC
 
-New CVEs published between 2026-10-04 02:18 UTC and 2026-10-04 03:19 UTC.
+New CVEs published between 2026-10-04 03:19 UTC and 2026-10-04 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-04T03-19-32-377202Z.csv)
+[Full CSV](data/new-cves-2026-10-04T04-20-58-930319Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-04 03:16:49 | [CVE-2026-105097](https://nvd.nist.gov/vuln/detail/CVE-2026-105097) | Low | 2.1 | A vulnerability was identified in Omega Solution CoinEx Crypto 2025. This impacts an unknown function of the file /cust… |
+| 2026-10-04 04:16:36 | [CVE-2026-105098](https://nvd.nist.gov/vuln/detail/CVE-2026-105098) | Low | 2.1 | A security flaw has been discovered in Omega Solution CoinEx Crypto 2025. Affected is an unknown function of the file /… |
+| 2026-10-04 04:16:43 | [CVE-2026-88779](https://nvd.nist.gov/vuln/detail/CVE-2026-88779) | High | 8.7 | Vulnerability in NetScaler ADC and NetScaler Gateway. This issue affects ADC: before 14.1-73.41, before 13.1-64.28, bef… |
 
 ## Data source
 

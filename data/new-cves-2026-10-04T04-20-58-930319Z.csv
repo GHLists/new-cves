@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-04T04:16:36.14Z,CVE-2026-105098,LOW,2.1,Received,CWE-200; CWE-284,5,A security flaw has been discovered in Omega Solution CoinEx Crypto 2025. Affected is an unknown function of the file /ticket/customer of the component Support Ticket API. The manipulation of the argument status/page/count results in information disclosure. The attack can be executed remotely. The…
+2026-10-04T04:16:43.68Z,CVE-2026-88779,HIGH,8.7,Received,,1,"Vulnerability in NetScaler ADC and NetScaler Gateway. This issue affects ADC: before 14.1-73.41, before 13.1-64.28, before 14.1-73.41 FIPS, and before 13.1-37.282; Gateway: before 14.1-73.41 and before 13.1-64.28."
