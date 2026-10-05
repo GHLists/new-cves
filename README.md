@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 03:20 UTC
+## Latest list — 2026-10-05 04:18 UTC
 
-New CVEs published between 2026-10-05 02:18 UTC and 2026-10-05 03:20 UTC.
+New CVEs published between 2026-10-05 03:20 UTC and 2026-10-05 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T03-20-25-30384Z.csv)
+[Full CSV](data/new-cves-2026-10-05T04-18-37-033009Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 03:16:38 | [CVE-2026-105181](https://nvd.nist.gov/vuln/detail/CVE-2026-105181) | Low | 2.1 | A vulnerability was identified in itsourcecode Online Admission System 1.0. This issue affects some unknown processing… |
-| 2026-10-05 03:16:38 | [CVE-2026-105182](https://nvd.nist.gov/vuln/detail/CVE-2026-105182) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Online Reviewer Management System 1.0. Impacted is an unknown fun… |
-| 2026-10-05 03:16:38 | [CVE-2026-105183](https://nvd.nist.gov/vuln/detail/CVE-2026-105183) | Medium | 5.5 | A weakness has been identified in itsourcecode Online Admission System 1.0. The affected element is an unknown function… |
-| 2026-10-05 03:16:38 | [CVE-2026-105184](https://nvd.nist.gov/vuln/detail/CVE-2026-105184) | Medium | 5.5 | A security vulnerability has been detected in itsourcecode Online Admission System 1.0. The impacted element is an unkn… |
+| 2026-10-05 04:17:01 | [CVE-2026-105185](https://nvd.nist.gov/vuln/detail/CVE-2026-105185) | Medium | 5.5 | A vulnerability was detected in itsourcecode Online Admission System 1.0. This affects an unknown function of the file… |
+| 2026-10-05 04:17:07 | [CVE-2026-105186](https://nvd.nist.gov/vuln/detail/CVE-2026-105186) | Low | 2.1 | A flaw has been found in itsourcecode Online Admission System 1.0. This impacts an unknown function of the file /new.ph… |
+| 2026-10-05 04:17:07 | [CVE-2026-105187](https://nvd.nist.gov/vuln/detail/CVE-2026-105187) | Low | 2.1 | A vulnerability has been found in itsourcecode Online Admission System 1.0. Affected is an unknown function of the file… |
 
 ## Data source
 
