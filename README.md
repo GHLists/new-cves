@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 04:18 UTC
+## Latest list — 2026-10-05 05:19 UTC
 
-New CVEs published between 2026-10-05 03:20 UTC and 2026-10-05 04:18 UTC.
+New CVEs published between 2026-10-05 04:18 UTC and 2026-10-05 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T04-18-37-033009Z.csv)
+[Full CSV](data/new-cves-2026-10-05T05-19-31-729229Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 04:17:01 | [CVE-2026-105185](https://nvd.nist.gov/vuln/detail/CVE-2026-105185) | Medium | 5.5 | A vulnerability was detected in itsourcecode Online Admission System 1.0. This affects an unknown function of the file… |
-| 2026-10-05 04:17:07 | [CVE-2026-105186](https://nvd.nist.gov/vuln/detail/CVE-2026-105186) | Low | 2.1 | A flaw has been found in itsourcecode Online Admission System 1.0. This impacts an unknown function of the file /new.ph… |
-| 2026-10-05 04:17:07 | [CVE-2026-105187](https://nvd.nist.gov/vuln/detail/CVE-2026-105187) | Low | 2.1 | A vulnerability has been found in itsourcecode Online Admission System 1.0. Affected is an unknown function of the file… |
+| 2026-10-05 05:17:02 | [CVE-2026-105188](https://nvd.nist.gov/vuln/detail/CVE-2026-105188) | Low | 2.0 | A vulnerability was found in code-projects Human Resource Management System 1.0. Affected by this vulnerability is an u… |
+| 2026-10-05 05:17:02 | [CVE-2026-105225](https://nvd.nist.gov/vuln/detail/CVE-2026-105225) | Low | 1.9 | A vulnerability was identified in osCommerce osCommerce2 up to 2.3.4.1. This affects the function include of the file i… |
+| 2026-10-05 05:17:03 | [CVE-2026-105226](https://nvd.nist.gov/vuln/detail/CVE-2026-105226) | Low | 2.0 | A security flaw has been discovered in osCommerce osCommerce2 up to 2.3.4.1. This vulnerability affects the function in… |
+| 2026-10-05 05:17:03 | [CVE-2026-105229](https://nvd.nist.gov/vuln/detail/CVE-2026-105229) | Medium | 5.5 | A weakness has been identified in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f03d7d93/b3a70… |
 
 ## Data source
 
