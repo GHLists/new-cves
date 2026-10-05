@@ -9,21 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:18 UTC
+## Latest list — 2026-10-05 08:18 UTC
 
-New CVEs published between 2026-10-05 06:19 UTC and 2026-10-05 07:18 UTC.
+New CVEs published between 2026-10-05 07:18 UTC and 2026-10-05 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T07-18-39-868688Z.csv)
+[Full CSV](data/new-cves-2026-10-05T08-18-47-1169Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 07:16:29 | [CVE-2017-20285](https://nvd.nist.gov/vuln/detail/CVE-2017-20285) |  |  | YAML versions before 1.30 for Perl allow a loaded document to trigger the DESTROY method of arbitrary classes. A perl/h… |
-| 2026-10-05 07:16:29 | [CVE-2019-25777](https://nvd.nist.gov/vuln/detail/CVE-2019-25777) |  |  | YAML versions before 1.27_001 for Perl allow a loaded perl/glob document to replace any package variable, which can lea… |
-| 2026-10-05 07:16:29 | [CVE-2026-100727](https://nvd.nist.gov/vuln/detail/CVE-2026-100727) | Medium | 6.9 | An improper access control vulnerability exists in GROWI, which allow an unauthenticated attacker to read files contain… |
-| 2026-10-05 07:16:30 | [CVE-2026-105238](https://nvd.nist.gov/vuln/detail/CVE-2026-105238) | Medium | 5.5 | A flaw has been found in ChatGPTNextWeb NextChat up to 2.16.1. This vulnerability affects the function proxyHandler of… |
-| 2026-10-05 07:16:30 | [CVE-2026-105245](https://nvd.nist.gov/vuln/detail/CVE-2026-105245) | Low | 2.9 | A vulnerability has been found in sgl-project sglang up to 0.5.21. This issue affects the function server_info of the f… |
-| 2026-10-05 07:16:30 | [CVE-2026-105246](https://nvd.nist.gov/vuln/detail/CVE-2026-105246) | Medium | 5.5 | A vulnerability was found in SourceCodester Online Reviewer Management System 1.0. Impacted is an unknown function of t… |
-| 2026-10-05 07:16:30 | [CVE-2026-19954](https://nvd.nist.gov/vuln/detail/CVE-2026-19954) |  |  | Net::Whois::Raw versions before 2.99044 for Perl ship a pwhois command-line tool that queries WHOIS for the wrong domai… |
+| 2026-10-05 08:17:15 | [CVE-2026-105247](https://nvd.nist.gov/vuln/detail/CVE-2026-105247) | Medium | 5.5 | A vulnerability was determined in SourceCodester Online Reviewer Management System 1.0. The affected element is an unkn… |
+| 2026-10-05 08:17:15 | [CVE-2026-105248](https://nvd.nist.gov/vuln/detail/CVE-2026-105248) | Medium | 5.3 | A security flaw has been discovered in vgmstream up to r2117. This affects the function parse_params/txtp_parse of the… |
+| 2026-10-05 08:17:15 | [CVE-2026-105249](https://nvd.nist.gov/vuln/detail/CVE-2026-105249) | Low | 2.4 | A weakness has been identified in vgmstream up to r2117. This impacts the function make_group_random of the file src/me… |
+| 2026-10-05 08:17:15 | [CVE-2026-105250](https://nvd.nist.gov/vuln/detail/CVE-2026-105250) | Medium | 5.3 | A security vulnerability has been detected in vgmstream up to r2117. Affected is the function decode_ms_ima of the file… |
+| 2026-10-05 08:17:15 | [CVE-2026-105314](https://nvd.nist.gov/vuln/detail/CVE-2026-105314) | High | 7.5 | Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload cal… |
 
 ## Data source
 
