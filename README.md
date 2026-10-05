@@ -9,30 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 16:19 UTC
+## Latest list — 2026-10-05 17:18 UTC
 
-New CVEs published between 2026-10-05 15:18 UTC and 2026-10-05 16:19 UTC.
+New CVEs published between 2026-10-05 16:19 UTC and 2026-10-05 17:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T16-19-20-357345Z.csv)
+[Full CSV](data/new-cves-2026-10-05T17-18-57-991214Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 16:17:04 | [CVE-2026-102426](https://nvd.nist.gov/vuln/detail/CVE-2026-102426) | Medium | 5.3 | Joomla Extension - joomshaper.com - Reflected XSS in the Dynamic Content Filter addon in SP Page Builder Pro 3.0.0 - 5.… |
-| 2026-10-05 16:17:04 | [CVE-2026-102428](https://nvd.nist.gov/vuln/detail/CVE-2026-102428) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Joomla CCK < 8.3.16 - The order column for… |
-| 2026-10-05 16:17:04 | [CVE-2026-102775](https://nvd.nist.gov/vuln/detail/CVE-2026-102775) | High | 8.7 | Joomla Extension - phoca.cz - Authorisation bypass through user-controlled key (IDOR) in Order View in Phoca Cart 5.0.0… |
-| 2026-10-05 16:17:04 | [CVE-2026-102776](https://nvd.nist.gov/vuln/detail/CVE-2026-102776) | Medium | 5.1 | Joomla Extension - svenbluege.de - Cross-site request forgery of list tasks of the backend in Event Gallery extension <… |
-| 2026-10-05 16:17:04 | [CVE-2026-102778](https://nvd.nist.gov/vuln/detail/CVE-2026-102778) | Medium | 5.3 | Joomla Extension - svenbluege.de - Cross-site scripting and open redirect on the share mini page in Event Gallery exten… |
-| 2026-10-05 16:17:04 | [CVE-2026-102780](https://nvd.nist.gov/vuln/detail/CVE-2026-102780) | Medium | 6.9 | Joomla Extension - joomlafry.com - Unauthenticated cross-record publication and mass assignment in TF Content 2.9.0 - 2… |
-| 2026-10-05 16:17:06 | [CVE-2026-104890](https://nvd.nist.gov/vuln/detail/CVE-2026-104890) | High | 7.2 | Kunstmaan CMS is an open source content management system based on the Symfony framework. Prior to 7.3.2, src/Kunstmaan… |
-| 2026-10-05 16:17:06 | [CVE-2026-104891](https://nvd.nist.gov/vuln/detail/CVE-2026-104891) | High | 7.5 | mppx-condition-gate provides conditional free-access wrappers for mppx payment methods. Prior to @insumermodel/mppx-con… |
-| 2026-10-05 16:17:06 | [CVE-2026-104892](https://nvd.nist.gov/vuln/detail/CVE-2026-104892) | High | 8.7 | Plane is an open-source project management tool. Prior to 1.4.0, aPITokenLogMiddleware logs API keys in plaintext. This… |
-| 2026-10-05 16:17:12 | [CVE-2026-105329](https://nvd.nist.gov/vuln/detail/CVE-2026-105329) | Low | 2.1 | A vulnerability was determined in TallCMS up to 4.8.0. This affects an unknown function of the file packages/tallcms/cm… |
-| 2026-10-05 16:17:12 | [CVE-2026-105397](https://nvd.nist.gov/vuln/detail/CVE-2026-105397) | Medium | 5.1 | LearnPress plugin for WordPress through 4.4.9.1 contains a stored cross-site scripting vulnerability that allows authen… |
-| 2026-10-05 16:17:13 | [CVE-2026-37719](https://nvd.nist.gov/vuln/detail/CVE-2026-37719) |  |  | An issue in dormakaba evolo Service (all versions) allows a remote attacker to execute arbitrary code as SYSTEM via a .… |
-| 2026-10-05 16:17:16 | [CVE-2026-88393](https://nvd.nist.gov/vuln/detail/CVE-2026-88393) |  |  | WookTeam v1.6.6 and before is vulnerable to RCE in the project task export interface /api/project/task/export. The data… |
-| 2026-10-05 16:17:16 | [CVE-2026-88395](https://nvd.nist.gov/vuln/detail/CVE-2026-88395) |  |  | GouGuOA v6.0.5 and before is vulnerable to SQL Injection in /home/message/rubbish via the keywords parameter. |
-| 2026-10-05 16:17:17 | [CVE-2026-88396](https://nvd.nist.gov/vuln/detail/CVE-2026-88396) |  |  | ApiAdmin v5.0 and before is vulnerable to Directory Traversal. The admin file-upload endpoint POST /admin/Index/upload… |
-| 2026-10-05 16:17:17 | [CVE-2026-88397](https://nvd.nist.gov/vuln/detail/CVE-2026-88397) |  |  | ApiAdmin v.5.0 and before is vulnerable to SQL Injection in the user-list endpoint GET /admin/User/getUsers via the gid… |
+| 2026-10-05 17:17:08 | [CVE-2026-102282](https://nvd.nist.gov/vuln/detail/CVE-2026-102282) | High | 7.1 | adm-zip is a JavaScript library for creating and extracting ZIP archives in Node.js. Prior to 0.6.1, adm-zip applies th… |
+| 2026-10-05 17:17:09 | [CVE-2026-102777](https://nvd.nist.gov/vuln/detail/CVE-2026-102777) | Medium | 6.3 | Joomla Extension - svenbluege.de - Server-side request forgery in the Google Photos picker in Event Gallery extension <… |
+| 2026-10-05 17:17:10 | [CVE-2026-102779](https://nvd.nist.gov/vuln/detail/CVE-2026-102779) | Medium | 6.9 | Joomla Extension - joomlafry.com - Unauthenticated forced execution of published automation tasks in TF Content 2.9.0 -… |
+| 2026-10-05 17:17:10 | [CVE-2026-104893](https://nvd.nist.gov/vuln/detail/CVE-2026-104893) | Medium | 5.4 | Plane is an open-source project management tool. Prior to 1.4.0, GET /api/users/api-tokens/ allows an authenticated use… |
+| 2026-10-05 17:17:10 | [CVE-2026-104894](https://nvd.nist.gov/vuln/detail/CVE-2026-104894) | Medium | 4.3 | Plane is an open-source project management tool. Prior to 1.4.0, the modules endpoint accepts issue UUIDs in the URL pa… |
+| 2026-10-05 17:17:10 | [CVE-2026-104955](https://nvd.nist.gov/vuln/detail/CVE-2026-104955) | Medium | 5.4 | Plane is an open-source project management tool. Prior to 1.4.0, a Project Member with role 15 can send a PATCH request… |
+| 2026-10-05 17:17:11 | [CVE-2026-104956](https://nvd.nist.gov/vuln/detail/CVE-2026-104956) | Medium | 5.3 | Plane is an open-source project management tool. Prior to 1.4.0, the unauthenticated public issues endpoint accepts gro… |
+| 2026-10-05 17:17:11 | [CVE-2026-104960](https://nvd.nist.gov/vuln/detail/CVE-2026-104960) | Medium | 6.5 | Plane is an open-source project management tool. Prior to 1.4.0, Plane exposes the workspace-scoped GET /api/assets/v2/… |
+| 2026-10-05 17:17:11 | [CVE-2026-104961](https://nvd.nist.gov/vuln/detail/CVE-2026-104961) | Medium | 5.4 | Plane is an open-source project management tool. Prior to 1.4.0, WorkspaceOwnerPermission does not require is_active=Tr… |
+| 2026-10-05 17:17:11 | [CVE-2026-104962](https://nvd.nist.gov/vuln/detail/CVE-2026-104962) | Medium | 6.5 | Plane is an open-source project management tool. Prior to 1.4.0, GET /api/v1/workspaces/{slug}/projects/{project_id}/me… |
+| 2026-10-05 17:17:11 | [CVE-2026-104963](https://nvd.nist.gov/vuln/detail/CVE-2026-104963) | Medium | 4.3 | Plane is an open-source project management tool. Prior to 1.4.0, GET /api/workspaces/{slug}/cycles/ through WorkspaceCy… |
+| 2026-10-05 17:17:11 | [CVE-2026-104964](https://nvd.nist.gov/vuln/detail/CVE-2026-104964) | Medium | 6.8 | Plane is an open-source project management tool. Prior to 1.4.0, Plane's project update endpoint authorizes the caller… |
+| 2026-10-05 17:17:12 | [CVE-2026-104965](https://nvd.nist.gov/vuln/detail/CVE-2026-104965) | Medium | 5.4 | Plane is an open-source project management tool. Prior to 1.4.0, the issue-relation endpoint accepts issue UUIDs in the… |
+| 2026-10-05 17:17:12 | [CVE-2026-104966](https://nvd.nist.gov/vuln/detail/CVE-2026-104966) | High | 8.7 | Plane is an open-source project management tool. Prior to 1.4.0, two endpoint families fail to verify that nested resou… |
+| 2026-10-05 17:17:12 | [CVE-2026-104967](https://nvd.nist.gov/vuln/detail/CVE-2026-104967) | Medium | 5.4 | Plane is an open-source project management tool. Prior to 1.4.0, BulkDeleteIssuesEndpoint and SubIssuesEndpoint in apps… |
+| 2026-10-05 17:17:12 | [CVE-2026-104968](https://nvd.nist.gov/vuln/detail/CVE-2026-104968) | High | 8.7 | Plane is an open-source project management tool. Prior to 1.4.0, GET /api/workspaces/{slug}/entity-search/?query_type=u… |
+| 2026-10-05 17:17:12 | [CVE-2026-104969](https://nvd.nist.gov/vuln/detail/CVE-2026-104969) | Medium | 6.5 | Plane is an open-source project management tool. Prior to 1.4.0, the cycle-issues endpoint accepts issue UUIDs in the r… |
+| 2026-10-05 17:17:12 | [CVE-2026-104970](https://nvd.nist.gov/vuln/detail/CVE-2026-104970) | High | 8.1 | Plane is an open-source project management tool. From 0.13 until 1.4.0, InstanceAdminSignUpEndpoint in apps/api/plane/l… |
+| 2026-10-05 17:17:14 | [CVE-2026-105382](https://nvd.nist.gov/vuln/detail/CVE-2026-105382) | Medium | 5.5 | A flaw has been found in onetwothreeneth HospitalManagementSystem up to 9ef91ed6007314b6473110ed699dff76d158f61d. This… |
+| 2026-10-05 17:17:14 | [CVE-2026-105383](https://nvd.nist.gov/vuln/detail/CVE-2026-105383) | Medium | 5.5 | A vulnerability has been found in onetwothreeneth HospitalManagementSystem up to 9ef91ed6007314b6473110ed699dff76d158f6… |
+| 2026-10-05 17:17:14 | [CVE-2026-12171](https://nvd.nist.gov/vuln/detail/CVE-2026-12171) | High | 8.4 | auto-changelog before 2.6.1 merges configuration from inside the target repository (the .auto-changelog file and the au… |
+| 2026-10-05 17:17:16 | [CVE-2026-78412](https://nvd.nist.gov/vuln/detail/CVE-2026-78412) | Medium | 4.9 | Velociraptor's WatchEvent gRPC API can specify the OrgId of the org from which events should be streamed. The server ch… |
+| 2026-10-05 17:17:16 | [CVE-2026-86671](https://nvd.nist.gov/vuln/detail/CVE-2026-86671) | High | 8.4 | In Eclipse Che versions 7.29.0 and later, the GET `/api/scm/resolve` and `POST /api/factory/resolver` endpoints pass an… |
 
 ## Data source
 
