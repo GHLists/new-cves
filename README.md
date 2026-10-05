@@ -9,25 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 12:19 UTC
+## Latest list — 2026-10-05 13:18 UTC
 
-New CVEs published between 2026-10-05 11:18 UTC and 2026-10-05 12:19 UTC.
+New CVEs published between 2026-10-05 12:19 UTC and 2026-10-05 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T12-19-45-515176Z.csv)
+[Full CSV](data/new-cves-2026-10-05T13-18-59-326908Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 12:17:07 | [CVE-2026-103684](https://nvd.nist.gov/vuln/detail/CVE-2026-103684) | Medium | 5.3 | Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Conf… |
-| 2026-10-05 12:17:09 | [CVE-2026-105073](https://nvd.nist.gov/vuln/detail/CVE-2026-105073) | Medium | 5.3 | Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerability in Arraytics WP Event Solution… |
-| 2026-10-05 12:17:09 | [CVE-2026-105307](https://nvd.nist.gov/vuln/detail/CVE-2026-105307) | Medium | 5.5 | A vulnerability was detected in Casdoor up to 3.161.1. Affected is the function ApiFilter of the file routers/authz_fil… |
-| 2026-10-05 12:17:09 | [CVE-2026-105396](https://nvd.nist.gov/vuln/detail/CVE-2026-105396) | Medium | 5.3 | Heym before v0.0.112 contains a token leakage vulnerability in build_public_base_url() that allows unauthenticated atta… |
-| 2026-10-05 12:17:09 | [CVE-2026-39783](https://nvd.nist.gov/vuln/detail/CVE-2026-39783) | Medium | 4.3 | Missing Authorization vulnerability in WP SYNTEX Polylang polylang allows Retrieve Embedded Sensitive Data.This issue a… |
-| 2026-10-05 12:17:10 | [CVE-2026-63266](https://nvd.nist.gov/vuln/detail/CVE-2026-63266) | Medium | 6.8 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. Through such… |
-| 2026-10-05 12:17:10 | [CVE-2026-63267](https://nvd.nist.gov/vuln/detail/CVE-2026-63267) | Medium | 6.7 | LibreOffice Calc can link a cell range to an external csv data source, and the link is saved in the document. Such a li… |
-| 2026-10-05 12:17:10 | [CVE-2026-63268](https://nvd.nist.gov/vuln/detail/CVE-2026-63268) | Medium | 6.7 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A link of the… |
-| 2026-10-05 12:17:10 | [CVE-2026-63269](https://nvd.nist.gov/vuln/detail/CVE-2026-63269) | Medium | 6.7 | LibreOffice can link to audio and video files from a document, and on Linux it plays them with GStreamer. A linked medi… |
-| 2026-10-05 12:17:11 | [CVE-2026-63270](https://nvd.nist.gov/vuln/detail/CVE-2026-63270) | Medium | 6.7 | URLs could be constructed which expanded environment variable or INI file values, so potentially sensitive information… |
-| 2026-10-05 12:17:11 | [CVE-2026-63277](https://nvd.nist.gov/vuln/detail/CVE-2026-63277) | High | 8.5 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A document co… |
+| 2026-10-05 13:16:52 | [CVE-2026-105315](https://nvd.nist.gov/vuln/detail/CVE-2026-105315) | Low | 2.0 | A vulnerability has been found in django-haystack up to 3.3.0. Affected is the function _to_python of the file haystack… |
+| 2026-10-05 13:16:54 | [CVE-2026-77802](https://nvd.nist.gov/vuln/detail/CVE-2026-77802) | Medium | 6.3 | In Progress® Telerik® Fiddler® Classic for Windows, versions prior to v6.0.20262.10021, HTTP request smuggling is possi… |
+| 2026-10-05 13:16:54 | [CVE-2026-77803](https://nvd.nist.gov/vuln/detail/CVE-2026-77803) | Low | 3.6 | In Progress® Telerik® Fiddler® Classic for Windows, versions prior to v6.0.20262.10021, front-end request desynchroniza… |
+| 2026-10-05 13:16:54 | [CVE-2026-77804](https://nvd.nist.gov/vuln/detail/CVE-2026-77804) | Medium | 6.6 | In Progress® Telerik® Fiddler® Classic for Windows, versions prior to v6.0.20262.10021, a time-of-check time-of-use (TO… |
+| 2026-10-05 13:16:54 | [CVE-2026-77805](https://nvd.nist.gov/vuln/detail/CVE-2026-77805) | High | 7.9 | In Progress® Telerik® Fiddler® Classic for Windows, versions prior to v6.0.20262.10021, the integrity check applied to… |
 
 ## Data source
 
