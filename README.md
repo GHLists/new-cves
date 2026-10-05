@@ -9,18 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 05:19 UTC
+## Latest list — 2026-10-05 06:19 UTC
 
-New CVEs published between 2026-10-05 04:18 UTC and 2026-10-05 05:19 UTC.
+New CVEs published between 2026-10-05 05:19 UTC and 2026-10-05 06:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T05-19-31-729229Z.csv)
+[Full CSV](data/new-cves-2026-10-05T06-19-07-024356Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 05:17:02 | [CVE-2026-105188](https://nvd.nist.gov/vuln/detail/CVE-2026-105188) | Low | 2.0 | A vulnerability was found in code-projects Human Resource Management System 1.0. Affected by this vulnerability is an u… |
-| 2026-10-05 05:17:02 | [CVE-2026-105225](https://nvd.nist.gov/vuln/detail/CVE-2026-105225) | Low | 1.9 | A vulnerability was identified in osCommerce osCommerce2 up to 2.3.4.1. This affects the function include of the file i… |
-| 2026-10-05 05:17:03 | [CVE-2026-105226](https://nvd.nist.gov/vuln/detail/CVE-2026-105226) | Low | 2.0 | A security flaw has been discovered in osCommerce osCommerce2 up to 2.3.4.1. This vulnerability affects the function in… |
-| 2026-10-05 05:17:03 | [CVE-2026-105229](https://nvd.nist.gov/vuln/detail/CVE-2026-105229) | Medium | 5.5 | A weakness has been identified in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f03d7d93/b3a70… |
+| 2026-10-05 06:16:56 | [CVE-2026-105230](https://nvd.nist.gov/vuln/detail/CVE-2026-105230) | Medium | 5.5 | A security vulnerability has been detected in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f0… |
+| 2026-10-05 06:16:57 | [CVE-2026-105231](https://nvd.nist.gov/vuln/detail/CVE-2026-105231) | Medium | 5.5 | A vulnerability was detected in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f03d7d93/b3a70b2… |
+| 2026-10-05 06:16:57 | [CVE-2026-105232](https://nvd.nist.gov/vuln/detail/CVE-2026-105232) | Medium | 5.5 | A flaw has been found in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f03d7d93/b3a70b2c492dc9… |
+| 2026-10-05 06:16:57 | [CVE-2026-105233](https://nvd.nist.gov/vuln/detail/CVE-2026-105233) | Low | 2.1 | A vulnerability has been found in kishor-23 food-waste-management-system 411989e3ecb82895e53dca7865f72145f03d7d93/b3a70… |
+| 2026-10-05 06:16:57 | [CVE-2026-105237](https://nvd.nist.gov/vuln/detail/CVE-2026-105237) | Low | 2.9 | A vulnerability was detected in linlinjava litemall up to 1.8.0. This affects an unknown part of the file litemall-admi… |
+| 2026-10-05 06:16:58 | [CVE-2026-105301](https://nvd.nist.gov/vuln/detail/CVE-2026-105301) | Medium | 4.0 | A flaw was found in the X.509 client-certificate authenticator of Keycloak, a solution for identity and access manageme… |
+| 2026-10-05 06:16:58 | [CVE-2026-105302](https://nvd.nist.gov/vuln/detail/CVE-2026-105302) | Medium | 5.7 | A flaw was found in the User Session Note mapper of the Keycloak identity and access management solution. The issue occ… |
+| 2026-10-05 06:16:58 | [CVE-2026-105306](https://nvd.nist.gov/vuln/detail/CVE-2026-105306) | Medium | 6.5 | A flaw was found in the Dynamic Client Registration flow of the Keycloak identity and access management server. The iss… |
+| 2026-10-05 06:16:58 | [CVE-2026-13607](https://nvd.nist.gov/vuln/detail/CVE-2026-13607) |  |  | The File Uploads Addon for WooCommerce WordPress plugin through 1.7.6 stores customer-uploaded files in a publicly web-… |
+| 2026-10-05 06:16:58 | [CVE-2026-78371](https://nvd.nist.gov/vuln/detail/CVE-2026-78371) |  |  | The File Uploads Addon for WooCommerce WordPress plugin before 1.7.6 does not verify that the person requesting a custo… |
+| 2026-10-05 06:16:59 | [CVE-2026-84169](https://nvd.nist.gov/vuln/detail/CVE-2026-84169) |  |  | The UPI QR Code Payment Gateway WordPress plugin through 1.4.3 does not verify that a payment-confirmation request actu… |
 
 ## Data source
 
