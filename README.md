@@ -9,33 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:19 UTC
+## Latest list — 2026-10-05 23:20 UTC
 
-New CVEs published between 2026-10-05 21:19 UTC and 2026-10-05 22:19 UTC.
+New CVEs published between 2026-10-05 22:19 UTC and 2026-10-05 23:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T22-19-11-490352Z.csv)
+[Full CSV](data/new-cves-2026-10-05T23-20-05-064261Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 22:16:55 | [CVE-2026-0461](https://nvd.nist.gov/vuln/detail/CVE-2026-0461) | High | 7.5 | Insufficient boundary validation in the USB boot mode implementation of AMD Zynq™ UltraScale+ MPSoC and RFSoC devices c… |
-| 2026-10-05 22:16:56 | [CVE-2026-0482](https://nvd.nist.gov/vuln/detail/CVE-2026-0482) | Medium | 5.4 | In AMD Versal™ Adaptive SoC devices, insufficient boundary checks in USB boot mode—when enabled through board modificat… |
-| 2026-10-05 22:16:56 | [CVE-2026-103433](https://nvd.nist.gov/vuln/detail/CVE-2026-103433) | Medium | 6.9 | Docker Buildx Bake does not request the expected fs.read approval for certain filesystem inputs. An untrusted Bake defi… |
-| 2026-10-05 22:16:56 | [CVE-2026-103546](https://nvd.nist.gov/vuln/detail/CVE-2026-103546) | Low | 2.3 | In MongoDB Controllers for Kubernetes, insufficient validation of Ops Manager backup configuration may allow a user who… |
-| 2026-10-05 22:16:56 | [CVE-2026-105468](https://nvd.nist.gov/vuln/detail/CVE-2026-105468) | Medium | 5.5 | A vulnerability was found in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c999a4… |
-| 2026-10-05 22:16:56 | [CVE-2026-105742](https://nvd.nist.gov/vuln/detail/CVE-2026-105742) | Low | 3.7 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105743](https://nvd.nist.gov/vuln/detail/CVE-2026-105743) | Medium | 4.0 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105744](https://nvd.nist.gov/vuln/detail/CVE-2026-105744) | High | 7.5 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105745](https://nvd.nist.gov/vuln/detail/CVE-2026-105745) | Medium | 6.7 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105746](https://nvd.nist.gov/vuln/detail/CVE-2026-105746) | Low | 2.2 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105747](https://nvd.nist.gov/vuln/detail/CVE-2026-105747) | Medium | 4.3 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105748](https://nvd.nist.gov/vuln/detail/CVE-2026-105748) | Medium | 4.3 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:57 | [CVE-2026-105749](https://nvd.nist.gov/vuln/detail/CVE-2026-105749) | Medium | 6.5 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:58 | [CVE-2026-105750](https://nvd.nist.gov/vuln/detail/CVE-2026-105750) | Medium | 5.9 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:58 | [CVE-2026-105751](https://nvd.nist.gov/vuln/detail/CVE-2026-105751) | Medium | 6.9 | Docling simplifies document processing by parsing diverse formats and providing integrations with the generative AI eco… |
-| 2026-10-05 22:16:58 | [CVE-2026-21589](https://nvd.nist.gov/vuln/detail/CVE-2026-21589) | Critical | 9.3 | h3. Summary This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Cent… |
-| 2026-10-05 22:16:58 | [CVE-2026-91107](https://nvd.nist.gov/vuln/detail/CVE-2026-91107) | Critical | 9.3 | openSIS Classic 9.3 allows an authenticated user with the built-in teacher role can select an arbitrary staff record th… |
-| 2026-10-05 22:16:58 | [CVE-2026-93315](https://nvd.nist.gov/vuln/detail/CVE-2026-93315) | Medium | 5.8 | When proxy networking with CA injection is enabled, a build can modify its CA bundle before cleanup. This may cause cle… |
-| 2026-10-05 22:16:58 | [CVE-2026-93321](https://nvd.nist.gov/vuln/detail/CVE-2026-93321) | Medium | 6.9 | A malicious frontend can submit an LLB definition that causes buildkitd to panic and terminate, interrupting all builds… |
+| 2026-10-05 23:17:00 | [CVE-2026-104852](https://nvd.nist.gov/vuln/detail/CVE-2026-104852) | High | 8.2 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to 12.0.1, the GraphQL Too… |
+| 2026-10-05 23:17:01 | [CVE-2026-105469](https://nvd.nist.gov/vuln/detail/CVE-2026-105469) | Medium | 5.5 | A vulnerability was determined in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
+| 2026-10-05 23:17:01 | [CVE-2026-105470](https://nvd.nist.gov/vuln/detail/CVE-2026-105470) | Medium | 5.5 | A vulnerability was identified in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
+| 2026-10-05 23:17:01 | [CVE-2026-105752](https://nvd.nist.gov/vuln/detail/CVE-2026-105752) | Low | 3.1 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, Harmony tool continuations submitte… |
+| 2026-10-05 23:17:01 | [CVE-2026-105753](https://nvd.nist.gov/vuln/detail/CVE-2026-105753) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. Prior to 0.28.0, the default mirrored multimodal LRU… |
+| 2026-10-05 23:17:02 | [CVE-2026-105754](https://nvd.nist.gov/vuln/detail/CVE-2026-105754) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, the /inference/v1/generate endpoint… |
+| 2026-10-05 23:17:02 | [CVE-2026-105755](https://nvd.nist.gov/vuln/detail/CVE-2026-105755) | Medium | 4.2 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, flash late-interaction scoring at t… |
+| 2026-10-05 23:17:02 | [CVE-2026-105756](https://nvd.nist.gov/vuln/detail/CVE-2026-105756) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, OpenAI-compatible request models ac… |
+| 2026-10-05 23:17:02 | [CVE-2026-105757](https://nvd.nist.gov/vuln/detail/CVE-2026-105757) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, structured-output request failures… |
+| 2026-10-05 23:17:02 | [CVE-2026-105758](https://nvd.nist.gov/vuln/detail/CVE-2026-105758) | Medium | 5.3 | vLLM is an inference and serving engine for large language models. From 0.24.0 until 0.30.0, the Qwen2VLVideoBackend an… |
+| 2026-10-05 23:17:02 | [CVE-2026-105759](https://nvd.nist.gov/vuln/detail/CVE-2026-105759) | Medium | 5.9 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, the Rust frontend's track_http_metr… |
+| 2026-10-05 23:17:02 | [CVE-2026-105760](https://nvd.nist.gov/vuln/detail/CVE-2026-105760) | Medium | 5.3 | vLLM is an inference and serving engine for large language models. Prior to 0.30.0, a caller can use the request-level… |
+| 2026-10-05 23:17:03 | [CVE-2026-105761](https://nvd.nist.gov/vuln/detail/CVE-2026-105761) | High | 7.1 | Dify is an open-source LLM app development platform. Prior to 1.16.0, the PUT /console/api/apps/&lt;app_id&gt;/server e… |
 
 ## Data source
 
