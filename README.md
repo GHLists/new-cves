@@ -9,25 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 11:18 UTC
+## Latest list — 2026-10-05 12:19 UTC
 
-New CVEs published between 2026-10-05 10:18 UTC and 2026-10-05 11:18 UTC.
+New CVEs published between 2026-10-05 11:18 UTC and 2026-10-05 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-05T11-18-37-507157Z.csv)
+[Full CSV](data/new-cves-2026-10-05T12-19-45-515176Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-05 11:16:46 | [CVE-2026-105289](https://nvd.nist.gov/vuln/detail/CVE-2026-105289) | Low | 2.0 | A vulnerability was found in feelec-yishu feelcrm-os 1.0.0. Affected by this issue is the function htmlspecialchars_dec… |
-| 2026-10-05 11:16:46 | [CVE-2026-105290](https://nvd.nist.gov/vuln/detail/CVE-2026-105290) | Medium | 5.5 | A vulnerability was determined in feelec-yishu feelcrm-os 1.0.0. This affects an unknown part of the file App/Feelcrm/I… |
-| 2026-10-05 11:16:46 | [CVE-2026-105291](https://nvd.nist.gov/vuln/detail/CVE-2026-105291) | Low | 2.1 | A vulnerability was identified in feelec-yishu feelcrm-os 1.0.0. This vulnerability affects the function GroupControlle… |
-| 2026-10-05 11:16:53 | [CVE-2026-39763](https://nvd.nist.gov/vuln/detail/CVE-2026-39763) | Medium | 4.3 | Missing Authorization vulnerability in Deepak Anand WP Dummy Content Generator wp-dummy-content-generator allows Exploi… |
-| 2026-10-05 11:16:59 | [CVE-2026-59782](https://nvd.nist.gov/vuln/detail/CVE-2026-59782) | Medium | 6.9 | The JavaScript preprocessing (Duktape) engine on Zabbix server has a vulnerability where a limited administrator is abl… |
-| 2026-10-05 11:16:59 | [CVE-2026-59783](https://nvd.nist.gov/vuln/detail/CVE-2026-59783) | Low | 2.3 | The Zabbix Server/Proxy has a vulnerability where binary items can crash the Server/Proxy on certain NULL byte input le… |
-| 2026-10-05 11:16:59 | [CVE-2026-59785](https://nvd.nist.gov/vuln/detail/CVE-2026-59785) | Medium | 5.1 | Host search in Frontend allows filtering by fields that are not displayed, including stored IPMI and PSK credentials. A… |
-| 2026-10-05 11:16:59 | [CVE-2026-59786](https://nvd.nist.gov/vuln/detail/CVE-2026-59786) | Medium | 6.9 | Zabbix Server and Proxy accept the active agent heartbeat message regardless of the configured PSK or certificate authe… |
-| 2026-10-05 11:16:59 | [CVE-2026-59787](https://nvd.nist.gov/vuln/detail/CVE-2026-59787) | Medium | 5.3 | The Perl SNMP trap receiver script shipped with Zabbix does not properly neutralize the ZBXTRAP record delimiter in tra… |
-| 2026-10-05 11:17:00 | [CVE-2026-59788](https://nvd.nist.gov/vuln/detail/CVE-2026-59788) | Medium | 5.7 | The email media type OAuth form passes the Authorization endpoint value to window.open() without validating the URL sch… |
-| 2026-10-05 11:17:01 | [CVE-2026-94669](https://nvd.nist.gov/vuln/detail/CVE-2026-94669) | Medium | 5.3 | Missing Authorization vulnerability in WP ManageNinja LLC Fluent Forms Pro Add On Pack fluentformpro allows Exploiting… |
+| 2026-10-05 12:17:07 | [CVE-2026-103684](https://nvd.nist.gov/vuln/detail/CVE-2026-103684) | Medium | 5.3 | Missing Authorization vulnerability in Arraytics WP Event Solution wp-event-solution allows Exploiting Incorrectly Conf… |
+| 2026-10-05 12:17:09 | [CVE-2026-105073](https://nvd.nist.gov/vuln/detail/CVE-2026-105073) | Medium | 5.3 | Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerability in Arraytics WP Event Solution… |
+| 2026-10-05 12:17:09 | [CVE-2026-105307](https://nvd.nist.gov/vuln/detail/CVE-2026-105307) | Medium | 5.5 | A vulnerability was detected in Casdoor up to 3.161.1. Affected is the function ApiFilter of the file routers/authz_fil… |
+| 2026-10-05 12:17:09 | [CVE-2026-105396](https://nvd.nist.gov/vuln/detail/CVE-2026-105396) | Medium | 5.3 | Heym before v0.0.112 contains a token leakage vulnerability in build_public_base_url() that allows unauthenticated atta… |
+| 2026-10-05 12:17:09 | [CVE-2026-39783](https://nvd.nist.gov/vuln/detail/CVE-2026-39783) | Medium | 4.3 | Missing Authorization vulnerability in WP SYNTEX Polylang polylang allows Retrieve Embedded Sensitive Data.This issue a… |
+| 2026-10-05 12:17:10 | [CVE-2026-63266](https://nvd.nist.gov/vuln/detail/CVE-2026-63266) | Medium | 6.8 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. Through such… |
+| 2026-10-05 12:17:10 | [CVE-2026-63267](https://nvd.nist.gov/vuln/detail/CVE-2026-63267) | Medium | 6.7 | LibreOffice Calc can link a cell range to an external csv data source, and the link is saved in the document. Such a li… |
+| 2026-10-05 12:17:10 | [CVE-2026-63268](https://nvd.nist.gov/vuln/detail/CVE-2026-63268) | Medium | 6.7 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A link of the… |
+| 2026-10-05 12:17:10 | [CVE-2026-63269](https://nvd.nist.gov/vuln/detail/CVE-2026-63269) | Medium | 6.7 | LibreOffice can link to audio and video files from a document, and on Linux it plays them with GStreamer. A linked medi… |
+| 2026-10-05 12:17:11 | [CVE-2026-63270](https://nvd.nist.gov/vuln/detail/CVE-2026-63270) | Medium | 6.7 | URLs could be constructed which expanded environment variable or INI file values, so potentially sensitive information… |
+| 2026-10-05 12:17:11 | [CVE-2026-63277](https://nvd.nist.gov/vuln/detail/CVE-2026-63277) | High | 8.5 | LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A document co… |
 
 ## Data source
 
