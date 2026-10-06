@@ -9,34 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:19 UTC
+## Latest list — 2026-10-06 16:19 UTC
 
-New CVEs published between 2026-10-06 14:18 UTC and 2026-10-06 15:19 UTC.
+New CVEs published between 2026-10-06 15:19 UTC and 2026-10-06 16:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-06T15-19-51-667798Z.csv)
+[Full CSV](data/new-cves-2026-10-06T16-19-19-965427Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-06 15:17:10 | [CVE-2025-8352](https://nvd.nist.gov/vuln/detail/CVE-2025-8352) | Medium | 6.9 | Allocation of resources without limits or throttling vulnerability in ESET PROTECT On-Prem increased resource consumpti… |
-| 2026-10-06 15:17:12 | [CVE-2026-104069](https://nvd.nist.gov/vuln/detail/CVE-2026-104069) | High | 8.6 | HortusFox before 6.2 contains a remote code execution vulnerability in ThemeModule::startImport() where an uploaded ZIP… |
-| 2026-10-06 15:17:15 | [CVE-2026-105791](https://nvd.nist.gov/vuln/detail/CVE-2026-105791) | High | 7.5 | Microsoft UFO is an open-source framework for intelligent automation across devices and platforms. Prior to 3.0.9, the… |
-| 2026-10-06 15:17:15 | [CVE-2026-105792](https://nvd.nist.gov/vuln/detail/CVE-2026-105792) | Medium | 6.5 | Microsoft UFO is an open-source framework for intelligent automation across devices and platforms. Prior to 3.0.9, the… |
-| 2026-10-06 15:17:16 | [CVE-2026-105793](https://nvd.nist.gov/vuln/detail/CVE-2026-105793) | Critical | 9.1 | Microsoft UFO is an open-source framework for intelligent automation across devices and platforms. Prior to 3.0.9, the… |
-| 2026-10-06 15:17:16 | [CVE-2026-105794](https://nvd.nist.gov/vuln/detail/CVE-2026-105794) | Critical | 9.1 | MsQuic is a cross-platform C implementation of the IETF QUIC protocol exposed to C, C++, C#, and Rust. Prior to 2.4.20,… |
-| 2026-10-06 15:17:16 | [CVE-2026-105795](https://nvd.nist.gov/vuln/detail/CVE-2026-105795) | Low | 3.1 | Kiota is an OpenAPI based HTTP Client code generator. From 1.25.1 until 1.35.0, Kiota copies x-ai-capabilities.response… |
-| 2026-10-06 15:17:16 | [CVE-2026-105796](https://nvd.nist.gov/vuln/detail/CVE-2026-105796) | High | 8.8 | Kiota is an OpenAPI based HTTP Client code generator. From 0.5.0 until 1.35.0, Kiota's Java and PHP documentation-comme… |
-| 2026-10-06 15:17:16 | [CVE-2026-105797](https://nvd.nist.gov/vuln/detail/CVE-2026-105797) | High | 8.8 | SimpleChat is a secure AI conversation application with personal and group workspaces for document-grounded interaction… |
-| 2026-10-06 15:17:16 | [CVE-2026-105798](https://nvd.nist.gov/vuln/detail/CVE-2026-105798) | High | 8.7 | SimpleChat is a secure AI conversation application with personal and group workspaces for document-grounded interaction… |
-| 2026-10-06 15:17:17 | [CVE-2026-105799](https://nvd.nist.gov/vuln/detail/CVE-2026-105799) | Low | 2.3 | LangChain is a framework for building LLM-powered applications. Prior to 1.1.1, @langchain/redis does not escape attack… |
-| 2026-10-06 15:17:17 | [CVE-2026-105800](https://nvd.nist.gov/vuln/detail/CVE-2026-105800) | Low | 3.7 | i18next-http-backend is a backend layer for i18next that loads translation resources in Node.js, browsers, and Deno. Pr… |
-| 2026-10-06 15:17:17 | [CVE-2026-105801](https://nvd.nist.gov/vuln/detail/CVE-2026-105801) | High | 8.4 | openapi-python-client generates Python clients from OpenAPI documents. Prior to 0.29.1, the generator does not safely n… |
-| 2026-10-06 15:17:17 | [CVE-2026-105921](https://nvd.nist.gov/vuln/detail/CVE-2026-105921) | Low | 2.1 | A vulnerability was identified in Kusalkasilva Learning-Management-System up to ffeb873f8803f1e9664384ff75000c7da45466d… |
-| 2026-10-06 15:17:17 | [CVE-2026-105922](https://nvd.nist.gov/vuln/detail/CVE-2026-105922) | Low | 2.1 | A security flaw has been discovered in vllm-project vLLM up to 0.31.0. This impacts the function get_token_bin_counts_a… |
-| 2026-10-06 15:17:18 | [CVE-2026-54472](https://nvd.nist.gov/vuln/detail/CVE-2026-54472) | Critical | 9.8 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Use of Hard-coded Credentials vulnerability in… |
-| 2026-10-06 15:17:18 | [CVE-2026-61421](https://nvd.nist.gov/vuln/detail/CVE-2026-61421) | Critical | 9.8 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Use of Hard-coded Credentials vulnerability in… |
-| 2026-10-06 15:17:18 | [CVE-2026-63688](https://nvd.nist.gov/vuln/detail/CVE-2026-63688) | Critical | 10.0 | Dell Container Storage Modules (CSM), versions prior to v1.18.0, contains a Missing Authentication for Critical Functio… |
-| 2026-10-06 15:17:19 | [CVE-2026-63692](https://nvd.nist.gov/vuln/detail/CVE-2026-63692) | Critical | 10.0 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) a Missing Authentication for Critical Function vul… |
-| 2026-10-06 15:17:19 | [CVE-2026-67269](https://nvd.nist.gov/vuln/detail/CVE-2026-67269) | Critical | 9.9 | Dell Container Storage Modules (CSM) Operator, versions prior to 1.18.0 contains an Improper Privilege Management vulne… |
+| 2026-10-06 16:17:05 | [CVE-2026-105804](https://nvd.nist.gov/vuln/detail/CVE-2026-105804) | Medium | 5.7 | Payload is a free and open source headless content management system. Payload versions from 3.0.0 before 3.90.0 and can… |
+| 2026-10-06 16:17:06 | [CVE-2026-105805](https://nvd.nist.gov/vuln/detail/CVE-2026-105805) | Medium | 6.9 | Payload is a free and open source headless content management system. In versions before 3.88.0 and canary versions bef… |
+| 2026-10-06 16:17:06 | [CVE-2026-105806](https://nvd.nist.gov/vuln/detail/CVE-2026-105806) | High | 8.6 | Payload is a free and open source headless content management system. In @payloadcms/plugin-mcp versions from 3.61.0 un… |
+| 2026-10-06 16:17:06 | [CVE-2026-105844](https://nvd.nist.gov/vuln/detail/CVE-2026-105844) | Critical | 9.3 | Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary v… |
+| 2026-10-06 16:17:06 | [CVE-2026-105845](https://nvd.nist.gov/vuln/detail/CVE-2026-105845) | Critical | 9.8 | Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary v… |
+| 2026-10-06 16:17:06 | [CVE-2026-105950](https://nvd.nist.gov/vuln/detail/CVE-2026-105950) | Medium | 5.1 | A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer:… |
+| 2026-10-06 16:17:07 | [CVE-2026-26287](https://nvd.nist.gov/vuln/detail/CVE-2026-26287) | High | 7.1 | External Secrets Operator reads information from a third-party service and automatically injects the values as Kubernet… |
+| 2026-10-06 16:17:08 | [CVE-2026-61411](https://nvd.nist.gov/vuln/detail/CVE-2026-61411) | High | 7.7 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Insertion of Sensitive Information into Log Fil… |
+| 2026-10-06 16:17:08 | [CVE-2026-63689](https://nvd.nist.gov/vuln/detail/CVE-2026-63689) | Medium | 6.5 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Insertion of Sensitive Information into Log Fil… |
+| 2026-10-06 16:17:09 | [CVE-2026-63690](https://nvd.nist.gov/vuln/detail/CVE-2026-63690) | Medium | 5.4 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) a Missing Authentication for Critical Function vul… |
+| 2026-10-06 16:17:09 | [CVE-2026-63691](https://nvd.nist.gov/vuln/detail/CVE-2026-63691) | Medium | 6.1 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) a Missing Authorization vulnerability in the Dell… |
+| 2026-10-06 16:17:09 | [CVE-2026-67270](https://nvd.nist.gov/vuln/detail/CVE-2026-67270) | High | 8.2 | Dell Container Storage Modules (CSM) versions prior to 1.18.0, contains an Improper Certificate Validation vulnerabilit… |
+| 2026-10-06 16:17:09 | [CVE-2026-67273](https://nvd.nist.gov/vuln/detail/CVE-2026-67273) | Critical | 9.6 | Dell Container Storage Modules, versions prior to 1.18.0, contain(s) an Improper Neutralization of Special Elements Use… |
+| 2026-10-06 16:17:09 | [CVE-2026-70411](https://nvd.nist.gov/vuln/detail/CVE-2026-70411) | High | 7.1 | Dell Container Storage Modules (CSM), versions prior to 1.18.0, contains a Missing Authentication for Critical Function… |
+| 2026-10-06 16:17:10 | [CVE-2026-76105](https://nvd.nist.gov/vuln/detail/CVE-2026-76105) | High | 7.7 | Dell Container Storage Modules, versions prior to 1.18.0 contain(s) an Use of Insufficiently Random Values vulnerabilit… |
 
 ## Data source
 
