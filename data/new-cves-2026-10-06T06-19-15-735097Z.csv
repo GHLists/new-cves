@@ -1,0 +1,14 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-06T06:16:59.313Z,CVE-2026-105072,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in FluentBooking Pro < 2.5.0 versions.
+2026-10-06T06:17:00.03Z,CVE-2026-105708,LOW,2.1,Received,CWE-79; CWE-94,6,A flaw has been found in imgproxy up to 4.0.17. Affected by this vulnerability is the function sanitizeElement of the file processing/svg/svg.go of the component SVG Handler. Executing a manipulation can lead to cross site scripting. It is possible to launch the attack remotely. The exploit has bee…
+2026-10-06T06:17:00.28Z,CVE-2026-105775,LOW,2.1,Received,CWE-119; CWE-125,6,A security vulnerability has been detected in vllm-project vLLM up to 0.31.0. This impacts the function conv_ssm_forward of the file vllm/model_executor/layers/mamba/mamba_mixer2.py of the component Completions Request Handler. The manipulation leads to out-of-bounds read. The attack is possible to…
+2026-10-06T06:17:00.5Z,CVE-2026-32576,MEDIUM,6.5,Received,CWE-639,1,Customer Insecure Direct Object References (IDOR) in Faktur Pro for WooCommerce <= 3.2.1 versions.
+2026-10-06T06:17:00.66Z,CVE-2026-32582,MEDIUM,6.5,Received,CWE-862,1,Contributor Broken Access Control in IATO MCP <= 1.11.0 versions.
+2026-10-06T06:17:00.803Z,CVE-2026-39599,MEDIUM,4.3,Received,CWE-862,1,Contributor Broken Access Control in WDS MCP Content Manager <= 3.10.4 versions.
+2026-10-06T06:17:00.947Z,CVE-2026-39723,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Morning for WooCommerce <= 2.4.1 versions.
+2026-10-06T06:17:01.087Z,CVE-2026-39760,HIGH,7.1,Received,CWE-79,1,Unauthenticated Cross Site Scripting (XSS) in Real 3D FlipBook <= 5.5 versions.
+2026-10-06T06:17:01.227Z,CVE-2026-39789,HIGH,7.5,Received,CWE-862,1,Unauthenticated Broken Access Control in Fluent Affiliate Pro <= 1.6.4 versions.
+2026-10-06T06:17:01.37Z,CVE-2026-41558,HIGH,7.5,Received,CWE-290,1,Subscriber Bypass Vulnerability in WP Migration Plugin DB & Files – WP Synchro <= 1.16.1 versions.
+2026-10-06T06:17:01.53Z,CVE-2026-41563,HIGH,7.5,Received,CWE-201,1,Unauthenticated Sensitive Data Exposure in Sitemovr <= 1.0.1 versions.
+2026-10-06T06:17:01.687Z,CVE-2026-75962,HIGH,7.2,Received,CWE-79,8,"The Post SMTP – Complete Email Deliverability and SMTP Solution with Email Logs, Alerts, Backup SMTP & Mobile App plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'user_email' parameter in all versions up to, and including, 4.0.1 due to insufficient input sanitization and o…"
+2026-10-06T06:17:02.11Z,CVE-2026-97300,MEDIUM,6.5,Received,CWE-799,1,Unauthenticated Broken Access Control in WP Event Solution <= 4.1.25 versions.
