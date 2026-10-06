@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-06T10:16:52.117Z,CVE-2026-80327,MEDIUM,5.1,Received,CWE-601,3,"An open redirect vulnerability exists in the PingGateway Fragment Filter feature. This issue affects PingGateway versions 7.1.0 and later, 2023.2.0 through 2024.11.1, and 2025.3.0 through 2025.11.1. It is fixed in versions 2024.11.2, 2025.11.2, and 2026.3.0 (and later)."
+2026-10-06T10:16:54.23Z,CVE-2026-84854,HIGH,7.0,Received,CWE-787,1,"In the WibuKey driver for Windows below Version 6.72, insufficient validation of user input when calculating the size of a kernel buffer could cause small amounts of data to be written outside the intended kernel buffer. This can lead to a system crash. Under unfavorable circumstances, adjacent ker…"
