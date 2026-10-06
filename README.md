@@ -9,24 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 01:19 UTC
+## Latest list — 2026-10-06 02:19 UTC
 
-New CVEs published between 2026-10-06 00:18 UTC and 2026-10-06 01:19 UTC.
+New CVEs published between 2026-10-06 01:19 UTC and 2026-10-06 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-06T01-19-11-39582Z.csv)
+[Full CSV](data/new-cves-2026-10-06T02-19-57-430165Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-06 01:16:33 | [CVE-2026-104031](https://nvd.nist.gov/vuln/detail/CVE-2026-104031) | Medium | 5.5 | A flaw was found in SSSD. In configurations where the autofs responder service is enabled, memory allocated during succ… |
-| 2026-10-06 01:16:33 | [CVE-2026-104032](https://nvd.nist.gov/vuln/detail/CVE-2026-104032) | Medium | 5.5 | A flaw was found in SSSD. An unprivileged local user can repeatedly request master automount map updates through the au… |
-| 2026-10-06 01:16:34 | [CVE-2026-104033](https://nvd.nist.gov/vuln/detail/CVE-2026-104033) | Medium | 5.4 | A flaw was found in SSSD. When configured to enforce account expiration using LDAP (Lightweight Directory Access Protoc… |
-| 2026-10-06 01:16:34 | [CVE-2026-104034](https://nvd.nist.gov/vuln/detail/CVE-2026-104034) | Medium | 4.7 | A flaw was found in SSSD. A use-after-free vulnerability exists in the Kerberos Credential Manager (KCM) responder duri… |
-| 2026-10-06 01:16:34 | [CVE-2026-104035](https://nvd.nist.gov/vuln/detail/CVE-2026-104035) | Medium | 5.5 | A flaw was found in SSSD. An issue in the Kerberos Credential Manager (KCM) responder allows a local user to cause a De… |
-| 2026-10-06 01:16:34 | [CVE-2026-104036](https://nvd.nist.gov/vuln/detail/CVE-2026-104036) | Medium | 5.8 | A flaw was found in SSSD's NFS idmap plugin. When retrieving cached user or group names, the plugin detects if an entry… |
-| 2026-10-06 01:16:34 | [CVE-2026-104037](https://nvd.nist.gov/vuln/detail/CVE-2026-104037) | Medium | 5.5 | A flaw was found in SSSD. A local attacker can exploit this issue by sending a specially crafted request with an invali… |
-| 2026-10-06 01:16:34 | [CVE-2026-104038](https://nvd.nist.gov/vuln/detail/CVE-2026-104038) | Medium | 5.9 | A flaw was found in sssd. A remote attacker can cause a denial of service (DoS) by submitting a certificate that lacks… |
-| 2026-10-06 01:16:35 | [CVE-2026-105472](https://nvd.nist.gov/vuln/detail/CVE-2026-105472) | Low | 2.1 | A weakness has been identified in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
-| 2026-10-06 01:16:36 | [CVE-2026-92821](https://nvd.nist.gov/vuln/detail/CVE-2026-92821) | Medium | 6.8 | A flaw was found in SSSD. When configured to evaluate password expiration warnings before restrictive access rules in L… |
+| 2026-10-06 02:17:03 | [CVE-2026-104039](https://nvd.nist.gov/vuln/detail/CVE-2026-104039) | Medium | 4.7 | A flaw was found in SSSD. A local user can cause a denial of service (DoS) by disrupting system authentication services… |
+| 2026-10-06 02:17:03 | [CVE-2026-104040](https://nvd.nist.gov/vuln/detail/CVE-2026-104040) | Medium | 4.4 | A flaw was found in SSSD. When configured with the Entra ID identity provider, input lookup names containing single quo… |
+| 2026-10-06 02:17:03 | [CVE-2026-104041](https://nvd.nist.gov/vuln/detail/CVE-2026-104041) | Medium | 5.5 | A flaw was found in SSSD. An unprivileged local user can repeatedly request lookups for nonexistent entries through the… |
+| 2026-10-06 02:17:03 | [CVE-2026-104042](https://nvd.nist.gov/vuln/detail/CVE-2026-104042) | Medium | 5.5 | A flaw was found in sssd. A local attacker can cause a Denial of Service (DoS) by sending a crafted Pluggable Authentic… |
+| 2026-10-06 02:17:03 | [CVE-2026-104043](https://nvd.nist.gov/vuln/detail/CVE-2026-104043) | Medium | 5.5 | A flaw was found in SSSD. A local attacker with access to the Name Service Switch (NSS) responder UNIX socket can trigg… |
+| 2026-10-06 02:17:03 | [CVE-2026-104044](https://nvd.nist.gov/vuln/detail/CVE-2026-104044) | Medium | 6.2 | A flaw was found in sssd. A local attacker can trigger a Denial of Service (DoS) by sending a specially crafted Pluggab… |
+| 2026-10-06 02:17:03 | [CVE-2026-104380](https://nvd.nist.gov/vuln/detail/CVE-2026-104380) |  |  | Punk versions from 0.48 before 0.55 for Perl route Extended CONNECT requests to any GET route without an Origin check i… |
+| 2026-10-06 02:17:04 | [CVE-2026-105484](https://nvd.nist.gov/vuln/detail/CVE-2026-105484) | Critical | 10.0 | A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the functi… |
+| 2026-10-06 02:17:04 | [CVE-2026-105486](https://nvd.nist.gov/vuln/detail/CVE-2026-105486) | Medium | 5.5 | A vulnerability was detected in OSSRS srs up to 7.0-a1. This affects the function systemAPI.Run of the file internal/pr… |
+| 2026-10-06 02:17:04 | [CVE-2026-105487](https://nvd.nist.gov/vuln/detail/CVE-2026-105487) | Low | 2.1 | A vulnerability was found in yogeshojha reNgine up to 2.2.0. Affected by this vulnerability is the function subdomain_d… |
+| 2026-10-06 02:17:04 | [CVE-2026-105571](https://nvd.nist.gov/vuln/detail/CVE-2026-105571) | Medium | 5.5 | A flaw has been found in PickMall Lilishop up to 4.2.4. The impacted element is an unknown function of the file /buyer/… |
 
 ## Data source
 
