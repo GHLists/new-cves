@@ -9,31 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 13:21 UTC
+## Latest list — 2026-10-07 14:21 UTC
 
-New CVEs published between 2026-10-07 12:18 UTC and 2026-10-07 13:21 UTC.
+New CVEs published between 2026-10-07 13:21 UTC and 2026-10-07 14:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T13-21-20-447613Z.csv)
+[Full CSV](data/new-cves-2026-10-07T14-21-50-570429Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 13:17:16 | [CVE-2026-102255](https://nvd.nist.gov/vuln/detail/CVE-2026-102255) |  |  | A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alter… |
-| 2026-10-07 13:17:16 | [CVE-2026-102256](https://nvd.nist.gov/vuln/detail/CVE-2026-102256) |  |  | Post-authentication Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerab… |
-| 2026-10-07 13:17:16 | [CVE-2026-103435](https://nvd.nist.gov/vuln/detail/CVE-2026-103435) | High | 7.7 | Claude Code validated that a target file path resided within the project working directory at permission-check time, bu… |
-| 2026-10-07 13:17:16 | [CVE-2026-105138](https://nvd.nist.gov/vuln/detail/CVE-2026-105138) | High | 7.1 | Obot 0.12.0 before 0.26.2 contains an insufficiently protected credentials vulnerability that allows authenticated user… |
-| 2026-10-07 13:17:19 | [CVE-2026-105139](https://nvd.nist.gov/vuln/detail/CVE-2026-105139) | Medium | 5.3 | Obot 0.26.0 before 0.26.2 contains an authorization bypass vulnerability that allows authenticated users matching any v… |
-| 2026-10-07 13:17:19 | [CVE-2026-105140](https://nvd.nist.gov/vuln/detail/CVE-2026-105140) | Low | 2.3 | Obot 0.25.0 before 0.25.6 and 0.26.0 before 0.26.1 contains a race condition in auth provider group refreshes that can… |
-| 2026-10-07 13:17:19 | [CVE-2026-107151](https://nvd.nist.gov/vuln/detail/CVE-2026-107151) | Medium | 5.9 | Missing authentication has been found in remote-execution task updates in the smart_proxy_dynflow package. The progress… |
-| 2026-10-07 13:17:19 | [CVE-2026-107162](https://nvd.nist.gov/vuln/detail/CVE-2026-107162) | High | 7.6 | Express Gateway through 1.16.11 contains an authentication bypass vulnerability in the OAuth 2.0 refresh_token grant th… |
-| 2026-10-07 13:17:20 | [CVE-2026-107168](https://nvd.nist.gov/vuln/detail/CVE-2026-107168) | Medium | 6.2 | A flaw was found in m17n-lib. By providing crafted input containing an invalid UTF-8 character sequence, an attacker ca… |
-| 2026-10-07 13:17:20 | [CVE-2026-107170](https://nvd.nist.gov/vuln/detail/CVE-2026-107170) | Low | 2.9 | A flaw was found in m17n-lib. A partial failure during library initialization can leave an internal driver pointer unin… |
-| 2026-10-07 13:17:20 | [CVE-2026-107175](https://nvd.nist.gov/vuln/detail/CVE-2026-107175) | Medium | 5.3 | MISP contains a defect in its event save workflow that prevents the correlation engine from recalculating correlations… |
-| 2026-10-07 13:17:20 | [CVE-2026-107177](https://nvd.nist.gov/vuln/detail/CVE-2026-107177) | High | 7.4 | Express Gateway through 1.16.11 contains a hardcoded cryptographic key vulnerability that allows attackers with datasto… |
-| 2026-10-07 13:17:22 | [CVE-2026-107180](https://nvd.nist.gov/vuln/detail/CVE-2026-107180) | High | 7.1 | On MISP instances configured to require TOTP enrolment (Security.otp_required), the enforcement of the mandatory two-fa… |
-| 2026-10-07 13:17:22 | [CVE-2026-41958](https://nvd.nist.gov/vuln/detail/CVE-2026-41958) | Medium | 6.5 | A path traversal vulnerability exists in the unzip_http RemoteZipFile extract functionality of VisiData (version(s): de… |
-| 2026-10-07 13:17:22 | [CVE-2026-42532](https://nvd.nist.gov/vuln/detail/CVE-2026-42532) | Medium | 5.5 | A path traversal vulnerability exists in the EmailSheet extract_parts functionality of VisiData (version(s): dev (commi… |
-| 2026-10-07 13:17:22 | [CVE-2026-98373](https://nvd.nist.gov/vuln/detail/CVE-2026-98373) |  |  | In the Linux kernel, the following vulnerability has been resolved: mm/hugetlb: preserve mremap address delta when skip… |
-| 2026-10-07 13:17:23 | [CVE-2026-98374](https://nvd.nist.gov/vuln/detail/CVE-2026-98374) |  |  | In the Linux kernel, the following vulnerability has been resolved: tcp: fix use-after-free of retransmit_skb_hint in t… |
+| 2026-10-07 14:17:07 | [CVE-2026-102257](https://nvd.nist.gov/vuln/detail/CVE-2026-102257) |  |  | A Zip Slip vulnerability in the in the SMA1000 Appliance Management Console (AMC) interface allows an attacker to extra… |
+| 2026-10-07 14:17:07 | [CVE-2026-102258](https://nvd.nist.gov/vuln/detail/CVE-2026-102258) |  |  | Post-authentication Stored Cross-Site Scripting (XSS) vulnerability has been identified in the SMA1000 Appliance Manage… |
+| 2026-10-07 14:17:08 | [CVE-2026-107181](https://nvd.nist.gov/vuln/detail/CVE-2026-107181) | High | 8.6 | Telegram Desktop before 7.2.9 contains an IPC record-separator injection vulnerability in Core::Sandbox that allows rem… |
+| 2026-10-07 14:17:09 | [CVE-2026-107183](https://nvd.nist.gov/vuln/detail/CVE-2026-107183) | Critical | 9.2 | llama.cpp before b11393 contains a use-after-free and double free vulnerability in common_chat_peg_mapper::map that all… |
+| 2026-10-07 14:17:09 | [CVE-2026-107194](https://nvd.nist.gov/vuln/detail/CVE-2026-107194) | Critical | 9.2 | Sungrow iSolarCloud before 2026 allows authentication bypass and account takeover via "login_type":"5" in a login reque… |
+| 2026-10-07 14:17:09 | [CVE-2026-42616](https://nvd.nist.gov/vuln/detail/CVE-2026-42616) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in cat() in ntfscat.c that allows an attacker to corrupt heap… |
+| 2026-10-07 14:17:09 | [CVE-2026-42617](https://nvd.nist.gov/vuln/detail/CVE-2026-42617) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in ntfs_ir_to_ib() in index.c that allows an attacker to corr… |
+| 2026-10-07 14:17:09 | [CVE-2026-42618](https://nvd.nist.gov/vuln/detail/CVE-2026-42618) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in ntfs_decompress() in compress.c that allows an attacker to… |
+| 2026-10-07 14:17:09 | [CVE-2026-43976](https://nvd.nist.gov/vuln/detail/CVE-2026-43976) | High | 7.1 | wger is a free, open-source workout and fitness manager. Prior to version 2.6, five gym management views in wger apply… |
+| 2026-10-07 14:17:10 | [CVE-2026-45161](https://nvd.nist.gov/vuln/detail/CVE-2026-45161) | Medium | 5.4 | wger is a free, open-source workout and fitness manager. Prior to version 2.6, the `trainer_login` view in wger accepts… |
+| 2026-10-07 14:17:10 | [CVE-2026-46434](https://nvd.nist.gov/vuln/detail/CVE-2026-46434) | High | 7.1 | wger is a free, open-source workout and fitness manager. Prior to version 2.6, a user with only the `gym_trainer` permi… |
+| 2026-10-07 14:17:10 | [CVE-2026-46437](https://nvd.nist.gov/vuln/detail/CVE-2026-46437) | Medium | 4.8 | wger is a free, open-source workout and fitness manager. Versions prior to 2.6 have a vulnerability in the authenticati… |
+| 2026-10-07 14:17:10 | [CVE-2026-46438](https://nvd.nist.gov/vuln/detail/CVE-2026-46438) | Medium | 6.5 | wger is a free, open-source workout and fitness manager. Prior to version 2.6, an authenticated attacker can inject arb… |
+| 2026-10-07 14:17:10 | [CVE-2026-46569](https://nvd.nist.gov/vuln/detail/CVE-2026-46569) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in ntfs_ib_copy_tail(), in libntfs-3g/index.c, that allows an… |
+| 2026-10-07 14:17:10 | [CVE-2026-46571](https://nvd.nist.gov/vuln/detail/CVE-2026-46571) |  |  | In NTFS-3G before 2026.7.7, a out-of-bounds read exists in ntfs_fix_file_name() in libntfs-3g/reparse.c that allows an… |
+| 2026-10-07 14:17:11 | [CVE-2026-46572](https://nvd.nist.gov/vuln/detail/CVE-2026-46572) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in ntfs_ib_cut_tail() in libntfs-3g/index.c that allows an at… |
+| 2026-10-07 14:17:11 | [CVE-2026-88514](https://nvd.nist.gov/vuln/detail/CVE-2026-88514) |  |  | An issue in iTerm2 macOS before 3.6.12 allows a local attacker to obtain sensitive information. |
 
 ## Data source
 
