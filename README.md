@@ -9,33 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 09:19 UTC
+## Latest list — 2026-10-07 10:20 UTC
 
-New CVEs published between 2026-10-07 08:18 UTC and 2026-10-07 09:19 UTC.
+New CVEs published between 2026-10-07 09:19 UTC and 2026-10-07 10:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T09-19-16-483968Z.csv)
+[Full CSV](data/new-cves-2026-10-07T10-20-35-644035Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 09:17:03 | [CVE-2025-64391](https://nvd.nist.gov/vuln/detail/CVE-2025-64391) | Medium | 4.1 | This vulnerability in Veeam Agent for Microsoft Windows allows a low-privileged local user to make the agent write file… |
-| 2026-10-07 09:17:04 | [CVE-2025-64392](https://nvd.nist.gov/vuln/detail/CVE-2025-64392) | Medium | 4.8 | This vulnerability in Veeam Backup Enterprise Manager allows an attacker to execute script in the browser of a portal u… |
-| 2026-10-07 09:17:04 | [CVE-2025-64393](https://nvd.nist.gov/vuln/detail/CVE-2025-64393) | Critical | 9.4 | This vulnerability in Veeam Backup & Replication allows a Backup Viewer to execute arbitrary code as SYSTEM on the back… |
-| 2026-10-07 09:17:04 | [CVE-2026-102781](https://nvd.nist.gov/vuln/detail/CVE-2026-102781) | Medium | 6.9 | Joomla Extension - ordasoft.com - Unauthenticated Destructive CRUD in OrdaSoft Touch Slider < 5.4.6 - modOsTouchSliderH… |
-| 2026-10-07 09:17:04 | [CVE-2026-102782](https://nvd.nist.gov/vuln/detail/CVE-2026-102782) | Critical | 9.3 | Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Simple Membership < 7.4.0 - site/simplememb… |
-| 2026-10-07 09:17:04 | [CVE-2026-103416](https://nvd.nist.gov/vuln/detail/CVE-2026-103416) | Critical | 9.3 | Out-of-bounds write via the TLS 1.3 handshake message cache in NetX Duo in Eclipse ThreadX NetX Duo 6.5.1.202602 allows… |
-| 2026-10-07 09:17:04 | [CVE-2026-107102](https://nvd.nist.gov/vuln/detail/CVE-2026-107102) | Critical | 9.3 | This vulnerability exists in the ERP system due to improper validation of payment callback parameters and inadequate au… |
-| 2026-10-07 09:17:04 | [CVE-2026-107103](https://nvd.nist.gov/vuln/detail/CVE-2026-107103) | Critical | 9.3 | This vulnerability exists in the ERP system due to insufficient validation and parameterization of user supplied input… |
-| 2026-10-07 09:17:05 | [CVE-2026-107104](https://nvd.nist.gov/vuln/detail/CVE-2026-107104) | Critical | 9.3 | This vulnerability exists in the ERP system due to unsafe deserialization of user controlled data in the affected funct… |
-| 2026-10-07 09:17:05 | [CVE-2026-15894](https://nvd.nist.gov/vuln/detail/CVE-2026-15894) | High | 8.8 | The Bluetooth Mesh On-Demand Private Proxy solicitation handler in subsys/bluetooth/mesh/solicitation.c copies a receiv… |
-| 2026-10-07 09:17:05 | [CVE-2026-19186](https://nvd.nist.gov/vuln/detail/CVE-2026-19186) | High | 8.1 | ieee802154_decipher_data_frame() in subsys/net/l2/ieee802154/ieee802154_frame.c computed payload_len = net_pkt_get_len(… |
-| 2026-10-07 09:17:05 | [CVE-2026-58068](https://nvd.nist.gov/vuln/detail/CVE-2026-58068) | Medium | 6.8 | This vulnerability in Veeam Agent for Microsoft Windows allows any local user to terminate arbitrary processes on the s… |
-| 2026-10-07 09:17:05 | [CVE-2026-58069](https://nvd.nist.gov/vuln/detail/CVE-2026-58069) | High | 8.3 | This vulnerability in Veeam Backup & Replication allows an authenticated Cloud Connect tenant to read arbitrary files o… |
-| 2026-10-07 09:17:05 | [CVE-2026-5703](https://nvd.nist.gov/vuln/detail/CVE-2026-5703) | High | 7.1 | Path traversal vulnerability in the Satel Iberia SenNet Datalogger Serie 200, specifically in the web portal provided b… |
-| 2026-10-07 09:17:05 | [CVE-2026-89417](https://nvd.nist.gov/vuln/detail/CVE-2026-89417) | High | 7.2 | The OMGF \| GDPR/DSGVO Compliant, Faster Google Fonts. Easy. plugin for WordPress is vulnerable to Stored Cross-Site Scr… |
-| 2026-10-07 09:17:05 | [CVE-2026-90466](https://nvd.nist.gov/vuln/detail/CVE-2026-90466) |  |  | Path traversal of 'trusted_jar_paths' in Impala 4.5.2 allows an attacker-controlled JAR to be loaded via a relative pat… |
-| 2026-10-07 09:17:06 | [CVE-2026-93026](https://nvd.nist.gov/vuln/detail/CVE-2026-93026) | Medium | 6.1 | This vulnerability in Veeam Backup & Replication allows a Backup Viewer to modify the Enterprise Manager master key and… |
-| 2026-10-07 09:17:06 | [CVE-2026-93684](https://nvd.nist.gov/vuln/detail/CVE-2026-93684) |  |  | An SQL user using Impala up to and including version 4.5.2 with only SELECT permission can put JavaScript in a table al… |
-| 2026-10-07 09:17:06 | [CVE-2026-97720](https://nvd.nist.gov/vuln/detail/CVE-2026-97720) |  |  | Incorrect implementation of JWT/OAuth authentication in Impala executors in Apache Impala versions up to and including… |
+| 2026-10-07 10:17:25 | [CVE-2026-103075](https://nvd.nist.gov/vuln/detail/CVE-2026-103075) | Medium | 4.3 | Missing Authorization vulnerability in WPMU DEV Hustle wordpress-popup allows Exploiting Incorrectly Configured Access… |
+| 2026-10-07 10:17:26 | [CVE-2026-104390](https://nvd.nist.gov/vuln/detail/CVE-2026-104390) | Medium | 4.3 | Missing Authorization vulnerability in Arraytics Booktics booktics allows Exploiting Incorrectly Configured Access Cont… |
+| 2026-10-07 10:17:26 | [CVE-2026-104391](https://nvd.nist.gov/vuln/detail/CVE-2026-104391) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ExpressTech Quiz… |
+| 2026-10-07 10:17:26 | [CVE-2026-104393](https://nvd.nist.gov/vuln/detail/CVE-2026-104393) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in weDevs Happy Addo… |
+| 2026-10-07 10:17:32 | [CVE-2026-105192](https://nvd.nist.gov/vuln/detail/CVE-2026-105192) | Critical | 9.8 | LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ ROUTER so worker processes can… |
+| 2026-10-07 10:17:34 | [CVE-2026-105871](https://nvd.nist.gov/vuln/detail/CVE-2026-105871) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Element… |
+| 2026-10-07 10:17:35 | [CVE-2026-105873](https://nvd.nist.gov/vuln/detail/CVE-2026-105873) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Element… |
+| 2026-10-07 10:17:35 | [CVE-2026-105875](https://nvd.nist.gov/vuln/detail/CVE-2026-105875) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Prime Sl… |
+| 2026-10-07 10:17:35 | [CVE-2026-105876](https://nvd.nist.gov/vuln/detail/CVE-2026-105876) | Medium | 5.3 | Missing Authorization vulnerability in WP Chill Modula Image Gallery modula-best-grid-gallery allows Retrieve Embedded… |
+| 2026-10-07 10:17:35 | [CVE-2026-105884](https://nvd.nist.gov/vuln/detail/CVE-2026-105884) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Media Rocket L… |
+| 2026-10-07 10:17:35 | [CVE-2026-27434](https://nvd.nist.gov/vuln/detail/CVE-2026-27434) | Medium | 5.3 | Missing Authorization vulnerability in sc Internet Vivoo WP Rentals wprentals allows Exploiting Incorrectly Configured… |
+| 2026-10-07 10:17:35 | [CVE-2026-42720](https://nvd.nist.gov/vuln/detail/CVE-2026-42720) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Sarah Giles Dynam… |
+| 2026-10-07 10:17:35 | [CVE-2026-42721](https://nvd.nist.gov/vuln/detail/CVE-2026-42721) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SERVIT Software S… |
+| 2026-10-07 10:17:36 | [CVE-2026-78243](https://nvd.nist.gov/vuln/detail/CVE-2026-78243) | Low | 2.1 | Apache YuniKorn 1.8.0 and later, if configured with the LDAP group resolver, crashes due to an out of bounds read proce… |
+| 2026-10-07 10:17:42 | [CVE-2026-92393](https://nvd.nist.gov/vuln/detail/CVE-2026-92393) | Low | 2.0 | Apache YuniKorn 1.9.0 and earlier does not implement label and user annotation checks for workload UPDATE action bypass… |
+| 2026-10-07 10:17:43 | [CVE-2026-97146](https://nvd.nist.gov/vuln/detail/CVE-2026-97146) | Medium | 4.8 | Apache YuniKorn 1.9.0 and earlier allows bypassing the check for the user annotation by setting a secondary label on th… |
+| 2026-10-07 10:17:44 | [CVE-2026-97294](https://nvd.nist.gov/vuln/detail/CVE-2026-97294) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in David Lingren Med… |
 
 ## Data source
 
