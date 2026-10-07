@@ -9,24 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 18:19 UTC
+## Latest list — 2026-10-07 19:20 UTC
 
-New CVEs published between 2026-10-07 17:18 UTC and 2026-10-07 18:19 UTC.
+New CVEs published between 2026-10-07 18:19 UTC and 2026-10-07 19:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T18-19-59-277272Z.csv)
+[Full CSV](data/new-cves-2026-10-07T19-20-04-155164Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 18:17:16 | [CVE-2026-106066](https://nvd.nist.gov/vuln/detail/CVE-2026-106066) | Medium | 6.3 | A heap-based buffer overflow was found in GIMP’s raw data export plug-in. When exporting very large images, g_malloc()… |
-| 2026-10-07 18:17:16 | [CVE-2026-106067](https://nvd.nist.gov/vuln/detail/CVE-2026-106067) | Medium | 6.3 | A heap-based buffer overflow was found in GIMP’s Hot color filter plug-in. For very large images, a pixel buffer is all… |
-| 2026-10-07 18:17:18 | [CVE-2026-107211](https://nvd.nist.gov/vuln/detail/CVE-2026-107211) | High | 8.7 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.8.1 to 2.11.0, separatel… |
-| 2026-10-07 18:17:18 | [CVE-2026-107212](https://nvd.nist.gov/vuln/detail/CVE-2026-107212) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.1.0 to 2.11.0, Rows.Colu… |
-| 2026-10-07 18:17:18 | [CVE-2026-107213](https://nvd.nist.gov/vuln/detail/CVE-2026-107213) | High | 8.7 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.9.0 to 2.11.0, GetSlicer… |
-| 2026-10-07 18:17:19 | [CVE-2026-107214](https://nvd.nist.gov/vuln/detail/CVE-2026-107214) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.3.1 to 2.11.0, the decry… |
-| 2026-10-07 18:17:19 | [CVE-2026-107215](https://nvd.nist.gov/vuln/detail/CVE-2026-107215) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.3.1 to 2.11.0, extractPa… |
-| 2026-10-07 18:17:19 | [CVE-2026-107216](https://nvd.nist.gov/vuln/detail/CVE-2026-107216) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.8.1 to 2.11.0, ANCHORARR… |
-| 2026-10-07 18:17:20 | [CVE-2026-56851](https://nvd.nist.gov/vuln/detail/CVE-2026-56851) |  |  | The Nickname profile can panic with an out-of-bounds slice error when transforming crafted input into a short destinati… |
-| 2026-10-07 18:17:32 | [CVE-2026-96335](https://nvd.nist.gov/vuln/detail/CVE-2026-96335) | High | 7.5 | Missing Authorization vulnerability in WPMU DEV Forminator allows Exploiting Incorrectly Configured Access Control Secu… |
+| 2026-10-07 19:17:31 | [CVE-2026-103371](https://nvd.nist.gov/vuln/detail/CVE-2026-103371) |  |  | Insertion of Sensitive Information into Log File in Apache Geode Web Management. This issue affects Apache Geode: from… |
+| 2026-10-07 19:17:31 | [CVE-2026-106164](https://nvd.nist.gov/vuln/detail/CVE-2026-106164) | High | 7.3 | In Progress® Telerik® Document Processing SpreadProcessing library, versions prior to 2026.3.1006, an infinite loop vul… |
+| 2026-10-07 19:17:33 | [CVE-2026-107217](https://nvd.nist.gov/vuln/detail/CVE-2026-107217) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.0.0 to 2.11.0 in github.… |
+| 2026-10-07 19:17:34 | [CVE-2026-107218](https://nvd.nist.gov/vuln/detail/CVE-2026-107218) | Medium | 5.3 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.10.1 to 2.11.0, RIGHT va… |
+| 2026-10-07 19:17:34 | [CVE-2026-107219](https://nvd.nist.gov/vuln/detail/CVE-2026-107219) | High | 7.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.3.1 to 2.11.0, agile dec… |
+| 2026-10-07 19:17:34 | [CVE-2026-107220](https://nvd.nist.gov/vuln/detail/CVE-2026-107220) | Medium | 6.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.7.1 to 2.11.0, mergeCell… |
+| 2026-10-07 19:17:34 | [CVE-2026-107221](https://nvd.nist.gov/vuln/detail/CVE-2026-107221) | Medium | 6.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.0.0 to 2.11.0, checkRow… |
+| 2026-10-07 19:17:34 | [CVE-2026-107222](https://nvd.nist.gov/vuln/detail/CVE-2026-107222) | Medium | 6.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.7.0 to 2.11.0, condition… |
+| 2026-10-07 19:17:34 | [CVE-2026-107223](https://nvd.nist.gov/vuln/detail/CVE-2026-107223) | High | 7.1 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.1.0 to 2.11.0, flatCols… |
+| 2026-10-07 19:17:35 | [CVE-2026-107224](https://nvd.nist.gov/vuln/detail/CVE-2026-107224) | Medium | 6.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.1.0 to 2.11.0, a Zip64 u… |
+| 2026-10-07 19:17:35 | [CVE-2026-107225](https://nvd.nist.gov/vuln/detail/CVE-2026-107225) | Medium | 6.5 | Excelize is a Go language library for reading and writing Microsoft Excel spreadsheets. From 2.8.0 to 2.11.0, GetStyle'… |
+| 2026-10-07 19:17:35 | [CVE-2026-107313](https://nvd.nist.gov/vuln/detail/CVE-2026-107313) | Medium | 4.2 | pgjdbc, the PostgreSQL JDBC Driver, versions 42.7.4 and 42.7.5 can send the previous contents of the GSS send buffer in… |
 
 ## Data source
 
