@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-07T08:16:57.053Z,CVE-2026-107121,MEDIUM,6.5,Received,CWE-319,2,"A flaw was found in the SMTP email configuration handling of the keycloak-services component. When the STARTTLS option is enabled, Keycloak fails to strictly enforce an encrypted connection, allowing it to fall back to unencrypted communication if the encryption request is tampered with. An attacke…"
