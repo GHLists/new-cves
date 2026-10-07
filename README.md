@@ -9,21 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:20 UTC
+## Latest list — 2026-10-07 12:18 UTC
 
-New CVEs published between 2026-10-07 10:20 UTC and 2026-10-07 11:20 UTC.
+New CVEs published between 2026-10-07 11:20 UTC and 2026-10-07 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T11-20-08-728673Z.csv)
+[Full CSV](data/new-cves-2026-10-07T12-18-35-050469Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 11:17:09 | [CVE-2026-103668](https://nvd.nist.gov/vuln/detail/CVE-2026-103668) | High | 8.8 | An SQL Injection vulnerability exists in the Site Search function of Movable Type, which may allow an unauthenticated a… |
-| 2026-10-07 11:17:19 | [CVE-2026-42713](https://nvd.nist.gov/vuln/detail/CVE-2026-42713) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Gopiplus Post tit… |
-| 2026-10-07 11:17:19 | [CVE-2026-42714](https://nvd.nist.gov/vuln/detail/CVE-2026-42714) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Piggly Dev Pix po… |
-| 2026-10-07 11:17:20 | [CVE-2026-92531](https://nvd.nist.gov/vuln/detail/CVE-2026-92531) | High | 7.5 | Operating system command injection vulnerability in the SVN integration component of BugTracker.NET. The application in… |
-| 2026-10-07 11:17:20 | [CVE-2026-92532](https://nvd.nist.gov/vuln/detail/CVE-2026-92532) | High | 7.5 | Unrestricted file upload vulnerability in the BugTracker.NET attachment functionality. An authenticated user with admin… |
-| 2026-10-07 11:17:20 | [CVE-2026-92533](https://nvd.nist.gov/vuln/detail/CVE-2026-92533) | High | 7.1 | Path traversal vulnerability in the BugTracker.NET file download component. The parameter used to specify the file name… |
-| 2026-10-07 11:17:20 | [CVE-2026-96408](https://nvd.nist.gov/vuln/detail/CVE-2026-96408) | Critical | 9.3 | A code injection vulnerability exists in the upgrade script of Movable Type, which may allow an unauthenticated attacke… |
+| 2026-10-07 12:17:08 | [CVE-2026-106056](https://nvd.nist.gov/vuln/detail/CVE-2026-106056) | High | 7.7 | Rundeck before 6.2.0 contains an OS command injection vulnerability that allows authenticated users with job run permis… |
+| 2026-10-07 12:17:08 | [CVE-2026-106057](https://nvd.nist.gov/vuln/detail/CVE-2026-106057) | High | 8.5 | patool before 4.0.6 contains an OS command injection vulnerability on Windows because shell_quote_nt fails to escape cm… |
+| 2026-10-07 12:17:08 | [CVE-2026-106058](https://nvd.nist.gov/vuln/detail/CVE-2026-106058) | High | 7.7 | GitAhead through 2.7.1 contains an OS command injection vulnerability in src/git/Filter.cpp that allows malicious repos… |
+| 2026-10-07 12:17:09 | [CVE-2026-106059](https://nvd.nist.gov/vuln/detail/CVE-2026-106059) | High | 8.7 | GitAhead through 2.7.1 on macOS contains a command injection vulnerability that allows attackers to execute shell comma… |
+| 2026-10-07 12:17:09 | [CVE-2026-107159](https://nvd.nist.gov/vuln/detail/CVE-2026-107159) | High | 7.1 | MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows u… |
+| 2026-10-07 12:17:09 | [CVE-2026-42708](https://nvd.nist.gov/vuln/detail/CVE-2026-42708) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in AF themes WP Post… |
+| 2026-10-07 12:17:09 | [CVE-2026-42710](https://nvd.nist.gov/vuln/detail/CVE-2026-42710) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in 10Web Slider by 1… |
 
 ## Data source
 
