@@ -9,37 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 01:18 UTC
+## Latest list — 2026-10-07 02:18 UTC
 
-New CVEs published between 2026-10-07 00:19 UTC and 2026-10-07 01:18 UTC.
+New CVEs published between 2026-10-07 01:18 UTC and 2026-10-07 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T01-18-39-027677Z.csv)
+[Full CSV](data/new-cves-2026-10-07T02-18-42-141374Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 01:16:32 | [CVE-2026-101329](https://nvd.nist.gov/vuln/detail/CVE-2026-101329) | Medium | 6.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:33 | [CVE-2026-101331](https://nvd.nist.gov/vuln/detail/CVE-2026-101331) | High | 7.7 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:34 | [CVE-2026-103360](https://nvd.nist.gov/vuln/detail/CVE-2026-103360) | High | 8.1 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:34 | [CVE-2026-104334](https://nvd.nist.gov/vuln/detail/CVE-2026-104334) | Critical | 9.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper control o… |
-| 2026-10-07 01:16:34 | [CVE-2026-88962](https://nvd.nist.gov/vuln/detail/CVE-2026-88962) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:34 | [CVE-2026-93443](https://nvd.nist.gov/vuln/detail/CVE-2026-93443) | High | 7.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:34 | [CVE-2026-93445](https://nvd.nist.gov/vuln/detail/CVE-2026-93445) | High | 8.1 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:34 | [CVE-2026-93447](https://nvd.nist.gov/vuln/detail/CVE-2026-93447) | High | 7.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow an attacker with access to the server secret and Redis write access t… |
-| 2026-10-07 01:16:34 | [CVE-2026-93448](https://nvd.nist.gov/vuln/detail/CVE-2026-93448) | Medium | 6.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:35 | [CVE-2026-93449](https://nvd.nist.gov/vuln/detail/CVE-2026-93449) | High | 8.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:35 | [CVE-2026-93674](https://nvd.nist.gov/vuln/detail/CVE-2026-93674) | Critical | 9.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper neutraliz… |
-| 2026-10-07 01:16:35 | [CVE-2026-93675](https://nvd.nist.gov/vuln/detail/CVE-2026-93675) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to an expected depend… |
-| 2026-10-07 01:16:35 | [CVE-2026-93677](https://nvd.nist.gov/vuln/detail/CVE-2026-93677) | High | 7.7 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:35 | [CVE-2026-93678](https://nvd.nist.gov/vuln/detail/CVE-2026-93678) | High | 7.6 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:35 | [CVE-2026-93679](https://nvd.nist.gov/vuln/detail/CVE-2026-93679) | Medium | 4.3 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to cause a denial of service due to u… |
-| 2026-10-07 01:16:35 | [CVE-2026-97655](https://nvd.nist.gov/vuln/detail/CVE-2026-97655) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to an incomplete bloc… |
-| 2026-10-07 01:16:35 | [CVE-2026-97671](https://nvd.nist.gov/vuln/detail/CVE-2026-97671) | Medium | 6.5 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information due t… |
-| 2026-10-07 01:16:36 | [CVE-2026-97673](https://nvd.nist.gov/vuln/detail/CVE-2026-97673) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:36 | [CVE-2026-97674](https://nvd.nist.gov/vuln/detail/CVE-2026-97674) | High | 8.1 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary OS commands due… |
-| 2026-10-07 01:16:36 | [CVE-2026-97676](https://nvd.nist.gov/vuln/detail/CVE-2026-97676) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:36 | [CVE-2026-97678](https://nvd.nist.gov/vuln/detail/CVE-2026-97678) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:36 | [CVE-2026-97679](https://nvd.nist.gov/vuln/detail/CVE-2026-97679) | High | 8.8 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to impr… |
-| 2026-10-07 01:16:36 | [CVE-2026-97680](https://nvd.nist.gov/vuln/detail/CVE-2026-97680) | High | 8.3 | IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to obtain sensitive information or in… |
+| 2026-10-07 02:16:56 | [CVE-2026-102478](https://nvd.nist.gov/vuln/detail/CVE-2026-102478) | High | 8.7 | In affected versions of Octopus Server, an authenticated user with permission to modify roles could bypass the protecti… |
+| 2026-10-07 02:16:57 | [CVE-2026-105324](https://nvd.nist.gov/vuln/detail/CVE-2026-105324) | Critical | 9.2 | An HTTP header injection vulnerability in start-page-loader.cgi of ADM allows an unauthenticated remote attacker to rea… |
+| 2026-10-07 02:16:57 | [CVE-2026-106471](https://nvd.nist.gov/vuln/detail/CVE-2026-106471) | High | 8.1 | A flaw was found in Candlepin. The central authorization filter incorrectly grants access when any one of multiple @Ver… |
+| 2026-10-07 02:16:57 | [CVE-2026-16528](https://nvd.nist.gov/vuln/detail/CVE-2026-16528) | High | 8.4 | Insertion of Sensitive Information into Log File in certain ASUS router models allows a remote authenticated attacker t… |
+| 2026-10-07 02:16:57 | [CVE-2026-19386](https://nvd.nist.gov/vuln/detail/CVE-2026-19386) | Critical | 9.3 | A stack-based buffer overflow in the ASUS router modules allows an authenticated nearby user to execute arbitrary code… |
+| 2026-10-07 02:16:58 | [CVE-2026-19396](https://nvd.nist.gov/vuln/detail/CVE-2026-19396) | High | 7.7 | A predictable seed in the pseudo-random number generator (PRNG) in the IFTTT pairing token generation of the ASUS RT-BE… |
 
 ## Data source
 
