@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-07T23:17:00.337Z,CVE-2026-107314,MEDIUM,5.9,Received,CWE-636,1,"pgjdbc, the PostgreSQL JDBC Driver, versions 42.7.11 through 42.7.13 enforce no restriction when the requireAuth connection property excludes all six authentication methods the driver knows, for example requireAuth=!password,!md5,!gss,!sspi,!scram-sha-256,!none. The driver then accepts any method t…"
+2026-10-07T23:17:01.197Z,CVE-2026-89322,HIGH,7.2,Received,CWE-178,1,"Vault and Vault Enterprise did not consistently evaluate ACL policies against the canonical form of resource and policy names. This may allow an authenticated user with delegated permissions to bypass an explicit deny restriction and access a protected resource or assign a denied policy, potentiall…"
+2026-10-07T23:17:01.52Z,CVE-2026-97664,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
