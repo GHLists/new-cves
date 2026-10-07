@@ -9,40 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 15:19 UTC
+## Latest list — 2026-10-07 16:19 UTC
 
-New CVEs published between 2026-10-07 14:21 UTC and 2026-10-07 15:19 UTC.
+New CVEs published between 2026-10-07 15:19 UTC and 2026-10-07 16:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-07T15-19-25-470635Z.csv)
+[Full CSV](data/new-cves-2026-10-07T16-19-14-750007Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-07 15:16:51 | [CVE-2025-70515](https://nvd.nist.gov/vuln/detail/CVE-2025-70515) |  |  | The device log component of Fanvil x7a firmware version 2.6.0.1182 does not properly sanitize or encode reflected user… |
-| 2026-10-07 15:16:52 | [CVE-2025-70516](https://nvd.nist.gov/vuln/detail/CVE-2025-70516) |  |  | The websocket handler of Fanvil x7a firmware version 2.6.0.1182 does not enforce proper authentication restrictions aga… |
-| 2026-10-07 15:16:52 | [CVE-2025-70517](https://nvd.nist.gov/vuln/detail/CVE-2025-70517) |  |  | The request handler of Fanvil x7a firmware version 2.6.0.1182 does not enforce any cross-origin resource protection for… |
-| 2026-10-07 15:16:53 | [CVE-2025-70518](https://nvd.nist.gov/vuln/detail/CVE-2025-70518) |  |  | The management portal's diagnostic ping tool of Fanvil x7a firmware version 2.6.0.1182 does not handle user supplied in… |
-| 2026-10-07 15:16:53 | [CVE-2025-70519](https://nvd.nist.gov/vuln/detail/CVE-2025-70519) |  |  | The device log component of Fanvil x7a firmware version 2.6.0.1182 does not properly sanitize or encode reflected user… |
-| 2026-10-07 15:16:54 | [CVE-2025-70520](https://nvd.nist.gov/vuln/detail/CVE-2025-70520) |  |  | The websocket handler of Fanvil x7a firmware version 2.6.0.1182 does not enforce proper authentication restrictions aga… |
-| 2026-10-07 15:16:55 | [CVE-2025-70521](https://nvd.nist.gov/vuln/detail/CVE-2025-70521) |  |  | The management portal's diagnostic ping tool of Fanvil x7a firmware version 2.6.0.1182 does not handle user supplied in… |
-| 2026-10-07 15:16:55 | [CVE-2025-70522](https://nvd.nist.gov/vuln/detail/CVE-2025-70522) |  |  | The request handler of Fanvil x7a firmware version 2.6.0.1182 does not enforce any cross-origin resource protection for… |
-| 2026-10-07 15:17:02 | [CVE-2026-104074](https://nvd.nist.gov/vuln/detail/CVE-2026-104074) | Medium | 6.9 | Coturn 4.10.0 contains an uninitialized memory disclosure vulnerability that allows remote unauthenticated attackers to… |
-| 2026-10-07 15:17:08 | [CVE-2026-106064](https://nvd.nist.gov/vuln/detail/CVE-2026-106064) | Medium | 6.3 | A heap-based buffer overflow was found in GIMP’s GIF export plug-in. Exporting an image with very large width and heigh… |
-| 2026-10-07 15:17:12 | [CVE-2026-106510](https://nvd.nist.gov/vuln/detail/CVE-2026-106510) | High | 7.7 | Backstage is an open framework for building developer portals. Prior to 1.14.6, the @backstage/plugin-techdocs-node pac… |
-| 2026-10-07 15:17:12 | [CVE-2026-106556](https://nvd.nist.gov/vuln/detail/CVE-2026-106556) | High | 7.7 | Backstage is an open framework for building developer portals. Prior to 1.14.6, the @backstage/plugin-techdocs-node pac… |
-| 2026-10-07 15:17:15 | [CVE-2026-106558](https://nvd.nist.gov/vuln/detail/CVE-2026-106558) | High | 8.8 | Backstage is an open framework for building developer portals. Prior to 1.14.8, 1.15.6, and 2.0.1, the @backstage/plugi… |
-| 2026-10-07 15:17:17 | [CVE-2026-106559](https://nvd.nist.gov/vuln/detail/CVE-2026-106559) | Medium | 6.3 | Backstage is an open framework for building developer portals. Prior to 0.3.25, the @backstage/plugin-scaffolder-backen… |
-| 2026-10-07 15:17:17 | [CVE-2026-106560](https://nvd.nist.gov/vuln/detail/CVE-2026-106560) | High | 7.1 | Backstage is an open framework for building developer portals. Prior to 0.3.25, the @backstage/plugin-scaffolder-backen… |
-| 2026-10-07 15:17:17 | [CVE-2026-106561](https://nvd.nist.gov/vuln/detail/CVE-2026-106561) | Medium | 5.0 | Backstage is an open framework for building developer portals. Prior to 0.21.9, the @backstage/plugin-kubernetes-backen… |
-| 2026-10-07 15:17:17 | [CVE-2026-106562](https://nvd.nist.gov/vuln/detail/CVE-2026-106562) | Medium | 4.3 | Backstage is an open framework for building developer portals. Prior to 2.1.6 in @backstage/plugin-search-backend and 1… |
-| 2026-10-07 15:17:17 | [CVE-2026-106563](https://nvd.nist.gov/vuln/detail/CVE-2026-106563) | Medium | 5.3 | Backstage is an open framework for building developer portals. Prior to 0.21.8, the @backstage/plugin-kubernetes-backen… |
-| 2026-10-07 15:17:18 | [CVE-2026-107125](https://nvd.nist.gov/vuln/detail/CVE-2026-107125) | Low | 2.1 | A flaw has been found in XnView Classic 2.52.5. Impacted is an unknown function of the component FLI File Parser. This… |
-| 2026-10-07 15:17:18 | [CVE-2026-107167](https://nvd.nist.gov/vuln/detail/CVE-2026-107167) | Medium | 6.2 | A flaw was found in m17n-lib. A user providing specially crafted text input can trigger a heap use-after-free condition… |
-| 2026-10-07 15:17:19 | [CVE-2026-107169](https://nvd.nist.gov/vuln/detail/CVE-2026-107169) | Medium | 6.2 | A flaw was found in m17n-lib. An attacker could provide specially crafted or truncated UTF-8 input to trigger an unhand… |
-| 2026-10-07 15:17:19 | [CVE-2026-107174](https://nvd.nist.gov/vuln/detail/CVE-2026-107174) | Medium | 6.4 | A flaw was found in source-to-image. When unpacking archive files, the application fails to properly sanitize symbolic… |
-| 2026-10-07 15:17:20 | [CVE-2026-107202](https://nvd.nist.gov/vuln/detail/CVE-2026-107202) |  |  | A command injection vulnerability exists in the h-ui (version v0.0.25 and below) administrative API due to improper val… |
-| 2026-10-07 15:17:21 | [CVE-2026-46570](https://nvd.nist.gov/vuln/detail/CVE-2026-46570) |  |  | In NTFS-3G before 2026.7.7, a heap buffer overflow exists in ntfs_index_walk_down() in libntfs-3g/index.c that allows a… |
-| 2026-10-07 15:17:23 | [CVE-2026-62179](https://nvd.nist.gov/vuln/detail/CVE-2026-62179) | Medium | 6.5 | PraisonAI is a multi-agent teams system. In `praisonai-platform` prior to version 0.1.9, issue dependency deletion can… |
-| 2026-10-07 15:17:53 | [CVE-2026-77214](https://nvd.nist.gov/vuln/detail/CVE-2026-77214) | High | 8.3 | libexpat before commit 13c5f63 contains a heap buffer over-read vulnerability in xmlparse.c. XML_ParseBuffer advances t… |
+| 2026-10-07 16:17:40 | [CVE-2026-106564](https://nvd.nist.gov/vuln/detail/CVE-2026-106564) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32, a cra… |
+| 2026-10-07 16:17:40 | [CVE-2026-106565](https://nvd.nist.gov/vuln/detail/CVE-2026-106565) | Medium | 5.9 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32 and 6.… |
+| 2026-10-07 16:17:40 | [CVE-2026-106566](https://nvd.nist.gov/vuln/detail/CVE-2026-106566) | Medium | 4.0 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32, deleg… |
+| 2026-10-07 16:17:40 | [CVE-2026-106567](https://nvd.nist.gov/vuln/detail/CVE-2026-106567) | Medium | 5.9 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32 and 6.… |
+| 2026-10-07 16:17:41 | [CVE-2026-106568](https://nvd.nist.gov/vuln/detail/CVE-2026-106568) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32 and 6.… |
+| 2026-10-07 16:17:42 | [CVE-2026-106569](https://nvd.nist.gov/vuln/detail/CVE-2026-106569) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32, missi… |
+| 2026-10-07 16:17:42 | [CVE-2026-106570](https://nvd.nist.gov/vuln/detail/CVE-2026-106570) | Medium | 4.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-32, an un… |
+| 2026-10-07 16:17:42 | [CVE-2026-106571](https://nvd.nist.gov/vuln/detail/CVE-2026-106571) | Medium | 5.1 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 6.9.13-56 and 7… |
+| 2026-10-07 16:17:43 | [CVE-2026-106572](https://nvd.nist.gov/vuln/detail/CVE-2026-106572) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-30 and 6.… |
+| 2026-10-07 16:17:43 | [CVE-2026-106573](https://nvd.nist.gov/vuln/detail/CVE-2026-106573) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31 and 6.… |
+| 2026-10-07 16:17:43 | [CVE-2026-106574](https://nvd.nist.gov/vuln/detail/CVE-2026-106574) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31, a cli… |
+| 2026-10-07 16:17:43 | [CVE-2026-106575](https://nvd.nist.gov/vuln/detail/CVE-2026-106575) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31, a cra… |
+| 2026-10-07 16:17:43 | [CVE-2026-106576](https://nvd.nist.gov/vuln/detail/CVE-2026-106576) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31, a cra… |
+| 2026-10-07 16:17:44 | [CVE-2026-106577](https://nvd.nist.gov/vuln/detail/CVE-2026-106577) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31 and 6.… |
+| 2026-10-07 16:17:44 | [CVE-2026-106578](https://nvd.nist.gov/vuln/detail/CVE-2026-106578) | Medium | 5.9 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31 and 6.… |
+| 2026-10-07 16:17:44 | [CVE-2026-106579](https://nvd.nist.gov/vuln/detail/CVE-2026-106579) | Medium | 6.2 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31 and 6.… |
+| 2026-10-07 16:17:44 | [CVE-2026-106580](https://nvd.nist.gov/vuln/detail/CVE-2026-106580) | Medium | 4.0 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-31 and 6.… |
+| 2026-10-07 16:17:44 | [CVE-2026-107166](https://nvd.nist.gov/vuln/detail/CVE-2026-107166) | Medium | 5.5 | A weakness has been identified in Open5GS up to 2.7.7. This vulnerability affects the function ogs_pfcp_xact_local_crea… |
+| 2026-10-07 16:17:45 | [CVE-2026-107204](https://nvd.nist.gov/vuln/detail/CVE-2026-107204) | Critical | 9.3 | LMCache through 0.5.5 contains an unauthenticated remote code execution vulnerability that allows remote attackers to e… |
+| 2026-10-07 16:17:45 | [CVE-2026-107205](https://nvd.nist.gov/vuln/detail/CVE-2026-107205) | High | 8.8 | LMCache through 0.5.5 contains a missing authentication vulnerability in the multiprocess coordinator that allows remot… |
+| 2026-10-07 16:17:45 | [CVE-2026-107206](https://nvd.nist.gov/vuln/detail/CVE-2026-107206) | High | 8.8 | LMCache through 0.5.5 contains a missing authentication vulnerability in the multiprocess mode HTTP server that allows… |
+| 2026-10-07 16:17:45 | [CVE-2026-107207](https://nvd.nist.gov/vuln/detail/CVE-2026-107207) | Medium | 6.9 | LMCache through 0.5.5 contains a server-side request forgery vulnerability in its frontend monitoring service that allo… |
+| 2026-10-07 16:17:45 | [CVE-2026-107208](https://nvd.nist.gov/vuln/detail/CVE-2026-107208) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-30 and 6.… |
+| 2026-10-07 16:17:45 | [CVE-2026-107209](https://nvd.nist.gov/vuln/detail/CVE-2026-107209) | Medium | 5.9 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-30 and 6.… |
+| 2026-10-07 16:17:46 | [CVE-2026-107210](https://nvd.nist.gov/vuln/detail/CVE-2026-107210) | Medium | 5.3 | ImageMagick is free and open-source software used for editing and manipulating digital images. Prior to 7.1.2-30 and 6.… |
+| 2026-10-07 16:17:46 | [CVE-2026-107269](https://nvd.nist.gov/vuln/detail/CVE-2026-107269) | Medium | 6.3 | Gophish through 0.12.1 contains a timing discrepancy vulnerability in AdminServer.Login that allows unauthenticated att… |
+| 2026-10-07 16:17:46 | [CVE-2026-107270](https://nvd.nist.gov/vuln/detail/CVE-2026-107270) | High | 7.1 | Gophish through 0.12.1 contains an insecure direct object reference vulnerability that allows authenticated users to ta… |
+| 2026-10-07 16:17:46 | [CVE-2026-107271](https://nvd.nist.gov/vuln/detail/CVE-2026-107271) | Medium | 6.9 | Gophish through 0.12.1 contains a rate limit bypass vulnerability that allows unauthenticated attackers to evade /login… |
+| 2026-10-07 16:17:46 | [CVE-2026-107272](https://nvd.nist.gov/vuln/detail/CVE-2026-107272) | Low | 2.3 | Gophish through 0.12.1 contains stored and reflected cross-site scripting vulnerabilities that allow attackers to injec… |
+| 2026-10-07 16:17:47 | [CVE-2026-107273](https://nvd.nist.gov/vuln/detail/CVE-2026-107273) | Medium | 5.3 | Gophish 0.11.0 through 0.12.1 contains a server-side request forgery vulnerability that allows authenticated low-privil… |
+| 2026-10-07 16:17:47 | [CVE-2026-107276](https://nvd.nist.gov/vuln/detail/CVE-2026-107276) | Medium | 6.3 | MISP contains a race condition in the email-based one-time password (OTP) login flow. When two HTTP requests carrying t… |
+| 2026-10-07 16:17:47 | [CVE-2026-107278](https://nvd.nist.gov/vuln/detail/CVE-2026-107278) | Medium | 5.3 | MISP contains a validation flaw in its object synchronization logic. When a MISP Object is created without a descriptio… |
+| 2026-10-07 16:17:47 | [CVE-2026-33586](https://nvd.nist.gov/vuln/detail/CVE-2026-33586) | Medium | 6.3 | Authenticated users are able to manipulate both the SMTP envelope “Envelope-from” and “From” fields when sending emails… |
 
 ## Data source
 
