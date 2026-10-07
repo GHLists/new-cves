@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-07T00:17:20.553Z,CVE-2026-104335,HIGH,8.8,Received,CWE-284,1,IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to improper access control.
+2026-10-07T00:17:20.743Z,CVE-2026-106583,LOW,2.5,Received,CWE-99,1,"In ssh in OpenSSH before 10.6, a $ or \ character can occur in a command-line username, leading to injection."
+2026-10-07T00:17:21.067Z,CVE-2026-80048,,,Received,CWE-770,2,"A flaw was found in `sssd-kcm`. A local user or process able to connect to the `sssd-kcm` UNIX socket can exploit this vulnerability. By sending a large request length header and then stalling the connection, an attacker can cause the system to preallocate significant memory. This leads to memory e…"
