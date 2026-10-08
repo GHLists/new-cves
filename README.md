@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:18 UTC
+## Latest list — 2026-10-08 01:20 UTC
 
-New CVEs published between 2026-10-07 23:19 UTC and 2026-10-08 00:18 UTC.
+New CVEs published between 2026-10-08 00:18 UTC and 2026-10-08 01:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T00-18-36-04734Z.csv)
+[Full CSV](data/new-cves-2026-10-08T01-20-29-965409Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 00:16:33 | [CVE-2026-107315](https://nvd.nist.gov/vuln/detail/CVE-2026-107315) | Medium | 5.3 | pgjdbc, the PostgreSQL JDBC Driver, versions 42.7.4 through 42.7.13 pads a value that is shorter than its declared leng… |
-| 2026-10-08 00:16:35 | [CVE-2026-17538](https://nvd.nist.gov/vuln/detail/CVE-2026-17538) | Medium | 5.4 | The LatePoint - Appointment Booking & Reservation plugin for WordPress is vulnerable to Insecure Direct Object Referenc… |
-| 2026-10-08 00:16:35 | [CVE-2026-94154](https://nvd.nist.gov/vuln/detail/CVE-2026-94154) | Medium | 6.1 | The Aurora Heatmap plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘url’ parameter in all ver… |
+| 2026-10-08 01:16:32 | [CVE-2024-8122](https://nvd.nist.gov/vuln/detail/CVE-2024-8122) | Medium | 5.9 | The WSO2 Identity Server fails to enforce a default expiry time for SMS One-Time Passwords (OTPs) used in multi-factor… |
+| 2026-10-08 01:16:32 | [CVE-2026-87679](https://nvd.nist.gov/vuln/detail/CVE-2026-87679) | High | 8.5 | When Brocade Fabric OS versions before 10.0.1 processes trunk configuration operations, the application parses user-sup… |
+| 2026-10-08 01:16:32 | [CVE-2026-87680](https://nvd.nist.gov/vuln/detail/CVE-2026-87680) | High | 8.5 | A command injection vulnerability in the REST API management interface of Brocade Fabric OS versions before 10.0.1 allo… |
+| 2026-10-08 01:16:32 | [CVE-2026-87681](https://nvd.nist.gov/vuln/detail/CVE-2026-87681) | High | 7.1 | An Access Control Bypass vulnerability exists in the Role-Based Access Control (RBAC) validation engine of Brocade Fabr… |
 
 ## Data source
 
