@@ -9,37 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:18 UTC
+## Latest list — 2026-10-08 19:18 UTC
 
-New CVEs published between 2026-10-08 17:19 UTC and 2026-10-08 18:18 UTC.
+New CVEs published between 2026-10-08 18:18 UTC and 2026-10-08 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T18-18-34-296928Z.csv)
+[Full CSV](data/new-cves-2026-10-08T19-18-32-213986Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 18:17:19 | [CVE-2026-107302](https://nvd.nist.gov/vuln/detail/CVE-2026-107302) | High | 7.5 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the decoder reads the four-byte le… |
-| 2026-10-08 18:17:19 | [CVE-2026-107303](https://nvd.nist.gov/vuln/detail/CVE-2026-107303) | High | 7.6 | JHipster is a development platform to quickly generate, develop, and deploy modern web applications and microservice ar… |
-| 2026-10-08 18:17:19 | [CVE-2026-107332](https://nvd.nist.gov/vuln/detail/CVE-2026-107332) | Medium | 6.8 | Insecure file permissions in the CodeCatalyst connection handler in AWS Toolkit for VS Code before 4.10.0 allowed local… |
-| 2026-10-08 18:17:19 | [CVE-2026-107333](https://nvd.nist.gov/vuln/detail/CVE-2026-107333) | High | 8.1 | Malcolm's nginx based reverse proxy contains a URL path normalization inconsistency between its Lua based role-based ac… |
-| 2026-10-08 18:17:19 | [CVE-2026-107334](https://nvd.nist.gov/vuln/detail/CVE-2026-107334) | Medium | 5.4 | Malcolm's nginx Lua role-based access control (RBAC) layer decides whether an authenticated user may reach a role-restr… |
-| 2026-10-08 18:17:19 | [CVE-2026-107335](https://nvd.nist.gov/vuln/detail/CVE-2026-107335) | Medium | 6.5 | Malcolm's upload-processing pipeline (scripts/safe-extract.py) enforces entry-count, nesting-depth, and total-uncompres… |
-| 2026-10-08 18:17:20 | [CVE-2026-107336](https://nvd.nist.gov/vuln/detail/CVE-2026-107336) | Medium | 6.5 | Malcolm's front nginx reverse proxy defines a "Dashboards → Arkime shortcut" location using a case-insensitive regex ma… |
-| 2026-10-08 18:17:20 | [CVE-2026-107337](https://nvd.nist.gov/vuln/detail/CVE-2026-107337) | High | 7.1 | The Malcolm kiosk Flask application exposes a POST /script_call/<script> endpoint with zero authentication and wildcard… |
-| 2026-10-08 18:17:21 | [CVE-2026-107361](https://nvd.nist.gov/vuln/detail/CVE-2026-107361) | Medium | 4.2 | The Arkime live capture service (arkime-live) in Malcolm runs with network_mode: host, exposing port 8005 on all networ… |
-| 2026-10-08 18:17:21 | [CVE-2026-107362](https://nvd.nist.gov/vuln/detail/CVE-2026-107362) | High | 7.1 | Malcolm file-upload component ships the upstream FilePond PHP server (pqina/filepond-server-php) largely unmodified: Do… |
-| 2026-10-08 18:17:21 | [CVE-2026-107375](https://nvd.nist.gov/vuln/detail/CVE-2026-107375) | High | 8.8 | JHipster is a development platform to quickly generate, develop, and deploy modern web applications and microservice ar… |
-| 2026-10-08 18:17:22 | [CVE-2026-107376](https://nvd.nist.gov/vuln/detail/CVE-2026-107376) | High | 8.2 | webonyx graphql-php is a PHP implementation of the GraphQL specification. Prior to 15.32.3, GraphQL\Language\Parser per… |
-| 2026-10-08 18:17:22 | [CVE-2026-107377](https://nvd.nist.gov/vuln/detail/CVE-2026-107377) | High | 7.5 | datamodel-code-generator generates Python data models from schema definitions. From 0.59.0 until 0.81.0, an attacker-co… |
-| 2026-10-08 18:17:23 | [CVE-2026-107378](https://nvd.nist.gov/vuln/detail/CVE-2026-107378) | High | 8.7 | CairoSVG is an SVG converter based on Cairo, a 2D graphics library. Prior to 2.9.1, rendering an attacker-controlled SV… |
-| 2026-10-08 18:17:23 | [CVE-2026-107379](https://nvd.nist.gov/vuln/detail/CVE-2026-107379) | Medium | 6.5 | savg-sanitizer is a PHP SVG/XML sanitizer. Prior to 1.0.0, svg-sanitizer allows a crafted SVG DTD with a #FIXED attribu… |
-| 2026-10-08 18:17:23 | [CVE-2026-107380](https://nvd.nist.gov/vuln/detail/CVE-2026-107380) | Medium | 5.4 | savg-sanitizer is a PHP SVG/XML sanitizer. Prior to 1.0.0, svg-sanitizer's isHrefSafeValue() validates an SVG href afte… |
-| 2026-10-08 18:17:25 | [CVE-2026-107695](https://nvd.nist.gov/vuln/detail/CVE-2026-107695) | High | 7.1 | FFmpeg before 8.1.3 contains an infinite loop vulnerability in the HLS demuxer that allows remote attackers to cause de… |
-| 2026-10-08 18:17:26 | [CVE-2026-107696](https://nvd.nist.gov/vuln/detail/CVE-2026-107696) | High | 7.1 | FFmpeg through 9.0.2 contains an infinite loop vulnerability in ff_rtsp_connect() in libavformat/rtsp.c that follows RT… |
-| 2026-10-08 18:17:26 | [CVE-2026-107697](https://nvd.nist.gov/vuln/detail/CVE-2026-107697) | Medium | 5.3 | FFmpeg before 8.1.3 contains a protection mechanism failure in the HLS demuxer that allows attackers to bypass protocol… |
-| 2026-10-08 18:17:26 | [CVE-2026-107698](https://nvd.nist.gov/vuln/detail/CVE-2026-107698) | Medium | 5.3 | FFmpeg before 7.1.4 and 8.0.x before 8.0.2 contains a server-side request forgery vulnerability in ff_rtsp_connect() in… |
-| 2026-10-08 18:17:26 | [CVE-2026-107702](https://nvd.nist.gov/vuln/detail/CVE-2026-107702) | Medium | 5.3 | QloApps through 1.7.0 contains an authorization bypass vulnerability in AdminHotelRoomsBookingController::postProcess()… |
-| 2026-10-08 18:17:48 | [CVE-2026-62170](https://nvd.nist.gov/vuln/detail/CVE-2026-62170) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
-| 2026-10-08 18:17:48 | [CVE-2026-62171](https://nvd.nist.gov/vuln/detail/CVE-2026-62171) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
+| 2026-10-08 19:16:56 | [CVE-2026-101998](https://nvd.nist.gov/vuln/detail/CVE-2026-101998) | Medium | 5.9 | Docker Sandboxes could fail open while masking credentials in protected proxy responses. When a response-body read retu… |
+| 2026-10-08 19:16:56 | [CVE-2026-105452](https://nvd.nist.gov/vuln/detail/CVE-2026-105452) | Medium | 5.9 | Docker Sandboxes could forward a client-supplied credential alongside a credential injected by the host egress proxy. T… |
+| 2026-10-08 19:16:57 | [CVE-2026-105570](https://nvd.nist.gov/vuln/detail/CVE-2026-105570) | Medium | 6.7 | Docker Sandboxes compared OAuth token-endpoint hostnames case-sensitively when deciding whether to mask managed credent… |
+| 2026-10-08 19:16:58 | [CVE-2026-106428](https://nvd.nist.gov/vuln/detail/CVE-2026-106428) | Medium | 6.3 | An out-of-bounds read in SCRAM authentication response parsing in the MongoDB C Driver can read one byte beyond a fixed… |
+| 2026-10-08 19:16:58 | [CVE-2026-106429](https://nvd.nist.gov/vuln/detail/CVE-2026-106429) | High | 7.1 | An integer underflow in the KMS endpoint-parsing logic of MongoDB libmongocrypt can cause an allocation failure that te… |
+| 2026-10-08 19:16:58 | [CVE-2026-106430](https://nvd.nist.gov/vuln/detail/CVE-2026-106430) | Medium | 6.0 | The MongoDB C++ Driver discards content after an embedded NUL byte in certain field and collection names accepted by th… |
+| 2026-10-08 19:16:59 | [CVE-2026-106431](https://nvd.nist.gov/vuln/detail/CVE-2026-106431) | Medium | 5.9 | An off-by-one error in the BSON bulk document writer in the MongoDB C Driver can write one zero byte immediately past a… |
+| 2026-10-08 19:16:59 | [CVE-2026-106433](https://nvd.nist.gov/vuln/detail/CVE-2026-106433) | High | 8.7 | Improper state management in MongoDB libmongocrypt can cause provider-specific data to be treated as an incompatible ty… |
+| 2026-10-08 19:16:59 | [CVE-2026-106434](https://nvd.nist.gov/vuln/detail/CVE-2026-106434) | Medium | 5.3 | The explicit decryption component of MongoDB libmongocrypt can return an unrecognized encrypted payload unchanged inste… |
+| 2026-10-08 19:16:59 | [CVE-2026-106437](https://nvd.nist.gov/vuln/detail/CVE-2026-106437) | Medium | 5.9 | The BSON buffer-reservation API in the MongoDB C Driver can record a length smaller than the five-byte BSON minimum. La… |
+| 2026-10-08 19:16:59 | [CVE-2026-106438](https://nvd.nist.gov/vuln/detail/CVE-2026-106438) | Medium | 5.1 | An incorrect calculation in Decimal128 string parsing in the MongoDB C Driver can accept certain over-precision inputs… |
+| 2026-10-08 19:16:59 | [CVE-2026-107322](https://nvd.nist.gov/vuln/detail/CVE-2026-107322) | High | 8.5 | An incomplete list of disallowed inputs in Amazon Agent Plugins for AWS databases-on-aws plugin before 1.7.1 might allo… |
+| 2026-10-08 19:17:00 | [CVE-2026-107324](https://nvd.nist.gov/vuln/detail/CVE-2026-107324) | High | 8.2 | An integer overflow in BSON value-length handling in the MongoDB Go Driver can cause a runtime panic when an applicatio… |
+| 2026-10-08 19:17:00 | [CVE-2026-107325](https://nvd.nist.gov/vuln/detail/CVE-2026-107325) | High | 8.2 | Improper validation of a BSON array length in the MongoDB Go Driver can cause an out-of-bounds index and runtime panic… |
+| 2026-10-08 19:17:00 | [CVE-2026-107382](https://nvd.nist.gov/vuln/detail/CVE-2026-107382) | Medium | 5.9 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. From 3.3… |
+| 2026-10-08 19:17:00 | [CVE-2026-107383](https://nvd.nist.gov/vuln/detail/CVE-2026-107383) | High | 7.5 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to… |
+| 2026-10-08 19:17:00 | [CVE-2026-107384](https://nvd.nist.gov/vuln/detail/CVE-2026-107384) | High | 8.1 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. From 3.2… |
+| 2026-10-08 19:17:01 | [CVE-2026-107385](https://nvd.nist.gov/vuln/detail/CVE-2026-107385) | High | 7.4 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to… |
+| 2026-10-08 19:17:01 | [CVE-2026-107386](https://nvd.nist.gov/vuln/detail/CVE-2026-107386) | Medium | 6.3 | amqp091-go is a Go AMQP 0.9.1 client. From 1.13.0 until 1.14.0, the frame-size mitigation from the prior allocation adv… |
+| 2026-10-08 19:17:01 | [CVE-2026-107387](https://nvd.nist.gov/vuln/detail/CVE-2026-107387) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the APEv2 parser reads an attack… |
+| 2026-10-08 19:17:01 | [CVE-2026-107388](https://nvd.nist.gov/vuln/detail/CVE-2026-107388) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the ID3v2 parser trusts the sync… |
+| 2026-10-08 19:17:01 | [CVE-2026-107699](https://nvd.nist.gov/vuln/detail/CVE-2026-107699) | Critical | 9.3 | ppt2png through 0.0.6 contains an OS command injection vulnerability that allows attackers to execute operating system… |
+| 2026-10-08 19:17:02 | [CVE-2026-107700](https://nvd.nist.gov/vuln/detail/CVE-2026-107700) | Critical | 9.3 | dot-access 0.0.3 through 1.0.0 contains a code injection vulnerability that allows remote attackers to execute JavaScri… |
+| 2026-10-08 19:17:02 | [CVE-2026-107701](https://nvd.nist.gov/vuln/detail/CVE-2026-107701) | High | 8.8 | dot-access through 1.0.0 contains a prototype pollution vulnerability that allows attackers to modify Object.prototype… |
+| 2026-10-08 19:17:02 | [CVE-2026-107703](https://nvd.nist.gov/vuln/detail/CVE-2026-107703) | Critical | 9.3 | @enmaso/node-convert through 1.0.0 contains an OS command injection vulnerability in convert.js that allows attackers t… |
+| 2026-10-08 19:17:02 | [CVE-2026-107704](https://nvd.nist.gov/vuln/detail/CVE-2026-107704) | Critical | 9.3 | The image_optimizer Ruby gem 1.3.0 through 1.9.0 contains an OS command injection vulnerability in ImageOptimizer#ident… |
+| 2026-10-08 19:17:05 | [CVE-2026-40804](https://nvd.nist.gov/vuln/detail/CVE-2026-40804) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kodezen LLC aBloc… |
 
 ## Data source
 
