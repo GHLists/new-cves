@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-08T10:17:08.457Z,CVE-2026-107503,HIGH,7.1,Received,CWE-15; CWE-346; CWE-522,3,"Unvalidated environments URL allows OAuth authorization code + PKCE verifier theft and account takeover via injected OIDC authority in Ditto Explorer in Eclipse Ditto Ditto Explorer [3.6.0,3.9.7] allows a craft link set an attacker-controlled OIDC authority with autoSso enabled. The UI then automat…"
+2026-10-08T10:17:09.553Z,CVE-2026-107510,CRITICAL,9.1,Received,,1,An authenticated high privilege user can inject arguments in troubleshooting commands resulting in privilege escalation.
