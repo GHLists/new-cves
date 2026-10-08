@@ -9,47 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 20:18 UTC
+## Latest list — 2026-10-08 21:18 UTC
 
-New CVEs published between 2026-10-08 19:18 UTC and 2026-10-08 20:18 UTC.
+New CVEs published between 2026-10-08 20:18 UTC and 2026-10-08 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T20-18-40-126418Z.csv)
+[Full CSV](data/new-cves-2026-10-08T21-18-46-609039Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 19:18:41 | [CVE-2026-67693](https://nvd.nist.gov/vuln/detail/CVE-2026-67693) |  |  | An issue in gnutls v.3.8.13 allows an attacker to obtain sensitive information via failing to reject end-entity X.509 c… |
-| 2026-10-08 19:20:51 | [CVE-2026-84276](https://nvd.nist.gov/vuln/detail/CVE-2026-84276) | High | 7.5 | IBM Guardium Data Protection 12.2.2 is affected by a denial-of-service vulnerability in the edge-controller. An unauthe… |
-| 2026-10-08 19:20:51 | [CVE-2026-84278](https://nvd.nist.gov/vuln/detail/CVE-2026-84278) | High | 7.2 | IBM Guardium Data Protection 12.2 is affected by a command injection vulnerability in the SUID-root ssh_config_wrapper… |
-| 2026-10-08 19:20:51 | [CVE-2026-84290](https://nvd.nist.gov/vuln/detail/CVE-2026-84290) | Medium | 5.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is affected by an improper validation of user-supplied pointers in the Wf… |
-| 2026-10-08 19:20:52 | [CVE-2026-88648](https://nvd.nist.gov/vuln/detail/CVE-2026-88648) |  |  | Incomplete X.509 implementation in GnuTLS v3.8.13 allows attackers controlling a subordinate Certificate Authority to b… |
-| 2026-10-08 19:20:52 | [CVE-2026-95209](https://nvd.nist.gov/vuln/detail/CVE-2026-95209) |  |  | An issue in gnutls v3.8.13 causes legitimate CA certificates to be rejected, leading to a Denial of Service (DoS). |
-| 2026-10-08 20:17:29 | [CVE-2026-104075](https://nvd.nist.gov/vuln/detail/CVE-2026-104075) | Critical | 9.3 | TVU Networks Receiver/Transceiver devices running firmware before version 7.9 contain an authentication bypass vulnerab… |
-| 2026-10-08 20:17:29 | [CVE-2026-104076](https://nvd.nist.gov/vuln/detail/CVE-2026-104076) | Critical | 9.3 | TVU Networks Receiver/Transceiver devices running firmware before version 7.9 contain a missing authentication vulnerab… |
-| 2026-10-08 20:17:29 | [CVE-2026-106126](https://nvd.nist.gov/vuln/detail/CVE-2026-106126) | Critical | 9.4 | A command injection vulnerability in the Active Directory Events Listener of Tenable Identity Exposure (SaaS) allows an… |
-| 2026-10-08 20:17:30 | [CVE-2026-106432](https://nvd.nist.gov/vuln/detail/CVE-2026-106432) | Low | 2.0 | The BSON encoder in the MongoDB PHP Driver converts a string length to a 32-bit value without validation. When an affec… |
-| 2026-10-08 20:17:31 | [CVE-2026-106436](https://nvd.nist.gov/vuln/detail/CVE-2026-106436) | Medium | 6.3 | The BSON encoder in the MongoDB PHP Driver does not check some return values after a document exceeds libbson's size li… |
-| 2026-10-08 20:17:33 | [CVE-2026-107389](https://nvd.nist.gov/vuln/detail/CVE-2026-107389) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the Matroska and WebM EBML parse… |
-| 2026-10-08 20:17:33 | [CVE-2026-107390](https://nvd.nist.gov/vuln/detail/CVE-2026-107390) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the MP4 parser accepts an attack… |
-| 2026-10-08 20:17:33 | [CVE-2026-107391](https://nvd.nist.gov/vuln/detail/CVE-2026-107391) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. In the public development revision introduced afte… |
-| 2026-10-08 20:17:33 | [CVE-2026-107392](https://nvd.nist.gov/vuln/detail/CVE-2026-107392) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.15.0, the DSF parser handles an unreco… |
-| 2026-10-08 20:17:33 | [CVE-2026-107393](https://nvd.nist.gov/vuln/detail/CVE-2026-107393) | Medium | 6.1 | FreeScout is a self-hosted help desk and shared mailbox. Prior to 1.8.235, when APP_CLOUDFLARE_IS_USED is enabled, Free… |
-| 2026-10-08 20:17:34 | [CVE-2026-107394](https://nvd.nist.gov/vuln/detail/CVE-2026-107394) | Medium | 6.8 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
-| 2026-10-08 20:17:34 | [CVE-2026-107395](https://nvd.nist.gov/vuln/detail/CVE-2026-107395) | Medium | 4.3 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
-| 2026-10-08 20:17:34 | [CVE-2026-107396](https://nvd.nist.gov/vuln/detail/CVE-2026-107396) | Medium | 5.4 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
-| 2026-10-08 20:17:34 | [CVE-2026-107608](https://nvd.nist.gov/vuln/detail/CVE-2026-107608) | Medium | 6.8 | Improper link resolution before file access in the asset bundling output handling in AWS aws-cdk-lib before 2.267.0 mig… |
-| 2026-10-08 20:17:35 | [CVE-2026-107705](https://nvd.nist.gov/vuln/detail/CVE-2026-107705) | High | 8.3 | Poppler 0.42.0 through 26.10.0 contains a stack-based buffer overflow in Decrypt::revision6Hash() that allows attackers… |
-| 2026-10-08 20:17:35 | [CVE-2026-107706](https://nvd.nist.gov/vuln/detail/CVE-2026-107706) | Medium | 5.3 | Dolibarr ERP CRM before 24.0.2 contains an incorrect authorization vulnerability in htdocs/core/ajax/updateextrafield.p… |
-| 2026-10-08 20:17:35 | [CVE-2026-107707](https://nvd.nist.gov/vuln/detail/CVE-2026-107707) | High | 8.5 | Intego Antivirus for Windows through 3.0.0.1 contains a link following vulnerability in its optimization module that al… |
-| 2026-10-08 20:17:36 | [CVE-2026-82334](https://nvd.nist.gov/vuln/detail/CVE-2026-82334) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is vulnerable to a heap-based out-of-bounds read in the TDS7 LOGIN7 proto… |
-| 2026-10-08 20:17:36 | [CVE-2026-82335](https://nvd.nist.gov/vuln/detail/CVE-2026-82335) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is vulnerable to a heap-based buffer overflow in the MongoDB protocol par… |
-| 2026-10-08 20:17:37 | [CVE-2026-82344](https://nvd.nist.gov/vuln/detail/CVE-2026-82344) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1 is vulnerable to a heap-based buffer overflow in the S-TAP TrafficTap TDS login… |
-| 2026-10-08 20:17:37 | [CVE-2026-84244](https://nvd.nist.gov/vuln/detail/CVE-2026-84244) | Critical | 9.3 | IBM Guardium Data Protection 12.2 IBM Security Guardium Data Protection is vulnerable to stored cross-site scripting (X… |
-| 2026-10-08 20:17:37 | [CVE-2026-84245](https://nvd.nist.gov/vuln/detail/CVE-2026-84245) | High | 7.8 | IBM Guardium Data Protection 12.2 is vulnerable to a local privilege escalation in the cp_wrapper component. A low-priv… |
-| 2026-10-08 20:17:37 | [CVE-2026-84250](https://nvd.nist.gov/vuln/detail/CVE-2026-84250) | High | 8.4 | IBM Guardium Data Protection 12.2 is vulnerable due to weak cryptographic protection and a hard-coded recovery key in t… |
-| 2026-10-08 20:17:37 | [CVE-2026-84271](https://nvd.nist.gov/vuln/detail/CVE-2026-84271) | High | 7.8 | IBM Guardium Data Protection 12.2 is vulnerable to a signature verification bypass in the patch installer. An attacker… |
-| 2026-10-08 20:17:37 | [CVE-2026-84272](https://nvd.nist.gov/vuln/detail/CVE-2026-84272) | Critical | 9.8 | IBM Guardium Data Protection 12.1 and 12.2.2 are vulnerable to missing authentication in the edge-controller component.… |
-| 2026-10-08 20:17:37 | [CVE-2026-84274](https://nvd.nist.gov/vuln/detail/CVE-2026-84274) | Medium | 6.5 | IBM Guardium Data Protection 12.2.2 is affected by a sensitive information exposure vulnerability. During SECRET and AP… |
-| 2026-10-08 20:17:38 | [CVE-2026-84275](https://nvd.nist.gov/vuln/detail/CVE-2026-84275) | High | 7.5 | IBM Guardium Data Protection 12.2 is vulnerable to path traversal in the GIM file-upload functionality. An unauthentica… |
+| 2026-10-08 21:17:51 | [CVE-2026-101024](https://nvd.nist.gov/vuln/detail/CVE-2026-101024) | High | 8.7 | Satel Netco Design versions prior to v2.1.7 contains a relative path traversal vulnerability in its data export functio… |
+| 2026-10-08 21:17:51 | [CVE-2026-102368](https://nvd.nist.gov/vuln/detail/CVE-2026-102368) | Medium | 5.4 | Affected Tapo device firmware stores device-specific cryptographic material in plaintext within nonvolatile storage. An… |
+| 2026-10-08 21:17:51 | [CVE-2026-106435](https://nvd.nist.gov/vuln/detail/CVE-2026-106435) | Medium | 5.9 | The MongoDB Python Driver's binary accelerator can read outside a buffer when an application decodes malformed BSON con… |
+| 2026-10-08 21:17:51 | [CVE-2026-107318](https://nvd.nist.gov/vuln/detail/CVE-2026-107318) | High | 7.4 | @fastify/reply-from is a Fastify plugin that forwards requests to an upstream HTTP or HTTPS server. In versions prior t… |
+| 2026-10-08 21:17:51 | [CVE-2026-107397](https://nvd.nist.gov/vuln/detail/CVE-2026-107397) | Medium | 4.4 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
+| 2026-10-08 21:17:52 | [CVE-2026-107708](https://nvd.nist.gov/vuln/detail/CVE-2026-107708) | Medium | 6.9 | MIT krb5 through 1.22.2 contains a NULL pointer dereference vulnerability in the KDC's get_pac_princ_with_realm() that… |
+| 2026-10-08 21:17:52 | [CVE-2026-107778](https://nvd.nist.gov/vuln/detail/CVE-2026-107778) | High | 7.1 | MIT Kerberos 5 (krb5) through 1.22.2 contains a NULL pointer dereference in make_cred_list() in rd_cred.c that allows a… |
+| 2026-10-08 21:17:52 | [CVE-2026-107779](https://nvd.nist.gov/vuln/detail/CVE-2026-107779) | Critical | 9.3 | Dromara Skyeye through commit 003549ae5615bd114ba5bb8ddf6a8e8ead97c321 contains a missing authentication vulnerability… |
+| 2026-10-08 21:17:52 | [CVE-2026-107780](https://nvd.nist.gov/vuln/detail/CVE-2026-107780) | Critical | 9.3 | Dromara Skyeye through commit 003549ae5615bd114ba5bb8ddf6a8e8ead97c321 contains an OS command injection vulnerability i… |
+| 2026-10-08 21:17:53 | [CVE-2026-107781](https://nvd.nist.gov/vuln/detail/CVE-2026-107781) | Critical | 9.1 | Dromara Skyeye through commit 003549ae5615bd114ba5bb8ddf6a8e8ead97c321 contains a server-side request forgery and missi… |
+| 2026-10-08 21:17:53 | [CVE-2026-107782](https://nvd.nist.gov/vuln/detail/CVE-2026-107782) | High | 8.5 | System Informer before 4.0.26241.138 contains an incorrect authorization vulnerability in the phsvc helper that allows… |
+| 2026-10-08 21:17:53 | [CVE-2026-11318](https://nvd.nist.gov/vuln/detail/CVE-2026-11318) | High | 8.5 | Deskin through 3.3.4.3 contains a privilege escalation vulnerability in the com.deskin.service.installer XPC service th… |
+| 2026-10-08 21:17:54 | [CVE-2026-11888](https://nvd.nist.gov/vuln/detail/CVE-2026-11888) | Medium | 6.4 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 is vulnerable to an… |
+| 2026-10-08 21:17:54 | [CVE-2026-11930](https://nvd.nist.gov/vuln/detail/CVE-2026-11930) | Medium | 5.9 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 may not enforce aut… |
+| 2026-10-08 21:17:54 | [CVE-2026-11936](https://nvd.nist.gov/vuln/detail/CVE-2026-11936) | Medium | 4.9 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 local management in… |
+| 2026-10-08 21:17:54 | [CVE-2026-11939](https://nvd.nist.gov/vuln/detail/CVE-2026-11939) | Low | 2.7 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 may be vulnerable t… |
+| 2026-10-08 21:17:54 | [CVE-2026-12091](https://nvd.nist.gov/vuln/detail/CVE-2026-12091) | Low | 3.7 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a denia… |
+| 2026-10-08 21:17:55 | [CVE-2026-12109](https://nvd.nist.gov/vuln/detail/CVE-2026-12109) | Medium | 5.5 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow an atta… |
+| 2026-10-08 21:17:56 | [CVE-2026-16823](https://nvd.nist.gov/vuln/detail/CVE-2026-16823) | Critical | 9.1 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:56 | [CVE-2026-16830](https://nvd.nist.gov/vuln/detail/CVE-2026-16830) | Medium | 5.4 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:56 | [CVE-2026-16916](https://nvd.nist.gov/vuln/detail/CVE-2026-16916) | Critical | 9.1 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:56 | [CVE-2026-17189](https://nvd.nist.gov/vuln/detail/CVE-2026-17189) | High | 8.2 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 is vulnerable to cr… |
+| 2026-10-08 21:17:56 | [CVE-2026-18740](https://nvd.nist.gov/vuln/detail/CVE-2026-18740) | High | 8.8 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:56 | [CVE-2026-19482](https://nvd.nist.gov/vuln/detail/CVE-2026-19482) | High | 8.8 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:57 | [CVE-2026-19491](https://nvd.nist.gov/vuln/detail/CVE-2026-19491) | Critical | 9.1 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:57 | [CVE-2026-19493](https://nvd.nist.gov/vuln/detail/CVE-2026-19493) | High | 7.5 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:57 | [CVE-2026-19494](https://nvd.nist.gov/vuln/detail/CVE-2026-19494) | High | 8.1 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:57 | [CVE-2026-19498](https://nvd.nist.gov/vuln/detail/CVE-2026-19498) | Medium | 5.9 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:17:57 | [CVE-2026-19878](https://nvd.nist.gov/vuln/detail/CVE-2026-19878) | Medium | 6.5 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:18:01 | [CVE-2026-62181](https://nvd.nist.gov/vuln/detail/CVE-2026-62181) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
+| 2026-10-08 21:18:02 | [CVE-2026-78388](https://nvd.nist.gov/vuln/detail/CVE-2026-78388) | Medium | 4.3 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 is vulnerable to cr… |
+| 2026-10-08 21:18:02 | [CVE-2026-78399](https://nvd.nist.gov/vuln/detail/CVE-2026-78399) | Medium | 6.5 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow an auth… |
+| 2026-10-08 21:18:03 | [CVE-2026-78401](https://nvd.nist.gov/vuln/detail/CVE-2026-78401) | Critical | 9.8 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:18:03 | [CVE-2026-78406](https://nvd.nist.gov/vuln/detail/CVE-2026-78406) | Critical | 9.8 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 could allow a remot… |
+| 2026-10-08 21:18:03 | [CVE-2026-78407](https://nvd.nist.gov/vuln/detail/CVE-2026-78407) | Medium | 5.4 | IBM Security Verify Access 10.0 through 10.0.9.2 and IBM Verify Identity Access 11.0 through 11.0.3 are vulnerable to c… |
+| 2026-10-08 21:18:03 | [CVE-2026-79842](https://nvd.nist.gov/vuln/detail/CVE-2026-79842) | Critical | 9.1 | An authentication bypass vulnerability exists in HPE Intelligent Management Center (iMC) prior to v7.3 E0713 |
+| 2026-10-08 21:18:03 | [CVE-2026-95116](https://nvd.nist.gov/vuln/detail/CVE-2026-95116) |  |  | An issue in libming through 0.4.8 allows a remote attacker to cause a denial of service via the readtag_file() in src/b… |
 
 ## Data source
 
