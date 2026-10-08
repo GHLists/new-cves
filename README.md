@@ -9,38 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 17:19 UTC
+## Latest list — 2026-10-08 18:18 UTC
 
-New CVEs published between 2026-10-08 16:18 UTC and 2026-10-08 17:19 UTC.
+New CVEs published between 2026-10-08 17:19 UTC and 2026-10-08 18:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T17-19-55-009278Z.csv)
+[Full CSV](data/new-cves-2026-10-08T18-18-34-296928Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 17:17:11 | [CVE-2026-104077](https://nvd.nist.gov/vuln/detail/CVE-2026-104077) | High | 8.5 | Obsidian Desktop before 1.14.0 contains a remote code execution vulnerability that allows attackers to craft malicious… |
-| 2026-10-08 17:17:11 | [CVE-2026-104078](https://nvd.nist.gov/vuln/detail/CVE-2026-104078) | High | 8.4 | Obsidian Desktop before 1.14.0 contains a filter bypass vulnerability in the bundled MathJax 3.2.2 Safe component that… |
-| 2026-10-08 17:17:12 | [CVE-2026-105436](https://nvd.nist.gov/vuln/detail/CVE-2026-105436) | High | 8.8 | Deserialization of Untrusted Data vulnerability in MainWP MainWP Child mainwp-child allows Object Injection.This issue… |
-| 2026-10-08 17:17:14 | [CVE-2026-107290](https://nvd.nist.gov/vuln/detail/CVE-2026-107290) | Medium | 6.5 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 1.77.0 until 1… |
-| 2026-10-08 17:17:14 | [CVE-2026-107291](https://nvd.nist.gov/vuln/detail/CVE-2026-107291) | Low | 2.3 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 0.3.4 until 1.… |
-| 2026-10-08 17:17:14 | [CVE-2026-107292](https://nvd.nist.gov/vuln/detail/CVE-2026-107292) | Medium | 6.4 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 1.34.0 until 2… |
-| 2026-10-08 17:17:14 | [CVE-2026-107293](https://nvd.nist.gov/vuln/detail/CVE-2026-107293) | Low | 2.3 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 0.3.4 until 1.… |
-| 2026-10-08 17:17:15 | [CVE-2026-107294](https://nvd.nist.gov/vuln/detail/CVE-2026-107294) | Medium | 6.5 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 1.77.0 until 1… |
-| 2026-10-08 17:17:15 | [CVE-2026-107295](https://nvd.nist.gov/vuln/detail/CVE-2026-107295) | High | 7.6 | Pydantic AI is a Python agent framework for building applications and workflows with Generative AI. From 1.34.0 until 1… |
-| 2026-10-08 17:17:15 | [CVE-2026-107296](https://nvd.nist.gov/vuln/detail/CVE-2026-107296) | Low | 3.7 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, decoding a negative signed 64-bit… |
-| 2026-10-08 17:17:15 | [CVE-2026-107297](https://nvd.nist.gov/vuln/detail/CVE-2026-107297) | Medium | 5.9 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the streaming decoder reparses an… |
-| 2026-10-08 17:17:15 | [CVE-2026-107298](https://nvd.nist.gov/vuln/detail/CVE-2026-107298) | Medium | 5.3 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the array and map decoding paths h… |
-| 2026-10-08 17:17:15 | [CVE-2026-107299](https://nvd.nist.gov/vuln/detail/CVE-2026-107299) | Medium | 5.9 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the streaming decoder treats the r… |
-| 2026-10-08 17:17:16 | [CVE-2026-107301](https://nvd.nist.gov/vuln/detail/CVE-2026-107301) | Medium | 6.5 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, constructing msgpack5 with an empt… |
-| 2026-10-08 17:17:16 | [CVE-2026-107709](https://nvd.nist.gov/vuln/detail/CVE-2026-107709) |  |  | A path traversal vulnerability exists in Bower decompress-zip through version 0.3.3. The vulnerability located in `lib/… |
-| 2026-10-08 17:17:16 | [CVE-2026-10631](https://nvd.nist.gov/vuln/detail/CVE-2026-10631) | Medium | 6.5 | An authorization bypass in the EWS FindItem handler of Zimbra Collaboration Suite 10.1.0 through 10.1.19 allows an auth… |
-| 2026-10-08 17:17:16 | [CVE-2026-107300](https://nvd.nist.gov/vuln/detail/CVE-2026-107300) | High | 7.5 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the streaming decoder recursively… |
-| 2026-10-08 17:17:17 | [CVE-2026-50054](https://nvd.nist.gov/vuln/detail/CVE-2026-50054) | High | 7.1 | An authorization flaw in Zimbra Collaboration Suite’s GrantRightsRequest allows an attacker with access to an authentic… |
-| 2026-10-08 17:17:17 | [CVE-2026-50055](https://nvd.nist.gov/vuln/detail/CVE-2026-50055) | Medium | 6.5 | A policy-enforcement flaw in Zimbra Collaboration Suite allows an authenticated user to bypass disabled mail forwarding… |
-| 2026-10-08 17:17:17 | [CVE-2026-61801](https://nvd.nist.gov/vuln/detail/CVE-2026-61801) | Medium | 5.5 | The `github.com/moby/sys/user` package provides Go utilities for parsing and looking up entries in Unix-style user and… |
-| 2026-10-08 17:17:17 | [CVE-2026-62163](https://nvd.nist.gov/vuln/detail/CVE-2026-62163) |  |  | Rejected reason: Reason: This candidate is a duplicate of CVE-2026-60089. |
-| 2026-10-08 17:17:17 | [CVE-2026-62166](https://nvd.nist.gov/vuln/detail/CVE-2026-62166) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
-| 2026-10-08 17:17:17 | [CVE-2026-62167](https://nvd.nist.gov/vuln/detail/CVE-2026-62167) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
-| 2026-10-08 17:17:17 | [CVE-2026-88647](https://nvd.nist.gov/vuln/detail/CVE-2026-88647) |  |  | A hostname verification bypass in GnuTLS v3.8.13 allows attackers to circumvent the Common Name fallback mechanism and… |
+| 2026-10-08 18:17:19 | [CVE-2026-107302](https://nvd.nist.gov/vuln/detail/CVE-2026-107302) | High | 7.5 | msgpack5 is a msgpack v5 implementation for node.js and the browser. Prior to 6.1.0, the decoder reads the four-byte le… |
+| 2026-10-08 18:17:19 | [CVE-2026-107303](https://nvd.nist.gov/vuln/detail/CVE-2026-107303) | High | 7.6 | JHipster is a development platform to quickly generate, develop, and deploy modern web applications and microservice ar… |
+| 2026-10-08 18:17:19 | [CVE-2026-107332](https://nvd.nist.gov/vuln/detail/CVE-2026-107332) | Medium | 6.8 | Insecure file permissions in the CodeCatalyst connection handler in AWS Toolkit for VS Code before 4.10.0 allowed local… |
+| 2026-10-08 18:17:19 | [CVE-2026-107333](https://nvd.nist.gov/vuln/detail/CVE-2026-107333) | High | 8.1 | Malcolm's nginx based reverse proxy contains a URL path normalization inconsistency between its Lua based role-based ac… |
+| 2026-10-08 18:17:19 | [CVE-2026-107334](https://nvd.nist.gov/vuln/detail/CVE-2026-107334) | Medium | 5.4 | Malcolm's nginx Lua role-based access control (RBAC) layer decides whether an authenticated user may reach a role-restr… |
+| 2026-10-08 18:17:19 | [CVE-2026-107335](https://nvd.nist.gov/vuln/detail/CVE-2026-107335) | Medium | 6.5 | Malcolm's upload-processing pipeline (scripts/safe-extract.py) enforces entry-count, nesting-depth, and total-uncompres… |
+| 2026-10-08 18:17:20 | [CVE-2026-107336](https://nvd.nist.gov/vuln/detail/CVE-2026-107336) | Medium | 6.5 | Malcolm's front nginx reverse proxy defines a "Dashboards → Arkime shortcut" location using a case-insensitive regex ma… |
+| 2026-10-08 18:17:20 | [CVE-2026-107337](https://nvd.nist.gov/vuln/detail/CVE-2026-107337) | High | 7.1 | The Malcolm kiosk Flask application exposes a POST /script_call/<script> endpoint with zero authentication and wildcard… |
+| 2026-10-08 18:17:21 | [CVE-2026-107361](https://nvd.nist.gov/vuln/detail/CVE-2026-107361) | Medium | 4.2 | The Arkime live capture service (arkime-live) in Malcolm runs with network_mode: host, exposing port 8005 on all networ… |
+| 2026-10-08 18:17:21 | [CVE-2026-107362](https://nvd.nist.gov/vuln/detail/CVE-2026-107362) | High | 7.1 | Malcolm file-upload component ships the upstream FilePond PHP server (pqina/filepond-server-php) largely unmodified: Do… |
+| 2026-10-08 18:17:21 | [CVE-2026-107375](https://nvd.nist.gov/vuln/detail/CVE-2026-107375) | High | 8.8 | JHipster is a development platform to quickly generate, develop, and deploy modern web applications and microservice ar… |
+| 2026-10-08 18:17:22 | [CVE-2026-107376](https://nvd.nist.gov/vuln/detail/CVE-2026-107376) | High | 8.2 | webonyx graphql-php is a PHP implementation of the GraphQL specification. Prior to 15.32.3, GraphQL\Language\Parser per… |
+| 2026-10-08 18:17:22 | [CVE-2026-107377](https://nvd.nist.gov/vuln/detail/CVE-2026-107377) | High | 7.5 | datamodel-code-generator generates Python data models from schema definitions. From 0.59.0 until 0.81.0, an attacker-co… |
+| 2026-10-08 18:17:23 | [CVE-2026-107378](https://nvd.nist.gov/vuln/detail/CVE-2026-107378) | High | 8.7 | CairoSVG is an SVG converter based on Cairo, a 2D graphics library. Prior to 2.9.1, rendering an attacker-controlled SV… |
+| 2026-10-08 18:17:23 | [CVE-2026-107379](https://nvd.nist.gov/vuln/detail/CVE-2026-107379) | Medium | 6.5 | savg-sanitizer is a PHP SVG/XML sanitizer. Prior to 1.0.0, svg-sanitizer allows a crafted SVG DTD with a #FIXED attribu… |
+| 2026-10-08 18:17:23 | [CVE-2026-107380](https://nvd.nist.gov/vuln/detail/CVE-2026-107380) | Medium | 5.4 | savg-sanitizer is a PHP SVG/XML sanitizer. Prior to 1.0.0, svg-sanitizer's isHrefSafeValue() validates an SVG href afte… |
+| 2026-10-08 18:17:25 | [CVE-2026-107695](https://nvd.nist.gov/vuln/detail/CVE-2026-107695) | High | 7.1 | FFmpeg before 8.1.3 contains an infinite loop vulnerability in the HLS demuxer that allows remote attackers to cause de… |
+| 2026-10-08 18:17:26 | [CVE-2026-107696](https://nvd.nist.gov/vuln/detail/CVE-2026-107696) | High | 7.1 | FFmpeg through 9.0.2 contains an infinite loop vulnerability in ff_rtsp_connect() in libavformat/rtsp.c that follows RT… |
+| 2026-10-08 18:17:26 | [CVE-2026-107697](https://nvd.nist.gov/vuln/detail/CVE-2026-107697) | Medium | 5.3 | FFmpeg before 8.1.3 contains a protection mechanism failure in the HLS demuxer that allows attackers to bypass protocol… |
+| 2026-10-08 18:17:26 | [CVE-2026-107698](https://nvd.nist.gov/vuln/detail/CVE-2026-107698) | Medium | 5.3 | FFmpeg before 7.1.4 and 8.0.x before 8.0.2 contains a server-side request forgery vulnerability in ff_rtsp_connect() in… |
+| 2026-10-08 18:17:26 | [CVE-2026-107702](https://nvd.nist.gov/vuln/detail/CVE-2026-107702) | Medium | 5.3 | QloApps through 1.7.0 contains an authorization bypass vulnerability in AdminHotelRoomsBookingController::postProcess()… |
+| 2026-10-08 18:17:48 | [CVE-2026-62170](https://nvd.nist.gov/vuln/detail/CVE-2026-62170) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
+| 2026-10-08 18:17:48 | [CVE-2026-62171](https://nvd.nist.gov/vuln/detail/CVE-2026-62171) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
 
 ## Data source
 
