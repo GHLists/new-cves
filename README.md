@@ -9,30 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 04:18 UTC
+## Latest list — 2026-10-08 05:18 UTC
 
-New CVEs published between 2026-10-08 03:20 UTC and 2026-10-08 04:18 UTC.
+New CVEs published between 2026-10-08 04:18 UTC and 2026-10-08 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T04-18-38-351302Z.csv)
+[Full CSV](data/new-cves-2026-10-08T05-18-33-472137Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 04:17:14 | [CVE-2026-107444](https://nvd.nist.gov/vuln/detail/CVE-2026-107444) | Medium | 4.3 | A flaw was found in Katello where the Docker Tags repositories API does not properly enforce organization scoping when… |
-| 2026-10-08 04:17:19 | [CVE-2026-107445](https://nvd.nist.gov/vuln/detail/CVE-2026-107445) | Medium | 5.4 | A flaw was found in Katello where the Flatpak Remote Repositories API does not properly enforce authorization when acce… |
-| 2026-10-08 04:17:19 | [CVE-2026-107446](https://nvd.nist.gov/vuln/detail/CVE-2026-107446) | Medium | 6.8 | containerd overlaybd through 1.0.18 has a do_load_index (LSMT index loading) integer overflow (and resultant out-of-bou… |
-| 2026-10-08 04:17:19 | [CVE-2026-107448](https://nvd.nist.gov/vuln/detail/CVE-2026-107448) | Low | 3.4 | Magic: The Gathering Arena (Windows/Steam client; 2026.59.30.12801.127931.6 and certain later 2026.60.x builds) passes… |
-| 2026-10-08 04:17:52 | [CVE-2026-87660](https://nvd.nist.gov/vuln/detail/CVE-2026-87660) | High | 7.0 | An improper file permission and missing authorization vulnerability exists in the diagnostic kernel module subsystem of… |
-| 2026-10-08 04:17:52 | [CVE-2026-87666](https://nvd.nist.gov/vuln/detail/CVE-2026-87666) | High | 8.6 | An OS command injection vulnerability exists in the time and zone management subsystem of Brocade Fabric OS versions be… |
-| 2026-10-08 04:17:52 | [CVE-2026-87667](https://nvd.nist.gov/vuln/detail/CVE-2026-87667) | High | 8.4 | An argument injection vulnerability exists in the configuration management command-line utility of Brocade Fabric OS ve… |
-| 2026-10-08 04:17:53 | [CVE-2026-87673](https://nvd.nist.gov/vuln/detail/CVE-2026-87673) | High | 7.0 | An OS command injection vulnerability exists in maintenance command-line diagnostic utilities on Brocade Fabric OS vers… |
-| 2026-10-08 04:17:53 | [CVE-2026-87674](https://nvd.nist.gov/vuln/detail/CVE-2026-87674) | High | 8.5 | A local privilege escalation vulnerability exists in the system logging daemon of Brocade Fabric OS versions before 9.2… |
-| 2026-10-08 04:17:55 | [CVE-2026-87675](https://nvd.nist.gov/vuln/detail/CVE-2026-87675) | High | 7.3 | An OS command injection vulnerability exists in the configuration management subsystem of Brocade Fabric OS versions be… |
-| 2026-10-08 04:17:56 | [CVE-2026-87685](https://nvd.nist.gov/vuln/detail/CVE-2026-87685) | High | 8.4 | An arbitrary file manipulation vulnerability exists in the WebTools management interface of Brocade Fabric OS versions… |
-| 2026-10-08 04:17:56 | [CVE-2026-87687](https://nvd.nist.gov/vuln/detail/CVE-2026-87687) | High | 8.5 | An authorization and input validation vulnerability exists in Brocade Fabric OS versions before 9.2.2d and 10.0.0 throu… |
-| 2026-10-08 04:17:56 | [CVE-2026-87688](https://nvd.nist.gov/vuln/detail/CVE-2026-87688) | High | 8.5 | An input validation vulnerability exists in the security certificate management component of the Brocade Fabric OS admi… |
-| 2026-10-08 04:18:00 | [CVE-2026-94575](https://nvd.nist.gov/vuln/detail/CVE-2026-94575) | Medium | 6.9 | A logic vulnerability in Brocade Fabric OS versions before 10.0.1 web management framework allows an authenticated, low… |
-| 2026-10-08 04:18:00 | [CVE-2026-94580](https://nvd.nist.gov/vuln/detail/CVE-2026-94580) | Medium | 5.7 | An arbitrary file and directory deletion vulnerability exists in the REST API management interface handling USB storage… |
-| 2026-10-08 04:18:00 | [CVE-2026-94584](https://nvd.nist.gov/vuln/detail/CVE-2026-94584) | Low | 2.1 | A race condition and thread-safety vulnerability exists in the web management daemon of Brocade Fabric OS versions befo… |
+| 2026-10-08 05:17:03 | [CVE-2023-5648](https://nvd.nist.gov/vuln/detail/CVE-2023-5648) | Medium | 6.5 | In Brocade ASCG before Brocade ASCG v3.0, several security-related HTTP Headers were missing in various Brocade ASCG UR… |
+| 2026-10-08 05:17:03 | [CVE-2023-5649](https://nvd.nist.gov/vuln/detail/CVE-2023-5649) | Medium | 6.8 | An Improper Input Validation vulnerability for the registered case credentials in Brocade ASCG before v3.0 could allow… |
+| 2026-10-08 05:17:04 | [CVE-2026-107449](https://nvd.nist.gov/vuln/detail/CVE-2026-107449) | Low | 3.4 | linuxserver Heimdall through 2.8.3 applies its SafeUrlFetcher SSRF protection mechanism only to ItemController; the enh… |
+| 2026-10-08 05:17:04 | [CVE-2026-107450](https://nvd.nist.gov/vuln/detail/CVE-2026-107450) | High | 8.1 | In Stump through 0.1.10, the updateSmartList and deleteSmartList GraphQL mutations (crates/graphql/src/mutation/smart_l… |
+| 2026-10-08 05:17:04 | [CVE-2026-17196](https://nvd.nist.gov/vuln/detail/CVE-2026-17196) | High | 8.8 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Unrestricted File Type Upload in all v… |
+| 2026-10-08 05:17:04 | [CVE-2026-17609](https://nvd.nist.gov/vuln/detail/CVE-2026-17609) | Critical | 9.1 | The Super Forms – Drag & Drop Form Builder plugin for WordPress is vulnerable to Arbitrary Directory Deletion in all ve… |
+| 2026-10-08 05:17:05 | [CVE-2026-87661](https://nvd.nist.gov/vuln/detail/CVE-2026-87661) | Medium | 6.8 | Brocade Fabric OS versions before 9.2.2d and 10.0.0 through 10.0.0a1 directly accepts Apache configuration file data du… |
+| 2026-10-08 05:17:05 | [CVE-2026-87662](https://nvd.nist.gov/vuln/detail/CVE-2026-87662) | High | 7.0 | Brocade Fabric versions before 9.2.2d and 10.0.0 through 10.0.0a1 handling of specific download protocols utilizes unsa… |
+| 2026-10-08 05:17:05 | [CVE-2026-87663](https://nvd.nist.gov/vuln/detail/CVE-2026-87663) | High | 7.1 | An authentication bypass and command injection vulnerability exists in the inter-switch remote execution service of Bro… |
+| 2026-10-08 05:17:05 | [CVE-2026-87664](https://nvd.nist.gov/vuln/detail/CVE-2026-87664) | High | 8.5 | A session context forgery vulnerability exists in the web management daemon of Brocade Fabric OS versions 9.2.2d and 10… |
+| 2026-10-08 05:17:05 | [CVE-2026-87677](https://nvd.nist.gov/vuln/detail/CVE-2026-87677) | Medium | 5.4 | An OS command injection vulnerability exists in the account management subsystem of Brocade Fabric OS versions before 9… |
+| 2026-10-08 05:17:05 | [CVE-2026-94576](https://nvd.nist.gov/vuln/detail/CVE-2026-94576) | Medium | 5.9 | An authentication logic and privilege escalation vulnerability exists in the account management interface of Brocade Fa… |
+| 2026-10-08 05:17:06 | [CVE-2026-94577](https://nvd.nist.gov/vuln/detail/CVE-2026-94577) | High | 7.3 | A privilege escalation vulnerability exists in the internal Command-Line Interface (CLI) authorization handling mechani… |
+| 2026-10-08 05:17:06 | [CVE-2026-94579](https://nvd.nist.gov/vuln/detail/CVE-2026-94579) | Medium | 5.4 | An OS command injection vulnerability exists in the PAM (Pluggable Authentication Module) session cleanup routines duri… |
+| 2026-10-08 05:17:06 | [CVE-2026-94581](https://nvd.nist.gov/vuln/detail/CVE-2026-94581) | High | 8.5 | An OS command injection vulnerability exists in the REST API management interface of Brocade Fabric OS versions before… |
+| 2026-10-08 05:17:06 | [CVE-2026-94585](https://nvd.nist.gov/vuln/detail/CVE-2026-94585) | High | 7.7 | An authentication bypass vulnerability exists in the web management interface of Brocade Fabric OS versions before 9.2.… |
+| 2026-10-08 05:17:06 | [CVE-2026-94586](https://nvd.nist.gov/vuln/detail/CVE-2026-94586) | High | 8.5 | A command injection vulnerability exists in the WebTools administrative interface handling configuration download or fi… |
+| 2026-10-08 05:17:06 | [CVE-2026-94587](https://nvd.nist.gov/vuln/detail/CVE-2026-94587) | Medium | 6.9 | A buffer overflow vulnerability exists in the WebTools administrative interface handling configuration download or file… |
 
 ## Data source
 
