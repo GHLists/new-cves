@@ -9,41 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 19:18 UTC
+## Latest list — 2026-10-08 20:18 UTC
 
-New CVEs published between 2026-10-08 18:18 UTC and 2026-10-08 19:18 UTC.
+New CVEs published between 2026-10-08 19:18 UTC and 2026-10-08 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T19-18-32-213986Z.csv)
+[Full CSV](data/new-cves-2026-10-08T20-18-40-126418Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 19:16:56 | [CVE-2026-101998](https://nvd.nist.gov/vuln/detail/CVE-2026-101998) | Medium | 5.9 | Docker Sandboxes could fail open while masking credentials in protected proxy responses. When a response-body read retu… |
-| 2026-10-08 19:16:56 | [CVE-2026-105452](https://nvd.nist.gov/vuln/detail/CVE-2026-105452) | Medium | 5.9 | Docker Sandboxes could forward a client-supplied credential alongside a credential injected by the host egress proxy. T… |
-| 2026-10-08 19:16:57 | [CVE-2026-105570](https://nvd.nist.gov/vuln/detail/CVE-2026-105570) | Medium | 6.7 | Docker Sandboxes compared OAuth token-endpoint hostnames case-sensitively when deciding whether to mask managed credent… |
-| 2026-10-08 19:16:58 | [CVE-2026-106428](https://nvd.nist.gov/vuln/detail/CVE-2026-106428) | Medium | 6.3 | An out-of-bounds read in SCRAM authentication response parsing in the MongoDB C Driver can read one byte beyond a fixed… |
-| 2026-10-08 19:16:58 | [CVE-2026-106429](https://nvd.nist.gov/vuln/detail/CVE-2026-106429) | High | 7.1 | An integer underflow in the KMS endpoint-parsing logic of MongoDB libmongocrypt can cause an allocation failure that te… |
-| 2026-10-08 19:16:58 | [CVE-2026-106430](https://nvd.nist.gov/vuln/detail/CVE-2026-106430) | Medium | 6.0 | The MongoDB C++ Driver discards content after an embedded NUL byte in certain field and collection names accepted by th… |
-| 2026-10-08 19:16:59 | [CVE-2026-106431](https://nvd.nist.gov/vuln/detail/CVE-2026-106431) | Medium | 5.9 | An off-by-one error in the BSON bulk document writer in the MongoDB C Driver can write one zero byte immediately past a… |
-| 2026-10-08 19:16:59 | [CVE-2026-106433](https://nvd.nist.gov/vuln/detail/CVE-2026-106433) | High | 8.7 | Improper state management in MongoDB libmongocrypt can cause provider-specific data to be treated as an incompatible ty… |
-| 2026-10-08 19:16:59 | [CVE-2026-106434](https://nvd.nist.gov/vuln/detail/CVE-2026-106434) | Medium | 5.3 | The explicit decryption component of MongoDB libmongocrypt can return an unrecognized encrypted payload unchanged inste… |
-| 2026-10-08 19:16:59 | [CVE-2026-106437](https://nvd.nist.gov/vuln/detail/CVE-2026-106437) | Medium | 5.9 | The BSON buffer-reservation API in the MongoDB C Driver can record a length smaller than the five-byte BSON minimum. La… |
-| 2026-10-08 19:16:59 | [CVE-2026-106438](https://nvd.nist.gov/vuln/detail/CVE-2026-106438) | Medium | 5.1 | An incorrect calculation in Decimal128 string parsing in the MongoDB C Driver can accept certain over-precision inputs… |
-| 2026-10-08 19:16:59 | [CVE-2026-107322](https://nvd.nist.gov/vuln/detail/CVE-2026-107322) | High | 8.5 | An incomplete list of disallowed inputs in Amazon Agent Plugins for AWS databases-on-aws plugin before 1.7.1 might allo… |
-| 2026-10-08 19:17:00 | [CVE-2026-107324](https://nvd.nist.gov/vuln/detail/CVE-2026-107324) | High | 8.2 | An integer overflow in BSON value-length handling in the MongoDB Go Driver can cause a runtime panic when an applicatio… |
-| 2026-10-08 19:17:00 | [CVE-2026-107325](https://nvd.nist.gov/vuln/detail/CVE-2026-107325) | High | 8.2 | Improper validation of a BSON array length in the MongoDB Go Driver can cause an out-of-bounds index and runtime panic… |
-| 2026-10-08 19:17:00 | [CVE-2026-107382](https://nvd.nist.gov/vuln/detail/CVE-2026-107382) | Medium | 5.9 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. From 3.3… |
-| 2026-10-08 19:17:00 | [CVE-2026-107383](https://nvd.nist.gov/vuln/detail/CVE-2026-107383) | High | 7.5 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to… |
-| 2026-10-08 19:17:00 | [CVE-2026-107384](https://nvd.nist.gov/vuln/detail/CVE-2026-107384) | High | 8.1 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. From 3.2… |
-| 2026-10-08 19:17:01 | [CVE-2026-107385](https://nvd.nist.gov/vuln/detail/CVE-2026-107385) | High | 7.4 | MariaDB Connector/Node.js is used to connect applications developed on Node.js to MariaDB and MySQL databases. Prior to… |
-| 2026-10-08 19:17:01 | [CVE-2026-107386](https://nvd.nist.gov/vuln/detail/CVE-2026-107386) | Medium | 6.3 | amqp091-go is a Go AMQP 0.9.1 client. From 1.13.0 until 1.14.0, the frame-size mitigation from the prior allocation adv… |
-| 2026-10-08 19:17:01 | [CVE-2026-107387](https://nvd.nist.gov/vuln/detail/CVE-2026-107387) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the APEv2 parser reads an attack… |
-| 2026-10-08 19:17:01 | [CVE-2026-107388](https://nvd.nist.gov/vuln/detail/CVE-2026-107388) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the ID3v2 parser trusts the sync… |
-| 2026-10-08 19:17:01 | [CVE-2026-107699](https://nvd.nist.gov/vuln/detail/CVE-2026-107699) | Critical | 9.3 | ppt2png through 0.0.6 contains an OS command injection vulnerability that allows attackers to execute operating system… |
-| 2026-10-08 19:17:02 | [CVE-2026-107700](https://nvd.nist.gov/vuln/detail/CVE-2026-107700) | Critical | 9.3 | dot-access 0.0.3 through 1.0.0 contains a code injection vulnerability that allows remote attackers to execute JavaScri… |
-| 2026-10-08 19:17:02 | [CVE-2026-107701](https://nvd.nist.gov/vuln/detail/CVE-2026-107701) | High | 8.8 | dot-access through 1.0.0 contains a prototype pollution vulnerability that allows attackers to modify Object.prototype… |
-| 2026-10-08 19:17:02 | [CVE-2026-107703](https://nvd.nist.gov/vuln/detail/CVE-2026-107703) | Critical | 9.3 | @enmaso/node-convert through 1.0.0 contains an OS command injection vulnerability in convert.js that allows attackers t… |
-| 2026-10-08 19:17:02 | [CVE-2026-107704](https://nvd.nist.gov/vuln/detail/CVE-2026-107704) | Critical | 9.3 | The image_optimizer Ruby gem 1.3.0 through 1.9.0 contains an OS command injection vulnerability in ImageOptimizer#ident… |
-| 2026-10-08 19:17:05 | [CVE-2026-40804](https://nvd.nist.gov/vuln/detail/CVE-2026-40804) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kodezen LLC aBloc… |
+| 2026-10-08 19:18:41 | [CVE-2026-67693](https://nvd.nist.gov/vuln/detail/CVE-2026-67693) |  |  | An issue in gnutls v.3.8.13 allows an attacker to obtain sensitive information via failing to reject end-entity X.509 c… |
+| 2026-10-08 19:20:51 | [CVE-2026-84276](https://nvd.nist.gov/vuln/detail/CVE-2026-84276) | High | 7.5 | IBM Guardium Data Protection 12.2.2 is affected by a denial-of-service vulnerability in the edge-controller. An unauthe… |
+| 2026-10-08 19:20:51 | [CVE-2026-84278](https://nvd.nist.gov/vuln/detail/CVE-2026-84278) | High | 7.2 | IBM Guardium Data Protection 12.2 is affected by a command injection vulnerability in the SUID-root ssh_config_wrapper… |
+| 2026-10-08 19:20:51 | [CVE-2026-84290](https://nvd.nist.gov/vuln/detail/CVE-2026-84290) | Medium | 5.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is affected by an improper validation of user-supplied pointers in the Wf… |
+| 2026-10-08 19:20:52 | [CVE-2026-88648](https://nvd.nist.gov/vuln/detail/CVE-2026-88648) |  |  | Incomplete X.509 implementation in GnuTLS v3.8.13 allows attackers controlling a subordinate Certificate Authority to b… |
+| 2026-10-08 19:20:52 | [CVE-2026-95209](https://nvd.nist.gov/vuln/detail/CVE-2026-95209) |  |  | An issue in gnutls v3.8.13 causes legitimate CA certificates to be rejected, leading to a Denial of Service (DoS). |
+| 2026-10-08 20:17:29 | [CVE-2026-104075](https://nvd.nist.gov/vuln/detail/CVE-2026-104075) | Critical | 9.3 | TVU Networks Receiver/Transceiver devices running firmware before version 7.9 contain an authentication bypass vulnerab… |
+| 2026-10-08 20:17:29 | [CVE-2026-104076](https://nvd.nist.gov/vuln/detail/CVE-2026-104076) | Critical | 9.3 | TVU Networks Receiver/Transceiver devices running firmware before version 7.9 contain a missing authentication vulnerab… |
+| 2026-10-08 20:17:29 | [CVE-2026-106126](https://nvd.nist.gov/vuln/detail/CVE-2026-106126) | Critical | 9.4 | A command injection vulnerability in the Active Directory Events Listener of Tenable Identity Exposure (SaaS) allows an… |
+| 2026-10-08 20:17:30 | [CVE-2026-106432](https://nvd.nist.gov/vuln/detail/CVE-2026-106432) | Low | 2.0 | The BSON encoder in the MongoDB PHP Driver converts a string length to a 32-bit value without validation. When an affec… |
+| 2026-10-08 20:17:31 | [CVE-2026-106436](https://nvd.nist.gov/vuln/detail/CVE-2026-106436) | Medium | 6.3 | The BSON encoder in the MongoDB PHP Driver does not check some return values after a document exceeds libbson's size li… |
+| 2026-10-08 20:17:33 | [CVE-2026-107389](https://nvd.nist.gov/vuln/detail/CVE-2026-107389) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the Matroska and WebM EBML parse… |
+| 2026-10-08 20:17:33 | [CVE-2026-107390](https://nvd.nist.gov/vuln/detail/CVE-2026-107390) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.16.0, the MP4 parser accepts an attack… |
+| 2026-10-08 20:17:33 | [CVE-2026-107391](https://nvd.nist.gov/vuln/detail/CVE-2026-107391) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. In the public development revision introduced afte… |
+| 2026-10-08 20:17:33 | [CVE-2026-107392](https://nvd.nist.gov/vuln/detail/CVE-2026-107392) | Medium | 6.2 | music-metadata is a metadata parser for audio and video media files. Prior to 11.15.0, the DSF parser handles an unreco… |
+| 2026-10-08 20:17:33 | [CVE-2026-107393](https://nvd.nist.gov/vuln/detail/CVE-2026-107393) | Medium | 6.1 | FreeScout is a self-hosted help desk and shared mailbox. Prior to 1.8.235, when APP_CLOUDFLARE_IS_USED is enabled, Free… |
+| 2026-10-08 20:17:34 | [CVE-2026-107394](https://nvd.nist.gov/vuln/detail/CVE-2026-107394) | Medium | 6.8 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
+| 2026-10-08 20:17:34 | [CVE-2026-107395](https://nvd.nist.gov/vuln/detail/CVE-2026-107395) | Medium | 4.3 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
+| 2026-10-08 20:17:34 | [CVE-2026-107396](https://nvd.nist.gov/vuln/detail/CVE-2026-107396) | Medium | 5.4 | Indico is an event management system that uses Flask-Multipass, a multi-backend authentication system for Flask. Prior… |
+| 2026-10-08 20:17:34 | [CVE-2026-107608](https://nvd.nist.gov/vuln/detail/CVE-2026-107608) | Medium | 6.8 | Improper link resolution before file access in the asset bundling output handling in AWS aws-cdk-lib before 2.267.0 mig… |
+| 2026-10-08 20:17:35 | [CVE-2026-107705](https://nvd.nist.gov/vuln/detail/CVE-2026-107705) | High | 8.3 | Poppler 0.42.0 through 26.10.0 contains a stack-based buffer overflow in Decrypt::revision6Hash() that allows attackers… |
+| 2026-10-08 20:17:35 | [CVE-2026-107706](https://nvd.nist.gov/vuln/detail/CVE-2026-107706) | Medium | 5.3 | Dolibarr ERP CRM before 24.0.2 contains an incorrect authorization vulnerability in htdocs/core/ajax/updateextrafield.p… |
+| 2026-10-08 20:17:35 | [CVE-2026-107707](https://nvd.nist.gov/vuln/detail/CVE-2026-107707) | High | 8.5 | Intego Antivirus for Windows through 3.0.0.1 contains a link following vulnerability in its optimization module that al… |
+| 2026-10-08 20:17:36 | [CVE-2026-82334](https://nvd.nist.gov/vuln/detail/CVE-2026-82334) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is vulnerable to a heap-based out-of-bounds read in the TDS7 LOGIN7 proto… |
+| 2026-10-08 20:17:36 | [CVE-2026-82335](https://nvd.nist.gov/vuln/detail/CVE-2026-82335) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1, 12.2 is vulnerable to a heap-based buffer overflow in the MongoDB protocol par… |
+| 2026-10-08 20:17:37 | [CVE-2026-82344](https://nvd.nist.gov/vuln/detail/CVE-2026-82344) | High | 8.1 | IBM Guardium Data Protection 12.0, 12.1 is vulnerable to a heap-based buffer overflow in the S-TAP TrafficTap TDS login… |
+| 2026-10-08 20:17:37 | [CVE-2026-84244](https://nvd.nist.gov/vuln/detail/CVE-2026-84244) | Critical | 9.3 | IBM Guardium Data Protection 12.2 IBM Security Guardium Data Protection is vulnerable to stored cross-site scripting (X… |
+| 2026-10-08 20:17:37 | [CVE-2026-84245](https://nvd.nist.gov/vuln/detail/CVE-2026-84245) | High | 7.8 | IBM Guardium Data Protection 12.2 is vulnerable to a local privilege escalation in the cp_wrapper component. A low-priv… |
+| 2026-10-08 20:17:37 | [CVE-2026-84250](https://nvd.nist.gov/vuln/detail/CVE-2026-84250) | High | 8.4 | IBM Guardium Data Protection 12.2 is vulnerable due to weak cryptographic protection and a hard-coded recovery key in t… |
+| 2026-10-08 20:17:37 | [CVE-2026-84271](https://nvd.nist.gov/vuln/detail/CVE-2026-84271) | High | 7.8 | IBM Guardium Data Protection 12.2 is vulnerable to a signature verification bypass in the patch installer. An attacker… |
+| 2026-10-08 20:17:37 | [CVE-2026-84272](https://nvd.nist.gov/vuln/detail/CVE-2026-84272) | Critical | 9.8 | IBM Guardium Data Protection 12.1 and 12.2.2 are vulnerable to missing authentication in the edge-controller component.… |
+| 2026-10-08 20:17:37 | [CVE-2026-84274](https://nvd.nist.gov/vuln/detail/CVE-2026-84274) | Medium | 6.5 | IBM Guardium Data Protection 12.2.2 is affected by a sensitive information exposure vulnerability. During SECRET and AP… |
+| 2026-10-08 20:17:38 | [CVE-2026-84275](https://nvd.nist.gov/vuln/detail/CVE-2026-84275) | High | 7.5 | IBM Guardium Data Protection 12.2 is vulnerable to path traversal in the GIM file-upload functionality. An unauthentica… |
 
 ## Data source
 
