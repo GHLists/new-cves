@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-08T08:16:34.193Z,CVE-2026-107466,MEDIUM,6.1,Received,CWE-22,2,"A flaw was found in flatpak-builder. This vulnerability allows an attacker to cause information disclosure by convincing a user or continuous integration (CI) system to process a crafted build manifest. By specifying local file Uniform Resource Identifiers (URIs) within source download definitions,…"
+2026-10-08T08:16:34.367Z,CVE-2026-93699,HIGH,8.5,Received,CWE-88,1,Argument injection in WP Toolkit for cPanel allows local users to execute arbitrary code as other accounts on the same server.
