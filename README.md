@@ -9,32 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:18 UTC
+## Latest list — 2026-10-08 13:19 UTC
 
-New CVEs published between 2026-10-08 11:19 UTC and 2026-10-08 12:18 UTC.
+New CVEs published between 2026-10-08 12:18 UTC and 2026-10-08 13:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-08T12-18-37-337721Z.csv)
+[Full CSV](data/new-cves-2026-10-08T13-19-24-338001Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-08 12:17:14 | [CVE-2026-107275](https://nvd.nist.gov/vuln/detail/CVE-2026-107275) | Medium | 6.8 | @fastify/jwt is a JSON Web Token plugin for the Fastify web framework. In versions before 10.2.3, a time span passed to… |
-| 2026-10-08 12:17:14 | [CVE-2026-107570](https://nvd.nist.gov/vuln/detail/CVE-2026-107570) | Low | 2.5 | heap OOB write in convert_file_from_to() via a crafted Content-Type header allows attacker to OOB write when email is u… |
-| 2026-10-08 12:17:14 | [CVE-2026-107572](https://nvd.nist.gov/vuln/detail/CVE-2026-107572) | Medium | 6.5 | Inefficient complexity in the Sieve filter evaluation of Progressive Robot hMailServer 6.2.24 through 6.3.5 allows an a… |
-| 2026-10-08 12:17:15 | [CVE-2026-107573](https://nvd.nist.gov/vuln/detail/CVE-2026-107573) | High | 7.8 | Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.0.0 through 6.3.5 allow a loc… |
-| 2026-10-08 12:17:15 | [CVE-2026-107574](https://nvd.nist.gov/vuln/detail/CVE-2026-107574) | High | 7.5 | Inefficient algorithmic complexity in the JSON reader of Progressive Robot hMailServer allows a remote unauthenticated… |
-| 2026-10-08 12:17:15 | [CVE-2026-107575](https://nvd.nist.gov/vuln/detail/CVE-2026-107575) | Medium | 5.3 | Inefficient algorithmic complexity in the SPF macro expansion of Progressive Robot hMailServer 6.3.4 and 6.3.5 allows a… |
-| 2026-10-08 12:17:15 | [CVE-2026-107576](https://nvd.nist.gov/vuln/detail/CVE-2026-107576) | High | 7.5 | Inefficient algorithmic complexity in the inbound DKIM and ARC signature verification of Progressive Robot hMailServer… |
-| 2026-10-08 12:17:15 | [CVE-2026-107577](https://nvd.nist.gov/vuln/detail/CVE-2026-107577) | High | 7.5 | Inefficient algorithmic complexity and a non-terminating loop in the MIME processing of received messages in Progressiv… |
-| 2026-10-08 12:17:15 | [CVE-2026-107578](https://nvd.nist.gov/vuln/detail/CVE-2026-107578) | Medium | 6.7 | Improper link resolution and external control of file paths in the administrative command-line operations of hMailServe… |
-| 2026-10-08 12:17:15 | [CVE-2026-107579](https://nvd.nist.gov/vuln/detail/CVE-2026-107579) | High | 7.5 | Inefficient algorithmic complexity in the bounce and complaint processing of Progressive Robot hMailServer 6.3.4 and 6.… |
-| 2026-10-08 12:17:16 | [CVE-2026-107580](https://nvd.nist.gov/vuln/detail/CVE-2026-107580) | Medium | 6.5 | Inefficient algorithmic complexity in the decoding of message header fields in Progressive Robot hMailServer 6.0.0 thro… |
-| 2026-10-08 12:17:16 | [CVE-2026-107581](https://nvd.nist.gov/vuln/detail/CVE-2026-107581) | Medium | 6.5 | Progressive Robot hMailServer 6.0.0 through 6.3.5 processes several IMAP commands from a signed-in account in time quad… |
-| 2026-10-08 12:17:16 | [CVE-2026-107582](https://nvd.nist.gov/vuln/detail/CVE-2026-107582) | Medium | 6.5 | Inefficient algorithmic complexity in the REST API (6.3.3 through 6.3.5) and the IMAP PREVIEW response (6.2.22 through… |
-| 2026-10-08 12:17:16 | [CVE-2026-107583](https://nvd.nist.gov/vuln/detail/CVE-2026-107583) | Medium | 6.5 | Inefficient algorithmic complexity in the webmail's message view of the REST API in Progressive Robot hMailServer 6.3.2… |
-| 2026-10-08 12:17:16 | [CVE-2026-107584](https://nvd.nist.gov/vuln/detail/CVE-2026-107584) | High | 7.4 | Progressive Robot hMailServer 6.0.0 through 6.3.5 fails open when applying DANE (RFC 7672) to outbound SMTP delivery. T… |
-| 2026-10-08 12:17:16 | [CVE-2026-107587](https://nvd.nist.gov/vuln/detail/CVE-2026-107587) | Medium | 5.9 | Improper certificate validation in the webmail of Progressive Robot hMailServer 6.3.2 through 6.3.5 allows a remote una… |
-| 2026-10-08 12:17:17 | [CVE-2026-19083](https://nvd.nist.gov/vuln/detail/CVE-2026-19083) | High | 8.8 | Authorization bypass through User-Controlled key vulnerability in AKIN Software Computer Import-Export Industry and Tra… |
-| 2026-10-08 12:17:18 | [CVE-2026-92555](https://nvd.nist.gov/vuln/detail/CVE-2026-92555) | Critical | 9.1 | Insertion of sensitive information into sent data vulnerability in AKIN Software Computer Import-Export Industry and Tr… |
+| 2026-10-08 13:17:11 | [CVE-2026-102783](https://nvd.nist.gov/vuln/detail/CVE-2026-102783) | Medium | 6.3 | Joomla Extension - balbooa.com - Path Traversal in image preview Gridbox < 2.20.4.0 - Gridbox contains the same prefix-… |
+| 2026-10-08 13:17:12 | [CVE-2026-102784](https://nvd.nist.gov/vuln/detail/CVE-2026-102784) | High | 8.7 | Joomla Extension - balbooa.com - CSRF in language installation feature Gridbox < 2.20.4.0 - PagesController uses a trai… |
+| 2026-10-08 13:17:12 | [CVE-2026-103070](https://nvd.nist.gov/vuln/detail/CVE-2026-103070) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ShortPixel ShortP… |
+| 2026-10-08 13:17:12 | [CVE-2026-103072](https://nvd.nist.gov/vuln/detail/CVE-2026-103072) | Medium | 4.3 | Missing Authorization vulnerability in VillaTheme VillaTheme Core villatheme-core allows Exploiting Incorrectly Configu… |
+| 2026-10-08 13:17:12 | [CVE-2026-105076](https://nvd.nist.gov/vuln/detail/CVE-2026-105076) | High | 7.6 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Appsbd Vitepos vi… |
+| 2026-10-08 13:17:12 | [CVE-2026-105078](https://nvd.nist.gov/vuln/detail/CVE-2026-105078) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Store Locator… |
+| 2026-10-08 13:17:13 | [CVE-2026-105079](https://nvd.nist.gov/vuln/detail/CVE-2026-105079) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in StylemixThemes Ma… |
+| 2026-10-08 13:17:13 | [CVE-2026-105878](https://nvd.nist.gov/vuln/detail/CVE-2026-105878) | Medium | 5.3 | Missing Authorization vulnerability in YITH YITH WooCommerce Product Bundles yith-woocommerce-product-bundles allows Ex… |
+| 2026-10-08 13:17:13 | [CVE-2026-105886](https://nvd.nist.gov/vuln/detail/CVE-2026-105886) | Medium | 6.5 | Missing Authorization vulnerability in BdThemes Ultimate Post Kit ultimate-post-kit allows Exploiting Incorrectly Confi… |
+| 2026-10-08 13:17:13 | [CVE-2026-105887](https://nvd.nist.gov/vuln/detail/CVE-2026-105887) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Robosoft Robo Gal… |
+| 2026-10-08 13:17:13 | [CVE-2026-105888](https://nvd.nist.gov/vuln/detail/CVE-2026-105888) | Medium | 5.4 | Missing Authorization vulnerability in Liquid Web / StellarWP Event Tickets event-tickets allows Exploiting Incorrectly… |
+| 2026-10-08 13:17:13 | [CVE-2026-105890](https://nvd.nist.gov/vuln/detail/CVE-2026-105890) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
+| 2026-10-08 13:17:14 | [CVE-2026-105891](https://nvd.nist.gov/vuln/detail/CVE-2026-105891) | Medium | 4.3 | Missing Authorization vulnerability in Liquid Web / StellarWP Event Tickets event-tickets allows Exploiting Incorrectly… |
+| 2026-10-08 13:17:14 | [CVE-2026-105893](https://nvd.nist.gov/vuln/detail/CVE-2026-105893) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in Liquid Web / StellarWP Event Tickets event-tickets al… |
+| 2026-10-08 13:17:14 | [CVE-2026-106596](https://nvd.nist.gov/vuln/detail/CVE-2026-106596) | Medium | 5.3 | Missing Authorization vulnerability in Visual Composer Visual Composer Website Builder visualcomposer allows Exploiting… |
+| 2026-10-08 13:17:14 | [CVE-2026-106600](https://nvd.nist.gov/vuln/detail/CVE-2026-106600) | Medium | 5.3 | Missing Authorization vulnerability in Liquid Web / StellarWP GiveWP give allows Exploiting Incorrectly Configured Acce… |
+| 2026-10-08 13:17:14 | [CVE-2026-106603](https://nvd.nist.gov/vuln/detail/CVE-2026-106603) | Medium | 6.5 | Authorization Bypass Through User-Controlled Key vulnerability in Groundhogg HollerBox holler-box allows Exploiting Inc… |
+| 2026-10-08 13:17:15 | [CVE-2026-106611](https://nvd.nist.gov/vuln/detail/CVE-2026-106611) | High | 7.1 | Cross-Site Request Forgery (CSRF) vulnerability in WPMU DEV Forminator forminator allows Cross Site Request Forgery.Thi… |
+| 2026-10-08 13:17:15 | [CVE-2026-14521](https://nvd.nist.gov/vuln/detail/CVE-2026-14521) | Medium | 4.9 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:15 | [CVE-2026-16169](https://nvd.nist.gov/vuln/detail/CVE-2026-16169) | High | 7.5 | IBM DataPower Gateway 11.0.0.0 through 11.0.0.2 could allow a remote attacker to cause a denial of service due to uncon… |
+| 2026-10-08 13:17:15 | [CVE-2026-16170](https://nvd.nist.gov/vuln/detail/CVE-2026-16170) | High | 7.5 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:15 | [CVE-2026-16176](https://nvd.nist.gov/vuln/detail/CVE-2026-16176) | High | 7.5 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:15 | [CVE-2026-16177](https://nvd.nist.gov/vuln/detail/CVE-2026-16177) | Medium | 5.3 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-16178](https://nvd.nist.gov/vuln/detail/CVE-2026-16178) | High | 7.5 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-16179](https://nvd.nist.gov/vuln/detail/CVE-2026-16179) | High | 7.5 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-16181](https://nvd.nist.gov/vuln/detail/CVE-2026-16181) | High | 7.4 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-16182](https://nvd.nist.gov/vuln/detail/CVE-2026-16182) | Medium | 5.9 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-16340](https://nvd.nist.gov/vuln/detail/CVE-2026-16340) | Critical | 9.8 | IBM DataPower Gateway 10.5.0.0 through 10.5.0.22, 10.6.1 through 10.6.6, 10.6.0.0 through 10.6.0.10, 11.0.0.0 through 1… |
+| 2026-10-08 13:17:16 | [CVE-2026-19218](https://nvd.nist.gov/vuln/detail/CVE-2026-19218) | Critical | 9.1 | Weak Password Recovery Mechanism for Forgotten Password vulnerability in AKIN Software Computer Import-Export Industry… |
+| 2026-10-08 13:17:17 | [CVE-2026-44031](https://nvd.nist.gov/vuln/detail/CVE-2026-44031) | High | 8.7 | Uncontrolled recursion in DcmSequenceOfItems::read() and DcmItem::read() in the dcmdata library of OFFIS DCMTK 3.7.0 al… |
+| 2026-10-08 13:17:17 | [CVE-2026-44033](https://nvd.nist.gov/vuln/detail/CVE-2026-44033) | Medium | 6.8 | Uncontrolled recursion in XMLNode::ParseXMLElement() and XMLNode::emptyTheNode() in the bundled XML parser (ofstd/libsr… |
+| 2026-10-08 13:17:17 | [CVE-2026-44034](https://nvd.nist.gov/vuln/detail/CVE-2026-44034) | Medium | 4.8 | A heap-based out-of-bounds read in DcmRLECodecDecoder::decodeFrame() in dcmdata/libsrc/dcrleccd.cc of OFFIS DCMTK 3.7.0… |
+| 2026-10-08 13:17:17 | [CVE-2026-44035](https://nvd.nist.gov/vuln/detail/CVE-2026-44035) | Medium | 6.8 | Uncontrolled recursion in DcmDicomDir::moveRecordToTree() in dcmdata/libsrc/dcdicdir.cc of OFFIS DCMTK 3.7.0 allows an… |
+| 2026-10-08 13:17:17 | [CVE-2026-44036](https://nvd.nist.gov/vuln/detail/CVE-2026-44036) | Medium | 6.8 | Uncontrolled mutual recursion between DcmXMLParseHelper::parseDataSet() and DcmXMLParseHelper::parseSequence() in the X… |
+| 2026-10-08 13:17:17 | [CVE-2026-44037](https://nvd.nist.gov/vuln/detail/CVE-2026-44037) | Medium | 6.8 | Uncontrolled mutual recursion between DcmJSONReader::parseDataSet(), DcmJSONReader::parseElement() and DcmJSONReader::p… |
+| 2026-10-08 13:17:17 | [CVE-2026-44038](https://nvd.nist.gov/vuln/detail/CVE-2026-44038) | Medium | 4.8 | A global out-of-bounds read in the Huffman decoder of the bundled IJG JPEG libraries (dcmjpeg/libijg8, libijg12 and lib… |
+| 2026-10-08 13:17:18 | [CVE-2026-62127](https://nvd.nist.gov/vuln/detail/CVE-2026-62127) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in MediaRon LLC WP P… |
+| 2026-10-08 13:17:18 | [CVE-2026-62128](https://nvd.nist.gov/vuln/detail/CVE-2026-62128) | Medium | 5.3 | Missing Authorization vulnerability in Creator LMS Creator LMS creatorlms allows Exploiting Incorrectly Configured Acce… |
+| 2026-10-08 13:17:18 | [CVE-2026-62142](https://nvd.nist.gov/vuln/detail/CVE-2026-62142) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in Melapress WP 2FA wp-2fa allows Cross Site Request Forgery.This issue… |
+| 2026-10-08 13:17:18 | [CVE-2026-66479](https://nvd.nist.gov/vuln/detail/CVE-2026-66479) | High | 7.1 | Cross-Site Request Forgery (CSRF) vulnerability in Liquid Web / StellarWP WPComplete wpcomplete allows Stored XSS.This… |
 
 ## Data source
 
