@@ -9,26 +9,42 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 12:18 UTC
+## Latest list — 2026-10-09 13:18 UTC
 
-New CVEs published between 2026-10-09 11:19 UTC and 2026-10-09 12:18 UTC.
+New CVEs published between 2026-10-09 12:18 UTC and 2026-10-09 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T12-18-37-230362Z.csv)
+[Full CSV](data/new-cves-2026-10-09T13-18-38-200571Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 12:17:07 | [CVE-2026-103329](https://nvd.nist.gov/vuln/detail/CVE-2026-103329) | Medium | 5.3 | The Super Payments WordPress plugin before 1.43.1 does not properly verify the authenticity of incoming payment webhook… |
-| 2026-10-09 12:17:08 | [CVE-2026-107419](https://nvd.nist.gov/vuln/detail/CVE-2026-107419) | Medium | 5.4 | Missing Authorization vulnerability in Cool Plugins AI Translation for Polylang automatic-translations-for-polylang all… |
-| 2026-10-09 12:17:10 | [CVE-2026-39779](https://nvd.nist.gov/vuln/detail/CVE-2026-39779) | Medium | 4.3 | Missing Authorization vulnerability in Asgaros Asgaros Forum asgaros-forum allows Exploiting Incorrectly Configured Acc… |
-| 2026-10-09 12:17:10 | [CVE-2026-62036](https://nvd.nist.gov/vuln/detail/CVE-2026-62036) | Medium | 4.3 | Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerability in AREOI All Bootstrap Blocks… |
-| 2026-10-09 12:17:10 | [CVE-2026-62039](https://nvd.nist.gov/vuln/detail/CVE-2026-62039) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Html5 Au… |
-| 2026-10-09 12:17:10 | [CVE-2026-62040](https://nvd.nist.gov/vuln/detail/CVE-2026-62040) | Medium | 5.3 | Missing Authorization vulnerability in DEV Institute Restrict User Access – Membership Plugin with Force restrict-user-… |
-| 2026-10-09 12:17:11 | [CVE-2026-62041](https://nvd.nist.gov/vuln/detail/CVE-2026-62041) | Medium | 5.4 | Missing Authorization vulnerability in Ashok Dudhat WP Event Manager wp-event-manager allows Exploiting Incorrectly Con… |
-| 2026-10-09 12:17:11 | [CVE-2026-62042](https://nvd.nist.gov/vuln/detail/CVE-2026-62042) | Medium | 5.3 | Missing Authorization vulnerability in unFocus Projects Scripts n Styles scripts-n-styles allows Exploiting Incorrectly… |
-| 2026-10-09 12:17:12 | [CVE-2026-85348](https://nvd.nist.gov/vuln/detail/CVE-2026-85348) | Medium | 4.3 | The GDPR Data Request Form WordPress plugin through 1.7.1 does not have CSRF protection when updating one of its settin… |
-| 2026-10-09 12:17:12 | [CVE-2026-86851](https://nvd.nist.gov/vuln/detail/CVE-2026-86851) | Medium | 6.5 | The Livees Checkout WordPress plugin through 7.0.2 does not perform any capability, nonce or order-key check before act… |
-| 2026-10-09 12:17:12 | [CVE-2026-87846](https://nvd.nist.gov/vuln/detail/CVE-2026-87846) | Medium | 5.3 | The Shipping for Nova Poshta WordPress plugin through 1.19.8 does not perform any authorisation, nonce or ownership che… |
-| 2026-10-09 12:17:12 | [CVE-2026-89235](https://nvd.nist.gov/vuln/detail/CVE-2026-89235) | Medium | 6.8 | The Testimonials by BestWebSoft WordPress plugin through 1.0.8 does not sanitise and escape a parameter before using it… |
+| 2026-10-09 13:17:05 | [CVE-2026-101094](https://nvd.nist.gov/vuln/detail/CVE-2026-101094) | Low | 3.6 | The Affinity by Canva application before 3.3.1 (October 2026 release) did not correctly handle incomplete UTF-8 charact… |
+| 2026-10-09 13:17:07 | [CVE-2026-101130](https://nvd.nist.gov/vuln/detail/CVE-2026-101130) | Low | 3.6 | The Affinity by Canva application before 3.3.1 (October 2026 release) did not perform adequate bounds checking when par… |
+| 2026-10-09 13:17:07 | [CVE-2026-103220](https://nvd.nist.gov/vuln/detail/CVE-2026-103220) | Medium | 4.5 | The Affinity by Canva application before 3.3.1 (October 2026 release) did not perform adequate bounds checking when par… |
+| 2026-10-09 13:17:07 | [CVE-2026-103412](https://nvd.nist.gov/vuln/detail/CVE-2026-103412) | High | 8.8 | Improper limitation of a pathname to a restricted directory ('path traversal') vulnerability in Apache Camel Karavan. A… |
+| 2026-10-09 13:17:07 | [CVE-2026-103413](https://nvd.nist.gov/vuln/detail/CVE-2026-103413) | High | 8.8 | Improper input validation vulnerability in Apache Camel Karavan. When a deployment was started, Karavan unmarshalled a… |
+| 2026-10-09 13:17:07 | [CVE-2026-104079](https://nvd.nist.gov/vuln/detail/CVE-2026-104079) | Medium | 5.3 | Envira Gallery Lite before 1.16.2 contains a missing authorization vulnerability in its gallery conversion REST endpoin… |
+| 2026-10-09 13:17:08 | [CVE-2026-104392](https://nvd.nist.gov/vuln/detail/CVE-2026-104392) | High | 8.8 | Deserialization of Untrusted Data vulnerability in ExpressTech Quiz And Survey Master quiz-master-next allows Object In… |
+| 2026-10-09 13:17:08 | [CVE-2026-105318](https://nvd.nist.gov/vuln/detail/CVE-2026-105318) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Datasolution AcyM… |
+| 2026-10-09 13:17:08 | [CVE-2026-105870](https://nvd.nist.gov/vuln/detail/CVE-2026-105870) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Delight Star Inc.… |
+| 2026-10-09 13:17:08 | [CVE-2026-105872](https://nvd.nist.gov/vuln/detail/CVE-2026-105872) | High | 7.2 | Deserialization of Untrusted Data vulnerability in mklacroix Product Configurator for WooCommerce product-configurator-… |
+| 2026-10-09 13:17:09 | [CVE-2026-105877](https://nvd.nist.gov/vuln/detail/CVE-2026-105877) | Medium | 6.9 | Insertion of Sensitive Information Into Sent Data vulnerability in QuarkA QA Analytics qa-heatmap-analytics allows Retr… |
+| 2026-10-09 13:17:09 | [CVE-2026-105883](https://nvd.nist.gov/vuln/detail/CVE-2026-105883) | High | 7.1 | Missing Authorization vulnerability in ThemeHunk Th Shop Mania th-shop-mania allows Exploiting Incorrectly Configured A… |
+| 2026-10-09 13:17:09 | [CVE-2026-106601](https://nvd.nist.gov/vuln/detail/CVE-2026-106601) | Medium | 5.4 | Authentication Bypass Using an Alternate Path or Channel vulnerability in Automattic Jetpack jetpack allows Password Re… |
+| 2026-10-09 13:17:09 | [CVE-2026-106602](https://nvd.nist.gov/vuln/detail/CVE-2026-106602) | Medium | 4.8 | Authentication Bypass Using an Alternate Path or Channel vulnerability in Automattic Jetpack jetpack allows Password Re… |
+| 2026-10-09 13:17:10 | [CVE-2026-62028](https://nvd.nist.gov/vuln/detail/CVE-2026-62028) | Medium | 5.4 | Missing Authorization vulnerability in bPlugins Before After Image Comparison – Image comparison for WP before-after-im… |
+| 2026-10-09 13:17:10 | [CVE-2026-62029](https://nvd.nist.gov/vuln/detail/CVE-2026-62029) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPFunnels Team WP… |
+| 2026-10-09 13:17:10 | [CVE-2026-85531](https://nvd.nist.gov/vuln/detail/CVE-2026-85531) | Critical | 9.8 | Improper verification of cryptographic signature vulnerability in Sipay Electronic Money and Payment Services Inc. Open… |
+| 2026-10-09 13:17:11 | [CVE-2026-86405](https://nvd.nist.gov/vuln/detail/CVE-2026-86405) | Critical | 9.8 | Improper verification of cryptographic signature vulnerability in Sipay Electronic Money and Payment Services Inc. Pres… |
+| 2026-10-09 13:17:11 | [CVE-2026-8374](https://nvd.nist.gov/vuln/detail/CVE-2026-8374) | High | 8.5 | Misuse and misconfiguration in Bluetooth communication in SwitchBot Door Lock Series allows an attacker to bypass the e… |
+| 2026-10-09 13:17:11 | [CVE-2026-94058](https://nvd.nist.gov/vuln/detail/CVE-2026-94058) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bracketweb Treck… |
+| 2026-10-09 13:17:11 | [CVE-2026-94059](https://nvd.nist.gov/vuln/detail/CVE-2026-94059) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bracketweb Ogency… |
+| 2026-10-09 13:17:11 | [CVE-2026-94060](https://nvd.nist.gov/vuln/detail/CVE-2026-94060) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bracketweb Voldor… |
+| 2026-10-09 13:17:12 | [CVE-2026-94061](https://nvd.nist.gov/vuln/detail/CVE-2026-94061) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Designthemes Whis… |
+| 2026-10-09 13:17:12 | [CVE-2026-94062](https://nvd.nist.gov/vuln/detail/CVE-2026-94062) | High | 8.1 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
+| 2026-10-09 13:17:12 | [CVE-2026-96393](https://nvd.nist.gov/vuln/detail/CVE-2026-96393) | Low | 3.6 | The Affinity by Canva app before 3.3.1 (October 2026 release) did not perform adequate bounds checking when parsing Aff… |
+| 2026-10-09 13:17:12 | [CVE-2026-96394](https://nvd.nist.gov/vuln/detail/CVE-2026-96394) | Low | 2.9 | The Affinity by Canva application for macOS before 3.3.1 (October 2026 release) did not validate image dimensions again… |
+| 2026-10-09 13:17:12 | [CVE-2026-96395](https://nvd.nist.gov/vuln/detail/CVE-2026-96395) | Low | 3.6 | The Affinity by Canva app for macOS before 3.3.1 (October 2026 release) did not perform adequate bounds checking when g… |
+| 2026-10-09 13:17:13 | [CVE-2026-96396](https://nvd.nist.gov/vuln/detail/CVE-2026-96396) | Medium | 4.9 | The Affinity by Canva application for macOS before 3.3.1 (October 2026 release) did not safely calculate the size of an… |
 
 ## Data source
 
