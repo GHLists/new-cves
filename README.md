@@ -9,20 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 05:19 UTC
+## Latest list — 2026-10-09 06:18 UTC
 
-New CVEs published between 2026-10-09 04:18 UTC and 2026-10-09 05:19 UTC.
+New CVEs published between 2026-10-09 05:19 UTC and 2026-10-09 06:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T05-19-10-816939Z.csv)
+[Full CSV](data/new-cves-2026-10-09T06-18-39-472647Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 05:16:44 | [CVE-2026-107888](https://nvd.nist.gov/vuln/detail/CVE-2026-107888) | Medium | 5.1 | OpenPrinting CUPS before 2.4.20 contains a NULL pointer dereference in cupsdCheckJobs() when a job marked job-held-on-c… |
-| 2026-10-09 05:16:44 | [CVE-2026-107889](https://nvd.nist.gov/vuln/detail/CVE-2026-107889) | Medium | 5.5 | A flaw was found in the login theme rendering component of Keycloak. The issue occurs because the security filter respo… |
-| 2026-10-09 05:16:44 | [CVE-2026-107890](https://nvd.nist.gov/vuln/detail/CVE-2026-107890) | Low | 3.3 | OpenPrinting CUPS before 2.4.20 contains a NULL pointer dereference caused by repeated IPP group tags in job-creation r… |
-| 2026-10-09 05:16:44 | [CVE-2026-5759](https://nvd.nist.gov/vuln/detail/CVE-2026-5759) | Critical | 9.3 | A double free and use-after-free vulnerability in the RdbLoadDeletedNodes function of the RDB graph decoders (src/seria… |
-| 2026-10-09 05:16:45 | [CVE-2026-7826](https://nvd.nist.gov/vuln/detail/CVE-2026-7826) | High | 8.8 | A heap-based out-of-bounds read in the BufferSerializerIOv2_ReadBuffer function (src/serializers/serializer_io.c) in Fa… |
-| 2026-10-09 05:16:45 | [CVE-2026-7827](https://nvd.nist.gov/vuln/detail/CVE-2026-7827) | Critical | 9.2 | A stack-based buffer overflow in the _RdbLoadEntity function of the RDB graph decoders (src/serializers/decoders/*/deco… |
+| 2026-10-09 06:17:10 | [CVE-2026-107908](https://nvd.nist.gov/vuln/detail/CVE-2026-107908) | Critical | 9.3 | A heap-based out-of-bounds write in the BoltReadHandler function (src/bolt/bolt_api.c) in FalkorDB before 4.20.0 allows… |
+| 2026-10-09 06:17:12 | [CVE-2026-107909](https://nvd.nist.gov/vuln/detail/CVE-2026-107909) | High | 8.8 | A heap-based out-of-bounds write in the ws_read_frame function (src/bolt/ws.c) and the buffer_apply_mask function (src/… |
+| 2026-10-09 06:17:12 | [CVE-2026-107910](https://nvd.nist.gov/vuln/detail/CVE-2026-107910) | Critical | 9.2 | An improper authentication vulnerability in the is_authenticated function (src/bolt/bolt_api.c) in FalkorDB before 4.20… |
+| 2026-10-09 06:17:12 | [CVE-2026-107911](https://nvd.nist.gov/vuln/detail/CVE-2026-107911) | High | 7.7 | A type confusion vulnerability in the _read_flags function (src/commands/cmd_dispatcher.c) in FalkorDB before 4.20.0 al… |
+| 2026-10-09 06:17:12 | [CVE-2026-107914](https://nvd.nist.gov/vuln/detail/CVE-2026-107914) | High | 7.8 | Backdrop CMS 1.34 before 1.34.5 and 1.35 before 1.35.1 doesn't sufficiently protect configuration exports when deliveri… |
+| 2026-10-09 06:17:12 | [CVE-2026-87108](https://nvd.nist.gov/vuln/detail/CVE-2026-87108) | Low | 2.3 | An authenticated Ops Manager user with a read-only project role can retrieve a daily host monitoring record associated… |
+| 2026-10-09 06:17:13 | [CVE-2026-87109](https://nvd.nist.gov/vuln/detail/CVE-2026-87109) | Medium | 6.0 | An authenticated Ops Manager organization member can retrieve another member's pending authenticator enrollment seed th… |
+| 2026-10-09 06:17:13 | [CVE-2026-87110](https://nvd.nist.gov/vuln/detail/CVE-2026-87110) | Medium | 6.9 | An unauthenticated user with network access to the Ops Manager web port can repeatedly request monitoring endpoints tha… |
 
 ## Data source
 
