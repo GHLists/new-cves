@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 22:18 UTC
+## Latest list — 2026-10-09 23:20 UTC
 
-New CVEs published between 2026-10-09 21:19 UTC and 2026-10-09 22:18 UTC.
+New CVEs published between 2026-10-09 22:18 UTC and 2026-10-09 23:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T22-18-35-974204Z.csv)
+[Full CSV](data/new-cves-2026-10-09T23-20-12-514508Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 22:16:59 | [CVE-2026-108267](https://nvd.nist.gov/vuln/detail/CVE-2026-108267) | Critical | 9.1 | Privasys Go is a maintained fork of the Go programming language that adds RA-TLS support to crypto/tls. Prior to privas… |
-| 2026-10-09 22:16:59 | [CVE-2026-108268](https://nvd.nist.gov/vuln/detail/CVE-2026-108268) | Critical | 9.1 | Enclave OS Virtual runs container workloads inside confidential virtual machines with end-to-end attestation. Prior to… |
-| 2026-10-09 22:16:59 | [CVE-2026-108269](https://nvd.nist.gov/vuln/detail/CVE-2026-108269) | Critical | 9.1 | Remote Attestation TLS Clients provides multi-language utilities for verifying attested TLS connections. Prior to 0.5.0… |
+| 2026-10-09 23:16:52 | [CVE-2026-103755](https://nvd.nist.gov/vuln/detail/CVE-2026-103755) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-09 23:16:54 | [CVE-2026-16681](https://nvd.nist.gov/vuln/detail/CVE-2026-16681) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-09 23:16:54 | [CVE-2026-18524](https://nvd.nist.gov/vuln/detail/CVE-2026-18524) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-09 23:16:54 | [CVE-2026-22061](https://nvd.nist.gov/vuln/detail/CVE-2026-22061) | High | 8.2 | Trident versions v25.02.1 through v26.06.1 are susceptible to a vulnerability that could allow an authenticated attacke… |
 
 ## Data source
 

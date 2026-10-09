@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-09T23:16:52.75Z,CVE-2026-103755,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-09T23:16:54.01Z,CVE-2026-16681,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-09T23:16:54.08Z,CVE-2026-18524,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-09T23:16:54.157Z,CVE-2026-22061,HIGH,8.2,Received,CWE-215,1,Trident versions v25.02.1 through v26.06.1 are susceptible to a vulnerability that could allow an authenticated attacker with access to debug logs to view LUKS passphrases or SMB Active Directory credentials.
