@@ -9,36 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 16:19 UTC
+## Latest list — 2026-10-09 17:18 UTC
 
-New CVEs published between 2026-10-09 15:18 UTC and 2026-10-09 16:19 UTC.
+New CVEs published between 2026-10-09 16:19 UTC and 2026-10-09 17:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T16-19-09-331239Z.csv)
+[Full CSV](data/new-cves-2026-10-09T17-18-32-24688Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 16:17:20 | [CVE-2026-102554](https://nvd.nist.gov/vuln/detail/CVE-2026-102554) | High | 8.2 | Allocation of resources without limits or throttling (CWE-770) during Java object deserialization in Google Guava versi… |
-| 2026-10-09 16:17:20 | [CVE-2026-104082](https://nvd.nist.gov/vuln/detail/CVE-2026-104082) | High | 8.6 | SmarterMail before build 9777 contains a remote code execution vulnerability that allows an attacker holding a SysAdmin… |
-| 2026-10-09 16:17:20 | [CVE-2026-104083](https://nvd.nist.gov/vuln/detail/CVE-2026-104083) | Medium | 5.3 | SmarterMail before build 9777 contains a stored mutation cross-site scripting vulnerability that allows remote attacker… |
-| 2026-10-09 16:17:21 | [CVE-2026-104084](https://nvd.nist.gov/vuln/detail/CVE-2026-104084) | High | 8.7 | SmarterMail before build 9777 contains a privilege escalation vulnerability where JWT access and refresh tokens embed a… |
-| 2026-10-09 16:17:24 | [CVE-2026-107783](https://nvd.nist.gov/vuln/detail/CVE-2026-107783) | Medium | 6.7 | Insertion of sensitive information into log file in AWS Tools for PowerShell before 5.0.306 might allow local users to… |
-| 2026-10-09 16:17:25 | [CVE-2026-107807](https://nvd.nist.gov/vuln/detail/CVE-2026-107807) | High | 8.8 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, Nginx UI accepts the Node.Secret mas… |
-| 2026-10-09 16:17:25 | [CVE-2026-107808](https://nvd.nist.gov/vuln/detail/CVE-2026-107808) | High | 8.1 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, POST /api/login checks EnabledOTP bu… |
-| 2026-10-09 16:17:25 | [CVE-2026-107809](https://nvd.nist.gov/vuln/detail/CVE-2026-107809) | High | 8.8 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, AuthRequired accepts a browser-manag… |
-| 2026-10-09 16:17:25 | [CVE-2026-107810](https://nvd.nist.gov/vuln/detail/CVE-2026-107810) | High | 8.1 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, internal/backup/restore.go extracts… |
-| 2026-10-09 16:17:25 | [CVE-2026-107811](https://nvd.nist.gov/vuln/detail/CVE-2026-107811) | High | 8.8 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, ordinary authenticated users can acc… |
-| 2026-10-09 16:17:25 | [CVE-2026-107812](https://nvd.nist.gov/vuln/detail/CVE-2026-107812) | High | 7.5 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, the self-upgrade mechanism validates… |
-| 2026-10-09 16:17:26 | [CVE-2026-107813](https://nvd.nist.gov/vuln/detail/CVE-2026-107813) | High | 8.8 | Nginx UI is a web user interface for the Nginx web server. From 2.0.0 until 2.5.0, the api/cluster router exposes node… |
-| 2026-10-09 16:17:26 | [CVE-2026-107814](https://nvd.nist.gov/vuln/detail/CVE-2026-107814) | High | 8.4 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
-| 2026-10-09 16:17:26 | [CVE-2026-108110](https://nvd.nist.gov/vuln/detail/CVE-2026-108110) | High | 7.6 | MOVO through 0.2.3 contains an authorization bypass vulnerability in the chat-api document endpoints that allows authen… |
-| 2026-10-09 16:17:26 | [CVE-2026-108111](https://nvd.nist.gov/vuln/detail/CVE-2026-108111) | Medium | 5.3 | ruoyi-ai 3.0.0 through 3.1.0 contains a missing authorization vulnerability in the GET /workflow/search endpoint that e… |
-| 2026-10-09 16:17:26 | [CVE-2026-108112](https://nvd.nist.gov/vuln/detail/CVE-2026-108112) | Medium | 5.3 | ruoyi-ai 3.0.0 through 3.1.0 contains a missing authorization vulnerability that allows authenticated users to delete o… |
-| 2026-10-09 16:17:26 | [CVE-2026-108113](https://nvd.nist.gov/vuln/detail/CVE-2026-108113) | High | 8.7 | ILIAS before 9.24, 10.12, and 11.5 contains an unrestricted file upload vulnerability in QTI question import image hand… |
-| 2026-10-09 16:17:29 | [CVE-2026-75345](https://nvd.nist.gov/vuln/detail/CVE-2026-75345) | High | 7.5 | OpENer v2.3.0 / commit 76b95cf contains an out-of-bounds read in the unconnected explicit messaging path. This allows a… |
-| 2026-10-09 16:17:29 | [CVE-2026-75346](https://nvd.nist.gov/vuln/detail/CVE-2026-75346) |  |  | An out-of-bounds read vulnerability exists in EIPStackGroup OpENer v2.3 and master through commit 76b95cf in the server… |
-| 2026-10-09 16:17:29 | [CVE-2026-75348](https://nvd.nist.gov/vuln/detail/CVE-2026-75348) | High | 7.5 | An out-of-bounds read vulnerability exists in EIPStackGroup OpENer v2.3 and master up to commit 76b95cf in the EtherNet… |
-| 2026-10-09 16:17:29 | [CVE-2026-75349](https://nvd.nist.gov/vuln/detail/CVE-2026-75349) | High | 7.5 | EIPStackGroup OpENer v2.3.0/master up to commit 76b95cf contains an out-of-bounds read vulnerability in Connection Mana… |
-| 2026-10-09 16:17:31 | [CVE-2026-90983](https://nvd.nist.gov/vuln/detail/CVE-2026-90983) | High | 8.2 | Use of Client-Side authentication vulnerability in Hayat Health Facilities Inc. (Hayat Hospital) Hayat Mobile allows Au… |
+| 2026-10-09 17:16:38 | [CVE-2016-20098](https://nvd.nist.gov/vuln/detail/CVE-2016-20098) | Medium | 5.1 | Moderator Toolbox (reddit-moderator-toolbox) before 4.0.14 contains a stored cross-site scripting vulnerability in the… |
+| 2026-10-09 17:16:41 | [CVE-2025-61560](https://nvd.nist.gov/vuln/detail/CVE-2025-61560) |  |  | A race condition vulnerability in the SessionManager of CNCF: Cloud Native Computing Foundation Argo CD v3.0.6 allows a… |
+| 2026-10-09 17:16:45 | [CVE-2026-107815](https://nvd.nist.gov/vuln/detail/CVE-2026-107815) | High | 8.5 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-09 17:16:46 | [CVE-2026-108093](https://nvd.nist.gov/vuln/detail/CVE-2026-108093) | Medium | 5.5 | A flaw was found in GIMP. The XCF loader processes image-simulation-intent and image-simulation-bpc parasites without e… |
+| 2026-10-09 17:16:46 | [CVE-2026-108119](https://nvd.nist.gov/vuln/detail/CVE-2026-108119) | Medium | 6.3 | A flaw was found in busybox. The tar applet's deferred link-creation handling for symlink and hardlink entries with uns… |
+| 2026-10-09 17:16:46 | [CVE-2026-108156](https://nvd.nist.gov/vuln/detail/CVE-2026-108156) | Medium | 6.9 | LobsterAI 2026.5.27 through 2026.9.23 contains an external control of file path vulnerability in the skills:delete IPC… |
+| 2026-10-09 17:16:46 | [CVE-2026-108157](https://nvd.nist.gov/vuln/detail/CVE-2026-108157) | Critical | 9.2 | Pingvin Share X from 0.19.0 before 1.22.0 contains an improper authentication vulnerability that allows remote unauthen… |
+| 2026-10-09 17:16:46 | [CVE-2026-108158](https://nvd.nist.gov/vuln/detail/CVE-2026-108158) | High | 7.1 | plugNmeet Server through 2.5.2 contains a path traversal vulnerability in the whiteboard conversion endpoint that allow… |
+| 2026-10-09 17:16:47 | [CVE-2026-108159](https://nvd.nist.gov/vuln/detail/CVE-2026-108159) | High | 7.7 | AstronRPA through 1.1.6 contains a cross-site scripting vulnerability in the desktop client's smart-component chat that… |
+| 2026-10-09 17:16:47 | [CVE-2026-108160](https://nvd.nist.gov/vuln/detail/CVE-2026-108160) | High | 7.7 | AstronRPA through 1.1.6 contains a download of code without integrity check vulnerability that allows network attackers… |
+| 2026-10-09 17:16:47 | [CVE-2026-42695](https://nvd.nist.gov/vuln/detail/CVE-2026-42695) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in FolioVision FV Fl… |
+| 2026-10-09 17:16:47 | [CVE-2026-48484](https://nvd.nist.gov/vuln/detail/CVE-2026-48484) | Medium | 6.5 | pyLoad is a free and open-source download manager written in Python. Prior to 0.5.0b3.dev101, the API `rpc` function in… |
+| 2026-10-09 17:16:47 | [CVE-2026-55797](https://nvd.nist.gov/vuln/detail/CVE-2026-55797) | High | 8.8 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 2.11.0 until 3.3.15, 3.4.10, 3.5.4, and… |
+| 2026-10-09 17:16:48 | [CVE-2026-75347](https://nvd.nist.gov/vuln/detail/CVE-2026-75347) | High | 7.5 | EIPStackGroup OpENer v2.3 and master up to commit 76b95cf contain an expired pointer dereference vulnerability in the E… |
+| 2026-10-09 17:16:48 | [CVE-2026-75597](https://nvd.nist.gov/vuln/detail/CVE-2026-75597) | Medium | 5.3 | pyLoad is a free and open-source download manager written in Python. Prior to 0.5.0b3.dev101, the `/web/<path:filename>… |
 
 ## Data source
 
