@@ -9,26 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 07:19 UTC
+## Latest list — 2026-10-09 08:20 UTC
 
-New CVEs published between 2026-10-09 06:18 UTC and 2026-10-09 07:19 UTC.
+New CVEs published between 2026-10-09 07:19 UTC and 2026-10-09 08:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T07-19-48-088331Z.csv)
+[Full CSV](data/new-cves-2026-10-09T08-20-27-12262Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 07:17:16 | [CVE-2025-15700](https://nvd.nist.gov/vuln/detail/CVE-2025-15700) |  |  | The AWP Classifieds WordPress plugin before 4.4.9 does not validate the type of files extracted from an uploaded ZIP ar… |
-| 2026-10-09 07:17:17 | [CVE-2026-101028](https://nvd.nist.gov/vuln/detail/CVE-2026-101028) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash allows an actor to infer data in related records they cannot r… |
-| 2026-10-09 07:17:17 | [CVE-2026-106095](https://nvd.nist.gov/vuln/detail/CVE-2026-106095) |  |  | The Code Snippets WordPress plugin before 3.10.0 does not perform a capability check on one of its snippet-management a… |
-| 2026-10-09 07:17:17 | [CVE-2026-106097](https://nvd.nist.gov/vuln/detail/CVE-2026-106097) |  |  | The Code Snippets WordPress plugin before 3.10.0 does not sanitise and escape a user-supplied parameter before using it… |
-| 2026-10-09 07:17:18 | [CVE-2026-81929](https://nvd.nist.gov/vuln/detail/CVE-2026-81929) | High | 7.2 | The Ocean Pro Demos and Ocean eComm Treasure Box plugins for WordPress is vulnerable to Stored Cross-Site Scripting via… |
-| 2026-10-09 07:17:18 | [CVE-2026-86850](https://nvd.nist.gov/vuln/detail/CVE-2026-86850) |  |  | The SKU Error Fixer for WooCommerce WordPress plugin through 1.0 does not perform any capability or nonce checks on two… |
-| 2026-10-09 07:17:18 | [CVE-2026-87841](https://nvd.nist.gov/vuln/detail/CVE-2026-87841) |  |  | The UnitechPay WordPress plugin through 1.0.6.3 does not verify the authenticity of the payment notifications it receiv… |
-| 2026-10-09 07:17:18 | [CVE-2026-88931](https://nvd.nist.gov/vuln/detail/CVE-2026-88931) |  |  | The Social Web Suite WordPress plugin through 4.1.12 does not restrict which of its settings may be written through an… |
-| 2026-10-09 07:17:19 | [CVE-2026-92989](https://nvd.nist.gov/vuln/detail/CVE-2026-92989) |  |  | The SendPress Newsletters WordPress plugin through 1.26.1.20 does not check the user's capability on several newsletter… |
-| 2026-10-09 07:17:19 | [CVE-2026-92990](https://nvd.nist.gov/vuln/detail/CVE-2026-92990) |  |  | The SendPress Newsletters WordPress plugin through 1.26.1.20 protects a logging endpoint with a hardcoded token that is… |
-| 2026-10-09 07:17:19 | [CVE-2026-93548](https://nvd.nist.gov/vuln/detail/CVE-2026-93548) |  |  | The FooSales WordPress plugin before 1.43.3 does not verify that an authenticated caller is entitled to act as the user… |
-| 2026-10-09 07:17:19 | [CVE-2026-97076](https://nvd.nist.gov/vuln/detail/CVE-2026-97076) | High | 7.5 | Executable Regular Expression Error vulnerability in WP Media WP Rocket wp-rocket allows Code Injection.This issue affe… |
+| 2026-10-09 08:16:54 | [CVE-2025-14123](https://nvd.nist.gov/vuln/detail/CVE-2025-14123) | Medium | 6.8 | The Redux Framework plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 4.… |
+| 2026-10-09 08:16:54 | [CVE-2026-106145](https://nvd.nist.gov/vuln/detail/CVE-2026-106145) | High | 7.1 | In Progress® Telerik® Report Server prior to version 12.2.26.1007, incorrect privilege assignment in the service-agent… |
+| 2026-10-09 08:16:54 | [CVE-2026-106155](https://nvd.nist.gov/vuln/detail/CVE-2026-106155) | High | 8.9 | In Progress® Telerik® Report Server prior to version 12.2.26.1007, a stored cross-site scripting vulnerability in the s… |
+| 2026-10-09 08:16:54 | [CVE-2026-19569](https://nvd.nist.gov/vuln/detail/CVE-2026-19569) | High | 8.8 | dynamic_object_create() in kernel/userspace/userspace.c computed the backing allocation for a dynamically allocated ker… |
+| 2026-10-09 08:16:54 | [CVE-2026-19570](https://nvd.nist.gov/vuln/detail/CVE-2026-19570) | High | 8.8 | The LE Audio Broadcast Sink in subsys/bluetooth/audio/bap_broadcast_sink.c copies subgroup metadata from a received Bas… |
+| 2026-10-09 08:16:54 | [CVE-2026-19571](https://nvd.nist.gov/vuln/detail/CVE-2026-19571) | Medium | 6.7 | The ITE IT8xxx2 SHI host-command backend (subsys/mgmt/ec_host_cmd/backends/ec_host_cmd_backend_shi_ite.c) copied the 8-… |
+| 2026-10-09 08:16:54 | [CVE-2026-19574](https://nvd.nist.gov/vuln/detail/CVE-2026-19574) | High | 7.0 | The ARM64 MMU back-end allocated address space identifiers (ASIDs) for memory domains with a bare round-robin counter i… |
+| 2026-10-09 08:16:55 | [CVE-2026-19575](https://nvd.nist.gov/vuln/detail/CVE-2026-19575) | High | 7.8 | The user-mode verification handler for the device_deinit() system call, z_vrfy_device_deinit() in kernel/device.c, vali… |
+| 2026-10-09 08:16:55 | [CVE-2026-4264](https://nvd.nist.gov/vuln/detail/CVE-2026-4264) | Medium | 5.1 | Reflected Cross-Site Scripting (XSS) on the BeeTienda e-commerce platform, specifically in the latest demo version. The… |
+| 2026-10-09 08:16:55 | [CVE-2026-97075](https://nvd.nist.gov/vuln/detail/CVE-2026-97075) | Medium | 6.5 | Missing Authorization vulnerability in WP Media WP Rocket wp-rocket allows Exploiting Incorrectly Configured Access Con… |
+| 2026-10-09 08:16:55 | [CVE-2026-98375](https://nvd.nist.gov/vuln/detail/CVE-2026-98375) |  |  | In the Linux kernel, the following vulnerability has been resolved: xen/netfront: drop RX packets with a short Ethernet… |
+| 2026-10-09 08:16:55 | [CVE-2026-98376](https://nvd.nist.gov/vuln/detail/CVE-2026-98376) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Use array_map_meta_equal for percpu array inne… |
+| 2026-10-09 08:16:56 | [CVE-2026-98377](https://nvd.nist.gov/vuln/detail/CVE-2026-98377) |  |  | In the Linux kernel, the following vulnerability has been resolved: vlan: require the MAC header to be present in __vla… |
+| 2026-10-09 08:16:56 | [CVE-2026-98378](https://nvd.nist.gov/vuln/detail/CVE-2026-98378) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Skip unsettled links in link iterator bpf_link… |
+| 2026-10-09 08:16:56 | [CVE-2026-98379](https://nvd.nist.gov/vuln/detail/CVE-2026-98379) |  |  | In the Linux kernel, the following vulnerability has been resolved: netfilter: ip6t_rpfilter: reject routes without ine… |
+| 2026-10-09 08:16:56 | [CVE-2026-98380](https://nvd.nist.gov/vuln/detail/CVE-2026-98380) |  |  | In the Linux kernel, the following vulnerability has been resolved: net/sched: reject IDR error pointers when deleting… |
+| 2026-10-09 08:16:56 | [CVE-2026-98381](https://nvd.nist.gov/vuln/detail/CVE-2026-98381) |  |  | In the Linux kernel, the following vulnerability has been resolved: veth: manage XDP program pointers during channel re… |
+| 2026-10-09 08:16:56 | [CVE-2026-98382](https://nvd.nist.gov/vuln/detail/CVE-2026-98382) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Reject dev-bound-only programs on other device… |
+| 2026-10-09 08:16:56 | [CVE-2026-98383](https://nvd.nist.gov/vuln/detail/CVE-2026-98383) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Disallow bpf_skb_pull_data() for LWT_SEG6LOCAL… |
+| 2026-10-09 08:16:56 | [CVE-2026-98384](https://nvd.nist.gov/vuln/detail/CVE-2026-98384) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Fix out-of-bounds read of sk_protocol in bpf_s… |
 
 ## Data source
 
