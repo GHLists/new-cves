@@ -9,25 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:19 UTC
+## Latest list — 2026-10-09 12:18 UTC
 
-New CVEs published between 2026-10-09 10:18 UTC and 2026-10-09 11:19 UTC.
+New CVEs published between 2026-10-09 11:19 UTC and 2026-10-09 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T11-19-18-353753Z.csv)
+[Full CSV](data/new-cves-2026-10-09T12-18-37-230362Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 11:17:01 | [CVE-2026-100227](https://nvd.nist.gov/vuln/detail/CVE-2026-100227) |  |  | Improper Verification of Cryptographic Signature vulnerability in Apache CXF's JAX-RS XML Security module. The JAX-RS X… |
-| 2026-10-09 11:17:02 | [CVE-2026-107937](https://nvd.nist.gov/vuln/detail/CVE-2026-107937) |  |  | In Apache CXF, the parser for multipart/MTOM attachment part headers did not fully enforce the configured attachment-ma… |
-| 2026-10-09 11:17:02 | [CVE-2026-107938](https://nvd.nist.gov/vuln/detail/CVE-2026-107938) |  |  | In Apache CXF, the Netty-based HTTP client transport (cxf-rt-transports-http-netty-client) did not verify that the host… |
-| 2026-10-09 11:17:02 | [CVE-2026-108039](https://nvd.nist.gov/vuln/detail/CVE-2026-108039) |  |  | By default, StaxUtils placed no limit on the total number of elements or the total number of characters in an XML docum… |
-| 2026-10-09 11:17:02 | [CVE-2026-71575](https://nvd.nist.gov/vuln/detail/CVE-2026-71575) |  |  | The max_age authentication-freshness check in OidcClientCodeRequestFilter was inoperative due to a milliseconds/seconds… |
-| 2026-10-09 11:17:02 | [CVE-2026-73179](https://nvd.nist.gov/vuln/detail/CVE-2026-73179) |  |  | Improper enforcement of single-use authorization code semantics in the JPA OAuth2 authorization code grant provider in… |
-| 2026-10-09 11:17:02 | [CVE-2026-78384](https://nvd.nist.gov/vuln/detail/CVE-2026-78384) |  |  | CompressionUtils.inflate() decompressed attacker-controlled DEFLATE data with no output-size cap. A small (~KB) crafted… |
-| 2026-10-09 11:17:03 | [CVE-2026-79650](https://nvd.nist.gov/vuln/detail/CVE-2026-79650) |  |  | Apache CXF’s OIDC relying-party component could redirect users to an attacker-controlled URL after successful authentic… |
-| 2026-10-09 11:17:03 | [CVE-2026-86463](https://nvd.nist.gov/vuln/detail/CVE-2026-86463) |  |  | Apache CXF's FIQL query parser has a vulnerability in how it searches for operators in query expressions. The search pa… |
-| 2026-10-09 11:17:03 | [CVE-2026-97468](https://nvd.nist.gov/vuln/detail/CVE-2026-97468) |  |  | Apache CXF's STSTokenValidator and Security Token Service (STS) cached validated security tokens under a non-cryptograp… |
-| 2026-10-09 11:17:03 | [CVE-2026-97791](https://nvd.nist.gov/vuln/detail/CVE-2026-97791) |  |  | In Apache CXF, STSTokenValidator checks whether a SAML assertion is signed by a trusted certificate before deciding to… |
+| 2026-10-09 12:17:07 | [CVE-2026-103329](https://nvd.nist.gov/vuln/detail/CVE-2026-103329) | Medium | 5.3 | The Super Payments WordPress plugin before 1.43.1 does not properly verify the authenticity of incoming payment webhook… |
+| 2026-10-09 12:17:08 | [CVE-2026-107419](https://nvd.nist.gov/vuln/detail/CVE-2026-107419) | Medium | 5.4 | Missing Authorization vulnerability in Cool Plugins AI Translation for Polylang automatic-translations-for-polylang all… |
+| 2026-10-09 12:17:10 | [CVE-2026-39779](https://nvd.nist.gov/vuln/detail/CVE-2026-39779) | Medium | 4.3 | Missing Authorization vulnerability in Asgaros Asgaros Forum asgaros-forum allows Exploiting Incorrectly Configured Acc… |
+| 2026-10-09 12:17:10 | [CVE-2026-62036](https://nvd.nist.gov/vuln/detail/CVE-2026-62036) | Medium | 4.3 | Exposure of Sensitive System Information to an Unauthorized Control Sphere vulnerability in AREOI All Bootstrap Blocks… |
+| 2026-10-09 12:17:10 | [CVE-2026-62039](https://nvd.nist.gov/vuln/detail/CVE-2026-62039) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Html5 Au… |
+| 2026-10-09 12:17:10 | [CVE-2026-62040](https://nvd.nist.gov/vuln/detail/CVE-2026-62040) | Medium | 5.3 | Missing Authorization vulnerability in DEV Institute Restrict User Access – Membership Plugin with Force restrict-user-… |
+| 2026-10-09 12:17:11 | [CVE-2026-62041](https://nvd.nist.gov/vuln/detail/CVE-2026-62041) | Medium | 5.4 | Missing Authorization vulnerability in Ashok Dudhat WP Event Manager wp-event-manager allows Exploiting Incorrectly Con… |
+| 2026-10-09 12:17:11 | [CVE-2026-62042](https://nvd.nist.gov/vuln/detail/CVE-2026-62042) | Medium | 5.3 | Missing Authorization vulnerability in unFocus Projects Scripts n Styles scripts-n-styles allows Exploiting Incorrectly… |
+| 2026-10-09 12:17:12 | [CVE-2026-85348](https://nvd.nist.gov/vuln/detail/CVE-2026-85348) | Medium | 4.3 | The GDPR Data Request Form WordPress plugin through 1.7.1 does not have CSRF protection when updating one of its settin… |
+| 2026-10-09 12:17:12 | [CVE-2026-86851](https://nvd.nist.gov/vuln/detail/CVE-2026-86851) | Medium | 6.5 | The Livees Checkout WordPress plugin through 7.0.2 does not perform any capability, nonce or order-key check before act… |
+| 2026-10-09 12:17:12 | [CVE-2026-87846](https://nvd.nist.gov/vuln/detail/CVE-2026-87846) | Medium | 5.3 | The Shipping for Nova Poshta WordPress plugin through 1.19.8 does not perform any authorisation, nonce or ownership che… |
+| 2026-10-09 12:17:12 | [CVE-2026-89235](https://nvd.nist.gov/vuln/detail/CVE-2026-89235) | Medium | 6.8 | The Testimonials by BestWebSoft WordPress plugin through 1.0.8 does not sanitise and escape a parameter before using it… |
 
 ## Data source
 
