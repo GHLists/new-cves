@@ -9,16 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 04:18 UTC
+## Latest list — 2026-10-09 05:19 UTC
 
-New CVEs published between 2026-10-09 03:18 UTC and 2026-10-09 04:18 UTC.
+New CVEs published between 2026-10-09 04:18 UTC and 2026-10-09 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T04-18-43-631439Z.csv)
+[Full CSV](data/new-cves-2026-10-09T05-19-10-816939Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 04:18:04 | [CVE-2026-107885](https://nvd.nist.gov/vuln/detail/CVE-2026-107885) | Low | 3.3 | OpenPrinting CUPS through 2.4.20 contains a resource-exhaustion vulnerability in the submission-timeout handling of cup… |
-| 2026-10-09 04:18:05 | [CVE-2026-107886](https://nvd.nist.gov/vuln/detail/CVE-2026-107886) | Low | 2.3 | OpenPrinting CUPS before 2.4.20 contains a double-free in printer-class management. When CUPS-Add-Modify-Class replaces… |
+| 2026-10-09 05:16:44 | [CVE-2026-107888](https://nvd.nist.gov/vuln/detail/CVE-2026-107888) | Medium | 5.1 | OpenPrinting CUPS before 2.4.20 contains a NULL pointer dereference in cupsdCheckJobs() when a job marked job-held-on-c… |
+| 2026-10-09 05:16:44 | [CVE-2026-107889](https://nvd.nist.gov/vuln/detail/CVE-2026-107889) | Medium | 5.5 | A flaw was found in the login theme rendering component of Keycloak. The issue occurs because the security filter respo… |
+| 2026-10-09 05:16:44 | [CVE-2026-107890](https://nvd.nist.gov/vuln/detail/CVE-2026-107890) | Low | 3.3 | OpenPrinting CUPS before 2.4.20 contains a NULL pointer dereference caused by repeated IPP group tags in job-creation r… |
+| 2026-10-09 05:16:44 | [CVE-2026-5759](https://nvd.nist.gov/vuln/detail/CVE-2026-5759) | Critical | 9.3 | A double free and use-after-free vulnerability in the RdbLoadDeletedNodes function of the RDB graph decoders (src/seria… |
+| 2026-10-09 05:16:45 | [CVE-2026-7826](https://nvd.nist.gov/vuln/detail/CVE-2026-7826) | High | 8.8 | A heap-based out-of-bounds read in the BufferSerializerIOv2_ReadBuffer function (src/serializers/serializer_io.c) in Fa… |
+| 2026-10-09 05:16:45 | [CVE-2026-7827](https://nvd.nist.gov/vuln/detail/CVE-2026-7827) | Critical | 9.2 | A stack-based buffer overflow in the _RdbLoadEntity function of the RDB graph decoders (src/serializers/decoders/*/deco… |
 
 ## Data source
 
