@@ -9,22 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 06:18 UTC
+## Latest list — 2026-10-09 07:19 UTC
 
-New CVEs published between 2026-10-09 05:19 UTC and 2026-10-09 06:18 UTC.
+New CVEs published between 2026-10-09 06:18 UTC and 2026-10-09 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T06-18-39-472647Z.csv)
+[Full CSV](data/new-cves-2026-10-09T07-19-48-088331Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 06:17:10 | [CVE-2026-107908](https://nvd.nist.gov/vuln/detail/CVE-2026-107908) | Critical | 9.3 | A heap-based out-of-bounds write in the BoltReadHandler function (src/bolt/bolt_api.c) in FalkorDB before 4.20.0 allows… |
-| 2026-10-09 06:17:12 | [CVE-2026-107909](https://nvd.nist.gov/vuln/detail/CVE-2026-107909) | High | 8.8 | A heap-based out-of-bounds write in the ws_read_frame function (src/bolt/ws.c) and the buffer_apply_mask function (src/… |
-| 2026-10-09 06:17:12 | [CVE-2026-107910](https://nvd.nist.gov/vuln/detail/CVE-2026-107910) | Critical | 9.2 | An improper authentication vulnerability in the is_authenticated function (src/bolt/bolt_api.c) in FalkorDB before 4.20… |
-| 2026-10-09 06:17:12 | [CVE-2026-107911](https://nvd.nist.gov/vuln/detail/CVE-2026-107911) | High | 7.7 | A type confusion vulnerability in the _read_flags function (src/commands/cmd_dispatcher.c) in FalkorDB before 4.20.0 al… |
-| 2026-10-09 06:17:12 | [CVE-2026-107914](https://nvd.nist.gov/vuln/detail/CVE-2026-107914) | High | 7.8 | Backdrop CMS 1.34 before 1.34.5 and 1.35 before 1.35.1 doesn't sufficiently protect configuration exports when deliveri… |
-| 2026-10-09 06:17:12 | [CVE-2026-87108](https://nvd.nist.gov/vuln/detail/CVE-2026-87108) | Low | 2.3 | An authenticated Ops Manager user with a read-only project role can retrieve a daily host monitoring record associated… |
-| 2026-10-09 06:17:13 | [CVE-2026-87109](https://nvd.nist.gov/vuln/detail/CVE-2026-87109) | Medium | 6.0 | An authenticated Ops Manager organization member can retrieve another member's pending authenticator enrollment seed th… |
-| 2026-10-09 06:17:13 | [CVE-2026-87110](https://nvd.nist.gov/vuln/detail/CVE-2026-87110) | Medium | 6.9 | An unauthenticated user with network access to the Ops Manager web port can repeatedly request monitoring endpoints tha… |
+| 2026-10-09 07:17:16 | [CVE-2025-15700](https://nvd.nist.gov/vuln/detail/CVE-2025-15700) |  |  | The AWP Classifieds WordPress plugin before 4.4.9 does not validate the type of files extracted from an uploaded ZIP ar… |
+| 2026-10-09 07:17:17 | [CVE-2026-101028](https://nvd.nist.gov/vuln/detail/CVE-2026-101028) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash allows an actor to infer data in related records they cannot r… |
+| 2026-10-09 07:17:17 | [CVE-2026-106095](https://nvd.nist.gov/vuln/detail/CVE-2026-106095) |  |  | The Code Snippets WordPress plugin before 3.10.0 does not perform a capability check on one of its snippet-management a… |
+| 2026-10-09 07:17:17 | [CVE-2026-106097](https://nvd.nist.gov/vuln/detail/CVE-2026-106097) |  |  | The Code Snippets WordPress plugin before 3.10.0 does not sanitise and escape a user-supplied parameter before using it… |
+| 2026-10-09 07:17:18 | [CVE-2026-81929](https://nvd.nist.gov/vuln/detail/CVE-2026-81929) | High | 7.2 | The Ocean Pro Demos and Ocean eComm Treasure Box plugins for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-10-09 07:17:18 | [CVE-2026-86850](https://nvd.nist.gov/vuln/detail/CVE-2026-86850) |  |  | The SKU Error Fixer for WooCommerce WordPress plugin through 1.0 does not perform any capability or nonce checks on two… |
+| 2026-10-09 07:17:18 | [CVE-2026-87841](https://nvd.nist.gov/vuln/detail/CVE-2026-87841) |  |  | The UnitechPay WordPress plugin through 1.0.6.3 does not verify the authenticity of the payment notifications it receiv… |
+| 2026-10-09 07:17:18 | [CVE-2026-88931](https://nvd.nist.gov/vuln/detail/CVE-2026-88931) |  |  | The Social Web Suite WordPress plugin through 4.1.12 does not restrict which of its settings may be written through an… |
+| 2026-10-09 07:17:19 | [CVE-2026-92989](https://nvd.nist.gov/vuln/detail/CVE-2026-92989) |  |  | The SendPress Newsletters WordPress plugin through 1.26.1.20 does not check the user's capability on several newsletter… |
+| 2026-10-09 07:17:19 | [CVE-2026-92990](https://nvd.nist.gov/vuln/detail/CVE-2026-92990) |  |  | The SendPress Newsletters WordPress plugin through 1.26.1.20 protects a logging endpoint with a hardcoded token that is… |
+| 2026-10-09 07:17:19 | [CVE-2026-93548](https://nvd.nist.gov/vuln/detail/CVE-2026-93548) |  |  | The FooSales WordPress plugin before 1.43.3 does not verify that an authenticated caller is entitled to act as the user… |
+| 2026-10-09 07:17:19 | [CVE-2026-97076](https://nvd.nist.gov/vuln/detail/CVE-2026-97076) | High | 7.5 | Executable Regular Expression Error vulnerability in WP Media WP Rocket wp-rocket allows Code Injection.This issue affe… |
 
 ## Data source
 
