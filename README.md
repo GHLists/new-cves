@@ -9,31 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 14:18 UTC
+## Latest list — 2026-10-09 15:18 UTC
 
-New CVEs published between 2026-10-09 13:18 UTC and 2026-10-09 14:18 UTC.
+New CVEs published between 2026-10-09 14:18 UTC and 2026-10-09 15:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T14-18-52-836175Z.csv)
+[Full CSV](data/new-cves-2026-10-09T15-18-34-291199Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 14:17:09 | [CVE-2026-100730](https://nvd.nist.gov/vuln/detail/CVE-2026-100730) | Critical | 9.3 | A service console interface on openPDC and openHistorian deserializes a client-supplied data structure. On systems usin… |
-| 2026-10-09 14:17:10 | [CVE-2026-101022](https://nvd.nist.gov/vuln/detail/CVE-2026-101022) | Medium | 5.3 | A Modbus connection feature on openPDC accepts a caller-specified destination address and port with no restriction on w… |
-| 2026-10-09 14:17:11 | [CVE-2026-104629](https://nvd.nist.gov/vuln/detail/CVE-2026-104629) | High | 7.7 | A component loading mechanism in openPDC and openHistorian will construct and run any specified type, which may be an i… |
-| 2026-10-09 14:17:11 | [CVE-2026-105281](https://nvd.nist.gov/vuln/detail/CVE-2026-105281) | High | 8.7 | The internal data publisher on openPDC accepts network connections without authentication in its default configuration.… |
-| 2026-10-09 14:17:18 | [CVE-2026-106581](https://nvd.nist.gov/vuln/detail/CVE-2026-106581) | High | 7.3 | Before 4.92.0, Docker Desktop for Windows did not verify the signature of a package supplied to Docker Desktop Installe… |
-| 2026-10-09 14:17:19 | [CVE-2026-107785](https://nvd.nist.gov/vuln/detail/CVE-2026-107785) | Medium | 6.3 | Crux Agent from 1.9.0 before 2.0.3 uses the full SKA bilocation key as the WireGuard preshared key. When a peering sess… |
-| 2026-10-09 14:17:19 | [CVE-2026-107803](https://nvd.nist.gov/vuln/detail/CVE-2026-107803) | Medium | 6.5 | ProcessMaker is an open source workflow management software suite. Prior to 2026.14.3, the `GET /api/1.0/tasks` endpoin… |
-| 2026-10-09 14:17:20 | [CVE-2026-108063](https://nvd.nist.gov/vuln/detail/CVE-2026-108063) | Medium | 5.5 | A flaw was found in libhangul. When parsing Hanja dictionary files, the library fails to verify that an entry contains… |
-| 2026-10-09 14:17:22 | [CVE-2026-62026](https://nvd.nist.gov/vuln/detail/CVE-2026-62026) | High | 7.1 | Cross-Site Request Forgery (CSRF) vulnerability in MIGHTYminnow Dashboard Notes dashboard-notes allows Cross Site Reque… |
-| 2026-10-09 14:17:22 | [CVE-2026-79363](https://nvd.nist.gov/vuln/detail/CVE-2026-79363) |  |  | Cloudron 9.1.7 and 9.2 contain a stored cross-site scripting (XSS) vulnerability in the Branding Footer feature. An aut… |
-| 2026-10-09 14:17:23 | [CVE-2026-85479](https://nvd.nist.gov/vuln/detail/CVE-2026-85479) | Medium | 6.9 | The STTP-based data publisher on openPDC accepts network connections without authentication in its default configuratio… |
-| 2026-10-09 14:17:24 | [CVE-2026-92085](https://nvd.nist.gov/vuln/detail/CVE-2026-92085) | Medium | 5.4 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in TMT Machinery Ind… |
-| 2026-10-09 14:17:24 | [CVE-2026-94063](https://nvd.nist.gov/vuln/detail/CVE-2026-94063) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ThemeREX Educatio… |
-| 2026-10-09 14:17:25 | [CVE-2026-94064](https://nvd.nist.gov/vuln/detail/CVE-2026-94064) | High | 8.8 | Deserialization of Untrusted Data vulnerability in BuddhaThemes Neo \| Barber Shop WordPress Theme neocut allows Object… |
-| 2026-10-09 14:17:25 | [CVE-2026-94065](https://nvd.nist.gov/vuln/detail/CVE-2026-94065) | High | 8.8 | Deserialization of Untrusted Data vulnerability in BuddhaThemes ColorFolio colorit allows Object Injection.This issue a… |
-| 2026-10-09 14:17:25 | [CVE-2026-94066](https://nvd.nist.gov/vuln/detail/CVE-2026-94066) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in SpabRice Pond pon… |
-| 2026-10-09 14:17:26 | [CVE-2026-94067](https://nvd.nist.gov/vuln/detail/CVE-2026-94067) | High | 8.1 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
+| 2026-10-09 15:17:06 | [CVE-2026-102916](https://nvd.nist.gov/vuln/detail/CVE-2026-102916) | Medium | 6.8 | A reachable assertion in the illumos bhyve instruction emulator allows a guest to panic the host. When emulating a REP-… |
+| 2026-10-09 15:17:06 | [CVE-2026-104081](https://nvd.nist.gov/vuln/detail/CVE-2026-104081) | High | 7.2 | KodExplorer before 4.55 contains a path traversal vulnerability in the unzip_pre_name() function within app/function/he… |
+| 2026-10-09 15:17:07 | [CVE-2026-104112](https://nvd.nist.gov/vuln/detail/CVE-2026-104112) | Medium | 6.8 | A missing release of resources in the illumos name service cache daemon (nscd) allows a local user to exhaust kernel me… |
+| 2026-10-09 15:17:07 | [CVE-2026-104113](https://nvd.nist.gov/vuln/detail/CVE-2026-104113) | Medium | 5.4 | A double free in the IP management daemon (ipmgmtd) of OmniOS and SmartOS allows a local user to crash the daemon. When… |
+| 2026-10-09 15:17:07 | [CVE-2026-104114](https://nvd.nist.gov/vuln/detail/CVE-2026-104114) | Medium | 5.4 | A NULL pointer dereference in the illumos Network Auto-Magic daemon (nwamd) allows a local user to crash the daemon. nw… |
+| 2026-10-09 15:17:07 | [CVE-2026-104115](https://nvd.nist.gov/vuln/detail/CVE-2026-104115) | Medium | 5.4 | A stack-based buffer overflow in the illumos reparse point daemon (reparsed) allows a local user to crash the daemon. g… |
+| 2026-10-09 15:17:07 | [CVE-2026-104116](https://nvd.nist.gov/vuln/detail/CVE-2026-104116) | Low | 1.9 | A missing authorization check in the illumos zones statistics daemon (zonestatd) allows a local user in any zone to dis… |
+| 2026-10-09 15:17:07 | [CVE-2026-104117](https://nvd.nist.gov/vuln/detail/CVE-2026-104117) | Low | 1.9 | A missing authorization check in the illumos IP management daemon (ipmgmtd) allows a local user to change the persisten… |
+| 2026-10-09 15:17:08 | [CVE-2026-105278](https://nvd.nist.gov/vuln/detail/CVE-2026-105278) | Critical | 9.3 | The published Docker image for openPDC includes a fixed administrative credential with no forced change on first use. A… |
+| 2026-10-09 15:17:09 | [CVE-2026-107804](https://nvd.nist.gov/vuln/detail/CVE-2026-107804) | Medium | 5.3 | Nginx UI is a web user interface for the Nginx web server. From 2.2.0 until 2.6.0, the bundled reverse proxy does not p… |
+| 2026-10-09 15:17:09 | [CVE-2026-107805](https://nvd.nist.gov/vuln/detail/CVE-2026-107805) | High | 7.5 | Nginx UI is a web user interface for the Nginx web server. From 2.5.0 until 2.6.0, the node-signature authentication pa… |
+| 2026-10-09 15:17:10 | [CVE-2026-107806](https://nvd.nist.gov/vuln/detail/CVE-2026-107806) | Critical | 9.4 | Nginx UI is a web user interface for the Nginx web server. From 2.3.8 until 2.5.0, an authenticated administrator with… |
+| 2026-10-09 15:17:10 | [CVE-2026-108100](https://nvd.nist.gov/vuln/detail/CVE-2026-108100) | High | 7.1 | HortusFox (hortusfox-web) before 6.2 contains an SQL injection vulnerability that allows API token holders to inject SQ… |
+| 2026-10-09 15:17:10 | [CVE-2026-108101](https://nvd.nist.gov/vuln/detail/CVE-2026-108101) | High | 7.7 | HortusFox (hortusfox-web) through 6.3 contains an unrestricted file upload vulnerability in PlantAttachmentModel that a… |
+| 2026-10-09 15:17:10 | [CVE-2026-108102](https://nvd.nist.gov/vuln/detail/CVE-2026-108102) | Medium | 6.9 | Open5GS through 2.8.0 contains a heap out-of-bounds read vulnerability in ogs_pfcp_parse_volume_measurement() in lib/pf… |
+| 2026-10-09 15:17:11 | [CVE-2026-108103](https://nvd.nist.gov/vuln/detail/CVE-2026-108103) | Medium | 6.9 | Open5GS through 2.8.0 contains a heap out-of-bounds read vulnerability in ogs_pfcp_parse_dropped_dl_traffic_threshold()… |
+| 2026-10-09 15:17:11 | [CVE-2026-108104](https://nvd.nist.gov/vuln/detail/CVE-2026-108104) | Medium | 6.3 | Xerial snappy-java from 1.1.7.4 before 1.1.10.10 contains a double release vulnerability in SnappyFramedInputStream tha… |
+| 2026-10-09 15:17:11 | [CVE-2026-108105](https://nvd.nist.gov/vuln/detail/CVE-2026-108105) | High | 8.2 | Open5GS through 2.8.0 contains a reachable assertion vulnerability in mme_gn_handle_sgsn_context_request() that allows… |
+| 2026-10-09 15:17:11 | [CVE-2026-108106](https://nvd.nist.gov/vuln/detail/CVE-2026-108106) | High | 8.7 | Xerial snappy-java before 1.1.10.9 contains an unbounded memory allocation vulnerability that allows attackers to exhau… |
+| 2026-10-09 15:17:11 | [CVE-2026-108107](https://nvd.nist.gov/vuln/detail/CVE-2026-108107) | Critical | 9.3 | PHPNuxBill through 2025.3.20 contains an unauthenticated SQL injection vulnerability in the radius.php FreeRADIUS REST… |
+| 2026-10-09 15:17:11 | [CVE-2026-108108](https://nvd.nist.gov/vuln/detail/CVE-2026-108108) | High | 7.1 | PHPNuxBill through 2025.3.20 contains an authentication bypass vulnerability in RADIUS CHAP verification because Passwo… |
+| 2026-10-09 15:17:12 | [CVE-2026-108109](https://nvd.nist.gov/vuln/detail/CVE-2026-108109) | Critical | 9.3 | PHPNuxBill through 2025.3.20 contains an account takeover vulnerability in the customer password reset flow in system/c… |
+| 2026-10-09 15:17:12 | [CVE-2026-108124](https://nvd.nist.gov/vuln/detail/CVE-2026-108124) | Medium | 4.9 | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in wp-post-author. T… |
+| 2026-10-09 15:17:12 | [CVE-2026-108125](https://nvd.nist.gov/vuln/detail/CVE-2026-108125) | High | 7.1 | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in wp-post-author. T… |
+| 2026-10-09 15:17:13 | [CVE-2026-15340](https://nvd.nist.gov/vuln/detail/CVE-2026-15340) | Critical | 9.3 | lwIP SMTP client does not check the size of inputs, potentially allowing a buffer overflow. |
+| 2026-10-09 15:17:13 | [CVE-2026-28745](https://nvd.nist.gov/vuln/detail/CVE-2026-28745) | Critical | 9.3 | Usernames and passwords, including the default credentials, are stored in the configuration file using weak encryption.… |
+| 2026-10-09 15:17:13 | [CVE-2026-29797](https://nvd.nist.gov/vuln/detail/CVE-2026-29797) | High | 8.4 | No authentication is required when updating firmware or bootloader, making it easy for malicious files to be pushed to… |
+| 2026-10-09 15:17:14 | [CVE-2026-32645](https://nvd.nist.gov/vuln/detail/CVE-2026-32645) | Critical | 9.2 | Default factory credentials with administrative access are enabled and persist even after configuring other administrat… |
+| 2026-10-09 15:17:14 | [CVE-2026-33272](https://nvd.nist.gov/vuln/detail/CVE-2026-33272) | Medium | 6.8 | A malicious user with physical access to the device can boot the switch from factory settings without authentication, u… |
+| 2026-10-09 15:17:14 | [CVE-2026-33367](https://nvd.nist.gov/vuln/detail/CVE-2026-33367) | Critical | 9.3 | SNMP can be used to perform administrative actions such as retrieving configuration files, modifying user accounts or d… |
+| 2026-10-09 15:17:14 | [CVE-2026-39453](https://nvd.nist.gov/vuln/detail/CVE-2026-39453) | High | 8.5 | Navigating to a certain URL on the switch’s web server causes the switch to reboot. This can be automated using a tool… |
+| 2026-10-09 15:17:14 | [CVE-2026-39460](https://nvd.nist.gov/vuln/detail/CVE-2026-39460) | Critical | 9.3 | Usernames and passwords, including the default factory credentials, are stored in plaintext within the configuration fi… |
+| 2026-10-09 15:17:15 | [CVE-2026-78795](https://nvd.nist.gov/vuln/detail/CVE-2026-78795) |  |  | An issue in Netcore B11 Enterprise-level full Gigabit 9-port shop wireless router v1.3.241114.024540 and before allows… |
+| 2026-10-09 15:17:15 | [CVE-2026-78796](https://nvd.nist.gov/vuln/detail/CVE-2026-78796) |  |  | An issue in Netcore B11 Enterprise-level full Gigabit 9-port shop wireless router v1.3.241114.024540 and before allows… |
+| 2026-10-09 15:17:20 | [CVE-2026-95702](https://nvd.nist.gov/vuln/detail/CVE-2026-95702) | High | 8.5 | Use-after-free vulnerability in VFS in Google gVisor prior to release 20260831.0 on all platforms allows a local attack… |
 
 ## Data source
 
