@@ -9,24 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 17:18 UTC
+## Latest list — 2026-10-10 19:19 UTC
 
-New CVEs published between 2026-10-10 16:18 UTC and 2026-10-10 17:18 UTC.
+New CVEs published between 2026-10-10 18:18 UTC and 2026-10-10 19:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T17-18-32-34012Z.csv)
+[Full CSV](data/new-cves-2026-10-10T19-19-06-313698Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 17:16:59 | [CVE-2026-103071](https://nvd.nist.gov/vuln/detail/CVE-2026-103071) | High | 7.5 | Improper Control of Generation of Code ('Code Injection') vulnerability in VillaTheme Thank You Page Customizer for Woo… |
-| 2026-10-10 17:16:59 | [CVE-2026-103357](https://nvd.nist.gov/vuln/detail/CVE-2026-103357) | Medium | 6.9 | Missing Authorization vulnerability in VillaTheme GIFT4U gift4u-gift-cards-all-in-one-for-woo allows Exploiting Incorre… |
-| 2026-10-10 17:16:59 | [CVE-2026-104398](https://nvd.nist.gov/vuln/detail/CVE-2026-104398) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in VillaTheme AFFI – Affiliate Marketing for WooCommerce affi-affiliate… |
-| 2026-10-10 17:17:00 | [CVE-2026-105889](https://nvd.nist.gov/vuln/detail/CVE-2026-105889) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Tickera Tickera t… |
-| 2026-10-10 17:17:00 | [CVE-2026-106608](https://nvd.nist.gov/vuln/detail/CVE-2026-106608) | High | 7.2 | Incorrect Privilege Assignment vulnerability in Automattic WooCommerce woocommerce allows Privilege Escalation.This iss… |
-| 2026-10-10 17:17:00 | [CVE-2026-106609](https://nvd.nist.gov/vuln/detail/CVE-2026-106609) | High | 7.5 | Missing Authorization vulnerability in Web Impian Bayarcash WooCommerce bayarcash-wc allows Exploiting Incorrectly Conf… |
-| 2026-10-10 17:17:00 | [CVE-2026-108585](https://nvd.nist.gov/vuln/detail/CVE-2026-108585) | Medium | 5.3 | argocd-mcp (Argo CD MCP Server) through 0.9.0 contains a path traversal vulnerability in the delete_application tool th… |
-| 2026-10-10 17:17:00 | [CVE-2026-108586](https://nvd.nist.gov/vuln/detail/CVE-2026-108586) | Medium | 5.3 | 1MCP Agent (@1mcp/agent) 0.20.0 through 0.39.0 contains an incorrect authorization vulnerability that allows authentica… |
-| 2026-10-10 17:17:00 | [CVE-2026-62044](https://nvd.nist.gov/vuln/detail/CVE-2026-62044) | High | 7.2 | Deserialization of Untrusted Data vulnerability in bPlugins Super Video Player super-video-player allows Object Injecti… |
-| 2026-10-10 17:17:01 | [CVE-2026-94160](https://nvd.nist.gov/vuln/detail/CVE-2026-94160) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in themeStek ThemeSt… |
+| 2026-10-10 19:16:56 | [CVE-2026-105892](https://nvd.nist.gov/vuln/detail/CVE-2026-105892) | Critical | 9.8 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in rtCamp Inc. rtMedia for… |
+| 2026-10-10 19:16:57 | [CVE-2026-106610](https://nvd.nist.gov/vuln/detail/CVE-2026-106610) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allo… |
+| 2026-10-10 19:16:57 | [CVE-2026-108591](https://nvd.nist.gov/vuln/detail/CVE-2026-108591) | Medium | 5.9 | InnoShop 0.9.2 contains a local file disclosure vulnerability that allows authenticated administrators with files_creat… |
+| 2026-10-10 19:16:57 | [CVE-2026-108592](https://nvd.nist.gov/vuln/detail/CVE-2026-108592) | Medium | 6.0 | mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwr… |
+| 2026-10-10 19:16:57 | [CVE-2026-108593](https://nvd.nist.gov/vuln/detail/CVE-2026-108593) | High | 7.3 | 9router 0.4.1 through 0.5.99 contains a configuration injection vulnerability in the POST /api/cli-tools/hermes-setting… |
+| 2026-10-10 19:16:57 | [CVE-2026-108594](https://nvd.nist.gov/vuln/detail/CVE-2026-108594) | Low | 2.3 | Mealie 3.26.0 through 3.28.0 contains a server-side request forgery vulnerability in the OpenID Connect avatar fetch th… |
+| 2026-10-10 19:16:57 | [CVE-2026-108595](https://nvd.nist.gov/vuln/detail/CVE-2026-108595) | Medium | 6.0 | Phi 0.3.0 through 0.28.4 contains a permission bypass vulnerability that allows spawned sub-agents to escape workspace_… |
+| 2026-10-10 19:16:58 | [CVE-2026-108596](https://nvd.nist.gov/vuln/detail/CVE-2026-108596) | Medium | 6.0 | OpenLIT 2.1.0 contains an authorization bypass vulnerability that allows authenticated users to read other projects' te… |
+| 2026-10-10 19:16:58 | [CVE-2026-108597](https://nvd.nist.gov/vuln/detail/CVE-2026-108597) | Medium | 5.9 | Cohere Python SDK 5.11.0 through 7.2.0 contains a path traversal (tar slip) vulnerability in _s3_models_dir_to_tarfile… |
+| 2026-10-10 19:16:58 | [CVE-2026-108598](https://nvd.nist.gov/vuln/detail/CVE-2026-108598) | Critical | 9.3 | Floci 1.1.0 before 2.2.0 contains a code injection vulnerability in VtlTemplateEngine that allows unauthenticated attac… |
+| 2026-10-10 19:16:58 | [CVE-2026-108599](https://nvd.nist.gov/vuln/detail/CVE-2026-108599) | Medium | 5.7 | phi 0.1.1 through 0.28.4 contains an improper link resolution vulnerability that allows malicious repositories to bypas… |
+| 2026-10-10 19:16:58 | [CVE-2026-108600](https://nvd.nist.gov/vuln/detail/CVE-2026-108600) | Medium | 5.7 | open-multi-agent (@open-multi-agent/core) 1.5.0 through 1.21.2 contains a link following vulnerability in the file_writ… |
+| 2026-10-10 19:16:58 | [CVE-2026-57806](https://nvd.nist.gov/vuln/detail/CVE-2026-57806) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in drfuri Martfury -… |
+| 2026-10-10 19:16:58 | [CVE-2026-94590](https://nvd.nist.gov/vuln/detail/CVE-2026-94590) | Medium | 6.5 | Improper Verification of Source of a Communication Channel vulnerability in CodePeople2 Sell Downloads sell-downloads a… |
+| 2026-10-10 19:16:59 | [CVE-2026-96341](https://nvd.nist.gov/vuln/detail/CVE-2026-96341) | High | 8.2 | Incorrect Privilege Assignment vulnerability in WPMU DEV Forminator forminator allows Privilege Escalation.This issue a… |
 
 ## Data source
 
