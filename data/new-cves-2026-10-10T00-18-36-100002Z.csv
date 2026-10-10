@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-10T00:17:03.673Z,CVE-2026-108474,CRITICAL,9.8,Received,CWE-89,1,In JetBrains Exposed before 1.5.1 sQL injection was possible via unescaped string arguments of several SQL functions

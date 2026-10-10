@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 23:20 UTC
+## Latest list — 2026-10-10 00:18 UTC
 
-New CVEs published between 2026-10-09 22:18 UTC and 2026-10-09 23:20 UTC.
+New CVEs published between 2026-10-09 23:20 UTC and 2026-10-10 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-09T23-20-12-514508Z.csv)
+[Full CSV](data/new-cves-2026-10-10T00-18-36-100002Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-09 23:16:52 | [CVE-2026-103755](https://nvd.nist.gov/vuln/detail/CVE-2026-103755) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-09 23:16:54 | [CVE-2026-16681](https://nvd.nist.gov/vuln/detail/CVE-2026-16681) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-09 23:16:54 | [CVE-2026-18524](https://nvd.nist.gov/vuln/detail/CVE-2026-18524) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-09 23:16:54 | [CVE-2026-22061](https://nvd.nist.gov/vuln/detail/CVE-2026-22061) | High | 8.2 | Trident versions v25.02.1 through v26.06.1 are susceptible to a vulnerability that could allow an authenticated attacke… |
+| 2026-10-10 00:17:03 | [CVE-2026-108474](https://nvd.nist.gov/vuln/detail/CVE-2026-108474) | Critical | 9.8 | In JetBrains Exposed before 1.5.1 sQL injection was possible via unescaped string arguments of several SQL functions |
 
 ## Data source
 
