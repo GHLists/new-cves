@@ -9,26 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 15:18 UTC
+## Latest list — 2026-10-10 16:18 UTC
 
-New CVEs published between 2026-10-10 14:19 UTC and 2026-10-10 15:18 UTC.
+New CVEs published between 2026-10-10 15:18 UTC and 2026-10-10 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T15-18-41-404807Z.csv)
+[Full CSV](data/new-cves-2026-10-10T16-18-44-900842Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 15:16:56 | [CVE-2026-108114](https://nvd.nist.gov/vuln/detail/CVE-2026-108114) | Medium | 5.3 | Strapi 5.47.0 through 5.57.0 contains an improper authorization vulnerability that allows admin API tokens to retain al… |
-| 2026-10-10 15:16:57 | [CVE-2026-108115](https://nvd.nist.gov/vuln/detail/CVE-2026-108115) | Low | 2.3 | Kortix Suna 0.10.7 before 0.13.52 contains a server-side request forgery vulnerability that allows project managers to… |
-| 2026-10-10 15:16:57 | [CVE-2026-108545](https://nvd.nist.gov/vuln/detail/CVE-2026-108545) | High | 8.2 | SillyTavern 1.12.13 through 1.19.0 contains a denial of service vulnerability that allows unauthenticated remote attack… |
-| 2026-10-10 15:16:57 | [CVE-2026-108546](https://nvd.nist.gov/vuln/detail/CVE-2026-108546) | High | 7.7 | Spotweb through 1.5.8 contains an OS command injection vulnerability in the runcommand NZB handler that allows remote a… |
-| 2026-10-10 15:16:57 | [CVE-2026-108547](https://nvd.nist.gov/vuln/detail/CVE-2026-108547) | High | 7.1 | AstronRPA through 1.1.6 contains a missing tenant authorization check in robot-service that allows authenticated users… |
-| 2026-10-10 15:16:57 | [CVE-2026-108548](https://nvd.nist.gov/vuln/detail/CVE-2026-108548) | Medium | 6.9 | AstronRPA through 1.1.6 contains an authentication bypass vulnerability in the OpenResty gateway's auth_handler.lua tha… |
-| 2026-10-10 15:16:57 | [CVE-2026-108549](https://nvd.nist.gov/vuln/detail/CVE-2026-108549) | Critical | 9.2 | cc-connect through 1.5.0 contains a missing authentication vulnerability in the MAX platform adapter webhook mode in pl… |
-| 2026-10-10 15:16:58 | [CVE-2026-108550](https://nvd.nist.gov/vuln/detail/CVE-2026-108550) | High | 8.7 | SkillHub before 0.2.22 contains an incorrect authorization vulnerability in AccountMergeService and AccountMergeControl… |
-| 2026-10-10 15:16:58 | [CVE-2026-108551](https://nvd.nist.gov/vuln/detail/CVE-2026-108551) | Critical | 9.3 | openapi-typescript-codegen through 0.31.0 contains a code injection vulnerability that allows attackers controlling an… |
-| 2026-10-10 15:16:58 | [CVE-2026-108553](https://nvd.nist.gov/vuln/detail/CVE-2026-108553) | High | 7.7 | OpenRefine through 3.10.1 contains a cross-site request forgery vulnerability in the get-rows command that allows remot… |
-| 2026-10-10 15:16:58 | [CVE-2026-108554](https://nvd.nist.gov/vuln/detail/CVE-2026-108554) | Medium | 6.9 | PDFMathTranslate (pdf2zh) through 1.9.11 contains a server-side request forgery vulnerability that allows unauthenticat… |
-| 2026-10-10 15:16:58 | [CVE-2026-108555](https://nvd.nist.gov/vuln/detail/CVE-2026-108555) | Low | 2.3 | PairDrop through 1.11.2 contains an IP spoofing vulnerability in Peer._setIP that allows remote attackers to join other… |
+| 2026-10-10 16:16:31 | [CVE-2026-108579](https://nvd.nist.gov/vuln/detail/CVE-2026-108579) | Low | 2.3 | OpenPanel through 2.3.0 contains a CSV formula injection vulnerability that allows unauthenticated attackers to embed s… |
+| 2026-10-10 16:16:31 | [CVE-2026-108580](https://nvd.nist.gov/vuln/detail/CVE-2026-108580) | Medium | 6.9 | AniWorld Downloader before 5.3.0 contains an improper restriction of authentication attempts vulnerability in the WebUI… |
+| 2026-10-10 16:16:31 | [CVE-2026-108581](https://nvd.nist.gov/vuln/detail/CVE-2026-108581) | High | 7.1 | TencentCloud Octop through 1.0.2b6 contains a missing authorization vulnerability that allows authenticated low-privile… |
+| 2026-10-10 16:16:31 | [CVE-2026-108582](https://nvd.nist.gov/vuln/detail/CVE-2026-108582) | Medium | 6.8 | GenOffice through 0.11.505 contains an incorrect permissions vulnerability in its HTTP MCP server file store that allow… |
+| 2026-10-10 16:16:31 | [CVE-2026-108583](https://nvd.nist.gov/vuln/detail/CVE-2026-108583) | Low | 2.3 | zotero-mcp 0.10.0 through 0.14.1 contains a server-side request forgery vulnerability that allows attackers to reach in… |
 
 ## Data source
 
