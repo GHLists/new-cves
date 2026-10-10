@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 09:19 UTC
+## Latest list — 2026-10-10 10:18 UTC
 
-New CVEs published between 2026-10-10 08:21 UTC and 2026-10-10 09:19 UTC.
+New CVEs published between 2026-10-10 09:19 UTC and 2026-10-10 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T09-19-19-310298Z.csv)
+[Full CSV](data/new-cves-2026-10-10T10-18-36-113187Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 09:16:37 | [CVE-2026-104722](https://nvd.nist.gov/vuln/detail/CVE-2026-104722) | Medium | 4.9 | The Listdom: AI-powered Business Directory with Classifieds Ads Listings plugin for WordPress is vulnerable to arbitrar… |
-| 2026-10-10 09:16:38 | [CVE-2026-107657](https://nvd.nist.gov/vuln/detail/CVE-2026-107657) | High | 7.2 | The HivePress – Business Directory, Listings & Classified Ads Plugin plugin for WordPress is vulnerable to Stored Cross… |
-| 2026-10-10 09:16:39 | [CVE-2026-108505](https://nvd.nist.gov/vuln/detail/CVE-2026-108505) | Low | 3.3 | ZTE Z80 Ultra has a local information disclosure vulnerability. Third-party applications can capture data returned by s… |
-| 2026-10-10 09:16:39 | [CVE-2026-4791](https://nvd.nist.gov/vuln/detail/CVE-2026-4791) | Medium | 6.4 | The PeproDev Ultimate Profile Solutions plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the `logo… |
-| 2026-10-10 09:16:39 | [CVE-2026-91136](https://nvd.nist.gov/vuln/detail/CVE-2026-91136) | High | 7.5 | The Divi Plus plugin for WordPress is vulnerable to Arbitrary File Read in versions up to, and including, 2.4.0 via the… |
+| 2026-10-10 10:16:42 | [CVE-2026-106138](https://nvd.nist.gov/vuln/detail/CVE-2026-106138) | Medium | 5.4 | In Progress® KendoReact (@progress/kendo-react-charts) starting with version 1.1.0 and prior to 16.2.0, the default Cha… |
+| 2026-10-10 10:16:43 | [CVE-2026-106139](https://nvd.nist.gov/vuln/detail/CVE-2026-106139) | Medium | 5.4 | In Progress® Kendo UI for Vue (@progress/kendo-vue-charts) starting with version 2.5.0 and prior to 16.2.0, the default… |
+| 2026-10-10 10:16:44 | [CVE-2026-108506](https://nvd.nist.gov/vuln/detail/CVE-2026-108506) | Medium | 5.5 | ZTE Z80 Ultra's system interfaces do not have robust invocation authentication, with inadequate access control. Third-p… |
 
 ## Data source
 
