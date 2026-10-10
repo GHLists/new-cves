@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 11:18 UTC
+## Latest list — 2026-10-10 13:19 UTC
 
-New CVEs published between 2026-10-10 10:18 UTC and 2026-10-10 11:18 UTC.
+New CVEs published between 2026-10-10 12:18 UTC and 2026-10-10 13:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T11-18-38-946193Z.csv)
+[Full CSV](data/new-cves-2026-10-10T13-19-32-008334Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 11:17:34 | [CVE-2026-103501](https://nvd.nist.gov/vuln/detail/CVE-2026-103501) |  |  | Heap buffer overflow in the HLL sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). When deseri… |
-| 2026-10-10 11:17:35 | [CVE-2026-103513](https://nvd.nist.gov/vuln/detail/CVE-2026-103513) |  |  | Out-of-bounds read and write in the CPC sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). A c… |
-| 2026-10-10 11:17:35 | [CVE-2026-103635](https://nvd.nist.gov/vuln/detail/CVE-2026-103635) |  |  | Out-of-bounds read in the compact Theta sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). com… |
-| 2026-10-10 11:17:36 | [CVE-2026-103636](https://nvd.nist.gov/vuln/detail/CVE-2026-103636) |  |  | Out-of-bounds read in the VarOpt union deserialization of Apache DataSketches C++ (repo: datasketches-cpp). var_opt_uni… |
+| 2026-10-10 13:17:30 | [CVE-2013-10076](https://nvd.nist.gov/vuln/detail/CVE-2013-10076) |  |  | ExtUtils::Typemaps::STL::Vector versions before 1.05 for Perl allocate a 32 GiB array on an empty list. The OUTPUT type… |
+| 2026-10-10 13:17:31 | [CVE-2026-107373](https://nvd.nist.gov/vuln/detail/CVE-2026-107373) |  |  | ExtUtils::Typemaps::STL::String versions before 1.06 for Perl T_STD_STRING typemap may read the SV length before string… |
+| 2026-10-10 13:17:31 | [CVE-2026-107794](https://nvd.nist.gov/vuln/detail/CVE-2026-107794) |  |  | ExtUtils::Typemaps::STL::List versions before 1.07 for Perl allocate a 32 GiB array on an empty list. The OUTPUT typema… |
 
 ## Data source
 
