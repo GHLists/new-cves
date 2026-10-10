@@ -9,17 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 03:19 UTC
+## Latest list — 2026-10-10 04:20 UTC
 
-New CVEs published between 2026-10-10 02:20 UTC and 2026-10-10 03:19 UTC.
+New CVEs published between 2026-10-10 03:19 UTC and 2026-10-10 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T03-19-53-816752Z.csv)
+[Full CSV](data/new-cves-2026-10-10T04-20-35-453362Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 03:17:03 | [CVE-2026-104022](https://nvd.nist.gov/vuln/detail/CVE-2026-104022) | Medium | 5.4 | The Academy LMS – AI Course Builder, Quizzes, Certificates & eLearning plugin for WordPress is vulnerable to Privilege… |
-| 2026-10-10 03:17:04 | [CVE-2026-104915](https://nvd.nist.gov/vuln/detail/CVE-2026-104915) | Medium | 6.5 | The Academy LMS – AI Course Builder, Quizzes, Certificates & eLearning plugin for WordPress is vulnerable to authorizat… |
-| 2026-10-10 03:17:08 | [CVE-2026-93883](https://nvd.nist.gov/vuln/detail/CVE-2026-93883) | Medium | 6.4 | The Advanced Classifieds & Directory Pro plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'pho… |
+| 2026-10-10 04:18:06 | [CVE-2026-101947](https://nvd.nist.gov/vuln/detail/CVE-2026-101947) | High | 8.4 | ExifTool for photo and video 5.0.1-gms by CellHubs constructs shell command strings from file paths and invokes /system… |
+| 2026-10-10 04:18:08 | [CVE-2026-103365](https://nvd.nist.gov/vuln/detail/CVE-2026-103365) | Medium | 5.3 | The Bookly – Online Scheduling and Appointment Booking System plugin for WordPress is vulnerable to Sensitive Informati… |
+| 2026-10-10 04:18:08 | [CVE-2026-104732](https://nvd.nist.gov/vuln/detail/CVE-2026-104732) | Critical | 9.8 | The Advanced IP Blocker plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and includin… |
+| 2026-10-10 04:18:08 | [CVE-2026-104797](https://nvd.nist.gov/vuln/detail/CVE-2026-104797) | High | 8.1 | The Advanced Form Integration — Connect Forms to 300+ Apps plugin for WordPress is vulnerable to Authentication Bypass… |
+| 2026-10-10 04:18:08 | [CVE-2026-104898](https://nvd.nist.gov/vuln/detail/CVE-2026-104898) | Medium | 6.8 | The Online Scheduling and Appointment Booking System – Bookly plugin for WordPress is vulnerable to Insecure Direct Obj… |
+| 2026-10-10 04:18:10 | [CVE-2026-107645](https://nvd.nist.gov/vuln/detail/CVE-2026-107645) | Critical | 9.1 | The Blocksy Companion plugin for WordPress is vulnerable to privilege escalation in versions up to, and including, 2.1.… |
+| 2026-10-10 04:18:10 | [CVE-2026-108501](https://nvd.nist.gov/vuln/detail/CVE-2026-108501) | Medium | 5.7 | ZTE Z80 Ultra has a system interface permission verification defect. The interface lacks necessary access control, and… |
+| 2026-10-10 04:18:19 | [CVE-2026-94589](https://nvd.nist.gov/vuln/detail/CVE-2026-94589) | Critical | 9.8 | The Extensions For CF7 (Contact form 7 Database, Conditional Fields and Redirection) plugin for WordPress is vulnerable… |
+| 2026-10-10 04:18:20 | [CVE-2026-96743](https://nvd.nist.gov/vuln/detail/CVE-2026-96743) | Medium | 6.4 | The Table Field Add-on for ACF and SCF plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Table Fiel… |
 
 ## Data source
 
