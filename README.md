@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 10:18 UTC
+## Latest list — 2026-10-10 11:18 UTC
 
-New CVEs published between 2026-10-10 09:19 UTC and 2026-10-10 10:18 UTC.
+New CVEs published between 2026-10-10 10:18 UTC and 2026-10-10 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-10T10-18-36-113187Z.csv)
+[Full CSV](data/new-cves-2026-10-10T11-18-38-946193Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-10 10:16:42 | [CVE-2026-106138](https://nvd.nist.gov/vuln/detail/CVE-2026-106138) | Medium | 5.4 | In Progress® KendoReact (@progress/kendo-react-charts) starting with version 1.1.0 and prior to 16.2.0, the default Cha… |
-| 2026-10-10 10:16:43 | [CVE-2026-106139](https://nvd.nist.gov/vuln/detail/CVE-2026-106139) | Medium | 5.4 | In Progress® Kendo UI for Vue (@progress/kendo-vue-charts) starting with version 2.5.0 and prior to 16.2.0, the default… |
-| 2026-10-10 10:16:44 | [CVE-2026-108506](https://nvd.nist.gov/vuln/detail/CVE-2026-108506) | Medium | 5.5 | ZTE Z80 Ultra's system interfaces do not have robust invocation authentication, with inadequate access control. Third-p… |
+| 2026-10-10 11:17:34 | [CVE-2026-103501](https://nvd.nist.gov/vuln/detail/CVE-2026-103501) |  |  | Heap buffer overflow in the HLL sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). When deseri… |
+| 2026-10-10 11:17:35 | [CVE-2026-103513](https://nvd.nist.gov/vuln/detail/CVE-2026-103513) |  |  | Out-of-bounds read and write in the CPC sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). A c… |
+| 2026-10-10 11:17:35 | [CVE-2026-103635](https://nvd.nist.gov/vuln/detail/CVE-2026-103635) |  |  | Out-of-bounds read in the compact Theta sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp). com… |
+| 2026-10-10 11:17:36 | [CVE-2026-103636](https://nvd.nist.gov/vuln/detail/CVE-2026-103636) |  |  | Out-of-bounds read in the VarOpt union deserialization of Apache DataSketches C++ (repo: datasketches-cpp). var_opt_uni… |
 
 ## Data source
 
