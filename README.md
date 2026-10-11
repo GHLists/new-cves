@@ -9,35 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:20 UTC
+## Latest list — 2026-10-11 15:18 UTC
 
-New CVEs published between 2026-10-11 13:20 UTC and 2026-10-11 14:20 UTC.
+New CVEs published between 2026-10-11 14:20 UTC and 2026-10-11 15:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T14-20-06-093236Z.csv)
+[Full CSV](data/new-cves-2026-10-11T15-18-35-705875Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 14:17:03 | [CVE-2026-108681](https://nvd.nist.gov/vuln/detail/CVE-2026-108681) | Low | 2.1 | A security flaw has been discovered in zhayujie CowAgent up to 2.1.7. Impacted is an unknown function of the file chann… |
-| 2026-10-11 14:17:03 | [CVE-2026-108697](https://nvd.nist.gov/vuln/detail/CVE-2026-108697) | Medium | 5.3 | CoreShop through 2026.2.2 contains a missing authorization vulnerability that allows low-privileged backend users to li… |
-| 2026-10-11 14:17:04 | [CVE-2026-108698](https://nvd.nist.gov/vuln/detail/CVE-2026-108698) | High | 8.3 | hyper-mcp through 0.8.3 contains a signature verification bypass vulnerability in load_wasm in src/wasm/oci.rs that ver… |
-| 2026-10-11 14:17:04 | [CVE-2026-108699](https://nvd.nist.gov/vuln/detail/CVE-2026-108699) | High | 8.3 | hyper-mcp through 0.8.3 contains an improper signature verification vulnerability that allows attackers to load malicio… |
-| 2026-10-11 14:17:04 | [CVE-2026-108839](https://nvd.nist.gov/vuln/detail/CVE-2026-108839) | Low | 2.3 | thClaws through 0.141.0 contains a link-following vulnerability in the post_inputs handler of the v1 API POST /v1/input… |
-| 2026-10-11 14:17:04 | [CVE-2026-108850](https://nvd.nist.gov/vuln/detail/CVE-2026-108850) | Medium | 6.9 | Company Research Agent through 2.2.0 contains a server-side request forgery vulnerability that allows unauthenticated a… |
-| 2026-10-11 14:17:04 | [CVE-2026-108851](https://nvd.nist.gov/vuln/detail/CVE-2026-108851) | Medium | 4.8 | phpMyFAQ through 4.1.10 contains a missing authorization vulnerability in the MCP server faq_search tool that allows MC… |
-| 2026-10-11 14:17:04 | [CVE-2026-108852](https://nvd.nist.gov/vuln/detail/CVE-2026-108852) | Low | 2.1 | Deep Chat through 2.5.1 contains a cross-site scripting vulnerability that allows attackers to inject javascript: links… |
-| 2026-10-11 14:17:04 | [CVE-2026-108853](https://nvd.nist.gov/vuln/detail/CVE-2026-108853) | High | 7.2 | UnicomAI Wanwu before 0.6.3 contains an insecure direct object reference vulnerability that allows authenticated low-pr… |
-| 2026-10-11 14:17:05 | [CVE-2026-108854](https://nvd.nist.gov/vuln/detail/CVE-2026-108854) | Medium | 5.3 | Wanwu before 0.6.3 contains an insecure direct object reference vulnerability that allows any authenticated enabled use… |
-| 2026-10-11 14:17:05 | [CVE-2026-108855](https://nvd.nist.gov/vuln/detail/CVE-2026-108855) | Medium | 5.3 | UnicomAI Wanwu through 0.6.5 contains a missing authorization vulnerability that allows any authenticated enabled user… |
-| 2026-10-11 14:17:05 | [CVE-2026-108856](https://nvd.nist.gov/vuln/detail/CVE-2026-108856) | Low | 2.3 | UnicomAI Wanwu through 0.6.5 contains an authorization bypass vulnerability that allows authenticated users to mint App… |
-| 2026-10-11 14:17:05 | [CVE-2026-108857](https://nvd.nist.gov/vuln/detail/CVE-2026-108857) | Medium | 4.8 | Hugging Face Text Embeddings Inference through 1.9.4 contains a cleartext logging vulnerability that exposes the config… |
-| 2026-10-11 14:17:05 | [CVE-2026-108858](https://nvd.nist.gov/vuln/detail/CVE-2026-108858) | Medium | 6.8 | Predibase LoRAX through 0.12.1 contains a sensitive information exposure vulnerability that writes the caller-supplied… |
-| 2026-10-11 14:17:05 | [CVE-2026-108859](https://nvd.nist.gov/vuln/detail/CVE-2026-108859) | High | 8.7 | mcp-go through 1.2.1 contains a denial of service vulnerability in StreamableHTTPServer.ServeHTTP that allows remote un… |
-| 2026-10-11 14:17:05 | [CVE-2026-108860](https://nvd.nist.gov/vuln/detail/CVE-2026-108860) | Critical | 9.3 | BotSharp through 5.2.0 contains an authentication bypass vulnerability that allows unauthenticated remote attackers to… |
-| 2026-10-11 14:17:06 | [CVE-2026-108861](https://nvd.nist.gov/vuln/detail/CVE-2026-108861) | Medium | 5.3 | Odoo MCP 1.0.0 through 1.3.2 contains an information disclosure vulnerability that allows MCP clients to bypass the fie… |
-| 2026-10-11 14:17:06 | [CVE-2026-108862](https://nvd.nist.gov/vuln/detail/CVE-2026-108862) | Medium | 6.0 | APIPark through 1.9.7-beta contains an insecure direct object reference vulnerability that allows authenticated users t… |
-| 2026-10-11 14:17:06 | [CVE-2026-108863](https://nvd.nist.gov/vuln/detail/CVE-2026-108863) | High | 8.7 | Katanemo Plano through 0.4.37 contains a missing authentication vulnerability that allows unauthenticated network attac… |
-| 2026-10-11 14:17:06 | [CVE-2026-108864](https://nvd.nist.gov/vuln/detail/CVE-2026-108864) | Low | 2.3 | iFlytek Astron Agent through 1.1.2 contains an insecure direct object reference vulnerability that allows authenticated… |
-| 2026-10-11 14:17:06 | [CVE-2026-108865](https://nvd.nist.gov/vuln/detail/CVE-2026-108865) | High | 8.8 | AmoyLab Unla through 0.10.0 contains an authentication bypass vulnerability that allows unauthenticated attackers to ob… |
+| 2026-10-11 15:16:52 | [CVE-2026-108682](https://nvd.nist.gov/vuln/detail/CVE-2026-108682) | Low | 2.1 | A weakness has been identified in zhayujie CowAgent up to 2.1.6. The affected element is the function read of the file… |
+| 2026-10-11 15:16:52 | [CVE-2026-108683](https://nvd.nist.gov/vuln/detail/CVE-2026-108683) | Low | 2.1 | A security vulnerability has been detected in zhayujie CowAgent up to 2.1.9. The impacted element is an unknown functio… |
+| 2026-10-11 15:16:52 | [CVE-2026-108684](https://nvd.nist.gov/vuln/detail/CVE-2026-108684) | Medium | 5.3 | A vulnerability was detected in erzhongxmu Jeewms up to 3.7. This affects the function getTreeData of the file src/main… |
+| 2026-10-11 15:16:53 | [CVE-2026-108866](https://nvd.nist.gov/vuln/detail/CVE-2026-108866) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability that allows authenticated users to read any acco… |
+| 2026-10-11 15:16:53 | [CVE-2026-108867](https://nvd.nist.gov/vuln/detail/CVE-2026-108867) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SystemApiController getUserRoleSetById ha… |
+| 2026-10-11 15:16:53 | [CVE-2026-108868](https://nvd.nist.gov/vuln/detail/CVE-2026-108868) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability that allows any authenticated user to publish te… |
+| 2026-10-11 15:16:53 | [CVE-2026-108869](https://nvd.nist.gov/vuln/detail/CVE-2026-108869) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability that allows low-privileged authenticated users t… |
+| 2026-10-11 15:16:53 | [CVE-2026-108870](https://nvd.nist.gov/vuln/detail/CVE-2026-108870) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysRoleController saveDatarule handler th… |
+| 2026-10-11 15:16:53 | [CVE-2026-108871](https://nvd.nist.gov/vuln/detail/CVE-2026-108871) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the saveDatarule handler of SysDepartRoleCont… |
+| 2026-10-11 15:16:53 | [CVE-2026-108872](https://nvd.nist.gov/vuln/detail/CVE-2026-108872) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the batchEditUsers handler of SysUserControll… |
+| 2026-10-11 15:16:54 | [CVE-2026-108873](https://nvd.nist.gov/vuln/detail/CVE-2026-108873) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability that allows low-privileged authenticated users t… |
+| 2026-10-11 15:16:54 | [CVE-2026-108874](https://nvd.nist.gov/vuln/detail/CVE-2026-108874) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability that allows any authenticated user to assign or… |
+| 2026-10-11 15:16:54 | [CVE-2026-108875](https://nvd.nist.gov/vuln/detail/CVE-2026-108875) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysUserController addSysUserGroup handler… |
+| 2026-10-11 15:16:54 | [CVE-2026-108876](https://nvd.nist.gov/vuln/detail/CVE-2026-108876) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the putCancelQuit handler of SysUserControlle… |
+| 2026-10-11 15:16:54 | [CVE-2026-108877](https://nvd.nist.gov/vuln/detail/CVE-2026-108877) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in AiragPromptsController that allows any authen… |
+| 2026-10-11 15:16:54 | [CVE-2026-108878](https://nvd.nist.gov/vuln/detail/CVE-2026-108878) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the AiragAppController queryById handler that… |
+| 2026-10-11 15:16:54 | [CVE-2026-108879](https://nvd.nist.gov/vuln/detail/CVE-2026-108879) | Medium | 5.3 | JeecgBoot through 3.9.5 contains an insecure direct object reference vulnerability in AiragBaseApiController that allow… |
+| 2026-10-11 15:16:55 | [CVE-2026-108881](https://nvd.nist.gov/vuln/detail/CVE-2026-108881) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the getTenantPackInfo handler that allows any… |
+| 2026-10-11 15:16:55 | [CVE-2026-108882](https://nvd.nist.gov/vuln/detail/CVE-2026-108882) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysPositionController removeUserPosition… |
+| 2026-10-11 15:16:55 | [CVE-2026-108883](https://nvd.nist.gov/vuln/detail/CVE-2026-108883) | High | 7.1 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the editThirdAppConfig handler that allows an… |
+| 2026-10-11 15:16:55 | [CVE-2026-108884](https://nvd.nist.gov/vuln/detail/CVE-2026-108884) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysMessageTemplateController delete handl… |
+| 2026-10-11 15:16:55 | [CVE-2026-108885](https://nvd.nist.gov/vuln/detail/CVE-2026-108885) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysMessageController delete handler that… |
+| 2026-10-11 15:16:55 | [CVE-2026-108886](https://nvd.nist.gov/vuln/detail/CVE-2026-108886) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysUserController queryChildrenByUsername… |
+| 2026-10-11 15:16:55 | [CVE-2026-108887](https://nvd.nist.gov/vuln/detail/CVE-2026-108887) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysCommentController exportXls handler th… |
+| 2026-10-11 15:16:55 | [CVE-2026-108880](https://nvd.nist.gov/vuln/detail/CVE-2026-108880) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the PUT /sys/dict/editDictByLowAppId endpoint… |
+| 2026-10-11 15:16:56 | [CVE-2026-108888](https://nvd.nist.gov/vuln/detail/CVE-2026-108888) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysDepartRoleController exportXls handler… |
+| 2026-10-11 15:16:56 | [CVE-2026-108891](https://nvd.nist.gov/vuln/detail/CVE-2026-108891) | Medium | 5.3 | JeecgBoot through 3.9.5 contains a missing authorization vulnerability in the SysUserController getUserDetailByUserId h… |
+| 2026-10-11 15:16:56 | [CVE-2026-108902](https://nvd.nist.gov/vuln/detail/CVE-2026-108902) | High | 7.2 | pH7Builder (pH7 Social Dating CMS) before 18.5.0 contains a path traversal vulnerability in the picture module deletePh… |
+| 2026-10-11 15:16:56 | [CVE-2026-108903](https://nvd.nist.gov/vuln/detail/CVE-2026-108903) | Medium | 6.9 | pH7Builder (pH7 Social Dating CMS) before 19.3.0 contains a CAPTCHA bypass vulnerability that allows unauthenticated at… |
+| 2026-10-11 15:16:56 | [CVE-2026-108904](https://nvd.nist.gov/vuln/detail/CVE-2026-108904) | High | 7.1 | pH7Builder (pH7 Social Dating CMS) before 18.5.0 contains an information disclosure vulnerability that allows API clien… |
+| 2026-10-11 15:16:56 | [CVE-2026-108905](https://nvd.nist.gov/vuln/detail/CVE-2026-108905) | High | 8.7 | pH7Builder (pH7 Social Dating CMS) before 18.6.0 contains a hard-coded API key vulnerability in Tool.class.php that all… |
 
 ## Data source
 
