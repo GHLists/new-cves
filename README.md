@@ -9,16 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:18 UTC
+## Latest list — 2026-10-11 23:19 UTC
 
-New CVEs published between 2026-10-11 21:20 UTC and 2026-10-11 22:18 UTC.
+New CVEs published between 2026-10-11 22:18 UTC and 2026-10-11 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T22-18-36-90842Z.csv)
+[Full CSV](data/new-cves-2026-10-11T23-19-20-432785Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 22:16:50 | [CVE-2026-108769](https://nvd.nist.gov/vuln/detail/CVE-2026-108769) | Low | 2.1 | A security flaw has been discovered in zhayujie CowAgent up to 2.2.0. This affects an unknown part of the file Markdown… |
-| 2026-10-11 22:16:50 | [CVE-2026-108978](https://nvd.nist.gov/vuln/detail/CVE-2026-108978) | Medium | 5.5 | Heap-based buffer overflow vulnerability in Samsung Opensource rlottie allows Buffer Overflow via Environment Variables… |
+| 2026-10-11 23:16:56 | [CVE-2026-104703](https://nvd.nist.gov/vuln/detail/CVE-2026-104703) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-11 23:16:56 | [CVE-2026-108770](https://nvd.nist.gov/vuln/detail/CVE-2026-108770) | Medium | 6.9 | A weakness has been identified in Appwrite up to 2.3.0. This vulnerability affects the function PublicHostname of the f… |
+| 2026-10-11 23:16:56 | [CVE-2026-108772](https://nvd.nist.gov/vuln/detail/CVE-2026-108772) | Medium | 5.5 | A security vulnerability has been detected in bleenco abstruse up to 2.1.0. This issue affects the function filepath.Jo… |
+| 2026-10-11 23:16:56 | [CVE-2026-108773](https://nvd.nist.gov/vuln/detail/CVE-2026-108773) | Low | 2.1 | A vulnerability was detected in erzhongxmu JEEWMS up to 2026.09.27-W39. Impacted is the function docheck of the file sr… |
 
 ## Data source
 
