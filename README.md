@@ -9,18 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 11:18 UTC
+## Latest list — 2026-10-11 12:21 UTC
 
-New CVEs published between 2026-10-11 10:19 UTC and 2026-10-11 11:18 UTC.
+New CVEs published between 2026-10-11 11:18 UTC and 2026-10-11 12:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T11-18-35-606803Z.csv)
+[Full CSV](data/new-cves-2026-10-11T12-21-58-880303Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 11:16:58 | [CVE-2026-108569](https://nvd.nist.gov/vuln/detail/CVE-2026-108569) | Low | 2.1 | A vulnerability was identified in Furion .NET Framework up to 4.9.9.92. The impacted element is the function String.Rep… |
-| 2026-10-11 11:16:59 | [CVE-2026-108570](https://nvd.nist.gov/vuln/detail/CVE-2026-108570) | Low | 2.1 | A security flaw has been discovered in Furion .NET Framework up to 4.9.9.95. This affects the function RunCompile of th… |
-| 2026-10-11 11:17:00 | [CVE-2026-108571](https://nvd.nist.gov/vuln/detail/CVE-2026-108571) | Medium | 5.5 | A weakness has been identified in Xinhu Rainrock RockOA up to 2.7.6. This impacts the function kqjcmdModel::returnchuli… |
-| 2026-10-11 11:17:00 | [CVE-2026-108572](https://nvd.nist.gov/vuln/detail/CVE-2026-108572) | Low | 2.1 | A security vulnerability has been detected in Casdoor up to 3.164.0/4.10.0. Affected is the function CasP3ProxyValidate… |
+| 2026-10-11 12:16:52 | [CVE-2026-108573](https://nvd.nist.gov/vuln/detail/CVE-2026-108573) | Medium | 5.1 | A vulnerability was detected in Open Asset Import Library Assimp up to 6.0.5. Affected by this vulnerability is the fun… |
+| 2026-10-11 12:16:52 | [CVE-2026-108574](https://nvd.nist.gov/vuln/detail/CVE-2026-108574) | Low | 2.1 | A flaw has been found in BerriAI LiteLLM up to 1.95.0. Affected by this issue is the function ui_view_session_spend_log… |
+| 2026-10-11 12:16:53 | [CVE-2026-108575](https://nvd.nist.gov/vuln/detail/CVE-2026-108575) | Low | 2.1 | A vulnerability has been found in BerriAI LiteLLM up to 1.94.0. This affects the function get_secret of the file secret… |
 
 ## Data source
 
