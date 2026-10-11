@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 19:18 UTC
+## Latest list — 2026-10-11 20:18 UTC
 
-New CVEs published between 2026-10-11 18:19 UTC and 2026-10-11 19:18 UTC.
+New CVEs published between 2026-10-11 19:18 UTC and 2026-10-11 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T19-18-31-634925Z.csv)
+[Full CSV](data/new-cves-2026-10-11T20-18-55-69641Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 19:16:32 | [CVE-2026-108768](https://nvd.nist.gov/vuln/detail/CVE-2026-108768) | Low | 2.1 | A vulnerability was identified in zhayujie CowAgent up to 2.2.0. Affected by this issue is the function json.loads of t… |
-| 2026-10-11 19:16:33 | [CVE-2026-108925](https://nvd.nist.gov/vuln/detail/CVE-2026-108925) | Medium | 6.1 | Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in Cohesity NetBackup Admin… |
+| 2026-10-11 20:16:32 | [CVE-2026-108963](https://nvd.nist.gov/vuln/detail/CVE-2026-108963) | High | 8.8 | databasement before 1.8.2 allows remote code execution because it runs certain commands (e.g., mariadb-dump) with a dat… |
 
 ## Data source
 
