@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 08:21 UTC
+## Latest list — 2026-10-11 10:19 UTC
 
-New CVEs published between 2026-10-11 07:19 UTC and 2026-10-11 08:21 UTC.
+New CVEs published between 2026-10-11 09:20 UTC and 2026-10-11 10:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T08-21-04-181827Z.csv)
+[Full CSV](data/new-cves-2026-10-11T10-19-01-657964Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 08:16:33 | [CVE-2026-108542](https://nvd.nist.gov/vuln/detail/CVE-2026-108542) | Low | 2.1 | A vulnerability was found in 021is elvix-sdk up to 0.10.1. Affected by this vulnerability is an unknown functionality o… |
-| 2026-10-11 08:16:33 | [CVE-2026-108543](https://nvd.nist.gov/vuln/detail/CVE-2026-108543) | Low | 2.1 | A vulnerability was determined in ag2ai ag2 up to 0.13.4. Affected by this issue is the function os.path.join of the co… |
-| 2026-10-11 08:16:33 | [CVE-2026-108544](https://nvd.nist.gov/vuln/detail/CVE-2026-108544) | Medium | 5.3 | A vulnerability was identified in Lippu Docx Reader Office Viewer App up to 1.4.5 on Android. This affects the function… |
+| 2026-10-11 10:16:38 | [CVE-2026-108566](https://nvd.nist.gov/vuln/detail/CVE-2026-108566) | Low | 2.0 | A vulnerability has been found in InstantSoft icms2 up to 2.18.2. This issue affects the function index of the file tem… |
+| 2026-10-11 10:16:40 | [CVE-2026-108567](https://nvd.nist.gov/vuln/detail/CVE-2026-108567) | Low | 2.1 | A vulnerability was found in InstantSoft icms2 up to 2.18.2. Impacted is the function files_delete_file of the file sys… |
+| 2026-10-11 10:16:40 | [CVE-2026-108568](https://nvd.nist.gov/vuln/detail/CVE-2026-108568) | Low | 2.1 | A vulnerability was determined in InstantSoft icms2 up to 2.18.2. The affected element is the function validatePaypalOr… |
 
 ## Data source
 
