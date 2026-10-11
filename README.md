@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:20 UTC
+## Latest list — 2026-10-11 22:18 UTC
 
-New CVEs published between 2026-10-11 20:18 UTC and 2026-10-11 21:20 UTC.
+New CVEs published between 2026-10-11 21:20 UTC and 2026-10-11 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T21-20-14-788842Z.csv)
+[Full CSV](data/new-cves-2026-10-11T22-18-36-90842Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 21:16:43 | [CVE-2026-108976](https://nvd.nist.gov/vuln/detail/CVE-2026-108976) | High | 7.8 | GNU Emacs before 31.2 (and TRAMP through 2.8.2) allows OS command injection via a filename because tramp-user-regexp ha… |
+| 2026-10-11 22:16:50 | [CVE-2026-108769](https://nvd.nist.gov/vuln/detail/CVE-2026-108769) | Low | 2.1 | A security flaw has been discovered in zhayujie CowAgent up to 2.2.0. This affects an unknown part of the file Markdown… |
+| 2026-10-11 22:16:50 | [CVE-2026-108978](https://nvd.nist.gov/vuln/detail/CVE-2026-108978) | Medium | 5.5 | Heap-based buffer overflow vulnerability in Samsung Opensource rlottie allows Buffer Overflow via Environment Variables… |
 
 ## Data source
 
