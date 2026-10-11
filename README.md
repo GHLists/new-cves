@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:19 UTC
+## Latest list — 2026-10-11 11:18 UTC
 
-New CVEs published between 2026-10-11 09:20 UTC and 2026-10-11 10:19 UTC.
+New CVEs published between 2026-10-11 10:19 UTC and 2026-10-11 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T10-19-01-657964Z.csv)
+[Full CSV](data/new-cves-2026-10-11T11-18-35-606803Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 10:16:38 | [CVE-2026-108566](https://nvd.nist.gov/vuln/detail/CVE-2026-108566) | Low | 2.0 | A vulnerability has been found in InstantSoft icms2 up to 2.18.2. This issue affects the function index of the file tem… |
-| 2026-10-11 10:16:40 | [CVE-2026-108567](https://nvd.nist.gov/vuln/detail/CVE-2026-108567) | Low | 2.1 | A vulnerability was found in InstantSoft icms2 up to 2.18.2. Impacted is the function files_delete_file of the file sys… |
-| 2026-10-11 10:16:40 | [CVE-2026-108568](https://nvd.nist.gov/vuln/detail/CVE-2026-108568) | Low | 2.1 | A vulnerability was determined in InstantSoft icms2 up to 2.18.2. The affected element is the function validatePaypalOr… |
+| 2026-10-11 11:16:58 | [CVE-2026-108569](https://nvd.nist.gov/vuln/detail/CVE-2026-108569) | Low | 2.1 | A vulnerability was identified in Furion .NET Framework up to 4.9.9.92. The impacted element is the function String.Rep… |
+| 2026-10-11 11:16:59 | [CVE-2026-108570](https://nvd.nist.gov/vuln/detail/CVE-2026-108570) | Low | 2.1 | A security flaw has been discovered in Furion .NET Framework up to 4.9.9.95. This affects the function RunCompile of th… |
+| 2026-10-11 11:17:00 | [CVE-2026-108571](https://nvd.nist.gov/vuln/detail/CVE-2026-108571) | Medium | 5.5 | A weakness has been identified in Xinhu Rainrock RockOA up to 2.7.6. This impacts the function kqjcmdModel::returnchuli… |
+| 2026-10-11 11:17:00 | [CVE-2026-108572](https://nvd.nist.gov/vuln/detail/CVE-2026-108572) | Low | 2.1 | A security vulnerability has been detected in Casdoor up to 3.164.0/4.10.0. Affected is the function CasP3ProxyValidate… |
 
 ## Data source
 
