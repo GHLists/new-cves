@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:18 UTC
+## Latest list — 2026-10-11 21:20 UTC
 
-New CVEs published between 2026-10-11 19:18 UTC and 2026-10-11 20:18 UTC.
+New CVEs published between 2026-10-11 20:18 UTC and 2026-10-11 21:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-11T20-18-55-69641Z.csv)
+[Full CSV](data/new-cves-2026-10-11T21-20-14-788842Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-11 20:16:32 | [CVE-2026-108963](https://nvd.nist.gov/vuln/detail/CVE-2026-108963) | High | 8.8 | databasement before 1.8.2 allows remote code execution because it runs certain commands (e.g., mariadb-dump) with a dat… |
+| 2026-10-11 21:16:43 | [CVE-2026-108976](https://nvd.nist.gov/vuln/detail/CVE-2026-108976) | High | 7.8 | GNU Emacs before 31.2 (and TRAMP through 2.8.2) allows OS command injection via a filename because tramp-user-regexp ha… |
 
 ## Data source
 
