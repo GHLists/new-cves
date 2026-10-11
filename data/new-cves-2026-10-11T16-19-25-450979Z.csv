@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-11T16:16:30.49Z,CVE-2026-107761,MEDIUM,5.3,Received,CWE-201; CWE-213,3,"Several Postiz endpoints return the complete database row of the record they operate on instead of only the fields the client needs. Two of them include secrets the caller is not meant to receive. The public API's channel delete returns the deleted integration row, including the channel's platform…"
+2026-10-11T16:16:31.713Z,CVE-2026-108913,HIGH,7.1,Received,CWE-829,4,omarchy-theme-set in Omarchy 4 before 4.0.1 allows code execution via a third-party theme because the files placed into ~/.local/state/omarchy/current/theme may include executable content from an untrusted Git repository.
