@@ -9,33 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 18:20 UTC
+## Latest list — 2026-10-12 19:19 UTC
 
-New CVEs published between 2026-10-12 17:18 UTC and 2026-10-12 18:20 UTC.
+New CVEs published between 2026-10-12 18:20 UTC and 2026-10-12 19:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T18-20-16-19656Z.csv)
+[Full CSV](data/new-cves-2026-10-12T19-19-14-926268Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 18:17:20 | [CVE-2026-103080](https://nvd.nist.gov/vuln/detail/CVE-2026-103080) | Medium | 5.3 | External Control of Assumed-Immutable Web Parameter vulnerability in VillaTheme Salevo woo-boost-sales allows Input Dat… |
-| 2026-10-12 18:17:20 | [CVE-2026-107418](https://nvd.nist.gov/vuln/detail/CVE-2026-107418) | Medium | 5.4 | Missing Authorization vulnerability in Arraytics Booktics booktics allows Exploiting Incorrectly Configured Access Cont… |
-| 2026-10-12 18:17:20 | [CVE-2026-107862](https://nvd.nist.gov/vuln/detail/CVE-2026-107862) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ExpressTech Quiz… |
-| 2026-10-12 18:17:21 | [CVE-2026-108479](https://nvd.nist.gov/vuln/detail/CVE-2026-108479) | High | 8.1 | Cross-Site Request Forgery (CSRF) vulnerability in Patreon Patreon WordPress patreon-connect allows Cross Site Request… |
-| 2026-10-12 18:17:21 | [CVE-2026-108481](https://nvd.nist.gov/vuln/detail/CVE-2026-108481) | High | 7.4 | Cross-Site Request Forgery (CSRF) vulnerability in Patreon Patreon WordPress patreon-connect allows Cross Site Request… |
-| 2026-10-12 18:17:21 | [CVE-2026-108482](https://nvd.nist.gov/vuln/detail/CVE-2026-108482) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in LeapWorx Premium… |
-| 2026-10-12 18:17:21 | [CVE-2026-108486](https://nvd.nist.gov/vuln/detail/CVE-2026-108486) | Medium | 5.3 | Missing Authorization vulnerability in WPMU DEV Forminator forminator allows Exploiting Incorrectly Configured Access C… |
-| 2026-10-12 18:17:21 | [CVE-2026-108915](https://nvd.nist.gov/vuln/detail/CVE-2026-108915) | High | 8.6 | A vulnerability has been found in Edimax BR-6208AC 1.32. This affects an unknown part of the file /goform/formWlanMP. S… |
-| 2026-10-12 18:17:21 | [CVE-2026-108916](https://nvd.nist.gov/vuln/detail/CVE-2026-108916) | Medium | 5.5 | A vulnerability was found in Edimax BR-6208AC 1.32. This vulnerability affects unknown code of the file /goform/formAcc… |
-| 2026-10-12 18:17:22 | [CVE-2026-108917](https://nvd.nist.gov/vuln/detail/CVE-2026-108917) | Critical | 9.3 | A vulnerability was determined in Edimax BR-6208AC 1.32. This issue affects some unknown processing of the file /goform… |
-| 2026-10-12 18:17:22 | [CVE-2026-108918](https://nvd.nist.gov/vuln/detail/CVE-2026-108918) | Critical | 9.3 | A vulnerability was identified in Edimax BR-6208AC 1.32. Impacted is an unknown function of the file /goform/formWlanMP… |
-| 2026-10-12 18:17:22 | [CVE-2026-109222](https://nvd.nist.gov/vuln/detail/CVE-2026-109222) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All… |
-| 2026-10-12 18:17:22 | [CVE-2026-109448](https://nvd.nist.gov/vuln/detail/CVE-2026-109448) | Medium | 5.9 | Integer wraparound in psqlODBC SQLBindParameter allows an application, or an attacker who controls how many parameters… |
-| 2026-10-12 18:17:23 | [CVE-2026-42689](https://nvd.nist.gov/vuln/detail/CVE-2026-42689) | Low | 3.7 | Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') vulnerability in Pixelite E… |
-| 2026-10-12 18:17:23 | [CVE-2026-61994](https://nvd.nist.gov/vuln/detail/CVE-2026-61994) | Medium | 5.4 | Missing Authorization vulnerability in RocketGeek WP-Members wp-members allows Exploiting Incorrectly Configured Access… |
-| 2026-10-12 18:17:23 | [CVE-2026-6232](https://nvd.nist.gov/vuln/detail/CVE-2026-6232) | Medium | 5.2 | An out-of-bounds write vulnerability in the SPI host command interface of Semtech's LR11xx transceiver firmware where a… |
-| 2026-10-12 18:17:23 | [CVE-2026-77363](https://nvd.nist.gov/vuln/detail/CVE-2026-77363) | High | 8.8 | obsidian-tc is a governed, agent-ready Model Context Protocol server for Obsidian vaults. Prior to 1.3.1, the Streamabl… |
-| 2026-10-12 18:17:23 | [CVE-2026-77364](https://nvd.nist.gov/vuln/detail/CVE-2026-77364) | Medium | 6.5 | obsidian-tc is a governed, agent-ready Model Context Protocol server for Obsidian vaults. Prior to 1.3.1, undefined rea… |
-| 2026-10-12 18:17:23 | [CVE-2026-77366](https://nvd.nist.gov/vuln/detail/CVE-2026-77366) | Critical | 9.9 | obsidian-tc is a governed, agent-ready Model Context Protocol server for Obsidian vaults. Prior to 1.3.1, tool dispatch… |
+| 2026-10-12 19:16:36 | [CVE-2026-102663](https://nvd.nist.gov/vuln/detail/CVE-2026-102663) | Medium | 4.3 | OpenList is a file list program that supports multiple storage backends. Prior to 4.2.4, the OpenList search API uses a… |
+| 2026-10-12 19:16:36 | [CVE-2026-103061](https://nvd.nist.gov/vuln/detail/CVE-2026-103061) | Medium | 5.9 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in gleam-lang gleam allows… |
+| 2026-10-12 19:16:36 | [CVE-2026-104102](https://nvd.nist.gov/vuln/detail/CVE-2026-104102) | Medium | 5.3 | copyparty is a portable file server. Prior to 1.20.19, FTP upload path handling does not confine destinations to config… |
+| 2026-10-12 19:16:36 | [CVE-2026-104355](https://nvd.nist.gov/vuln/detail/CVE-2026-104355) | High | 7.0 | A connected peer cluster can modify a Temporal Server cluster's local namespaces, which are never replicated to that pe… |
+| 2026-10-12 19:16:37 | [CVE-2026-105464](https://nvd.nist.gov/vuln/detail/CVE-2026-105464) | High | 8.8 | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 for Linux, UNIX and Windows (includes DB2 Connect Server) coul… |
+| 2026-10-12 19:16:37 | [CVE-2026-105465](https://nvd.nist.gov/vuln/detail/CVE-2026-105465) |  |  | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to privilege escalation when db2locssh is enable… |
+| 2026-10-12 19:16:37 | [CVE-2026-105466](https://nvd.nist.gov/vuln/detail/CVE-2026-105466) | Medium | 6.5 | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to a denial of service when inserting into a tab… |
+| 2026-10-12 19:16:37 | [CVE-2026-107226](https://nvd.nist.gov/vuln/detail/CVE-2026-107226) | Medium | 6.8 | The AsyncHttpClient (AHC) library allows Java applications to easily execute HTTP requests and asynchronously process H… |
+| 2026-10-12 19:16:38 | [CVE-2026-108919](https://nvd.nist.gov/vuln/detail/CVE-2026-108919) | Low | 2.1 | A weakness has been identified in SourceCodester Drug Recommendation System 1.0. The impacted element is an unknown fun… |
+| 2026-10-12 19:16:38 | [CVE-2026-108920](https://nvd.nist.gov/vuln/detail/CVE-2026-108920) | Low | 2.1 | A security vulnerability has been detected in SourceCodester Drug Recommendation System 1.0. This affects an unknown fu… |
+| 2026-10-12 19:16:38 | [CVE-2026-108921](https://nvd.nist.gov/vuln/detail/CVE-2026-108921) | Medium | 5.5 | A vulnerability was detected in KusalkaSilva Learning-Management-System up to ffeb873f8803f1e9664384ff75000c7da45466d2.… |
+| 2026-10-12 19:16:38 | [CVE-2026-108922](https://nvd.nist.gov/vuln/detail/CVE-2026-108922) | Low | 2.1 | A flaw has been found in KusalkaSilva Learning-Management-System up to ffeb873f8803f1e9664384ff75000c7da45466d2. Affect… |
+| 2026-10-12 19:16:38 | [CVE-2026-18166](https://nvd.nist.gov/vuln/detail/CVE-2026-18166) | High | 7.7 | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 for Linux, UNIX and Windows (includes DB2 Connect Server) coul… |
+| 2026-10-12 19:16:38 | [CVE-2026-57118](https://nvd.nist.gov/vuln/detail/CVE-2026-57118) | Critical | 9.8 | PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.59, AgentTeam.launch and the Agents alias registe… |
+| 2026-10-12 19:16:39 | [CVE-2026-57143](https://nvd.nist.gov/vuln/detail/CVE-2026-57143) | High | 8.8 | PraisonAI is a multi-agent teams system. Prior to praisonaiagents 1.6.62, searxng_search and the search_web SearxNG pro… |
+| 2026-10-12 19:16:39 | [CVE-2026-59976](https://nvd.nist.gov/vuln/detail/CVE-2026-59976) | High | 8.1 | ConvertX is a self-hosted file conversion service. Prior to 0.18.0, the ImageMagick converter uses the unsanitized conv… |
+| 2026-10-12 19:16:39 | [CVE-2026-59977](https://nvd.nist.gov/vuln/detail/CVE-2026-59977) | High | 8.1 | ConvertX is a self-hosted file conversion service. Prior to 0.18.0, the /delete/{id} endpoint uses HTTP GET for permane… |
+| 2026-10-12 19:16:39 | [CVE-2026-65954](https://nvd.nist.gov/vuln/detail/CVE-2026-65954) | High | 8.6 | PHPCSUtils is a suite of utility functions for use with PHP_CodeSniffer. From 1.0.0-alpha1 until 1.2.3, PHPCSUtils\Abst… |
+| 2026-10-12 19:16:39 | [CVE-2026-78404](https://nvd.nist.gov/vuln/detail/CVE-2026-78404) |  |  | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to a local privilege escalation via the db2pd ut… |
+| 2026-10-12 19:16:39 | [CVE-2026-83535](https://nvd.nist.gov/vuln/detail/CVE-2026-83535) | High | 7.4 | A flaw was found in openstack-network-exporter. When an operator configures user authentication but omits or misconfigu… |
+| 2026-10-12 19:16:39 | [CVE-2026-83536](https://nvd.nist.gov/vuln/detail/CVE-2026-83536) | Medium | 5.3 | A flaw was found in openstack-network-exporter. The HTTP server within the component is configured without essential ti… |
+| 2026-10-12 19:16:40 | [CVE-2026-85471](https://nvd.nist.gov/vuln/detail/CVE-2026-85471) | Medium | 6.4 | A flaw was found in Quay. An authenticated repository administrator could bypass the hostname blacklist in webhook noti… |
+| 2026-10-12 19:16:40 | [CVE-2026-87744](https://nvd.nist.gov/vuln/detail/CVE-2026-87744) | Critical | 9.1 | A flaw was found in Quarkus REST Data Panache. This vulnerability allows unauthenticated attackers to bypass security c… |
+| 2026-10-12 19:16:40 | [CVE-2026-89140](https://nvd.nist.gov/vuln/detail/CVE-2026-89140) | Medium | 6.0 | Temporal Server does not bind internal completion callbacks to the namespace that attached them, which allows an authen… |
 
 ## Data source
 
