@@ -9,27 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 07:19 UTC
+## Latest list — 2026-10-12 08:18 UTC
 
-New CVEs published between 2026-10-12 06:20 UTC and 2026-10-12 07:19 UTC.
+New CVEs published between 2026-10-12 07:19 UTC and 2026-10-12 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T07-19-38-862205Z.csv)
+[Full CSV](data/new-cves-2026-10-12T08-18-41-112157Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 07:16:35 | [CVE-2026-108807](https://nvd.nist.gov/vuln/detail/CVE-2026-108807) | Medium | 5.5 | A vulnerability was found in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. This… |
-| 2026-10-12 07:16:35 | [CVE-2026-108808](https://nvd.nist.gov/vuln/detail/CVE-2026-108808) | Low | 1.2 | A vulnerability was determined in Eleveo Call Recording Software up to 10.3.0. This vulnerability affects unknown code… |
-| 2026-10-12 07:16:36 | [CVE-2026-108809](https://nvd.nist.gov/vuln/detail/CVE-2026-108809) | Low | 2.0 | A vulnerability was identified in Eleveo Call Recording Software up to 10.3.0. This issue affects some unknown processi… |
-| 2026-10-12 07:16:36 | [CVE-2026-109082](https://nvd.nist.gov/vuln/detail/CVE-2026-109082) | Medium | 6.8 | A flaw was found in the Client-Initiated Backchannel Authentication CIBA implementation within the keycloak-services co… |
-| 2026-10-12 07:16:36 | [CVE-2026-48211](https://nvd.nist.gov/vuln/detail/CVE-2026-48211) | Medium | 5.4 | An authenticated administrator can be induced to delete administrative Import/Export templates through a Cross-Site Req… |
-| 2026-10-12 07:16:36 | [CVE-2026-48212](https://nvd.nist.gov/vuln/detail/CVE-2026-48212) | Medium | 4.8 | An OTRS administrator can enter arbitrary JavaScript into the content of an OTRS Custom Page, which is stored by the ap… |
-| 2026-10-12 07:16:36 | [CVE-2026-78355](https://nvd.nist.gov/vuln/detail/CVE-2026-78355) | High | 8.7 | A path traversal vulnerability in the OTRS SendSupportBundle functionality allows an authenticated administrator to ref… |
-| 2026-10-12 07:16:36 | [CVE-2026-78356](https://nvd.nist.gov/vuln/detail/CVE-2026-78356) | Medium | 5.3 | The OTRS Agent Frontend configuration endpoint can be accessed without authentication. This allows unauthenticated remo… |
-| 2026-10-12 07:16:37 | [CVE-2026-78357](https://nvd.nist.gov/vuln/detail/CVE-2026-78357) | Critical | 9.1 | Previously issued authentication tokens are not immediately invalidated when an OTRS agent or customer user account is… |
-| 2026-10-12 07:16:37 | [CVE-2026-78358](https://nvd.nist.gov/vuln/detail/CVE-2026-78358) | Medium | 4.3 | Several administrative actions do not sufficiently validate whether a request was intentionally initiated by the authen… |
-| 2026-10-12 07:16:37 | [CVE-2026-78359](https://nvd.nist.gov/vuln/detail/CVE-2026-78359) | Medium | 5.4 | OTRS does not sufficiently enforce the uniqueness of customer user identities across multiple configured CustomerUser b… |
-| 2026-10-12 07:16:37 | [CVE-2026-93581](https://nvd.nist.gov/vuln/detail/CVE-2026-93581) | Medium | 6.1 | User-controlled values are not sufficiently neutralized when included in CSV exports. Values originating from user inpu… |
-| 2026-10-12 07:16:37 | [CVE-2026-93582](https://nvd.nist.gov/vuln/detail/CVE-2026-93582) | Critical | 9.4 | The HTTP Basic Authentication modules in ((OTRS)) Community Edition 6 and prior accept the authenticated username from… |
+| 2026-10-12 08:17:18 | [CVE-2026-103356](https://nvd.nist.gov/vuln/detail/CVE-2026-103356) | Medium | 5.4 | Missing Authorization vulnerability in VillaTheme TMDS tmds-dropshipping-for-temu-and-woo allows Exploiting Incorrectly… |
+| 2026-10-12 08:17:18 | [CVE-2026-106605](https://nvd.nist.gov/vuln/detail/CVE-2026-106605) | Medium | 5.3 | Improper Validation of Specified Quantity in Input vulnerability in WP Desk Flexible Quantity – Measurement Price Calcu… |
+| 2026-10-12 08:17:18 | [CVE-2026-107427](https://nvd.nist.gov/vuln/detail/CVE-2026-107427) | Medium | 6.5 | Authorization Bypass Through User-Controlled Key vulnerability in NOUS Ouvert Utile et Simple Event post event-post all… |
+| 2026-10-12 08:17:18 | [CVE-2026-107429](https://nvd.nist.gov/vuln/detail/CVE-2026-107429) | Medium | 4.3 | Improper Validation of Specified Quantity in Input vulnerability in VideoWhisper.com Paid Videochat Turnkey Site ppv-li… |
+| 2026-10-12 08:17:18 | [CVE-2026-107430](https://nvd.nist.gov/vuln/detail/CVE-2026-107430) | Medium | 5.4 | Missing Authorization vulnerability in VideoWhisper.com VideoWhisper Site Manager for ChatGPT, Claude, Codex videowhisp… |
+| 2026-10-12 08:17:18 | [CVE-2026-107432](https://nvd.nist.gov/vuln/detail/CVE-2026-107432) | Medium | 5.4 | Missing Authorization vulnerability in NOUS Ouvert Utile et Simple Event post event-post allows Exploiting Incorrectly… |
+| 2026-10-12 08:17:18 | [CVE-2026-108810](https://nvd.nist.gov/vuln/detail/CVE-2026-108810) | Medium | 5.5 | A security flaw has been discovered in tsi-coop tsi-dpdp-cms 0.5.0/0.5.1/0.5.2. Impacted is an unknown function of the… |
+| 2026-10-12 08:17:19 | [CVE-2026-108811](https://nvd.nist.gov/vuln/detail/CVE-2026-108811) | Low | 2.1 | A weakness has been identified in WMCMS 4.446.1257. The affected element is an unknown function of the file /index.php.… |
+| 2026-10-12 08:17:19 | [CVE-2026-108812](https://nvd.nist.gov/vuln/detail/CVE-2026-108812) | Medium | 5.5 | A security vulnerability has been detected in SEMCMS up to 5.0. The impacted element is an unknown function of the file… |
+| 2026-10-12 08:17:19 | [CVE-2026-108813](https://nvd.nist.gov/vuln/detail/CVE-2026-108813) | Low | 2.1 | A vulnerability was detected in SEMCMS up to 5.0. This affects an unknown function of the file SEMCMS_Download.php. Per… |
+| 2026-10-12 08:17:19 | [CVE-2026-108814](https://nvd.nist.gov/vuln/detail/CVE-2026-108814) | Low | 2.1 | A flaw has been found in SEMCMS up to 5.0. This impacts an unknown function of the file SEMCMS_Banner.php. Executing a… |
 
 ## Data source
 
