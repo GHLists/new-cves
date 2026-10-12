@@ -9,25 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 11:19 UTC
+## Latest list — 2026-10-12 12:18 UTC
 
-New CVEs published between 2026-10-12 10:19 UTC and 2026-10-12 11:19 UTC.
+New CVEs published between 2026-10-12 11:19 UTC and 2026-10-12 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T11-19-58-969496Z.csv)
+[Full CSV](data/new-cves-2026-10-12T12-18-38-771258Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 11:17:08 | [CVE-2026-103902](https://nvd.nist.gov/vuln/detail/CVE-2026-103902) | High | 7.5 | Improper verification of cryptographic signature vulnerability in DigiDoc libdigidocpp, DigiDoc DigiDoc4, DigiDoc DigiD… |
-| 2026-10-12 11:17:09 | [CVE-2026-103903](https://nvd.nist.gov/vuln/detail/CVE-2026-103903) | High | 8.7 | An incorrect authorization vulnerability in the WinBox authentication flow of MikroTik RouterOS allows a remote authent… |
-| 2026-10-12 11:17:09 | [CVE-2026-105407](https://nvd.nist.gov/vuln/detail/CVE-2026-105407) | High | 8.8 | An OS Command Injection vulnerability affecting Tuleap Enterprise Edition from 17.0 through 17.5 could allow an attacke… |
-| 2026-10-12 11:17:09 | [CVE-2026-105408](https://nvd.nist.gov/vuln/detail/CVE-2026-105408) | High | 8.7 | A Stored Cross-site Scripting (XSS) vulnerability affecting Tuleap Enterprise Edition from 17.0 through 17.5 could allo… |
-| 2026-10-12 11:17:09 | [CVE-2026-105409](https://nvd.nist.gov/vuln/detail/CVE-2026-105409) | High | 8.7 | A Stored Cross-site Scripting (XSS) vulnerability affecting Tuleap Enterprise Edition from 17.0 through 17.5 could allo… |
-| 2026-10-12 11:17:10 | [CVE-2026-105410](https://nvd.nist.gov/vuln/detail/CVE-2026-105410) | High | 8.7 | A Stored Cross-site Scripting (XSS) vulnerability affecting Tuleap Enterprise Edition from 17.0 through 17.5 could allo… |
-| 2026-10-12 11:17:10 | [CVE-2026-105411](https://nvd.nist.gov/vuln/detail/CVE-2026-105411) | High | 8.1 | An Authorization Bypass Through User-Controlled Key vulnerability affecting Tuleap Enterprise Edition from 17.0 through… |
-| 2026-10-12 11:17:10 | [CVE-2026-105412](https://nvd.nist.gov/vuln/detail/CVE-2026-105412) | High | 7.1 | An SQL Injection vulnerability affecting Tuleap Enterprise Edition 17.5 could allow an attacker to have read access the… |
-| 2026-10-12 11:17:10 | [CVE-2026-108824](https://nvd.nist.gov/vuln/detail/CVE-2026-108824) | Low | 2.1 | A flaw has been found in DataEase up to 3.0.0. The impacted element is the function Utils.buildCalcField of the file io… |
-| 2026-10-12 11:17:10 | [CVE-2026-108825](https://nvd.nist.gov/vuln/detail/CVE-2026-108825) | Low | 2.1 | A vulnerability has been found in yangzongzhuan RuoYi up to 4.8.3. This affects the function checkRoleAllowed of the fi… |
-| 2026-10-12 11:17:10 | [CVE-2026-108826](https://nvd.nist.gov/vuln/detail/CVE-2026-108826) | Medium | 5.5 | A vulnerability was found in Zen Cart up to 2.2.2. This impacts the function zen_db_perform in the library includes/mod… |
+| 2026-10-12 12:17:12 | [CVE-2026-105283](https://nvd.nist.gov/vuln/detail/CVE-2026-105283) | Medium | 6.3 | Generation of Error Message Containing Sensitive Information vulnerability in ash-project ash_typescript allows an unau… |
+| 2026-10-12 12:17:14 | [CVE-2026-108827](https://nvd.nist.gov/vuln/detail/CVE-2026-108827) | Low | 1.2 | A vulnerability was determined in Zen Cart up to 2.2.2. Affected is the function zen_call_function of the file admin/in… |
+| 2026-10-12 12:17:14 | [CVE-2026-108828](https://nvd.nist.gov/vuln/detail/CVE-2026-108828) | Low | 1.2 | A vulnerability was identified in Zen Cart 2.2.2. Affected by this vulnerability is the function eval of the file admin… |
+| 2026-10-12 12:17:14 | [CVE-2026-108829](https://nvd.nist.gov/vuln/detail/CVE-2026-108829) | Low | 2.0 | A security flaw has been discovered in Zen Cart up to 2.2.2. Affected by this issue is some unknown functionality of th… |
+| 2026-10-12 12:17:14 | [CVE-2026-108830](https://nvd.nist.gov/vuln/detail/CVE-2026-108830) | Low | 1.3 | A weakness has been identified in meetecho janus-gateway up to 1.4.2. This affects an unknown part of the file src/plug… |
+| 2026-10-12 12:17:15 | [CVE-2026-85499](https://nvd.nist.gov/vuln/detail/CVE-2026-85499) |  |  | Improper Authorization vulnerability in Apache SkyWalking BanyanDB. The Canopy includes incomplete proof-of-concept rol… |
 
 ## Data source
 
