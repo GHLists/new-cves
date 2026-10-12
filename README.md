@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:21 UTC
+## Latest list — 2026-10-12 01:20 UTC
 
-New CVEs published between 2026-10-11 23:19 UTC and 2026-10-12 00:21 UTC.
+New CVEs published between 2026-10-12 00:21 UTC and 2026-10-12 01:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T00-21-09-911468Z.csv)
+[Full CSV](data/new-cves-2026-10-12T01-20-22-731336Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 00:17:01 | [CVE-2026-108774](https://nvd.nist.gov/vuln/detail/CVE-2026-108774) | Low | 2.1 | A flaw has been found in erzhongxmu JEEWMS up to 2026.09.27-W39. The affected element is the function getbinall/getbina… |
-| 2026-10-12 00:17:01 | [CVE-2026-108775](https://nvd.nist.gov/vuln/detail/CVE-2026-108775) | Low | 2.1 | A vulnerability has been found in erzhongxmu JEEWMS up to 2026.09.27-W39. The impacted element is the function WvNotice… |
-| 2026-10-12 00:17:01 | [CVE-2026-108777](https://nvd.nist.gov/vuln/detail/CVE-2026-108777) | Low | 2.1 | A vulnerability was found in erzhongxmu JEEWMS up to 2026.09.27-W39. This affects the function WvGiController.list of t… |
-| 2026-10-12 00:17:01 | [CVE-2026-108778](https://nvd.nist.gov/vuln/detail/CVE-2026-108778) | Low | 2.1 | A vulnerability was determined in erzhongxmu JEEWMS up to 2026.09.27-W39. This impacts the function WmInQmIController.l… |
+| 2026-10-12 01:16:29 | [CVE-2026-108779](https://nvd.nist.gov/vuln/detail/CVE-2026-108779) | Low | 2.1 | A vulnerability was identified in erzhongxmu JEEWMS up to 2026.09.27-W39. Affected is the function WmSttInGoodsControll… |
+| 2026-10-12 01:16:29 | [CVE-2026-108781](https://nvd.nist.gov/vuln/detail/CVE-2026-108781) | Low | 2.1 | A security flaw has been discovered in erzhongxmu JEEWMS up to 2026.09.27-W39. Affected by this vulnerability is the fu… |
 
 ## Data source
 
