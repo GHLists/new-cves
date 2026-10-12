@@ -9,25 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 02:20 UTC
+## Latest list — 2026-10-12 03:18 UTC
 
-New CVEs published between 2026-10-12 01:20 UTC and 2026-10-12 02:20 UTC.
+New CVEs published between 2026-10-12 02:20 UTC and 2026-10-12 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T02-20-43-988658Z.csv)
+[Full CSV](data/new-cves-2026-10-12T03-18-50-339702Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 02:16:56 | [CVE-2026-108782](https://nvd.nist.gov/vuln/detail/CVE-2026-108782) | Low | 2.1 | A weakness has been identified in erzhongxmu JEEWMS up to 2026.09.27-W39. Affected by this issue is the function Common… |
-| 2026-10-12 02:16:56 | [CVE-2026-108783](https://nvd.nist.gov/vuln/detail/CVE-2026-108783) | Medium | 5.5 | A security vulnerability has been detected in PRVTPRO Amnezia-Web-Panel up to 1.6.2/1.7.2. This affects an unknown part… |
-| 2026-10-12 02:16:56 | [CVE-2026-108784](https://nvd.nist.gov/vuln/detail/CVE-2026-108784) | Medium | 5.5 | A vulnerability was detected in macrozheng mall up to 1.0.3. This vulnerability affects the function AlipayServiceImpl.… |
-| 2026-10-12 02:16:56 | [CVE-2026-108785](https://nvd.nist.gov/vuln/detail/CVE-2026-108785) | Low | 2.1 | A flaw has been found in macrozheng mall up to 1.0.3. This issue affects the function JwtTokenUtil.refreshHeadToken of… |
-| 2026-10-12 02:16:56 | [CVE-2026-108786](https://nvd.nist.gov/vuln/detail/CVE-2026-108786) | Low | 2.1 | A vulnerability has been found in houtini-ai seo-crawler-mcp up to 2.1.5. Impacted is the function run_seo_audit of the… |
-| 2026-10-12 02:16:56 | [CVE-2026-108787](https://nvd.nist.gov/vuln/detail/CVE-2026-108787) | Low | 2.1 | A vulnerability was found in houtini-ai voice-analyser-mcp up to 2.1.1. The affected element is the function fetch of t… |
-| 2026-10-12 02:16:57 | [CVE-2026-108788](https://nvd.nist.gov/vuln/detail/CVE-2026-108788) | Low | 1.9 | A vulnerability was determined in deepseek-ai deepseek-harness up to 0.1.1-rc.2. The impacted element is the function s… |
-| 2026-10-12 02:16:57 | [CVE-2026-108980](https://nvd.nist.gov/vuln/detail/CVE-2026-108980) | High | 8.8 | Blinko through 1.8.8 allows directory traversal, overwriting startup files as root, via installPlugin. It builds the pl… |
-| 2026-10-12 02:16:57 | [CVE-2026-66085](https://nvd.nist.gov/vuln/detail/CVE-2026-66085) | Medium | 5.5 | In modem, there is a possible information disclosure due to missing filtering of sensitive data in crash dumps. This co… |
-| 2026-10-12 02:16:57 | [CVE-2026-66086](https://nvd.nist.gov/vuln/detail/CVE-2026-66086) | Critical | 9.8 | In the modem OTA stack, there is a possible stack-based buffer overflow due to improper validation of scheduling inform… |
-| 2026-10-12 02:16:57 | [CVE-2026-87765](https://nvd.nist.gov/vuln/detail/CVE-2026-87765) | Medium | 5.5 | In the kernel apsys DVFS driver, there is a possible out-of-bounds read or hardware register corruption due to improper… |
+| 2026-10-12 03:17:17 | [CVE-2026-107437](https://nvd.nist.gov/vuln/detail/CVE-2026-107437) | Medium | 6.2 | GV-E-Map Server V18.2.0A contains a plaintext database password embedded within an application component. The credentia… |
+| 2026-10-12 03:17:17 | [CVE-2026-108789](https://nvd.nist.gov/vuln/detail/CVE-2026-108789) | Low | 2.0 | A vulnerability was identified in deepseek-ai deepseek-harness up to 0.1.1-rc.2. This affects the function agent of the… |
+| 2026-10-12 03:17:18 | [CVE-2026-108790](https://nvd.nist.gov/vuln/detail/CVE-2026-108790) | Low | 2.0 | A security flaw has been discovered in westboy CicadasCMS up to 2431154dac8d0735e04f1fd2a3c3556668fc8dab. This impacts… |
+| 2026-10-12 03:17:18 | [CVE-2026-108791](https://nvd.nist.gov/vuln/detail/CVE-2026-108791) | Low | 2.1 | A weakness has been identified in westboy CicadasCMS up to 2431154dac8d0735e04f1fd2a3c3556668fc8dab. Affected is the fu… |
+| 2026-10-12 03:17:18 | [CVE-2026-108794](https://nvd.nist.gov/vuln/detail/CVE-2026-108794) | Medium | 5.3 | A security vulnerability has been detected in ZKTeco BioTime 9.5.6 Build 20260130.3206. Affected by this vulnerability… |
+| 2026-10-12 03:17:18 | [CVE-2026-108981](https://nvd.nist.gov/vuln/detail/CVE-2026-108981) | Low | 3.6 | ngx_cache_purge before 3.0.4 can allow file deletion via a symlink attack in certain situations where nginx and a serve… |
+| 2026-10-12 03:17:18 | [CVE-2026-108982](https://nvd.nist.gov/vuln/detail/CVE-2026-108982) | High | 7.2 | VeraCrypt 1.26.29 (FUSE-T build) on macOS sometimes allows unintended access to decrypted data. It does not terminate t… |
+| 2026-10-12 03:17:18 | [CVE-2026-108985](https://nvd.nist.gov/vuln/detail/CVE-2026-108985) | High | 7.1 | ZDR decoding in libnfs through 6.0.2 before 7613236 has an out-of-bounds write related to lib/libnfs-zdr.c with libnfs_… |
 
 ## Data source
 
