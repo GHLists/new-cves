@@ -9,22 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 03:18 UTC
+## Latest list — 2026-10-12 04:21 UTC
 
-New CVEs published between 2026-10-12 02:20 UTC and 2026-10-12 03:18 UTC.
+New CVEs published between 2026-10-12 03:18 UTC and 2026-10-12 04:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T03-18-50-339702Z.csv)
+[Full CSV](data/new-cves-2026-10-12T04-21-09-477376Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 03:17:17 | [CVE-2026-107437](https://nvd.nist.gov/vuln/detail/CVE-2026-107437) | Medium | 6.2 | GV-E-Map Server V18.2.0A contains a plaintext database password embedded within an application component. The credentia… |
-| 2026-10-12 03:17:17 | [CVE-2026-108789](https://nvd.nist.gov/vuln/detail/CVE-2026-108789) | Low | 2.0 | A vulnerability was identified in deepseek-ai deepseek-harness up to 0.1.1-rc.2. This affects the function agent of the… |
-| 2026-10-12 03:17:18 | [CVE-2026-108790](https://nvd.nist.gov/vuln/detail/CVE-2026-108790) | Low | 2.0 | A security flaw has been discovered in westboy CicadasCMS up to 2431154dac8d0735e04f1fd2a3c3556668fc8dab. This impacts… |
-| 2026-10-12 03:17:18 | [CVE-2026-108791](https://nvd.nist.gov/vuln/detail/CVE-2026-108791) | Low | 2.1 | A weakness has been identified in westboy CicadasCMS up to 2431154dac8d0735e04f1fd2a3c3556668fc8dab. Affected is the fu… |
-| 2026-10-12 03:17:18 | [CVE-2026-108794](https://nvd.nist.gov/vuln/detail/CVE-2026-108794) | Medium | 5.3 | A security vulnerability has been detected in ZKTeco BioTime 9.5.6 Build 20260130.3206. Affected by this vulnerability… |
-| 2026-10-12 03:17:18 | [CVE-2026-108981](https://nvd.nist.gov/vuln/detail/CVE-2026-108981) | Low | 3.6 | ngx_cache_purge before 3.0.4 can allow file deletion via a symlink attack in certain situations where nginx and a serve… |
-| 2026-10-12 03:17:18 | [CVE-2026-108982](https://nvd.nist.gov/vuln/detail/CVE-2026-108982) | High | 7.2 | VeraCrypt 1.26.29 (FUSE-T build) on macOS sometimes allows unintended access to decrypted data. It does not terminate t… |
-| 2026-10-12 03:17:18 | [CVE-2026-108985](https://nvd.nist.gov/vuln/detail/CVE-2026-108985) | High | 7.1 | ZDR decoding in libnfs through 6.0.2 before 7613236 has an out-of-bounds write related to lib/libnfs-zdr.c with libnfs_… |
+| 2026-10-12 04:16:43 | [CVE-2026-108795](https://nvd.nist.gov/vuln/detail/CVE-2026-108795) | Medium | 5.3 | A vulnerability was detected in ZKTeco BioTime 9.5.6 Build 20260130.3206. Affected by this issue is some unknown functi… |
+| 2026-10-12 04:16:48 | [CVE-2026-108796](https://nvd.nist.gov/vuln/detail/CVE-2026-108796) | Medium | 5.3 | A flaw has been found in ZKTeco BioTime 9.5.6 Build 20260130.3206. This affects an unknown part of the file /iclock/fin… |
+| 2026-10-12 04:16:48 | [CVE-2026-108797](https://nvd.nist.gov/vuln/detail/CVE-2026-108797) | Medium | 5.3 | A vulnerability has been found in ZKTeco BioTime 9.5.6 Build 20260130.3206. This vulnerability affects unknown code of… |
+| 2026-10-12 04:16:48 | [CVE-2026-108798](https://nvd.nist.gov/vuln/detail/CVE-2026-108798) | Medium | 6.9 | A vulnerability was found in ZKTeco BioTime 9.5.6 Build 20260130.3206. This issue affects some unknown processing. The… |
 
 ## Data source
 
