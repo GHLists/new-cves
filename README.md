@@ -9,27 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 06:20 UTC
+## Latest list — 2026-10-12 07:19 UTC
 
-New CVEs published between 2026-10-12 05:18 UTC and 2026-10-12 06:20 UTC.
+New CVEs published between 2026-10-12 06:20 UTC and 2026-10-12 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-12T06-20-12-831294Z.csv)
+[Full CSV](data/new-cves-2026-10-12T07-19-38-862205Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-12 06:16:58 | [CVE-2025-15703](https://nvd.nist.gov/vuln/detail/CVE-2025-15703) |  |  | The HireZoot WordPress plugin before 4.0.0 does not sanitise and escape one of its job specification settings before it… |
-| 2026-10-12 06:16:58 | [CVE-2026-107193](https://nvd.nist.gov/vuln/detail/CVE-2026-107193) | Medium | 6.5 | A flaw has been found in **permission filters** in the **foreman** package. The API loads a filter by its identifier an… |
-| 2026-10-12 06:16:58 | [CVE-2026-107203](https://nvd.nist.gov/vuln/detail/CVE-2026-107203) | Medium | 5.4 | An **incorrect authorization** flaw has been found in **network interface handling** in the **Foreman** package. The do… |
-| 2026-10-12 06:16:58 | [CVE-2026-107791](https://nvd.nist.gov/vuln/detail/CVE-2026-107791) |  |  | The WP Comment Cleaner WordPress plugin before 7.2 does not perform a capability check or validate a nonce on one of it… |
-| 2026-10-12 06:16:58 | [CVE-2026-108802](https://nvd.nist.gov/vuln/detail/CVE-2026-108802) | Low | 2.0 | A weakness has been identified in y_project RuoYi up to 4.8.3. This affects the function renderDrawer of the file /syst… |
-| 2026-10-12 06:16:59 | [CVE-2026-108803](https://nvd.nist.gov/vuln/detail/CVE-2026-108803) | Medium | 5.3 | A security vulnerability has been detected in y_project RuoYi up to 4.8.3. This impacts the function changeStatus of th… |
-| 2026-10-12 06:16:59 | [CVE-2026-108804](https://nvd.nist.gov/vuln/detail/CVE-2026-108804) | Critical | 9.3 | A vulnerability was detected in TRENDnet TEW-751DR, TEW-752DRU and TEW733GR 1.03B01/1.03B03. Affected is the function f… |
-| 2026-10-12 06:16:59 | [CVE-2026-108805](https://nvd.nist.gov/vuln/detail/CVE-2026-108805) | Medium | 5.5 | A flaw has been found in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Affected… |
-| 2026-10-12 06:16:59 | [CVE-2026-108806](https://nvd.nist.gov/vuln/detail/CVE-2026-108806) | Medium | 5.5 | A vulnerability has been found in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe.… |
-| 2026-10-12 06:17:00 | [CVE-2026-109080](https://nvd.nist.gov/vuln/detail/CVE-2026-109080) | High | 7.1 | SQL injection in the bulk license plate search of the Flock Night Shift hosted service allowed an authenticated user to… |
-| 2026-10-12 06:17:00 | [CVE-2026-84166](https://nvd.nist.gov/vuln/detail/CVE-2026-84166) |  |  | The Hotel Booking WordPress plugin through 3.8 does not implement CSRF protection on its administrative booking order m… |
-| 2026-10-12 06:17:00 | [CVE-2026-84167](https://nvd.nist.gov/vuln/detail/CVE-2026-84167) |  |  | The Hotel Booking WordPress plugin through 3.8 does not verify that a booking record belongs to the user requesting it,… |
-| 2026-10-12 06:17:00 | [CVE-2026-98385](https://nvd.nist.gov/vuln/detail/CVE-2026-98385) |  |  | In the Linux kernel, the following vulnerability has been resolved: sched/cache: Decouple sched_cache_group from mm to… |
+| 2026-10-12 07:16:35 | [CVE-2026-108807](https://nvd.nist.gov/vuln/detail/CVE-2026-108807) | Medium | 5.5 | A vulnerability was found in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. This… |
+| 2026-10-12 07:16:35 | [CVE-2026-108808](https://nvd.nist.gov/vuln/detail/CVE-2026-108808) | Low | 1.2 | A vulnerability was determined in Eleveo Call Recording Software up to 10.3.0. This vulnerability affects unknown code… |
+| 2026-10-12 07:16:36 | [CVE-2026-108809](https://nvd.nist.gov/vuln/detail/CVE-2026-108809) | Low | 2.0 | A vulnerability was identified in Eleveo Call Recording Software up to 10.3.0. This issue affects some unknown processi… |
+| 2026-10-12 07:16:36 | [CVE-2026-109082](https://nvd.nist.gov/vuln/detail/CVE-2026-109082) | Medium | 6.8 | A flaw was found in the Client-Initiated Backchannel Authentication CIBA implementation within the keycloak-services co… |
+| 2026-10-12 07:16:36 | [CVE-2026-48211](https://nvd.nist.gov/vuln/detail/CVE-2026-48211) | Medium | 5.4 | An authenticated administrator can be induced to delete administrative Import/Export templates through a Cross-Site Req… |
+| 2026-10-12 07:16:36 | [CVE-2026-48212](https://nvd.nist.gov/vuln/detail/CVE-2026-48212) | Medium | 4.8 | An OTRS administrator can enter arbitrary JavaScript into the content of an OTRS Custom Page, which is stored by the ap… |
+| 2026-10-12 07:16:36 | [CVE-2026-78355](https://nvd.nist.gov/vuln/detail/CVE-2026-78355) | High | 8.7 | A path traversal vulnerability in the OTRS SendSupportBundle functionality allows an authenticated administrator to ref… |
+| 2026-10-12 07:16:36 | [CVE-2026-78356](https://nvd.nist.gov/vuln/detail/CVE-2026-78356) | Medium | 5.3 | The OTRS Agent Frontend configuration endpoint can be accessed without authentication. This allows unauthenticated remo… |
+| 2026-10-12 07:16:37 | [CVE-2026-78357](https://nvd.nist.gov/vuln/detail/CVE-2026-78357) | Critical | 9.1 | Previously issued authentication tokens are not immediately invalidated when an OTRS agent or customer user account is… |
+| 2026-10-12 07:16:37 | [CVE-2026-78358](https://nvd.nist.gov/vuln/detail/CVE-2026-78358) | Medium | 4.3 | Several administrative actions do not sufficiently validate whether a request was intentionally initiated by the authen… |
+| 2026-10-12 07:16:37 | [CVE-2026-78359](https://nvd.nist.gov/vuln/detail/CVE-2026-78359) | Medium | 5.4 | OTRS does not sufficiently enforce the uniqueness of customer user identities across multiple configured CustomerUser b… |
+| 2026-10-12 07:16:37 | [CVE-2026-93581](https://nvd.nist.gov/vuln/detail/CVE-2026-93581) | Medium | 6.1 | User-controlled values are not sufficiently neutralized when included in CSV exports. Values originating from user inpu… |
+| 2026-10-12 07:16:37 | [CVE-2026-93582](https://nvd.nist.gov/vuln/detail/CVE-2026-93582) | Critical | 9.4 | The HTTP Basic Authentication modules in ((OTRS)) Community Edition 6 and prior accept the authenticated username from… |
 
 ## Data source
 
