@@ -9,19 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 03:19 UTC
+## Latest list — 2026-10-13 04:18 UTC
 
-New CVEs published between 2026-10-13 02:19 UTC and 2026-10-13 03:19 UTC.
+New CVEs published between 2026-10-13 03:19 UTC and 2026-10-13 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-13T03-19-36-793847Z.csv)
+[Full CSV](data/new-cves-2026-10-13T04-18-36-776277Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-13 03:16:40 | [CVE-2026-108957](https://nvd.nist.gov/vuln/detail/CVE-2026-108957) | Low | 2.1 | A security flaw has been discovered in TinyLLaVA TinyLLaVA_Factory up to 1abc6ac5e76a68d0fd087a071b56da968e69ca9b. The… |
-| 2026-10-13 03:16:40 | [CVE-2026-108958](https://nvd.nist.gov/vuln/detail/CVE-2026-108958) | Low | 2.1 | A weakness has been identified in TensorLayer up to 2.2.4. This affects the function load_hdf5_graph of the file tensor… |
-| 2026-10-13 03:16:40 | [CVE-2026-108959](https://nvd.nist.gov/vuln/detail/CVE-2026-108959) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Online Cake Ordering System 1.0. This impacts an unknown fun… |
-| 2026-10-13 03:16:40 | [CVE-2026-108960](https://nvd.nist.gov/vuln/detail/CVE-2026-108960) | Low | 1.9 | A vulnerability was detected in Tiiny-AI PowerInfer up to 8bd56d69906c9d2dba4d3bf6899763401e01a9a4. Affected is the fun… |
-| 2026-10-13 03:16:40 | [CVE-2026-109786](https://nvd.nist.gov/vuln/detail/CVE-2026-109786) | Medium | 5.3 | In fail2ban 0.10.5 through 1.1.1 before ddd879d, the sshd filter (config/filter.d/sshd.conf) accepts an "on <token>" su… |
+| 2026-10-13 04:17:10 | [CVE-2026-108961](https://nvd.nist.gov/vuln/detail/CVE-2026-108961) | Medium | 5.3 | A flaw has been found in PaddlePaddle PaddleX up to 3.7.2. Affected by this vulnerability is the function NormalizeImag… |
+| 2026-10-13 04:17:11 | [CVE-2026-108962](https://nvd.nist.gov/vuln/detail/CVE-2026-108962) | Medium | 5.3 | A vulnerability has been found in storyicon comfyui_segment_anything up to ab6395596399d5048639cdab7e44ec9fae857a93. Af… |
+| 2026-10-13 04:17:11 | [CVE-2026-108964](https://nvd.nist.gov/vuln/detail/CVE-2026-108964) | Medium | 5.5 | A vulnerability was found in SourceCodester Performance Indicator System 1.0. This affects an unknown part of the file… |
+| 2026-10-13 04:17:13 | [CVE-2026-108965](https://nvd.nist.gov/vuln/detail/CVE-2026-108965) | Medium | 5.5 | A vulnerability was determined in SourceCodester Performance Indicator System 1.0. This vulnerability affects unknown c… |
+| 2026-10-13 04:17:14 | [CVE-2026-109758](https://nvd.nist.gov/vuln/detail/CVE-2026-109758) | Critical | 9.3 | Perforce Helix Authentication Service (HAS) deployments that retain the shipped default SCIM bearer token are vulnerabl… |
 
 ## Data source
 
