@@ -9,39 +9,44 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 01:18 UTC
+## Latest list — 2026-10-13 02:19 UTC
 
-New CVEs published between 2026-10-13 00:18 UTC and 2026-10-13 01:18 UTC.
+New CVEs published between 2026-10-13 01:18 UTC and 2026-10-13 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-13T01-18-53-595517Z.csv)
+[Full CSV](data/new-cves-2026-10-13T02-19-51-223985Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-13 01:16:42 | [CVE-2026-108942](https://nvd.nist.gov/vuln/detail/CVE-2026-108942) | Medium | 5.1 | A security flaw has been discovered in philz1337x clarity-upscaler up to cfbdb842c6c839c8e97741722b8cf9a4b7662d98. This… |
-| 2026-10-13 01:16:42 | [CVE-2026-108943](https://nvd.nist.gov/vuln/detail/CVE-2026-108943) | Low | 1.9 | A weakness has been identified in ModelTC LightX2V up to 0.5.0. Affected is the function AutoTokenizer.from_pretrained… |
-| 2026-10-13 01:16:42 | [CVE-2026-108944](https://nvd.nist.gov/vuln/detail/CVE-2026-108944) | Low | 2.4 | A security vulnerability has been detected in repository RAE up to a4d18c4db766419cbe7cb8c02cd9f7ceb0ec9041. Affected b… |
-| 2026-10-13 01:16:42 | [CVE-2026-108945](https://nvd.nist.gov/vuln/detail/CVE-2026-108945) | Medium | 4.8 | A vulnerability was detected in iMoonLab yolov13 up to 73289949533efac82bb5f72ec19b746618656bd2. Affected by this issue… |
-| 2026-10-13 01:16:46 | [CVE-2026-58242](https://nvd.nist.gov/vuln/detail/CVE-2026-58242) | Low | 3.5 | SAP Cloud Connector contains an improper authorization check, which could be exploited by a low-privileged attacker thr… |
-| 2026-10-13 01:16:46 | [CVE-2026-58249](https://nvd.nist.gov/vuln/detail/CVE-2026-58249) | High | 7.5 | SAP NetWeaver and SAP Web Dispatcher do not properly validate certain fields in specially crafted requests handled by a… |
-| 2026-10-13 01:16:46 | [CVE-2026-76972](https://nvd.nist.gov/vuln/detail/CVE-2026-76972) | Medium | 6.5 | Due to a Cross-Site Scripting (XSS) vulnerability in SAP Manufacturing Integration and Intelligence, an attacker could… |
-| 2026-10-13 01:16:46 | [CVE-2026-76975](https://nvd.nist.gov/vuln/detail/CVE-2026-76975) | Medium | 6.1 | Due to a DOM-Based Cross-Site Scripting (XSS) vulnerability, an unauthenticated attacker could generate a malicious lin… |
-| 2026-10-13 01:16:46 | [CVE-2026-76976](https://nvd.nist.gov/vuln/detail/CVE-2026-76976) | Medium | 5.4 | Applications based on SAP GUI for HTML in SAP NetWeaver Application Server ABAP do not sufficiently sanitize user-suppl… |
-| 2026-10-13 01:16:47 | [CVE-2026-87689](https://nvd.nist.gov/vuln/detail/CVE-2026-87689) | Critical | 9.8 | The Metasploit Framework Web Service REST API (msf-ws) exposes the credential store through Msf::WebServices::Credentia… |
-| 2026-10-13 01:16:47 | [CVE-2026-89105](https://nvd.nist.gov/vuln/detail/CVE-2026-89105) | Medium | 4.2 | The HybridTokenAuthenticator component of the SAP/cloud-security-services-integration-library accepts tokens from unint… |
-| 2026-10-13 01:16:47 | [CVE-2026-89106](https://nvd.nist.gov/vuln/detail/CVE-2026-89106) | Medium | 4.4 | SAP UI5 does not perform sufficient input validation under certain configurations. An attacker with low privileges coul… |
-| 2026-10-13 01:16:47 | [CVE-2026-89107](https://nvd.nist.gov/vuln/detail/CVE-2026-89107) | Critical | 9.9 | SAP S/4HANA (Manage Substitution/Validation Rules) does not sufficiently validate input processed by rule definition fu… |
-| 2026-10-13 01:16:47 | [CVE-2026-89108](https://nvd.nist.gov/vuln/detail/CVE-2026-89108) | Critical | 9.1 | SAP Manufacturing Integration and Intelligence does not sufficiently enforce authorization boundaries within certain ad… |
-| 2026-10-13 01:16:47 | [CVE-2026-89110](https://nvd.nist.gov/vuln/detail/CVE-2026-89110) | Critical | 9.9 | SAP NetWeaver Visual Composer does not perform sufficient authorization checks in certain portal functionality. An atta… |
-| 2026-10-13 01:16:47 | [CVE-2026-89111](https://nvd.nist.gov/vuln/detail/CVE-2026-89111) | Critical | 10.0 | The SAP Cloud SDK for Python contains an OAuth2 SSRF vulnerability affecting multi-tenant BTP applications. An attacker… |
-| 2026-10-13 01:16:48 | [CVE-2026-89112](https://nvd.nist.gov/vuln/detail/CVE-2026-89112) | Medium | 6.5 | The admin API endpoint used to retrieve CLA signature records does not consistently enforce the required authorization… |
-| 2026-10-13 01:16:48 | [CVE-2026-89113](https://nvd.nist.gov/vuln/detail/CVE-2026-89113) | High | 8.8 | SAP Commerce Cloud does not sufficiently validate certain user-supplied input before it is incorporated into a database… |
-| 2026-10-13 01:16:48 | [CVE-2026-89116](https://nvd.nist.gov/vuln/detail/CVE-2026-89116) | Medium | 5.9 | The affected code used child_process.execSync with a shell string for generator installation and uninstallation. This a… |
-| 2026-10-13 01:16:48 | [CVE-2026-89117](https://nvd.nist.gov/vuln/detail/CVE-2026-89117) | Medium | 6.1 | SAP NetWeaver Enterprise Portal allows an unauthenticated attacker to inject malicious scripts into a URL parameter. Th… |
-| 2026-10-13 01:16:48 | [CVE-2026-89118](https://nvd.nist.gov/vuln/detail/CVE-2026-89118) | Medium | 5.3 | SAP NetWeaver Enterprise Portal allows an unauthenticated attacker to access restricted resources and retrieve non-crit… |
-| 2026-10-13 01:16:48 | [CVE-2026-89120](https://nvd.nist.gov/vuln/detail/CVE-2026-89120) | High | 7.1 | A regression caused by an API change in SAP ABAP Platform reintroduces a previously fixed authorization weakness. The s… |
-| 2026-10-13 01:16:48 | [CVE-2026-89121](https://nvd.nist.gov/vuln/detail/CVE-2026-89121) | Medium | 4.7 | SAP S/4HANA does not perform sufficient instance-level authorization checks for certain modification operations on asso… |
-| 2026-10-13 01:16:49 | [CVE-2026-89122](https://nvd.nist.gov/vuln/detail/CVE-2026-89122) | Medium | 6.1 | SAP NetWeaver Enterprise Portal does not sufficiently validate input to a certain portal component. An unauthenticated… |
-| 2026-10-13 01:16:49 | [CVE-2026-89124](https://nvd.nist.gov/vuln/detail/CVE-2026-89124) | Medium | 4.3 | Display Product Catalog Based on Customs Declaration application does not perform sufficient authorization checks withi… |
+| 2026-10-13 02:16:54 | [CVE-2026-100104](https://nvd.nist.gov/vuln/detail/CVE-2026-100104) | Low | 3.5 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.3 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:55 | [CVE-2026-100755](https://nvd.nist.gov/vuln/detail/CVE-2026-100755) | Medium | 4.6 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 16.2 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:56 | [CVE-2026-101168](https://nvd.nist.gov/vuln/detail/CVE-2026-101168) | Medium | 6.2 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 12.0 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:56 | [CVE-2026-103549](https://nvd.nist.gov/vuln/detail/CVE-2026-103549) | Low | 2.7 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.6 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:56 | [CVE-2026-104661](https://nvd.nist.gov/vuln/detail/CVE-2026-104661) | Medium | 4.3 | GitLab has remediated an issue in GitLab EE affecting all versions from 17.0 before 19.2.8, 19.3 before 19.3.5, and 19.… |
+| 2026-10-13 02:16:56 | [CVE-2026-105458](https://nvd.nist.gov/vuln/detail/CVE-2026-105458) | Medium | 4.3 | GitLab has remediated an issue in GitLab EE affecting all versions from 19.1 before 19.2.8, 19.3 before 19.3.5, and 19.… |
+| 2026-10-13 02:16:57 | [CVE-2026-108947](https://nvd.nist.gov/vuln/detail/CVE-2026-108947) | Low | 1.9 | A flaw has been found in yoshitomo-matsubara torchdistill up to 1.1.5. This affects the function load_ckpt of the file… |
+| 2026-10-13 02:16:57 | [CVE-2026-108948](https://nvd.nist.gov/vuln/detail/CVE-2026-108948) | Low | 2.1 | A vulnerability has been found in code-projects Online Reviewer System 1.0. This vulnerability affects unknown code of… |
+| 2026-10-13 02:16:57 | [CVE-2026-108954](https://nvd.nist.gov/vuln/detail/CVE-2026-108954) | Low | 2.1 | A vulnerability was found in k2-fsa sherpa-onnx up to 1.13.8. This issue affects the function OfflineTransducerGreedySe… |
+| 2026-10-13 02:16:57 | [CVE-2026-108955](https://nvd.nist.gov/vuln/detail/CVE-2026-108955) | Low | 1.9 | A vulnerability was determined in Tiiny-AI PowerInfer up to 8bd56d69906c9d2dba4d3bf6899763401e01a9a4. Impacted is the f… |
+| 2026-10-13 02:16:57 | [CVE-2026-108956](https://nvd.nist.gov/vuln/detail/CVE-2026-108956) | Medium | 5.5 | A vulnerability was identified in code-projects Online Reviewer System 1.0. The affected element is an unknown function… |
+| 2026-10-13 02:16:58 | [CVE-2026-14210](https://nvd.nist.gov/vuln/detail/CVE-2026-14210) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.11 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:58 | [CVE-2026-14552](https://nvd.nist.gov/vuln/detail/CVE-2026-14552) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.0 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:58 | [CVE-2026-14814](https://nvd.nist.gov/vuln/detail/CVE-2026-14814) | High | 8.2 | GitLab has remediated an issue in GitLab CE/EE affecting all versions before 19.2.8, 19.3 before 19.3.5, and 19.4 befor… |
+| 2026-10-13 02:16:58 | [CVE-2026-16275](https://nvd.nist.gov/vuln/detail/CVE-2026-16275) | Medium | 5.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.4 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:58 | [CVE-2026-16301](https://nvd.nist.gov/vuln/detail/CVE-2026-16301) | High | 8.5 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.7 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:59 | [CVE-2026-35001](https://nvd.nist.gov/vuln/detail/CVE-2026-35001) | High | 8.4 | OpenS100 through commit daa35b contains an integer overflow vulnerability in the S-102 Bathymetric Surface parser that… |
+| 2026-10-13 02:16:59 | [CVE-2026-5954](https://nvd.nist.gov/vuln/detail/CVE-2026-5954) | Medium | 4.2 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.1 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:59 | [CVE-2026-6567](https://nvd.nist.gov/vuln/detail/CVE-2026-6567) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 13.8 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:59 | [CVE-2026-78335](https://nvd.nist.gov/vuln/detail/CVE-2026-78335) | Medium | 4.2 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.1 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:59 | [CVE-2026-7767](https://nvd.nist.gov/vuln/detail/CVE-2026-7767) | Medium | 5.8 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 13.11 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:16:59 | [CVE-2026-81839](https://nvd.nist.gov/vuln/detail/CVE-2026-81839) | High | 7.7 | GitLab has remediated an issue in GitLab EE affecting all versions from 18.1 before 19.2.8, 19.3 before 19.3.5, and 19.… |
+| 2026-10-13 02:17:00 | [CVE-2026-82632](https://nvd.nist.gov/vuln/detail/CVE-2026-82632) | Low | 3.1 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.9 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:17:00 | [CVE-2026-84284](https://nvd.nist.gov/vuln/detail/CVE-2026-84284) | Medium | 5.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.11 before 19.2.8, all 19.3 versions, and… |
+| 2026-10-13 02:17:00 | [CVE-2026-85529](https://nvd.nist.gov/vuln/detail/CVE-2026-85529) | Medium | 5.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:17:00 | [CVE-2026-92528](https://nvd.nist.gov/vuln/detail/CVE-2026-92528) | Medium | 4.2 | GitLab has remediated an issue in GitLab EE affecting all versions from 16.11 before 19.2.8, 19.3 before 19.3.5, and 19… |
+| 2026-10-13 02:17:00 | [CVE-2026-92883](https://nvd.nist.gov/vuln/detail/CVE-2026-92883) | High | 8.7 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.1 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:17:00 | [CVE-2026-96893](https://nvd.nist.gov/vuln/detail/CVE-2026-96893) | High | 7.3 | GitLab has remediated an issue in GitLab EE affecting all versions from 19.1 before 19.2.8, 19.3 before 19.3.5, and 19.… |
+| 2026-10-13 02:17:00 | [CVE-2026-97229](https://nvd.nist.gov/vuln/detail/CVE-2026-97229) | Critical | 10.0 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and… |
+| 2026-10-13 02:17:00 | [CVE-2026-9268](https://nvd.nist.gov/vuln/detail/CVE-2026-9268) | Low | 2.7 | GitLab has remediated an issue in GitLab EE affecting all versions from 13.6 before 19.2.8, 19.3 before 19.3.5, and 19.… |
 
 ## Data source
 
