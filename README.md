@@ -9,19 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 11:20 UTC
+## Latest list — 2026-10-13 12:18 UTC
 
-New CVEs published between 2026-10-13 10:18 UTC and 2026-10-13 11:20 UTC.
+New CVEs published between 2026-10-13 11:20 UTC and 2026-10-13 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-13T11-20-21-935484Z.csv)
+[Full CSV](data/new-cves-2026-10-13T12-18-36-073876Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-13 11:17:14 | [CVE-2026-109153](https://nvd.nist.gov/vuln/detail/CVE-2026-109153) | Medium | 5.3 | A vulnerability was detected in MosaicML Composer up to 0.32.1. This affects the function tarball.extractall of the fil… |
-| 2026-10-13 11:17:14 | [CVE-2026-109155](https://nvd.nist.gov/vuln/detail/CVE-2026-109155) | Medium | 5.3 | A flaw has been found in DeepPavlov up to 1.7.0. This impacts the function untar of the component Model Download Handle… |
-| 2026-10-13 11:17:14 | [CVE-2026-109156](https://nvd.nist.gov/vuln/detail/CVE-2026-109156) | Medium | 5.3 | A vulnerability has been found in SeldonIO MLServer up to 1.6.1. Affected is the function _extract_env of the file mlse… |
-| 2026-10-13 11:17:14 | [CVE-2026-109157](https://nvd.nist.gov/vuln/detail/CVE-2026-109157) | High | 8.6 | A vulnerability was found in TRENDnet TEW-432BRP 3.10B20. Affected by this vulnerability is the function formTcpipSetup… |
-| 2026-10-13 11:17:15 | [CVE-2026-109160](https://nvd.nist.gov/vuln/detail/CVE-2026-109160) | Low | 2.1 | A vulnerability was determined in PublicCMS up to 5.202608.a. Affected by this issue is the function SafeConfigComponen… |
+| 2026-10-13 12:17:13 | [CVE-2026-109189](https://nvd.nist.gov/vuln/detail/CVE-2026-109189) | Low | 2.1 | A vulnerability was detected in fit2cloud MeterSphere up to 3.6.9-lts. The affected element is the function Swagger3Par… |
+| 2026-10-13 12:17:13 | [CVE-2026-109190](https://nvd.nist.gov/vuln/detail/CVE-2026-109190) | Low | 2.1 | A vulnerability has been found in conductor-oss conductor 3.31.2. This affects the function ListApiToolsTask.start of t… |
+| 2026-10-13 12:17:13 | [CVE-2026-109402](https://nvd.nist.gov/vuln/detail/CVE-2026-109402) | Low | 2.1 | A vulnerability was found in conductor-oss conductor 3.22.0. Affected is the function MCPService.listTools of the file… |
+| 2026-10-13 12:17:14 | [CVE-2026-109832](https://nvd.nist.gov/vuln/detail/CVE-2026-109832) | High | 7.5 | A flaw was found in gnome-remote-desktop as shipped in Red Hat Enterprise Linux. In the VNC TLS I/O handlers, retryable… |
+| 2026-10-13 12:17:14 | [CVE-2026-63316](https://nvd.nist.gov/vuln/detail/CVE-2026-63316) | High | 8.7 | A SQL injection vulnerability has been identified in Payload CMS. Improper neutralization of input provided by user int… |
+| 2026-10-13 12:17:15 | [CVE-2026-89279](https://nvd.nist.gov/vuln/detail/CVE-2026-89279) | Medium | 6.5 | Cross-Site request forgery (CSRF) vulnerability in AuthTake Technology Inc. Authtake allows Encryption Brute Forcing. T… |
+| 2026-10-13 12:17:15 | [CVE-2026-94410](https://nvd.nist.gov/vuln/detail/CVE-2026-94410) | Medium | 5.3 | A low privileged remote attacker is able to view a list of roles that should only be accessible to administrators. This… |
 
 ## Data source
 
