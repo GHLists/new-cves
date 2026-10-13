@@ -9,62 +9,58 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:18 UTC
+## Latest list — 2026-10-13 16:18 UTC
 
-New CVEs published between 2026-10-13 14:19 UTC and 2026-10-13 15:18 UTC.
+New CVEs published between 2026-10-13 15:18 UTC and 2026-10-13 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-13T15-18-33-374504Z.csv)
+[Full CSV](data/new-cves-2026-10-13T16-18-32-443261Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-13 15:17:28 | [CVE-2024-34319](https://nvd.nist.gov/vuln/detail/CVE-2024-34319) |  |  | A Server-Side Request Forgery (SSRF) in the serviceURL parameter of ProPhoenix Law RMS v2022.2403.3.101 allows attacker… |
-| 2026-10-13 15:17:29 | [CVE-2026-102250](https://nvd.nist.gov/vuln/detail/CVE-2026-102250) | High | 8.6 | CWE-345: Insufficient Verification of Data Authenticity vulnerability exists that could allow modified firmware to be u… |
-| 2026-10-13 15:17:30 | [CVE-2026-102342](https://nvd.nist.gov/vuln/detail/CVE-2026-102342) | Medium | 5.4 | ammonia is a Rust library for repairing and securing untrusted HTML. Prior to 3.3.3, 4.0.3, and 4.1.4, applications tha… |
-| 2026-10-13 15:17:30 | [CVE-2026-102603](https://nvd.nist.gov/vuln/detail/CVE-2026-102603) | Medium | 5.3 | Gotify server is a simple server for sending and receiving messages in real-time per WebSocket. Prior to 3.0.0, the pas… |
-| 2026-10-13 15:17:30 | [CVE-2026-103028](https://nvd.nist.gov/vuln/detail/CVE-2026-103028) | Medium | 4.3 | SFTPGo is an open source, event-driven file transfer solution. From 2.5.0 until 2.7.6, an authenticated user with copy… |
-| 2026-10-13 15:17:31 | [CVE-2026-104192](https://nvd.nist.gov/vuln/detail/CVE-2026-104192) | Critical | 9.6 | Dragonfly is an in-memory data store built for modern application workloads. Prior to 1.40, OpaqueObjLoader::CreateStre… |
-| 2026-10-13 15:17:31 | [CVE-2026-106108](https://nvd.nist.gov/vuln/detail/CVE-2026-106108) | Medium | 5.7 | Quasar Framework is a framework for building high-performance Vue.js user interfaces. From 3.1.0 until 3.3.0, @quasar/a… |
-| 2026-10-13 15:17:31 | [CVE-2026-107460](https://nvd.nist.gov/vuln/detail/CVE-2026-107460) |  |  | Server-Side Request Forgery (SSRF) protection in the UrlImageConverter component of Apache Fesod (Incubating) fesod-she… |
-| 2026-10-13 15:17:31 | [CVE-2026-107917](https://nvd.nist.gov/vuln/detail/CVE-2026-107917) | Medium | 4.3 | Insufficient input validation vulnerability in the PPPoE Setup feature of NETGEAR R7300 router allows authenticated adm… |
-| 2026-10-13 15:17:31 | [CVE-2026-107918](https://nvd.nist.gov/vuln/detail/CVE-2026-107918) | Medium | 4.3 | Insufficient input validation vulnerability in the LAN Setup feature of NETGEAR R7300 router allows authenticated admin… |
-| 2026-10-13 15:17:32 | [CVE-2026-108184](https://nvd.nist.gov/vuln/detail/CVE-2026-108184) | High | 7.4 | Improper certificate validation in certain Zoom Clients for Windows may allow an unauthenticated user to conduct an inf… |
-| 2026-10-13 15:17:32 | [CVE-2026-108185](https://nvd.nist.gov/vuln/detail/CVE-2026-108185) | High | 7.4 | Improper certificate validation in the My Notes feature of certain Zoom Clients may allow an unauthenticated user to co… |
-| 2026-10-13 15:17:34 | [CVE-2026-109521](https://nvd.nist.gov/vuln/detail/CVE-2026-109521) | Medium | 5.5 | A vulnerability was detected in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c99… |
-| 2026-10-13 15:17:34 | [CVE-2026-109522](https://nvd.nist.gov/vuln/detail/CVE-2026-109522) | Medium | 5.5 | A vulnerability has been found in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
-| 2026-10-13 15:17:34 | [CVE-2026-109523](https://nvd.nist.gov/vuln/detail/CVE-2026-109523) | Medium | 5.5 | A vulnerability was found in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c999a4… |
-| 2026-10-13 15:17:43 | [CVE-2026-11730](https://nvd.nist.gov/vuln/detail/CVE-2026-11730) | Medium | 4.5 | Insufficient session randomness vulnerability in the listed NETGEAR Extender models allows a network-adjacent attacker… |
-| 2026-10-13 15:17:43 | [CVE-2026-11731](https://nvd.nist.gov/vuln/detail/CVE-2026-11731) | Medium | 6.3 | An authentication bypass vulnerability in the listed NETGEAR RAX series models allows an unauthenticated attacker with… |
-| 2026-10-13 15:17:43 | [CVE-2026-11732](https://nvd.nist.gov/vuln/detail/CVE-2026-11732) | Medium | 6.3 | An insufficient input validation vulnerability in the website blocking feature (Block Sites) of the listed NETGEAR rout… |
-| 2026-10-13 15:17:43 | [CVE-2026-12655](https://nvd.nist.gov/vuln/detail/CVE-2026-12655) | High | 8.8 | A security issue exists within 1732E ArmorBlock® I/O, where an unauthenticated attacker can change the device's webserv… |
-| 2026-10-13 15:17:43 | [CVE-2026-12656](https://nvd.nist.gov/vuln/detail/CVE-2026-12656) | High | 8.7 | A denial-of-service security issue exists in the affected product and version. The security issue stems from improper h… |
-| 2026-10-13 15:17:44 | [CVE-2026-18228](https://nvd.nist.gov/vuln/detail/CVE-2026-18228) | High | 7.1 | HyperScale contained a path traversal issue affecting information disclosure. Software customers upgrade to resolved ma… |
-| 2026-10-13 15:17:44 | [CVE-2026-4869](https://nvd.nist.gov/vuln/detail/CVE-2026-4869) | Medium | 5.4 | A potential privilege escalation issue was identified in InstallShield version 2025 R2 and earlier when running compres… |
-| 2026-10-13 15:17:44 | [CVE-2026-53418](https://nvd.nist.gov/vuln/detail/CVE-2026-53418) | High | 8.1 | Improper Authorization in Handler for Custom URL Scheme in Zoom Workplace for Android before version 7.2.1 may allow an… |
-| 2026-10-13 15:17:44 | [CVE-2026-53420](https://nvd.nist.gov/vuln/detail/CVE-2026-53420) | High | 8.0 | Buffer overflow in a Zoom Phone feature of Zoom Workplace Clients may allow an unauthenticated user to conduct a escala… |
-| 2026-10-13 15:17:44 | [CVE-2026-53709](https://nvd.nist.gov/vuln/detail/CVE-2026-53709) | Critical | 9.8 | MCP Context Forge is an MCP gateway and administrative platform. Prior to 1.0.2, mcpgateway/config.py and .env.example… |
-| 2026-10-13 15:17:45 | [CVE-2026-53711](https://nvd.nist.gov/vuln/detail/CVE-2026-53711) | Medium | 5.1 | MCP Context Forge provides an MCP Admin UI for managing gateway resources. From 0.2.0 until 0.3.1, the Global Prompts f… |
-| 2026-10-13 15:17:46 | [CVE-2026-65197](https://nvd.nist.gov/vuln/detail/CVE-2026-65197) | Low | 3.1 | H3C HDM Family-A verifies the RSA signature of a firmware image against a public key it reads from the mutable file `/c… |
-| 2026-10-13 15:17:46 | [CVE-2026-65198](https://nvd.nist.gov/vuln/detail/CVE-2026-65198) | High | 8.6 | Huawei's openUBMC ships a default SNMPv3 USM key that uses one value for both authentication and privacy. An attacker w… |
-| 2026-10-13 15:17:46 | [CVE-2026-65199](https://nvd.nist.gov/vuln/detail/CVE-2026-65199) | Medium | 5.4 | openUBMC assigns the full privilege set to pseudo-identities representing SNMP callers. An authenticated, but low-privi… |
-| 2026-10-13 15:17:47 | [CVE-2026-65200](https://nvd.nist.gov/vuln/detail/CVE-2026-65200) | Low | 3.5 | The openUBMC device-management process parses PLDM-over-MCTP and NCSI-over-MCTP responses from on-bus devices, and thre… |
-| 2026-10-13 15:17:48 | [CVE-2026-77090](https://nvd.nist.gov/vuln/detail/CVE-2026-77090) | High | 8.7 | CVFS contained an XML external entity (XXE) reference handling issue affecting information dislcosure. Software custome… |
-| 2026-10-13 15:17:49 | [CVE-2026-77093](https://nvd.nist.gov/vuln/detail/CVE-2026-77093) | High | 7.1 | CvFWD contained an integer overflow affecting service availability. Software customers upgrade to resolved maintenance… |
-| 2026-10-13 15:17:49 | [CVE-2026-77094](https://nvd.nist.gov/vuln/detail/CVE-2026-77094) | High | 7.1 | CvFWD contained an out-of-bounds write affecting service availability. Software customers upgrade to resolved maintenan… |
-| 2026-10-13 15:17:49 | [CVE-2026-77095](https://nvd.nist.gov/vuln/detail/CVE-2026-77095) | High | 7.1 | CvFWD contained a null pointer dereference affecting service availability. Software customers upgrade to resolved maint… |
-| 2026-10-13 15:17:49 | [CVE-2026-77096](https://nvd.nist.gov/vuln/detail/CVE-2026-77096) | High | 7.7 | CVFS contained a missing authentication condition affecting command execution. Software customers upgrade to resolved m… |
-| 2026-10-13 15:17:49 | [CVE-2026-77099](https://nvd.nist.gov/vuln/detail/CVE-2026-77099) | Critical | 9.3 | CVFS contained an input validation issue affecting command execution. Software customers upgrade to resolved maintenanc… |
-| 2026-10-13 15:17:49 | [CVE-2026-77100](https://nvd.nist.gov/vuln/detail/CVE-2026-77100) | High | 8.7 | MediaAgent contained a heap-based buffer overflow issue affecting service availability. Software customers upgrade to r… |
-| 2026-10-13 15:17:49 | [CVE-2026-77375](https://nvd.nist.gov/vuln/detail/CVE-2026-77375) | Medium | 6.5 | SFTPGo is an open source, event-driven file transfer solution. Prior to 2.7.5, an authenticated SSH user can send a mal… |
-| 2026-10-13 15:17:51 | [CVE-2026-95114](https://nvd.nist.gov/vuln/detail/CVE-2026-95114) |  |  | libwebsockets contains an out-of-bounds read vulnerability in the LEJP incremental parser in lib/misc/lejp.c. This allo… |
-| 2026-10-13 15:17:51 | [CVE-2026-95115](https://nvd.nist.gov/vuln/detail/CVE-2026-95115) |  |  | Buffer Overflow vulnerability in libwebsockets main 106d542c allows a remote attacker to cause a denial of service via… |
-| 2026-10-13 15:17:51 | [CVE-2026-95117](https://nvd.nist.gov/vuln/detail/CVE-2026-95117) |  |  | Buffer Overflow vulnerability in zserge jsmn jsmn HEAD 25647e6 allows a remote attacker to cause a denial of service vi… |
-| 2026-10-13 15:17:51 | [CVE-2026-95121](https://nvd.nist.gov/vuln/detail/CVE-2026-95121) |  |  | An issue in mp4v2 2.0.0 allows an attacker to execute arbitrary code via the MP4RtpAtom::ReadHntiType() in src/atom_rtp… |
-| 2026-10-13 15:17:51 | [CVE-2026-95122](https://nvd.nist.gov/vuln/detail/CVE-2026-95122) |  |  | mp4v2 2.0.0 contains a NULL pointer dereference vulnerability in MP4File::GenerateTracks() in src/mp4file.cpp. This all… |
-| 2026-10-13 15:17:51 | [CVE-2026-95124](https://nvd.nist.gov/vuln/detail/CVE-2026-95124) |  |  | Buffer Overflow vulnerability in madmurphy libconfini v.1.16.4 allows a remote attacker to cause a denial of service vi… |
-| 2026-10-13 15:17:51 | [CVE-2026-95127](https://nvd.nist.gov/vuln/detail/CVE-2026-95127) |  |  | An issue in libass v.0.17.5 allows a remote attacker to cause a denial of service via the ass_outline_construct() in li… |
-| 2026-10-13 15:17:52 | [CVE-2026-97333](https://nvd.nist.gov/vuln/detail/CVE-2026-97333) | High | 7.1 | QAPI contained a stack-based buffer overflow affecting service availability. Software customers upgrade to resolved mai… |
-| 2026-10-13 15:17:52 | [CVE-2026-97334](https://nvd.nist.gov/vuln/detail/CVE-2026-97334) | High | 8.7 | The network messaging layer contained improper handling of highly compressed data affecting service availability. Softw… |
-| 2026-10-13 15:17:52 | [CVE-2026-9218](https://nvd.nist.gov/vuln/detail/CVE-2026-9218) | Medium | 4.3 | Insufficient input validation vulnerability in time server (NTP) setting of the listed NETGEAR models allows an attacke… |
+| 2026-10-13 16:17:07 | [CVE-2024-34320](https://nvd.nist.gov/vuln/detail/CVE-2024-34320) |  |  | ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain an incorrect access control issue in sensitive API endpoi… |
+| 2026-10-13 16:17:08 | [CVE-2024-34321](https://nvd.nist.gov/vuln/detail/CVE-2024-34321) |  |  | ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via… |
+| 2026-10-13 16:17:08 | [CVE-2024-34323](https://nvd.nist.gov/vuln/detail/CVE-2024-34323) |  |  | ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain an Insecure Direct Object Reference (IDOR) via the usrLog… |
+| 2026-10-13 16:17:08 | [CVE-2024-34324](https://nvd.nist.gov/vuln/detail/CVE-2024-34324) |  |  | An issue in ProPhoenix Law RMS v2022.2403.3.101 allows attackers to execute a session hijacking attack via injecting a… |
+| 2026-10-13 16:17:08 | [CVE-2024-34326](https://nvd.nist.gov/vuln/detail/CVE-2024-34326) |  |  | ProPhoenix Law RMS v2022.2403.3.101 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via… |
+| 2026-10-13 16:17:09 | [CVE-2026-101899](https://nvd.nist.gov/vuln/detail/CVE-2026-101899) | Medium | 6.9 | Axios is a promise-based HTTP client for the browser and Node.js. From 1.15.0 until 1.20.0, Axios shouldBypassProxy tre… |
+| 2026-10-13 16:17:09 | [CVE-2026-102672](https://nvd.nist.gov/vuln/detail/CVE-2026-102672) | Medium | 6.7 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 39.8.1… |
+| 2026-10-13 16:17:09 | [CVE-2026-102699](https://nvd.nist.gov/vuln/detail/CVE-2026-102699) |  |  | [This CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to wh… |
+| 2026-10-13 16:17:09 | [CVE-2026-102700](https://nvd.nist.gov/vuln/detail/CVE-2026-102700) |  |  | With its original introduction, GNTTAB_cache_flush was made available uniformly. XSA-232 (CVE-2017-14318) then covered… |
+| 2026-10-13 16:17:09 | [CVE-2026-102702](https://nvd.nist.gov/vuln/detail/CVE-2026-102702) |  |  | [This CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to wh… |
+| 2026-10-13 16:17:09 | [CVE-2026-102734](https://nvd.nist.gov/vuln/detail/CVE-2026-102734) | Medium | 5.5 | asteval is a Python expression evaluator designed for restricted execution. Prior to 1.0.9, in asteval/astutils.py, the… |
+| 2026-10-13 16:17:09 | [CVE-2026-102832](https://nvd.nist.gov/vuln/detail/CVE-2026-102832) | Medium | 4.2 | JupyterLab is an extensible environment for interactive and reproducible computing, based on the Jupyter Notebook Archi… |
+| 2026-10-13 16:17:10 | [CVE-2026-102981](https://nvd.nist.gov/vuln/detail/CVE-2026-102981) | Medium | 6.5 | Plane is an open-source project management tool. Prior to 1.4.0, self-hosted Plane deployments allow unauthenticated GE… |
+| 2026-10-13 16:17:10 | [CVE-2026-102982](https://nvd.nist.gov/vuln/detail/CVE-2026-102982) | High | 8.5 | Plane is an open-source project management tool. Prior to 1.4.0, the plane comments fail to sanitize unsafe URL schemes… |
+| 2026-10-13 16:17:10 | [CVE-2026-102988](https://nvd.nist.gov/vuln/detail/CVE-2026-102988) | Medium | 5.3 | Plane is an open-source project management tool. Prior to 1.4.0, multiple issue-listing endpoints, including unauthenti… |
+| 2026-10-13 16:17:10 | [CVE-2026-103928](https://nvd.nist.gov/vuln/detail/CVE-2026-103928) | Critical | 9.3 | Metabase is an open source business intelligence and analytics platform. From 1.55.0 until 1.58.16, 1.59.13, 1.60.9, an… |
+| 2026-10-13 16:17:10 | [CVE-2026-103965](https://nvd.nist.gov/vuln/detail/CVE-2026-103965) | Medium | 5.3 | An issue in MongoDB Server's aggregation framework can cause certain constant values to be handled incorrectly during i… |
+| 2026-10-13 16:17:10 | [CVE-2026-104004](https://nvd.nist.gov/vuln/detail/CVE-2026-104004) | High | 7.1 | MongoDB Server's collection validation feature may not properly handle certain expressions stored in a validator. In so… |
+| 2026-10-13 16:17:11 | [CVE-2026-104005](https://nvd.nist.gov/vuln/detail/CVE-2026-104005) | Medium | 5.3 | Incorrect authorization in the write routing component of the MongoDB Server sharded cluster router can cause bulk writ… |
+| 2026-10-13 16:17:11 | [CVE-2026-104935](https://nvd.nist.gov/vuln/detail/CVE-2026-104935) | High | 8.6 | Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenticated attacker to execute ar… |
+| 2026-10-13 16:17:11 | [CVE-2026-105460](https://nvd.nist.gov/vuln/detail/CVE-2026-105460) | Medium | 5.5 | A flaw was found in BlueZ. An out-of-bounds read vulnerability exists in the btmon Bluetooth monitor tool when processi… |
+| 2026-10-13 16:17:17 | [CVE-2026-109524](https://nvd.nist.gov/vuln/detail/CVE-2026-109524) | Medium | 5.5 | A vulnerability was determined in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
+| 2026-10-13 16:17:18 | [CVE-2026-109525](https://nvd.nist.gov/vuln/detail/CVE-2026-109525) | Medium | 5.5 | A vulnerability was identified in girishsaraf Online-Appointment-Booking-System up to f427b4757128ca253d33d0cc4e87bbb9c… |
+| 2026-10-13 16:17:18 | [CVE-2026-109526](https://nvd.nist.gov/vuln/detail/CVE-2026-109526) | Low | 1.9 | A vulnerability has been found in HBAI-Ltd Toonflow-app up to 1.1.8. This affects an unknown function of the component… |
+| 2026-10-13 16:17:18 | [CVE-2026-109605](https://nvd.nist.gov/vuln/detail/CVE-2026-109605) | Medium | 5.5 | A security vulnerability has been detected in SourceCodester Simple Cafe Billing System 1.0. This affects the function… |
+| 2026-10-13 16:17:19 | [CVE-2026-110025](https://nvd.nist.gov/vuln/detail/CVE-2026-110025) | Medium | 6.9 | A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file i… |
+| 2026-10-13 16:17:20 | [CVE-2026-49264](https://nvd.nist.gov/vuln/detail/CVE-2026-49264) | Medium | 6.1 | OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. From 0.6.1 until 4.0.0, OAuthLib's Re… |
+| 2026-10-13 16:17:20 | [CVE-2026-49265](https://nvd.nist.gov/vuln/detail/CVE-2026-49265) | Medium | 6.8 | OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. From 3.0.0 until 4.0.0, OAuthLib's PK… |
+| 2026-10-13 16:17:21 | [CVE-2026-54697](https://nvd.nist.gov/vuln/detail/CVE-2026-54697) | Medium | 6.7 | ConnectBot SSH Client Library is written in Kotlin with Kaitai Struct and KStateMachine. Prior to 0.3.1, DerReader.read… |
+| 2026-10-13 16:17:21 | [CVE-2026-54700](https://nvd.nist.gov/vuln/detail/CVE-2026-54700) | Medium | 6.9 | ConnectBot SSH Client Library is written in Kotlin with Kaitai Struct and KStateMachine. Prior to 0.3.1, the SSH protoc… |
+| 2026-10-13 16:17:21 | [CVE-2026-55376](https://nvd.nist.gov/vuln/detail/CVE-2026-55376) | High | 8.8 | Heym builds and runs agentic systems and business-process automations on self-hosted infrastructure. Prior to 0.0.40, a… |
+| 2026-10-13 16:17:21 | [CVE-2026-55675](https://nvd.nist.gov/vuln/detail/CVE-2026-55675) | Critical | 10.0 | The Salty documentation repository builds and deploys the docs.saltbox.dev website. Prior to commit 649c9aea2daef1168ee… |
+| 2026-10-13 16:17:22 | [CVE-2026-55695](https://nvd.nist.gov/vuln/detail/CVE-2026-55695) | Critical | 9.1 | FearlessCMS is a flat-file content management system centered on simplicity and open source. In 0.1.2b and earlier, an… |
+| 2026-10-13 16:17:22 | [CVE-2026-69150](https://nvd.nist.gov/vuln/detail/CVE-2026-69150) | Medium | 4.3 | KeePassXC is a cross-platform community-driven port of the Windows application KeePass Password Safe. Prior to 2.8.0-be… |
+| 2026-10-13 16:17:22 | [CVE-2026-78802](https://nvd.nist.gov/vuln/detail/CVE-2026-78802) |  |  | An issue in SKYWORTH DIGITAL CO.,LTD SK-WR6640X Wi-Fi 6 Dual-Band Fiber Router (AX1800M) V1.0.3 allows a remote attacke… |
+| 2026-10-13 16:17:22 | [CVE-2026-79607](https://nvd.nist.gov/vuln/detail/CVE-2026-79607) |  |  | During Xenstore live update the state record for a Xenstore watch with specified watch depth is written with two bytes… |
+| 2026-10-13 16:17:23 | [CVE-2026-79608](https://nvd.nist.gov/vuln/detail/CVE-2026-79608) |  |  | The workaround for XSA-433 (Zenbleed, CVE-2023-20593) was later re-worked to better integrate with other manipulations… |
+| 2026-10-13 16:17:23 | [CVE-2026-79609](https://nvd.nist.gov/vuln/detail/CVE-2026-79609) |  |  | XPTI (Xen Page Table Isolation) was introduced to mitigate Meltdown (CVE-2017-5754, one aspect of XSA-254). This involv… |
+| 2026-10-13 16:17:23 | [CVE-2026-79610](https://nvd.nist.gov/vuln/detail/CVE-2026-79610) |  |  | XSA-501 was about issues with v1 -> v2 and v2 -> v1 changes racing certain other grant table operations. Sadly a v2 ->… |
+| 2026-10-13 16:17:23 | [CVE-2026-79611](https://nvd.nist.gov/vuln/detail/CVE-2026-79611) |  |  | For XSA-308 logic was introduced, as VMX VMEntry checks do not like the exact combination of state which occurs when #D… |
+| 2026-10-13 16:17:23 | [CVE-2026-81507](https://nvd.nist.gov/vuln/detail/CVE-2026-81507) | Medium | 6.5 | ESF-IDF is the Espressif Internet of Things (IOT) Development Framework. Prior to 5.2.8, 5.3.6, 5.5.5, 6.0.3, and 6.1-r… |
+| 2026-10-13 16:17:23 | [CVE-2026-88836](https://nvd.nist.gov/vuln/detail/CVE-2026-88836) |  |  | Rejected reason: Red Hat Product Security determined this is not a security vulnerability. BusyBox internal TLS is inte… |
+| 2026-10-13 16:17:24 | [CVE-2026-96297](https://nvd.nist.gov/vuln/detail/CVE-2026-96297) | Medium | 6.0 | Use of freed memory in the aggregation feature of MongoDB Server can cause the server to read data from a memory area a… |
+| 2026-10-13 16:17:24 | [CVE-2026-96299](https://nvd.nist.gov/vuln/detail/CVE-2026-96299) | High | 7.1 | Missing limits on resource use in the match expression evaluator of MongoDB Server can cause the server to consume exce… |
 
 ## Data source
 
