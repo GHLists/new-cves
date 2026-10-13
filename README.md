@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 04:18 UTC
+## Latest list — 2026-10-13 05:18 UTC
 
-New CVEs published between 2026-10-13 03:19 UTC and 2026-10-13 04:18 UTC.
+New CVEs published between 2026-10-13 04:18 UTC and 2026-10-13 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-13T04-18-36-776277Z.csv)
+[Full CSV](data/new-cves-2026-10-13T05-18-36-695333Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-13 04:17:10 | [CVE-2026-108961](https://nvd.nist.gov/vuln/detail/CVE-2026-108961) | Medium | 5.3 | A flaw has been found in PaddlePaddle PaddleX up to 3.7.2. Affected by this vulnerability is the function NormalizeImag… |
-| 2026-10-13 04:17:11 | [CVE-2026-108962](https://nvd.nist.gov/vuln/detail/CVE-2026-108962) | Medium | 5.3 | A vulnerability has been found in storyicon comfyui_segment_anything up to ab6395596399d5048639cdab7e44ec9fae857a93. Af… |
-| 2026-10-13 04:17:11 | [CVE-2026-108964](https://nvd.nist.gov/vuln/detail/CVE-2026-108964) | Medium | 5.5 | A vulnerability was found in SourceCodester Performance Indicator System 1.0. This affects an unknown part of the file… |
-| 2026-10-13 04:17:13 | [CVE-2026-108965](https://nvd.nist.gov/vuln/detail/CVE-2026-108965) | Medium | 5.5 | A vulnerability was determined in SourceCodester Performance Indicator System 1.0. This vulnerability affects unknown c… |
-| 2026-10-13 04:17:14 | [CVE-2026-109758](https://nvd.nist.gov/vuln/detail/CVE-2026-109758) | Critical | 9.3 | Perforce Helix Authentication Service (HAS) deployments that retain the shipped default SCIM bearer token are vulnerabl… |
+| 2026-10-13 05:16:31 | [CVE-2026-108966](https://nvd.nist.gov/vuln/detail/CVE-2026-108966) | Medium | 5.5 | A vulnerability was identified in SourceCodester Performance Indicator System 1.0. This issue affects some unknown proc… |
+| 2026-10-13 05:16:31 | [CVE-2026-108967](https://nvd.nist.gov/vuln/detail/CVE-2026-108967) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Performance Indicator System 1.0. Impacted is an unknown function… |
+| 2026-10-13 05:16:32 | [CVE-2026-108968](https://nvd.nist.gov/vuln/detail/CVE-2026-108968) | Medium | 5.5 | A weakness has been identified in SourceCodester Performance Indicator System 1.0. The affected element is an unknown f… |
 
 ## Data source
 
