@@ -9,33 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 04:20 UTC
+## Latest list — 2026-10-14 05:19 UTC
 
-New CVEs published between 2026-10-14 03:19 UTC and 2026-10-14 04:20 UTC.
+New CVEs published between 2026-10-14 04:20 UTC and 2026-10-14 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-14T04-20-56-437116Z.csv)
+[Full CSV](data/new-cves-2026-10-14T05-19-48-256416Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-14 04:18:03 | [CVE-2026-100153](https://nvd.nist.gov/vuln/detail/CVE-2026-100153) | High | 7.2 | The NewStatPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'QUERY_STRING / REQUEST_URI'… |
-| 2026-10-14 04:18:03 | [CVE-2026-100185](https://nvd.nist.gov/vuln/detail/CVE-2026-100185) | Medium | 6.4 | The Directorist: AI-Powered Business Directory, Listings & Classified Ads plugin for WordPress is vulnerable to Stored… |
-| 2026-10-14 04:18:03 | [CVE-2026-100193](https://nvd.nist.gov/vuln/detail/CVE-2026-100193) | Medium | 4.7 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to Reflected Cross-Site Scripti… |
-| 2026-10-14 04:18:12 | [CVE-2026-104800](https://nvd.nist.gov/vuln/detail/CVE-2026-104800) | Critical | 9.8 | The AGE-GATE plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 1.0 via… |
-| 2026-10-14 04:18:17 | [CVE-2026-110449](https://nvd.nist.gov/vuln/detail/CVE-2026-110449) | High | 7.5 | Nix before 2.35.3 and Lix before 2.95.4 have an integer overflow and resultant out-of-bounds write when evaluating untr… |
-| 2026-10-14 04:18:18 | [CVE-2026-16495](https://nvd.nist.gov/vuln/detail/CVE-2026-16495) | Medium | 6.4 | The Countdown Timer – Widget Countdown plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'redirect_… |
-| 2026-10-14 04:18:36 | [CVE-2026-77114](https://nvd.nist.gov/vuln/detail/CVE-2026-77114) | High | 7.2 | The Document Gallery plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'dg_thumber_webhook' Action… |
-| 2026-10-14 04:18:36 | [CVE-2026-78193](https://nvd.nist.gov/vuln/detail/CVE-2026-78193) | High | 7.5 | The JTL-Connector for WooCommerce plugin for WordPress is vulnerable to time-based SQL Injection via 'product.push' Ide… |
-| 2026-10-14 04:18:38 | [CVE-2026-83592](https://nvd.nist.gov/vuln/detail/CVE-2026-83592) | High | 7.2 | The Contact Form DB for Enfold plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Contact Form Field… |
-| 2026-10-14 04:18:52 | [CVE-2026-87855](https://nvd.nist.gov/vuln/detail/CVE-2026-87855) | Critical | 9.8 | The JTL-Connector for WooCommerce plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, an… |
-| 2026-10-14 04:18:54 | [CVE-2026-93885](https://nvd.nist.gov/vuln/detail/CVE-2026-93885) | High | 7.2 | The Cryptocurrency Donation Box – Bitcoin & Crypto Donations plugin for WordPress is vulnerable to Stored Cross-Site Sc… |
-| 2026-10-14 04:18:55 | [CVE-2026-94377](https://nvd.nist.gov/vuln/detail/CVE-2026-94377) | High | 7.2 | The Verified Reviews (Avis Vérifiés) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'moderat… |
-| 2026-10-14 04:18:56 | [CVE-2026-95807](https://nvd.nist.gov/vuln/detail/CVE-2026-95807) | Medium | 6.4 | The FV Player 8 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'synopsis' Shortcode Attribute in… |
-| 2026-10-14 04:18:56 | [CVE-2026-95808](https://nvd.nist.gov/vuln/detail/CVE-2026-95808) | High | 7.5 | The Form Maker by 10Web – Mobile-Friendly Drag & Drop Contact Form Builder plugin for WordPress is vulnerable to blind… |
-| 2026-10-14 04:18:56 | [CVE-2026-95816](https://nvd.nist.gov/vuln/detail/CVE-2026-95816) | High | 7.2 | The Smart Forms – when you need more than just a contact form plugin for WordPress is vulnerable to Stored Cross-Site S… |
-| 2026-10-14 04:19:01 | [CVE-2026-96661](https://nvd.nist.gov/vuln/detail/CVE-2026-96661) | High | 7.5 | The Gmedia Photo Gallery plugin for WordPress is vulnerable to time-based SQL Injection via the 'gmedia__in' parameter… |
-| 2026-10-14 04:19:04 | [CVE-2026-97020](https://nvd.nist.gov/vuln/detail/CVE-2026-97020) | Medium | 6.4 | The PO/MO Editor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'podata' parameter in all ve… |
-| 2026-10-14 04:19:05 | [CVE-2026-97398](https://nvd.nist.gov/vuln/detail/CVE-2026-97398) | High | 7.2 | The FV Flowplayer Video Player plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'synopsis' Shortco… |
-| 2026-10-14 04:19:05 | [CVE-2026-97471](https://nvd.nist.gov/vuln/detail/CVE-2026-97471) | Medium | 5.3 | The Avada (Fusion) Builder plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to,… |
+| 2026-10-14 05:16:41 | [CVE-2026-101924](https://nvd.nist.gov/vuln/detail/CVE-2026-101924) | High | 7.2 | The NewStatPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting in versions up to, and including, 1.… |
+| 2026-10-14 05:16:42 | [CVE-2026-101926](https://nvd.nist.gov/vuln/detail/CVE-2026-101926) | Medium | 6.5 | The Hyyan WooCommerce Polylang Integration plugin for WordPress is vulnerable to SQL Injection via the 'variation_ids'… |
+| 2026-10-14 05:16:42 | [CVE-2026-103369](https://nvd.nist.gov/vuln/detail/CVE-2026-103369) | Medium | 6.4 | The Social Share Buttons & Analytics Plugin – GetSocial.io plugin for WordPress is vulnerable to Stored Cross-Site Scri… |
+| 2026-10-14 05:16:42 | [CVE-2026-105429](https://nvd.nist.gov/vuln/detail/CVE-2026-105429) | High | 8.9 | Improper neutralization of special elements in the NetBird client SSH configuration manager (client/ssh/config/manager.… |
+| 2026-10-14 05:16:42 | [CVE-2026-106931](https://nvd.nist.gov/vuln/detail/CVE-2026-106931) | High | 8.5 | SiteGuard Server Edition contains an OS command injection vulnerability, which may allow an attacker to execute arbitra… |
+| 2026-10-14 05:16:42 | [CVE-2026-110450](https://nvd.nist.gov/vuln/detail/CVE-2026-110450) | High | 8.0 | Nix before 2.35.3 and Lix before 2.95.4 allow privilege escalation via a repair operation because it could destroy and… |
+| 2026-10-14 05:16:43 | [CVE-2026-110451](https://nvd.nist.gov/vuln/detail/CVE-2026-110451) | Medium | 4.3 | Nix before 2.35.3 and Lix before 2.95.4 on macOS allow a Seatbelt sandbox escape (for an unconfined build) because a ce… |
+| 2026-10-14 05:16:43 | [CVE-2026-110452](https://nvd.nist.gov/vuln/detail/CVE-2026-110452) | Medium | 4.0 | The multi-user installer in Nix before 2.35.3 sets the ownership of store contents to the user (who invoked the install… |
+| 2026-10-14 05:16:43 | [CVE-2026-110453](https://nvd.nist.gov/vuln/detail/CVE-2026-110453) | Medium | 4.3 | Nix before 2.35.3, when unsandboxed on macOS or FreeBSD, incorrectly allows connections made by build users from daemon… |
+| 2026-10-14 05:16:43 | [CVE-2026-110454](https://nvd.nist.gov/vuln/detail/CVE-2026-110454) | Medium | 5.3 | A malicious actor with access to the network could exploit an Improper Access Control vulnerability found in UniFi Prot… |
+| 2026-10-14 05:16:43 | [CVE-2026-110455](https://nvd.nist.gov/vuln/detail/CVE-2026-110455) | High | 8.1 | A malicious actor with access to the network and under certain conditions could exploit an Improper Input Validation vu… |
+| 2026-10-14 05:16:43 | [CVE-2026-110456](https://nvd.nist.gov/vuln/detail/CVE-2026-110456) | Medium | 5.3 | A malicious actor with access to the network and under certain conditions could exploit an Improper Access Control vuln… |
+| 2026-10-14 05:16:44 | [CVE-2026-46449](https://nvd.nist.gov/vuln/detail/CVE-2026-46449) | Medium | 6.7 | The Akamai Guardicore Platform Agent (GPA) before 7.4 for macOS is affected by a local privilege escalation vulnerabili… |
+| 2026-10-14 05:16:44 | [CVE-2026-50215](https://nvd.nist.gov/vuln/detail/CVE-2026-50215) |  |  | A use-after-free exists in the Windows WFP packet-capture driver shipped with Akamai Guardicore Platform Agent (GPA) be… |
 
 ## Data source
 
