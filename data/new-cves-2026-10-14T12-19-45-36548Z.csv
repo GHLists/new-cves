@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-14T12:17:17.837Z,CVE-2026-73797,MEDIUM,5.3,Received,CWE-475,1,A security vulnerability in HPE NonStop TSQLFIL may cause address space corruption when a specific API is called.
+2026-10-14T12:17:17.963Z,CVE-2026-73798,HIGH,8.2,Received,CWE-115,1,A security vulnerability in HPE NonStop DNS 9.2.3 Non Secure Version could cause a Denial of Service.
+2026-10-14T12:17:18.083Z,CVE-2026-76655,HIGH,7.5,Received,CWE-121,1,A security vulnerability in HPE NonStop SNMP Trap Multiplexer may allow remote code execution
+2026-10-14T12:17:18.32Z,CVE-2026-85298,HIGH,7.3,Received,CWE-863,2,An Incorrect Authorization vulnerability in the AuthConfig validation and integration execution runtime in Google Cloud Application Integration versions prior to 2026-08-27 allows an authenticated user to escalate privileges and impersonate a service account in the project. This vulnerability was p…
