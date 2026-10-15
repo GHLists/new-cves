@@ -9,28 +9,56 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 06:19 UTC
+## Latest list — 2026-10-15 07:20 UTC
 
-New CVEs published between 2026-10-15 05:19 UTC and 2026-10-15 06:19 UTC.
+New CVEs published between 2026-10-15 06:19 UTC and 2026-10-15 07:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-15T06-19-39-569191Z.csv)
+[Full CSV](data/new-cves-2026-10-15T07-20-52-469231Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-15 06:17:01 | [CVE-2026-110923](https://nvd.nist.gov/vuln/detail/CVE-2026-110923) | Medium | 6.5 | A flaw was found in OpenSSH. During an sftp copy, a malicious server can supply an empty name, a slash-only path, or a… |
-| 2026-10-15 06:17:01 | [CVE-2026-110925](https://nvd.nist.gov/vuln/detail/CVE-2026-110925) | Medium | 5.4 | A flaw was found in OpenSSH. A username entered on the ssh command line can still contain '$' or a non-trailing backsla… |
-| 2026-10-15 06:17:01 | [CVE-2026-110926](https://nvd.nist.gov/vuln/detail/CVE-2026-110926) | Medium | 5.3 | A flaw was found in OpenSSH. When compression is negotiated, channels on the same connection share one LZ77 dictionary.… |
-| 2026-10-15 06:17:02 | [CVE-2026-15090](https://nvd.nist.gov/vuln/detail/CVE-2026-15090) | High | 7.5 | The Link Library plugin for WordPress is vulnerable to time-based SQL Injection via the 'link_url' parameter in all ver… |
-| 2026-10-15 06:17:02 | [CVE-2026-15180](https://nvd.nist.gov/vuln/detail/CVE-2026-15180) | Medium | 6.1 | The Tracking Code Manager plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via 'TCM_ErrorMessages'… |
-| 2026-10-15 06:17:02 | [CVE-2026-17001](https://nvd.nist.gov/vuln/detail/CVE-2026-17001) | Medium | 6.4 | The Import and export users and customers plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Custom… |
-| 2026-10-15 06:17:02 | [CVE-2026-17031](https://nvd.nist.gov/vuln/detail/CVE-2026-17031) | High | 8.1 | The Checkout Field Manager (Checkout Manager) for WooCommerce plugin for WordPress is vulnerable to authorization bypas… |
-| 2026-10-15 06:17:03 | [CVE-2026-18548](https://nvd.nist.gov/vuln/detail/CVE-2026-18548) | High | 7.2 | The Groundhogg — CRM, Newsletters, and Marketing Automation plugin for WordPress is vulnerable to Stored Cross-Site Scr… |
-| 2026-10-15 06:17:03 | [CVE-2026-18557](https://nvd.nist.gov/vuln/detail/CVE-2026-18557) | Medium | 6.1 | The Photo Gallery by 10Web – Mobile-Friendly Image Gallery plugin for WordPress is vulnerable to Reflected Cross-Site S… |
-| 2026-10-15 06:17:03 | [CVE-2026-18586](https://nvd.nist.gov/vuln/detail/CVE-2026-18586) | High | 7.2 | The Premium Packages – Sell Digital Products Securely plugin for WordPress is vulnerable to Unauthenticated Stored Cros… |
-| 2026-10-15 06:17:04 | [CVE-2026-78001](https://nvd.nist.gov/vuln/detail/CVE-2026-78001) | Medium | 6.4 | The Post and Page Builder by BoldGrid – Visual Drag and Drop Editor plugin for WordPress is vulnerable to Stored Cross-… |
-| 2026-10-15 06:17:04 | [CVE-2026-78087](https://nvd.nist.gov/vuln/detail/CVE-2026-78087) | Medium | 6.4 | The VK Blocks plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Group Block 'linkToPost' Feature in… |
-| 2026-10-15 06:17:05 | [CVE-2026-86803](https://nvd.nist.gov/vuln/detail/CVE-2026-86803) | Medium | 6.5 | The The Ocean Extra plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and incl… |
-| 2026-10-15 06:17:05 | [CVE-2026-88043](https://nvd.nist.gov/vuln/detail/CVE-2026-88043) | High | 7.2 | The Mang Board WP plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'data_type' parameter in al… |
+| 2026-10-15 07:17:55 | [CVE-2025-29895](https://nvd.nist.gov/vuln/detail/CVE-2025-29895) | Low | 0.6 | A NULL pointer dereference vulnerability has been reported to affect Qsync Central. If a remote attacker gains a user a… |
+| 2026-10-15 07:17:55 | [CVE-2025-29896](https://nvd.nist.gov/vuln/detail/CVE-2025-29896) | Low | 0.6 | A NULL pointer dereference vulnerability has been reported to affect Qsync Central. If a remote attacker gains a user a… |
+| 2026-10-15 07:17:56 | [CVE-2025-29897](https://nvd.nist.gov/vuln/detail/CVE-2025-29897) | Low | 0.6 | A buffer copy without checking size of input vulnerability has been reported to affect Qsync Central. If a remote attac… |
+| 2026-10-15 07:17:56 | [CVE-2025-66272](https://nvd.nist.gov/vuln/detail/CVE-2025-66272) | Medium | 5.2 | A path traversal vulnerability has been reported to affect Video Station. If a remote attacker gains a user account, th… |
+| 2026-10-15 07:17:56 | [CVE-2025-66275](https://nvd.nist.gov/vuln/detail/CVE-2025-66275) | Medium | 5.2 | A path traversal vulnerability has been reported to affect Video Station. If a remote attacker gains a user account, th… |
+| 2026-10-15 07:17:57 | [CVE-2025-68404](https://nvd.nist.gov/vuln/detail/CVE-2025-68404) | Medium | 4.8 | A time-of-check time-of-use (toctou) race condition vulnerability has been reported to affect QuRouter. If exploited, t… |
+| 2026-10-15 07:17:57 | [CVE-2026-101302](https://nvd.nist.gov/vuln/detail/CVE-2026-101302) |  |  | TLS 1.3 embeds the actual record type as the last non-zero byte of the decrypted payload, optionally followed by zero p… |
+| 2026-10-15 07:17:57 | [CVE-2026-101303](https://nvd.nist.gov/vuln/detail/CVE-2026-101303) |  |  | The IPv6 UDP send path for unconnected sockets did not apply the jail policy of rewriting a loopback destination addres… |
+| 2026-10-15 07:17:57 | [CVE-2026-101304](https://nvd.nist.gov/vuln/detail/CVE-2026-101304) |  |  | When fdescfs(4) was mounted in a jail with the "nodup" option, opening /dev/fd/N returned a descriptor that did not inh… |
+| 2026-10-15 07:17:57 | [CVE-2026-101305](https://nvd.nist.gov/vuln/detail/CVE-2026-101305) |  |  | renameat(2) did not enforce FD_RESOLVE_BENEATH on its directory arguments. A jailed process could rename a directory re… |
+| 2026-10-15 07:17:57 | [CVE-2026-101306](https://nvd.nist.gov/vuln/detail/CVE-2026-101306) |  |  | SCM_RIGHTS file descriptor passing did not preserve FD_RESOLVE_BENEATH when a descriptor was transferred. A process cou… |
+| 2026-10-15 07:17:57 | [CVE-2026-101307](https://nvd.nist.gov/vuln/detail/CVE-2026-101307) |  |  | When the PCM sample array needs to grow, the RACK stack doubles a 16-bit allocation counter. Repeated doublings caused… |
+| 2026-10-15 07:17:57 | [CVE-2025-68403](https://nvd.nist.gov/vuln/detail/CVE-2025-68403) | Low | 1.0 | An external control of system or configuration setting vulnerability has been reported to affect QuRouter. If a local a… |
+| 2026-10-15 07:17:58 | [CVE-2026-101308](https://nvd.nist.gov/vuln/detail/CVE-2026-101308) |  |  | When an audio channel's buffer needs to be resized, the sound(4) driver checks that the buffer is not memory-mapped and… |
+| 2026-10-15 07:17:58 | [CVE-2026-103304](https://nvd.nist.gov/vuln/detail/CVE-2026-103304) |  |  | The eaSYNC Booking WordPress plugin before 1.3.31 does not perform authorization or nonce checks on several of its canc… |
+| 2026-10-15 07:17:58 | [CVE-2026-103324](https://nvd.nist.gov/vuln/detail/CVE-2026-103324) | Medium | 5.3 | The Cardinity Payment Gateway for WooCommerce WordPress plugin before 3.4.2 does not properly verify the authenticity o… |
+| 2026-10-15 07:17:58 | [CVE-2026-104643](https://nvd.nist.gov/vuln/detail/CVE-2026-104643) |  |  | The Easy HTTPS Redirection (SSL) WordPress plugin before 2.0.2 does not perform capability checks in some of its AJAX a… |
+| 2026-10-15 07:17:58 | [CVE-2026-106031](https://nvd.nist.gov/vuln/detail/CVE-2026-106031) |  |  | The Spin Wheel WordPress plugin before 2.2.1 does not verify that a visitor actually performed a legitimate spin before… |
+| 2026-10-15 07:17:58 | [CVE-2026-109145](https://nvd.nist.gov/vuln/detail/CVE-2026-109145) |  |  | The User Rights Access Manager WordPress plugin through 1.1.3 does not restrict access to one of its AJAX account-regis… |
+| 2026-10-15 07:17:58 | [CVE-2026-110933](https://nvd.nist.gov/vuln/detail/CVE-2026-110933) | Medium | 4.4 | Uncaught exception vulnerability in Samsung Open Source Vyond allows Input Data Manipulation. This issue affects Vyond:… |
+| 2026-10-15 07:17:58 | [CVE-2026-110934](https://nvd.nist.gov/vuln/detail/CVE-2026-110934) | Medium | 4.4 | Improper validation of array index vulnerability in Samsung Open Source Vyond allows Input Data Manipulation. This issu… |
+| 2026-10-15 07:17:58 | [CVE-2026-11905](https://nvd.nist.gov/vuln/detail/CVE-2026-11905) | Medium | 4.3 | The Elementor Website Builder – more than just a page builder plugin for WordPress is vulnerable to Sensitive Informati… |
+| 2026-10-15 07:17:59 | [CVE-2026-19377](https://nvd.nist.gov/vuln/detail/CVE-2026-19377) | Medium | 6.0 | Improper certificate validation in the tunnel handshake in Cato Client allows a man-in-the-middle attacker to impersona… |
+| 2026-10-15 07:17:59 | [CVE-2026-22896](https://nvd.nist.gov/vuln/detail/CVE-2026-22896) | Low | 2.2 | A cross-site scripting (XSS) vulnerability has been reported to affect Network & Virtual Switch. If a remote attacker g… |
+| 2026-10-15 07:17:59 | [CVE-2026-24715](https://nvd.nist.gov/vuln/detail/CVE-2026-24715) | Low | 1.3 | An observable timing discrepancy vulnerability has been reported to affect QuRouter. If exploited, the vulnerability co… |
+| 2026-10-15 07:17:59 | [CVE-2026-24718](https://nvd.nist.gov/vuln/detail/CVE-2026-24718) | Low | 1.3 | A path traversal vulnerability has been reported to affect Qsync Central. If a remote attacker gains a user account, th… |
+| 2026-10-15 07:17:59 | [CVE-2026-24721](https://nvd.nist.gov/vuln/detail/CVE-2026-24721) | Low | 1.3 | A NULL pointer dereference vulnerability has been reported to affect File Station 5. If a remote attacker gains a user… |
+| 2026-10-15 07:17:59 | [CVE-2026-24722](https://nvd.nist.gov/vuln/detail/CVE-2026-24722) | Low | 1.3 | A NULL pointer dereference vulnerability has been reported to affect File Station 5. If a remote attacker gains a user… |
+| 2026-10-15 07:18:00 | [CVE-2026-24723](https://nvd.nist.gov/vuln/detail/CVE-2026-24723) | Low | 1.3 | A NULL pointer dereference vulnerability has been reported to affect File Station 5. If a remote attacker gains a user… |
+| 2026-10-15 07:18:00 | [CVE-2026-39993](https://nvd.nist.gov/vuln/detail/CVE-2026-39993) | Medium | 6.3 | A relative path traversal vulnerability has been reported to affect Download Station. If a remote attacker gains a user… |
+| 2026-10-15 07:18:00 | [CVE-2026-41544](https://nvd.nist.gov/vuln/detail/CVE-2026-41544) | Medium | 6.3 | A path traversal vulnerability has been reported to affect QcalAgent. If a remote attacker gains a user account, they c… |
+| 2026-10-15 07:18:02 | [CVE-2026-58098](https://nvd.nist.gov/vuln/detail/CVE-2026-58098) |  |  | When semop(2) blocks waiting for a semaphore condition, it releases the per-set lock and sleeps. Upon waking, it checks… |
+| 2026-10-15 07:18:02 | [CVE-2026-58099](https://nvd.nist.gov/vuln/detail/CVE-2026-58099) |  |  | When copying knotes from a parent kqueue to a child, the copy code did not correctly exclude marker knotes (used intern… |
+| 2026-10-15 07:18:02 | [CVE-2026-58100](https://nvd.nist.gov/vuln/detail/CVE-2026-58100) |  |  | kqueue_fork_copy_knote() indexed into the child's file descriptor table using a knote's file descriptor number without… |
+| 2026-10-15 07:18:02 | [CVE-2026-74920](https://nvd.nist.gov/vuln/detail/CVE-2026-74920) |  |  | The Document Gallery WordPress plugin through 5.1.1 does not properly sanitise and escape user input before reflecting… |
+| 2026-10-15 07:18:02 | [CVE-2026-76668](https://nvd.nist.gov/vuln/detail/CVE-2026-76668) | Medium | 6.3 | A security vulnerability in HPE NonStop Kernel may allow user space access to privileged or unmapped data. |
+| 2026-10-15 07:18:02 | [CVE-2026-79821](https://nvd.nist.gov/vuln/detail/CVE-2026-79821) | High | 8.2 | A security vulnerability in HPE NonStop SOAP 4.0 may cause memory corruption resulting in a system down. |
+| 2026-10-15 07:18:02 | [CVE-2026-79822](https://nvd.nist.gov/vuln/detail/CVE-2026-79822) | High | 7.1 | A security vulnerability in HPE NonStop TNS/X Native Inspect may cause corruption of address and potentially redirect e… |
+| 2026-10-15 07:18:03 | [CVE-2026-81534](https://nvd.nist.gov/vuln/detail/CVE-2026-81534) | High | 8.8 | The Email Customizer for WooCommerce (Pro) plugin for WordPress is vulnerable to Remote Code Execution in versions up t… |
+| 2026-10-15 07:18:03 | [CVE-2026-92428](https://nvd.nist.gov/vuln/detail/CVE-2026-92428) | Medium | 5.3 | The Rede Itaú for WooCommerce WordPress plugin before 5.5.3 does not verify the authenticity of a payment gateway webho… |
+| 2026-10-15 07:18:03 | [CVE-2026-92429](https://nvd.nist.gov/vuln/detail/CVE-2026-92429) | Medium | 5.3 | The Rede Itaú for WooCommerce WordPress plugin before 5.5.3 does not verify the authenticity of a payment gateway webho… |
+| 2026-10-15 07:18:03 | [CVE-2026-96537](https://nvd.nist.gov/vuln/detail/CVE-2026-96537) |  |  | The Tutor LMS WordPress plugin before 4.1.1 does not perform a capability check in a routine that regenerates its manag… |
 
 ## Data source
 
