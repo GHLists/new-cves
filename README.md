@@ -9,32 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 13:22 UTC
+## Latest list — 2026-10-15 14:19 UTC
 
-New CVEs published between 2026-10-15 12:19 UTC and 2026-10-15 13:22 UTC.
+New CVEs published between 2026-10-15 13:22 UTC and 2026-10-15 14:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-15T13-22-26-873837Z.csv)
+[Full CSV](data/new-cves-2026-10-15T14-19-37-437441Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-15 13:17:10 | [CVE-2026-102389](https://nvd.nist.gov/vuln/detail/CVE-2026-102389) | Medium | 6.5 | Improper Control of Generation of Code ('Code Injection') vulnerability in WPMU DEV Broken Link Checker broken-link-che… |
-| 2026-10-15 13:17:10 | [CVE-2026-104025](https://nvd.nist.gov/vuln/detail/CVE-2026-104025) | High | 8.4 | Path Traversal (CWE-22) in the execute_obj function of the archive object viewer (peach.pas) in PeaZip 11.2.0 and earli… |
-| 2026-10-15 13:17:10 | [CVE-2026-105882](https://nvd.nist.gov/vuln/detail/CVE-2026-105882) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ThemeGrill User R… |
-| 2026-10-15 13:17:10 | [CVE-2026-107416](https://nvd.nist.gov/vuln/detail/CVE-2026-107416) | High | 7.5 | Authorization Bypass Through User-Controlled Key vulnerability in Webba Plugins Webba Booking webba-booking-lite allows… |
-| 2026-10-15 13:17:11 | [CVE-2026-109685](https://nvd.nist.gov/vuln/detail/CVE-2026-109685) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Link Whisper INC… |
-| 2026-10-15 13:17:11 | [CVE-2026-109686](https://nvd.nist.gov/vuln/detail/CVE-2026-109686) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in Link Whisper INC Link Whisper Free link-whisper allows Object Inject… |
-| 2026-10-15 13:17:11 | [CVE-2026-109688](https://nvd.nist.gov/vuln/detail/CVE-2026-109688) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Link Whisper INC… |
-| 2026-10-15 13:17:12 | [CVE-2026-109692](https://nvd.nist.gov/vuln/detail/CVE-2026-109692) | High | 7.1 | Missing Authorization vulnerability in ThemeGrill User Registration user-registration allows Exploiting Incorrectly Con… |
-| 2026-10-15 13:17:12 | [CVE-2026-109693](https://nvd.nist.gov/vuln/detail/CVE-2026-109693) | High | 8.8 | Incorrect Privilege Assignment vulnerability in WP ManageNinja LLC Fluent CRM fluent-crm allows Privilege Escalation.Th… |
-| 2026-10-15 13:17:12 | [CVE-2026-109698](https://nvd.nist.gov/vuln/detail/CVE-2026-109698) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Kitae Park Mang B… |
-| 2026-10-15 13:17:12 | [CVE-2026-109702](https://nvd.nist.gov/vuln/detail/CVE-2026-109702) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in maxfoundry Social… |
-| 2026-10-15 13:17:12 | [CVE-2026-109892](https://nvd.nist.gov/vuln/detail/CVE-2026-109892) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in Shabti Kaplan Frontend Admin by DynamiApps acf-frontend-form-element al… |
-| 2026-10-15 13:17:12 | [CVE-2026-110723](https://nvd.nist.gov/vuln/detail/CVE-2026-110723) |  |  | In `api-gateway` versions till `1.7.3`, The default rate-limit key resolver, `ClientIpKeyResolver`, derives the per-cli… |
-| 2026-10-15 13:17:12 | [CVE-2026-110724](https://nvd.nist.gov/vuln/detail/CVE-2026-110724) |  |  | In `api-gateway` versions till `1.7.3`, The default rate-limit key resolver, `ClientIpKeyResolver`, derives the per-cli… |
-| 2026-10-15 13:17:13 | [CVE-2026-79837](https://nvd.nist.gov/vuln/detail/CVE-2026-79837) | High | 7.3 | A vulnerability in HPE NonStop SQL/MX UDR SERVER may allow a crafted message to cause process termination, service disr… |
-| 2026-10-15 13:17:13 | [CVE-2026-88794](https://nvd.nist.gov/vuln/detail/CVE-2026-88794) | High | 8.2 | Enterprise Architect is vulnerable to XML External Entity (XXE) injection in the XSLT Debugger feature. When a user loa… |
-| 2026-10-15 13:17:13 | [CVE-2026-98432](https://nvd.nist.gov/vuln/detail/CVE-2026-98432) |  |  | In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace… |
-| 2026-10-15 13:17:14 | [CVE-2026-99999](https://nvd.nist.gov/vuln/detail/CVE-2026-99999) | Critical | 9.3 | In the Linux kernel, the following vulnerability has been resolved: ipv4: validate checksum_start before completing che… |
+| 2026-10-15 14:17:13 | [CVE-2026-104024](https://nvd.nist.gov/vuln/detail/CVE-2026-104024) | Medium | 4.6 | Incomplete List of Disallowed Inputs (CWE-184) in the dangerous-extension confirmation of the archive object viewer (pe… |
+| 2026-10-15 14:17:14 | [CVE-2026-106147](https://nvd.nist.gov/vuln/detail/CVE-2026-106147) | Medium | 5.4 | In Progress® Kendo® UI for jQuery releases starting with R1 2020 and prior to 2026.3.1015, the ListBox default item tem… |
+| 2026-10-15 14:17:14 | [CVE-2026-106148](https://nvd.nist.gov/vuln/detail/CVE-2026-106148) | Medium | 5.4 | In Progress® Kendo® UI for jQuery prior to 2026.3.1015, the TabStrip, Menu, and PanelBar components insert data source… |
+| 2026-10-15 14:17:14 | [CVE-2026-106157](https://nvd.nist.gov/vuln/detail/CVE-2026-106157) | Medium | 4.7 | In Progress® Kendo® UI for jQuery versions starting with 2019.2.514 and prior to 2026.3.1015, the PanelBar component in… |
+| 2026-10-15 14:17:14 | [CVE-2026-106158](https://nvd.nist.gov/vuln/detail/CVE-2026-106158) | Medium | 4.7 | In Progress® Kendo® UI for jQuery, in v2026.3.811 and earlier, the Scheduler Day, Timeline, Month, and Agenda views ins… |
+| 2026-10-15 14:17:14 | [CVE-2026-106159](https://nvd.nist.gov/vuln/detail/CVE-2026-106159) | Medium | 4.7 | In Progress® Kendo® UI for jQuery versions starting with 2022.3.1109 and prior to 2026.3.1015, ToolBar ButtonGroup butt… |
+| 2026-10-15 14:17:14 | [CVE-2026-106160](https://nvd.nist.gov/vuln/detail/CVE-2026-106160) | Medium | 5.4 | In Progress® Kendo® UI for jQuery prior to 2026.3.1015, Model.accept passes server-response keys to kendo.setter withou… |
+| 2026-10-15 14:17:14 | [CVE-2026-106161](https://nvd.nist.gov/vuln/detail/CVE-2026-106161) | Medium | 5.4 | In Progress® Kendo® UI for jQuery releases starting with v2020.1.114 and prior to 2026.3.1015, the Badge text method re… |
+| 2026-10-15 14:17:14 | [CVE-2026-106162](https://nvd.nist.gov/vuln/detail/CVE-2026-106162) | Medium | 4.7 | In Progress® Kendo® UI for jQuery versions starting with 2023.3.1010 and prior to 2026.3.1015, the FileManager componen… |
+| 2026-10-15 14:17:15 | [CVE-2026-106163](https://nvd.nist.gov/vuln/detail/CVE-2026-106163) | Medium | 6.5 | In Progress® Kendo® UI for jQuery versions starting with v2023.1.117 and prior to v2026.3.1015, the FileBrowser and Ima… |
+| 2026-10-15 14:17:22 | [CVE-2026-110924](https://nvd.nist.gov/vuln/detail/CVE-2026-110924) | Medium | 4.8 | A flaw was found in OpenSSH. With GSSAPI authentication enabled, a failed GSSAPI attempt can leave delegated credential… |
+| 2026-10-15 14:17:22 | [CVE-2026-110927](https://nvd.nist.gov/vuln/detail/CVE-2026-110927) | Medium | 4.3 | A flaw was found in OpenSSH. After compression is negotiated, a compressed payload can expand past the maximum supporte… |
+| 2026-10-15 14:17:30 | [CVE-2026-93649](https://nvd.nist.gov/vuln/detail/CVE-2026-93649) |  |  | In the Eclipse Adoptium website (adoptium.net), in every deployment built from commit 0b24ea1 (2025-06-18) up to the fi… |
 
 ## Data source
 
