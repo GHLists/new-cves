@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-15T22:18:06.893Z,CVE-2024-58397,MEDIUM,6.9,Received,CWE-125,5,"MP4v2 through 2.1.3 contains a heap-based out-of-bounds read in MP4File::GetChapters() that allows attackers to read past heap allocations via crafted QuickTime chapter samples. Attackers can supply an MP4 file whose chapter sample is shorter than its declared title length, crashing applications li…"
