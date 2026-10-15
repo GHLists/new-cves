@@ -9,24 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:20 UTC
+## Latest list — 2026-10-15 12:19 UTC
 
-New CVEs published between 2026-10-15 10:21 UTC and 2026-10-15 11:20 UTC.
+New CVEs published between 2026-10-15 11:20 UTC and 2026-10-15 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-15T11-20-24-03048Z.csv)
+[Full CSV](data/new-cves-2026-10-15T12-19-40-099997Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-15 11:17:19 | [CVE-2026-108491](https://nvd.nist.gov/vuln/detail/CVE-2026-108491) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Everest Forms Eve… |
-| 2026-10-15 11:17:19 | [CVE-2026-108497](https://nvd.nist.gov/vuln/detail/CVE-2026-108497) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TMS Amelia amelia… |
-| 2026-10-15 11:17:19 | [CVE-2026-108498](https://nvd.nist.gov/vuln/detail/CVE-2026-108498) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bannersky BSK PDF… |
-| 2026-10-15 11:17:24 | [CVE-2026-109694](https://nvd.nist.gov/vuln/detail/CVE-2026-109694) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in WP ManageNinja LLC Fluent CRM fluent-crm allows Privilege Escalation.Th… |
-| 2026-10-15 11:17:27 | [CVE-2026-109695](https://nvd.nist.gov/vuln/detail/CVE-2026-109695) | High | 7.5 | Insertion of Sensitive Information Into Sent Data vulnerability in WPManageNinja FluentCart fluent-cart allows Retrieve… |
-| 2026-10-15 11:17:28 | [CVE-2026-17525](https://nvd.nist.gov/vuln/detail/CVE-2026-17525) | Medium | 5.1 | Incomplete cleanup vulnerability in ABB My Control System. This issue affects My Control System: 26.4 and 26.5. |
-| 2026-10-15 11:17:50 | [CVE-2026-79830](https://nvd.nist.gov/vuln/detail/CVE-2026-79830) | Medium | 6.6 | A vulnerability in HPE NonStop Kernel Level Thread Model Lib can cause stack buffer overflow which can allow arbitrary… |
-| 2026-10-15 11:17:50 | [CVE-2026-79831](https://nvd.nist.gov/vuln/detail/CVE-2026-79831) | Medium | 6.6 | A heap buffer overflow in HPE NonStop Posix User Threads may allow arbitrary code execution. |
-| 2026-10-15 11:17:50 | [CVE-2026-79832](https://nvd.nist.gov/vuln/detail/CVE-2026-79832) | High | 7.6 | A stack buffer overflow vulnerability in HPE NonStop SQL/MX Executor may potentially result in information disclosure o… |
-| 2026-10-15 11:17:50 | [CVE-2026-79833](https://nvd.nist.gov/vuln/detail/CVE-2026-79833) | High | 7.5 | A vulnerability in HPE NonStop ANSI SQLUTIL may allow a remote unauthenticated actor to cause an affected service to te… |
+| 2026-10-15 12:16:37 | [CVE-2026-110726](https://nvd.nist.gov/vuln/detail/CVE-2026-110726) |  |  | In `api-gateway` versions till `1.7.3`, The default rate-limit key resolver, `ClientIpKeyResolver`, derives the per-cli… |
+| 2026-10-15 12:16:39 | [CVE-2026-79834](https://nvd.nist.gov/vuln/detail/CVE-2026-79834) | High | 7.4 | A security vulnerability in HPE NonStop SQL/MX SQLCAT may allow an unauthenticated user to perform unauthorized command… |
+| 2026-10-15 12:16:39 | [CVE-2026-79835](https://nvd.nist.gov/vuln/detail/CVE-2026-79835) | Low | 2.8 | A crafted input message can cause a buffer overflow in HPE Nonstop KMS Server. |
+| 2026-10-15 12:16:39 | [CVE-2026-79836](https://nvd.nist.gov/vuln/detail/CVE-2026-79836) | Medium | 6.4 | A vulnerability HPE NonStop SQL/MX Run-Time Statistics may allow an attacker to cause memory corruption and null pointe… |
+| 2026-10-15 12:16:39 | [CVE-2026-8145](https://nvd.nist.gov/vuln/detail/CVE-2026-8145) | Medium | 5.4 | The WholesaleX – B2B & Wholesale Plugin for WooCommerce with Wholesale Prices plugin for WordPress is vulnerable to Lim… |
 
 ## Data source
 
