@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-16T11:17:00.793Z,CVE-2026-109118,MEDIUM,4.6,Received,CWE-22,5,"Improper path containment check in ikus060 rdiffweb 7.1.1 allows an authenticated user to cause the browse, restore, history and delete operations to resolve to a path outside the repository being operated on, via a percent-encoded traversal sequence (%2e%2e) in the request path, because the contai…"
+2026-10-16T11:17:00.927Z,CVE-2026-109119,HIGH,8.8,Received,CWE-862,3,Improper Privilege Management in the user management API endpoint (/api/users/{username_or_id}) in Rdiffweb allows authenticated users to elevate their privileges to administrator by modifying the role parameter in a POST request.
