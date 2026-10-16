@@ -9,38 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:19 UTC
+## Latest list — 2026-10-16 04:19 UTC
 
-New CVEs published between 2026-10-16 02:19 UTC and 2026-10-16 03:19 UTC.
+New CVEs published between 2026-10-16 03:19 UTC and 2026-10-16 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T03-19-24-89665Z.csv)
+[Full CSV](data/new-cves-2026-10-16T04-19-46-617524Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 03:17:58 | [CVE-2026-105227](https://nvd.nist.gov/vuln/detail/CVE-2026-105227) | High | 7.0 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of Delta ISPSoft. |
-| 2026-10-16 03:17:58 | [CVE-2026-105228](https://nvd.nist.gov/vuln/detail/CVE-2026-105228) | High | 7.0 | This vulnerability allows remote attackers to disclose sensitive information on affected installations of Delta ISPSoft. |
-| 2026-10-16 03:17:58 | [CVE-2026-100159](https://nvd.nist.gov/vuln/detail/CVE-2026-100159) | Medium | 4.8 | The Popup Box plugin for WordPress is vulnerable to Arbitrary Shortcode Execution in versions 6.4.1 to 6.4.2. This is d… |
-| 2026-10-16 03:18:02 | [CVE-2026-109812](https://nvd.nist.gov/vuln/detail/CVE-2026-109812) | Medium | 6.9 | A missing authorization vulnerability exists in the internal API `/api/v1/secrets/` of some of Moxa's industrial comput… |
-| 2026-10-16 03:18:02 | [CVE-2026-109813](https://nvd.nist.gov/vuln/detail/CVE-2026-109813) | High | 8.6 | A hard-coded cryptographic key vulnerability exists in the `/usr/bin/sysman` of some of Moxa's industrial computing pro… |
-| 2026-10-16 03:18:03 | [CVE-2026-111212](https://nvd.nist.gov/vuln/detail/CVE-2026-111212) | Low | 0.9 | A security flaw has been discovered in ImprintLab Medical-SAM-Adapter 0.1.0-alpha/0.1.0. Affected by this issue is the… |
-| 2026-10-16 03:18:03 | [CVE-2026-111237](https://nvd.nist.gov/vuln/detail/CVE-2026-111237) | Medium | 4.8 | A weakness has been identified in Ultralytics FastSAM up to b4ed20c2fed75eadc5aa7d8b09fedd137b873b52. This affects the… |
-| 2026-10-16 03:18:04 | [CVE-2026-111373](https://nvd.nist.gov/vuln/detail/CVE-2026-111373) | Medium | 6.9 | FreeRDP before 3.32.0 contains a NULL pointer dereference vulnerability in the websocket transport that allows a malici… |
-| 2026-10-16 03:18:04 | [CVE-2026-111374](https://nvd.nist.gov/vuln/detail/CVE-2026-111374) | Medium | 6.0 | FreeRDP from 3.30.0 before 3.32.0 contains a resource exhaustion vulnerability in the rdpecam client that lets maliciou… |
-| 2026-10-16 03:18:04 | [CVE-2026-111375](https://nvd.nist.gov/vuln/detail/CVE-2026-111375) | Medium | 6.3 | FreeRDP from 3.0.0 before 3.32.0 contains an out-of-bounds read vulnerability in the Windows RAIL client that allows ma… |
-| 2026-10-16 03:18:04 | [CVE-2026-111376](https://nvd.nist.gov/vuln/detail/CVE-2026-111376) | Low | 2.3 | FreeRDP from 3.30.0 before 3.32.0 contains a heap out-of-bounds read vulnerability in the Windows client's CliprdrStrea… |
-| 2026-10-16 03:18:04 | [CVE-2026-111377](https://nvd.nist.gov/vuln/detail/CVE-2026-111377) | High | 7.1 | FreeRDP from 2.0.0 before 3.32.0 contains an unbounded reassembly vulnerability in WTSProcessChannelData that fails to… |
-| 2026-10-16 03:18:04 | [CVE-2026-111378](https://nvd.nist.gov/vuln/detail/CVE-2026-111378) | High | 8.7 | FreeRDP from 3.0.0 before 3.32.0 contains an uncontrolled resource consumption vulnerability in parse_nla_mode_pdu that… |
-| 2026-10-16 03:18:04 | [CVE-2026-111379](https://nvd.nist.gov/vuln/detail/CVE-2026-111379) | High | 7.0 | FreeRDP before 3.32.0 contains a heap buffer overflow vulnerability in persistent_cache_read_entry_v3 that allows local… |
-| 2026-10-16 03:18:05 | [CVE-2026-111380](https://nvd.nist.gov/vuln/detail/CVE-2026-111380) | High | 8.7 | FreeRDP from 3.29.0 before 3.32.0 contains an integer overflow in the Apple audin backends (audin_mac.m, audin_ios.m),… |
-| 2026-10-16 03:18:05 | [CVE-2026-111381](https://nvd.nist.gov/vuln/detail/CVE-2026-111381) | High | 7.0 | FreeRDP before 3.32.0 contains a heap buffer overflow vulnerability in persistent_cache_read_entry_v2 that allows local… |
-| 2026-10-16 03:18:05 | [CVE-2026-111382](https://nvd.nist.gov/vuln/detail/CVE-2026-111382) | High | 8.7 | FreeRDP before 3.32.0 contains a client-side heap out-of-bounds write vulnerability in general_LumaToYUV444 and general… |
-| 2026-10-16 03:18:05 | [CVE-2026-111383](https://nvd.nist.gov/vuln/detail/CVE-2026-111383) | High | 7.1 | Nezha from 2.0.13 before 2.3.15 contains a resource exhaustion vulnerability that allows authenticated users to open un… |
-| 2026-10-16 03:18:05 | [CVE-2026-111384](https://nvd.nist.gov/vuln/detail/CVE-2026-111384) | High | 7.1 | Nezha 1.0.0 before 2.3.15 contains a memory exhaustion vulnerability in the dashboard file manager WebSocket endpoint b… |
-| 2026-10-16 03:18:05 | [CVE-2026-111385](https://nvd.nist.gov/vuln/detail/CVE-2026-111385) | Medium | 6.3 | Nezha from 2.1.0 before 2.3.15 contains a host header injection vulnerability in mintTransferTool that builds fs.downlo… |
-| 2026-10-16 03:18:06 | [CVE-2026-111386](https://nvd.nist.gov/vuln/detail/CVE-2026-111386) | Medium | 5.3 | Nezha from 1.7.0 before 2.3.15 contains an information disclosure vulnerability that allows authenticated members to en… |
-| 2026-10-16 03:18:06 | [CVE-2026-111387](https://nvd.nist.gov/vuln/detail/CVE-2026-111387) | High | 7.1 | Nezha from 2.2.5 before 2.3.15 contains an information disclosure vulnerability that allows authenticated users to retr… |
-| 2026-10-16 03:18:06 | [CVE-2026-111388](https://nvd.nist.gov/vuln/detail/CVE-2026-111388) | Medium | 5.3 | Frappe Framework before 15.120.0 and 16.x before 16.33.0 does not enforce the per-user restrict_ip allowlist for non-se… |
-| 2026-10-16 03:18:06 | [CVE-2026-111389](https://nvd.nist.gov/vuln/detail/CVE-2026-111389) | High | 8.3 | Frappe HRMS 14.x before 14.38.2, 15.x before 15.64.0, and 16.x before 16.18.0 contains a SQL injection vulnerability in… |
+| 2026-10-16 04:18:21 | [CVE-2026-103518](https://nvd.nist.gov/vuln/detail/CVE-2026-103518) | Medium | 4.9 | The FluentCart A New Era of eCommerce – Faster, Lighter, and Simpler plugin for WordPress is vulnerable to generic SQL… |
+| 2026-10-16 04:18:21 | [CVE-2026-104745](https://nvd.nist.gov/vuln/detail/CVE-2026-104745) | High | 8.1 | The Customer Email Verification for WooCommerce plugin for WordPress is vulnerable to Privilege Escalation via the `alg… |
+| 2026-10-16 04:18:23 | [CVE-2026-104769](https://nvd.nist.gov/vuln/detail/CVE-2026-104769) | Medium | 5.9 | The Debloat – Remove Unused CSS, Optimize JS plugin for WordPress is vulnerable to Directory Traversal in all versions… |
+| 2026-10-16 04:18:24 | [CVE-2026-107758](https://nvd.nist.gov/vuln/detail/CVE-2026-107758) | High | 7.2 | The Colibri Page Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'comment' parameter… |
+| 2026-10-16 04:18:26 | [CVE-2026-109207](https://nvd.nist.gov/vuln/detail/CVE-2026-109207) | High | 7.2 | The RSS Aggregator by Feedzy – Feed to Post, Autoblogging, News & YouTube Video Feeds Aggregator plugin for WordPress i… |
+| 2026-10-16 04:18:26 | [CVE-2026-109990](https://nvd.nist.gov/vuln/detail/CVE-2026-109990) | High | 7.2 | The Flying Scripts: Delay JavaScript to Improve Site Speed & Performance plugin for WordPress is vulnerable to Stored C… |
+| 2026-10-16 04:18:29 | [CVE-2026-111442](https://nvd.nist.gov/vuln/detail/CVE-2026-111442) | Medium | 5.3 | Backdrop CMS Core 1.35.x before 1.35.2 and 1.34.x before 1.34.6 does not sufficiently validate uploaded SVG images to e… |
+| 2026-10-16 04:18:30 | [CVE-2026-111443](https://nvd.nist.gov/vuln/detail/CVE-2026-111443) | Medium | 6.5 | Wheels 4.0.6 through 4.1.2 lets an unauthenticated client switch a request into a separate test application context, in… |
+| 2026-10-16 04:18:30 | [CVE-2026-111444](https://nvd.nist.gov/vuln/detail/CVE-2026-111444) | Critical | 9.8 | Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent… |
+| 2026-10-16 04:18:30 | [CVE-2026-111445](https://nvd.nist.gov/vuln/detail/CVE-2026-111445) | High | 8.1 | Wheels 4.0.0 through 4.1.2 before 4.2.0 replaces incoming scope conditions with a primary-key condition in findByKey()… |
+| 2026-10-16 04:18:30 | [CVE-2026-111446](https://nvd.nist.gov/vuln/detail/CVE-2026-111446) | High | 8.6 | Wheels 4.0.0 through 4.1.2 exposes password-less development tools under /wheels/* to remote clients when enablePublicC… |
+| 2026-10-16 04:18:30 | [CVE-2026-111447](https://nvd.nist.gov/vuln/detail/CVE-2026-111447) | High | 8.1 | Wheels 1.1 through 4.1.2 resolves nestedProperties() records by posted primary key without checking that they belong to… |
+| 2026-10-16 04:18:31 | [CVE-2026-111448](https://nvd.nist.gov/vuln/detail/CVE-2026-111448) | Low | 3.7 | Wheels 4.0.0 through 4.1.2 uses case-insensitive comparisons in path-containment checks on case-sensitive filesystems.… |
+| 2026-10-16 04:18:31 | [CVE-2026-111449](https://nvd.nist.gov/vuln/detail/CVE-2026-111449) | Medium | 5.9 | Wheels 3.0.0 through 4.1.1 can disclose detailed exceptions when allowIPBasedDebugAccess=true (disabled by default). An… |
+| 2026-10-16 04:18:31 | [CVE-2026-111450](https://nvd.nist.gov/vuln/detail/CVE-2026-111450) | Medium | 5.9 | Wheels through 4.1.1 derives its default production error-email address from the Host header of the request that starts… |
+| 2026-10-16 04:18:31 | [CVE-2026-111451](https://nvd.nist.gov/vuln/detail/CVE-2026-111451) | High | 7.8 | Wheels CLI 4.0.0 through 4.1.1 insufficiently validates or escapes caller-supplied values and package contents. Deploy… |
+| 2026-10-16 04:18:38 | [CVE-2026-77829](https://nvd.nist.gov/vuln/detail/CVE-2026-77829) | Medium | 6.4 | The Cooked – Recipe Management plugin for WordPress is vulnerable to Stored Cross-Site Scripting via [cooked-timer] Sho… |
+| 2026-10-16 04:18:41 | [CVE-2026-89280](https://nvd.nist.gov/vuln/detail/CVE-2026-89280) | Medium | 4.3 | The Dokan: AI Powered WooCommerce Multivendor Marketplace Solution – Build Your Own Amazon, eBay, Etsy plugin for WordP… |
+| 2026-10-16 04:18:41 | [CVE-2026-93535](https://nvd.nist.gov/vuln/detail/CVE-2026-93535) | Medium | 6.4 | The Dark Mode – Improve Accessibility with AI Powered Dark Theme plugin for WordPress is vulnerable to Stored Cross-Sit… |
+| 2026-10-16 04:18:43 | [CVE-2026-93953](https://nvd.nist.gov/vuln/detail/CVE-2026-93953) | High | 8.0 | The Backuply – Backup, Restore, Migrate and Clone plugin for WordPress is vulnerable to SQL Injection via the Biographi… |
+| 2026-10-16 04:18:44 | [CVE-2026-97339](https://nvd.nist.gov/vuln/detail/CVE-2026-97339) | High | 7.2 | The Complianz GDPR/CCPA Cookie Consent Banner plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Com… |
 
 ## Data source
 
