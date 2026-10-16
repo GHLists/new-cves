@@ -9,24 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:19 UTC
+## Latest list — 2026-10-16 15:19 UTC
 
-New CVEs published between 2026-10-16 13:19 UTC and 2026-10-16 14:19 UTC.
+New CVEs published between 2026-10-16 14:19 UTC and 2026-10-16 15:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T14-19-21-442252Z.csv)
+[Full CSV](data/new-cves-2026-10-16T15-19-04-823931Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 14:17:14 | [CVE-2026-105664](https://nvd.nist.gov/vuln/detail/CVE-2026-105664) | Medium | 6.9 | The endpoint exposes an observable response discrepancy when processing ID values. A request submitted with a nonexiste… |
-| 2026-10-16 14:17:16 | [CVE-2026-107617](https://nvd.nist.gov/vuln/detail/CVE-2026-107617) | Critical | 9.3 | An attacker can use a hard-coded credential to log in to EseeCloud devices. |
-| 2026-10-16 14:17:22 | [CVE-2026-110287](https://nvd.nist.gov/vuln/detail/CVE-2026-110287) |  |  | Improper access control in asset contact password in Devolutions Server 2026.3.8.0 and earlier allows an authenticated… |
-| 2026-10-16 14:17:22 | [CVE-2026-110804](https://nvd.nist.gov/vuln/detail/CVE-2026-110804) |  |  | Improperly controlled modification of JIT elevation settings in PAM checkout in Devolutions Server 2026.3.8.0 and earli… |
-| 2026-10-16 14:17:22 | [CVE-2026-110805](https://nvd.nist.gov/vuln/detail/CVE-2026-110805) |  |  | Server-side request forgery in PingOne groups endpoint in Devolutions Server 2026.3.8.0 and earlier allows an authentic… |
-| 2026-10-16 14:17:22 | [CVE-2026-110806](https://nvd.nist.gov/vuln/detail/CVE-2026-110806) |  |  | Incorrect authorization in add-on properties in Devolutions Server 2026.3.8.0 and earlier allows an authenticated user… |
-| 2026-10-16 14:17:23 | [CVE-2026-111413](https://nvd.nist.gov/vuln/detail/CVE-2026-111413) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in aThemeArt aThemeArt Theme Helper athemeart-theme-helper allows Cross… |
-| 2026-10-16 14:17:23 | [CVE-2026-111593](https://nvd.nist.gov/vuln/detail/CVE-2026-111593) |  |  | Rejected reason: This CVE ID was reserved for a reported issue in the PDF Invoices & Packing Slips for WooCommerce Word… |
-| 2026-10-16 14:17:24 | [CVE-2026-18516](https://nvd.nist.gov/vuln/detail/CVE-2026-18516) | Critical | 9.6 | An output escaping vulnerability in the Audit Logs component of Crafty Controller allows a remote, unauthenticated atta… |
-| 2026-10-16 14:19:10 | [CVE-2026-90821](https://nvd.nist.gov/vuln/detail/CVE-2026-90821) | Medium | 5.4 | An input neutralization vulnerability in the Webhook URL form field component of Crafty Controller allows a remote, aut… |
+| 2026-10-16 14:19:27 | [CVE-2026-97470](https://nvd.nist.gov/vuln/detail/CVE-2026-97470) | Medium | 6.4 | The Tourfic – AI Powered Travel Booking, Hotel Booking & Car Rental plugin for WordPress is vulnerable to Stored Cross-… |
+| 2026-10-16 14:19:36 | [CVE-2026-97858](https://nvd.nist.gov/vuln/detail/CVE-2026-97858) | Medium | 6.9 | An attacker can cause the server to unbind the target device from its current owner and rebind it to the requesting acc… |
+| 2026-10-16 15:16:50 | [CVE-2025-52097](https://nvd.nist.gov/vuln/detail/CVE-2025-52097) |  |  | Cross Site Scripting vulnerability in InstantASP ltd, InstantForum.NET v.4.1.4 allows an attacker to execute arbitrary… |
+| 2026-10-16 15:16:58 | [CVE-2026-101021](https://nvd.nist.gov/vuln/detail/CVE-2026-101021) | High | 8.7 | MultipartInputStream performs inefficient boundary matching and unnecessary buffer copying. Crafted multipart input can… |
+| 2026-10-16 15:17:03 | [CVE-2026-105273](https://nvd.nist.gov/vuln/detail/CVE-2026-105273) | High | 8.7 | MP4Parser does not adequately validate MP4 box sizes. A malformed box can cause parsing to make no forward progress and… |
+| 2026-10-16 15:17:04 | [CVE-2026-105279](https://nvd.nist.gov/vuln/detail/CVE-2026-105279) | Critical | 9.3 | In the default configuration, the archive accepts DICOM associations from an unregistered calling AE. A remote peer can… |
+| 2026-10-16 15:17:04 | [CVE-2026-105667](https://nvd.nist.gov/vuln/detail/CVE-2026-105667) | High | 8.7 | In the default configuration, the HL7 listener accepts ADT^A40 patient-merge messages without authenticating the sendin… |
+| 2026-10-16 15:17:04 | [CVE-2026-106705](https://nvd.nist.gov/vuln/detail/CVE-2026-106705) | High | 8.8 | ELADMIN (eladmin-mp) up to 2.7 contains an improper access control vulnerability in the role management module. The end… |
+| 2026-10-16 15:17:05 | [CVE-2026-107621](https://nvd.nist.gov/vuln/detail/CVE-2026-107621) | High | 8.7 | JPEGParser can enter an infinite loop while parsing a specially crafted or truncated stream. |
+| 2026-10-16 15:17:05 | [CVE-2026-107777](https://nvd.nist.gov/vuln/detail/CVE-2026-107777) | High | 7.1 | Thermo Fisher Torrent Suite Software is vulnerable to a path traversal, which could allow an authenticated attacker to… |
+| 2026-10-16 15:17:15 | [CVE-2026-111728](https://nvd.nist.gov/vuln/detail/CVE-2026-111728) | Medium | 5.3 | Seanime v3.7.0 to v3.10.3 contains an argument injection vulnerability reachable through improper authorization, allowi… |
+| 2026-10-16 15:17:33 | [CVE-2026-88755](https://nvd.nist.gov/vuln/detail/CVE-2026-88755) |  |  | Z.ai ZCode v3.11.2.6792 was discovered to automatically establish connections with MCP servers declared inside a reposi… |
+| 2026-10-16 15:17:36 | [CVE-2026-95182](https://nvd.nist.gov/vuln/detail/CVE-2026-95182) |  |  | An untrusted search path in DeepSeek Harness (dsh) commit c291e796 allows attackers to execute arbitrary code via suppl… |
+| 2026-10-16 15:17:37 | [CVE-2026-95183](https://nvd.nist.gov/vuln/detail/CVE-2026-95183) |  |  | An issue in the context-compaction feature of DeepSeek Harness (dsh) commit c291e796 allows attackers to execute a prom… |
+| 2026-10-16 15:17:38 | [CVE-2026-97851](https://nvd.nist.gov/vuln/detail/CVE-2026-97851) | High | 8.8 | The storage status-change REST service allows location records still associated with DICOM instances to be changed to d… |
 
 ## Data source
 
