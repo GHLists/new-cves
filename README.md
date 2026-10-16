@@ -9,16 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 11:20 UTC
+## Latest list — 2026-10-16 12:21 UTC
 
-New CVEs published between 2026-10-16 10:22 UTC and 2026-10-16 11:20 UTC.
+New CVEs published between 2026-10-16 11:20 UTC and 2026-10-16 12:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T11-20-39-959008Z.csv)
+[Full CSV](data/new-cves-2026-10-16T12-21-09-853251Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 11:17:00 | [CVE-2026-109118](https://nvd.nist.gov/vuln/detail/CVE-2026-109118) | Medium | 4.6 | Improper path containment check in ikus060 rdiffweb 7.1.1 allows an authenticated user to cause the browse, restore, hi… |
-| 2026-10-16 11:17:00 | [CVE-2026-109119](https://nvd.nist.gov/vuln/detail/CVE-2026-109119) | High | 8.8 | Improper Privilege Management in the user management API endpoint (/api/users/{username_or_id}) in Rdiffweb allows auth… |
+| 2026-10-16 12:16:31 | [CVE-2026-105959](https://nvd.nist.gov/vuln/detail/CVE-2026-105959) | High | 7.5 | A flaw was found in spice-server. The GLZ encoder dictionary restore path truncates a size_t allocation size to int whe… |
+| 2026-10-16 12:16:32 | [CVE-2026-107648](https://nvd.nist.gov/vuln/detail/CVE-2026-107648) | High | 7.2 | The WP Sessions Time Monitoring Full Automatic plugin for WordPress is vulnerable to Stored Cross-Site Scripting via th… |
+| 2026-10-16 12:16:32 | [CVE-2026-109930](https://nvd.nist.gov/vuln/detail/CVE-2026-109930) | Medium | 5.3 | The MAIO WordPress plugin before 7.3.22 does not properly restrict access to its analytics data, treating a credential… |
+| 2026-10-16 12:16:32 | [CVE-2026-110029](https://nvd.nist.gov/vuln/detail/CVE-2026-110029) | Medium | 5.4 | The Squeeze WordPress plugin before 1.8.1 does not perform a capability check on one of its AJAX actions, allowing auth… |
+| 2026-10-16 12:16:33 | [CVE-2026-111390](https://nvd.nist.gov/vuln/detail/CVE-2026-111390) | Medium | 6.0 | Erupt through 2.3.0 contains an HQL injection vulnerability that allows authenticated users to bypass tree-scoped data… |
+| 2026-10-16 12:16:33 | [CVE-2026-111391](https://nvd.nist.gov/vuln/detail/CVE-2026-111391) | Critical | 9.2 | SGLang 0.5.10 through 0.5.22 contains a code injection vulnerability in _evaluate_filter() that allows remote attackers… |
 
 ## Data source
 
