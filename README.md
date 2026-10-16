@@ -9,35 +9,41 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:19 UTC
+## Latest list — 2026-10-16 06:19 UTC
 
-New CVEs published between 2026-10-16 04:19 UTC and 2026-10-16 05:19 UTC.
+New CVEs published between 2026-10-16 05:19 UTC and 2026-10-16 06:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T05-19-07-801556Z.csv)
+[Full CSV](data/new-cves-2026-10-16T06-19-09-582493Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 05:17:27 | [CVE-2026-101335](https://nvd.nist.gov/vuln/detail/CVE-2026-101335) | Medium | 6.5 | The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to Arbitrary… |
-| 2026-10-16 05:17:28 | [CVE-2026-103481](https://nvd.nist.gov/vuln/detail/CVE-2026-103481) | Medium | 6.1 | The Gwolle Guestbook plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'permalink' parameter… |
-| 2026-10-16 05:17:28 | [CVE-2026-103525](https://nvd.nist.gov/vuln/detail/CVE-2026-103525) | High | 7.5 | The FluentCart A New Era of eCommerce – Faster, Lighter, and Simpler plugin for WordPress is vulnerable to Insecure Dir… |
-| 2026-10-16 05:17:28 | [CVE-2026-103895](https://nvd.nist.gov/vuln/detail/CVE-2026-103895) | High | 8.1 | The miniOrange OTP Login, Verification and SMS Notifications plugin for WordPress is vulnerable to Authentication Bypas… |
-| 2026-10-16 05:17:28 | [CVE-2026-103911](https://nvd.nist.gov/vuln/detail/CVE-2026-103911) | Medium | 6.5 | The The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to arbit… |
-| 2026-10-16 05:17:28 | [CVE-2026-104798](https://nvd.nist.gov/vuln/detail/CVE-2026-104798) | Critical | 9.8 | The My Calendar – Accessible Event Manager plugin for WordPress is vulnerable to Privilege Escalation in all versions u… |
-| 2026-10-16 05:17:28 | [CVE-2026-107659](https://nvd.nist.gov/vuln/detail/CVE-2026-107659) | High | 7.5 | The Modula Image Gallery – Photo Grid & Video Gallery plugin for WordPress is vulnerable to Sensitive Information Expos… |
-| 2026-10-16 05:17:28 | [CVE-2026-107746](https://nvd.nist.gov/vuln/detail/CVE-2026-107746) | High | 7.5 | The FunnelKit – Funnel Builder for WooCommerce Checkout plugin for WordPress is vulnerable to authorization bypass in a… |
-| 2026-10-16 05:17:28 | [CVE-2026-109191](https://nvd.nist.gov/vuln/detail/CVE-2026-109191) | Medium | 4.3 | The Image Hub – Free Images from Unsplash, Pixabay, Pexels, Openverse & Giphy plugin for WordPress is vulnerable to Sen… |
-| 2026-10-16 05:17:29 | [CVE-2026-109219](https://nvd.nist.gov/vuln/detail/CVE-2026-109219) | Critical | 9.8 | The Mang Board plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 2.4.4… |
-| 2026-10-16 05:17:29 | [CVE-2026-109221](https://nvd.nist.gov/vuln/detail/CVE-2026-109221) | High | 8.1 | The Groundhogg — CRM, Newsletters, and Marketing Automation plugin for WordPress is vulnerable to arbitrary file deleti… |
-| 2026-10-16 05:17:29 | [CVE-2026-109400](https://nvd.nist.gov/vuln/detail/CVE-2026-109400) | High | 7.5 | The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to Privilege Escalation in all… |
-| 2026-10-16 05:17:29 | [CVE-2026-109512](https://nvd.nist.gov/vuln/detail/CVE-2026-109512) | Medium | 6.4 | The Mang Board plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'content' parameter in all ver… |
-| 2026-10-16 05:17:29 | [CVE-2026-109515](https://nvd.nist.gov/vuln/detail/CVE-2026-109515) | Critical | 9.8 | The MailOptin – Popup, Optin Forms & Email Newsletters for Mailchimp, HubSpot, AWeber Etc. plugin for WordPress is vuln… |
-| 2026-10-16 05:17:29 | [CVE-2026-109998](https://nvd.nist.gov/vuln/detail/CVE-2026-109998) | High | 7.2 | The Mang Board plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'content' parameter in all ver… |
-| 2026-10-16 05:17:29 | [CVE-2026-110019](https://nvd.nist.gov/vuln/detail/CVE-2026-110019) | Medium | 4.3 | The Bulk Page Generator – LPagery plugin for WordPress is vulnerable to authorization bypass in all versions up to, and… |
-| 2026-10-16 05:17:29 | [CVE-2026-110590](https://nvd.nist.gov/vuln/detail/CVE-2026-110590) | High | 7.5 | The Klarna for WooCommerce plugin for WordPress is vulnerable to authorization bypass in all versions up to, and includ… |
-| 2026-10-16 05:17:30 | [CVE-2026-110721](https://nvd.nist.gov/vuln/detail/CVE-2026-110721) | Medium | 5.3 | The NotificationX plugin for WordPress is vulnerable to Missing Authorization leading to arbitrary content injection in… |
-| 2026-10-16 05:17:30 | [CVE-2026-111106](https://nvd.nist.gov/vuln/detail/CVE-2026-111106) | Medium | 6.5 | The Mail Mint plugin for WordPress is vulnerable to SQL Injection via the 'filters' parameter of the /wp-json/mrm/v1/se… |
-| 2026-10-16 05:17:30 | [CVE-2026-111114](https://nvd.nist.gov/vuln/detail/CVE-2026-111114) | High | 7.5 | The Nexter Extension – Security, Performance, Code Snippets & Site Toolkit plugin for WordPress is vulnerable to Privil… |
-| 2026-10-16 05:17:30 | [CVE-2026-96562](https://nvd.nist.gov/vuln/detail/CVE-2026-96562) | Medium | 6.5 | The The Broken Link Checker plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to,… |
+| 2026-10-16 06:17:01 | [CVE-2026-100158](https://nvd.nist.gov/vuln/detail/CVE-2026-100158) | Medium | 6.4 | The SQL Chart Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'X-axis column value ($… |
+| 2026-10-16 06:17:02 | [CVE-2026-100186](https://nvd.nist.gov/vuln/detail/CVE-2026-100186) | High | 7.2 | The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is… |
+| 2026-10-16 06:17:02 | [CVE-2026-103480](https://nvd.nist.gov/vuln/detail/CVE-2026-103480) | Medium | 6.4 | The Tourfic – AI Powered Travel Booking, Hotel Booking & Car Rental plugin for WordPress is vulnerable to Stored Cross-… |
+| 2026-10-16 06:17:03 | [CVE-2026-103768](https://nvd.nist.gov/vuln/detail/CVE-2026-103768) | Critical | 9.8 | The ELEX WordPress HelpDesk & Customer Ticketing System plugin for WordPress is vulnerable to Arbitrary File Upload in… |
+| 2026-10-16 06:17:03 | [CVE-2026-103896](https://nvd.nist.gov/vuln/detail/CVE-2026-103896) | High | 7.5 | The 10Web Booster – Website speed optimization, Cache & Page Speed optimizer plugin for WordPress is vulnerable to a li… |
+| 2026-10-16 06:17:03 | [CVE-2026-103999](https://nvd.nist.gov/vuln/detail/CVE-2026-103999) | High | 7.2 | The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via File Upload i… |
+| 2026-10-16 06:17:04 | [CVE-2026-104000](https://nvd.nist.gov/vuln/detail/CVE-2026-104000) | High | 7.2 | The Simply Schedule Appointments plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'status' par… |
+| 2026-10-16 06:17:05 | [CVE-2026-104001](https://nvd.nist.gov/vuln/detail/CVE-2026-104001) | Medium | 5.4 | The The Slim SEO – AI SEO Plugin, Lightweight, Fast & Automated plugin for WordPress is vulnerable to arbitrary shortco… |
+| 2026-10-16 06:17:05 | [CVE-2026-104932](https://nvd.nist.gov/vuln/detail/CVE-2026-104932) | High | 8.0 | The Search Regex plugin for WordPress is vulnerable to PHP Object Injection in version 3.5 via deserialization of untru… |
+| 2026-10-16 06:17:05 | [CVE-2026-107748](https://nvd.nist.gov/vuln/detail/CVE-2026-107748) | Medium | 6.4 | The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is… |
+| 2026-10-16 06:17:06 | [CVE-2026-107764](https://nvd.nist.gov/vuln/detail/CVE-2026-107764) | High | 7.2 | The SiteOrigin CSS plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scripting via the 'url (comment_au… |
+| 2026-10-16 06:17:06 | [CVE-2026-109232](https://nvd.nist.gov/vuln/detail/CVE-2026-109232) | High | 7.2 | The Salon Booking System – Appointment Booking for Salons, Barbershops & Spas plugin for WordPress is vulnerable to Sto… |
+| 2026-10-16 06:17:07 | [CVE-2026-109414](https://nvd.nist.gov/vuln/detail/CVE-2026-109414) | Medium | 6.5 | The Vitepos – Point of Sale (POS) for WooCommerce plugin for WordPress is vulnerable to blind SQL Injection via the 'sr… |
+| 2026-10-16 06:17:08 | [CVE-2026-109447](https://nvd.nist.gov/vuln/detail/CVE-2026-109447) | High | 8.1 | The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is… |
+| 2026-10-16 06:17:08 | [CVE-2026-109513](https://nvd.nist.gov/vuln/detail/CVE-2026-109513) | High | 7.2 | The NotificationX – FOMO, Live Sales Notification, WooCommerce Sales Popup, GDPR, Social Proof, Announcement Banner & F… |
+| 2026-10-16 06:17:08 | [CVE-2026-110017](https://nvd.nist.gov/vuln/detail/CVE-2026-110017) | Medium | 6.4 | The Quick PayPal Payments: Payment Button & Form plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-10-16 06:17:09 | [CVE-2026-111122](https://nvd.nist.gov/vuln/detail/CVE-2026-111122) | High | 7.2 | The SiteOrigin CSS plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scripting via the 'href' parameter… |
+| 2026-10-16 06:17:09 | [CVE-2026-111458](https://nvd.nist.gov/vuln/detail/CVE-2026-111458) | Medium | 6.8 | The fanx_fingerprint function in ssl/sslxprint.c of ssldump allocates a heap buffer for formatting FAN/1 X.509 certific… |
+| 2026-10-16 06:17:09 | [CVE-2026-12272](https://nvd.nist.gov/vuln/detail/CVE-2026-12272) | Medium | 5.3 | The Lightweight Cookie Notice – Cookie Banner for Cookie Consent plugin for WordPress is vulnerable to Sensitive Inform… |
+| 2026-10-16 06:17:11 | [CVE-2026-85659](https://nvd.nist.gov/vuln/detail/CVE-2026-85659) | High | 8.8 | The PilotPress plugin for WordPress is vulnerable to Privilege Escalation via Account Takeover in all versions up to, a… |
+| 2026-10-16 06:17:11 | [CVE-2026-88963](https://nvd.nist.gov/vuln/detail/CVE-2026-88963) | Medium | 6.1 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to DOM-Based Cross-Site Scripti… |
+| 2026-10-16 06:17:12 | [CVE-2026-89051](https://nvd.nist.gov/vuln/detail/CVE-2026-89051) | High | 7.2 | The WP Ghost (Hide My WP Ghost) – Security & Firewall plugin for WordPress is vulnerable to Stored Cross-Site Scripting… |
+| 2026-10-16 06:17:12 | [CVE-2026-89079](https://nvd.nist.gov/vuln/detail/CVE-2026-89079) | Critical | 9.8 | The Theme My Login plugin for WordPress is vulnerable to privilege escalation via account takeover in versions up to, a… |
+| 2026-10-16 06:17:12 | [CVE-2026-93767](https://nvd.nist.gov/vuln/detail/CVE-2026-93767) | Medium | 6.5 | The Tainacan plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including, 1.3.0 via… |
+| 2026-10-16 06:17:12 | [CVE-2026-95686](https://nvd.nist.gov/vuln/detail/CVE-2026-95686) | High | 7.2 | The Opti-Behavior – Self-Hosted Heatmaps, Session Recordings, Funnels, A/B Testing & Smart Insights plugin for WordPres… |
+| 2026-10-16 06:17:13 | [CVE-2026-95809](https://nvd.nist.gov/vuln/detail/CVE-2026-95809) | High | 7.2 | The Opti-Behavior – Self-Hosted Heatmaps, Session Recordings, Funnels, A/B Testing & Smart Insights plugin for WordPres… |
+| 2026-10-16 06:17:13 | [CVE-2026-96570](https://nvd.nist.gov/vuln/detail/CVE-2026-96570) | High | 7.2 | The Schema & Structured Data for WP & AMP plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'sa… |
 
 ## Data source
 
