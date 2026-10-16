@@ -9,21 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 22:18 UTC
+## Latest list — 2026-10-16 23:19 UTC
 
-New CVEs published between 2026-10-16 21:19 UTC and 2026-10-16 22:18 UTC.
+New CVEs published between 2026-10-16 22:18 UTC and 2026-10-16 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T22-18-33-87171Z.csv)
+[Full CSV](data/new-cves-2026-10-16T23-19-37-003051Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 21:21:02 | [CVE-2026-96542](https://nvd.nist.gov/vuln/detail/CVE-2026-96542) | Medium | 5.0 | Incorrect permission assignment (CWE-732) in the standalone installer for EA Javelin Anticheat (versions 1.0.14329371,… |
-| 2026-10-16 22:17:14 | [CVE-2026-108372](https://nvd.nist.gov/vuln/detail/CVE-2026-108372) | High | 7.1 | Open and provider-neutral, LoopX is a lightweight state kernel and local-first control plane for loop engineering. From… |
-| 2026-10-16 22:17:20 | [CVE-2026-111044](https://nvd.nist.gov/vuln/detail/CVE-2026-111044) | High | 7.6 | Sunshine is a self-hosted game stream host for Moonlight. From 2026.329.165800 until 2026.906.222525, Sunshine accepted… |
-| 2026-10-16 22:17:23 | [CVE-2026-49410](https://nvd.nist.gov/vuln/detail/CVE-2026-49410) | High | 8.1 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Versions before 0.56.0 a… |
-| 2026-10-16 22:17:24 | [CVE-2026-62438](https://nvd.nist.gov/vuln/detail/CVE-2026-62438) | Medium | 6.1 | A flaw was found in GIMP. An attacker can cause a Denial of Service (DoS) or potentially disclose sensitive memory cont… |
-| 2026-10-16 22:17:24 | [CVE-2026-62439](https://nvd.nist.gov/vuln/detail/CVE-2026-62439) | High | 7.0 | A flaw was found in GIMP. An integer overflow occurs in the file-pvr plug-in when calculating memory buffer sizes for i… |
-| 2026-10-16 22:17:25 | [CVE-2026-68498](https://nvd.nist.gov/vuln/detail/CVE-2026-68498) | High | 7.5 | StreamReadConstraints.maxNameLength (default 50,000 characters) is intended to bound how much memory a single JSON Obje… |
+| 2026-10-16 22:18:58 | [CVE-2026-96626](https://nvd.nist.gov/vuln/detail/CVE-2026-96626) | High | 8.5 | Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to 2.5.0, UpdateRegistry an… |
+| 2026-10-16 22:18:58 | [CVE-2026-96627](https://nvd.nist.gov/vuln/detail/CVE-2026-96627) | High | 8.8 | Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to 2.6.0, UpdateUser in bac… |
+| 2026-10-16 22:18:58 | [CVE-2026-96628](https://nvd.nist.gov/vuln/detail/CVE-2026-96628) | Medium | 4.3 | Arcane is an interface for managing Docker containers, images, networks, and volumes. Prior to 2.11.0, AuthMiddleware.m… |
+| 2026-10-16 23:16:58 | [CVE-2026-106549](https://nvd.nist.gov/vuln/detail/CVE-2026-106549) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-16 23:16:58 | [CVE-2026-107346](https://nvd.nist.gov/vuln/detail/CVE-2026-107346) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-16 23:17:00 | [CVE-2026-110752](https://nvd.nist.gov/vuln/detail/CVE-2026-110752) |  |  | Text::CSV_XS versions before 1.65 for Perl allow memory exhaustion by allocating one entry per index of an RFC 7111 sel… |
+| 2026-10-16 23:17:00 | [CVE-2026-110753](https://nvd.nist.gov/vuln/detail/CVE-2026-110753) |  |  | Text::CSV_XS versions from 1.46 before 1.65 for Perl have a use-after-free of bind_columns variables when skip_empty_ro… |
+| 2026-10-16 23:17:00 | [CVE-2026-110754](https://nvd.nist.gov/vuln/detail/CVE-2026-110754) |  |  | Text::CSV_XS versions before 1.65 for Perl leak the parsed fields of a record that fails to parse in getline. getline c… |
+| 2026-10-16 23:17:00 | [CVE-2026-110755](https://nvd.nist.gov/vuln/detail/CVE-2026-110755) |  |  | Text::CSV_XS versions before 1.65 for Perl allow quadratic CPU use by copying the unparsed remainder per record of CR-o… |
+| 2026-10-16 23:17:00 | [CVE-2026-110756](https://nvd.nist.gov/vuln/detail/CVE-2026-110756) |  |  | Text::CSV_XS versions before 1.65 for Perl drop the end of a record and its line ending when a UTF-8 flagged field prec… |
+| 2026-10-16 23:17:00 | [CVE-2026-110757](https://nvd.nist.gov/vuln/detail/CVE-2026-110757) |  |  | Text::CSV_XS versions before 1.65 for Perl allow record splitting by writing strings used as numbers without quotes in… |
+| 2026-10-16 23:17:01 | [CVE-2026-110758](https://nvd.nist.gov/vuln/detail/CVE-2026-110758) |  |  | Text::CSV_XS versions before 1.65 for Perl read before the start of an all-blank field under allow_whitespace in strip_… |
+| 2026-10-16 23:17:01 | [CVE-2026-110759](https://nvd.nist.gov/vuln/detail/CVE-2026-110759) |  |  | Text::CSV_XS versions before 1.65 for Perl return a 0xFF byte that is not in the input for an empty last field followed… |
+| 2026-10-16 23:17:01 | [CVE-2026-111802](https://nvd.nist.gov/vuln/detail/CVE-2026-111802) | Medium | 6.6 | A flaw was found in Nautilus. When a removable drive or disk image is unmounted or ejected, Nautilus prompts the user t… |
+| 2026-10-16 23:17:01 | [CVE-2026-17591](https://nvd.nist.gov/vuln/detail/CVE-2026-17591) | Low | 3.6 | A flaw was found in libarchive. An attacker can cause a Denial of Service (DoS) or potential information disclosure due… |
+| 2026-10-16 23:17:02 | [CVE-2026-89085](https://nvd.nist.gov/vuln/detail/CVE-2026-89085) | Medium | 6.6 | A flaw was found in parted. A heap-based buffer overflow can occur when processing a specially crafted FAT32 filesystem… |
+| 2026-10-16 23:17:02 | [CVE-2026-89088](https://nvd.nist.gov/vuln/detail/CVE-2026-89088) | Medium | 5.5 | A flaw was found in parted. A heap-based buffer overflow exists in libparted's file system resizing logic when handling… |
+| 2026-10-16 23:17:02 | [CVE-2026-89096](https://nvd.nist.gov/vuln/detail/CVE-2026-89096) | Medium | 5.9 | A flaw was found in nfs-utils. An unauthenticated remote attacker can trigger a Denial of Service (DoS) by sending repe… |
 
 ## Data source
 
