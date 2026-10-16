@@ -9,38 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 16:21 UTC
+## Latest list — 2026-10-16 17:19 UTC
 
-New CVEs published between 2026-10-16 15:19 UTC and 2026-10-16 16:21 UTC.
+New CVEs published between 2026-10-16 16:21 UTC and 2026-10-16 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T16-21-03-072072Z.csv)
+[Full CSV](data/new-cves-2026-10-16T17-19-38-211497Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 16:16:52 | [CVE-2026-102923](https://nvd.nist.gov/vuln/detail/CVE-2026-102923) | Medium | 5.4 | SparkyFitness is a self-hosted, AI-powered health and fitness tracker for families. Prior to 1.6.0, SparkyFitnessServer… |
-| 2026-10-16 16:16:52 | [CVE-2026-102941](https://nvd.nist.gov/vuln/detail/CVE-2026-102941) | High | 7.5 | The package github.com/gomarkdown/markdown is a Go library for parsing Markdown text and rendering as HTML. Prior to 0.… |
-| 2026-10-16 16:17:04 | [CVE-2026-111581](https://nvd.nist.gov/vuln/detail/CVE-2026-111581) | Low | 3.3 | A flaw was found in libblockdev. The bd_fs_ntfs_set_label() and bd_fs_vfat_set_label() functions pass caller-supplied l… |
-| 2026-10-16 16:17:06 | [CVE-2026-26846](https://nvd.nist.gov/vuln/detail/CVE-2026-26846) |  |  | Buffer Overflow vulnerability in WEINVEIW CO.,LTD EBPro v.6.10.01.510_20251022 allows a remote attacker to execute arbi… |
-| 2026-10-16 16:17:23 | [CVE-2026-41582](https://nvd.nist.gov/vuln/detail/CVE-2026-41582) | High | 7.5 | countly-server is the server-side part of Countly, a product analytics solution. Prior to 24.05.50 and 25.03.44, public… |
-| 2026-10-16 16:17:23 | [CVE-2026-42269](https://nvd.nist.gov/vuln/detail/CVE-2026-42269) | High | 8.1 | countly-server is the server-side part of Countly, a product analytics solution. Prior to 24.05.50 and 25.03.44, the au… |
-| 2026-10-16 16:17:23 | [CVE-2026-42270](https://nvd.nist.gov/vuln/detail/CVE-2026-42270) | High | 7.5 | countly-server is the server-side part of Countly, a product analytics solution. Prior to 24.05.50 and 25.03.44, star-r… |
-| 2026-10-16 16:17:44 | [CVE-2026-44977](https://nvd.nist.gov/vuln/detail/CVE-2026-44977) | Critical | 9.0 | countly-server is the server-side part of Countly, a product analytics solution. Prior to 24.05.50 and 25.03.44, plugin… |
-| 2026-10-16 16:18:11 | [CVE-2026-46471](https://nvd.nist.gov/vuln/detail/CVE-2026-46471) |  |  | An issue was discovered in GStreamer gst-plugins-good before 1.28.2. While parsing an MP4 file, the isomp4 plugin's qtd… |
-| 2026-10-16 16:18:11 | [CVE-2026-46472](https://nvd.nist.gov/vuln/detail/CVE-2026-46472) |  |  | An issue was discovered in GStreamer gst-plugins-good before 1.28.2. While parsing an MP4 file, the isomp4 plugin's qtd… |
-| 2026-10-16 16:18:11 | [CVE-2026-48503](https://nvd.nist.gov/vuln/detail/CVE-2026-48503) | High | 7.5 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
-| 2026-10-16 16:18:11 | [CVE-2026-48741](https://nvd.nist.gov/vuln/detail/CVE-2026-48741) | High | 7.5 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
-| 2026-10-16 16:18:43 | [CVE-2026-54657](https://nvd.nist.gov/vuln/detail/CVE-2026-54657) | Medium | 6.5 | Open Zaak is an open-source data and services layer for Dutch case-oriented working. From 1.0.0 until 1.27.2, 1.28.2, a… |
-| 2026-10-16 16:18:43 | [CVE-2026-55543](https://nvd.nist.gov/vuln/detail/CVE-2026-55543) | High | 8.5 | TuxGuitar is an open-source guitar tablature editor. Prior to 2.1.0, an untrusted .tg file can set gervil.soundbank.pat… |
-| 2026-10-16 16:18:43 | [CVE-2026-55836](https://nvd.nist.gov/vuln/detail/CVE-2026-55836) | Medium | 6.8 | Open Zaak is an open-source data and services layer for Dutch case-oriented working. From 1.13.0 until 1.27.2, 1.28.2,… |
-| 2026-10-16 16:18:44 | [CVE-2026-55862](https://nvd.nist.gov/vuln/detail/CVE-2026-55862) | Medium | 6.5 | pupnp is an SDK for development of UPnP device and control point applications. Prior to 2.0.0, multiple ixml DOM traver… |
-| 2026-10-16 16:18:44 | [CVE-2026-57446](https://nvd.nist.gov/vuln/detail/CVE-2026-57446) | Medium | 5.3 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
-| 2026-10-16 16:18:44 | [CVE-2026-57447](https://nvd.nist.gov/vuln/detail/CVE-2026-57447) | Medium | 4.3 | Discourse Doc Categories is a plugin for organizing Discourse topics as documentation. Prior to the verified source fix… |
-| 2026-10-16 16:18:44 | [CVE-2026-57486](https://nvd.nist.gov/vuln/detail/CVE-2026-57486) | High | 7.5 | pupnp is an SDK for development of UPnP device and control point applications. Prior to 2.0.2, ixmlNode_compare in ixml… |
-| 2026-10-16 16:18:44 | [CVE-2026-57487](https://nvd.nist.gov/vuln/detail/CVE-2026-57487) | High | 7.5 | pupnp is an SDK for development of UPnP device and control point applications. Prior to 2.0.2, Transfer-Encoding: chunk… |
-| 2026-10-16 16:18:44 | [CVE-2026-57488](https://nvd.nist.gov/vuln/detail/CVE-2026-57488) | High | 7.1 | pupnp is an SDK for development of UPnP device and control point applications. Prior to 2.0.2, raw_to_int in upnp/src/g… |
-| 2026-10-16 16:20:00 | [CVE-2026-68906](https://nvd.nist.gov/vuln/detail/CVE-2026-68906) | High | 8.7 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
-| 2026-10-16 16:20:00 | [CVE-2026-68907](https://nvd.nist.gov/vuln/detail/CVE-2026-68907) | High | 8.2 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
-| 2026-10-16 16:20:01 | [CVE-2026-68908](https://nvd.nist.gov/vuln/detail/CVE-2026-68908) | Medium | 5.3 | libIEC61850 is an open-source implementation of IEC 61850 client and server protocols including MMS, GOOSE, Sampled Val… |
+| 2026-10-16 16:21:03 | [CVE-2026-77630](https://nvd.nist.gov/vuln/detail/CVE-2026-77630) | High | 7.5 | pupnp is an SDK for development of UPnP device and control point applications. Prior to 22.0.4, parse_hostport in upnp/… |
+| 2026-10-16 16:22:43 | [CVE-2026-92263](https://nvd.nist.gov/vuln/detail/CVE-2026-92263) | High | 7.2 | SparkyFitness is a self-hosted, AI-powered health and fitness tracker for families. Prior to 1.6.0, the api/admin/backu… |
+| 2026-10-16 16:22:44 | [CVE-2026-95859](https://nvd.nist.gov/vuln/detail/CVE-2026-95859) | High | 8.7 | libp2p-rust is the official Rust language implementation of the libp2p networking stack. Prior to 0.49.5, Gossipsub GRA… |
+| 2026-10-16 16:22:52 | [CVE-2026-96424](https://nvd.nist.gov/vuln/detail/CVE-2026-96424) | High | 7.8 | Incorrect DBus policy for lomiri-upload-manager (part of lomiri-download-manager) allows arbitrary user to read arbitra… |
+| 2026-10-16 16:22:52 | [CVE-2026-96425](https://nvd.nist.gov/vuln/detail/CVE-2026-96425) | Medium | 5.5 | Incorrect DBus policy for lomiri-download-manager allows arbitrary user to run arbitrary command as root over DBus |
+| 2026-10-16 17:17:16 | [CVE-2026-102692](https://nvd.nist.gov/vuln/detail/CVE-2026-102692) | Critical | 9.1 | RIOT is an open-source microcontroller operating system designed for Internet of Things devices and other embedded syst… |
+| 2026-10-16 17:17:17 | [CVE-2026-102693](https://nvd.nist.gov/vuln/detail/CVE-2026-102693) | Critical | 9.6 | RIOT is an open-source microcontroller operating system designed for Internet of Things devices and other embedded syst… |
+| 2026-10-16 17:17:34 | [CVE-2026-49868](https://nvd.nist.gov/vuln/detail/CVE-2026-49868) | Critical | 9.8 | RIOT is an open-source microcontroller operating system designed for Internet of Things devices and other embedded syst… |
+| 2026-10-16 17:17:35 | [CVE-2026-57169](https://nvd.nist.gov/vuln/detail/CVE-2026-57169) | Critical | 9.6 | Dockhand is a Docker management application. Prior to 1.0.34, the in-browser container terminal endpoint /api/container… |
+| 2026-10-16 17:17:35 | [CVE-2026-59962](https://nvd.nist.gov/vuln/detail/CVE-2026-59962) | Medium | 6.5 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, p… |
+| 2026-10-16 17:17:35 | [CVE-2026-59967](https://nvd.nist.gov/vuln/detail/CVE-2026-59967) | Medium | 5.4 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, l… |
+| 2026-10-16 17:17:35 | [CVE-2026-62362](https://nvd.nist.gov/vuln/detail/CVE-2026-62362) | Medium | 4.9 | PeerBanHelper automatically blocks unwanted, leeching, and abnormal BitTorrent peers using customizable and cloud rules… |
+| 2026-10-16 17:17:50 | [CVE-2026-77474](https://nvd.nist.gov/vuln/detail/CVE-2026-77474) | High | 7.1 | destructive_command_guard (dcg) is a command-line safety tool that blocks destructive shell commands before AI coding a… |
+| 2026-10-16 17:17:51 | [CVE-2026-85745](https://nvd.nist.gov/vuln/detail/CVE-2026-85745) | Medium | 4.3 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-16 17:17:51 | [CVE-2026-85746](https://nvd.nist.gov/vuln/detail/CVE-2026-85746) | Critical | 9.9 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-16 17:17:51 | [CVE-2026-85748](https://nvd.nist.gov/vuln/detail/CVE-2026-85748) | Critical | 9.9 | MariaDB server is a community developed fork of MySQL server. From 12.3.1 until 12.3.3 and 13.0.2, SYS_REFCURSOR handli… |
+| 2026-10-16 17:17:51 | [CVE-2026-85985](https://nvd.nist.gov/vuln/detail/CVE-2026-85985) | Medium | 5.4 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-16 17:17:51 | [CVE-2026-86008](https://nvd.nist.gov/vuln/detail/CVE-2026-86008) | High | 7.2 | Mailu is a mail server distributed as a set of Docker images. Prior to 8577c929b4ade04d3cd4210cf036601abd793556, a doma… |
+| 2026-10-16 17:17:51 | [CVE-2026-86009](https://nvd.nist.gov/vuln/detail/CVE-2026-86009) | High | 8.2 | Mailu is a mail server distributed as a set of Docker images. Prior to f05aeb8322e2f61096af6b089d61ba6f40587d96, domain… |
+| 2026-10-16 17:17:52 | [CVE-2026-86047](https://nvd.nist.gov/vuln/detail/CVE-2026-86047) | High | 7.7 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-16 17:17:52 | [CVE-2026-92262](https://nvd.nist.gov/vuln/detail/CVE-2026-92262) | Critical | 9.9 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
+| 2026-10-16 17:18:02 | [CVE-2026-97380](https://nvd.nist.gov/vuln/detail/CVE-2026-97380) | High | 8.8 | MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.… |
 
 ## Data source
 
