@@ -9,30 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:18 UTC
+## Latest list — 2026-10-16 21:19 UTC
 
-New CVEs published between 2026-10-16 19:19 UTC and 2026-10-16 20:18 UTC.
+New CVEs published between 2026-10-16 20:18 UTC and 2026-10-16 21:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T20-18-31-070368Z.csv)
+[Full CSV](data/new-cves-2026-10-16T21-19-46-623335Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 20:17:17 | [CVE-2026-102607](https://nvd.nist.gov/vuln/detail/CVE-2026-102607) | High | 8.8 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3, the exportEvents() f… |
-| 2026-10-16 20:17:17 | [CVE-2026-102608](https://nvd.nist.gov/vuln/detail/CVE-2026-102608) | Critical | 9.0 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3, downloadEvents() man… |
-| 2026-10-16 20:17:17 | [CVE-2026-102834](https://nvd.nist.gov/vuln/detail/CVE-2026-102834) | High | 7.5 | JavaCV provides Java interfaces to OpenCV, FFmpeg, and other multimedia libraries. Prior to 1.5.14, IPCameraFrameGrabbe… |
-| 2026-10-16 20:17:18 | [CVE-2026-108709](https://nvd.nist.gov/vuln/detail/CVE-2026-108709) |  |  | Authentication bypass within in-house network in Apache Kylin. Impact most to the kylin services that are directly expo… |
-| 2026-10-16 20:17:19 | [CVE-2026-108743](https://nvd.nist.gov/vuln/detail/CVE-2026-108743) |  |  | Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Apache Kyli… |
-| 2026-10-16 20:17:23 | [CVE-2026-30971](https://nvd.nist.gov/vuln/detail/CVE-2026-30971) | High | 8.8 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2, 1.38.2, and 1.36.40,… |
-| 2026-10-16 20:17:23 | [CVE-2026-59963](https://nvd.nist.gov/vuln/detail/CVE-2026-59963) | High | 7.1 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, r… |
-| 2026-10-16 20:17:23 | [CVE-2026-59966](https://nvd.nist.gov/vuln/detail/CVE-2026-59966) | Medium | 5.7 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, e… |
-| 2026-10-16 20:17:23 | [CVE-2026-59970](https://nvd.nist.gov/vuln/detail/CVE-2026-59970) | High | 7.7 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, p… |
-| 2026-10-16 20:17:23 | [CVE-2026-61726](https://nvd.nist.gov/vuln/detail/CVE-2026-61726) | High | 8.1 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.12, S… |
-| 2026-10-16 20:17:24 | [CVE-2026-68572](https://nvd.nist.gov/vuln/detail/CVE-2026-68572) |  |  | Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache Kylin. This issue affects Apache Kyl… |
-| 2026-10-16 20:17:24 | [CVE-2026-68573](https://nvd.nist.gov/vuln/detail/CVE-2026-68573) |  |  | Improper Authentication vulnerability in Apache Kylin. Unauthenticated user may access to system cleanup actions. Impac… |
-| 2026-10-16 20:17:24 | [CVE-2026-69076](https://nvd.nist.gov/vuln/detail/CVE-2026-69076) |  |  | Exposure of Job Discard to an Unauthorized Actor vulnerability in Apache Kylin. Impact most to the kylin services that… |
-| 2026-10-16 20:17:24 | [CVE-2026-69077](https://nvd.nist.gov/vuln/detail/CVE-2026-69077) |  |  | Exposure of unauthorized cross-project job manipulation vulnerability in Apache Kylin. Impact most to the kylin service… |
-| 2026-10-16 20:17:24 | [CVE-2026-69080](https://nvd.nist.gov/vuln/detail/CVE-2026-69080) |  |  | Exposure of SQL Black List to an Unauthorized Actor vulnerability in Apache Kylin. This issue affects Apache Kylin: fro… |
-| 2026-10-16 20:18:28 | [CVE-2026-96620](https://nvd.nist.gov/vuln/detail/CVE-2026-96620) | Critical | 9.2 | Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to the Claude CLI as a… |
+| 2026-10-16 21:17:19 | [CVE-2026-108373](https://nvd.nist.gov/vuln/detail/CVE-2026-108373) | Medium | 6.5 | ERPNext is a free and open source Enterprise Resource Planning tool. Prior to 15.118.0 and 16.27.0, certain endpoints i… |
+| 2026-10-16 21:17:19 | [CVE-2026-108374](https://nvd.nist.gov/vuln/detail/CVE-2026-108374) | High | 7.7 | ERPNext is a free and open source Enterprise Resource Planning tool. Prior to 15.121.0 and 16.34.0, certain endpoints f… |
+| 2026-10-16 21:19:18 | [CVE-2026-55796](https://nvd.nist.gov/vuln/detail/CVE-2026-55796) | Medium | 6.5 | Frappe HR is an open-source human resources management solution (HRMS). Prior to 15.60.3 and 16.7.1, the Salary Payment… |
+| 2026-10-16 21:19:19 | [CVE-2026-64862](https://nvd.nist.gov/vuln/detail/CVE-2026-64862) | Medium | 6.5 | Frappe HR is an open-source human resources management solution (HRMS). Prior to 15.58.3 and 16.4.3, HRMS PWA API endpo… |
 
 ## Data source
 
