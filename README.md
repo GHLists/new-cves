@@ -9,30 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 19:19 UTC
+## Latest list — 2026-10-16 20:18 UTC
 
-New CVEs published between 2026-10-16 18:18 UTC and 2026-10-16 19:19 UTC.
+New CVEs published between 2026-10-16 19:19 UTC and 2026-10-16 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T19-19-52-645438Z.csv)
+[Full CSV](data/new-cves-2026-10-16T20-18-31-070368Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 18:18:37 | [CVE-2026-80092](https://nvd.nist.gov/vuln/detail/CVE-2026-80092) | Medium | 5.3 | Authentication bypass by assumed-immutable data in Microsoft Identity Web allows an authorized attacker to elevate priv… |
-| 2026-10-16 18:18:37 | [CVE-2026-81452](https://nvd.nist.gov/vuln/detail/CVE-2026-81452) | High | 7.0 | Dell Alienware Command Center (AWCC), versions prior to 6.14.54.0, contain a Least Privilege Violation vulnerability. A… |
-| 2026-10-16 18:19:42 | [CVE-2026-89098](https://nvd.nist.gov/vuln/detail/CVE-2026-89098) | Medium | 5.5 | A flaw was found in nfs-utils. The fsidd daemon improperly handles input received over its local domain socket by relyi… |
-| 2026-10-16 19:16:56 | [CVE-2025-55640](https://nvd.nist.gov/vuln/detail/CVE-2025-55640) |  |  | A heap buffer overflow in the stbl_AddSize function (isomedia/stbl_write.c) of GPAC MP4Box v2.4 allows attackers to cau… |
-| 2026-10-16 19:16:57 | [CVE-2025-55653](https://nvd.nist.gov/vuln/detail/CVE-2025-55653) |  |  | GPAC MP4Box v2.4 was discovered to contain a floating point exception in the gf_parse_lfrac function (utils/error.c). P… |
-| 2026-10-16 19:16:57 | [CVE-2025-66969](https://nvd.nist.gov/vuln/detail/CVE-2025-66969) |  |  | Integer overflow in OpenModSim (<=1.11.0), leading to denial of service |
-| 2026-10-16 19:17:01 | [CVE-2026-102917](https://nvd.nist.gov/vuln/detail/CVE-2026-102917) | High | 7.8 | IBM i 7.3, 7.4, 7.5, and 7.6 is vulnerable to an authenticated attacker elevating their privilege. A bad actor could ex… |
-| 2026-10-16 19:17:02 | [CVE-2026-107674](https://nvd.nist.gov/vuln/detail/CVE-2026-107674) | Medium | 5.1 | IBM i 7.3, 7.4, 7.5, and 7.6 is vulnerable to a denial of service to Digital Certificate Manager (DCM) for System TLS u… |
-| 2026-10-16 19:17:05 | [CVE-2026-111793](https://nvd.nist.gov/vuln/detail/CVE-2026-111793) | Medium | 4.3 | Openwave Webtop Media Transcoder does not enforce administrator-defined file type restrictions to restrict the file-typ… |
-| 2026-10-16 19:17:06 | [CVE-2026-17068](https://nvd.nist.gov/vuln/detail/CVE-2026-17068) | Medium | 5.4 | IBM i 7.3, 7.4, 7.5, and 7.6 could allow a local attacker to bypass NFS version restrictions due to improper enforcemen… |
-| 2026-10-16 19:17:06 | [CVE-2026-17073](https://nvd.nist.gov/vuln/detail/CVE-2026-17073) | Medium | 5.4 | IBM i 7.3, 7.4, 7.5, and 7.6 could allow a local attacker to obtain sensitive information due to missing subtree checks… |
-| 2026-10-16 19:17:06 | [CVE-2026-17275](https://nvd.nist.gov/vuln/detail/CVE-2026-17275) | Low | 3.7 | IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote attacker to perform unauthorized manipulation of distributed transact… |
-| 2026-10-16 19:17:06 | [CVE-2026-17488](https://nvd.nist.gov/vuln/detail/CVE-2026-17488) | Medium | 4.3 | IBM i 7.3, 7.4, 7.5, and 7.6 could allow a remote authenticated attacker to bypass security restrictions due to imprope… |
-| 2026-10-16 19:17:06 | [CVE-2026-17491](https://nvd.nist.gov/vuln/detail/CVE-2026-17491) | Medium | 5.4 | IBM i 7.3, 7.4, 7.5, and 7.6 is could allow a remote authenticated attacker to bypass security restrictions due to impr… |
-| 2026-10-16 19:17:44 | [CVE-2026-85231](https://nvd.nist.gov/vuln/detail/CVE-2026-85231) | Medium | 6.5 | A flaw was found in libtirpc. An authenticated remote attacker could exploit this vulnerability by sending oversized wr… |
-| 2026-10-16 19:17:44 | [CVE-2026-85977](https://nvd.nist.gov/vuln/detail/CVE-2026-85977) | Medium | 5.3 | A flaw was found in libtirpc. A remote attacker can exploit this vulnerability by sending specially crafted PMAPPROC_DU… |
+| 2026-10-16 20:17:17 | [CVE-2026-102607](https://nvd.nist.gov/vuln/detail/CVE-2026-102607) | High | 8.8 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3, the exportEvents() f… |
+| 2026-10-16 20:17:17 | [CVE-2026-102608](https://nvd.nist.gov/vuln/detail/CVE-2026-102608) | Critical | 9.0 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3, downloadEvents() man… |
+| 2026-10-16 20:17:17 | [CVE-2026-102834](https://nvd.nist.gov/vuln/detail/CVE-2026-102834) | High | 7.5 | JavaCV provides Java interfaces to OpenCV, FFmpeg, and other multimedia libraries. Prior to 1.5.14, IPCameraFrameGrabbe… |
+| 2026-10-16 20:17:18 | [CVE-2026-108709](https://nvd.nist.gov/vuln/detail/CVE-2026-108709) |  |  | Authentication bypass within in-house network in Apache Kylin. Impact most to the kylin services that are directly expo… |
+| 2026-10-16 20:17:19 | [CVE-2026-108743](https://nvd.nist.gov/vuln/detail/CVE-2026-108743) |  |  | Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in Apache Kyli… |
+| 2026-10-16 20:17:23 | [CVE-2026-30971](https://nvd.nist.gov/vuln/detail/CVE-2026-30971) | High | 8.8 | ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.39.2, 1.38.2, and 1.36.40,… |
+| 2026-10-16 20:17:23 | [CVE-2026-59963](https://nvd.nist.gov/vuln/detail/CVE-2026-59963) | High | 7.1 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, r… |
+| 2026-10-16 20:17:23 | [CVE-2026-59966](https://nvd.nist.gov/vuln/detail/CVE-2026-59966) | Medium | 5.7 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, e… |
+| 2026-10-16 20:17:23 | [CVE-2026-59970](https://nvd.nist.gov/vuln/detail/CVE-2026-59970) | High | 7.7 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, p… |
+| 2026-10-16 20:17:23 | [CVE-2026-61726](https://nvd.nist.gov/vuln/detail/CVE-2026-61726) | High | 8.1 | Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.12, S… |
+| 2026-10-16 20:17:24 | [CVE-2026-68572](https://nvd.nist.gov/vuln/detail/CVE-2026-68572) |  |  | Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache Kylin. This issue affects Apache Kyl… |
+| 2026-10-16 20:17:24 | [CVE-2026-68573](https://nvd.nist.gov/vuln/detail/CVE-2026-68573) |  |  | Improper Authentication vulnerability in Apache Kylin. Unauthenticated user may access to system cleanup actions. Impac… |
+| 2026-10-16 20:17:24 | [CVE-2026-69076](https://nvd.nist.gov/vuln/detail/CVE-2026-69076) |  |  | Exposure of Job Discard to an Unauthorized Actor vulnerability in Apache Kylin. Impact most to the kylin services that… |
+| 2026-10-16 20:17:24 | [CVE-2026-69077](https://nvd.nist.gov/vuln/detail/CVE-2026-69077) |  |  | Exposure of unauthorized cross-project job manipulation vulnerability in Apache Kylin. Impact most to the kylin service… |
+| 2026-10-16 20:17:24 | [CVE-2026-69080](https://nvd.nist.gov/vuln/detail/CVE-2026-69080) |  |  | Exposure of SQL Black List to an Unauthorized Actor vulnerability in Apache Kylin. This issue affects Apache Kylin: fro… |
+| 2026-10-16 20:18:28 | [CVE-2026-96620](https://nvd.nist.gov/vuln/detail/CVE-2026-96620) | Critical | 9.2 | Claude Agent SDK is a Python SDK for Claude Code. Prior to 0.2.121, the resume option is passed to the Claude CLI as a… |
 
 ## Data source
 
