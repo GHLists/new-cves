@@ -9,25 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 09:19 UTC
+## Latest list — 2026-10-16 10:22 UTC
 
-New CVEs published between 2026-10-16 08:19 UTC and 2026-10-16 09:19 UTC.
+New CVEs published between 2026-10-16 09:19 UTC and 2026-10-16 10:22 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T09-19-50-909948Z.csv)
+[Full CSV](data/new-cves-2026-10-16T10-22-39-691051Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 09:17:03 | [CVE-2026-101300](https://nvd.nist.gov/vuln/detail/CVE-2026-101300) | High | 7.1 | Server-Side Request Forgery (SSRF) reported in the ticket sales chart PDF export functionality of Wegow. According to t… |
-| 2026-10-16 09:17:03 | [CVE-2026-104003](https://nvd.nist.gov/vuln/detail/CVE-2026-104003) | Medium | 5.4 | The WP User Avatar / ProfilePress plugin for WordPress is vulnerable to Arbitrary Shortcode Execution in versions up to… |
-| 2026-10-16 09:17:03 | [CVE-2026-104726](https://nvd.nist.gov/vuln/detail/CVE-2026-104726) | Medium | 6.4 | The Name Directory plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'dir' Shortcode Attribute in a… |
-| 2026-10-16 09:17:04 | [CVE-2026-109224](https://nvd.nist.gov/vuln/detail/CVE-2026-109224) | High | 7.2 | The SureCart – Ecommerce Made Easy For Selling Physical Products, Digital Downloads, Subscriptions, Donations, & Paymen… |
-| 2026-10-16 09:17:04 | [CVE-2026-111311](https://nvd.nist.gov/vuln/detail/CVE-2026-111311) | High | 8.8 | The DoubleScale \| All-in-One CRM – Sales, Multi-Channel Marketing, Newsletter, Booking, Helpdesk, Automation, MCP & Mor… |
-| 2026-10-16 09:17:04 | [CVE-2026-111472](https://nvd.nist.gov/vuln/detail/CVE-2026-111472) | Critical | 9.3 | An SQL injection vulnerability has been discovered in TSG Profleet. The vulnerability could allow an attacker to retrie… |
-| 2026-10-16 09:17:04 | [CVE-2026-14177](https://nvd.nist.gov/vuln/detail/CVE-2026-14177) | High | 7.5 | Observable response discrepancy vulnerability in IKAS Technology Inc. Ikas E-Commerce Infrastructure allows Account Foo… |
-| 2026-10-16 09:17:04 | [CVE-2026-15219](https://nvd.nist.gov/vuln/detail/CVE-2026-15219) | Medium | 6.5 | Authorization bypass through User-Controlled key vulnerability in SFM Software Technologies Inc. Costifier allows Explo… |
-| 2026-10-16 09:17:04 | [CVE-2026-15575](https://nvd.nist.gov/vuln/detail/CVE-2026-15575) | Medium | 5.3 | Active debug code vulnerability in SFM Software Technologies Inc. Costifier allows Exploit Non-Production Interfaces. T… |
-| 2026-10-16 09:17:04 | [CVE-2026-92766](https://nvd.nist.gov/vuln/detail/CVE-2026-92766) | High | 7.5 | The Vitepos – Point of Sale (POS) for WooCommerce plugin for WordPress is vulnerable to generic SQL Injection via the '… |
-| 2026-10-16 09:17:05 | [CVE-2026-93681](https://nvd.nist.gov/vuln/detail/CVE-2026-93681) | Medium | 6.4 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to Stored Cross-Site Scripting… |
+| 2026-10-16 10:18:03 | [CVE-2026-106030](https://nvd.nist.gov/vuln/detail/CVE-2026-106030) | Medium | 6.8 | NordVPN for Windows allows local attackers to stop unprotected Windows system services and change their startup type to… |
+| 2026-10-16 10:18:04 | [CVE-2026-107649](https://nvd.nist.gov/vuln/detail/CVE-2026-107649) | Medium | 5.4 | The Events Made Easy plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'event[location_name]' p… |
+| 2026-10-16 10:18:05 | [CVE-2026-110703](https://nvd.nist.gov/vuln/detail/CVE-2026-110703) | Medium | 6.4 | The GeoDirectory – WP Business Directory Plugin and Classified Listings Directory plugin for WordPress is vulnerable to… |
+| 2026-10-16 10:18:05 | [CVE-2026-14452](https://nvd.nist.gov/vuln/detail/CVE-2026-14452) | High | 8.6 | Improper validation of the reset_url parameter of the Setup in-page search in Checkmk <2.5.0p15, <2.4.0p38, <2.3.0p51 a… |
+| 2026-10-16 10:18:05 | [CVE-2026-96768](https://nvd.nist.gov/vuln/detail/CVE-2026-96768) | High | 7.2 | The GoSMTP Pro plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content via Email Log Body… |
 
 ## Data source
 
