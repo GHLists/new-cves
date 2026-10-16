@@ -9,28 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 08:19 UTC
+## Latest list — 2026-10-16 09:19 UTC
 
-New CVEs published between 2026-10-16 07:20 UTC and 2026-10-16 08:19 UTC.
+New CVEs published between 2026-10-16 08:19 UTC and 2026-10-16 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-16T08-19-24-264358Z.csv)
+[Full CSV](data/new-cves-2026-10-16T09-19-50-909948Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-16 08:17:11 | [CVE-2026-100106](https://nvd.nist.gov/vuln/detail/CVE-2026-100106) | Medium | 6.4 | The FiboSearch – Ajax Search for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the… |
-| 2026-10-16 08:17:12 | [CVE-2026-100108](https://nvd.nist.gov/vuln/detail/CVE-2026-100108) | Medium | 6.4 | The Social Share Buttons plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'form (containing sh… |
-| 2026-10-16 08:17:12 | [CVE-2026-16251](https://nvd.nist.gov/vuln/detail/CVE-2026-16251) | Medium | 6.5 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to limit the size of… |
-| 2026-10-16 08:17:12 | [CVE-2026-16453](https://nvd.nist.gov/vuln/detail/CVE-2026-16453) | High | 7.1 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to verify the integri… |
-| 2026-10-16 08:17:12 | [CVE-2026-18223](https://nvd.nist.gov/vuln/detail/CVE-2026-18223) | Medium | 5.0 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to validate the invit… |
-| 2026-10-16 08:17:12 | [CVE-2026-18256](https://nvd.nist.gov/vuln/detail/CVE-2026-18256) | Medium | 4.3 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to properly restrict… |
-| 2026-10-16 08:17:12 | [CVE-2026-18560](https://nvd.nist.gov/vuln/detail/CVE-2026-18560) | Medium | 4.3 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to validate user’s pe… |
-| 2026-10-16 08:17:13 | [CVE-2026-18799](https://nvd.nist.gov/vuln/detail/CVE-2026-18799) | Medium | 4.3 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to restrict Slack imp… |
-| 2026-10-16 08:17:13 | [CVE-2026-19076](https://nvd.nist.gov/vuln/detail/CVE-2026-19076) | Medium | 4.4 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to reject OAuth appli… |
-| 2026-10-16 08:17:13 | [CVE-2026-19600](https://nvd.nist.gov/vuln/detail/CVE-2026-19600) | Medium | 4.5 | Mattermost versions 11.9.x <= 11.9.1, 11.8.x <= 11.8.5, 11.7.x <= 11.7.10, 11.10.x <= 11.10.1 fail to sanitize authenti… |
-| 2026-10-16 08:17:13 | [CVE-2026-19621](https://nvd.nist.gov/vuln/detail/CVE-2026-19621) | Medium | 6.5 | Mattermost versions 11.10.x <= 11.10.0, 11.7.x <= 11.7.9, 11.9.x <= 11.9.1, 11.8.x <= 11.8.5 fail to strip action integ… |
-| 2026-10-16 08:17:13 | [CVE-2026-75903](https://nvd.nist.gov/vuln/detail/CVE-2026-75903) | High | 8.1 | The Vulnity Security plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including,… |
-| 2026-10-16 08:17:13 | [CVE-2026-87111](https://nvd.nist.gov/vuln/detail/CVE-2026-87111) | High | 7.2 | The User Registration PRO – Custom Registration Form, Login Form, and User Profile WordPress Plugin plugin for WordPres… |
-| 2026-10-16 08:17:13 | [CVE-2026-96870](https://nvd.nist.gov/vuln/detail/CVE-2026-96870) | Medium | 6.4 | The SureDash – Community, Courses & Member Dashboard plugin for WordPress is vulnerable to Stored Cross-Site Scripting… |
+| 2026-10-16 09:17:03 | [CVE-2026-101300](https://nvd.nist.gov/vuln/detail/CVE-2026-101300) | High | 7.1 | Server-Side Request Forgery (SSRF) reported in the ticket sales chart PDF export functionality of Wegow. According to t… |
+| 2026-10-16 09:17:03 | [CVE-2026-104003](https://nvd.nist.gov/vuln/detail/CVE-2026-104003) | Medium | 5.4 | The WP User Avatar / ProfilePress plugin for WordPress is vulnerable to Arbitrary Shortcode Execution in versions up to… |
+| 2026-10-16 09:17:03 | [CVE-2026-104726](https://nvd.nist.gov/vuln/detail/CVE-2026-104726) | Medium | 6.4 | The Name Directory plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'dir' Shortcode Attribute in a… |
+| 2026-10-16 09:17:04 | [CVE-2026-109224](https://nvd.nist.gov/vuln/detail/CVE-2026-109224) | High | 7.2 | The SureCart – Ecommerce Made Easy For Selling Physical Products, Digital Downloads, Subscriptions, Donations, & Paymen… |
+| 2026-10-16 09:17:04 | [CVE-2026-111311](https://nvd.nist.gov/vuln/detail/CVE-2026-111311) | High | 8.8 | The DoubleScale \| All-in-One CRM – Sales, Multi-Channel Marketing, Newsletter, Booking, Helpdesk, Automation, MCP & Mor… |
+| 2026-10-16 09:17:04 | [CVE-2026-111472](https://nvd.nist.gov/vuln/detail/CVE-2026-111472) | Critical | 9.3 | An SQL injection vulnerability has been discovered in TSG Profleet. The vulnerability could allow an attacker to retrie… |
+| 2026-10-16 09:17:04 | [CVE-2026-14177](https://nvd.nist.gov/vuln/detail/CVE-2026-14177) | High | 7.5 | Observable response discrepancy vulnerability in IKAS Technology Inc. Ikas E-Commerce Infrastructure allows Account Foo… |
+| 2026-10-16 09:17:04 | [CVE-2026-15219](https://nvd.nist.gov/vuln/detail/CVE-2026-15219) | Medium | 6.5 | Authorization bypass through User-Controlled key vulnerability in SFM Software Technologies Inc. Costifier allows Explo… |
+| 2026-10-16 09:17:04 | [CVE-2026-15575](https://nvd.nist.gov/vuln/detail/CVE-2026-15575) | Medium | 5.3 | Active debug code vulnerability in SFM Software Technologies Inc. Costifier allows Exploit Non-Production Interfaces. T… |
+| 2026-10-16 09:17:04 | [CVE-2026-92766](https://nvd.nist.gov/vuln/detail/CVE-2026-92766) | High | 7.5 | The Vitepos – Point of Sale (POS) for WooCommerce plugin for WordPress is vulnerable to generic SQL Injection via the '… |
+| 2026-10-16 09:17:05 | [CVE-2026-93681](https://nvd.nist.gov/vuln/detail/CVE-2026-93681) | Medium | 6.4 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to Stored Cross-Site Scripting… |
 
 ## Data source
 
