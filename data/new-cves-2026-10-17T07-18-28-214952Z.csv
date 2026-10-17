@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-17T07:16:50.35Z,CVE-2026-110384,HIGH,7.1,Received,CWE-79,1,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Heateor Support Fancy Comments WordPress fancy-facebook-comments allows Reflected XSS.This issue affects Fancy Comments WordPress: from n/a through 1.2.21.
