@@ -9,21 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 03:18 UTC
+## Latest list — 2026-10-17 04:19 UTC
 
-New CVEs published between 2026-10-17 02:18 UTC and 2026-10-17 03:18 UTC.
+New CVEs published between 2026-10-17 03:18 UTC and 2026-10-17 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-17T03-18-28-445475Z.csv)
+[Full CSV](data/new-cves-2026-10-17T04-19-12-175516Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-17 03:16:27 | [CVE-2026-104734](https://nvd.nist.gov/vuln/detail/CVE-2026-104734) | High | 7.2 | The Kirki – Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to PHP Object Inject… |
-| 2026-10-17 03:16:28 | [CVE-2026-107762](https://nvd.nist.gov/vuln/detail/CVE-2026-107762) | High | 7.5 | The Kirki – Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to Insecure Direct O… |
-| 2026-10-17 03:16:28 | [CVE-2026-107763](https://nvd.nist.gov/vuln/detail/CVE-2026-107763) | Medium | 4.3 | The Fastcache by Host.it plugin for WordPress is vulnerable to authorization bypass in all versions up to, and includin… |
-| 2026-10-17 03:16:28 | [CVE-2026-109208](https://nvd.nist.gov/vuln/detail/CVE-2026-109208) | High | 7.2 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to Stored C… |
-| 2026-10-17 03:16:28 | [CVE-2026-110653](https://nvd.nist.gov/vuln/detail/CVE-2026-110653) | Critical | 9.1 | The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable to… |
-| 2026-10-17 03:16:28 | [CVE-2026-111601](https://nvd.nist.gov/vuln/detail/CVE-2026-111601) | Medium | 6.1 | The Hippoo Mobile App for WooCommerce plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'tok… |
-| 2026-10-17 03:16:28 | [CVE-2026-111602](https://nvd.nist.gov/vuln/detail/CVE-2026-111602) | Low | 3.7 | The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable to… |
+| 2026-10-17 04:16:47 | [CVE-2026-103899](https://nvd.nist.gov/vuln/detail/CVE-2026-103899) | High | 7.2 | The EU VAT Assistant for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'vat_num… |
+| 2026-10-17 04:16:47 | [CVE-2026-104736](https://nvd.nist.gov/vuln/detail/CVE-2026-104736) | Critical | 9.8 | The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 4.4.10 via… |
+| 2026-10-17 04:16:48 | [CVE-2026-107744](https://nvd.nist.gov/vuln/detail/CVE-2026-107744) | Medium | 6.5 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to authoriz… |
+| 2026-10-17 04:16:48 | [CVE-2026-107752](https://nvd.nist.gov/vuln/detail/CVE-2026-107752) | Medium | 4.9 | The Welcart e-Commerce plugin for WordPress is vulnerable to generic SQL Injection via the 'wp_usces_order_old (JSON fi… |
+| 2026-10-17 04:16:48 | [CVE-2026-108123](https://nvd.nist.gov/vuln/detail/CVE-2026-108123) | High | 7.5 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to authorization bypass in all versions up… |
+| 2026-10-17 04:16:51 | [CVE-2026-109368](https://nvd.nist.gov/vuln/detail/CVE-2026-109368) | Medium | 6.5 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to Sensitive Information Exposure in all ve… |
+| 2026-10-17 04:16:51 | [CVE-2026-109369](https://nvd.nist.gov/vuln/detail/CVE-2026-109369) | Medium | 6.8 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to authorization bypass in all versions up… |
+| 2026-10-17 04:16:51 | [CVE-2026-109985](https://nvd.nist.gov/vuln/detail/CVE-2026-109985) | Medium | 6.4 | The xSpeed Cache: AI-Powered Performance Hub with MCP, Caching & CDN plugin for WordPress is vulnerable to Stored Cross… |
+| 2026-10-17 04:16:51 | [CVE-2026-109989](https://nvd.nist.gov/vuln/detail/CVE-2026-109989) | Medium | 6.4 | The Themify Popup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'popup_width_unit' paramete… |
+| 2026-10-17 04:16:52 | [CVE-2026-110268](https://nvd.nist.gov/vuln/detail/CVE-2026-110268) | Medium | 4.9 | The Post Export Import with Media plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and… |
+| 2026-10-17 04:16:52 | [CVE-2026-111726](https://nvd.nist.gov/vuln/detail/CVE-2026-111726) | Medium | 6.4 | The Themify Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'visible' Shortcode Attribute… |
+| 2026-10-17 04:17:10 | [CVE-2026-92715](https://nvd.nist.gov/vuln/detail/CVE-2026-92715) | Medium | 4.3 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to Insecure Direct Object Refer… |
+| 2026-10-17 04:17:10 | [CVE-2026-92798](https://nvd.nist.gov/vuln/detail/CVE-2026-92798) | High | 8.1 | The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode Execution in versions up t… |
+| 2026-10-17 04:17:10 | [CVE-2026-92978](https://nvd.nist.gov/vuln/detail/CVE-2026-92978) | Medium | 4.3 | The User Registration & Membership – Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom… |
+| 2026-10-17 04:17:10 | [CVE-2026-96660](https://nvd.nist.gov/vuln/detail/CVE-2026-96660) | High | 7.2 | The User Registration & Membership – Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom… |
 
 ## Data source
 
