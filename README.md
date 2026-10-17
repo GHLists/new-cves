@@ -9,18 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 02:18 UTC
+## Latest list — 2026-10-17 03:18 UTC
 
-New CVEs published between 2026-10-17 01:19 UTC and 2026-10-17 02:18 UTC.
+New CVEs published between 2026-10-17 02:18 UTC and 2026-10-17 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-17T02-18-45-571822Z.csv)
+[Full CSV](data/new-cves-2026-10-17T03-18-28-445475Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-17 02:17:18 | [CVE-2026-111823](https://nvd.nist.gov/vuln/detail/CVE-2026-111823) | Critical | 9.8 | Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider. |
-| 2026-10-17 02:17:18 | [CVE-2026-111853](https://nvd.nist.gov/vuln/detail/CVE-2026-111853) | High | 8.8 | An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. An OS command injection vulnerability exists i… |
-| 2026-10-17 02:17:18 | [CVE-2026-111854](https://nvd.nist.gov/vuln/detail/CVE-2026-111854) | High | 8.1 | An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vulnerability in the SCPI FIL… |
-| 2026-10-17 02:17:18 | [CVE-2026-111855](https://nvd.nist.gov/vuln/detail/CVE-2026-111855) | High | 7.5 | An issue was discovered on Tektronix 3 Series MDO devices before 1.21.1. A path traversal vulnerability exists in the w… |
+| 2026-10-17 03:16:27 | [CVE-2026-104734](https://nvd.nist.gov/vuln/detail/CVE-2026-104734) | High | 7.2 | The Kirki – Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to PHP Object Inject… |
+| 2026-10-17 03:16:28 | [CVE-2026-107762](https://nvd.nist.gov/vuln/detail/CVE-2026-107762) | High | 7.5 | The Kirki – Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to Insecure Direct O… |
+| 2026-10-17 03:16:28 | [CVE-2026-107763](https://nvd.nist.gov/vuln/detail/CVE-2026-107763) | Medium | 4.3 | The Fastcache by Host.it plugin for WordPress is vulnerable to authorization bypass in all versions up to, and includin… |
+| 2026-10-17 03:16:28 | [CVE-2026-109208](https://nvd.nist.gov/vuln/detail/CVE-2026-109208) | High | 7.2 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to Stored C… |
+| 2026-10-17 03:16:28 | [CVE-2026-110653](https://nvd.nist.gov/vuln/detail/CVE-2026-110653) | Critical | 9.1 | The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable to… |
+| 2026-10-17 03:16:28 | [CVE-2026-111601](https://nvd.nist.gov/vuln/detail/CVE-2026-111601) | Medium | 6.1 | The Hippoo Mobile App for WooCommerce plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the 'tok… |
+| 2026-10-17 03:16:28 | [CVE-2026-111602](https://nvd.nist.gov/vuln/detail/CVE-2026-111602) | Low | 3.7 | The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable to… |
 
 ## Data source
 
