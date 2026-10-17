@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 07:18 UTC
+## Latest list — 2026-10-17 08:19 UTC
 
-New CVEs published between 2026-10-17 06:18 UTC and 2026-10-17 07:18 UTC.
+New CVEs published between 2026-10-17 07:18 UTC and 2026-10-17 08:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-17T07-18-28-214952Z.csv)
+[Full CSV](data/new-cves-2026-10-17T08-19-16-150705Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-17 07:16:50 | [CVE-2026-110384](https://nvd.nist.gov/vuln/detail/CVE-2026-110384) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Heateor Support F… |
+| 2026-10-17 08:16:26 | [CVE-2026-100316](https://nvd.nist.gov/vuln/detail/CVE-2026-100316) | High | 7.2 | The European VAT Compliance Assistant for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting… |
+| 2026-10-17 08:16:28 | [CVE-2026-109983](https://nvd.nist.gov/vuln/detail/CVE-2026-109983) | Medium | 6.4 | The YMC Filter plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scripting via the 'post_title' paramet… |
+| 2026-10-17 08:16:28 | [CVE-2026-110253](https://nvd.nist.gov/vuln/detail/CVE-2026-110253) | Medium | 5.4 | The weForms – Easy Drag & Drop Contact Form Builder For WordPress plugin for WordPress is vulnerable to limited media f… |
+| 2026-10-17 08:16:28 | [CVE-2026-111110](https://nvd.nist.gov/vuln/detail/CVE-2026-111110) | High | 7.2 | The Payment forms, Buy now buttons, and Invoicing System \| GetPaid plugin for WordPress is vulnerable to Stored Cross-S… |
 
 ## Data source
 
