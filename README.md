@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 11:18 UTC
+## Latest list — 2026-10-17 17:18 UTC
 
-New CVEs published between 2026-10-17 10:19 UTC and 2026-10-17 11:18 UTC.
+New CVEs published between 2026-10-17 16:18 UTC and 2026-10-17 17:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-17T11-18-24-366505Z.csv)
+[Full CSV](data/new-cves-2026-10-17T17-18-46-884336Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-17 11:16:32 | [CVE-2026-110889](https://nvd.nist.gov/vuln/detail/CVE-2026-110889) | High | 7.5 | Generation of Error Message Containing Sensitive Information vulnerability in Gantry Gantry 5 Framework gantry5 allows… |
+| 2026-10-17 17:16:28 | [CVE-2026-109701](https://nvd.nist.gov/vuln/detail/CVE-2026-109701) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PAYCOMET PAYCOMET… |
 
 ## Data source
 

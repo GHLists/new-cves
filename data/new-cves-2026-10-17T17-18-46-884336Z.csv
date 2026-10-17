@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-17T17:16:28.973Z,CVE-2026-109701,HIGH,7.1,Received,CWE-79,1,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PAYCOMET PAYCOMET for WooCommerce paytpv-for-woocommerce allows Reflected XSS.This issue affects PAYCOMET for WooCommerce: from n/a through 5.45.
