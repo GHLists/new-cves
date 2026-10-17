@@ -9,29 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:19 UTC
+## Latest list — 2026-10-17 06:18 UTC
 
-New CVEs published between 2026-10-17 03:18 UTC and 2026-10-17 04:19 UTC.
+New CVEs published between 2026-10-17 05:19 UTC and 2026-10-17 06:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-17T04-19-12-175516Z.csv)
+[Full CSV](data/new-cves-2026-10-17T06-18-24-183906Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-17 04:16:47 | [CVE-2026-103899](https://nvd.nist.gov/vuln/detail/CVE-2026-103899) | High | 7.2 | The EU VAT Assistant for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'vat_num… |
-| 2026-10-17 04:16:47 | [CVE-2026-104736](https://nvd.nist.gov/vuln/detail/CVE-2026-104736) | Critical | 9.8 | The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 4.4.10 via… |
-| 2026-10-17 04:16:48 | [CVE-2026-107744](https://nvd.nist.gov/vuln/detail/CVE-2026-107744) | Medium | 6.5 | The LearnPress – WordPress LMS Plugin for Create and Sell Online Courses plugin for WordPress is vulnerable to authoriz… |
-| 2026-10-17 04:16:48 | [CVE-2026-107752](https://nvd.nist.gov/vuln/detail/CVE-2026-107752) | Medium | 4.9 | The Welcart e-Commerce plugin for WordPress is vulnerable to generic SQL Injection via the 'wp_usces_order_old (JSON fi… |
-| 2026-10-17 04:16:48 | [CVE-2026-108123](https://nvd.nist.gov/vuln/detail/CVE-2026-108123) | High | 7.5 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to authorization bypass in all versions up… |
-| 2026-10-17 04:16:51 | [CVE-2026-109368](https://nvd.nist.gov/vuln/detail/CVE-2026-109368) | Medium | 6.5 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to Sensitive Information Exposure in all ve… |
-| 2026-10-17 04:16:51 | [CVE-2026-109369](https://nvd.nist.gov/vuln/detail/CVE-2026-109369) | Medium | 6.8 | The WP Booking System – Booking Calendar plugin for WordPress is vulnerable to authorization bypass in all versions up… |
-| 2026-10-17 04:16:51 | [CVE-2026-109985](https://nvd.nist.gov/vuln/detail/CVE-2026-109985) | Medium | 6.4 | The xSpeed Cache: AI-Powered Performance Hub with MCP, Caching & CDN plugin for WordPress is vulnerable to Stored Cross… |
-| 2026-10-17 04:16:51 | [CVE-2026-109989](https://nvd.nist.gov/vuln/detail/CVE-2026-109989) | Medium | 6.4 | The Themify Popup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'popup_width_unit' paramete… |
-| 2026-10-17 04:16:52 | [CVE-2026-110268](https://nvd.nist.gov/vuln/detail/CVE-2026-110268) | Medium | 4.9 | The Post Export Import with Media plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and… |
-| 2026-10-17 04:16:52 | [CVE-2026-111726](https://nvd.nist.gov/vuln/detail/CVE-2026-111726) | Medium | 6.4 | The Themify Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'visible' Shortcode Attribute… |
-| 2026-10-17 04:17:10 | [CVE-2026-92715](https://nvd.nist.gov/vuln/detail/CVE-2026-92715) | Medium | 4.3 | The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to Insecure Direct Object Refer… |
-| 2026-10-17 04:17:10 | [CVE-2026-92798](https://nvd.nist.gov/vuln/detail/CVE-2026-92798) | High | 8.1 | The User Registration & Membership plugin for WordPress is vulnerable to Arbitrary Shortcode Execution in versions up t… |
-| 2026-10-17 04:17:10 | [CVE-2026-92978](https://nvd.nist.gov/vuln/detail/CVE-2026-92978) | Medium | 4.3 | The User Registration & Membership – Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom… |
-| 2026-10-17 04:17:10 | [CVE-2026-96660](https://nvd.nist.gov/vuln/detail/CVE-2026-96660) | High | 7.2 | The User Registration & Membership – Free & Paid Memberships, Subscriptions, Content Restriction, User Profile, Custom… |
+| 2026-10-17 06:16:30 | [CVE-2026-103376](https://nvd.nist.gov/vuln/detail/CVE-2026-103376) |  |  | The PeachPay — Payments & Express Checkout for WooCommerce (supports Stripe, PayPal, Square, Authorize.net, NMI) WordPr… |
+| 2026-10-17 06:16:33 | [CVE-2026-104122](https://nvd.nist.gov/vuln/detail/CVE-2026-104122) |  |  | The Ukr-To-Lat WordPress plugin through 1.3.5 does not sanitize and escape a term name before using it in a SQL query,… |
+| 2026-10-17 06:16:33 | [CVE-2026-104246](https://nvd.nist.gov/vuln/detail/CVE-2026-104246) |  |  | The Contact Form 7 Signature Addon WordPress plugin through 4.2.2 does not sanitize a signature field value before buil… |
+| 2026-10-17 06:16:33 | [CVE-2026-106470](https://nvd.nist.gov/vuln/detail/CVE-2026-106470) |  |  | The WP Data Access WordPress plugin before 5.5.88 does not have authorisation and CSRF checks in one of its actions, al… |
+| 2026-10-17 06:16:33 | [CVE-2026-110527](https://nvd.nist.gov/vuln/detail/CVE-2026-110527) |  |  | The WP User Manager WordPress plugin before 2.9.20 does not roll back the WordPress account it creates during payment-g… |
+| 2026-10-17 06:16:33 | [CVE-2026-81343](https://nvd.nist.gov/vuln/detail/CVE-2026-81343) |  |  | The ACF Frontend Admin by DynamiApps WordPress plugin through 3.29.13 does not perform a capability check on one of its… |
+| 2026-10-17 06:16:33 | [CVE-2026-81344](https://nvd.nist.gov/vuln/detail/CVE-2026-81344) |  |  | The ACF Frontend Admin by DynamiApps WordPress plugin through 3.29.13 does not restrict which PHP classes may be instan… |
+| 2026-10-17 06:16:33 | [CVE-2026-91074](https://nvd.nist.gov/vuln/detail/CVE-2026-91074) |  |  | The BSK PDF Manager WordPress plugin through 3.8.1 does not properly sanitise and escape a parameter before using it in… |
+| 2026-10-17 06:16:34 | [CVE-2026-92431](https://nvd.nist.gov/vuln/detail/CVE-2026-92431) |  |  | The Patreon WordPress plugin before 1.10.0 does not perform an authorization check on some of its functionality, allowi… |
+| 2026-10-17 06:16:34 | [CVE-2026-92432](https://nvd.nist.gov/vuln/detail/CVE-2026-92432) |  |  | The Patreon WordPress plugin before 1.10.0 does not validate a user-supplied redirect destination before redirecting, a… |
+| 2026-10-17 06:16:34 | [CVE-2026-92433](https://nvd.nist.gov/vuln/detail/CVE-2026-92433) |  |  | The Patreon WordPress plugin before 1.10.0 does not verify a nonce when connecting the site to a Patreon account, allow… |
+| 2026-10-17 06:16:34 | [CVE-2026-97314](https://nvd.nist.gov/vuln/detail/CVE-2026-97314) |  |  | The ThirstyAffiliates WordPress plugin before 3.12.1 does not check the status or type of the object requested by its l… |
 
 ## Data source
 
