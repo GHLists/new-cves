@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:18 UTC
+## Latest list — 2026-10-18 04:18 UTC
 
-New CVEs published between 2026-10-18 02:18 UTC and 2026-10-18 03:18 UTC.
+New CVEs published between 2026-10-18 03:18 UTC and 2026-10-18 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-18T03-18-24-29692Z.csv)
+[Full CSV](data/new-cves-2026-10-18T04-18-24-367285Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-18 03:16:28 | [CVE-2026-111869](https://nvd.nist.gov/vuln/detail/CVE-2026-111869) | Medium | 5.5 | A vulnerability was identified in makeplane plane up to 1.4.2. Impacted is an unknown function of the component API End… |
+| 2026-10-18 04:16:31 | [CVE-2026-111870](https://nvd.nist.gov/vuln/detail/CVE-2026-111870) | Medium | 5.5 | A security flaw has been discovered in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2… |
+| 2026-10-18 04:16:35 | [CVE-2026-111871](https://nvd.nist.gov/vuln/detail/CVE-2026-111871) | Medium | 5.5 | A weakness has been identified in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c9912302d2a1e24… |
+| 2026-10-18 04:16:35 | [CVE-2026-111872](https://nvd.nist.gov/vuln/detail/CVE-2026-111872) | Medium | 5.5 | A security vulnerability has been detected in itsmeravitejak Online-Examination-System up to e6208e630b14657999bbfe4c99… |
 
 ## Data source
 
