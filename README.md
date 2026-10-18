@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:18 UTC
+## Latest list — 2026-10-18 03:18 UTC
 
-New CVEs published between 2026-10-18 00:20 UTC and 2026-10-18 01:18 UTC.
+New CVEs published between 2026-10-18 02:18 UTC and 2026-10-18 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-18T01-18-43-601872Z.csv)
+[Full CSV](data/new-cves-2026-10-18T03-18-24-29692Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-18 01:16:34 | [CVE-2026-111868](https://nvd.nist.gov/vuln/detail/CVE-2026-111868) | Low | 2.1 | A vulnerability was determined in datastax pulsar-jms up to 9.0.3. This issue affects the function decode of the file p… |
-| 2026-10-18 01:16:35 | [CVE-2026-111997](https://nvd.nist.gov/vuln/detail/CVE-2026-111997) | Medium | 6.3 | ip-address before 10.7.4 allows a denial of service (CPU consumption from quadratic complexity, and application stall)… |
+| 2026-10-18 03:16:28 | [CVE-2026-111869](https://nvd.nist.gov/vuln/detail/CVE-2026-111869) | Medium | 5.5 | A vulnerability was identified in makeplane plane up to 1.4.2. Impacted is an unknown function of the component API End… |
 
 ## Data source
 
