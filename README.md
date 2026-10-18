@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:20 UTC
+## Latest list — 2026-10-18 01:18 UTC
 
-New CVEs published between 2026-10-17 23:18 UTC and 2026-10-18 00:20 UTC.
+New CVEs published between 2026-10-18 00:20 UTC and 2026-10-18 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-18T00-20-10-744959Z.csv)
+[Full CSV](data/new-cves-2026-10-18T01-18-43-601872Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-18 00:16:37 | [CVE-2026-111866](https://nvd.nist.gov/vuln/detail/CVE-2026-111866) | Medium | 6.9 | A weakness has been identified in nemoTyrant manong up to 7c9e5228e133b9267ad3a415833bc9bb53193bb4. This impacts the fu… |
+| 2026-10-18 01:16:34 | [CVE-2026-111868](https://nvd.nist.gov/vuln/detail/CVE-2026-111868) | Low | 2.1 | A vulnerability was determined in datastax pulsar-jms up to 9.0.3. This issue affects the function decode of the file p… |
+| 2026-10-18 01:16:35 | [CVE-2026-111997](https://nvd.nist.gov/vuln/detail/CVE-2026-111997) | Medium | 6.3 | ip-address before 10.7.4 allows a denial of service (CPU consumption from quadratic complexity, and application stall)… |
 
 ## Data source
 
