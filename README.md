@@ -9,20 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:21 UTC
+## Latest list — 2026-10-19 04:18 UTC
 
-New CVEs published between 2026-10-19 02:20 UTC and 2026-10-19 03:21 UTC.
+New CVEs published between 2026-10-19 03:21 UTC and 2026-10-19 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T03-21-46-961203Z.csv)
+[Full CSV](data/new-cves-2026-10-19T04-18-58-074299Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 03:16:58 | [CVE-2026-102503](https://nvd.nist.gov/vuln/detail/CVE-2026-102503) | Critical | 9.3 | Missing Authentication for Critical Function (CWE-306) and Missing Authorization (CWE-862) in the /libp2p-http ingress… |
-| 2026-10-19 03:16:58 | [CVE-2026-103091](https://nvd.nist.gov/vuln/detail/CVE-2026-103091) | Critical | 9.3 | Missing Authorization (CWE-862) and Initialization of a Resource with an Insecure Default (CWE-1188) in the MCP proxy (… |
-| 2026-10-19 03:16:58 | [CVE-2026-111441](https://nvd.nist.gov/vuln/detail/CVE-2026-111441) | High | 8.1 | 在 openGauss-server 的 src/gausskernel/cbb/utils/hll/hll.cpp 中，内置函数 HllObjectUnpack() 存在长度校验缺陷。该函数从用户提供的 packed HLL 解析 le… |
-| 2026-10-19 03:16:58 | [CVE-2026-112042](https://nvd.nist.gov/vuln/detail/CVE-2026-112042) | Low | 2.0 | A security flaw has been discovered in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. This issue aff… |
-| 2026-10-19 03:16:58 | [CVE-2026-112043](https://nvd.nist.gov/vuln/detail/CVE-2026-112043) | Medium | 5.3 | A weakness has been identified in calcom cal.com and cal.diy up to 6.2.0. Impacted is the function createWebhookProcedu… |
-| 2026-10-19 03:16:59 | [CVE-2026-112044](https://nvd.nist.gov/vuln/detail/CVE-2026-112044) | Medium | 5.5 | A security vulnerability has been detected in dotnet eShop up to 913acea66708a59595351174cee9b29f37179d29. The affected… |
+| 2026-10-19 04:17:03 | [CVE-2026-111440](https://nvd.nist.gov/vuln/detail/CVE-2026-111440) | High | 7.0 | 在 openGauss-connector-jdbc 的 pgjdbc/src/main/java/org/postgresql/log/LogFactory.java 中，LogFactory 根据 JDBC 连接参数中的 logger… |
+| 2026-10-19 04:17:08 | [CVE-2026-112045](https://nvd.nist.gov/vuln/detail/CVE-2026-112045) | Low | 2.1 | A vulnerability was detected in donetick up to 0.1.82. The impacted element is the function CanDeleteHistory of the fil… |
+| 2026-10-19 04:17:08 | [CVE-2026-112073](https://nvd.nist.gov/vuln/detail/CVE-2026-112073) | Low | 2.1 | A vulnerability was identified in Tencent ncnn up to 44b02dabdcf97499281a4692ebd65bad73dcf8b6. Affected by this vulnera… |
+| 2026-10-19 04:17:08 | [CVE-2026-112074](https://nvd.nist.gov/vuln/detail/CVE-2026-112074) | Low | 2.1 | A security flaw has been discovered in Tencent ncnn up to 44b02dabdcf97499281a4692ebd65bad73dcf8b6. Affected by this is… |
+| 2026-10-19 04:17:09 | [CVE-2026-112075](https://nvd.nist.gov/vuln/detail/CVE-2026-112075) | Low | 2.1 | A weakness has been identified in unslothai unsloth up to 0.1.501-beta. This affects the function FastSentenceTransform… |
+| 2026-10-19 04:17:09 | [CVE-2026-112076](https://nvd.nist.gov/vuln/detail/CVE-2026-112076) | Low | 2.9 | A security vulnerability has been detected in alexta69 MeTube up to 2026.09.28. This vulnerability affects the function… |
 
 ## Data source
 
