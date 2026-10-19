@@ -9,20 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 04:18 UTC
+## Latest list — 2026-10-19 05:19 UTC
 
-New CVEs published between 2026-10-19 03:21 UTC and 2026-10-19 04:18 UTC.
+New CVEs published between 2026-10-19 04:18 UTC and 2026-10-19 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T04-18-58-074299Z.csv)
+[Full CSV](data/new-cves-2026-10-19T05-19-12-642859Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 04:17:03 | [CVE-2026-111440](https://nvd.nist.gov/vuln/detail/CVE-2026-111440) | High | 7.0 | 在 openGauss-connector-jdbc 的 pgjdbc/src/main/java/org/postgresql/log/LogFactory.java 中，LogFactory 根据 JDBC 连接参数中的 logger… |
-| 2026-10-19 04:17:08 | [CVE-2026-112045](https://nvd.nist.gov/vuln/detail/CVE-2026-112045) | Low | 2.1 | A vulnerability was detected in donetick up to 0.1.82. The impacted element is the function CanDeleteHistory of the fil… |
-| 2026-10-19 04:17:08 | [CVE-2026-112073](https://nvd.nist.gov/vuln/detail/CVE-2026-112073) | Low | 2.1 | A vulnerability was identified in Tencent ncnn up to 44b02dabdcf97499281a4692ebd65bad73dcf8b6. Affected by this vulnera… |
-| 2026-10-19 04:17:08 | [CVE-2026-112074](https://nvd.nist.gov/vuln/detail/CVE-2026-112074) | Low | 2.1 | A security flaw has been discovered in Tencent ncnn up to 44b02dabdcf97499281a4692ebd65bad73dcf8b6. Affected by this is… |
-| 2026-10-19 04:17:09 | [CVE-2026-112075](https://nvd.nist.gov/vuln/detail/CVE-2026-112075) | Low | 2.1 | A weakness has been identified in unslothai unsloth up to 0.1.501-beta. This affects the function FastSentenceTransform… |
-| 2026-10-19 04:17:09 | [CVE-2026-112076](https://nvd.nist.gov/vuln/detail/CVE-2026-112076) | Low | 2.9 | A security vulnerability has been detected in alexta69 MeTube up to 2026.09.28. This vulnerability affects the function… |
+| 2026-10-19 05:17:04 | [CVE-2026-112077](https://nvd.nist.gov/vuln/detail/CVE-2026-112077) | Medium | 6.3 | A vulnerability was detected in radareorg radare2 6.2.0/6.2.2. This issue affects the function r_core_cmd_str_pipe in t… |
+| 2026-10-19 05:17:04 | [CVE-2026-112078](https://nvd.nist.gov/vuln/detail/CVE-2026-112078) | Low | 2.1 | A flaw has been found in RVC-Project Retrieval-based-Voice-Conversion-WebUI up to 2.3.260718. Impacted is the function… |
+| 2026-10-19 05:17:04 | [CVE-2026-112079](https://nvd.nist.gov/vuln/detail/CVE-2026-112079) | Low | 2.1 | A vulnerability has been found in hankcs HanLP up to 2.1.0-beta.64. The affected element is the function load_word2vec_… |
+| 2026-10-19 05:17:04 | [CVE-2026-112080](https://nvd.nist.gov/vuln/detail/CVE-2026-112080) | Low | 2.1 | A vulnerability was found in LlamaChinese Llama-Chinese up to 6fa0fffb0dd82fe3cfaa1449ee54a5806d26ae9b. The impacted el… |
 
 ## Data source
 
