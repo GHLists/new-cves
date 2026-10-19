@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 00:18 UTC
+## Latest list — 2026-10-19 01:19 UTC
 
-New CVEs published between 2026-10-18 23:20 UTC and 2026-10-19 00:18 UTC.
+New CVEs published between 2026-10-19 00:18 UTC and 2026-10-19 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T00-18-54-078284Z.csv)
+[Full CSV](data/new-cves-2026-10-19T01-19-12-263747Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 00:16:30 | [CVE-2026-112030](https://nvd.nist.gov/vuln/detail/CVE-2026-112030) | Low | 2.1 | A vulnerability was found in diem-project diem up to 5.1.3. This vulnerability affects unknown code of the file dmCoreP… |
-| 2026-10-19 00:16:31 | [CVE-2026-112031](https://nvd.nist.gov/vuln/detail/CVE-2026-112031) | Low | 2.0 | A vulnerability was determined in Chamilo LMS up to 1.11.40/2.0.3/3.0.1. This issue affects the function TicketManager:… |
-| 2026-10-19 00:16:31 | [CVE-2026-112032](https://nvd.nist.gov/vuln/detail/CVE-2026-112032) | Low | 2.0 | A vulnerability was identified in aircheng-org iWebShop-5 up to 5.16. Impacted is the function Util::search of the file… |
+| 2026-10-19 01:16:36 | [CVE-2026-112033](https://nvd.nist.gov/vuln/detail/CVE-2026-112033) | Low | 2.1 | A security flaw has been discovered in aircheng-org iWebShop-5 up to 5.16. The affected element is the function admin_r… |
+| 2026-10-19 01:16:37 | [CVE-2026-112034](https://nvd.nist.gov/vuln/detail/CVE-2026-112034) | Low | 2.1 | A weakness has been identified in aircheng-org iWebShop-5 up to 5.16. The impacted element is the function IController:… |
+| 2026-10-19 01:16:37 | [CVE-2026-112035](https://nvd.nist.gov/vuln/detail/CVE-2026-112035) | Low | 2.1 | A security vulnerability has been detected in aircheng-org iWebShop-5 up to 5.16. This affects the function send_messag… |
+| 2026-10-19 01:16:37 | [CVE-2026-112036](https://nvd.nist.gov/vuln/detail/CVE-2026-112036) | Low | 2.1 | A vulnerability was detected in Artifex MuPDF up to 1.28.5. This impacts the function free_char_list of the file source… |
 
 ## Data source
 
