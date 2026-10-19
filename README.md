@@ -9,34 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 20:19 UTC
+## Latest list — 2026-10-19 21:20 UTC
 
-New CVEs published between 2026-10-19 19:18 UTC and 2026-10-19 20:19 UTC.
+New CVEs published between 2026-10-19 20:19 UTC and 2026-10-19 21:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T20-19-09-023425Z.csv)
+[Full CSV](data/new-cves-2026-10-19T21-20-25-718271Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 20:17:34 | [CVE-2024-54581](https://nvd.nist.gov/vuln/detail/CVE-2024-54581) |  |  | Rejected reason: This candidate was in a CNA pool that was not assigned to any issues. |
-| 2026-10-19 20:17:52 | [CVE-2026-111766](https://nvd.nist.gov/vuln/detail/CVE-2026-111766) | Low | 3.7 | markdown-it is a Markdown parser. Prior to 14.3.3 and 15.0.3, when the html option or commonmark preset is enabled and… |
-| 2026-10-19 20:17:52 | [CVE-2026-112254](https://nvd.nist.gov/vuln/detail/CVE-2026-112254) | Low | 2.1 | A vulnerability was found in agit8or1 clientst0r up to 3.17.586. Affected by this vulnerability is the function _fetch_… |
-| 2026-10-19 20:17:52 | [CVE-2026-112260](https://nvd.nist.gov/vuln/detail/CVE-2026-112260) | High | 7.1 | A flaw was found in GIMP. Opening a crafted XCF with a malformed text-layer parasite can cause a heap out-of-bounds rea… |
-| 2026-10-19 20:17:53 | [CVE-2026-112297](https://nvd.nist.gov/vuln/detail/CVE-2026-112297) | Low | 2.1 | A flaw has been found in ptbsare anx-calibre-manager up to 1.13.12. The impacted element is the function LLMClient.chat… |
-| 2026-10-19 20:17:53 | [CVE-2026-112768](https://nvd.nist.gov/vuln/detail/CVE-2026-112768) | Medium | 6.9 | Parse Server before 8.6.99 and 9.0.0 before 9.10.3-alpha.2 evaluates checks against the target account during a user up… |
-| 2026-10-19 20:17:53 | [CVE-2026-112769](https://nvd.nist.gov/vuln/detail/CVE-2026-112769) | Low | 2.3 | Parse Server before 8.6.98 and 9.0.0 before 9.10.3-alpha.1 does not enforce the create and addField class-level permiss… |
-| 2026-10-19 20:17:54 | [CVE-2026-112770](https://nvd.nist.gov/vuln/detail/CVE-2026-112770) | High | 8.7 | Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a remote code execution vulnerability in the Twig group filt… |
-| 2026-10-19 20:17:54 | [CVE-2026-112771](https://nvd.nist.gov/vuln/detail/CVE-2026-112771) | High | 7.1 | Craft CMS 4.0.0 before 4.18.8 and 5.0.0 before 5.11.0 contains a Twig sandbox allowlist bypass because the column, cont… |
-| 2026-10-19 20:17:54 | [CVE-2026-112772](https://nvd.nist.gov/vuln/detail/CVE-2026-112772) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated Control Pan… |
-| 2026-10-19 20:17:54 | [CVE-2026-112773](https://nvd.nist.gov/vuln/detail/CVE-2026-112773) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated Control Pan… |
-| 2026-10-19 20:17:54 | [CVE-2026-112774](https://nvd.nist.gov/vuln/detail/CVE-2026-112774) | High | 8.7 | Craft CMS from 5.8.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated administrat… |
-| 2026-10-19 20:17:54 | [CVE-2026-112775](https://nvd.nist.gov/vuln/detail/CVE-2026-112775) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains an authentication bypass vulnerability that allows attackers to reuse verif… |
-| 2026-10-19 20:17:54 | [CVE-2026-112776](https://nvd.nist.gov/vuln/detail/CVE-2026-112776) | Critical | 9.3 | Craft CMS from 5.0.0 before 5.11.0 contains an authorization bypass vulnerability that allows site-scoped GraphQL token… |
-| 2026-10-19 20:17:55 | [CVE-2026-112777](https://nvd.nist.gov/vuln/detail/CVE-2026-112777) | High | 8.7 | Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a blocklist bypass in the Twig create() function because its… |
-| 2026-10-19 20:17:55 | [CVE-2026-112778](https://nvd.nist.gov/vuln/detail/CVE-2026-112778) | Medium | 6.4 | Traefik before 2.11.46, 3.x before 3.6.17, and 3.7.0 lack namespace validation for Ingress and Service annotations in t… |
-| 2026-10-19 20:17:55 | [CVE-2026-112779](https://nvd.nist.gov/vuln/detail/CVE-2026-112779) | Critical | 9.3 | Grav API plugin (grav-plugin-api) 1.0.40 before 1.0.42 caches a full translation dictionary for every well-formed langu… |
-| 2026-10-19 20:17:55 | [CVE-2026-112780](https://nvd.nist.gov/vuln/detail/CVE-2026-112780) | Critical | 9.3 | Grav from 2.0.15 before 2.2.2 contains an allowlist bypass vulnerability that allows page editors to call arbitrary pub… |
-| 2026-10-19 20:17:55 | [CVE-2026-112781](https://nvd.nist.gov/vuln/detail/CVE-2026-112781) | High | 8.7 | Grav from 2.0.0 before 2.2.2 contains an information disclosure vulnerability that allows page editors to read protecte… |
-| 2026-10-19 20:17:55 | [CVE-2026-112782](https://nvd.nist.gov/vuln/detail/CVE-2026-112782) | High | 8.7 | Grav 1.7.53 before 1.7.53.5 and 2.0.0-rc.8 before 2.2.2 contains a resource exhaustion vulnerability that allows anonym… |
+| 2026-10-19 20:20:03 | [CVE-2026-71169](https://nvd.nist.gov/vuln/detail/CVE-2026-71169) | High | 7.0 | Dell Application Store, versions prior to 26.05.0.7, contain an Incorrect Permission Assignment for Critical Resource v… |
+| 2026-10-19 20:20:03 | [CVE-2026-71170](https://nvd.nist.gov/vuln/detail/CVE-2026-71170) | High | 7.8 | Dell Application Store, versions prior to 26.05.0.7, contains an Uncontrolled Path Element vulnerability. A low privile… |
+| 2026-10-19 20:20:06 | [CVE-2026-82166](https://nvd.nist.gov/vuln/detail/CVE-2026-82166) | High | 8.8 | Dell Application Store, versions prior to 26.05.0.7, contain a Missing Authentication for Critical Function vulnerabili… |
+| 2026-10-19 21:17:06 | [CVE-2026-111946](https://nvd.nist.gov/vuln/detail/CVE-2026-111946) |  |  | Plack::Middleware::ETag versions from 0.04 before 0.06 for Perl disclose file inode numbers in the default ETag header.… |
+| 2026-10-19 21:17:06 | [CVE-2026-112299](https://nvd.nist.gov/vuln/detail/CVE-2026-112299) | Low | 2.1 | A vulnerability was determined in smrealms smr up to f40380c017bc35cd8db6ffdb9d4e78bf65b9d43d. Affected is the function… |
+| 2026-10-19 21:17:06 | [CVE-2026-112300](https://nvd.nist.gov/vuln/detail/CVE-2026-112300) | Medium | 6.9 | A vulnerability was identified in DiffSK configobj up to 5.0.9. Affected by this vulnerability is the function _section… |
+| 2026-10-19 21:17:06 | [CVE-2026-112301](https://nvd.nist.gov/vuln/detail/CVE-2026-112301) | Medium | 5.5 | A security flaw has been discovered in orbitale imagemagick-php up to 3.3.5. Affected by this issue is the function Com… |
+| 2026-10-19 21:17:07 | [CVE-2026-112302](https://nvd.nist.gov/vuln/detail/CVE-2026-112302) | Low | 2.1 | A weakness has been identified in kiwilan php-archive up to 2.3.02. This affects the function ArchiveZip::extract of th… |
+| 2026-10-19 21:17:07 | [CVE-2026-112390](https://nvd.nist.gov/vuln/detail/CVE-2026-112390) | High | 8.2 | Pillow is a Python imaging library. From 7.2.0 until 13.0.0, Pillow can enter an infinite loop while determining the fr… |
+| 2026-10-19 21:17:07 | [CVE-2026-112391](https://nvd.nist.gov/vuln/detail/CVE-2026-112391) | Medium | 6.3 | Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow's PdfParser.get_value() can recurse without a limit… |
+| 2026-10-19 21:17:07 | [CVE-2026-112393](https://nvd.nist.gov/vuln/detail/CVE-2026-112393) | Critical | 9.2 | Pillow is a Python imaging library. From 2.0.0 until 13.0.0, Pillow has a heap buffer overflow and stale-heap disclosur… |
+| 2026-10-19 21:17:07 | [CVE-2026-112394](https://nvd.nist.gov/vuln/detail/CVE-2026-112394) | Medium | 6.3 | Pillow is a Python imaging library. Prior to 13.0.0, Pillow's P;2L and P;4L raw decoders can read past the end of an in… |
+| 2026-10-19 21:17:07 | [CVE-2026-112395](https://nvd.nist.gov/vuln/detail/CVE-2026-112395) | Medium | 6.5 | Pillow is a Python imaging library. From 8.2.0 until 13.0.0, Pillow's tiled-TIFF decoder can read past the tile buffer… |
+| 2026-10-19 21:18:01 | [CVE-2026-76787](https://nvd.nist.gov/vuln/detail/CVE-2026-76787) | Medium | 5.9 | The UpdateHub firmware-over-the-air client parses the CoAP probe response with Zephyr's JSON library in z_impl_updatehu… |
+| 2026-10-19 21:18:01 | [CVE-2026-76788](https://nvd.nist.gov/vuln/detail/CVE-2026-76788) | High | 8.8 | The OSDP Control Panel reply parser cp_decode_response() in subsys/mgmt/osdp/src/osdp_cp.c decodes replies from a Perip… |
 
 ## Data source
 
