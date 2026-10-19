@@ -9,29 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 06:18 UTC
+## Latest list — 2026-10-19 07:18 UTC
 
-New CVEs published between 2026-10-19 05:19 UTC and 2026-10-19 06:18 UTC.
+New CVEs published between 2026-10-19 06:18 UTC and 2026-10-19 07:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T06-18-54-384021Z.csv)
+[Full CSV](data/new-cves-2026-10-19T07-18-55-047939Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 06:17:17 | [CVE-2026-106014](https://nvd.nist.gov/vuln/detail/CVE-2026-106014) |  |  | The Gateway for Vantiv on WC WordPress plugin through 1.0.1 does not verify the authenticity of the payment notificatio… |
-| 2026-10-19 06:17:20 | [CVE-2026-106028](https://nvd.nist.gov/vuln/detail/CVE-2026-106028) |  |  | The ActiveTrail for WooCommerce WordPress plugin through 1.2.6 does not perform any authorization check before creating… |
-| 2026-10-19 06:17:20 | [CVE-2026-106933](https://nvd.nist.gov/vuln/detail/CVE-2026-106933) |  |  | The Blaze Demo Importer WordPress plugin before 1.0.17 does not sanitize uploaded SVG files and registers the SVG MIME… |
-| 2026-10-19 06:17:21 | [CVE-2026-108120](https://nvd.nist.gov/vuln/detail/CVE-2026-108120) | High | 7.7 | Brian Mariani from DigitalCanion SA has discovered a path traversal vulnerability in the View Logs functionality of koo… |
-| 2026-10-19 06:17:22 | [CVE-2026-108121](https://nvd.nist.gov/vuln/detail/CVE-2026-108121) | Medium | 6.9 | Brian Mariani from DigitalCanion SA has discovered a vulnerability in the domain creation functionality of koozali's SM… |
-| 2026-10-19 06:17:22 | [CVE-2026-112081](https://nvd.nist.gov/vuln/detail/CVE-2026-112081) | Low | 2.1 | A vulnerability was determined in hankcs HanLP up to 2.1.0-beta.64. This affects the function hanlp.load of the file pl… |
-| 2026-10-19 06:17:23 | [CVE-2026-112082](https://nvd.nist.gov/vuln/detail/CVE-2026-112082) | High | 7.7 | A vulnerability was identified in sgl-project SGLang up to 0.5.19. This impacts the function Scheduler.expert_distribut… |
-| 2026-10-19 06:17:23 | [CVE-2026-112083](https://nvd.nist.gov/vuln/detail/CVE-2026-112083) | Medium | 5.5 | A security flaw has been discovered in sgl-project SGLang up to 0.5.19. Affected is the function WeightExporter.send_we… |
-| 2026-10-19 06:17:23 | [CVE-2026-112086](https://nvd.nist.gov/vuln/detail/CVE-2026-112086) | Low | 2.1 | A vulnerability was found in ESPnet up to 202610.post2. This affects the function build_model of the file espnet3/publi… |
-| 2026-10-19 06:17:24 | [CVE-2026-16487](https://nvd.nist.gov/vuln/detail/CVE-2026-16487) | High | 8.1 | A flaw was found in bootc when operating with the default containers signature policy. Automatic or manual upgrades of… |
-| 2026-10-19 06:17:24 | [CVE-2026-76739](https://nvd.nist.gov/vuln/detail/CVE-2026-76739) | Medium | 4.3 | A potential security vulnerability in HPE Compute Scale-up Server 3200 and 3250 platforms and Superdome Flex server cou… |
-| 2026-10-19 06:17:25 | [CVE-2026-89286](https://nvd.nist.gov/vuln/detail/CVE-2026-89286) |  |  | The FormFlow for GoHighLevel (GHL) WordPress plugin through 1.0.0 does not restrict access to a log file it writes insi… |
-| 2026-10-19 06:17:25 | [CVE-2026-91046](https://nvd.nist.gov/vuln/detail/CVE-2026-91046) |  |  | The ElementsReady Addons for Elementor WordPress plugin through 6.7.2 does not perform authorization checks that halt e… |
-| 2026-10-19 06:17:25 | [CVE-2026-91047](https://nvd.nist.gov/vuln/detail/CVE-2026-91047) |  |  | The ElementsReady Addons for Elementor WordPress plugin through 6.7.2 does not properly restrict access to protected Wo… |
-| 2026-10-19 06:17:25 | [CVE-2026-94273](https://nvd.nist.gov/vuln/detail/CVE-2026-94273) |  |  | The Snap Finance WordPress plugin through 3.11.0 does not verify that the payment provider's response actually confirms… |
+| 2026-10-19 07:16:30 | [CVE-2026-103311](https://nvd.nist.gov/vuln/detail/CVE-2026-103311) | Medium | 5.3 | The Coinbase Commerce Payment Gateway for WooCommerce WordPress plugin through 1.4.1 does not verify the authenticity o… |
+| 2026-10-19 07:16:30 | [CVE-2026-106010](https://nvd.nist.gov/vuln/detail/CVE-2026-106010) | Medium | 5.3 | The BDM Digital Payment Gateway WordPress plugin through 1.3.12 does not verify the credentials on its public payment-s… |
+| 2026-10-19 07:16:30 | [CVE-2026-110034](https://nvd.nist.gov/vuln/detail/CVE-2026-110034) | Low | 3.7 | The Salon Booking System WordPress plugin before 10.31.11 does not enforce a minimum of zero when subtracting a fixed-a… |
+| 2026-10-19 07:16:30 | [CVE-2026-112087](https://nvd.nist.gov/vuln/detail/CVE-2026-112087) | Low | 2.1 | A weakness has been identified in itsourcecode Online Cake Ordering System 1.0. This issue affects some unknown process… |
+| 2026-10-19 07:16:30 | [CVE-2026-112088](https://nvd.nist.gov/vuln/detail/CVE-2026-112088) | Low | 2.1 | A weakness has been identified in Dav-ee dairy-management-system 31ace9692d1e1e6d64339a42c463b361319c615c/f31a584c3330c… |
+| 2026-10-19 07:16:31 | [CVE-2026-112089](https://nvd.nist.gov/vuln/detail/CVE-2026-112089) | Low | 2.0 | A security vulnerability has been detected in Dav-ee dairy-management-system 31ace9692d1e1e6d64339a42c463b361319c615c/f… |
+| 2026-10-19 07:16:31 | [CVE-2026-16460](https://nvd.nist.gov/vuln/detail/CVE-2026-16460) | High | 7.4 | A flaw was found in bootc and ostree. Already-staged deployments are finalized without revalidating the deployment's co… |
+| 2026-10-19 07:16:31 | [CVE-2026-74921](https://nvd.nist.gov/vuln/detail/CVE-2026-74921) | Medium | 6.8 | The Document Gallery WordPress plugin through 5.1.1 does not sanitise or escape several gallery shortcode attributes be… |
+| 2026-10-19 07:16:31 | [CVE-2026-74922](https://nvd.nist.gov/vuln/detail/CVE-2026-74922) | Medium | 5.3 | The Document Gallery WordPress plugin through 5.1.1 does not verify the signature on one of its unauthenticated webhook… |
+| 2026-10-19 07:16:31 | [CVE-2026-76740](https://nvd.nist.gov/vuln/detail/CVE-2026-76740) | High | 7.2 | A security vulnerability in HPE Compute Scale-up Server 3200 and 3250 platforms, Superdome Flex and Superdome Flex 280… |
+| 2026-10-19 07:16:32 | [CVE-2026-86791](https://nvd.nist.gov/vuln/detail/CVE-2026-86791) | Medium | 5.3 | The iPOSpays Payment Gateway for WooCommerce WordPress plugin before 1.4.7 does not verify that a payment was actually… |
+| 2026-10-19 07:16:32 | [CVE-2026-91831](https://nvd.nist.gov/vuln/detail/CVE-2026-91831) | Low | 3.8 | The Subscribe to Comments WordPress plugin before 2.3.3 does not sanitise newline characters from a notification sender… |
+| 2026-10-19 07:16:32 | [CVE-2026-94228](https://nvd.nist.gov/vuln/detail/CVE-2026-94228) | Medium | 5.3 | The TrueBooker WordPress plugin before 1.3.0 does not perform any capability check on one of its setup handlers, and th… |
+| 2026-10-19 07:16:32 | [CVE-2026-94229](https://nvd.nist.gov/vuln/detail/CVE-2026-94229) | Medium | 5.3 | The TrueBooker WordPress plugin before 1.3.0 does not verify that the requester owns a booking before rendering its con… |
+| 2026-10-19 07:16:32 | [CVE-2026-94230](https://nvd.nist.gov/vuln/detail/CVE-2026-94230) | Medium | 5.3 | The TrueBooker WordPress plugin before 1.3.0 does not have authorisation checks in some of its AJAX actions, and does n… |
+| 2026-10-19 07:16:32 | [CVE-2026-94231](https://nvd.nist.gov/vuln/detail/CVE-2026-94231) | Medium | 5.3 | The TrueBooker WordPress plugin before 1.3.0 does not have authorisation checks in place in some of its functionality,… |
+| 2026-10-19 07:16:32 | [CVE-2026-94272](https://nvd.nist.gov/vuln/detail/CVE-2026-94272) | Medium | 5.3 | The Snap Finance WordPress plugin before 3.12.0 does not verify that a request to change a WooCommerce order's status c… |
+| 2026-10-19 07:16:32 | [CVE-2026-94294](https://nvd.nist.gov/vuln/detail/CVE-2026-94294) | Medium | 5.3 | The App Builder WordPress plugin before 5.7.1 does not require authentication or authorisation before writing attacker-… |
 
 ## Data source
 
