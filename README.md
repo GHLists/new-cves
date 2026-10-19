@@ -9,48 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:18 UTC
+## Latest list — 2026-10-19 17:23 UTC
 
-New CVEs published between 2026-10-19 15:19 UTC and 2026-10-19 16:18 UTC.
+New CVEs published between 2026-10-19 16:18 UTC and 2026-10-19 17:23 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T16-18-55-238789Z.csv)
+[Full CSV](data/new-cves-2026-10-19T17-23-18-077073Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 16:17:01 | [CVE-2026-107081](https://nvd.nist.gov/vuln/detail/CVE-2026-107081) |  |  | SQL injection via identifier injection in the tableName and tableFields POST parameters of admin AJAX endpoints (admin/… |
-| 2026-10-19 16:17:01 | [CVE-2026-107566](https://nvd.nist.gov/vuln/detail/CVE-2026-107566) | Medium | 6.5 | Missing authorization in the Sieve editheader action (6.2.22 through 6.3.6) and in the mail-rule Set header value actio… |
-| 2026-10-19 16:17:01 | [CVE-2026-107567](https://nvd.nist.gov/vuln/detail/CVE-2026-107567) | High | 7.5 | Use of a less trusted source in the DKIM signing of Progressive Robot hMailServer 6.0.0 through 6.3.6 allows a remote u… |
-| 2026-10-19 16:17:01 | [CVE-2026-107568](https://nvd.nist.gov/vuln/detail/CVE-2026-107568) | Medium | 6.5 | Missing authorization in the Sieve notify action (6.2.22 through 6.3.6) and in the mail-rule Reply action (6.0.0 throug… |
-| 2026-10-19 16:17:01 | [CVE-2026-107569](https://nvd.nist.gov/vuln/detail/CVE-2026-107569) | High | 7.5 | Unchecked input for a loop condition in Progressive Robot hMailServer 6.0.0 through 6.3.6 allows a remote unauthenticat… |
-| 2026-10-19 16:17:01 | [CVE-2026-107571](https://nvd.nist.gov/vuln/detail/CVE-2026-107571) | High | 7.8 | Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.0.0 through 6.3.6 allow a loc… |
-| 2026-10-19 16:17:02 | [CVE-2026-109431](https://nvd.nist.gov/vuln/detail/CVE-2026-109431) | High | 8.6 | Camunda 7.24.0 before 7.24.14 and 7.23.0 before 7.23.17 contains a missing authorization check vulnerability in engine-… |
-| 2026-10-19 16:17:02 | [CVE-2026-109432](https://nvd.nist.gov/vuln/detail/CVE-2026-109432) | Critical | 9.3 | Camunda 7.24.0 before 7.24.14 and 7.23.0 before 7.23.17 contains an expression injection vulnerability where AdhocQuery… |
-| 2026-10-19 16:17:02 | [CVE-2026-109433](https://nvd.nist.gov/vuln/detail/CVE-2026-109433) | Medium | 6.0 | Camunda 7.24.0 before 7.24.14 and 7.23.0 before 7.23.17 contains an authorization bypass vulnerability in the Cockpit w… |
-| 2026-10-19 16:17:03 | [CVE-2026-111045](https://nvd.nist.gov/vuln/detail/CVE-2026-111045) | High | 7.5 | CLI Bridge provides filesystem access within a workspace root. Prior to 0.0.2, a dangling symlink pointing outside the… |
-| 2026-10-19 16:17:03 | [CVE-2026-111046](https://nvd.nist.gov/vuln/detail/CVE-2026-111046) | Low | 2.3 | FOSSBilling is an open source billing and client-management platform. From 0.8.4 until 0.8.6, hasManagePermission fails… |
-| 2026-10-19 16:17:03 | [CVE-2026-111053](https://nvd.nist.gov/vuln/detail/CVE-2026-111053) | Medium | 6.9 | FOSSBilling is an open source billing and client-management platform. From 0.1.0 until 0.8.7, the unauthenticated api/g… |
-| 2026-10-19 16:17:03 | [CVE-2026-111056](https://nvd.nist.gov/vuln/detail/CVE-2026-111056) | Medium | 6.9 | FOSSBilling is an open source billing and client-management platform. From 0.1.0 until 0.8.7, the unauthenticated POST… |
-| 2026-10-19 16:17:03 | [CVE-2026-111057](https://nvd.nist.gov/vuln/detail/CVE-2026-111057) | Critical | 10.0 | Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. From 3.0.0 until 3.2.4,… |
-| 2026-10-19 16:17:03 | [CVE-2026-111058](https://nvd.nist.gov/vuln/detail/CVE-2026-111058) | Critical | 9.8 | Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. Prior to 3.2.6, default… |
-| 2026-10-19 16:17:05 | [CVE-2026-112152](https://nvd.nist.gov/vuln/detail/CVE-2026-112152) | Medium | 5.5 | A security vulnerability has been detected in vraj404 Criminal-Management-System up to 2808d057e7ddc5295519a487365b0cac… |
-| 2026-10-19 16:17:05 | [CVE-2026-112153](https://nvd.nist.gov/vuln/detail/CVE-2026-112153) | Medium | 5.5 | A vulnerability was detected in vraj404 Criminal-Management-System up to 2808d057e7ddc5295519a487365b0cacfd0ba8c4. This… |
-| 2026-10-19 16:17:05 | [CVE-2026-112157](https://nvd.nist.gov/vuln/detail/CVE-2026-112157) | Low | 1.3 | A weakness has been identified in MemTensor memmy-agent up to 1.0.9/1.1.1/1.2.2. The impacted element is the function r… |
-| 2026-10-19 16:17:05 | [CVE-2026-112158](https://nvd.nist.gov/vuln/detail/CVE-2026-112158) | High | 7.1 | A weakness has been identified in MikroTik RouterOS up to 6.40.5/6.44/7.20.8. Impacted is the function same_check of th… |
-| 2026-10-19 16:17:06 | [CVE-2026-112303](https://nvd.nist.gov/vuln/detail/CVE-2026-112303) | Medium | 5.3 | GDevelop desktop app through 5.6.284 contains a credential leak vulnerability that allows attackers to steal the gd_res… |
-| 2026-10-19 16:17:06 | [CVE-2026-112304](https://nvd.nist.gov/vuln/detail/CVE-2026-112304) | High | 7.7 | docTR through 1.1.0 contains an unsafe deserialization vulnerability in load_pretrained_params() that loads checkpoints… |
-| 2026-10-19 16:17:06 | [CVE-2026-112305](https://nvd.nist.gov/vuln/detail/CVE-2026-112305) | High | 8.7 | Semaphore UI through 2.19.16 contains a remote code execution vulnerability that allows users with the task_runner role… |
-| 2026-10-19 16:17:06 | [CVE-2026-112306](https://nvd.nist.gov/vuln/detail/CVE-2026-112306) | High | 8.6 | NocoBase @nocobase/plugin-collection-sql through 2.2.28 contains an SQL injection vulnerability that allows privileged… |
-| 2026-10-19 16:17:06 | [CVE-2026-112307](https://nvd.nist.gov/vuln/detail/CVE-2026-112307) | High | 8.4 | sqlparse through 0.6.0 contains a PHP code injection vulnerability that allows attackers to inject PHP expressions by s… |
-| 2026-10-19 16:17:06 | [CVE-2026-112308](https://nvd.nist.gov/vuln/detail/CVE-2026-112308) | High | 8.3 | crewai-tools through 1.15.28 contains a server-side request forgery vulnerability in SeleniumScrapingTool that allows a… |
-| 2026-10-19 16:17:07 | [CVE-2026-112309](https://nvd.nist.gov/vuln/detail/CVE-2026-112309) | High | 8.7 | @rvf/set-get before 7.0.4 contains a prototype pollution vulnerability in setPath that allows unauthenticated attackers… |
-| 2026-10-19 16:17:07 | [CVE-2026-112310](https://nvd.nist.gov/vuln/detail/CVE-2026-112310) | Medium | 5.3 | docling-core through 2.102.0 contains a local file disclosure vulnerability that allows attackers to read local images… |
-| 2026-10-19 16:17:07 | [CVE-2026-112363](https://nvd.nist.gov/vuln/detail/CVE-2026-112363) | Medium | 6.9 | Crawl4AI from 0.8.7 through 0.9.5 contains a server-side request forgery vulnerability in the Docker API server that al… |
-| 2026-10-19 16:17:07 | [CVE-2026-112366](https://nvd.nist.gov/vuln/detail/CVE-2026-112366) | High | 8.7 | Picomatch through 4.0.7 contains a regular expression denial of service vulnerability that allows attackers to block th… |
-| 2026-10-19 16:17:07 | [CVE-2026-112368](https://nvd.nist.gov/vuln/detail/CVE-2026-112368) | High | 8.2 | An uncontrolled recursion weakness in the BSON decoding logic of the MongoDB PHP driver may allow an unauthenticated pa… |
-| 2026-10-19 16:17:07 | [CVE-2026-12254](https://nvd.nist.gov/vuln/detail/CVE-2026-12254) | Medium | 6.4 | Netskope is notified about a potential gap in its agent (NSClient) where a system with Netskope Client while connecting… |
-| 2026-10-19 16:17:08 | [CVE-2026-77225](https://nvd.nist.gov/vuln/detail/CVE-2026-77225) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-19 16:17:08 | [CVE-2026-77227](https://nvd.nist.gov/vuln/detail/CVE-2026-77227) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-19 16:17:08 | [CVE-2026-77228](https://nvd.nist.gov/vuln/detail/CVE-2026-77228) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-19 17:16:57 | [CVE-2024-4412](https://nvd.nist.gov/vuln/detail/CVE-2024-4412) | Low | 2.7 | The software accepts user-supplied data without sufficient validation, allowing for the injection of malicious Expressi… |
+| 2026-10-19 17:16:59 | [CVE-2025-10149](https://nvd.nist.gov/vuln/detail/CVE-2025-10149) | High | 8.2 | The SCIM endpoint does not sufficiently validate authorization for federated users when performing operations against t… |
+| 2026-10-19 17:16:59 | [CVE-2025-13173](https://nvd.nist.gov/vuln/detail/CVE-2025-13173) | Medium | 6.5 | Tokens associated with user sessions are not revoked when the corresponding user session is terminated, unless another… |
+| 2026-10-19 17:16:59 | [CVE-2025-13591](https://nvd.nist.gov/vuln/detail/CVE-2025-13591) | Medium | 5.3 | The authentication endpoint of WSO2 Identity Server fails to provide a consistent system response when a username does… |
+| 2026-10-19 17:16:59 | [CVE-2025-6623](https://nvd.nist.gov/vuln/detail/CVE-2025-6623) | Medium | 4.3 | The carbon console accepts user-supplied XML input without sufficiently encoding potentially executable content, allowi… |
+| 2026-10-19 17:16:59 | [CVE-2025-7043](https://nvd.nist.gov/vuln/detail/CVE-2025-7043) | Medium | 5.4 | The ForgeRock client fails to correctly validate refresh tokens. This allows a refresh token to be treated as a valid a… |
+| 2026-10-19 17:17:00 | [CVE-2025-7203](https://nvd.nist.gov/vuln/detail/CVE-2025-7203) | Medium | 4.9 | The Management Console and product files expose sensitive data, including remote log server credentials, truststore pas… |
+| 2026-10-19 17:17:00 | [CVE-2026-103038](https://nvd.nist.gov/vuln/detail/CVE-2026-103038) | High | 8.6 | PingTools Network Utilities 4.64 Free accepts an arbitrary value in the Host field of a Watcher ICMP service, incorpora… |
+| 2026-10-19 17:17:00 | [CVE-2026-107082](https://nvd.nist.gov/vuln/detail/CVE-2026-107082) |  |  | Slims (Senayan Library Management Systems) 9 Bulian 9.8.0 allows an authenticated staff user to perform SQL injection v… |
+| 2026-10-19 17:17:00 | [CVE-2026-107083](https://nvd.nist.gov/vuln/detail/CVE-2026-107083) |  |  | SENAYAN Library Management System (SLiMS) Bulian (slims9_bulian) 9.8.0 is vulnerable to SQL Injection in admin/modules/… |
+| 2026-10-19 17:17:00 | [CVE-2026-107186](https://nvd.nist.gov/vuln/detail/CVE-2026-107186) | High | 8.6 | An unauthenticated user can send a DWR request with isPasswordUppercase as one call method and the next call method can… |
+| 2026-10-19 17:17:00 | [CVE-2026-107187](https://nvd.nist.gov/vuln/detail/CVE-2026-107187) | High | 8.5 | A user can access any database details, such as usernames and passwords by sending a DWR request with a specified workf… |
+| 2026-10-19 17:17:01 | [CVE-2026-107188](https://nvd.nist.gov/vuln/detail/CVE-2026-107188) | Critical | 9.6 | A user can upload export reports with any file contents and specify any contents. JSP code can be uploaded, JSPX can be… |
+| 2026-10-19 17:17:01 | [CVE-2026-10572](https://nvd.nist.gov/vuln/detail/CVE-2026-10572) | High | 8.8 | IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execute arbitrary code due to… |
+| 2026-10-19 17:17:01 | [CVE-2026-10574](https://nvd.nist.gov/vuln/detail/CVE-2026-10574) | High | 8.8 | IBM MQ could allow an authenticated attacker to cause a denial of service or potentially execute arbitrary code due to… |
+| 2026-10-19 17:17:02 | [CVE-2026-10743](https://nvd.nist.gov/vuln/detail/CVE-2026-10743) | High | 8.8 | IBM MQ could allow an authenticated attacker to cause a denial of service or corrupt memory due to improper validation… |
+| 2026-10-19 17:17:02 | [CVE-2026-111059](https://nvd.nist.gov/vuln/detail/CVE-2026-111059) | Medium | 6.1 | Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. From 3.0.0 until 3.2.11… |
+| 2026-10-19 17:17:03 | [CVE-2026-111061](https://nvd.nist.gov/vuln/detail/CVE-2026-111061) | Medium | 4.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to 0.64.1, the… |
+| 2026-10-19 17:17:03 | [CVE-2026-111063](https://nvd.nist.gov/vuln/detail/CVE-2026-111063) | Medium | 6.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, the Secure attribute f… |
+| 2026-10-19 17:17:03 | [CVE-2026-111064](https://nvd.nist.gov/vuln/detail/CVE-2026-111064) | High | 8.2 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, keepalive timeout hand… |
+| 2026-10-19 17:17:03 | [CVE-2026-111065](https://nvd.nist.gov/vuln/detail/CVE-2026-111065) | Medium | 6.9 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, Max-Age processing can… |
+| 2026-10-19 17:17:03 | [CVE-2026-111066](https://nvd.nist.gov/vuln/detail/CVE-2026-111066) | High | 8.2 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. From 2.0.0 until 3.14.4, multipart requ… |
+| 2026-10-19 17:17:03 | [CVE-2026-111748](https://nvd.nist.gov/vuln/detail/CVE-2026-111748) | Medium | 6.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, an attacker can send a… |
+| 2026-10-19 17:17:04 | [CVE-2026-111749](https://nvd.nist.gov/vuln/detail/CVE-2026-111749) | Low | 2.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, Host-Only scope on an… |
+| 2026-10-19 17:17:04 | [CVE-2026-111750](https://nvd.nist.gov/vuln/detail/CVE-2026-111750) | Medium | 6.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, the pure Python parser… |
+| 2026-10-19 17:17:04 | [CVE-2026-111862](https://nvd.nist.gov/vuln/detail/CVE-2026-111862) | Critical | 9.8 | Rank Math SEO PRO for WordPress is affected by a supply-chain compromise in a subset of version 3.0.123 packages downlo… |
+| 2026-10-19 17:17:13 | [CVE-2026-112159](https://nvd.nist.gov/vuln/detail/CVE-2026-112159) | Low | 2.0 | A security vulnerability has been detected in JumpServer up to 4.10.19. The affected element is an unknown function of… |
+| 2026-10-19 17:17:14 | [CVE-2026-112190](https://nvd.nist.gov/vuln/detail/CVE-2026-112190) | Medium | 5.5 | A security vulnerability has been detected in Webkul Aureus ERP up to 1.6.0. This issue affects some unknown processing… |
+| 2026-10-19 17:17:14 | [CVE-2026-112193](https://nvd.nist.gov/vuln/detail/CVE-2026-112193) | Low | 2.9 | A vulnerability was detected in Webkul Aureus ERP up to 1.6.0. Impacted is an unknown function of the file plugins/webk… |
+| 2026-10-19 17:17:14 | [CVE-2026-112195](https://nvd.nist.gov/vuln/detail/CVE-2026-112195) | Low | 2.0 | A flaw has been found in FusionPBX up to 5.4.4/5.5.7/5.6.5. The affected element is an unknown function of the file app… |
+| 2026-10-19 17:17:16 | [CVE-2026-11828](https://nvd.nist.gov/vuln/detail/CVE-2026-11828) | Medium | 5.9 | IBM MQ could allow a remote attacker with queue manager control or man-in-the-middle access on unencrypted channels to… |
+| 2026-10-19 17:17:16 | [CVE-2026-11829](https://nvd.nist.gov/vuln/detail/CVE-2026-11829) | Medium | 6.5 | IBM MQ could allow an authenticated attacker to cause a denial of service due to improper validation of offset values i… |
+| 2026-10-19 17:17:16 | [CVE-2026-11831](https://nvd.nist.gov/vuln/detail/CVE-2026-11831) | Medium | 5.4 | IBM MQ could allow an authenticated attacker to cause a limited denial of service and obtain very limited information a… |
+| 2026-10-19 17:17:17 | [CVE-2026-12148](https://nvd.nist.gov/vuln/detail/CVE-2026-12148) | High | 7.5 | IBM MQ Operator could allow an authenticated attacker to cause a denial of service or potentially execute arbitrary cod… |
+| 2026-10-19 17:17:17 | [CVE-2026-12155](https://nvd.nist.gov/vuln/detail/CVE-2026-12155) | Medium | 6.5 | IBM MQ could allow an authenticated attacker to cause a denial of service by sending specially crafted multicast status… |
+| 2026-10-19 17:17:17 | [CVE-2026-12343](https://nvd.nist.gov/vuln/detail/CVE-2026-12343) | Medium | 6.5 | IBM MQ could allow an authenticated attacker to cause a denial of service due to improper validation of RFH2 message he… |
+| 2026-10-19 17:17:18 | [CVE-2026-12350](https://nvd.nist.gov/vuln/detail/CVE-2026-12350) | Medium | 6.5 | IBM MQ could allow an authenticated attacker to cause a denial of service by sending a specially crafted asynchronous c… |
+| 2026-10-19 17:17:18 | [CVE-2026-12660](https://nvd.nist.gov/vuln/detail/CVE-2026-12660) | Low | 2.7 | IBM MQ Web Console could allow an authenticated administrator to write files outside the intended directory due to impr… |
+| 2026-10-19 17:17:18 | [CVE-2026-12665](https://nvd.nist.gov/vuln/detail/CVE-2026-12665) | High | 8.1 | IBM MQ could allow a remote attacker to execute arbitrary code due to a stack buffer overflow when processing TLS certi… |
+| 2026-10-19 17:17:19 | [CVE-2026-12669](https://nvd.nist.gov/vuln/detail/CVE-2026-12669) | Low | 3.1 | IBM MQ could allow an authenticated attacker to trigger a minor out-of-bounds read when sending malformed compressed da… |
+| 2026-10-19 17:17:19 | [CVE-2026-12670](https://nvd.nist.gov/vuln/detail/CVE-2026-12670) | Medium | 5.3 | IBM MQ could allow an authenticated attacker to cause a denial of service through a specially crafted message that trig… |
+| 2026-10-19 17:17:19 | [CVE-2026-12727](https://nvd.nist.gov/vuln/detail/CVE-2026-12727) | Medium | 4.3 | IBM MQ could allow an authenticated attacker to cause potential process instability due to an off-by-one buffer overflo… |
+| 2026-10-19 17:17:20 | [CVE-2026-14511](https://nvd.nist.gov/vuln/detail/CVE-2026-14511) | Medium | 6.5 | IBM MQ 9.4.5.0 through 9.4.5.1 could allow an authenticated user to cause a denial of service by sending a specially cr… |
+| 2026-10-19 17:17:20 | [CVE-2026-15661](https://nvd.nist.gov/vuln/detail/CVE-2026-15661) | Medium | 5.3 | IBM Concert 1.0 through 3.0.0 could allow an unauthorized user to inject data into log messages due to improper neutral… |
+| 2026-10-19 17:17:21 | [CVE-2026-6930](https://nvd.nist.gov/vuln/detail/CVE-2026-6930) | Low | 3.7 | IBM Concert 1.0 through 3.0.0 uses weaker than expected cryptographic algorithms that could allow an attacker to decryp… |
 
 ## Data source
 
