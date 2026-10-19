@@ -9,21 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 23:20 UTC
+## Latest list — 2026-10-19 00:18 UTC
 
-New CVEs published between 2026-10-18 22:18 UTC and 2026-10-18 23:20 UTC.
+New CVEs published between 2026-10-18 23:20 UTC and 2026-10-19 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-18T23-20-17-93496Z.csv)
+[Full CSV](data/new-cves-2026-10-19T00-18-54-078284Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-18 23:16:55 | [CVE-2026-108519](https://nvd.nist.gov/vuln/detail/CVE-2026-108519) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-18 23:16:55 | [CVE-2026-112026](https://nvd.nist.gov/vuln/detail/CVE-2026-112026) | Low | 2.9 | A security vulnerability has been detected in light0011 cms c774dce31c6df0055568a8d5c53d964d99be199d/f72cf46f601efb2a06… |
-| 2026-10-18 23:16:56 | [CVE-2026-112027](https://nvd.nist.gov/vuln/detail/CVE-2026-112027) | Medium | 5.5 | A vulnerability was detected in light0011 cms c774dce31c6df0055568a8d5c53d964d99be199d/f72cf46f601efb2a0618c3814cc2f613… |
-| 2026-10-18 23:16:56 | [CVE-2026-112028](https://nvd.nist.gov/vuln/detail/CVE-2026-112028) | Medium | 5.5 | A flaw has been found in light0011 cms c774dce31c6df0055568a8d5c53d964d99be199d/f72cf46f601efb2a0618c3814cc2f61380b3893… |
-| 2026-10-18 23:16:56 | [CVE-2026-112029](https://nvd.nist.gov/vuln/detail/CVE-2026-112029) | Low | 1.1 | A vulnerability has been found in diem-project diem up to 5.1.3. This affects an unknown part of the file lib/model/doc… |
-| 2026-10-18 23:16:56 | [CVE-2026-112111](https://nvd.nist.gov/vuln/detail/CVE-2026-112111) | Medium | 5.1 | The Bootstrap Shortcodes plugin for WordPress before 3.4.6 is vulnerable to stored XSS via the id attribute of the [bs_… |
-| 2026-10-18 23:16:56 | [CVE-2026-112112](https://nvd.nist.gov/vuln/detail/CVE-2026-112112) | Low | 2.3 | An IPv6 FlowSpec validation bypass in the CZ.NIC BIRD Internet Routing Daemon allows an established BGP peer to inject… |
+| 2026-10-19 00:16:30 | [CVE-2026-112030](https://nvd.nist.gov/vuln/detail/CVE-2026-112030) | Low | 2.1 | A vulnerability was found in diem-project diem up to 5.1.3. This vulnerability affects unknown code of the file dmCoreP… |
+| 2026-10-19 00:16:31 | [CVE-2026-112031](https://nvd.nist.gov/vuln/detail/CVE-2026-112031) | Low | 2.0 | A vulnerability was determined in Chamilo LMS up to 1.11.40/2.0.3/3.0.1. This issue affects the function TicketManager:… |
+| 2026-10-19 00:16:31 | [CVE-2026-112032](https://nvd.nist.gov/vuln/detail/CVE-2026-112032) | Low | 2.0 | A vulnerability was identified in aircheng-org iWebShop-5 up to 5.16. Impacted is the function Util::search of the file… |
 
 ## Data source
 
