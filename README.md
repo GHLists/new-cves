@@ -9,20 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:19 UTC
+## Latest list — 2026-10-19 09:19 UTC
 
-New CVEs published between 2026-10-19 07:18 UTC and 2026-10-19 08:19 UTC.
+New CVEs published between 2026-10-19 08:19 UTC and 2026-10-19 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T08-19-40-337095Z.csv)
+[Full CSV](data/new-cves-2026-10-19T09-19-15-405485Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 08:17:02 | [CVE-2026-111439](https://nvd.nist.gov/vuln/detail/CVE-2026-111439) | Medium | 4.3 | 在 openGauss-server的 src/common/backend/utils/adt/genfile.cpp 模块中，内置函数 pg_read_binary_file_blocks() 存在权限校验逻辑缺陷。该函数在入口处仅校… |
-| 2026-10-19 08:17:02 | [CVE-2026-112090](https://nvd.nist.gov/vuln/detail/CVE-2026-112090) | Low | 2.1 | A vulnerability was detected in Dav-ee dairy-management-system 31ace9692d1e1e6d64339a42c463b361319c615c/f31a584c3330c01… |
-| 2026-10-19 08:17:03 | [CVE-2026-112091](https://nvd.nist.gov/vuln/detail/CVE-2026-112091) | Medium | 5.5 | A flaw has been found in Dav-ee dairy-management-system 31ace9692d1e1e6d64339a42c463b361319c615c/f31a584c3330c013b61f8b… |
-| 2026-10-19 08:17:03 | [CVE-2026-112092](https://nvd.nist.gov/vuln/detail/CVE-2026-112092) | Low | 2.1 | A flaw has been found in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa07ee693dc4d9a29a578. T… |
-| 2026-10-19 08:17:03 | [CVE-2026-112093](https://nvd.nist.gov/vuln/detail/CVE-2026-112093) | Low | 2.1 | A vulnerability has been found in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa07ee693dc4d9a… |
-| 2026-10-19 08:17:03 | [CVE-2026-112094](https://nvd.nist.gov/vuln/detail/CVE-2026-112094) | Low | 2.0 | A security vulnerability has been detected in michaelrsweet mxml 4.0.5/4.0.6. This affects the function mxml_load_data… |
+| 2026-10-19 09:17:06 | [CVE-2026-104679](https://nvd.nist.gov/vuln/detail/CVE-2026-104679) | Medium | 6.9 | VOCALOID6 Editor provided by Yamaha Corporation improperly restricts XML external entity references. Loading a speciall… |
+| 2026-10-19 09:17:07 | [CVE-2026-111438](https://nvd.nist.gov/vuln/detail/CVE-2026-111438) | Medium | 6.5 | 在 openGauss-server 的 src/common/backend/libpq/hba.cpp 中，复制连接认证存在访问控制绕过。hba_getauthmethod() 在处理 HADR/SW 复制发送方时，不要求 is_no… |
+| 2026-10-19 09:17:07 | [CVE-2026-112095](https://nvd.nist.gov/vuln/detail/CVE-2026-112095) | Low | 2.0 | A flaw has been found in SourceCodester Inventory System 1.0. This affects an unknown part of the file /api/products_ha… |
+| 2026-10-19 09:17:07 | [CVE-2026-112096](https://nvd.nist.gov/vuln/detail/CVE-2026-112096) | Low | 2.0 | A vulnerability has been found in SourceCodester Inventory System 1.0. This vulnerability affects unknown code of the f… |
+| 2026-10-19 09:17:07 | [CVE-2026-112097](https://nvd.nist.gov/vuln/detail/CVE-2026-112097) | Medium | 5.1 | A vulnerability was found in SourceCodester Inventory System 1.0. This issue affects some unknown processing of the fil… |
+| 2026-10-19 09:17:07 | [CVE-2026-112098](https://nvd.nist.gov/vuln/detail/CVE-2026-112098) | Low | 2.1 | A security flaw has been discovered in DeepPavlov up to 1.7.0. Impacted is the function resolve of the file deeppavlov/… |
+| 2026-10-19 09:17:08 | [CVE-2026-112161](https://nvd.nist.gov/vuln/detail/CVE-2026-112161) | High | 8.5 | MobaXterm Personal Edition (Portable) 26.4 GA extracts the CygUtils64.plugin file without first verifying its integrity… |
+| 2026-10-19 09:17:08 | [CVE-2026-112178](https://nvd.nist.gov/vuln/detail/CVE-2026-112178) | High | 7.1 | MISP contains an access control flaw in the proposal (shadow attribute) visibility logic. The authorization check accep… |
+| 2026-10-19 09:17:08 | [CVE-2026-112179](https://nvd.nist.gov/vuln/detail/CVE-2026-112179) | Medium | 5.3 | In MISP, the event synchronization process contained a logic error in the preparation of event reports for remote push.… |
+| 2026-10-19 09:17:08 | [CVE-2026-112180](https://nvd.nist.gov/vuln/detail/CVE-2026-112180) | Medium | 5.1 | MISP contains a data integrity flaw in its event deletion logic. When a user deletes an event, several associated recor… |
+| 2026-10-19 09:17:08 | [CVE-2026-13695](https://nvd.nist.gov/vuln/detail/CVE-2026-13695) | High | 8.8 | SQL injection (SQLi) vulnerability—specifically a UNION-based vulnerability—in the Integratec application that affects… |
 
 ## Data source
 
