@@ -9,18 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:19 UTC
+## Latest list — 2026-10-19 02:20 UTC
 
-New CVEs published between 2026-10-19 00:18 UTC and 2026-10-19 01:19 UTC.
+New CVEs published between 2026-10-19 01:19 UTC and 2026-10-19 02:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T01-19-12-263747Z.csv)
+[Full CSV](data/new-cves-2026-10-19T02-20-39-798526Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 01:16:36 | [CVE-2026-112033](https://nvd.nist.gov/vuln/detail/CVE-2026-112033) | Low | 2.1 | A security flaw has been discovered in aircheng-org iWebShop-5 up to 5.16. The affected element is the function admin_r… |
-| 2026-10-19 01:16:37 | [CVE-2026-112034](https://nvd.nist.gov/vuln/detail/CVE-2026-112034) | Low | 2.1 | A weakness has been identified in aircheng-org iWebShop-5 up to 5.16. The impacted element is the function IController:… |
-| 2026-10-19 01:16:37 | [CVE-2026-112035](https://nvd.nist.gov/vuln/detail/CVE-2026-112035) | Low | 2.1 | A security vulnerability has been detected in aircheng-org iWebShop-5 up to 5.16. This affects the function send_messag… |
-| 2026-10-19 01:16:37 | [CVE-2026-112036](https://nvd.nist.gov/vuln/detail/CVE-2026-112036) | Low | 2.1 | A vulnerability was detected in Artifex MuPDF up to 1.28.5. This impacts the function free_char_list of the file source… |
+| 2026-10-19 02:17:05 | [CVE-2026-108983](https://nvd.nist.gov/vuln/detail/CVE-2026-108983) | Critical | 9.8 | A vulnerability is in Web Server default connection ports under the process name GeoWebServer.exe . |
+| 2026-10-19 02:17:05 | [CVE-2026-108984](https://nvd.nist.gov/vuln/detail/CVE-2026-108984) | High | 7.5 | A vulnerability is in Web Server default connection ports under the process name GeoWebServer.exe . |
+| 2026-10-19 02:17:06 | [CVE-2026-112037](https://nvd.nist.gov/vuln/detail/CVE-2026-112037) | Low | 2.9 | A flaw has been found in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. Affected is an unknown funct… |
+| 2026-10-19 02:17:06 | [CVE-2026-112038](https://nvd.nist.gov/vuln/detail/CVE-2026-112038) | Low | 1.9 | A vulnerability has been found in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. Affected by this vu… |
+| 2026-10-19 02:17:06 | [CVE-2026-112039](https://nvd.nist.gov/vuln/detail/CVE-2026-112039) | Low | 1.9 | A vulnerability was found in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. Affected by this issue i… |
+| 2026-10-19 02:17:06 | [CVE-2026-112040](https://nvd.nist.gov/vuln/detail/CVE-2026-112040) | Low | 2.1 | A vulnerability was determined in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. This affects an unk… |
+| 2026-10-19 02:17:06 | [CVE-2026-112041](https://nvd.nist.gov/vuln/detail/CVE-2026-112041) | Low | 2.9 | A vulnerability was identified in diem-project diem up to 116974edfb9a5b8bd69cb13586dc62bcdbb485ad. This vulnerability… |
 
 ## Data source
 
