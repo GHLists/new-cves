@@ -1,0 +1,127 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-19T22:16:57.66Z,CVE-2023-42990,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.233Z,CVE-2023-42991,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.29Z,CVE-2023-42992,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.343Z,CVE-2023-42993,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.403Z,CVE-2023-42994,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.453Z,CVE-2023-42995,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.503Z,CVE-2023-42996,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.553Z,CVE-2023-42997,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.653Z,CVE-2023-42999,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.6Z,CVE-2023-42998,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.723Z,CVE-2024-54582,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.77Z,CVE-2024-54583,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.817Z,CVE-2024-54584,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.867Z,CVE-2024-54585,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.92Z,CVE-2024-54586,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:58.97Z,CVE-2024-54587,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.017Z,CVE-2024-54588,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.07Z,CVE-2024-54589,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.12Z,CVE-2024-54590,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.17Z,CVE-2024-54591,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.22Z,CVE-2024-54592,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.267Z,CVE-2024-54593,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.317Z,CVE-2024-54594,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.37Z,CVE-2024-54595,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.423Z,CVE-2024-54596,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.473Z,CVE-2024-54597,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.52Z,CVE-2024-54598,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.573Z,CVE-2024-54599,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.627Z,CVE-2024-54600,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.677Z,CVE-2024-54601,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.727Z,CVE-2024-54602,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.773Z,CVE-2024-54603,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.82Z,CVE-2024-54604,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.87Z,CVE-2024-54605,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.92Z,CVE-2024-54606,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:16:59.97Z,CVE-2024-54607,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.02Z,CVE-2024-54608,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.073Z,CVE-2024-54609,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.123Z,CVE-2024-54610,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.177Z,CVE-2024-54611,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.23Z,CVE-2024-54612,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.277Z,CVE-2024-54613,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.327Z,CVE-2024-54614,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.38Z,CVE-2024-54615,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.43Z,CVE-2024-54616,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.483Z,CVE-2024-54617,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.533Z,CVE-2024-54618,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.587Z,CVE-2024-54619,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.633Z,CVE-2024-54620,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.687Z,CVE-2024-54621,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.74Z,CVE-2024-54622,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.79Z,CVE-2024-54623,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.84Z,CVE-2024-54624,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.89Z,CVE-2024-54625,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.94Z,CVE-2024-54626,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:00.99Z,CVE-2024-54627,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.05Z,CVE-2024-54628,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.13Z,CVE-2024-54629,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.183Z,CVE-2024-54630,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.237Z,CVE-2024-54631,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.29Z,CVE-2024-54632,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.337Z,CVE-2024-54633,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.387Z,CVE-2024-54634,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.44Z,CVE-2024-54635,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.493Z,CVE-2024-54636,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.55Z,CVE-2024-54637,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.597Z,CVE-2024-54638,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.65Z,CVE-2024-54639,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.697Z,CVE-2024-54640,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.753Z,CVE-2024-54641,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.81Z,CVE-2024-54642,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.86Z,CVE-2024-54643,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.903Z,CVE-2024-54644,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:01.953Z,CVE-2024-54645,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.06Z,CVE-2024-54647,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.107Z,CVE-2024-54648,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.15Z,CVE-2024-54649,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.207Z,CVE-2024-54650,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.25Z,CVE-2024-54651,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.35Z,CVE-2024-54653,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.3Z,CVE-2024-54652,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.45Z,CVE-2024-54655,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.4Z,CVE-2024-54654,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.547Z,CVE-2024-54657,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02.5Z,CVE-2024-54656,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:02Z,CVE-2024-54646,,,Rejected,,0,Rejected reason: This candidate was in a CNA pool that was not assigned to any issues.
+2026-10-19T22:17:03.027Z,CVE-2026-105814,MEDIUM,5.3,Received,CWE-287,2,"TP-Link Tapo C210 V3.60 contains an authentication bypass vulnerability in the DS JSON API. A crafted JSON request containing both a protected operation and public onboarding-related fields may cause module-level authorization checks to be applied inconsistently, allowing protected camera operation…"
+2026-10-19T22:17:03.153Z,CVE-2026-105815,HIGH,7.1,Received,CWE-287,2,"TP-Link Tapo C210 V3.60 may expose shared credential material and cryptographic metadata through unauthenticated DS JSON API requests. The exposed shared credential can be accepted by the Streamd Digest authentication mechanism as an administrative password, allowing an unauthenticated adjacent-net…"
+2026-10-19T22:17:05.42Z,CVE-2026-112257,HIGH,7.8,Received,CWE-121,2,"A flaw was found in GIMP. The PSD thumbnail resource loader performs a BGR-to-RGB channel swap with a fixed 3-byte stride and does not verify that the JPEG thumbnail is RGB. A crafted grayscale PSD thumbnail can cause a heap out-of-bounds read and write in the plug-in process, leading to a crash an…"
+2026-10-19T22:17:05.543Z,CVE-2026-112258,HIGH,7.8,Received,CWE-416,2,"A flaw was found in GIMP. The XCF loader can leave a dangling pointer in the linked-channels list when a linked channel is later destroyed via a selection property. Opening a crafted XCF file can cause a use-after-free in the main GIMP process, leading to a crash and potentially arbitrary code exec…"
+2026-10-19T22:17:05.767Z,CVE-2026-112261,HIGH,7.8,Received,CWE-416,2,"A flaw was found in GIMP. Opening a crafted XCF that selects a path and then fails to load that path can cause a use-after-free in the main process, leading to a crash and potentially arbitrary code execution."
+2026-10-19T22:17:06.02Z,CVE-2026-112358,LOW,2.1,Received,CWE-918,4,A weakness has been identified in TiBillet Lespass up to 10e87909c5d526dffa6d424c104fc12860740537. This vulnerability affects the function get_img_from_url of the file ApiBillet/serializers.py of the component APIv1. Executing a manipulation of the argument img_url/image_url can lead to server-side…
+2026-10-19T22:17:06.217Z,CVE-2026-112360,HIGH,7.4,Received,CWE-912,4,A security vulnerability has been detected in Netis EAP930 1.250905.115454. This issue affects the function return200 of the file /cgi-bin/debug of the component CGI Endpoint. The manipulation of the argument SIGNATURE leads to backdoor. The attack may be initiated remotely. A high degree of comple…
+2026-10-19T22:17:06.4Z,CVE-2026-112361,MEDIUM,5.3,Deferred,CWE-693,7,A vulnerability has been found in Dolibarr up to 23.0.2. The impacted element is an unknown function of the file htdocs/document.php of the component CSP. Such manipulation leads to protection mechanism failure. The attack can be executed remotely. Upgrading to version 24.0.0 is sufficient to resol…
+2026-10-19T22:17:06.587Z,CVE-2026-112392,HIGH,8.2,Received,CWE-476,3,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's rank-based filters can dereference invalid image storage for a zero-size image. ImagingExpand() allocates a non-empty output and then faults while replicating edges by reading the first pixel from empty input storage; ImagingRankFilter i…"
+2026-10-19T22:17:06.837Z,CVE-2026-112396,MEDIUM,5.9,Received,CWE-416,3,"Pillow is a Python imaging library. From 11.3.0 until 13.0.0, Pillow has a heap use-after-free when libtiff rejects a tag while encoding TIFF data to an in-memory buffer. When an application saves attacker-influenced TIFF tags to BytesIO, libtiff can reject a tag during encoding in ImagingLibTiffEn…"
+2026-10-19T22:17:06.97Z,CVE-2026-112397,HIGH,8.7,Received,CWE-787,4,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's ImageMorph.MorphOp.apply() can access memory before a row buffer for a zero-width image. PPM and PGM input can create an image with width zero, and the native morphology routine indexes outrow[width - 1] without rejecting that geometry.…"
+2026-10-19T22:17:07.107Z,CVE-2026-112398,CRITICAL,9.2,Received,CWE-122; CWE-787,3,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's FlashPix JPEG-tile decoder can write decoded scanlines beyond the allocated tile buffer. FlashPix (FPX) JPEG decoding selects raw mode LA with two bytes per pixel, while an unrecognized JPEG mode can be decoded as JCS_UNKNOWN with four c…"
+2026-10-19T22:17:07.24Z,CVE-2026-112399,HIGH,8.7,Received,CWE-789,3,"Pillow is a Python imaging library. From 8.1.0 until 13.0.0, Pillow can allocate an APNG disposal background at the full canvas size before applying the decompression-bomb check. A crafted APNG with a small first frame, a very large declared canvas, and background disposal or first-frame OP_PREVIOU…"
+2026-10-19T22:17:07.367Z,CVE-2026-112400,HIGH,8.7,Received,CWE-400; CWE-770,3,"Pillow is a Python imaging library. From 9.2.0 until 13.0.0, Pillow can retain a rejected GIF frame size after a decompression-bomb exception. In GifImageFile._seek, a crafted GIF can leave rejected dimensions stored after Image.DecompressionBombError; if an application catches that exception and c…"
+2026-10-19T22:17:07.503Z,CVE-2026-112401,MEDIUM,6.9,Received,CWE-407,3,"Pillow is a Python imaging library. From 5.4.0 until 13.0.0, Pillow performs quadratic copying while parsing GIF comments. GifImageFile._seek() repeatedly appends immutable bytes for comment sub-blocks and multiple comment extensions, and frame zero is parsed during Image.open(). An attacker can su…"
+2026-10-19T22:17:07.633Z,CVE-2026-112402,HIGH,8.7,Received,CWE-416,4,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow can double free image memory when ImagingScaleAffine encounters a selective allocation failure. The affected fast path handles Transform.EXTENT or pure scale-and-translate Transform.AFFINE operations with the default NEAREST resampling. Th…"
+2026-10-19T22:17:07.77Z,CVE-2026-112403,CRITICAL,9.2,Received,CWE-122,3,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's JPEG decoder can write a full-width scanline into a buffer sized for a requested draft scale. ImagingJpegDecode does not verify libjpeg's actual output width and component count after scaling is requested, and an 8-bit lossless SOF3 JPEG…"
+2026-10-19T22:17:07.9Z,CVE-2026-112404,HIGH,8.8,Received,CWE-126,3,"Pillow is a Python imaging library. From 8.1.0 until 13.0.0, Pillow's TIFF tile and RGBA decode paths can read beyond row data produced by libtiff. In _decodeTile and the RGBA unpacker path, when Pillow and libtiff interpret duplicated PhotometricInterpretation or BitsPerSample tags differently, Pi…"
+2026-10-19T22:17:08.027Z,CVE-2026-112405,HIGH,8.7,Received,CWE-476,3,"Pillow is a Python imaging library. From 12.0.0 until 13.0.0, Pillow's Image.merge() can dereference a null image8 plane. Validation skips the first input band, allowing a 32-bit integer or floating-point image backed by image32 storage to be merged as a narrower multiband image. A crafted IPTC fil…"
+2026-10-19T22:17:08.153Z,CVE-2026-112406,HIGH,8.7,Received,CWE-835,3,"Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow can enter an infinite loop while rewriting PDF pages. PdfParser.rewrite_pages() follows Parent relationships without detecting a cycle in the page tree. An attacker can supply a cyclic PDF to an application that appends an image to…"
+2026-10-19T22:17:08.64Z,CVE-2026-112891,MEDIUM,6.9,Received,CWE-407,3,"Pillow is a Python imaging library. From 9.2.0 until 13.0.0, Pillow performs quadratic copying when saving a GIF with a long comment. _get_global_header() repeatedly copies portions of comment data while assembling the global header, including comments retained from an untrusted input image. An att…"
+2026-10-19T22:17:09.21Z,CVE-2026-112892,HIGH,8.7,Received,CWE-409,3,"Pillow is a Python imaging library. From 4.1.0 until 13.0.0, Pillow's MSP RLE decoder can expand a small file into an unbounded in-memory buffer. The decoder writes run-length output to BytesIO without limiting expansion to the declared image size. An attacker can supply a crafted MSP image to an a…"
+2026-10-19T22:17:09.35Z,CVE-2026-112893,HIGH,8.2,Received,CWE-457; CWE-763,3,"Pillow is a Python imaging library. From 10.0.0 until 13.0.0, Pillow can free an invalid glyph pointer during FreeType rendering with an active stroker. If FT_Load_Glyph fails, cleanup may call FT_Done_Glyph on an uninitialized or stale glyph variable. An attacker can supply a malformed font as unt…"
+2026-10-19T22:17:09.483Z,CVE-2026-112894,HIGH,8.7,Received,CWE-407,3,"Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow takes quadratic time to reserve PDF object identifiers when saving many frames with save_all enabled. PdfParser.next_object_id() repeatedly rebuilds and scans all previously reserved identifiers for every object. An attacker can su…"
+2026-10-19T22:17:09.62Z,CVE-2026-112895,HIGH,8.7,Received,CWE-674,3,"Pillow is a Python imaging library. From 5.1.0 until 13.0.0, Pillow can exhaust resources while parsing an existing PDF during an append operation. PdfParser follows page-tree child references without cycle or duplication tracking and follows previous-trailer chains with only an exact repeated-offs…"
+2026-10-19T22:17:09.76Z,CVE-2026-112896,HIGH,8.8,Received,CWE-125,3,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's TIFF encoder can read beyond a ColorMap buffer when retained TIFF metadata has a plane size inconsistent with BitsPerSample. A small TIFF can be opened normally and then retain a crafted ColorMap that is reused when the image is saved. A…"
+2026-10-19T22:17:09.9Z,CVE-2026-112897,HIGH,8.7,Received,CWE-908,3,"Pillow is a Python imaging library. From 5.3.0 until 13.0.0, Pillow can return uninitialized memory as pixels when libtiff performs a short decode of JPEG-compressed or Group 4 fax TIFF data. The _decodeStrip and _decodeTile buffers can be larger than the bytes written by libtiff, but Pillow conver…"
+2026-10-19T22:17:10.03Z,CVE-2026-112898,MEDIUM,6.9,Received,CWE-457,3,"Pillow is a Python imaging library. From 9.1.0 until 13.0.0, Pillow can disclose uninitialized stack memory when Image.quantize() uses an empty palette. ImagingPaletteCacheUpdate() leaves a local cache array uninitialized when the palette has zero entries, and the conversion path emits those bytes…"
+2026-10-19T22:17:10.16Z,CVE-2026-112900,CRITICAL,9.2,Received,CWE-78; CWE-88,3,"Pillow is a Python imaging library. From 2.6.0 until 13.0.0, Pillow is vulnerable to argument injection when invoking Ghostscript for EPS input. EpsImagePlugin.Ghostscript passes a caller-controlled input filename after -f without converting it to a safe absolute path, so a name beginning with a hy…"
+2026-10-19T22:17:10.293Z,CVE-2026-112901,MEDIUM,6.9,Received,CWE-1333,3,"Pillow is a Python imaging library. Prior to 13.0.0, Pillow's XBM header parser is vulnerable to regular-expression denial of service. In XbmImageFile._open, when an application calls Image.open() on a small crafted XBM file, XbmImagePlugin applies a backtracking expression to the attacker-controll…"
+2026-10-19T22:17:11.013Z,CVE-2026-53995,HIGH,8.8,Received,CWE-22,3,MLflow 3.17.1 and earlier contains a path traversal vulnerability in the FileStore tracking backend that allows unauthenticated attackers to control filesystem paths by submitting a crafted trace ID containing traversal sequences to the POST /api/3.0/mlflow/traces endpoint. Attackers can exploit Fi…
+2026-10-19T22:17:11.167Z,CVE-2026-56714,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.223Z,CVE-2026-57512,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.37Z,CVE-2026-57514,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.3Z,CVE-2026-57513,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.413Z,CVE-2026-57515,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.47Z,CVE-2026-57519,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.517Z,CVE-2026-57526,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.567Z,CVE-2026-57528,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-19T22:17:11.62Z,CVE-2026-57529,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
