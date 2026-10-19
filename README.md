@@ -9,36 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:18 UTC
+## Latest list — 2026-10-19 20:19 UTC
 
-New CVEs published between 2026-10-19 18:19 UTC and 2026-10-19 19:18 UTC.
+New CVEs published between 2026-10-19 19:18 UTC and 2026-10-19 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T19-18-59-131493Z.csv)
+[Full CSV](data/new-cves-2026-10-19T20-19-09-023425Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 19:17:03 | [CVE-2025-60482](https://nvd.nist.gov/vuln/detail/CVE-2025-60482) |  |  | A heap use-after-free in the gf_odf_ac4_cfg_clean_list function (/odf/descriptors.c) of GPAC Project/MP4Box 2.5-DEV-rev… |
-| 2026-10-19 19:17:19 | [CVE-2026-109434](https://nvd.nist.gov/vuln/detail/CVE-2026-109434) | Medium | 5.1 | Fenrir Sleipnir Browser for Android before 3.9.0 contains a UI spoofing vulnerability that allows remote attackers to i… |
-| 2026-10-19 19:17:19 | [CVE-2026-109437](https://nvd.nist.gov/vuln/detail/CVE-2026-109437) | Critical | 9.2 | Cognition before 0.13.0 contains an unauthenticated remote code execution vulnerability due to defaulting its agent san… |
-| 2026-10-19 19:17:20 | [CVE-2026-110672](https://nvd.nist.gov/vuln/detail/CVE-2026-110672) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl leak the decoded key of an object rejected for a duplicate key or a miss… |
-| 2026-10-19 19:17:20 | [CVE-2026-110673](https://nvd.nist.gov/vuln/detail/CVE-2026-110673) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl allow stack exhaustion via nested tagged values under allow_tags in deco… |
-| 2026-10-19 19:17:21 | [CVE-2026-110674](https://nvd.nist.gov/vuln/detail/CVE-2026-110674) |  |  | Cpanel::JSON::XS versions from 4.33 before 4.80 for Perl miss duplicate non-ASCII bare keys, allowing type confusion un… |
-| 2026-10-19 19:17:21 | [CVE-2026-110675](https://nvd.nist.gov/vuln/detail/CVE-2026-110675) |  |  | Cpanel::JSON::XS versions from 4.33 before 4.80 for Perl accept malformed UTF-8 in bare hash keys under allow_barekey i… |
-| 2026-10-19 19:17:21 | [CVE-2026-110676](https://nvd.nist.gov/vuln/detail/CVE-2026-110676) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl allow memory exhaustion by encoding exponent notation as full decimal di… |
-| 2026-10-19 19:17:21 | [CVE-2026-110677](https://nvd.nist.gov/vuln/detail/CVE-2026-110677) |  |  | Cpanel::JSON::XS versions from 4.28 before 4.80 for Perl leak the array collecting duplicate key values under dupkeys_a… |
-| 2026-10-19 19:17:21 | [CVE-2026-110678](https://nvd.nist.gov/vuln/detail/CVE-2026-110678) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl allow memory exhaustion by buffering incremental input past max_size in… |
-| 2026-10-19 19:17:21 | [CVE-2026-110680](https://nvd.nist.gov/vuln/detail/CVE-2026-110680) |  |  | Cpanel::JSON::XS versions from 4.20 before 4.80 for Perl write out of bounds when a tied or shared hash grows during ca… |
-| 2026-10-19 19:17:21 | [CVE-2026-110681](https://nvd.nist.gov/vuln/detail/CVE-2026-110681) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl use the parent interpreter's scalars from a parser object cloned into a… |
-| 2026-10-19 19:17:21 | [CVE-2026-110682](https://nvd.nist.gov/vuln/detail/CVE-2026-110682) |  |  | Cpanel::JSON::XS versions from 4.42 before 4.80 for Perl let input chunking change the decoded value of top-level numbe… |
-| 2026-10-19 19:17:21 | [CVE-2026-110684](https://nvd.nist.gov/vuln/detail/CVE-2026-110684) |  |  | Cpanel::JSON::XS versions from 3.0202 before 4.80 for Perl leak memory and retain overloaded objects when encoding valu… |
-| 2026-10-19 19:17:22 | [CVE-2026-110685](https://nvd.nist.gov/vuln/detail/CVE-2026-110685) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl leak the decoded arguments of a tagged value when its THAW method dies i… |
-| 2026-10-19 19:17:22 | [CVE-2026-110686](https://nvd.nist.gov/vuln/detail/CVE-2026-110686) |  |  | Cpanel::JSON::XS versions before 4.80 for Perl use freed filter callbacks when a filter removes itself during decoding… |
-| 2026-10-19 19:17:22 | [CVE-2026-110687](https://nvd.nist.gov/vuln/detail/CVE-2026-110687) |  |  | Cpanel::JSON::XS versions from 4.43 before 4.80 for Perl misorder byte-string keys during canonical encoding in utf16_c… |
-| 2026-10-19 19:17:22 | [CVE-2026-110688](https://nvd.nist.gov/vuln/detail/CVE-2026-110688) |  |  | Cpanel::JSON::XS versions from 4.51 before 4.80 for Perl allow quadratic CPU use by revalidating the remaining buffer p… |
-| 2026-10-19 19:17:26 | [CVE-2026-112249](https://nvd.nist.gov/vuln/detail/CVE-2026-112249) | Medium | 4.8 | A vulnerability was detected in grandnode grandnode2 up to 2.3.0. Affected is the function Html.Raw of the file src/Web… |
-| 2026-10-19 19:17:26 | [CVE-2026-112251](https://nvd.nist.gov/vuln/detail/CVE-2026-112251) | Low | 2.1 | A vulnerability was detected in antoinersx clawhost up to 0.0.45. This affects the function handleRequest of the file a… |
-| 2026-10-19 19:17:27 | [CVE-2026-112252](https://nvd.nist.gov/vuln/detail/CVE-2026-112252) | Medium | 5.5 | A vulnerability has been found in Wuxi Wubang Security Software Wubang Five-in-One Safety Production Management Informa… |
-| 2026-10-19 19:17:27 | [CVE-2026-112259](https://nvd.nist.gov/vuln/detail/CVE-2026-112259) | Medium | 5.5 | A flaw was found in GIMP. Importing a crafted SBZ palette without a color-model attribute can cause a NULL pointer dere… |
+| 2026-10-19 20:17:34 | [CVE-2024-54581](https://nvd.nist.gov/vuln/detail/CVE-2024-54581) |  |  | Rejected reason: This candidate was in a CNA pool that was not assigned to any issues. |
+| 2026-10-19 20:17:52 | [CVE-2026-111766](https://nvd.nist.gov/vuln/detail/CVE-2026-111766) | Low | 3.7 | markdown-it is a Markdown parser. Prior to 14.3.3 and 15.0.3, when the html option or commonmark preset is enabled and… |
+| 2026-10-19 20:17:52 | [CVE-2026-112254](https://nvd.nist.gov/vuln/detail/CVE-2026-112254) | Low | 2.1 | A vulnerability was found in agit8or1 clientst0r up to 3.17.586. Affected by this vulnerability is the function _fetch_… |
+| 2026-10-19 20:17:52 | [CVE-2026-112260](https://nvd.nist.gov/vuln/detail/CVE-2026-112260) | High | 7.1 | A flaw was found in GIMP. Opening a crafted XCF with a malformed text-layer parasite can cause a heap out-of-bounds rea… |
+| 2026-10-19 20:17:53 | [CVE-2026-112297](https://nvd.nist.gov/vuln/detail/CVE-2026-112297) | Low | 2.1 | A flaw has been found in ptbsare anx-calibre-manager up to 1.13.12. The impacted element is the function LLMClient.chat… |
+| 2026-10-19 20:17:53 | [CVE-2026-112768](https://nvd.nist.gov/vuln/detail/CVE-2026-112768) | Medium | 6.9 | Parse Server before 8.6.99 and 9.0.0 before 9.10.3-alpha.2 evaluates checks against the target account during a user up… |
+| 2026-10-19 20:17:53 | [CVE-2026-112769](https://nvd.nist.gov/vuln/detail/CVE-2026-112769) | Low | 2.3 | Parse Server before 8.6.98 and 9.0.0 before 9.10.3-alpha.1 does not enforce the create and addField class-level permiss… |
+| 2026-10-19 20:17:54 | [CVE-2026-112770](https://nvd.nist.gov/vuln/detail/CVE-2026-112770) | High | 8.7 | Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a remote code execution vulnerability in the Twig group filt… |
+| 2026-10-19 20:17:54 | [CVE-2026-112771](https://nvd.nist.gov/vuln/detail/CVE-2026-112771) | High | 7.1 | Craft CMS 4.0.0 before 4.18.8 and 5.0.0 before 5.11.0 contains a Twig sandbox allowlist bypass because the column, cont… |
+| 2026-10-19 20:17:54 | [CVE-2026-112772](https://nvd.nist.gov/vuln/detail/CVE-2026-112772) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated Control Pan… |
+| 2026-10-19 20:17:54 | [CVE-2026-112773](https://nvd.nist.gov/vuln/detail/CVE-2026-112773) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated Control Pan… |
+| 2026-10-19 20:17:54 | [CVE-2026-112774](https://nvd.nist.gov/vuln/detail/CVE-2026-112774) | High | 8.7 | Craft CMS from 5.8.0 before 5.11.0 contains a remote code execution vulnerability that allows authenticated administrat… |
+| 2026-10-19 20:17:54 | [CVE-2026-112775](https://nvd.nist.gov/vuln/detail/CVE-2026-112775) | High | 8.7 | Craft CMS from 5.0.0 before 5.11.0 contains an authentication bypass vulnerability that allows attackers to reuse verif… |
+| 2026-10-19 20:17:54 | [CVE-2026-112776](https://nvd.nist.gov/vuln/detail/CVE-2026-112776) | Critical | 9.3 | Craft CMS from 5.0.0 before 5.11.0 contains an authorization bypass vulnerability that allows site-scoped GraphQL token… |
+| 2026-10-19 20:17:55 | [CVE-2026-112777](https://nvd.nist.gov/vuln/detail/CVE-2026-112777) | High | 8.7 | Craft CMS 4.x before 4.18.8 and 5.x before 5.11.0 contains a blocklist bypass in the Twig create() function because its… |
+| 2026-10-19 20:17:55 | [CVE-2026-112778](https://nvd.nist.gov/vuln/detail/CVE-2026-112778) | Medium | 6.4 | Traefik before 2.11.46, 3.x before 3.6.17, and 3.7.0 lack namespace validation for Ingress and Service annotations in t… |
+| 2026-10-19 20:17:55 | [CVE-2026-112779](https://nvd.nist.gov/vuln/detail/CVE-2026-112779) | Critical | 9.3 | Grav API plugin (grav-plugin-api) 1.0.40 before 1.0.42 caches a full translation dictionary for every well-formed langu… |
+| 2026-10-19 20:17:55 | [CVE-2026-112780](https://nvd.nist.gov/vuln/detail/CVE-2026-112780) | Critical | 9.3 | Grav from 2.0.15 before 2.2.2 contains an allowlist bypass vulnerability that allows page editors to call arbitrary pub… |
+| 2026-10-19 20:17:55 | [CVE-2026-112781](https://nvd.nist.gov/vuln/detail/CVE-2026-112781) | High | 8.7 | Grav from 2.0.0 before 2.2.2 contains an information disclosure vulnerability that allows page editors to read protecte… |
+| 2026-10-19 20:17:55 | [CVE-2026-112782](https://nvd.nist.gov/vuln/detail/CVE-2026-112782) | High | 8.7 | Grav 1.7.53 before 1.7.53.5 and 2.0.0-rc.8 before 2.2.2 contains a resource exhaustion vulnerability that allows anonym… |
 
 ## Data source
 
