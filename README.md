@@ -9,21 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 12:18 UTC
+## Latest list — 2026-10-19 13:20 UTC
 
-New CVEs published between 2026-10-19 11:18 UTC and 2026-10-19 12:18 UTC.
+New CVEs published between 2026-10-19 12:18 UTC and 2026-10-19 13:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-19T12-18-59-149828Z.csv)
+[Full CSV](data/new-cves-2026-10-19T13-20-34-184907Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-19 12:17:00 | [CVE-2026-112107](https://nvd.nist.gov/vuln/detail/CVE-2026-112107) | Low | 2.1 | A flaw has been found in ztxz16 fastllm up to 1.8.2. Affected by this issue is the function SafeTensorItem::CreateBuffe… |
-| 2026-10-19 12:17:01 | [CVE-2026-112108](https://nvd.nist.gov/vuln/detail/CVE-2026-112108) | Low | 2.1 | A vulnerability was determined in ztxz16 fastllm up to 0.1.8.2. This impacts the function GGUFBuffer::ReadString of the… |
-| 2026-10-19 12:17:01 | [CVE-2026-112138](https://nvd.nist.gov/vuln/detail/CVE-2026-112138) | Low | 2.0 | A flaw has been found in diem-project diem up to 5.1.3. The impacted element is the function dmOs::join of the file dmF… |
-| 2026-10-19 12:17:01 | [CVE-2026-112139](https://nvd.nist.gov/vuln/detail/CVE-2026-112139) | Medium | 5.5 | A vulnerability has been found in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa07ee693dc4d9a… |
-| 2026-10-19 12:17:01 | [CVE-2026-112140](https://nvd.nist.gov/vuln/detail/CVE-2026-112140) | Low | 2.1 | A vulnerability was found in llSourcell Doctor-Dignity up to 3f2ffb6c892f13b50a708d05900d3227acb40ded. This impacts the… |
-| 2026-10-19 12:17:01 | [CVE-2026-112210](https://nvd.nist.gov/vuln/detail/CVE-2026-112210) | Medium | 6.0 | A flaw was found in the rhc-canonical-facts.service systemd unit shipped with rhc. The service runs as root and operate… |
-| 2026-10-19 12:17:11 | [CVE-2026-88900](https://nvd.nist.gov/vuln/detail/CVE-2026-88900) | High | 8.8 | Deserialization of Untrusted Data vulnerability in Apache Camel Camel-Jgroups component. This issue affects Apache Came… |
+| 2026-10-19 13:16:53 | [CVE-2026-103314](https://nvd.nist.gov/vuln/detail/CVE-2026-103314) | High | 7.4 | A flaw was found in Red Hat Advanced Cluster Security for Kubernetes (RHACS). The Central SAML authentication ACS endpo… |
+| 2026-10-19 13:16:55 | [CVE-2026-110363](https://nvd.nist.gov/vuln/detail/CVE-2026-110363) | Medium | 5.4 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
+| 2026-10-19 13:16:55 | [CVE-2026-111410](https://nvd.nist.gov/vuln/detail/CVE-2026-111410) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in E2Pdf.com e2pdf e… |
+| 2026-10-19 13:16:55 | [CVE-2026-111414](https://nvd.nist.gov/vuln/detail/CVE-2026-111414) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetEle… |
+| 2026-10-19 13:16:56 | [CVE-2026-111831](https://nvd.nist.gov/vuln/detail/CVE-2026-111831) | Medium | 5.3 | Missing Authorization vulnerability in WP ManageNinja LLC FluentForm fluentform allows Exploiting Incorrectly Configure… |
+| 2026-10-19 13:16:56 | [CVE-2026-111836](https://nvd.nist.gov/vuln/detail/CVE-2026-111836) | Medium | 4.3 | Missing Authorization vulnerability in WP ManageNinja LLC FluentCommunity fluent-community allows Exploiting Incorrectl… |
+| 2026-10-19 13:16:56 | [CVE-2026-111839](https://nvd.nist.gov/vuln/detail/CVE-2026-111839) | Medium | 5.3 | Missing Authorization vulnerability in VideoWhisper.com Broadcast Live Video videowhisper-live-streaming-integration al… |
+| 2026-10-19 13:16:56 | [CVE-2026-111845](https://nvd.nist.gov/vuln/detail/CVE-2026-111845) | Medium | 5.3 | Missing Authorization vulnerability in YITH YITH WooCommerce Product Bundles yith-woocommerce-product-bundles allows Ex… |
+| 2026-10-19 13:16:57 | [CVE-2026-112141](https://nvd.nist.gov/vuln/detail/CVE-2026-112141) | Medium | 5.5 | A vulnerability was determined in satya-vinay Events-Management-System up to 437c77ceb69bf9fe2e3f4f46f7871b83f425383a.… |
+| 2026-10-19 13:16:57 | [CVE-2026-112142](https://nvd.nist.gov/vuln/detail/CVE-2026-112142) | Medium | 5.5 | A vulnerability was identified in satya-vinay Events-Management-System up to 437c77ceb69bf9fe2e3f4f46f7871b83f425383a.… |
+| 2026-10-19 13:16:57 | [CVE-2026-112199](https://nvd.nist.gov/vuln/detail/CVE-2026-112199) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in YITH YITH WooComm… |
+| 2026-10-19 13:16:57 | [CVE-2026-112214](https://nvd.nist.gov/vuln/detail/CVE-2026-112214) | Medium | 6.5 | A flaw was found in the GStreamer ASF demuxer in gst-plugins-ugly. When parsing a Simple Index object, an attacker-cont… |
+| 2026-10-19 13:16:58 | [CVE-2026-38671](https://nvd.nist.gov/vuln/detail/CVE-2026-38671) |  |  | Cross Site Scripting vulnerability in Ellucian Banner Student Registration Self-Service (StudentRegistrationSsb) 9.23 a… |
 
 ## Data source
 
