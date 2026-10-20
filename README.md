@@ -9,25 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 12:19 UTC
+## Latest list — 2026-10-20 13:18 UTC
 
-New CVEs published between 2026-10-20 11:20 UTC and 2026-10-20 12:19 UTC.
+New CVEs published between 2026-10-20 12:19 UTC and 2026-10-20 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T12-19-55-999212Z.csv)
+[Full CSV](data/new-cves-2026-10-20T13-18-55-493289Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 12:17:28 | [CVE-2026-105311](https://nvd.nist.gov/vuln/detail/CVE-2026-105311) | High | 7.7 | The StreamsHub Console operator acts as a confused deputy: a Kubernetes tenant with permission to create a Console cust… |
-| 2026-10-20 12:17:28 | [CVE-2026-105312](https://nvd.nist.gov/vuln/detail/CVE-2026-105312) | Critical | 9.9 | A Kubernetes tenant with create permission on Console custom resources can set spec.containers.api.spec.image to an arb… |
-| 2026-10-20 12:17:28 | [CVE-2026-105949](https://nvd.nist.gov/vuln/detail/CVE-2026-105949) | High | 8.8 | Cruise Control's Jetty ConstraintSecurityHandler registers security constraints on exact path specs without a catch-all… |
-| 2026-10-20 12:17:29 | [CVE-2026-113385](https://nvd.nist.gov/vuln/detail/CVE-2026-113385) | Low | 1.9 | A vulnerability has been found in LeeDrOiD Labs Shortcutter 2 App 9.0.48 on Android. This issue affects the function Cl… |
-| 2026-10-20 12:17:29 | [CVE-2026-113388](https://nvd.nist.gov/vuln/detail/CVE-2026-113388) | Low | 1.9 | A security flaw has been discovered in opensource-socialnetwork up to 9.11/10.1. This affects the function input of the… |
-| 2026-10-20 12:17:29 | [CVE-2026-113389](https://nvd.nist.gov/vuln/detail/CVE-2026-113389) | High | 8.6 | A vulnerability was detected in DrayTek Vigor2960 1.5.1.6 Revision 8218. Affected by this vulnerability is the function… |
-| 2026-10-20 12:17:29 | [CVE-2026-113495](https://nvd.nist.gov/vuln/detail/CVE-2026-113495) | Medium | 5.0 | A flaw was found in cockpit-machines. Red Hat Subscription Management (RHSM) authentication tokens are passed as comman… |
-| 2026-10-20 12:17:29 | [CVE-2026-113496](https://nvd.nist.gov/vuln/detail/CVE-2026-113496) | Medium | 5.0 | A flaw was found in cockpit-machines. When saving Virtual Network Computing (VNC) console settings, the configured pass… |
-| 2026-10-20 12:17:29 | [CVE-2026-113583](https://nvd.nist.gov/vuln/detail/CVE-2026-113583) | Medium | 5.3 | Cypht webmail 2.0.0 through 2.12.2 contains a DOM-based cross-site scripting vulnerability that allows remote attackers… |
-| 2026-10-20 12:17:30 | [CVE-2026-14933](https://nvd.nist.gov/vuln/detail/CVE-2026-14933) | High | 8.6 | Cross-site scripting in the embedded co-browsing feature in Unblu inc. Unblu Spark 7.0 through 7.57.7 and 8.0 through 8… |
-| 2026-10-20 12:17:30 | [CVE-2026-18205](https://nvd.nist.gov/vuln/detail/CVE-2026-18205) | Medium | 6.1 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Ticimax Informati… |
+| 2026-10-20 13:16:39 | [CVE-2026-105941](https://nvd.nist.gov/vuln/detail/CVE-2026-105941) | High | 8.1 | The Azure Key Vault KMS provider in Kroxylicious accepts an untrusted vaultName from wire-deserialized EDEK bytes witho… |
+| 2026-10-20 13:16:40 | [CVE-2026-113390](https://nvd.nist.gov/vuln/detail/CVE-2026-113390) | High | 8.6 | A flaw has been found in DrayTek Vigor2960 1.5.1.6 Revision 8218. Affected by this issue is the function sub_182B0 of t… |
+| 2026-10-20 13:16:40 | [CVE-2026-113391](https://nvd.nist.gov/vuln/detail/CVE-2026-113391) | High | 8.6 | A vulnerability has been found in DrayTek Vigor2960 1.5.1.6 Revision 8218. This affects the function uploadlangs of the… |
+| 2026-10-20 13:16:40 | [CVE-2026-113392](https://nvd.nist.gov/vuln/detail/CVE-2026-113392) | Low | 2.1 | A vulnerability was found in DrayTek Vigor2960 1.5.1.6 Revision 8218. This vulnerability affects unknown code of the fi… |
+| 2026-10-20 13:16:40 | [CVE-2026-113399](https://nvd.nist.gov/vuln/detail/CVE-2026-113399) |  |  | Incorrect boundary conditions in the SVG component. This vulnerability was fixed in Firefox 158.0.1. |
+| 2026-10-20 13:16:41 | [CVE-2026-113400](https://nvd.nist.gov/vuln/detail/CVE-2026-113400) |  |  | Uninitialized memory in the Audio/Video: cubeb component. This vulnerability was fixed in Firefox 158.0.1. |
+| 2026-10-20 13:16:41 | [CVE-2026-113401](https://nvd.nist.gov/vuln/detail/CVE-2026-113401) |  |  | Denial-of-service in the PDF Viewer component. This vulnerability was fixed in Firefox 158.0.1. |
+| 2026-10-20 13:16:41 | [CVE-2026-113470](https://nvd.nist.gov/vuln/detail/CVE-2026-113470) |  |  | Mozilla blocked compromised intermediate eMudhra certificates via OneCRL on the 17th of October which was distributed t… |
+| 2026-10-20 13:16:41 | [CVE-2026-113619](https://nvd.nist.gov/vuln/detail/CVE-2026-113619) | High | 7.5 | In Eclipse ioFog Controller versions 3.8.0 through 3.9.1, POST, PUT, and PATCH bodies on routes that enable template su… |
+| 2026-10-20 13:16:41 | [CVE-2026-113620](https://nvd.nist.gov/vuln/detail/CVE-2026-113620) | Critical | 9.8 | In Eclipse ioFog Controller versions 3.8.0 through 3.9.1, operator WebSocket upgrades on the exec and log routes do not… |
+| 2026-10-20 13:16:43 | [CVE-2026-34484](https://nvd.nist.gov/vuln/detail/CVE-2026-34484) |  |  | Nokia 1830 Global Express GX is vulnerable to a local privilege escalation vulnerability which exists in the administra… |
+| 2026-10-20 13:16:43 | [CVE-2026-34485](https://nvd.nist.gov/vuln/detail/CVE-2026-34485) |  |  | Nokia 1830 Global Express (GX) is vulnerable to a CLI ACL Bypass vulnerability where a low-privileged authenticated att… |
 
 ## Data source
 
