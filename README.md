@@ -9,35 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 18:20 UTC
+## Latest list — 2026-10-20 19:20 UTC
 
-New CVEs published between 2026-10-20 17:18 UTC and 2026-10-20 18:20 UTC.
+New CVEs published between 2026-10-20 18:20 UTC and 2026-10-20 19:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T18-20-48-915405Z.csv)
+[Full CSV](data/new-cves-2026-10-20T19-20-27-940935Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 18:17:16 | [CVE-2026-105772](https://nvd.nist.gov/vuln/detail/CVE-2026-105772) | Critical | 9.1 | Path Traversal (CWE-22) in FileArtifactService in Google ADK TypeScript (@google/adk) versions 0.4.0 before 0.6.0 allow… |
-| 2026-10-20 18:17:18 | [CVE-2026-111756](https://nvd.nist.gov/vuln/detail/CVE-2026-111756) | High | 8.2 | follow-redirects is a Node.js HTTP and HTTPS client wrapper that automatically follows redirects. From version 1.16.0 t… |
-| 2026-10-20 18:17:18 | [CVE-2026-112861](https://nvd.nist.gov/vuln/detail/CVE-2026-112861) | Medium | 6.3 | Authorization Bypass Through User-Controlled Key vulnerability in xnau webdesign Participants Database participants-dat… |
-| 2026-10-20 18:17:18 | [CVE-2026-113506](https://nvd.nist.gov/vuln/detail/CVE-2026-113506) | High | 8.6 | A vulnerability has been found in aaPanel up to 8.25.0. The affected element is the function ExecShell of the file clas… |
-| 2026-10-20 18:17:18 | [CVE-2026-113507](https://nvd.nist.gov/vuln/detail/CVE-2026-113507) | Medium | 5.5 | A vulnerability was found in aaPanel up to 8.25.0. The impacted element is the function GetClientIp of the file class/p… |
-| 2026-10-20 18:17:19 | [CVE-2026-113659](https://nvd.nist.gov/vuln/detail/CVE-2026-113659) | Medium | 6.1 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, an unauthenticated attacker can sen… |
-| 2026-10-20 18:17:19 | [CVE-2026-113660](https://nvd.nist.gov/vuln/detail/CVE-2026-113660) | Medium | 4.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, ApostropheCMS’s exist-in-locale API… |
-| 2026-10-20 18:17:19 | [CVE-2026-113661](https://nvd.nist.gov/vuln/detail/CVE-2026-113661) | Medium | 5.4 | ApostropheCMS is an open-source Node.js content management system, and sanitize-html provides a simple HTML sanitizer w… |
-| 2026-10-20 18:17:19 | [CVE-2026-113662](https://nvd.nist.gov/vuln/detail/CVE-2026-113662) | Medium | 5.4 | ApostropheCMS is an open-source Node.js content management system. Prior to 3.7.0 of the import-export module, an authe… |
-| 2026-10-20 18:17:19 | [CVE-2026-113664](https://nvd.nist.gov/vuln/detail/CVE-2026-113664) | Medium | 5.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 3.7.0 of the import-export module, an authe… |
-| 2026-10-20 18:17:19 | [CVE-2026-113665](https://nvd.nist.gov/vuln/detail/CVE-2026-113665) | Low | 3.7 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, the notification module exposes PAT… |
-| 2026-10-20 18:17:20 | [CVE-2026-113666](https://nvd.nist.gov/vuln/detail/CVE-2026-113666) | High | 7.1 | ApostropheCMS is an open-source Node.js content management system. Prior to 1.1.0 of db-connect and 4.33.0 of Apostroph… |
-| 2026-10-20 18:17:20 | [CVE-2026-113667](https://nvd.nist.gov/vuln/detail/CVE-2026-113667) | Medium | 5.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 1.5.5 of the Form add-on, 1.2.1 of login-re… |
-| 2026-10-20 18:17:20 | [CVE-2026-113668](https://nvd.nist.gov/vuln/detail/CVE-2026-113668) | Medium | 5.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, the REST route GET /api/v1/<piece-t… |
-| 2026-10-20 18:17:20 | [CVE-2026-113669](https://nvd.nist.gov/vuln/detail/CVE-2026-113669) | Medium | 5.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0 of ApostropheCMS and 1.6.1 of passpo… |
-| 2026-10-20 18:17:20 | [CVE-2026-113670](https://nvd.nist.gov/vuln/detail/CVE-2026-113670) | Medium | 5.3 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, the core page REST API reads full p… |
-| 2026-10-20 18:17:20 | [CVE-2026-113671](https://nvd.nist.gov/vuln/detail/CVE-2026-113671) | Medium | 4.3 | ApostropheCMS is an open-source Node.js content management system. From 1.0.0-beta.10 until 1.0.0-beta.13 of the AI hel… |
-| 2026-10-20 18:17:20 | [CVE-2026-113672](https://nvd.nist.gov/vuln/detail/CVE-2026-113672) | Critical | 9.9 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 0.9.0 until 3.3.15, 3.4.10, 3.5.4, and 3… |
-| 2026-10-20 18:17:21 | [CVE-2026-113710](https://nvd.nist.gov/vuln/detail/CVE-2026-113710) | Medium | 5.9 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0, the self-service password-change en… |
-| 2026-10-20 18:17:21 | [CVE-2026-113711](https://nvd.nist.gov/vuln/detail/CVE-2026-113711) | High | 7.5 | ApostropheCMS is an open-source Node.js content management system. Prior to 4.33.0 of ApostropheCMS and 3.7.0 of the im… |
-| 2026-10-20 18:17:21 | [CVE-2026-113802](https://nvd.nist.gov/vuln/detail/CVE-2026-113802) | Critical | 9.3 | Wavlink WL-WN530BE1-A firmware through M30BE1_V251117 contains an OS command injection vulnerability in the sub_23B54 f… |
+| 2026-10-20 19:17:11 | [CVE-2026-100132](https://nvd.nist.gov/vuln/detail/CVE-2026-100132) | Medium | 4.3 | Acrobat for Edge is affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory.… |
+| 2026-10-20 19:17:11 | [CVE-2026-100134](https://nvd.nist.gov/vuln/detail/CVE-2026-100134) | High | 8.8 | Acrobat for Edge is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in t… |
+| 2026-10-20 19:17:30 | [CVE-2026-111088](https://nvd.nist.gov/vuln/detail/CVE-2026-111088) | Medium | 6.5 | A Stored Cross-Site Scripting vulnerability exists in the SNS VPN log monitoring screen. |
+| 2026-10-20 19:17:30 | [CVE-2026-111767](https://nvd.nist.gov/vuln/detail/CVE-2026-111767) | High | 8.6 | MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. From version 1.24.0 t… |
+| 2026-10-20 19:17:32 | [CVE-2026-113643](https://nvd.nist.gov/vuln/detail/CVE-2026-113643) | Medium | 5.3 | A vulnerability was found in EspoCRM up to 9.3.10/10.0.10. This affects the function ImageSourceProvider::get of the fi… |
+| 2026-10-20 19:17:33 | [CVE-2026-113708](https://nvd.nist.gov/vuln/detail/CVE-2026-113708) | Critical | 9.9 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 2.7.0 until 3.3.15, 3.4.10, 3.5.4, and 3… |
+| 2026-10-20 19:17:33 | [CVE-2026-113709](https://nvd.nist.gov/vuln/detail/CVE-2026-113709) | Critical | 9.9 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 2.1.0 until 3.3.15, 3.4.10, 3.5.4, and 3… |
+| 2026-10-20 19:17:33 | [CVE-2026-113712](https://nvd.nist.gov/vuln/detail/CVE-2026-113712) | Medium | 4.8 | Cachet is an open-source status page system. Versions 2.4.1 and earlier have a stored Cross-Site Scripting (XSS) vulner… |
+| 2026-10-20 19:17:33 | [CVE-2026-113713](https://nvd.nist.gov/vuln/detail/CVE-2026-113713) | Medium | 4.4 | virtualenv is a tool for creating isolated virtual python environments. From 21.14.8 until 21.14.10, the app-data seede… |
+| 2026-10-20 19:17:34 | [CVE-2026-113714](https://nvd.nist.gov/vuln/detail/CVE-2026-113714) | Low | 2.3 | virtualenv is a tool for creating isolated virtual python environments. From 21.14.8 until 21.14.9, download_wheel() wr… |
+| 2026-10-20 19:17:34 | [CVE-2026-113808](https://nvd.nist.gov/vuln/detail/CVE-2026-113808) | High | 7.1 | A Stored Cross-Site Scripting vulnerability exists in the SNS enrollment Portal. Through the captive portal an attacker… |
+| 2026-10-20 19:17:34 | [CVE-2026-113810](https://nvd.nist.gov/vuln/detail/CVE-2026-113810) | High | 7.0 | A Stored Cross-Site Scripting vulnerability exists in the SNS enrollment Portal. Through the captive portal an attacker… |
+| 2026-10-20 19:17:35 | [CVE-2026-21266](https://nvd.nist.gov/vuln/detail/CVE-2026-21266) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:17:35 | [CVE-2026-21356](https://nvd.nist.gov/vuln/detail/CVE-2026-21356) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:17:35 | [CVE-2026-21270](https://nvd.nist.gov/vuln/detail/CVE-2026-21270) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:17:38 | [CVE-2026-48279](https://nvd.nist.gov/vuln/detail/CVE-2026-48279) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:18:15 | [CVE-2026-75747](https://nvd.nist.gov/vuln/detail/CVE-2026-75747) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:18:15 | [CVE-2026-75751](https://nvd.nist.gov/vuln/detail/CVE-2026-75751) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:18:15 | [CVE-2026-75997](https://nvd.nist.gov/vuln/detail/CVE-2026-75997) |  |  | Rejected reason: this CVE was issued in error. |
+| 2026-10-20 19:19:38 | [CVE-2026-97406](https://nvd.nist.gov/vuln/detail/CVE-2026-97406) |  |  | XERJ Console API bearer tokens can bypass the passkey‑only authentication requirement and directly invoke the API‑token… |
 
 ## Data source
 
