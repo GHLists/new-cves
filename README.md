@@ -9,33 +9,43 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 09:18 UTC
+## Latest list — 2026-10-20 10:20 UTC
 
-New CVEs published between 2026-10-20 08:18 UTC and 2026-10-20 09:18 UTC.
+New CVEs published between 2026-10-20 09:18 UTC and 2026-10-20 10:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T09-18-55-116544Z.csv)
+[Full CSV](data/new-cves-2026-10-20T10-20-47-963266Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 09:17:08 | [CVE-2026-101201](https://nvd.nist.gov/vuln/detail/CVE-2026-101201) | Medium | 4.3 | A malformed header in the binary file fed to QBinaryJson::fromBinaryData() can cause undefined behaviour because of out… |
-| 2026-10-20 09:17:09 | [CVE-2026-113465](https://nvd.nist.gov/vuln/detail/CVE-2026-113465) | Medium | 6.6 | It is possible to execute a DOM-based Cross-Site Scripting attack against Stormshield’s web administration panel. To ex… |
-| 2026-10-20 09:17:09 | [CVE-2026-113469](https://nvd.nist.gov/vuln/detail/CVE-2026-113469) | High | 7.5 | A failure has been identified in the SNS during dynamic data files signature check. A logic error in the signature veri… |
-| 2026-10-20 09:17:09 | [CVE-2026-11959](https://nvd.nist.gov/vuln/detail/CVE-2026-11959) | Medium | 6.9 | Stored Cross-Site Scripting (XSS) in FacturaScripts, version 2025.61, caused by a lack of adequate validation or saniti… |
-| 2026-10-20 09:17:09 | [CVE-2026-11960](https://nvd.nist.gov/vuln/detail/CVE-2026-11960) | Medium | 6.9 | Enumeration of unauthenticated users in FacturaScripts, version 2025.61. The application returns different responses wh… |
-| 2026-10-20 09:17:09 | [CVE-2026-43836](https://nvd.nist.gov/vuln/detail/CVE-2026-43836) | Critical | 9.3 | A vulnerability could allow an attacker to forge a packet to execute arbitrary commands with maximum privileges. |
-| 2026-10-20 09:17:10 | [CVE-2026-43837](https://nvd.nist.gov/vuln/detail/CVE-2026-43837) | High | 7.5 | A buffer overflow vulnerability in the password verification functionality could allow an attacker with guest authentic… |
-| 2026-10-20 09:17:10 | [CVE-2026-43838](https://nvd.nist.gov/vuln/detail/CVE-2026-43838) | Critical | 9.2 | A stack-based buffer overflow vulnerability in the login functionality could allow an attacker to achieve code executio… |
-| 2026-10-20 09:17:10 | [CVE-2026-43839](https://nvd.nist.gov/vuln/detail/CVE-2026-43839) | High | 8.7 | A NULL pointer dereference vulnerability in the logs management functionality could allow an unauthenticated attacker t… |
-| 2026-10-20 09:17:10 | [CVE-2026-43840](https://nvd.nist.gov/vuln/detail/CVE-2026-43840) | Medium | 6.9 | A NULL pointer dereference vulnerability in the license manager service could allow an unauthenticated attacker to cras… |
-| 2026-10-20 09:17:10 | [CVE-2026-43841](https://nvd.nist.gov/vuln/detail/CVE-2026-43841) | Medium | 6.9 | A NULL pointer dereference vulnerability in the license manager service could allow an unauthenticated attacker to cras… |
-| 2026-10-20 09:17:10 | [CVE-2026-43842](https://nvd.nist.gov/vuln/detail/CVE-2026-43842) | Medium | 6.9 | A NULL pointer dereference vulnerability in the license manager service could allow an unauthenticated attacker to cras… |
-| 2026-10-20 09:17:10 | [CVE-2026-43843](https://nvd.nist.gov/vuln/detail/CVE-2026-43843) | Medium | 6.9 | An integer overflow vulnerability in the license manager service could allow an unauthenticated attacker to crash the s… |
-| 2026-10-20 09:17:10 | [CVE-2026-43844](https://nvd.nist.gov/vuln/detail/CVE-2026-43844) | Critical | 9.3 | A vulnerability in the proprietary protocol could allow an attacker to bypass the authentication mechanism. |
-| 2026-10-20 09:17:10 | [CVE-2026-43845](https://nvd.nist.gov/vuln/detail/CVE-2026-43845) | Critical | 9.2 | A vulnerability in the password reset mechanism could allow an attacker to bypass the authentication mechanism. |
-| 2026-10-20 09:17:11 | [CVE-2026-43846](https://nvd.nist.gov/vuln/detail/CVE-2026-43846) | High | 8.6 | A stack-based buffer overflow vulnerability in a non-functional feature could allow an authenticated attacker to achiev… |
-| 2026-10-20 09:17:11 | [CVE-2026-43847](https://nvd.nist.gov/vuln/detail/CVE-2026-43847) | High | 8.2 | A vulnerability in the proprietary protocol could allow an attacker to brute force the administrator password without r… |
-| 2026-10-20 09:17:11 | [CVE-2026-43848](https://nvd.nist.gov/vuln/detail/CVE-2026-43848) | Medium | 6.9 | A vulnerability in the bulk port configuration functionality could allow an unauthenticated attacker to crash the servi… |
-| 2026-10-20 09:17:12 | [CVE-2026-92287](https://nvd.nist.gov/vuln/detail/CVE-2026-92287) |  |  | Pass-through of unvalidated KMS URLs to KMS clients in Apache C++ Parquet and PyArrow versions 4.0.0 to 25.0.1. This af… |
+| 2026-10-20 10:17:01 | [CVE-2026-111844](https://nvd.nist.gov/vuln/detail/CVE-2026-111844) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brizy Brizy brizy… |
+| 2026-10-20 10:17:03 | [CVE-2026-112064](https://nvd.nist.gov/vuln/detail/CVE-2026-112064) | High | 7.1 | The backend module for reviewing the consent history accepted sorting, grouping and index options from the request and… |
+| 2026-10-20 10:17:03 | [CVE-2026-112065](https://nvd.nist.gov/vuln/detail/CVE-2026-112065) | Medium | 5.3 | The routes that provide consent history and statistics data did not check whether the backend user had access to the mo… |
+| 2026-10-20 10:17:03 | [CVE-2026-112066](https://nvd.nist.gov/vuln/detail/CVE-2026-112066) | High | 7.1 | The JSON import of the cookie consent configuration did not respect the backend user's permissions. Non-admin backend u… |
+| 2026-10-20 10:17:03 | [CVE-2026-112067](https://nvd.nist.gov/vuln/detail/CVE-2026-112067) | Medium | 6.9 | The extension hides the correct answer to each CAPTCHA inside the image data of the CAPTCHA itself. Anyone who can requ… |
+| 2026-10-20 10:17:04 | [CVE-2026-112068](https://nvd.nist.gov/vuln/detail/CVE-2026-112068) | Medium | 5.3 | The backend module does not check whether a backend user has access to the requested site. Users with access to the mod… |
+| 2026-10-20 10:17:04 | [CVE-2026-112069](https://nvd.nist.gov/vuln/detail/CVE-2026-112069) | Medium | 6.3 | The extension no longer applied its access protection to files in file storages that use a non-default relative base pa… |
+| 2026-10-20 10:17:04 | [CVE-2026-112070](https://nvd.nist.gov/vuln/detail/CVE-2026-112070) | Medium | 5.3 | The AJAX routes of the extension do not check whether a backend user has access to the related module or dashboard widg… |
+| 2026-10-20 10:17:04 | [CVE-2026-112071](https://nvd.nist.gov/vuln/detail/CVE-2026-112071) | Medium | 6.9 | The order cancellation function accepts an order identifier from the request and acts on that order without checking th… |
+| 2026-10-20 10:17:04 | [CVE-2026-112237](https://nvd.nist.gov/vuln/detail/CVE-2026-112237) | Medium | 6.9 | The extension provides a public proxy endpoint that fetches a URL on behalf of the visitor. For one HTTP request method… |
+| 2026-10-20 10:17:04 | [CVE-2026-112238](https://nvd.nist.gov/vuln/detail/CVE-2026-112238) | High | 8.7 | The file search of the extension builds its database conditions by wrapping the search term in quotes itself. Only the… |
+| 2026-10-20 10:17:04 | [CVE-2026-112239](https://nvd.nist.gov/vuln/detail/CVE-2026-112239) | High | 7.2 | The extension provides a backend endpoint that writes a submitted value into a submitted field of a submitted page reco… |
+| 2026-10-20 10:17:04 | [CVE-2026-112240](https://nvd.nist.gov/vuln/detail/CVE-2026-112240) | Medium | 6.3 | The download link for files uploaded through a form relied on a token that could be predicted. The file name in the req… |
+| 2026-10-20 10:17:05 | [CVE-2026-113378](https://nvd.nist.gov/vuln/detail/CVE-2026-113378) | Low | 1.9 | A security flaw has been discovered in mcollina mcp-ripgrep up to 0.4.0. Affected is an unknown function of the file sr… |
+| 2026-10-20 10:17:05 | [CVE-2026-113381](https://nvd.nist.gov/vuln/detail/CVE-2026-113381) | Medium | 5.5 | A weakness has been identified in Osclass up to 8.3.1. Affected by this vulnerability is the function Item::findUserIte… |
+| 2026-10-20 10:17:05 | [CVE-2026-113442](https://nvd.nist.gov/vuln/detail/CVE-2026-113442) | Medium | 5.3 | Values entered by visitors were placed into the HTML summary email without being escaped. An unauthenticated attacker c… |
+| 2026-10-20 10:17:05 | [CVE-2026-113459](https://nvd.nist.gov/vuln/detail/CVE-2026-113459) | High | 7.1 | In versions running on TYPO3 10 and 11, the configured OpenAI API key is embedded in every backend page, so that the ed… |
+| 2026-10-20 10:17:05 | [CVE-2026-113468](https://nvd.nist.gov/vuln/detail/CVE-2026-113468) | Medium | 6.9 | The payment notification endpoint for PayPal accepts incoming data without verifying that it comes from the payment pro… |
+| 2026-10-20 10:17:05 | [CVE-2026-43849](https://nvd.nist.gov/vuln/detail/CVE-2026-43849) | Medium | 6.9 | A heap memory read vulnerability could allow an attacker to exfiltrate sensitive data. |
+| 2026-10-20 10:17:05 | [CVE-2026-43850](https://nvd.nist.gov/vuln/detail/CVE-2026-43850) | High | 8.6 | A command injection vulnerability could allow an authenticated attacker to achieve root-level code execution on the sys… |
+| 2026-10-20 10:17:06 | [CVE-2026-43851](https://nvd.nist.gov/vuln/detail/CVE-2026-43851) | High | 8.2 | A path traversal vulnerability could allow an authenticated attacker to read arbitrary files on the system. |
+| 2026-10-20 10:17:06 | [CVE-2026-43852](https://nvd.nist.gov/vuln/detail/CVE-2026-43852) | High | 8.2 | A vulnerability could allow an authenticated attacker to write files to arbitrary locations on the system. |
+| 2026-10-20 10:17:06 | [CVE-2026-43853](https://nvd.nist.gov/vuln/detail/CVE-2026-43853) | High | 8.2 | A vulnerability could allow an attacker to send a crafted message to trigger an assertion fault, causing the service to… |
+| 2026-10-20 10:17:06 | [CVE-2026-43854](https://nvd.nist.gov/vuln/detail/CVE-2026-43854) | Medium | 6.3 | A vulnerability could allow an attacker with access to an encrypted project file to retrieve administrator credentials… |
+| 2026-10-20 10:17:06 | [CVE-2026-43855](https://nvd.nist.gov/vuln/detail/CVE-2026-43855) | High | 7.5 | A heap-based buffer overflow vulnerability could allow a remote authenticated attacker to achieve arbitrary code execut… |
+| 2026-10-20 10:17:06 | [CVE-2026-43856](https://nvd.nist.gov/vuln/detail/CVE-2026-43856) | High | 8.6 | A stack-based buffer overflow vulnerability in the FileProcess::CheckDir function could allow a remote authenticated at… |
+| 2026-10-20 10:17:06 | [CVE-2026-43857](https://nvd.nist.gov/vuln/detail/CVE-2026-43857) | High | 8.6 | A vulnerability could allow a remote authenticated attacker to achieve arbitrary code execution with privileges on the… |
+| 2026-10-20 10:17:06 | [CVE-2026-43858](https://nvd.nist.gov/vuln/detail/CVE-2026-43858) | High | 8.6 | A stack-based buffer overflow vulnerability could allow a remote authenticated attacker to achieve arbitrary code execu… |
+| 2026-10-20 10:17:07 | [CVE-2026-85267](https://nvd.nist.gov/vuln/detail/CVE-2026-85267) | High | 8.7 | A Cross-Site WebSocket Hijacking vulnerability in Cloud Shell prior to 2026-07-22 on Google Cloud Platform allows an un… |
 
 ## Data source
 
