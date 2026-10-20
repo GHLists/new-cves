@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-20T05:16:53.707Z,CVE-2026-109831,MEDIUM,5.1,Received,CWE-787,2,"UnRTF by GNU Project is vulnerable to out-of-bounds write. If a user opens an RTF file crafted by an attacker, it may lead to a denial-of-service (DoS) condition."
+2026-10-20T05:16:54.083Z,CVE-2026-113380,CRITICAL,9.3,Received,CWE-754,2,"In the RingRTC library before 2.72.0 for Signal, a peer that saturates a call's FSM queue can interfere with the ability of a local hangup to tear the call (with its audio and perhaps also video track) down."
+2026-10-20T05:16:54.25Z,CVE-2026-113386,HIGH,7.1,Received,CWE-93,7,Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 are affected by IMAP command injection. A remote authenticated attacker can exploit this via CRLF sequences injected into the _uid parameter of the mail/headers and mail/viewsource actions to execute arbitrary IMAP commands.

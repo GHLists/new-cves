@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 03:19 UTC
+## Latest list — 2026-10-20 05:21 UTC
 
-New CVEs published between 2026-10-20 02:18 UTC and 2026-10-20 03:19 UTC.
+New CVEs published between 2026-10-20 04:19 UTC and 2026-10-20 05:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T03-19-02-010121Z.csv)
+[Full CSV](data/new-cves-2026-10-20T05-21-11-346523Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 03:17:15 | [CVE-2026-12489](https://nvd.nist.gov/vuln/detail/CVE-2026-12489) | Medium | 6.5 | An incorrect authorization vulnerability in the Data Access Layer (DAL) of Zyxel EX3501-T0 firmware versions through 5.… |
-| 2026-10-20 03:17:16 | [CVE-2026-86467](https://nvd.nist.gov/vuln/detail/CVE-2026-86467) |  |  | Apache Airflow Amazon provider: the AWS auth manager's SAML login flow does not bind the authentication response to the… |
+| 2026-10-20 05:16:53 | [CVE-2026-109831](https://nvd.nist.gov/vuln/detail/CVE-2026-109831) | Medium | 5.1 | UnRTF by GNU Project is vulnerable to out-of-bounds write. If a user opens an RTF file crafted by an attacker, it may l… |
+| 2026-10-20 05:16:54 | [CVE-2026-113380](https://nvd.nist.gov/vuln/detail/CVE-2026-113380) | Critical | 9.3 | In the RingRTC library before 2.72.0 for Signal, a peer that saturates a call's FSM queue can interfere with the abilit… |
+| 2026-10-20 05:16:54 | [CVE-2026-113386](https://nvd.nist.gov/vuln/detail/CVE-2026-113386) | High | 7.1 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 are affected by IMAP command injection. A remote authenticated a… |
 
 ## Data source
 
