@@ -9,34 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:20 UTC
+## Latest list — 2026-10-20 20:22 UTC
 
-New CVEs published between 2026-10-20 18:20 UTC and 2026-10-20 19:20 UTC.
+New CVEs published between 2026-10-20 19:20 UTC and 2026-10-20 20:22 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T19-20-27-940935Z.csv)
+[Full CSV](data/new-cves-2026-10-20T20-22-21-494193Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 19:17:11 | [CVE-2026-100132](https://nvd.nist.gov/vuln/detail/CVE-2026-100132) | Medium | 4.3 | Acrobat for Edge is affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory.… |
-| 2026-10-20 19:17:11 | [CVE-2026-100134](https://nvd.nist.gov/vuln/detail/CVE-2026-100134) | High | 8.8 | Acrobat for Edge is affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in t… |
-| 2026-10-20 19:17:30 | [CVE-2026-111088](https://nvd.nist.gov/vuln/detail/CVE-2026-111088) | Medium | 6.5 | A Stored Cross-Site Scripting vulnerability exists in the SNS VPN log monitoring screen. |
-| 2026-10-20 19:17:30 | [CVE-2026-111767](https://nvd.nist.gov/vuln/detail/CVE-2026-111767) | High | 8.6 | MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. From version 1.24.0 t… |
-| 2026-10-20 19:17:32 | [CVE-2026-113643](https://nvd.nist.gov/vuln/detail/CVE-2026-113643) | Medium | 5.3 | A vulnerability was found in EspoCRM up to 9.3.10/10.0.10. This affects the function ImageSourceProvider::get of the fi… |
-| 2026-10-20 19:17:33 | [CVE-2026-113708](https://nvd.nist.gov/vuln/detail/CVE-2026-113708) | Critical | 9.9 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 2.7.0 until 3.3.15, 3.4.10, 3.5.4, and 3… |
-| 2026-10-20 19:17:33 | [CVE-2026-113709](https://nvd.nist.gov/vuln/detail/CVE-2026-113709) | Critical | 9.9 | Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. From 2.1.0 until 3.3.15, 3.4.10, 3.5.4, and 3… |
-| 2026-10-20 19:17:33 | [CVE-2026-113712](https://nvd.nist.gov/vuln/detail/CVE-2026-113712) | Medium | 4.8 | Cachet is an open-source status page system. Versions 2.4.1 and earlier have a stored Cross-Site Scripting (XSS) vulner… |
-| 2026-10-20 19:17:33 | [CVE-2026-113713](https://nvd.nist.gov/vuln/detail/CVE-2026-113713) | Medium | 4.4 | virtualenv is a tool for creating isolated virtual python environments. From 21.14.8 until 21.14.10, the app-data seede… |
-| 2026-10-20 19:17:34 | [CVE-2026-113714](https://nvd.nist.gov/vuln/detail/CVE-2026-113714) | Low | 2.3 | virtualenv is a tool for creating isolated virtual python environments. From 21.14.8 until 21.14.9, download_wheel() wr… |
-| 2026-10-20 19:17:34 | [CVE-2026-113808](https://nvd.nist.gov/vuln/detail/CVE-2026-113808) | High | 7.1 | A Stored Cross-Site Scripting vulnerability exists in the SNS enrollment Portal. Through the captive portal an attacker… |
-| 2026-10-20 19:17:34 | [CVE-2026-113810](https://nvd.nist.gov/vuln/detail/CVE-2026-113810) | High | 7.0 | A Stored Cross-Site Scripting vulnerability exists in the SNS enrollment Portal. Through the captive portal an attacker… |
-| 2026-10-20 19:17:35 | [CVE-2026-21266](https://nvd.nist.gov/vuln/detail/CVE-2026-21266) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:17:35 | [CVE-2026-21356](https://nvd.nist.gov/vuln/detail/CVE-2026-21356) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:17:35 | [CVE-2026-21270](https://nvd.nist.gov/vuln/detail/CVE-2026-21270) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:17:38 | [CVE-2026-48279](https://nvd.nist.gov/vuln/detail/CVE-2026-48279) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:18:15 | [CVE-2026-75747](https://nvd.nist.gov/vuln/detail/CVE-2026-75747) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:18:15 | [CVE-2026-75751](https://nvd.nist.gov/vuln/detail/CVE-2026-75751) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:18:15 | [CVE-2026-75997](https://nvd.nist.gov/vuln/detail/CVE-2026-75997) |  |  | Rejected reason: this CVE was issued in error. |
-| 2026-10-20 19:19:38 | [CVE-2026-97406](https://nvd.nist.gov/vuln/detail/CVE-2026-97406) |  |  | XERJ Console API bearer tokens can bypass the passkey‑only authentication requirement and directly invoke the API‑token… |
+| 2026-10-20 20:17:14 | [CVE-2026-107692](https://nvd.nist.gov/vuln/detail/CVE-2026-107692) |  |  | The War Thunder game client transmits its authentication bearer token (auth_jwt) in the very first data packet after th… |
+| 2026-10-20 20:17:16 | [CVE-2026-112380](https://nvd.nist.gov/vuln/detail/CVE-2026-112380) | Critical | 9.0 | Missing authorization in the WhatsApp group channel in Kiro Crew might allow a remote actor who is a member of an opera… |
+| 2026-10-20 20:17:17 | [CVE-2026-113715](https://nvd.nist.gov/vuln/detail/CVE-2026-113715) | Low | 2.0 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, the stdlib venv creator reads… |
+| 2026-10-20 20:17:17 | [CVE-2026-113716](https://nvd.nist.gov/vuln/detail/CVE-2026-113716) | Medium | 4.5 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, the builtin creator calls ens… |
+| 2026-10-20 20:17:18 | [CVE-2026-113717](https://nvd.nist.gov/vuln/detail/CVE-2026-113717) | Low | 2.3 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, PipInvoke.get_pip_install_cmd… |
+| 2026-10-20 20:17:18 | [CVE-2026-113718](https://nvd.nist.gov/vuln/detail/CVE-2026-113718) | High | 7.1 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, POSIX xonsh activation quote(… |
+| 2026-10-20 20:17:18 | [CVE-2026-113719](https://nvd.nist.gov/vuln/detail/CVE-2026-113719) | Medium | 4.5 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, PipInstall._uninstall_previou… |
+| 2026-10-20 20:17:18 | [CVE-2026-113720](https://nvd.nist.gov/vuln/detail/CVE-2026-113720) | Medium | 4.4 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, the app-data copy seeder uses… |
+| 2026-10-20 20:17:18 | [CVE-2026-113721](https://nvd.nist.gov/vuln/detail/CVE-2026-113721) | Medium | 4.5 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, ViaTemplateActivator._generat… |
+| 2026-10-20 20:17:18 | [CVE-2026-113722](https://nvd.nist.gov/vuln/detail/CVE-2026-113722) | High | 7.8 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, virtualenv's ScriptMakerCusto… |
+| 2026-10-20 20:17:18 | [CVE-2026-113723](https://nvd.nist.gov/vuln/detail/CVE-2026-113723) | High | 7.1 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, caller-supplied prompt text c… |
+| 2026-10-20 20:17:19 | [CVE-2026-113724](https://nvd.nist.gov/vuln/detail/CVE-2026-113724) | Medium | 4.5 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.9, the safe_delete() deletion er… |
+| 2026-10-20 20:17:19 | [CVE-2026-113725](https://nvd.nist.gov/vuln/detail/CVE-2026-113725) | High | 7.8 | virtualenv is a tool for creating isolated virtual python environments. Prior to 21.14.7, the bash activate script esca… |
+| 2026-10-20 20:17:19 | [CVE-2026-113866](https://nvd.nist.gov/vuln/detail/CVE-2026-113866) | Medium | 5.9 | When setting up an account, Thunderbird's Exchange AutoDiscover lookup also queried the domain's AutoDiscover service o… |
+| 2026-10-20 20:17:19 | [CVE-2026-113867](https://nvd.nist.gov/vuln/detail/CVE-2026-113867) |  |  | Thunderbird did not escape attribute values when serializing outgoing XMPP stanzas. Because values from incoming reques… |
+| 2026-10-20 20:17:19 | [CVE-2026-113868](https://nvd.nist.gov/vuln/detail/CVE-2026-113868) | Medium | 5.3 | When authenticating to a POP3 or SMTP server using NTLM, Thunderbird did not check whether the server's challenge was v… |
+| 2026-10-20 20:17:19 | [CVE-2026-113869](https://nvd.nist.gov/vuln/detail/CVE-2026-113869) | Medium | 5.4 | When Thunderbird asked for a security device password (for example a smartcard PIN or the Primary Password) while decry… |
+| 2026-10-20 20:17:25 | [CVE-2026-86409](https://nvd.nist.gov/vuln/detail/CVE-2026-86409) |  |  | Setting `CURLOPT_AWS_SIGV4` to NULL but does not disable SigV4 authentication, contrary to expectations and documentati… |
+| 2026-10-20 20:17:25 | [CVE-2026-86410](https://nvd.nist.gov/vuln/detail/CVE-2026-86410) |  |  | A flaw in the curl command line tool's logic makes it only set SSH host verification options when interacting directly… |
+| 2026-10-20 20:17:25 | [CVE-2026-86411](https://nvd.nist.gov/vuln/detail/CVE-2026-86411) |  |  | An `ftp://` transfer configured with `CURLUSESSL_NONE` can reuse a pooled FTP control connection that a previous easy h… |
+| 2026-10-20 20:17:25 | [CVE-2026-86412](https://nvd.nist.gov/vuln/detail/CVE-2026-86412) |  |  | A remote HTTP server can set a cookie that curl accepts and writes to a Netscape cookie jar but cannot reload. On the n… |
+| 2026-10-20 20:17:25 | [CVE-2026-86413](https://nvd.nist.gov/vuln/detail/CVE-2026-86413) |  |  | When using an *ambient user* in a first transfer doing Negotiate authentication and asked to follow redirects, curl cou… |
 
 ## Data source
 
