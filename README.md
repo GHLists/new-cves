@@ -9,19 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 06:18 UTC
+## Latest list — 2026-10-20 07:19 UTC
 
-New CVEs published between 2026-10-20 05:21 UTC and 2026-10-20 06:18 UTC.
+New CVEs published between 2026-10-20 06:18 UTC and 2026-10-20 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T06-18-55-122362Z.csv)
+[Full CSV](data/new-cves-2026-10-20T07-19-38-988923Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 06:16:56 | [CVE-2026-100737](https://nvd.nist.gov/vuln/detail/CVE-2026-100737) | Medium | 6.9 | Hidden functionality issue exists in Multiple DVRs (Digital Video Recorders) provided by Atsumi Electric Co., Ltd. A us… |
-| 2026-10-20 06:16:57 | [CVE-2026-93300](https://nvd.nist.gov/vuln/detail/CVE-2026-93300) | High | 7.5 | The EventON - Subscriber plugin for WordPress is vulnerable to generic SQL Injection via the 'email' parameter in all v… |
-| 2026-10-20 06:16:58 | [CVE-2026-96902](https://nvd.nist.gov/vuln/detail/CVE-2026-96902) |  |  | The Easy Property Listings WordPress plugin before 3.5.28 does not restrict which listing fields it adds to the public… |
-| 2026-10-20 06:16:58 | [CVE-2026-96903](https://nvd.nist.gov/vuln/detail/CVE-2026-96903) |  |  | The Easy Property Listings WordPress plugin before 3.5.27 does not perform authorisation checks on several of its conta… |
-| 2026-10-20 06:16:58 | [CVE-2026-97627](https://nvd.nist.gov/vuln/detail/CVE-2026-97627) | High | 8.6 | Hidden functionality issue exists in Multiple DVRs (Digital Video Recorders) provided by Atsumi Electric Co., Ltd. A us… |
+| 2026-10-20 07:17:08 | [CVE-2026-110095](https://nvd.nist.gov/vuln/detail/CVE-2026-110095) | Low | 3.7 | fast-uri is a dependency-free RFC 3986 URI parser and serializer for Node.js. In versions before 2.4.8, from 3.0.0 thro… |
+| 2026-10-20 07:17:08 | [CVE-2026-110180](https://nvd.nist.gov/vuln/detail/CVE-2026-110180) | Medium | 4.8 | fast-uri is a dependency-free RFC 3986 URI parser and serializer for Node.js. In versions from 2.4.2 through 2.4.7, fro… |
+| 2026-10-20 07:17:08 | [CVE-2026-110306](https://nvd.nist.gov/vuln/detail/CVE-2026-110306) | Medium | 6.1 | fast-uri is a dependency-free RFC 3986 URI parser and serializer for Node.js. In versions before 2.4.8, from 3.0.0 thro… |
+| 2026-10-20 07:17:08 | [CVE-2026-110725](https://nvd.nist.gov/vuln/detail/CVE-2026-110725) | Low | 3.7 | fast-uri is a dependency-free RFC 3986 URI parser and serializer for Node.js. In versions before 2.4.8, from 3.0.0 thro… |
+| 2026-10-20 07:17:09 | [CVE-2026-112148](https://nvd.nist.gov/vuln/detail/CVE-2026-112148) | Medium | 5.1 | A vulnerability has been identified in LIFF SDK versions 2.20.0 through 2.31.0, where a DOM-based cross-site scripting… |
+| 2026-10-20 07:17:09 | [CVE-2026-113402](https://nvd.nist.gov/vuln/detail/CVE-2026-113402) | High | 7.1 | ArmorX Spam developed by ArmorX Global Technology has a Local File Inclusion vulnerability. Authenticated remote attack… |
+| 2026-10-20 07:17:09 | [CVE-2026-113403](https://nvd.nist.gov/vuln/detail/CVE-2026-113403) | High | 7.1 | ArmorX Spam developed by ArmorX Global Technology has a Command Injection vulnerability. Authenticated remote attackers… |
+| 2026-10-20 07:17:09 | [CVE-2026-113404](https://nvd.nist.gov/vuln/detail/CVE-2026-113404) | High | 8.7 | WebITR developed by Uniong has a Insecure Deserialization vulnerability. Authenticated remote attackers can use the har… |
+| 2026-10-20 07:17:09 | [CVE-2026-93878](https://nvd.nist.gov/vuln/detail/CVE-2026-93878) | Medium | 6.4 | The DiviGear Carousel plugin for WordPress is vulnerable to Stored Cross-Site Scripting via update_license AJAX Action… |
 
 ## Data source
 
