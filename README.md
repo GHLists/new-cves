@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 02:18 UTC
+## Latest list — 2026-10-20 03:19 UTC
 
-New CVEs published between 2026-10-20 01:19 UTC and 2026-10-20 02:18 UTC.
+New CVEs published between 2026-10-20 02:18 UTC and 2026-10-20 03:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-20T02-18-58-268629Z.csv)
+[Full CSV](data/new-cves-2026-10-20T03-19-02-010121Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-20 02:17:08 | [CVE-2026-102438](https://nvd.nist.gov/vuln/detail/CVE-2026-102438) | High | 8.5 | An uncontrolled search path element vulnerability in ASUS Armoury Crate allows local users to execute arbitrary code wi… |
-| 2026-10-20 02:17:08 | [CVE-2026-105299](https://nvd.nist.gov/vuln/detail/CVE-2026-105299) | High | 8.7 | Summary Before version 0.9.0, the HTTP/1 upstream path in pingora-proxy passed the downstream request through upstream_… |
-| 2026-10-20 02:17:11 | [CVE-2026-17518](https://nvd.nist.gov/vuln/detail/CVE-2026-17518) | High | 8.2 | Buffer Copy without Checking Size of Input in certain ASUS router models allows an adjacent authenticated user to corru… |
-| 2026-10-20 02:17:11 | [CVE-2026-75753](https://nvd.nist.gov/vuln/detail/CVE-2026-75753) | Medium | 5.3 | Missing Authentication for a Critical Function in certain ASUS routers allows an unauthorized nearby user to send speci… |
+| 2026-10-20 03:17:15 | [CVE-2026-12489](https://nvd.nist.gov/vuln/detail/CVE-2026-12489) | Medium | 6.5 | An incorrect authorization vulnerability in the Data Access Layer (DAL) of Zyxel EX3501-T0 firmware versions through 5.… |
+| 2026-10-20 03:17:16 | [CVE-2026-86467](https://nvd.nist.gov/vuln/detail/CVE-2026-86467) |  |  | Apache Airflow Amazon provider: the AWS auth manager's SAML login flow does not bind the authentication response to the… |
 
 ## Data source
 

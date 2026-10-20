@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-20T03:17:15.077Z,CVE-2026-12489,MEDIUM,6.5,Received,CWE-863,1,An incorrect authorization vulnerability in the Data Access Layer (DAL) of Zyxel EX3501-T0 firmware versions through 5.44(ACHR.6)C0 could allow an authenticated attacker to escalate privileges by modifying the login_privilege data on an affected device.
+2026-10-20T03:17:16.813Z,CVE-2026-86467,,,Received,CWE-352,3,"Apache Airflow Amazon provider: the AWS auth manager's SAML login flow does not bind the authentication response to the browser that began it. The login handler discards the AuthnRequest ID and the callback validates the assertion without requiring a matching InResponseTo, so an unauthenticated att…"
