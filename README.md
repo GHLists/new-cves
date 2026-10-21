@@ -9,47 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 19:23 UTC
+## Latest list — 2026-10-21 20:18 UTC
 
-New CVEs published between 2026-10-21 18:20 UTC and 2026-10-21 19:23 UTC.
+New CVEs published between 2026-10-21 19:23 UTC and 2026-10-21 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T19-23-30-823014Z.csv)
+[Full CSV](data/new-cves-2026-10-21T20-18-59-980374Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 19:16:47 | [CVE-2025-31699](https://nvd.nist.gov/vuln/detail/CVE-2025-31699) | Critical | 9.1 | Apache Traffic Server can return an origin connection to the shared pool while the origin is still waiting on a request… |
-| 2026-10-21 19:16:48 | [CVE-2025-55702](https://nvd.nist.gov/vuln/detail/CVE-2025-55702) | High | 7.0 | When a client sends a POST with Expect: 100-continue and the origin answers before reading the body, Apache Traffic Ser… |
-| 2026-10-21 19:16:55 | [CVE-2026-105931](https://nvd.nist.gov/vuln/detail/CVE-2026-105931) | Low | 2.3 | The Apache Pulsar broker exposes a transaction administration REST API under /admin/v3/transactions. When authenticatio… |
-| 2026-10-21 19:16:55 | [CVE-2026-105932](https://nvd.nist.gov/vuln/detail/CVE-2026-105932) | Low | 2.3 | The Apache Pulsar broker admin REST API provides endpoints to read, set and remove the topic-level entry filter policy… |
-| 2026-10-21 19:16:55 | [CVE-2026-105933](https://nvd.nist.gov/vuln/detail/CVE-2026-105933) | Low | 2.3 | Apache Pulsar allows an administrator to require end-to-end message encryption for all topics in a namespace by setting… |
-| 2026-10-21 19:16:56 | [CVE-2026-105934](https://nvd.nist.gov/vuln/detail/CVE-2026-105934) | High | 7.2 | The Apache Pulsar broker admin REST API provides a truncate operation for persistent topics (DELETE /admin/v2/persisten… |
-| 2026-10-21 19:16:56 | [CVE-2026-105935](https://nvd.nist.gov/vuln/detail/CVE-2026-105935) | Medium | 4.9 | The Pulsar Functions Worker provides a REST API endpoint for triggering a function, which publishes a caller-supplied v… |
-| 2026-10-21 19:16:56 | [CVE-2026-105936](https://nvd.nist.gov/vuln/detail/CVE-2026-105936) | Medium | 5.3 | The Pulsar Functions worker REST API provides two endpoints that return the catalog of Pulsar IO connectors installed o… |
-| 2026-10-21 19:16:56 | [CVE-2026-105937](https://nvd.nist.gov/vuln/detail/CVE-2026-105937) | High | 8.7 | Apache Pulsar shadow topics (PIP-180) are topics that read the stored messages of a source topic from that topic's mana… |
-| 2026-10-21 19:16:56 | [CVE-2026-105938](https://nvd.nist.gov/vuln/detail/CVE-2026-105938) | Low | 2.3 | Apache Pulsar namespaces can restrict which roles may use a subscription, either with the Prefix subscription authentic… |
-| 2026-10-21 19:16:57 | [CVE-2026-105942](https://nvd.nist.gov/vuln/detail/CVE-2026-105942) | High | 7.7 | When a configured proxy role sends a request to the broker on behalf of another user (the original principal), the brok… |
-| 2026-10-21 19:16:57 | [CVE-2026-105944](https://nvd.nist.gov/vuln/detail/CVE-2026-105944) | Critical | 10.0 | Apache Pulsar Manager is a web console for administering Apache Pulsar clusters. It has its own user accounts and login… |
-| 2026-10-21 19:16:57 | [CVE-2026-105945](https://nvd.nist.gov/vuln/detail/CVE-2026-105945) | High | 7.7 | The Pulsar Packages Management Service can be configured to store packages on the local filesystem of the broker by usi… |
-| 2026-10-21 19:16:57 | [CVE-2026-107588](https://nvd.nist.gov/vuln/detail/CVE-2026-107588) | High | 8.4 | Vaadin Charts renders charts with the Highcharts library and pins an exact version of it, 9.2.2 in Vaadin 22 to 24 and… |
-| 2026-10-21 19:16:58 | [CVE-2026-110803](https://nvd.nist.gov/vuln/detail/CVE-2026-110803) | High | 8.7 | VaadinService.requestEnd() in Vaadin Framework 8 locks the session and then reads the v-uiId request parameter outside… |
-| 2026-10-21 19:16:58 | [CVE-2026-111401](https://nvd.nist.gov/vuln/detail/CVE-2026-111401) | Medium | 6.5 | Cross-Site Request Forgery (CSRF) vulnerability in Tailored Media Tailored Tools tailored-tools allows Cross Site Reque… |
-| 2026-10-21 19:16:59 | [CVE-2026-111804](https://nvd.nist.gov/vuln/detail/CVE-2026-111804) | High | 8.8 | Apache Traffic Server's experimental wasm plugin has a use-after-free in its transaction-close handler and forwards unv… |
-| 2026-10-21 19:16:59 | [CVE-2026-111813](https://nvd.nist.gov/vuln/detail/CVE-2026-111813) | Critical | 10.0 | Apache Traffic Server's experimental magick plugin lets an unauthenticated client control ImageMagick convert arguments… |
-| 2026-10-21 19:16:59 | [CVE-2026-111816](https://nvd.nist.gov/vuln/detail/CVE-2026-111816) | Critical | 9.2 | Apache Traffic Server forwarded a malformed 302 response that should have been rejected as a parse error, because the T… |
-| 2026-10-21 19:16:59 | [CVE-2026-113461](https://nvd.nist.gov/vuln/detail/CVE-2026-113461) | Medium | 5.2 | Local privilege escalation in Checkmk 2.5.0p14 allows a local user with write access to the Oracle client library direc… |
-| 2026-10-21 19:17:00 | [CVE-2026-113870](https://nvd.nist.gov/vuln/detail/CVE-2026-113870) | High | 8.6 | MongoDB Compass improperly escapes certain BSON values when converting a stored view’s aggregation pipeline into editab… |
-| 2026-10-21 19:17:00 | [CVE-2026-114266](https://nvd.nist.gov/vuln/detail/CVE-2026-114266) | Low | 2.1 | A security vulnerability has been detected in ProjectWorlds Advanced Library Management System 1.0. This impacts the fu… |
-| 2026-10-21 19:17:00 | [CVE-2026-114267](https://nvd.nist.gov/vuln/detail/CVE-2026-114267) | Medium | 5.5 | A vulnerability was detected in SourceCodester Food Order Management System 1.0. Affected is an unknown function of the… |
-| 2026-10-21 19:17:00 | [CVE-2026-114268](https://nvd.nist.gov/vuln/detail/CVE-2026-114268) | High | 8.6 | A flaw has been found in Tenda BE3L Pro 16.03.60.62. Affected by this vulnerability is the function formWifiBasicSet of… |
-| 2026-10-21 19:17:00 | [CVE-2026-114361](https://nvd.nist.gov/vuln/detail/CVE-2026-114361) | Medium | 6.3 | A vulnerability was detected in HarnessRouter up to 0.31.10. This affects an unknown function of the file gateway/app.p… |
-| 2026-10-21 19:17:02 | [CVE-2026-18748](https://nvd.nist.gov/vuln/detail/CVE-2026-18748) | Low | 3.5 | The Bluetooth Classic A2DP host stores a codec Information Element (IE) in struct bt_a2dp_codec_ie, a one-byte len fiel… |
-| 2026-10-21 19:17:02 | [CVE-2026-19676](https://nvd.nist.gov/vuln/detail/CVE-2026-19676) | High | 7.8 | The user-mode verifier for the peci_transfer() system call, z_vrfy_peci_transfer() in drivers/peci/peci_handlers.c, che… |
-| 2026-10-21 19:17:02 | [CVE-2026-19947](https://nvd.nist.gov/vuln/detail/CVE-2026-19947) | Medium | 5.3 | The device multiplexer pseudo-driver in drivers/misc/devmux/devmux.c exposes two system calls, devmux_select_get() and… |
-| 2026-10-21 19:17:03 | [CVE-2026-78116](https://nvd.nist.gov/vuln/detail/CVE-2026-78116) | Medium | 5.2 | The Broadcom AFBR-S50 time-of-flight sensor driver double-completes an RTIO submission when sensor data evaluation fail… |
-| 2026-10-21 19:17:03 | [CVE-2026-78117](https://nvd.nist.gov/vuln/detail/CVE-2026-78117) | Medium | 4.2 | The Infineon PSOC 6 BLESS HCI driver in drivers/bluetooth/hci/hci_infineon_psoc6_bless.c stored the outgoing HCI packet… |
-| 2026-10-21 19:17:03 | [CVE-2026-78118](https://nvd.nist.gov/vuln/detail/CVE-2026-78118) | High | 7.0 | The kernel helper z_waitq_head() (kernel/include/wait_q.h) reads the head of a thread wait queue, but on SMP systems it… |
-| 2026-10-21 19:17:03 | [CVE-2026-78119](https://nvd.nist.gov/vuln/detail/CVE-2026-78119) | Medium | 6.3 | The Nuvoton NPCX eSPI driver parses Target-Attached-Flash (TAF) requests in espi_taf_parse() (drivers/espi/espi_npcx.c)… |
-| 2026-10-21 19:17:04 | [CVE-2026-79976](https://nvd.nist.gov/vuln/detail/CVE-2026-79976) | High | 7.1 | The MCTP-over-I2C+GPIO target binding in subsys/pmci/mctp/mctp_i2c_gpio_target.c emulates a small pseudo-register file,… |
+| 2026-10-21 20:17:22 | [CVE-2026-111805](https://nvd.nist.gov/vuln/detail/CVE-2026-111805) | High | 7.7 | Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a truncated HTTP/2 Content-Length val… |
+| 2026-10-21 20:17:22 | [CVE-2026-111808](https://nvd.nist.gov/vuln/detail/CVE-2026-111808) | High | 7.7 | Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a malformed padded HTTP/2 DATA frame.… |
+| 2026-10-21 20:17:22 | [CVE-2026-111809](https://nvd.nist.gov/vuln/detail/CVE-2026-111809) | Medium | 6.9 | Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Length or Transfer-Encoding. This i… |
+| 2026-10-21 20:17:22 | [CVE-2026-111810](https://nvd.nist.gov/vuln/detail/CVE-2026-111810) | High | 8.7 | Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line for every internal @ header t… |
+| 2026-10-21 20:17:22 | [CVE-2026-111811](https://nvd.nist.gov/vuln/detail/CVE-2026-111811) | Critical | 9.4 | Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network read, write, and deletion of the… |
+| 2026-10-21 20:17:23 | [CVE-2026-111812](https://nvd.nist.gov/vuln/detail/CVE-2026-111812) | High | 7.0 | Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacker-chosen AWS request headers un… |
+| 2026-10-21 20:17:23 | [CVE-2026-111814](https://nvd.nist.gov/vuln/detail/CVE-2026-111814) | High | 7.8 | Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS session authenticated with one c… |
+| 2026-10-21 20:17:23 | [CVE-2026-111815](https://nvd.nist.gov/vuln/detail/CVE-2026-111815) | High | 7.8 | Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verifying a client certificate requi… |
+| 2026-10-21 20:17:23 | [CVE-2026-111817](https://nvd.nist.gov/vuln/detail/CVE-2026-111817) | Medium | 6.9 | Apache Traffic Server can stall a chunked transfer that it passes through with its trailers removed (proxy.config.http.… |
+| 2026-10-21 20:17:23 | [CVE-2026-112381](https://nvd.nist.gov/vuln/detail/CVE-2026-112381) | High | 8.2 | Apache Traffic Server can crash with a null pointer dereference when a client POST request is torn down via half-close… |
+| 2026-10-21 20:17:23 | [CVE-2026-112408](https://nvd.nist.gov/vuln/detail/CVE-2026-112408) | Critical | 9.4 | Missing verification of source of a communication channel in the default_bucket() function in Amazon SageMaker Python S… |
+| 2026-10-21 20:17:25 | [CVE-2026-114135](https://nvd.nist.gov/vuln/detail/CVE-2026-114135) | High | 8.8 | Jupyter Server is the backend for Jupyter web applications. From 2.0.0 until 2.6.0, enabling GatewayClient.url replaced… |
+| 2026-10-21 20:17:25 | [CVE-2026-114136](https://nvd.nist.gov/vuln/detail/CVE-2026-114136) | High | 7.5 | Django REST framework is a toolkit for building Web APIs. From 3.6.4 until 3.18.2, JSONParser.parse in rest_framework/p… |
+| 2026-10-21 20:17:25 | [CVE-2026-114362](https://nvd.nist.gov/vuln/detail/CVE-2026-114362) | Medium | 5.3 | A flaw has been found in HarnessRouter up to 0.31.12. This impacts an unknown function of the file gateway/app.py of th… |
+| 2026-10-21 20:17:25 | [CVE-2026-114374](https://nvd.nist.gov/vuln/detail/CVE-2026-114374) | Low | 2.1 | A vulnerability was identified in leomoon-studios wiki-go up to 1.9.1. This impacts an unknown function of the file int… |
+| 2026-10-21 20:17:26 | [CVE-2026-114375](https://nvd.nist.gov/vuln/detail/CVE-2026-114375) | Low | 2.1 | A security flaw has been discovered in leomoon-studios wiki-go up to 1.9.1. Affected is the function RenameFileHandler… |
+| 2026-10-21 20:17:26 | [CVE-2026-114376](https://nvd.nist.gov/vuln/detail/CVE-2026-114376) | Low | 2.1 | A weakness has been identified in leomoon-studios wiki-go up to 1.9.1. Affected by this vulnerability is the function S… |
+| 2026-10-21 20:17:26 | [CVE-2026-114438](https://nvd.nist.gov/vuln/detail/CVE-2026-114438) | Medium | 4.2 | A flaw was found in the Update User Locale required action of the Keycloak identity and access management solution. Whe… |
+| 2026-10-21 20:17:27 | [CVE-2026-85518](https://nvd.nist.gov/vuln/detail/CVE-2026-85518) | Medium | 6.1 | A flaw was found in OpenSCAP. When decomposing a Source DataStream (SDS) file, the application does not properly valida… |
 
 ## Data source
 
