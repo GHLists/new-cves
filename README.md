@@ -9,33 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 20:18 UTC
+## Latest list — 2026-10-21 21:20 UTC
 
-New CVEs published between 2026-10-21 19:23 UTC and 2026-10-21 20:18 UTC.
+New CVEs published between 2026-10-21 20:18 UTC and 2026-10-21 21:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T20-18-59-980374Z.csv)
+[Full CSV](data/new-cves-2026-10-21T21-20-04-311885Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 20:17:22 | [CVE-2026-111805](https://nvd.nist.gov/vuln/detail/CVE-2026-111805) | High | 7.7 | Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a truncated HTTP/2 Content-Length val… |
-| 2026-10-21 20:17:22 | [CVE-2026-111808](https://nvd.nist.gov/vuln/detail/CVE-2026-111808) | High | 7.7 | Apache Traffic Server can be used to exhaust an HTTP/1.1 origin's worker pool via a malformed padded HTTP/2 DATA frame.… |
-| 2026-10-21 20:17:22 | [CVE-2026-111809](https://nvd.nist.gov/vuln/detail/CVE-2026-111809) | Medium | 6.9 | Apache Traffic Server allows request smuggling via HEAD requests that carry Content-Length or Transfer-Encoding. This i… |
-| 2026-10-21 20:17:22 | [CVE-2026-111810](https://nvd.nist.gov/vuln/detail/CVE-2026-111810) | High | 8.7 | Apache Traffic Server 9.2.15, 10.1.4 and 10.2.0 write one unthrottled diagnostic log line for every internal @ header t… |
-| 2026-10-21 20:17:22 | [CVE-2026-111811](https://nvd.nist.gov/vuln/detail/CVE-2026-111811) | Critical | 9.4 | Apache Traffic Server's experimental tsmemcache plugin allows unauthenticated network read, write, and deletion of the… |
-| 2026-10-21 20:17:23 | [CVE-2026-111812](https://nvd.nist.gov/vuln/detail/CVE-2026-111812) | High | 7.0 | Apache Traffic Server's origin_server_auth plugin lets a client force signing of attacker-chosen AWS request headers un… |
-| 2026-10-21 20:17:23 | [CVE-2026-111814](https://nvd.nist.gov/vuln/detail/CVE-2026-111814) | High | 7.8 | Apache Traffic Server's default outbound session-sharing policy can reuse a pooled TLS session authenticated with one c… |
-| 2026-10-21 20:17:23 | [CVE-2026-111815](https://nvd.nist.gov/vuln/detail/CVE-2026-111815) | High | 7.8 | Apache Traffic Server can resume a TLS session across SNI virtual hosts without re-verifying a client certificate requi… |
-| 2026-10-21 20:17:23 | [CVE-2026-111817](https://nvd.nist.gov/vuln/detail/CVE-2026-111817) | Medium | 6.9 | Apache Traffic Server can stall a chunked transfer that it passes through with its trailers removed (proxy.config.http.… |
-| 2026-10-21 20:17:23 | [CVE-2026-112381](https://nvd.nist.gov/vuln/detail/CVE-2026-112381) | High | 8.2 | Apache Traffic Server can crash with a null pointer dereference when a client POST request is torn down via half-close… |
-| 2026-10-21 20:17:23 | [CVE-2026-112408](https://nvd.nist.gov/vuln/detail/CVE-2026-112408) | Critical | 9.4 | Missing verification of source of a communication channel in the default_bucket() function in Amazon SageMaker Python S… |
-| 2026-10-21 20:17:25 | [CVE-2026-114135](https://nvd.nist.gov/vuln/detail/CVE-2026-114135) | High | 8.8 | Jupyter Server is the backend for Jupyter web applications. From 2.0.0 until 2.6.0, enabling GatewayClient.url replaced… |
-| 2026-10-21 20:17:25 | [CVE-2026-114136](https://nvd.nist.gov/vuln/detail/CVE-2026-114136) | High | 7.5 | Django REST framework is a toolkit for building Web APIs. From 3.6.4 until 3.18.2, JSONParser.parse in rest_framework/p… |
-| 2026-10-21 20:17:25 | [CVE-2026-114362](https://nvd.nist.gov/vuln/detail/CVE-2026-114362) | Medium | 5.3 | A flaw has been found in HarnessRouter up to 0.31.12. This impacts an unknown function of the file gateway/app.py of th… |
-| 2026-10-21 20:17:25 | [CVE-2026-114374](https://nvd.nist.gov/vuln/detail/CVE-2026-114374) | Low | 2.1 | A vulnerability was identified in leomoon-studios wiki-go up to 1.9.1. This impacts an unknown function of the file int… |
-| 2026-10-21 20:17:26 | [CVE-2026-114375](https://nvd.nist.gov/vuln/detail/CVE-2026-114375) | Low | 2.1 | A security flaw has been discovered in leomoon-studios wiki-go up to 1.9.1. Affected is the function RenameFileHandler… |
-| 2026-10-21 20:17:26 | [CVE-2026-114376](https://nvd.nist.gov/vuln/detail/CVE-2026-114376) | Low | 2.1 | A weakness has been identified in leomoon-studios wiki-go up to 1.9.1. Affected by this vulnerability is the function S… |
-| 2026-10-21 20:17:26 | [CVE-2026-114438](https://nvd.nist.gov/vuln/detail/CVE-2026-114438) | Medium | 4.2 | A flaw was found in the Update User Locale required action of the Keycloak identity and access management solution. Whe… |
-| 2026-10-21 20:17:27 | [CVE-2026-85518](https://nvd.nist.gov/vuln/detail/CVE-2026-85518) | Medium | 6.1 | A flaw was found in OpenSCAP. When decomposing a Source DataStream (SDS) file, the application does not properly valida… |
+| 2026-10-21 21:17:55 | [CVE-2026-113811](https://nvd.nist.gov/vuln/detail/CVE-2026-113811) |  |  | Algorithm::UrataniTakeda versions from 0.1.5 before 0.1.7 for Perl allow memory exhaustion via a never-cleared failure… |
+| 2026-10-21 21:17:56 | [CVE-2026-114137](https://nvd.nist.gov/vuln/detail/CVE-2026-114137) | High | 7.4 | Django REST framework is a toolkit for building Web APIs. From 3.12.0 until 3.18.2, TokenProxy.delete() in rest_framewo… |
+| 2026-10-21 21:17:56 | [CVE-2026-114138](https://nvd.nist.gov/vuln/detail/CVE-2026-114138) | High | 7.5 | Django REST framework is a toolkit for building Web APIs. Prior to 3.18.2, DefaultContentNegotiation.get_accept_list in… |
+| 2026-10-21 21:17:56 | [CVE-2026-114139](https://nvd.nist.gov/vuln/detail/CVE-2026-114139) | Critical | 9.1 | Sentry-Javascript is an official Sentry SDKs for JavaScript. From 9.36.0 until 9.47.2, 10.75.2, and 11.0.0-rc.1, the we… |
+| 2026-10-21 21:17:56 | [CVE-2026-114140](https://nvd.nist.gov/vuln/detail/CVE-2026-114140) | High | 8.8 | The nbconvert tool, jupyter nbconvert, converts Jupyter notebooks to various other formats via Jinja templates. From 5.… |
+| 2026-10-21 21:17:56 | [CVE-2026-114141](https://nvd.nist.gov/vuln/detail/CVE-2026-114141) | High | 8.7 | toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, the toml.parse() compiler's addTableArray() fun… |
+| 2026-10-21 21:17:56 | [CVE-2026-114142](https://nvd.nist.gov/vuln/detail/CVE-2026-114142) | High | 8.8 | toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() can write attacker-controlled prop… |
+| 2026-10-21 21:17:56 | [CVE-2026-114143](https://nvd.nist.gov/vuln/detail/CVE-2026-114143) | High | 8.7 | toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() repeatedly slices and rejoins ever… |
+| 2026-10-21 21:17:57 | [CVE-2026-114144](https://nvd.nist.gov/vuln/detail/CVE-2026-114144) | High | 7.5 | toml-node is a TOML parser for Node.js and the browser. Prior to 5.0.1, toml.parse() passes unbounded hexadecimal, octa… |
+| 2026-10-21 21:17:57 | [CVE-2026-114145](https://nvd.nist.gov/vuln/detail/CVE-2026-114145) | High | 7.5 | GitPython is a python library used to interact with Git repositories. Prior to 3.2.1, create_submodule() in git/objects… |
+| 2026-10-21 21:17:57 | [CVE-2026-114377](https://nvd.nist.gov/vuln/detail/CVE-2026-114377) | Low | 2.0 | A security vulnerability has been detected in leomoon-studios wiki-go up to 1.9.1. Affected by this issue is the functi… |
+| 2026-10-21 21:17:57 | [CVE-2026-114378](https://nvd.nist.gov/vuln/detail/CVE-2026-114378) | Low | 2.1 | A vulnerability was detected in itsourcecode Online Cake Ordering System 1.0. This affects an unknown part of the file… |
+| 2026-10-21 21:17:57 | [CVE-2026-114379](https://nvd.nist.gov/vuln/detail/CVE-2026-114379) | Medium | 5.3 | A flaw has been found in EKKOLearnAI ekko-studio up to 1.0.6. This vulnerability affects the function saveGeneratedImag… |
+| 2026-10-21 21:17:58 | [CVE-2026-114380](https://nvd.nist.gov/vuln/detail/CVE-2026-114380) | Low | 2.1 | A vulnerability was found in itsourcecode Online Cake Ordering System 1.0. Impacted is an unknown function of the file… |
+| 2026-10-21 21:17:58 | [CVE-2026-114406](https://nvd.nist.gov/vuln/detail/CVE-2026-114406) | Medium | 6.8 | The system certificate authority (CA) store in Red Hat products, distributed via ca-certificates RPM packages, included… |
+| 2026-10-21 21:17:59 | [CVE-2026-29001](https://nvd.nist.gov/vuln/detail/CVE-2026-29001) | High | 8.6 | TastyIgniter through 4.4.5 contain a PHP object injection vulnerability that allows authenticated administrators to ach… |
+| 2026-10-21 21:19:17 | [CVE-2026-82987](https://nvd.nist.gov/vuln/detail/CVE-2026-82987) |  |  | There exists a screen capture endpoint in vCast media streaming service in ViewSonic ViewBoard unknown allows a remote,… |
 
 ## Data source
 
