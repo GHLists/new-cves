@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-21T05:16:43.07Z,CVE-2026-82819,HIGH,7.1,Received,CWE-40,2,"A vulnerability in Cerberus FTP Server allows an authenticated remote attacker to perform UNC path injection via a manipulated parameter. By supplying a malicious SMB share path, an attacker can execute authentication coercion against the underlying server, resulting in the leakage of the Cerberus…"

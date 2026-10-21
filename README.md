@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 04:18 UTC
+## Latest list — 2026-10-21 05:18 UTC
 
-New CVEs published between 2026-10-21 03:19 UTC and 2026-10-21 04:18 UTC.
+New CVEs published between 2026-10-21 04:18 UTC and 2026-10-21 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T04-18-54-816109Z.csv)
+[Full CSV](data/new-cves-2026-10-21T05-18-55-224359Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 04:18:09 | [CVE-2026-114039](https://nvd.nist.gov/vuln/detail/CVE-2026-114039) | Low | 2.1 | A weakness has been identified in projectworlds Advanced Library Management System 1.0. Impacted is the function mysqli… |
-| 2026-10-21 04:18:10 | [CVE-2026-114040](https://nvd.nist.gov/vuln/detail/CVE-2026-114040) | Low | 2.0 | A security vulnerability has been detected in DT42 BerryNet up to 3.10.2. The affected element is the function DLModelM… |
-| 2026-10-21 04:18:11 | [CVE-2026-92822](https://nvd.nist.gov/vuln/detail/CVE-2026-92822) | Medium | 6.2 | A flaw was found in libmodulemd. When parsing module metadata, the xmd field is converted into nested GVariant values t… |
-| 2026-10-21 04:18:12 | [CVE-2026-92823](https://nvd.nist.gov/vuln/detail/CVE-2026-92823) | Medium | 6.2 | A flaw was found in libmodulemd. In builds with rpmio support enabled, compressed modulemd YAML is decompressed through… |
-| 2026-10-21 04:18:12 | [CVE-2026-92824](https://nvd.nist.gov/vuln/detail/CVE-2026-92824) | Medium | 6.2 | A flaw was found in libmodulemd. In the module stream v2 rpm-map emission path, an inner loop incorrectly uses the coun… |
+| 2026-10-21 05:16:43 | [CVE-2026-82819](https://nvd.nist.gov/vuln/detail/CVE-2026-82819) | High | 7.1 | A vulnerability in Cerberus FTP Server allows an authenticated remote attacker to perform UNC path injection via a mani… |
 
 ## Data source
 
