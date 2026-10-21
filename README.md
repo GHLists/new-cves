@@ -9,38 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 15:18 UTC
+## Latest list — 2026-10-21 16:20 UTC
 
-New CVEs published between 2026-10-21 14:20 UTC and 2026-10-21 15:18 UTC.
+New CVEs published between 2026-10-21 15:18 UTC and 2026-10-21 16:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T15-18-55-437633Z.csv)
+[Full CSV](data/new-cves-2026-10-21T16-20-02-664892Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 15:17:12 | [CVE-2023-7356](https://nvd.nist.gov/vuln/detail/CVE-2023-7356) |  |  | In the Linux kernel, the following vulnerability has been resolved: Bluetooth: ISO: Copy BASE if service data matches E… |
-| 2026-10-21 15:17:13 | [CVE-2025-60478](https://nvd.nist.gov/vuln/detail/CVE-2025-60478) |  |  | A use-after-free in the gf_filter_packet_destroy function (/filter_core/filter_pck.c) of GPAC Project/MP4Box before 2.5… |
-| 2026-10-21 15:17:13 | [CVE-2025-60487](https://nvd.nist.gov/vuln/detail/CVE-2025-60487) |  |  | A segmentation violation in the gf_isom_get_esd function (/isomedia/isom_read.c) of GPAC Project/MP4Box before 2.5 allo… |
-| 2026-10-21 15:17:13 | [CVE-2025-60490](https://nvd.nist.gov/vuln/detail/CVE-2025-60490) |  |  | A heap use-after-free in the gf_filter_pid_send_event_downstream function (/filter_core/filter_pid.c) of GPAC Project/M… |
-| 2026-10-21 15:17:13 | [CVE-2025-60491](https://nvd.nist.gov/vuln/detail/CVE-2025-60491) |  |  | A heap use-after-free in the dasher_flush_segment function (/filters/dasher.c) of GPAC Project/MP4Box before 2.5 allows… |
-| 2026-10-21 15:17:13 | [CVE-2025-60492](https://nvd.nist.gov/vuln/detail/CVE-2025-60492) |  |  | A stack overflow in the gf_bifs_dec_node function (/bifs/field_decode.c) of GPAC Project/MP4Box before 2.5 allows attac… |
-| 2026-10-21 15:17:14 | [CVE-2025-60493](https://nvd.nist.gov/vuln/detail/CVE-2025-60493) |  |  | A segmentation violation in the check_media_profile function (/mp4box/mp4box.c) of GPAC Project/MP4Box before 2.5 allow… |
-| 2026-10-21 15:17:14 | [CVE-2025-60497](https://nvd.nist.gov/vuln/detail/CVE-2025-60497) |  |  | A segmentation violation in the GetESD function (/isomedia/track.c) of GPAC Project/MP4Box before 2.5 allows attackers… |
-| 2026-10-21 15:17:15 | [CVE-2026-111832](https://nvd.nist.gov/vuln/detail/CVE-2026-111832) | Critical | 10.0 | Unrestricted Upload of File with Dangerous Type vulnerability in WP Mailster WP Mailster wp-mailster allows Upload a We… |
-| 2026-10-21 15:17:15 | [CVE-2026-111833](https://nvd.nist.gov/vuln/detail/CVE-2026-111833) | High | 7.5 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Bold Grid weForms wefor… |
-| 2026-10-21 15:17:15 | [CVE-2026-111834](https://nvd.nist.gov/vuln/detail/CVE-2026-111834) | Critical | 9.9 | Unrestricted Upload of File with Dangerous Type vulnerability in Kitae Park Mang Board WP mangboard allows Upload a Web… |
-| 2026-10-21 15:17:15 | [CVE-2026-111835](https://nvd.nist.gov/vuln/detail/CVE-2026-111835) | Medium | 6.5 | Missing Authorization vulnerability in bjorntech BjornTech Swish for WooCommerce woo-swish-e-commerce allows Exploiting… |
-| 2026-10-21 15:17:15 | [CVE-2026-111837](https://nvd.nist.gov/vuln/detail/CVE-2026-111837) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wasiliy Strecker… |
-| 2026-10-21 15:17:15 | [CVE-2026-111838](https://nvd.nist.gov/vuln/detail/CVE-2026-111838) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ThemeHunk ThemeHu… |
-| 2026-10-21 15:17:15 | [CVE-2026-111840](https://nvd.nist.gov/vuln/detail/CVE-2026-111840) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in VideoWhisper.com… |
-| 2026-10-21 15:17:16 | [CVE-2026-111848](https://nvd.nist.gov/vuln/detail/CVE-2026-111848) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Dylan Kuhn Geo Ma… |
-| 2026-10-21 15:17:16 | [CVE-2026-111852](https://nvd.nist.gov/vuln/detail/CVE-2026-111852) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPdreams Ajax Sea… |
-| 2026-10-21 15:17:16 | [CVE-2026-112221](https://nvd.nist.gov/vuln/detail/CVE-2026-112221) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brainstorm Force… |
-| 2026-10-21 15:17:16 | [CVE-2026-113779](https://nvd.nist.gov/vuln/detail/CVE-2026-113779) | High | 8.8 | The pfSense REST API package is an unofficial, open-source REST and GraphQL API for pfSense CE and pfSense Plus firewal… |
-| 2026-10-21 15:17:16 | [CVE-2026-113786](https://nvd.nist.gov/vuln/detail/CVE-2026-113786) | Low | 2.3 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.1, an attacker can craft a PDF containing image… |
-| 2026-10-21 15:17:16 | [CVE-2026-114250](https://nvd.nist.gov/vuln/detail/CVE-2026-114250) | Low | 2.1 | A flaw has been found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caac. This i… |
-| 2026-10-21 15:17:17 | [CVE-2026-114251](https://nvd.nist.gov/vuln/detail/CVE-2026-114251) | Low | 2.1 | A vulnerability has been found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caa… |
-| 2026-10-21 15:17:17 | [CVE-2026-114252](https://nvd.nist.gov/vuln/detail/CVE-2026-114252) | Low | 2.1 | A vulnerability was found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caac. Th… |
-| 2026-10-21 15:17:19 | [CVE-2026-98869](https://nvd.nist.gov/vuln/detail/CVE-2026-98869) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Infer zext_dst based on static register livene… |
+| 2026-10-21 16:17:13 | [CVE-2025-60469](https://nvd.nist.gov/vuln/detail/CVE-2025-60469) |  |  | A NULL pointer dereference in the gf_ac4_presentation_ch_mode function (/media_tools/av_parsers.c) of GPAC Project/MP4B… |
+| 2026-10-21 16:17:13 | [CVE-2025-60476](https://nvd.nist.gov/vuln/detail/CVE-2025-60476) |  |  | A heap use-after-free in the gf_odf_ac4_cfg_clean_list function (/odf/descriptors.c) of GPAC Project/MP4Box before 2.5… |
+| 2026-10-21 16:17:13 | [CVE-2026-102483](https://nvd.nist.gov/vuln/detail/CVE-2026-102483) | High | 7.5 | Reachable exit in NTPsec ntpd 1.1.4 through 1.2.5 allows a remote attacker to terminate the daemon via an NTS request w… |
+| 2026-10-21 16:17:14 | [CVE-2026-102484](https://nvd.nist.gov/vuln/detail/CVE-2026-102484) | Medium | 6.4 | Heap-based buffer overflow in the JJY refclock driver in NTPsec ntpd before 1.2.6 allows an attacker who controls the T… |
+| 2026-10-21 16:17:14 | [CVE-2026-102485](https://nvd.nist.gov/vuln/detail/CVE-2026-102485) | Medium | 5.2 | Out-of-bounds read in the Motorola Oncore refclock driver in NTPsec ntpd before 1.2.6 allows an attacker who controls t… |
+| 2026-10-21 16:17:14 | [CVE-2026-102486](https://nvd.nist.gov/vuln/detail/CVE-2026-102486) | High | 7.5 | Out-of-bounds read in NTS extension field parsing in NTPsec ntpd 1.1.4 through 1.2.5 allows a remote attacker to crash… |
+| 2026-10-21 16:17:14 | [CVE-2026-102536](https://nvd.nist.gov/vuln/detail/CVE-2026-102536) |  |  | Rejected reason: This CVE has been rejected because it was issued to a development-only issue with no affected distribu… |
+| 2026-10-21 16:17:26 | [CVE-2026-113787](https://nvd.nist.gov/vuln/detail/CVE-2026-113787) | Medium | 6.1 | odf-kit allows users to generate, fill, read, and convert OpenDocument Format files (.odt, .ods) in TypeScript and Java… |
+| 2026-10-21 16:17:26 | [CVE-2026-113788](https://nvd.nist.gov/vuln/detail/CVE-2026-113788) | Critical | 9.4 | Lagoon is an application delivery platform for Kubernetes. Versions prior to 2.33.1 have a vulnerability in the `ssh` s… |
+| 2026-10-21 16:17:26 | [CVE-2026-113789](https://nvd.nist.gov/vuln/detail/CVE-2026-113789) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.0, an attacker can craft a PDF that causes large… |
+| 2026-10-21 16:17:26 | [CVE-2026-113790](https://nvd.nist.gov/vuln/detail/CVE-2026-113790) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.0, an attacker can craft a PDF containing arrays… |
+| 2026-10-21 16:17:27 | [CVE-2026-113791](https://nvd.nist.gov/vuln/detail/CVE-2026-113791) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.0, an attacker can craft a PDF containing a cont… |
+| 2026-10-21 16:17:27 | [CVE-2026-113792](https://nvd.nist.gov/vuln/detail/CVE-2026-113792) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.20.1, calling PdfWriter.find_outline_item on a craf… |
+| 2026-10-21 16:17:27 | [CVE-2026-113793](https://nvd.nist.gov/vuln/detail/CVE-2026-113793) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.20.1, removing an object from a crafted cyclic PDF… |
+| 2026-10-21 16:17:28 | [CVE-2026-113794](https://nvd.nist.gov/vuln/detail/CVE-2026-113794) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.20.0, an attacker can craft an incomplete PDF that… |
+| 2026-10-21 16:17:28 | [CVE-2026-113795](https://nvd.nist.gov/vuln/detail/CVE-2026-113795) | Medium | 6.0 | pypdf is a free and open-source pure-python PDF library. Prior to 6.20.0, accessing a crafted PDF stream with a large n… |
+| 2026-10-21 16:17:32 | [CVE-2026-114253](https://nvd.nist.gov/vuln/detail/CVE-2026-114253) | Low | 2.1 | A vulnerability was determined in oretnom23 file-management-system-php up to 2e3c1ebe60f121e8df4fb3f544f0e9591d9a01e4.… |
+| 2026-10-21 16:17:32 | [CVE-2026-114254](https://nvd.nist.gov/vuln/detail/CVE-2026-114254) | Medium | 5.5 | A vulnerability was identified in oretnom23 file-management-system-php up to 2e3c1ebe60f121e8df4fb3f544f0e9591d9a01e4.… |
+| 2026-10-21 16:17:32 | [CVE-2026-114255](https://nvd.nist.gov/vuln/detail/CVE-2026-114255) | Medium | 5.5 | A security flaw has been discovered in oretnom23 file-management-system-php up to 2e3c1ebe60f121e8df4fb3f544f0e9591d9a0… |
+| 2026-10-21 16:17:32 | [CVE-2026-114256](https://nvd.nist.gov/vuln/detail/CVE-2026-114256) | Medium | 5.5 | A weakness has been identified in oretnom23 file-management-system-php up to 2e3c1ebe60f121e8df4fb3f544f0e9591d9a01e4.… |
+| 2026-10-21 16:17:33 | [CVE-2026-114370](https://nvd.nist.gov/vuln/detail/CVE-2026-114370) | Low | 3.7 | A flaw was found in the PathResourceManager component of the Undertow web server. This component is responsible for ser… |
+| 2026-10-21 16:17:33 | [CVE-2026-114462](https://nvd.nist.gov/vuln/detail/CVE-2026-114462) | Medium | 6.0 | Improper link resolution before file access ('link following') vulnerability in Velneo vServer. This issue affects vSer… |
+| 2026-10-21 16:17:33 | [CVE-2026-114257](https://nvd.nist.gov/vuln/detail/CVE-2026-114257) | Medium | 5.5 | A security vulnerability has been detected in oretnom23 file-management-system-php up to 2e3c1ebe60f121e8df4fb3f544f0e9… |
+| 2026-10-21 16:17:34 | [CVE-2026-114463](https://nvd.nist.gov/vuln/detail/CVE-2026-114463) |  |  | The webhook platform gateway in Nous Research Hermes Agent versions builds the session chat_id as webhook:{route_name}:… |
+| 2026-10-21 16:17:34 | [CVE-2026-114470](https://nvd.nist.gov/vuln/detail/CVE-2026-114470) | Medium | 5.3 | Cross-site request forgery in the REST API of Progressive Robot hMailServer 6.0.0 through 6.3.6 allows a remote attacke… |
+| 2026-10-21 16:17:34 | [CVE-2026-114471](https://nvd.nist.gov/vuln/detail/CVE-2026-114471) | Medium | 4.7 | Insertion of sensitive information into a log file in the SMTP server of Progressive Robot hMailServer 6.0.0 through 6.… |
+| 2026-10-21 16:17:34 | [CVE-2026-114472](https://nvd.nist.gov/vuln/detail/CVE-2026-114472) | Low | 3.7 | Insufficient resource pool in the ACME HTTP-01 challenge responder of Progressive Robot hMailServer 6.0.0 through 6.3.6… |
+| 2026-10-21 16:17:34 | [CVE-2026-114473](https://nvd.nist.gov/vuln/detail/CVE-2026-114473) | Medium | 5.0 | Incorrect authorization in the Sender Rewriting Scheme (SRS) of Progressive Robot hMailServer 6.2.1 through 6.3.6 allow… |
+| 2026-10-21 16:17:34 | [CVE-2026-114474](https://nvd.nist.gov/vuln/detail/CVE-2026-114474) | Medium | 5.9 | Use of a less trusted source for the envelope sender in the external-account download of Progressive Robot hMailServer… |
+| 2026-10-21 16:17:34 | [CVE-2026-114475](https://nvd.nist.gov/vuln/detail/CVE-2026-114475) | Medium | 6.5 | Missing authorization in the REST role-management routes of Progressive Robot hMailServer 6.3.4 through 6.3.6 allows a… |
+| 2026-10-21 16:17:34 | [CVE-2026-114476](https://nvd.nist.gov/vuln/detail/CVE-2026-114476) | High | 7.5 | Incorrect authorization in the REST administration API of Progressive Robot hMailServer 6.3.4 through 6.3.6 allows a re… |
+| 2026-10-21 16:17:35 | [CVE-2026-114477](https://nvd.nist.gov/vuln/detail/CVE-2026-114477) | Medium | 4.3 | Missing authorization in the REST metrics route of Progressive Robot hMailServer 6.2.25 through 6.3.6 allows a remote a… |
+| 2026-10-21 16:17:35 | [CVE-2026-114478](https://nvd.nist.gov/vuln/detail/CVE-2026-114478) | Medium | 5.9 | Insufficient preservation of the original sender in the forwarding of Progressive Robot hMailServer 6.0.0 through 6.3.6… |
+| 2026-10-21 16:17:35 | [CVE-2026-114479](https://nvd.nist.gov/vuln/detail/CVE-2026-114479) | Medium | 5.8 | Not failing securely in the anti-virus attachment-stripping action of Progressive Robot hMailServer 6.0.0 through 6.3.6… |
+| 2026-10-21 16:17:35 | [CVE-2026-114489](https://nvd.nist.gov/vuln/detail/CVE-2026-114489) | High | 8.1 | Missing authorization in the REST and COM administration APIs of Progressive Robot hMailServer 6.0.0 through 6.3.6 allo… |
+| 2026-10-21 16:17:35 | [CVE-2026-114490](https://nvd.nist.gov/vuln/detail/CVE-2026-114490) | High | 7.8 | Incorrect authorization in the COM administration API of Progressive Robot hMailServer 6.3.4 through 6.3.6 allows an ac… |
 
 ## Data source
 
