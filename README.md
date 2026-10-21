@@ -9,35 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 22:19 UTC
+## Latest list — 2026-10-21 23:19 UTC
 
-New CVEs published between 2026-10-21 21:20 UTC and 2026-10-21 22:19 UTC.
+New CVEs published between 2026-10-21 22:19 UTC and 2026-10-21 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T22-19-14-217268Z.csv)
+[Full CSV](data/new-cves-2026-10-21T23-19-42-427761Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 21:20:31 | [CVE-2026-96636](https://nvd.nist.gov/vuln/detail/CVE-2026-96636) | Medium | 6.5 | Pillow is a Python imaging library. Prior to 13.0.0, MpoImageFile.seek() and DcxImageFile.seek() reparse later MPO or D… |
-| 2026-10-21 21:20:31 | [CVE-2026-96637](https://nvd.nist.gov/vuln/detail/CVE-2026-96637) | High | 7.1 | Pillow is a Python imaging library. Prior to 13.0.0, SpiderImageFile.seek() in src/PIL/SpiderImagePlugin.py reparses a… |
-| 2026-10-21 21:20:32 | [CVE-2026-96638](https://nvd.nist.gov/vuln/detail/CVE-2026-96638) | Medium | 6.5 | Pillow is a Python imaging library. From 9.1.0 until 13.0.0, BmpRleDecoder.decode() in src/PIL/BmpImagePlugin.py permit… |
-| 2026-10-21 21:20:32 | [CVE-2026-96639](https://nvd.nist.gov/vuln/detail/CVE-2026-96639) | Critical | 9.8 | Pillow is a Python imaging library. From 11.0.0 until 13.0.0, multi-frame loaders can retain an ImagingCore allocation… |
-| 2026-10-21 21:20:32 | [CVE-2026-96640](https://nvd.nist.gov/vuln/detail/CVE-2026-96640) | High | 8.2 | Pillow is a Python imaging library. From 5.1.0 until 13.0.0, PdfParser.linearize_page_tree() in src/PIL/PdfParser.py tr… |
-| 2026-10-21 21:20:32 | [CVE-2026-96641](https://nvd.nist.gov/vuln/detail/CVE-2026-96641) | Medium | 6.5 | Pillow is a Python imaging library. Prior to 13.0.0, PILfont text-width accumulation in src/_imaging.c checks positive… |
-| 2026-10-21 21:20:32 | [CVE-2026-96642](https://nvd.nist.gov/vuln/detail/CVE-2026-96642) | High | 7.1 | Pillow is a Python imaging library. Prior to 13.0.0, the TarIO initializer in src/PIL/TarIO.py accepts a negative octal… |
-| 2026-10-21 21:20:32 | [CVE-2026-96643](https://nvd.nist.gov/vuln/detail/CVE-2026-96643) | High | 7.1 | Pillow is a Python imaging library. From 11.0.0 until 13.0.0, Exif.load() in src/PIL/Image.py repeatedly slices the rem… |
-| 2026-10-21 21:20:32 | [CVE-2026-96644](https://nvd.nist.gov/vuln/detail/CVE-2026-96644) | High | 7.1 | Pillow is a Python imaging library. Prior to 13.0.0 on Windows, src/PIL/WmfImagePlugin.py passes unchecked 32-bit WMF o… |
-| 2026-10-21 21:20:33 | [CVE-2026-96778](https://nvd.nist.gov/vuln/detail/CVE-2026-96778) | High | 7.7 | Pillow is a Python imaging library. From 9.4.0 until 13.0.0, ImagingJpegEncode() in src/libImaging/JpegEncode.c can cal… |
-| 2026-10-21 22:16:48 | [CVE-2026-112921](https://nvd.nist.gov/vuln/detail/CVE-2026-112921) |  |  | Robots::Validate versions from 0.4.3 before 0.4.10 for Perl report clients as imposter robots when User-Agent matcher s… |
-| 2026-10-21 22:16:48 | [CVE-2026-114381](https://nvd.nist.gov/vuln/detail/CVE-2026-114381) | Low | 2.1 | A vulnerability was determined in itsourcecode Online Cake Ordering System 1.0. The affected element is an unknown func… |
-| 2026-10-21 22:16:48 | [CVE-2026-114382](https://nvd.nist.gov/vuln/detail/CVE-2026-114382) | Critical | 9.3 | A security flaw has been discovered in TOTOLINK EX200 5.2.3c.7200. This affects the function setStaticDhcpConfig of the… |
-| 2026-10-21 22:16:49 | [CVE-2026-114383](https://nvd.nist.gov/vuln/detail/CVE-2026-114383) | Critical | 9.3 | A weakness has been identified in TOTOLINK EX200 5.2.3c.7200. This impacts the function setWiFiAclAddConfig of the file… |
-| 2026-10-21 22:16:49 | [CVE-2026-114384](https://nvd.nist.gov/vuln/detail/CVE-2026-114384) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Online Cake Ordering System 1.0. Affected is an unknown func… |
-| 2026-10-21 22:16:49 | [CVE-2026-114501](https://nvd.nist.gov/vuln/detail/CVE-2026-114501) | Medium | 6.3 | Pillow is a Python imaging library. From 11.2.1 until 13.0.0, Arrow export assumes that an image's rows are tightly con… |
-| 2026-10-21 22:16:49 | [CVE-2026-114508](https://nvd.nist.gov/vuln/detail/CVE-2026-114508) | Medium | 6.5 | Laravel is a web application framework. From 12.45.0 until 12.68.0 and 13.27.0, crafted relationship inclusion on a rea… |
-| 2026-10-21 22:16:49 | [CVE-2026-114509](https://nvd.nist.gov/vuln/detail/CVE-2026-114509) | Critical | 9.2 | Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based A… |
-| 2026-10-21 22:16:50 | [CVE-2026-91403](https://nvd.nist.gov/vuln/detail/CVE-2026-91403) | Critical | 9.1 | Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java S… |
-| 2026-10-21 22:16:50 | [CVE-2026-94140](https://nvd.nist.gov/vuln/detail/CVE-2026-94140) |  |  | Rex versions through 1.16.1 for Perl accept an unknown SSH host key for remote rsync transfers because sync hardcodes S… |
-| 2026-10-21 22:16:50 | [CVE-2026-94423](https://nvd.nist.gov/vuln/detail/CVE-2026-94423) |  |  | Net::LibSSH versions before 0.004 for Perl authenticate to an unverified server because connect never checks the host k… |
+| 2026-10-21 23:17:23 | [CVE-2026-100420](https://nvd.nist.gov/vuln/detail/CVE-2026-100420) | Medium | 6.8 | A sensitive information disclosure vulnerability in the cloud-client daemon of Deco BE63 allows authenticated attackers… |
+| 2026-10-21 23:17:24 | [CVE-2026-103090](https://nvd.nist.gov/vuln/detail/CVE-2026-103090) | High | 8.8 | Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credentials (CWE-522) in the contro… |
+| 2026-10-21 23:17:25 | [CVE-2026-106053](https://nvd.nist.gov/vuln/detail/CVE-2026-106053) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-21 23:17:25 | [CVE-2026-114439](https://nvd.nist.gov/vuln/detail/CVE-2026-114439) | Medium | 5.5 | A vulnerability was determined in oretnom23 php-travel-agency-system. Affected by this issue is some unknown functional… |
+| 2026-10-21 23:17:25 | [CVE-2026-114440](https://nvd.nist.gov/vuln/detail/CVE-2026-114440) | Medium | 5.5 | A vulnerability was identified in oretnom23 php-travel-agency-system. This affects an unknown part of the file admin/de… |
+| 2026-10-21 23:17:25 | [CVE-2026-114441](https://nvd.nist.gov/vuln/detail/CVE-2026-114441) | Medium | 5.5 | A weakness has been identified in oretnom23 php-travel-agency-system. This issue affects some unknown processing of the… |
+| 2026-10-21 23:17:26 | [CVE-2026-76287](https://nvd.nist.gov/vuln/detail/CVE-2026-76287) | Medium | 5.4 | In Splunk Enterprise versions below 10.4.4, a user that holds a role with the preview_data_management_pipeline capabili… |
+| 2026-10-21 23:17:26 | [CVE-2026-76288](https://nvd.nist.gov/vuln/detail/CVE-2026-76288) | High | 7.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, an unauthenticated user could send a single cr… |
+| 2026-10-21 23:17:26 | [CVE-2026-76289](https://nvd.nist.gov/vuln/detail/CVE-2026-76289) | Medium | 6.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
+| 2026-10-21 23:17:26 | [CVE-2026-76290](https://nvd.nist.gov/vuln/detail/CVE-2026-76290) | High | 7.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, and 10.0.11, an unauthenticated user could send repeated requests t… |
+| 2026-10-21 23:17:26 | [CVE-2026-76291](https://nvd.nist.gov/vuln/detail/CVE-2026-76291) | High | 8.8 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role with the schedule_sea… |
+| 2026-10-21 23:17:27 | [CVE-2026-76292](https://nvd.nist.gov/vuln/detail/CVE-2026-76292) | Medium | 6.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, and Splunk Secure Gateway versions below 3.10.… |
+| 2026-10-21 23:17:27 | [CVE-2026-76293](https://nvd.nist.gov/vuln/detail/CVE-2026-76293) | High | 7.2 | In Splunk Enterprise versions below 10.4.3, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role with the edit_manager… |
+| 2026-10-21 23:17:27 | [CVE-2026-76294](https://nvd.nist.gov/vuln/detail/CVE-2026-76294) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
+| 2026-10-21 23:17:27 | [CVE-2026-76295](https://nvd.nist.gov/vuln/detail/CVE-2026-76295) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, and Splunk Secure Gateway versions below 3.10.… |
+| 2026-10-21 23:17:27 | [CVE-2026-76296](https://nvd.nist.gov/vuln/detail/CVE-2026-76296) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
+| 2026-10-21 23:17:27 | [CVE-2026-76297](https://nvd.nist.gov/vuln/detail/CVE-2026-76297) | Medium | 4.2 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, an unauthenticated user could trick a user tha… |
+| 2026-10-21 23:17:27 | [CVE-2026-76298](https://nvd.nist.gov/vuln/detail/CVE-2026-76298) | High | 8.8 | In Splunk Enterprise versions below 10.4.4 and 10.2.8, a user who does not hold the "admin" or "power" Splunk roles cou… |
+| 2026-10-21 23:17:27 | [CVE-2026-76299](https://nvd.nist.gov/vuln/detail/CVE-2026-76299) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:28 | [CVE-2026-76300](https://nvd.nist.gov/vuln/detail/CVE-2026-76300) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:28 | [CVE-2026-76301](https://nvd.nist.gov/vuln/detail/CVE-2026-76301) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:28 | [CVE-2026-76302](https://nvd.nist.gov/vuln/detail/CVE-2026-76302) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:28 | [CVE-2026-76303](https://nvd.nist.gov/vuln/detail/CVE-2026-76303) | Medium | 5.7 | In Splunk SOAR versions below 8.7.0, a user that holds a role with the install_apps capability could store attacker-con… |
+| 2026-10-21 23:17:28 | [CVE-2026-76304](https://nvd.nist.gov/vuln/detail/CVE-2026-76304) | Medium | 4.3 | In Splunk SOAR versions below 8.7.0, an authenticated user who does not hold a role with permission to edit Automation… |
+| 2026-10-21 23:17:28 | [CVE-2026-76305](https://nvd.nist.gov/vuln/detail/CVE-2026-76305) | Medium | 6.5 | In Splunk SOAR versions below 8.7.0, an authenticated user who does not hold a role with permission to view apps could… |
+| 2026-10-21 23:17:28 | [CVE-2026-76306](https://nvd.nist.gov/vuln/detail/CVE-2026-76306) | High | 7.5 | In Splunk SOAR versions below 8.7.0, a user that has the "Observer" role could use query filters in the Representationa… |
+| 2026-10-21 23:17:28 | [CVE-2026-76307](https://nvd.nist.gov/vuln/detail/CVE-2026-76307) | High | 7.2 | In Splunk SOAR versions below 8.7.0, a user that holds a role with the Users and Roles view permission could use the Re… |
+| 2026-10-21 23:17:29 | [CVE-2026-76308](https://nvd.nist.gov/vuln/detail/CVE-2026-76308) | Medium | 6.5 | In Splunk SOAR versions below 8.7.0, an authenticated user could change the Enterprise Security edition through the Rep… |
+| 2026-10-21 23:17:29 | [CVE-2026-76406](https://nvd.nist.gov/vuln/detail/CVE-2026-76406) | Medium | 5.9 | In Splunk SOAR versions below 8.7.0, an unauthenticated user with access to encrypted credential data from an affected… |
+| 2026-10-21 23:17:29 | [CVE-2026-76407](https://nvd.nist.gov/vuln/detail/CVE-2026-76407) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:29 | [CVE-2026-76408](https://nvd.nist.gov/vuln/detail/CVE-2026-76408) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:29 | [CVE-2026-76526](https://nvd.nist.gov/vuln/detail/CVE-2026-76526) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:29 | [CVE-2026-76527](https://nvd.nist.gov/vuln/detail/CVE-2026-76527) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:29 | [CVE-2026-76528](https://nvd.nist.gov/vuln/detail/CVE-2026-76528) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:29 | [CVE-2026-76529](https://nvd.nist.gov/vuln/detail/CVE-2026-76529) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:30 | [CVE-2026-76531](https://nvd.nist.gov/vuln/detail/CVE-2026-76531) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-21 23:17:30 | [CVE-2026-89052](https://nvd.nist.gov/vuln/detail/CVE-2026-89052) | Medium | 5.9 | A hardcoded cryptographic key management vulnerability exists in Archer C6 due to the use of a universal cryptographic… |
+| 2026-10-21 23:17:30 | [CVE-2026-76530](https://nvd.nist.gov/vuln/detail/CVE-2026-76530) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
 
 ## Data source
 
