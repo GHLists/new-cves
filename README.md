@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 02:19 UTC
+## Latest list — 2026-10-21 04:18 UTC
 
-New CVEs published between 2026-10-21 01:20 UTC and 2026-10-21 02:19 UTC.
+New CVEs published between 2026-10-21 03:19 UTC and 2026-10-21 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T02-19-37-338066Z.csv)
+[Full CSV](data/new-cves-2026-10-21T04-18-54-816109Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 02:17:06 | [CVE-2026-113743](https://nvd.nist.gov/vuln/detail/CVE-2026-113743) | Low | 2.1 | A weakness has been identified in Tenstorrent tt-metal up to 0.80.0. The affected element is the function load_hf_state… |
-| 2026-10-21 02:17:07 | [CVE-2026-113744](https://nvd.nist.gov/vuln/detail/CVE-2026-113744) | Critical | 9.3 | A security vulnerability has been detected in Tenda AC19 16.03.10.07. The impacted element is the function formSetFirew… |
-| 2026-10-21 02:17:07 | [CVE-2026-82814](https://nvd.nist.gov/vuln/detail/CVE-2026-82814) | High | 8.8 | The Duplicator and Duplicator Pro plugins for WordPress are vulnerable to PHP Object Injection in all versions up to, a… |
+| 2026-10-21 04:18:09 | [CVE-2026-114039](https://nvd.nist.gov/vuln/detail/CVE-2026-114039) | Low | 2.1 | A weakness has been identified in projectworlds Advanced Library Management System 1.0. Impacted is the function mysqli… |
+| 2026-10-21 04:18:10 | [CVE-2026-114040](https://nvd.nist.gov/vuln/detail/CVE-2026-114040) | Low | 2.0 | A security vulnerability has been detected in DT42 BerryNet up to 3.10.2. The affected element is the function DLModelM… |
+| 2026-10-21 04:18:11 | [CVE-2026-92822](https://nvd.nist.gov/vuln/detail/CVE-2026-92822) | Medium | 6.2 | A flaw was found in libmodulemd. When parsing module metadata, the xmd field is converted into nested GVariant values t… |
+| 2026-10-21 04:18:12 | [CVE-2026-92823](https://nvd.nist.gov/vuln/detail/CVE-2026-92823) | Medium | 6.2 | A flaw was found in libmodulemd. In builds with rpmio support enabled, compressed modulemd YAML is decompressed through… |
+| 2026-10-21 04:18:12 | [CVE-2026-92824](https://nvd.nist.gov/vuln/detail/CVE-2026-92824) | Medium | 6.2 | A flaw was found in libmodulemd. In the module stream v2 rpm-map emission path, an inner loop incorrectly uses the coun… |
 
 ## Data source
 
