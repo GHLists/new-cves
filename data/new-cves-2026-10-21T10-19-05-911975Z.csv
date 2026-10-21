@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-21T10:16:54.917Z,CVE-2026-105923,MEDIUM,4.0,Received,CWE-190; CWE-476,2,A malicious SVG can trigger an integer overflow which in turn triggers a null-pointer dereference in VectorImage QML Type.
+2026-10-21T10:16:55.2Z,CVE-2026-110369,HIGH,8.8,Received,CWE-502,1,Deserialization of Untrusted Data vulnerability in GS Plugins WordPress Team Members – GS Plugins gs-team-members allows Object Injection.This issue affects WordPress Team Members – GS Plugins: from n/a through 2.8.2.
+2026-10-21T10:16:55.38Z,CVE-2026-110370,HIGH,8.8,Received,CWE-502,1,Deserialization of Untrusted Data vulnerability in GS Plugins GS Pins for Pinterest gs-pinterest-portfolio allows Object Injection.This issue affects GS Pins for Pinterest: from n/a through 1.9.2.
+2026-10-21T10:16:55.52Z,CVE-2026-110884,HIGH,7.1,Received,CWE-79,1,Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in geekontheroad Live Summary for Gravity Forms live-summary-for-gravity-forms allows Reflected XSS.This issue affects Live Summary for Gravity Forms: from n/a through 1.2.10.
