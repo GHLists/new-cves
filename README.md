@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:19 UTC
+## Latest list — 2026-10-21 11:18 UTC
 
-New CVEs published between 2026-10-21 09:18 UTC and 2026-10-21 10:19 UTC.
+New CVEs published between 2026-10-21 10:19 UTC and 2026-10-21 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T10-19-05-911975Z.csv)
+[Full CSV](data/new-cves-2026-10-21T11-18-59-078897Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 10:16:54 | [CVE-2026-105923](https://nvd.nist.gov/vuln/detail/CVE-2026-105923) | Medium | 4.0 | A malicious SVG can trigger an integer overflow which in turn triggers a null-pointer dereference in VectorImage QML Ty… |
-| 2026-10-21 10:16:55 | [CVE-2026-110369](https://nvd.nist.gov/vuln/detail/CVE-2026-110369) | High | 8.8 | Deserialization of Untrusted Data vulnerability in GS Plugins WordPress Team Members – GS Plugins gs-team-members allow… |
-| 2026-10-21 10:16:55 | [CVE-2026-110370](https://nvd.nist.gov/vuln/detail/CVE-2026-110370) | High | 8.8 | Deserialization of Untrusted Data vulnerability in GS Plugins GS Pins for Pinterest gs-pinterest-portfolio allows Objec… |
-| 2026-10-21 10:16:55 | [CVE-2026-110884](https://nvd.nist.gov/vuln/detail/CVE-2026-110884) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in geekontheroad Liv… |
+| 2026-10-21 11:17:07 | [CVE-2026-41114](https://nvd.nist.gov/vuln/detail/CVE-2026-41114) |  |  | Uncontrolled Resource Consumption vulnerability in Apache IoTDB JDBC driver. This issue affects Apache IoTDB JDBC drive… |
+| 2026-10-21 11:17:07 | [CVE-2026-58663](https://nvd.nist.gov/vuln/detail/CVE-2026-58663) |  |  | An authentication bypass vulnerability exists in Apache IoTDB's Thrift RPC service This issue affects Apache IoTDB: fro… |
+| 2026-10-21 11:17:09 | [CVE-2026-87095](https://nvd.nist.gov/vuln/detail/CVE-2026-87095) | Critical | 9.1 | Sensitive information disclosure and manipulation due to improper authorization checks. The following products are affe… |
+| 2026-10-21 11:17:09 | [CVE-2026-87096](https://nvd.nist.gov/vuln/detail/CVE-2026-87096) | Low | 3.3 | Sensitive information disclosure and manipulation due to improper authorization checks. The following products are affe… |
 
 ## Data source
 
