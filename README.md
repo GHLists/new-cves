@@ -9,34 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 14:20 UTC
+## Latest list — 2026-10-21 15:18 UTC
 
-New CVEs published between 2026-10-21 13:20 UTC and 2026-10-21 14:20 UTC.
+New CVEs published between 2026-10-21 14:20 UTC and 2026-10-21 15:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T14-20-06-359341Z.csv)
+[Full CSV](data/new-cves-2026-10-21T15-18-55-437633Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 13:20:56 | [CVE-2026-90484](https://nvd.nist.gov/vuln/detail/CVE-2026-90484) |  |  | The MySQL client response parser in Apache bRPC dereferences a null pointer when the server peer sends a zero-payload-l… |
-| 2026-10-21 13:21:08 | [CVE-2026-94300](https://nvd.nist.gov/vuln/detail/CVE-2026-94300) | High | 8.1 | Replaying GSS-TSIG signed UDP messages can result in memory corruption in "`named`". An attacker who can capture a prev… |
-| 2026-10-21 13:21:08 | [CVE-2026-96888](https://nvd.nist.gov/vuln/detail/CVE-2026-96888) | High | 7.5 | A BIND resolver that is configured with both a "redirect" zone and "qname-minimization strict" may abort with an assert… |
-| 2026-10-21 13:21:09 | [CVE-2026-97313](https://nvd.nist.gov/vuln/detail/CVE-2026-97313) | High | 7.5 | A recursive BIND server that receives a query with recursion desired (RD=1) followed by a non-recursive query (RD=0) ma… |
-| 2026-10-21 14:17:04 | [CVE-2024-4989](https://nvd.nist.gov/vuln/detail/CVE-2024-4989) | Medium | 5.4 | The callback URL parameter in WSO2 API Manager fails to validate user-supplied input, allowing it to be controlled by m… |
-| 2026-10-21 14:17:04 | [CVE-2024-5139](https://nvd.nist.gov/vuln/detail/CVE-2024-5139) | Medium | 6.1 | The Authentication Endpoint accepts user-supplied input without sufficient encoding, allowing for the injection of mali… |
-| 2026-10-21 14:17:05 | [CVE-2024-5563](https://nvd.nist.gov/vuln/detail/CVE-2024-5563) | Medium | 4.8 | Due to an incomplete implementation, reCaptcha is not applied to certain authentication flows even when the reCaptcha o… |
-| 2026-10-21 14:17:05 | [CVE-2024-6423](https://nvd.nist.gov/vuln/detail/CVE-2024-6423) | Medium | 4.0 | The product failed to enforce validation constraints on user-supplied input in URL parameters, allowing sensitive data… |
-| 2026-10-21 14:17:06 | [CVE-2024-7478](https://nvd.nist.gov/vuln/detail/CVE-2024-7478) | Medium | 5.8 | When a WSO2 product is configured to use an external user store, the system fails to adequately obscure the existence o… |
-| 2026-10-21 14:17:06 | [CVE-2025-0326](https://nvd.nist.gov/vuln/detail/CVE-2025-0326) |  |  | The system fails to invalidate existing access tokens associated with sub-organization users during sensitive account m… |
-| 2026-10-21 14:17:06 | [CVE-2025-60479](https://nvd.nist.gov/vuln/detail/CVE-2025-60479) |  |  | A NULL pointer dereference in the StatSFVec2f function (/scene_manager/scene_stats.c) of GPAC Project/MP4Box before 2.5… |
-| 2026-10-21 14:17:07 | [CVE-2025-60489](https://nvd.nist.gov/vuln/detail/CVE-2025-60489) |  |  | A NULL pointer dereference in the dasher_insert_timeline_entry function (/filters/dasher.c) of GPAC Project/MP4Box befo… |
-| 2026-10-21 14:17:07 | [CVE-2025-71438](https://nvd.nist.gov/vuln/detail/CVE-2025-71438) |  |  | An out-of-bounds read in gf_odf_ac4_cfg_dsi_v1 (/odf/descriptors.c) in GPAC Project/MP4Box before v26.07.0 allows attac… |
-| 2026-10-21 14:17:08 | [CVE-2026-104947](https://nvd.nist.gov/vuln/detail/CVE-2026-104947) | Medium | 5.3 | WarehousePG (WHPG) 7.2.1 through 7.6.0 is affected by a missing authorization vulnerability (CWE-862) in the built-in f… |
-| 2026-10-21 14:17:09 | [CVE-2026-104948](https://nvd.nist.gov/vuln/detail/CVE-2026-104948) | High | 7.1 | WarehousePG (WHPG) 6.27.1 through 6.27.6 and 7.2.1 through 7.6.0 are affected by a missing authorization vulnerability… |
-| 2026-10-21 14:17:09 | [CVE-2026-104949](https://nvd.nist.gov/vuln/detail/CVE-2026-104949) | Low | 2.3 | WarehousePG (WHPG) 6.27.1 through 6.27.6 and 7.2.1 through 7.6.0 are affected by a missing authorization vulnerability… |
-| 2026-10-21 14:17:09 | [CVE-2026-109618](https://nvd.nist.gov/vuln/detail/CVE-2026-109618) | Critical | 9.2 | PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some c… |
-| 2026-10-21 14:17:09 | [CVE-2026-109619](https://nvd.nist.gov/vuln/detail/CVE-2026-109619) | Critical | 9.2 | PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be co… |
-| 2026-10-21 14:17:13 | [CVE-2026-114249](https://nvd.nist.gov/vuln/detail/CVE-2026-114249) | Medium | 5.5 | A vulnerability was detected in dhikshitha29 Insurance-Management-System 91de5edda5baa109ad8e9baf03ce6a3ceda84183/12536… |
-| 2026-10-21 14:17:14 | [CVE-2026-114437](https://nvd.nist.gov/vuln/detail/CVE-2026-114437) | Medium | 6.3 | In the Golang Chi web framework, the ClientIPFromXFF middleware skips any X-Forwarded-For entry in a configured trusted… |
+| 2026-10-21 15:17:12 | [CVE-2023-7356](https://nvd.nist.gov/vuln/detail/CVE-2023-7356) |  |  | In the Linux kernel, the following vulnerability has been resolved: Bluetooth: ISO: Copy BASE if service data matches E… |
+| 2026-10-21 15:17:13 | [CVE-2025-60478](https://nvd.nist.gov/vuln/detail/CVE-2025-60478) |  |  | A use-after-free in the gf_filter_packet_destroy function (/filter_core/filter_pck.c) of GPAC Project/MP4Box before 2.5… |
+| 2026-10-21 15:17:13 | [CVE-2025-60487](https://nvd.nist.gov/vuln/detail/CVE-2025-60487) |  |  | A segmentation violation in the gf_isom_get_esd function (/isomedia/isom_read.c) of GPAC Project/MP4Box before 2.5 allo… |
+| 2026-10-21 15:17:13 | [CVE-2025-60490](https://nvd.nist.gov/vuln/detail/CVE-2025-60490) |  |  | A heap use-after-free in the gf_filter_pid_send_event_downstream function (/filter_core/filter_pid.c) of GPAC Project/M… |
+| 2026-10-21 15:17:13 | [CVE-2025-60491](https://nvd.nist.gov/vuln/detail/CVE-2025-60491) |  |  | A heap use-after-free in the dasher_flush_segment function (/filters/dasher.c) of GPAC Project/MP4Box before 2.5 allows… |
+| 2026-10-21 15:17:13 | [CVE-2025-60492](https://nvd.nist.gov/vuln/detail/CVE-2025-60492) |  |  | A stack overflow in the gf_bifs_dec_node function (/bifs/field_decode.c) of GPAC Project/MP4Box before 2.5 allows attac… |
+| 2026-10-21 15:17:14 | [CVE-2025-60493](https://nvd.nist.gov/vuln/detail/CVE-2025-60493) |  |  | A segmentation violation in the check_media_profile function (/mp4box/mp4box.c) of GPAC Project/MP4Box before 2.5 allow… |
+| 2026-10-21 15:17:14 | [CVE-2025-60497](https://nvd.nist.gov/vuln/detail/CVE-2025-60497) |  |  | A segmentation violation in the GetESD function (/isomedia/track.c) of GPAC Project/MP4Box before 2.5 allows attackers… |
+| 2026-10-21 15:17:15 | [CVE-2026-111832](https://nvd.nist.gov/vuln/detail/CVE-2026-111832) | Critical | 10.0 | Unrestricted Upload of File with Dangerous Type vulnerability in WP Mailster WP Mailster wp-mailster allows Upload a We… |
+| 2026-10-21 15:17:15 | [CVE-2026-111833](https://nvd.nist.gov/vuln/detail/CVE-2026-111833) | High | 7.5 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Bold Grid weForms wefor… |
+| 2026-10-21 15:17:15 | [CVE-2026-111834](https://nvd.nist.gov/vuln/detail/CVE-2026-111834) | Critical | 9.9 | Unrestricted Upload of File with Dangerous Type vulnerability in Kitae Park Mang Board WP mangboard allows Upload a Web… |
+| 2026-10-21 15:17:15 | [CVE-2026-111835](https://nvd.nist.gov/vuln/detail/CVE-2026-111835) | Medium | 6.5 | Missing Authorization vulnerability in bjorntech BjornTech Swish for WooCommerce woo-swish-e-commerce allows Exploiting… |
+| 2026-10-21 15:17:15 | [CVE-2026-111837](https://nvd.nist.gov/vuln/detail/CVE-2026-111837) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wasiliy Strecker… |
+| 2026-10-21 15:17:15 | [CVE-2026-111838](https://nvd.nist.gov/vuln/detail/CVE-2026-111838) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ThemeHunk ThemeHu… |
+| 2026-10-21 15:17:15 | [CVE-2026-111840](https://nvd.nist.gov/vuln/detail/CVE-2026-111840) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in VideoWhisper.com… |
+| 2026-10-21 15:17:16 | [CVE-2026-111848](https://nvd.nist.gov/vuln/detail/CVE-2026-111848) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Dylan Kuhn Geo Ma… |
+| 2026-10-21 15:17:16 | [CVE-2026-111852](https://nvd.nist.gov/vuln/detail/CVE-2026-111852) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPdreams Ajax Sea… |
+| 2026-10-21 15:17:16 | [CVE-2026-112221](https://nvd.nist.gov/vuln/detail/CVE-2026-112221) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brainstorm Force… |
+| 2026-10-21 15:17:16 | [CVE-2026-113779](https://nvd.nist.gov/vuln/detail/CVE-2026-113779) | High | 8.8 | The pfSense REST API package is an unofficial, open-source REST and GraphQL API for pfSense CE and pfSense Plus firewal… |
+| 2026-10-21 15:17:16 | [CVE-2026-113786](https://nvd.nist.gov/vuln/detail/CVE-2026-113786) | Low | 2.3 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.1, an attacker can craft a PDF containing image… |
+| 2026-10-21 15:17:16 | [CVE-2026-114250](https://nvd.nist.gov/vuln/detail/CVE-2026-114250) | Low | 2.1 | A flaw has been found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caac. This i… |
+| 2026-10-21 15:17:17 | [CVE-2026-114251](https://nvd.nist.gov/vuln/detail/CVE-2026-114251) | Low | 2.1 | A vulnerability has been found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caa… |
+| 2026-10-21 15:17:17 | [CVE-2026-114252](https://nvd.nist.gov/vuln/detail/CVE-2026-114252) | Low | 2.1 | A vulnerability was found in itsourcecode Sales-and-Inventory-System up to 0a3c45a78aaff3601b8cf9ce8ba82ff5c345caac. Th… |
+| 2026-10-21 15:17:19 | [CVE-2026-98869](https://nvd.nist.gov/vuln/detail/CVE-2026-98869) |  |  | In the Linux kernel, the following vulnerability has been resolved: bpf: Infer zext_dst based on static register livene… |
 
 ## Data source
 
