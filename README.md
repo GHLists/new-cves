@@ -9,52 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 23:19 UTC
+## Latest list — 2026-10-22 01:18 UTC
 
-New CVEs published between 2026-10-21 22:19 UTC and 2026-10-21 23:19 UTC.
+New CVEs published between 2026-10-22 00:18 UTC and 2026-10-22 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-21T23-19-42-427761Z.csv)
+[Full CSV](data/new-cves-2026-10-22T01-18-42-484687Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-21 23:17:23 | [CVE-2026-100420](https://nvd.nist.gov/vuln/detail/CVE-2026-100420) | Medium | 6.8 | A sensitive information disclosure vulnerability in the cloud-client daemon of Deco BE63 allows authenticated attackers… |
-| 2026-10-21 23:17:24 | [CVE-2026-103090](https://nvd.nist.gov/vuln/detail/CVE-2026-103090) | High | 8.8 | Missing Authentication for Critical Function (CWE-306) and Insufficiently Protected Credentials (CWE-522) in the contro… |
-| 2026-10-21 23:17:25 | [CVE-2026-106053](https://nvd.nist.gov/vuln/detail/CVE-2026-106053) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-21 23:17:25 | [CVE-2026-114439](https://nvd.nist.gov/vuln/detail/CVE-2026-114439) | Medium | 5.5 | A vulnerability was determined in oretnom23 php-travel-agency-system. Affected by this issue is some unknown functional… |
-| 2026-10-21 23:17:25 | [CVE-2026-114440](https://nvd.nist.gov/vuln/detail/CVE-2026-114440) | Medium | 5.5 | A vulnerability was identified in oretnom23 php-travel-agency-system. This affects an unknown part of the file admin/de… |
-| 2026-10-21 23:17:25 | [CVE-2026-114441](https://nvd.nist.gov/vuln/detail/CVE-2026-114441) | Medium | 5.5 | A weakness has been identified in oretnom23 php-travel-agency-system. This issue affects some unknown processing of the… |
-| 2026-10-21 23:17:26 | [CVE-2026-76287](https://nvd.nist.gov/vuln/detail/CVE-2026-76287) | Medium | 5.4 | In Splunk Enterprise versions below 10.4.4, a user that holds a role with the preview_data_management_pipeline capabili… |
-| 2026-10-21 23:17:26 | [CVE-2026-76288](https://nvd.nist.gov/vuln/detail/CVE-2026-76288) | High | 7.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, an unauthenticated user could send a single cr… |
-| 2026-10-21 23:17:26 | [CVE-2026-76289](https://nvd.nist.gov/vuln/detail/CVE-2026-76289) | Medium | 6.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
-| 2026-10-21 23:17:26 | [CVE-2026-76290](https://nvd.nist.gov/vuln/detail/CVE-2026-76290) | High | 7.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, and 10.0.11, an unauthenticated user could send repeated requests t… |
-| 2026-10-21 23:17:26 | [CVE-2026-76291](https://nvd.nist.gov/vuln/detail/CVE-2026-76291) | High | 8.8 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role with the schedule_sea… |
-| 2026-10-21 23:17:27 | [CVE-2026-76292](https://nvd.nist.gov/vuln/detail/CVE-2026-76292) | Medium | 6.5 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, and Splunk Secure Gateway versions below 3.10.… |
-| 2026-10-21 23:17:27 | [CVE-2026-76293](https://nvd.nist.gov/vuln/detail/CVE-2026-76293) | High | 7.2 | In Splunk Enterprise versions below 10.4.3, 10.2.8, 10.0.11, and 9.4.16, a user that holds a role with the edit_manager… |
-| 2026-10-21 23:17:27 | [CVE-2026-76294](https://nvd.nist.gov/vuln/detail/CVE-2026-76294) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
-| 2026-10-21 23:17:27 | [CVE-2026-76295](https://nvd.nist.gov/vuln/detail/CVE-2026-76295) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, and Splunk Secure Gateway versions below 3.10.… |
-| 2026-10-21 23:17:27 | [CVE-2026-76296](https://nvd.nist.gov/vuln/detail/CVE-2026-76296) | Medium | 4.3 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, a user who does not hold the "admin" or "power… |
-| 2026-10-21 23:17:27 | [CVE-2026-76297](https://nvd.nist.gov/vuln/detail/CVE-2026-76297) | Medium | 4.2 | In Splunk Enterprise versions below 10.4.4, 10.2.8, 10.0.11, and 9.4.16, an unauthenticated user could trick a user tha… |
-| 2026-10-21 23:17:27 | [CVE-2026-76298](https://nvd.nist.gov/vuln/detail/CVE-2026-76298) | High | 8.8 | In Splunk Enterprise versions below 10.4.4 and 10.2.8, a user who does not hold the "admin" or "power" Splunk roles cou… |
-| 2026-10-21 23:17:27 | [CVE-2026-76299](https://nvd.nist.gov/vuln/detail/CVE-2026-76299) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:28 | [CVE-2026-76300](https://nvd.nist.gov/vuln/detail/CVE-2026-76300) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:28 | [CVE-2026-76301](https://nvd.nist.gov/vuln/detail/CVE-2026-76301) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:28 | [CVE-2026-76302](https://nvd.nist.gov/vuln/detail/CVE-2026-76302) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:28 | [CVE-2026-76303](https://nvd.nist.gov/vuln/detail/CVE-2026-76303) | Medium | 5.7 | In Splunk SOAR versions below 8.7.0, a user that holds a role with the install_apps capability could store attacker-con… |
-| 2026-10-21 23:17:28 | [CVE-2026-76304](https://nvd.nist.gov/vuln/detail/CVE-2026-76304) | Medium | 4.3 | In Splunk SOAR versions below 8.7.0, an authenticated user who does not hold a role with permission to edit Automation… |
-| 2026-10-21 23:17:28 | [CVE-2026-76305](https://nvd.nist.gov/vuln/detail/CVE-2026-76305) | Medium | 6.5 | In Splunk SOAR versions below 8.7.0, an authenticated user who does not hold a role with permission to view apps could… |
-| 2026-10-21 23:17:28 | [CVE-2026-76306](https://nvd.nist.gov/vuln/detail/CVE-2026-76306) | High | 7.5 | In Splunk SOAR versions below 8.7.0, a user that has the "Observer" role could use query filters in the Representationa… |
-| 2026-10-21 23:17:28 | [CVE-2026-76307](https://nvd.nist.gov/vuln/detail/CVE-2026-76307) | High | 7.2 | In Splunk SOAR versions below 8.7.0, a user that holds a role with the Users and Roles view permission could use the Re… |
-| 2026-10-21 23:17:29 | [CVE-2026-76308](https://nvd.nist.gov/vuln/detail/CVE-2026-76308) | Medium | 6.5 | In Splunk SOAR versions below 8.7.0, an authenticated user could change the Enterprise Security edition through the Rep… |
-| 2026-10-21 23:17:29 | [CVE-2026-76406](https://nvd.nist.gov/vuln/detail/CVE-2026-76406) | Medium | 5.9 | In Splunk SOAR versions below 8.7.0, an unauthenticated user with access to encrypted credential data from an affected… |
-| 2026-10-21 23:17:29 | [CVE-2026-76407](https://nvd.nist.gov/vuln/detail/CVE-2026-76407) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:29 | [CVE-2026-76408](https://nvd.nist.gov/vuln/detail/CVE-2026-76408) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:29 | [CVE-2026-76526](https://nvd.nist.gov/vuln/detail/CVE-2026-76526) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:29 | [CVE-2026-76527](https://nvd.nist.gov/vuln/detail/CVE-2026-76527) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:29 | [CVE-2026-76528](https://nvd.nist.gov/vuln/detail/CVE-2026-76528) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:29 | [CVE-2026-76529](https://nvd.nist.gov/vuln/detail/CVE-2026-76529) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:30 | [CVE-2026-76531](https://nvd.nist.gov/vuln/detail/CVE-2026-76531) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
-| 2026-10-21 23:17:30 | [CVE-2026-89052](https://nvd.nist.gov/vuln/detail/CVE-2026-89052) | Medium | 5.9 | A hardcoded cryptographic key management vulnerability exists in Archer C6 due to the use of a universal cryptographic… |
-| 2026-10-21 23:17:30 | [CVE-2026-76530](https://nvd.nist.gov/vuln/detail/CVE-2026-76530) |  |  | As part of Cisco's ongoing commitment to proactive security and product quality, Cisco has conducted a comprehensive in… |
+| 2026-10-22 01:16:57 | [CVE-2026-103515](https://nvd.nist.gov/vuln/detail/CVE-2026-103515) | Low | 2.7 | GitLab has remediated an issue in GitLab EE affecting all versions from 19.2 before 19.3.6, 19.4 before 19.4.3, and 19.… |
+| 2026-10-22 01:16:57 | [CVE-2026-105711](https://nvd.nist.gov/vuln/detail/CVE-2026-105711) | Low | 3.5 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.0 before 19.3.6, 19.4 before 19.4.3, and… |
+| 2026-10-22 01:16:57 | [CVE-2026-105777](https://nvd.nist.gov/vuln/detail/CVE-2026-105777) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 17.6.5 before 19.3.6, 19.4 before 19.4.3, an… |
+| 2026-10-22 01:16:57 | [CVE-2026-110264](https://nvd.nist.gov/vuln/detail/CVE-2026-110264) | Critical | 10.0 | An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.11.13, 19.0 before 19.0.10, 19.1… |
+| 2026-10-22 01:16:57 | [CVE-2026-112212](https://nvd.nist.gov/vuln/detail/CVE-2026-112212) | High | 7.5 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.3 before 19.3.6, 19.4 before 19.4.3, and… |
+| 2026-10-22 01:16:57 | [CVE-2026-112326](https://nvd.nist.gov/vuln/detail/CVE-2026-112326) | Low | 3.1 | GitLab has remediated an issue in GitLab EE affecting all versions from 17.8 before 19.3.6, 19.4 before 19.4.3, and 19.… |
+| 2026-10-22 01:16:58 | [CVE-2026-114574](https://nvd.nist.gov/vuln/detail/CVE-2026-114574) | Low | 2.1 | A security vulnerability has been detected in massCodeIO massCode 5.10. Affected is an unknown function of the file src… |
+| 2026-10-22 01:16:58 | [CVE-2026-114575](https://nvd.nist.gov/vuln/detail/CVE-2026-114575) | Critical | 9.3 | A flaw has been found in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected by this issue is the function UploadCustomMod… |
+| 2026-10-22 01:16:58 | [CVE-2026-114714](https://nvd.nist.gov/vuln/detail/CVE-2026-114714) | Medium | 5.3 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by a path traversal vulnerability in the squirrelmai… |
+| 2026-10-22 01:16:58 | [CVE-2026-112378](https://nvd.nist.gov/vuln/detail/CVE-2026-112378) | Medium | 4.3 | GitLab has remediated an issue in GitLab EE affecting all versions from 17.8 before 19.3.6, 19.4 before 19.4.3, and 19.… |
+| 2026-10-22 01:16:59 | [CVE-2026-12664](https://nvd.nist.gov/vuln/detail/CVE-2026-12664) | Medium | 6.8 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.2 before 19.3.6, 19.4 before 19.4.3, and… |
+| 2026-10-22 01:16:59 | [CVE-2026-13319](https://nvd.nist.gov/vuln/detail/CVE-2026-13319) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 15.10 before 19.3.6, 19.4 before 19.4.3, and… |
+| 2026-10-22 01:16:59 | [CVE-2026-14288](https://nvd.nist.gov/vuln/detail/CVE-2026-14288) | Low | 3.1 | GitLab has remediated an issue in GitLab EE affecting all versions from 17.4 before 19.3.6, 19.4 before 19.4.3, and 19.… |
+| 2026-10-22 01:16:59 | [CVE-2026-15723](https://nvd.nist.gov/vuln/detail/CVE-2026-15723) | High | 8.2 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.6, 19.4 before 19.4.3, and… |
+| 2026-10-22 01:16:59 | [CVE-2026-16255](https://nvd.nist.gov/vuln/detail/CVE-2026-16255) | Medium | 5.9 | GitLab has remediated an issue in GitLab EE affecting all versions from 12.0 before 19.3.6, 19.4 before 19.4.3, and 19.… |
 
 ## Data source
 
