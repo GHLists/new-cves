@@ -9,28 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 06:18 UTC
+## Latest list — 2026-10-22 07:19 UTC
 
-New CVEs published between 2026-10-22 05:19 UTC and 2026-10-22 06:18 UTC.
+New CVEs published between 2026-10-22 06:18 UTC and 2026-10-22 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T06-18-58-44546Z.csv)
+[Full CSV](data/new-cves-2026-10-22T07-19-00-610971Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 06:17:12 | [CVE-2026-100142](https://nvd.nist.gov/vuln/detail/CVE-2026-100142) |  |  | The FluentCart A New Era of eCommerce WordPress plugin before 2.2.0 does not verify that a stored customer address sele… |
-| 2026-10-22 06:17:13 | [CVE-2026-103234](https://nvd.nist.gov/vuln/detail/CVE-2026-103234) |  |  | The WP Ultimate Review WordPress plugin before 2.4.5 does not neutralise shortcodes in all of the review fields submitt… |
-| 2026-10-22 06:17:13 | [CVE-2026-109927](https://nvd.nist.gov/vuln/detail/CVE-2026-109927) |  |  | The HIPAA Forms WordPress plugin before 3.3.2 does not perform a capability check when handling a request that rebuilds… |
-| 2026-10-22 06:17:13 | [CVE-2026-109931](https://nvd.nist.gov/vuln/detail/CVE-2026-109931) |  |  | The Infility Global WordPress plugin before 2.16.25 does not perform any authorisation or nonce check on an AJAX action… |
-| 2026-10-22 06:17:13 | [CVE-2026-109987](https://nvd.nist.gov/vuln/detail/CVE-2026-109987) |  |  | The PixelYourSite WordPress plugin before 11.4.3, PixelYourSite Pro WordPress plugin before 12.6.8 do not sanitise and… |
-| 2026-10-22 06:17:13 | [CVE-2026-110010](https://nvd.nist.gov/vuln/detail/CVE-2026-110010) |  |  | The MB Custom Post Types & Custom Taxonomies WordPress plugin before 2.12.3 does not perform any capability or authenti… |
-| 2026-10-22 06:17:14 | [CVE-2026-110011](https://nvd.nist.gov/vuln/detail/CVE-2026-110011) |  |  | The MB Custom Post Types & Custom Taxonomies WordPress plugin before 2.12.3 does not perform a capability check in its… |
-| 2026-10-22 06:17:14 | [CVE-2026-111958](https://nvd.nist.gov/vuln/detail/CVE-2026-111958) |  |  | The Royal MCP WordPress plugin before 1.5.7 does not limit a preview-link token to the single preview it was issued for… |
-| 2026-10-22 06:17:14 | [CVE-2026-111971](https://nvd.nist.gov/vuln/detail/CVE-2026-111971) |  |  | The Photo Engine (Media Organizer & Lightroom) WordPress plugin before 6.5.8 does not sanitise and escape collection an… |
-| 2026-10-22 06:17:14 | [CVE-2026-111972](https://nvd.nist.gov/vuln/detail/CVE-2026-111972) |  |  | The Photo Engine (Media Organizer & Lightroom) WordPress plugin before 6.5.8 does not verify that a user is authorised… |
-| 2026-10-22 06:17:14 | [CVE-2026-114570](https://nvd.nist.gov/vuln/detail/CVE-2026-114570) | Medium | 4.9 | WordPress Core is vulnerable to Stored Cross-Site Scripting via Quick Edit in all versions up to, and including, 7.0.2… |
-| 2026-10-22 06:17:15 | [CVE-2026-78392](https://nvd.nist.gov/vuln/detail/CVE-2026-78392) |  |  | The Link Library WordPress plugin before 7.9.6 does not sanitise and escape a link field before outputting it inside an… |
-| 2026-10-22 06:17:15 | [CVE-2026-88849](https://nvd.nist.gov/vuln/detail/CVE-2026-88849) |  |  | The MasterStudy LMS WordPress Plugin WordPress plugin before 3.7.55 does not verify that a user targeted through its st… |
-| 2026-10-22 06:17:15 | [CVE-2026-97328](https://nvd.nist.gov/vuln/detail/CVE-2026-97328) |  |  | The WebP Express WordPress plugin before 0.25.16 does not escape values that its bundled HTML parser re-emits into elem… |
+| 2026-10-22 07:16:40 | [CVE-2026-103634](https://nvd.nist.gov/vuln/detail/CVE-2026-103634) |  |  | Out-of-bounds read and write in the Count-Min sketch deserialization of Apache DataSketches C++ (repo: datasketches-cpp… |
+| 2026-10-22 07:16:40 | [CVE-2026-105270](https://nvd.nist.gov/vuln/detail/CVE-2026-105270) | High | 8.7 | Allocation of Resources Without Limits or Throttling vulnerability in esaml_binding in dropbox esaml allows an unauthen… |
+| 2026-10-22 07:16:41 | [CVE-2026-111847](https://nvd.nist.gov/vuln/detail/CVE-2026-111847) | Medium | 5.4 | Missing Authorization vulnerability in Kings Plugins MarketKing marketking-multivendor-marketplace-for-woocommerce allo… |
+| 2026-10-22 07:16:41 | [CVE-2026-112826](https://nvd.nist.gov/vuln/detail/CVE-2026-112826) | Medium | 5.3 | Missing Authorization vulnerability in eLightUp Falcon – WordPress Optimizations & Tweaks falcon allows Exploiting Inco… |
+| 2026-10-22 07:16:41 | [CVE-2026-112843](https://nvd.nist.gov/vuln/detail/CVE-2026-112843) | Medium | 4.3 | Missing Authorization vulnerability in WP Chill Strong Testimonials strong-testimonials allows Exploiting Incorrectly C… |
+| 2026-10-22 07:16:41 | [CVE-2026-112867](https://nvd.nist.gov/vuln/detail/CVE-2026-112867) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in H5P H5P h5p allow… |
+| 2026-10-22 07:16:41 | [CVE-2026-114175](https://nvd.nist.gov/vuln/detail/CVE-2026-114175) | Medium | 5.4 | Missing Authorization vulnerability in DigitalME eRoom eroom-zoom-meetings-webinar allows Exploiting Incorrectly Config… |
+| 2026-10-22 07:16:41 | [CVE-2026-114177](https://nvd.nist.gov/vuln/detail/CVE-2026-114177) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in Xpro Xpro Elementor Addons xpro-elementor-addons allows Cross Site R… |
+| 2026-10-22 07:16:42 | [CVE-2026-114180](https://nvd.nist.gov/vuln/detail/CVE-2026-114180) | Medium | 5.3 | Missing Authorization vulnerability in Wpmet Metform metform allows Exploiting Incorrectly Configured Access Control Se… |
+| 2026-10-22 07:16:42 | [CVE-2026-114182](https://nvd.nist.gov/vuln/detail/CVE-2026-114182) | Medium | 4.3 | Missing Authorization vulnerability in IdeaBox Creations PowerPack Addons for Elementor powerpack-lite-for-elementor al… |
+| 2026-10-22 07:16:42 | [CVE-2026-114184](https://nvd.nist.gov/vuln/detail/CVE-2026-114184) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPVibes Elementor… |
+| 2026-10-22 07:16:42 | [CVE-2026-114457](https://nvd.nist.gov/vuln/detail/CVE-2026-114457) | Low | 3.7 | A flaw was found in mod_qos. An unauthenticated remote attacker could cause a Denial of Service (DoS) by sending a spec… |
+| 2026-10-22 07:16:42 | [CVE-2026-114458](https://nvd.nist.gov/vuln/detail/CVE-2026-114458) | Medium | 5.9 | A flaw was found in mod_qos. An unauthenticated remote attacker can cause a Denial of Service (DoS) by maintaining nume… |
+| 2026-10-22 07:16:42 | [CVE-2026-114459](https://nvd.nist.gov/vuln/detail/CVE-2026-114459) | Low | 3.7 | A flaw was found in mod_qos. When inspecting HTTP response bodies, improper boundary checking can cause the module to r… |
+| 2026-10-22 07:16:42 | [CVE-2026-114460](https://nvd.nist.gov/vuln/detail/CVE-2026-114460) | Medium | 5.3 | A flaw was found in mod_qos. An off-by-one pointer calculation error occurs when merging request body parameters with a… |
 
 ## Data source
 
