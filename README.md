@@ -9,20 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 03:18 UTC
+## Latest list — 2026-10-22 05:19 UTC
 
-New CVEs published between 2026-10-22 02:19 UTC and 2026-10-22 03:18 UTC.
+New CVEs published between 2026-10-22 04:21 UTC and 2026-10-22 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T03-18-41-261643Z.csv)
+[Full CSV](data/new-cves-2026-10-22T05-19-28-538549Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 03:16:31 | [CVE-2026-110353](https://nvd.nist.gov/vuln/detail/CVE-2026-110353) | High | 7.5 | HAProxy 3.2 before 3.4.6 allows a remote unauthenticated attacker to cause a denial of service (worker-thread CPU exhau… |
-| 2026-10-22 03:16:31 | [CVE-2026-110354](https://nvd.nist.gov/vuln/detail/CVE-2026-110354) | High | 7.5 | HAProxy 3 before 3.4.6 allows a remote unauthenticated attacker to cause a denial of service (persistent worker-thread… |
-| 2026-10-22 03:16:38 | [CVE-2026-114729](https://nvd.nist.gov/vuln/detail/CVE-2026-114729) | Medium | 5.3 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by a remote content blocking bypass. rcube_washtml i… |
-| 2026-10-22 03:16:38 | [CVE-2026-114730](https://nvd.nist.gov/vuln/detail/CVE-2026-114730) | High | 7.2 | Roundcube Webmail 1.6.14 before 1.6.20 and 1.7.0 before 1.7.5 is affected by a server-side request forgery filter bypas… |
-| 2026-10-22 03:16:38 | [CVE-2026-114731](https://nvd.nist.gov/vuln/detail/CVE-2026-114731) | Medium | 5.3 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by an uncontrolled resource consumption vulnerabilit… |
-| 2026-10-22 03:16:38 | [CVE-2026-114732](https://nvd.nist.gov/vuln/detail/CVE-2026-114732) | Medium | 6.8 | Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by an improper authentication vulnerability in multi… |
+| 2026-10-22 05:16:49 | [CVE-2026-114219](https://nvd.nist.gov/vuln/detail/CVE-2026-114219) | Critical | 9.1 | NT OneAPP developed by NewType Infortech has a Hard-coded Credentials vulnerability. Unauthenticated remote attackers c… |
+| 2026-10-22 05:16:50 | [CVE-2026-114220](https://nvd.nist.gov/vuln/detail/CVE-2026-114220) | Critical | 9.3 | NT OneAPP developed by NewType Infortech has an Improper Certificate Validation vulnerability. Unauthenticated network-… |
+| 2026-10-22 05:16:50 | [CVE-2026-114221](https://nvd.nist.gov/vuln/detail/CVE-2026-114221) | Medium | 5.9 | NT OneAPP developed by NewType Infortech has a Credential Disclosure vulnerability. Unauthenticated remote attackers ca… |
+| 2026-10-22 05:16:50 | [CVE-2026-114222](https://nvd.nist.gov/vuln/detail/CVE-2026-114222) | Medium | 6.9 | NT OneAPP developed by NewType Infortech has an Authentication Bypass vulnerability. Unauthenticated local attackers ca… |
+| 2026-10-22 05:16:50 | [CVE-2026-114223](https://nvd.nist.gov/vuln/detail/CVE-2026-114223) | Medium | 6.7 | NT OneAPP developed by NewType Infortech has an Exposure of Sensitive Information vulnerability. Unauthenticated local… |
 
 ## Data source
 
