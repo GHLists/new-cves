@@ -9,19 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 21:19 UTC
+## Latest list — 2026-10-22 22:18 UTC
 
-New CVEs published between 2026-10-22 20:18 UTC and 2026-10-22 21:19 UTC.
+New CVEs published between 2026-10-22 21:19 UTC and 2026-10-22 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T21-19-16-55858Z.csv)
+[Full CSV](data/new-cves-2026-10-22T22-18-46-682948Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 21:17:16 | [CVE-2026-114583](https://nvd.nist.gov/vuln/detail/CVE-2026-114583) | Medium | 6.9 | tarfile.tar_filter could be bypassed using crafted link entries, including symlinks with empty or directory-like names,… |
-| 2026-10-22 21:17:16 | [CVE-2026-114614](https://nvd.nist.gov/vuln/detail/CVE-2026-114614) | Low | 2.6 | Authlib is a Python library which builds OAuth and OpenID Connect servers. From 0.13 until 1.8.0, authlib.common.securi… |
-| 2026-10-22 21:17:16 | [CVE-2026-114625](https://nvd.nist.gov/vuln/detail/CVE-2026-114625) | Critical | 9.4 | VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a remote attacker to access privil… |
-| 2026-10-22 21:17:17 | [CVE-2026-115417](https://nvd.nist.gov/vuln/detail/CVE-2026-115417) | High | 8.2 | Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in AWS aws-c-mqtt before 0.16.2 mig… |
-| 2026-10-22 21:17:17 | [CVE-2026-115419](https://nvd.nist.gov/vuln/detail/CVE-2026-115419) | High | 8.6 | The A2A server component in Amazon Strands Agents SDK for Python before 1.43.0 and Amazon Strands Agents SDK for TypeSc… |
+| 2026-10-22 22:17:52 | [CVE-2026-105014](https://nvd.nist.gov/vuln/detail/CVE-2026-105014) | Critical | 9.1 | Improper neutralization of special elements used in a command ('command injection') in Azure Pipelines allows an unauth… |
+| 2026-10-22 22:17:52 | [CVE-2026-105265](https://nvd.nist.gov/vuln/detail/CVE-2026-105265) | Medium | 6.0 | A vulnerability exists in the the time zone parameter and does not properly validate user input, which may allow an aut… |
+| 2026-10-22 22:17:58 | [CVE-2026-108456](https://nvd.nist.gov/vuln/detail/CVE-2026-108456) | High | 7.7 | Server-side request forgery (ssrf) in Azure AI Foundry allows an authorized attacker to elevate privileges over a netwo… |
+| 2026-10-22 22:17:59 | [CVE-2026-109122](https://nvd.nist.gov/vuln/detail/CVE-2026-109122) | Critical | 9.4 | The network management service on affected Kiloview E3 NDI encoder firmware fails to sanitize one field used when confi… |
+| 2026-10-22 22:18:00 | [CVE-2026-110063](https://nvd.nist.gov/vuln/detail/CVE-2026-110063) | Critical | 10.0 | Improper link resolution before file access ('link following') in VM Inspector for Azure Virtual Machines allows an una… |
+| 2026-10-22 22:18:00 | [CVE-2026-111100](https://nvd.nist.gov/vuln/detail/CVE-2026-111100) | Medium | 6.9 | The ONVIF device service on the E3 responds to certain informational requests without requiring authentication. A remot… |
+| 2026-10-22 22:18:01 | [CVE-2026-111594](https://nvd.nist.gov/vuln/detail/CVE-2026-111594) | Critical | 9.2 | InterSystems IRIS for Health has TLS/SSL encryption turned off by default, which may enable an attacker to view transmi… |
+| 2026-10-22 22:18:04 | [CVE-2026-114615](https://nvd.nist.gov/vuln/detail/CVE-2026-114615) | High | 7.4 | Authlib is a Python library which builds OAuth and OpenID Connect servers. From 1.3.1 until 1.9.0, OctKey.import_key()… |
+| 2026-10-22 22:18:04 | [CVE-2026-114616](https://nvd.nist.gov/vuln/detail/CVE-2026-114616) | High | 7.4 | Authlib is a Python library which builds OAuth and OpenID Connect servers. Prior to 1.9.1, Authlib's OctKey.import_key(… |
+| 2026-10-22 22:18:04 | [CVE-2026-114617](https://nvd.nist.gov/vuln/detail/CVE-2026-114617) | Medium | 4.2 | Authlib is a Python library which builds OAuth and OpenID Connect servers. Prior to 1.9.0, OpenIDMixin.parse_id_token()… |
+| 2026-10-22 22:18:04 | [CVE-2026-114618](https://nvd.nist.gov/vuln/detail/CVE-2026-114618) | Medium | 6.8 | Authlib is a Python library which builds OAuth and OpenID Connect servers. Prior to 1.9.0, the default RFC 7523 JWTBear… |
+| 2026-10-22 22:18:04 | [CVE-2026-114619](https://nvd.nist.gov/vuln/detail/CVE-2026-114619) | Medium | 4.6 | Authlib is a Python library which builds OAuth and OpenID Connect servers. Prior to 1.9.0, OpenIDImplicitGrant.validate… |
+| 2026-10-22 22:18:05 | [CVE-2026-114620](https://nvd.nist.gov/vuln/detail/CVE-2026-114620) | Medium | 5.4 | Authlib is a Python library which builds OAuth and OpenID Connect servers. Prior to 1.9.0, Authlib's RFC 9101 JWTAuthen… |
+| 2026-10-22 22:18:06 | [CVE-2026-115221](https://nvd.nist.gov/vuln/detail/CVE-2026-115221) | Medium | 5.4 | A flaw was found in FreeIPA. An improper authorization check allows an authenticated host to retrieve and revoke digita… |
+| 2026-10-22 22:18:06 | [CVE-2026-115424](https://nvd.nist.gov/vuln/detail/CVE-2026-115424) | Medium | 5.5 | A flaw was found in the OpenShift client oc. When extracting container image layers with oc image extract, the applicat… |
+| 2026-10-22 22:18:06 | [CVE-2026-115449](https://nvd.nist.gov/vuln/detail/CVE-2026-115449) | Low | 3.5 | A flaw was found in libslirp. When handling ICMP echo requests, the reply length is not updated to match the actual dat… |
 
 ## Data source
 
