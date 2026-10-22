@@ -9,26 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:21 UTC
+## Latest list — 2026-10-22 17:22 UTC
 
-New CVEs published between 2026-10-22 15:18 UTC and 2026-10-22 16:21 UTC.
+New CVEs published between 2026-10-22 16:21 UTC and 2026-10-22 17:22 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T16-21-09-065205Z.csv)
+[Full CSV](data/new-cves-2026-10-22T17-22-03-139413Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 16:17:34 | [CVE-2026-114485](https://nvd.nist.gov/vuln/detail/CVE-2026-114485) |  |  | Insufficient protection of sensitive information in the user list endpoint in Devolutions Server 2026.3.10.0 and earlie… |
-| 2026-10-22 16:17:34 | [CVE-2026-114486](https://nvd.nist.gov/vuln/detail/CVE-2026-114486) |  |  | Incorrect authorization in the Devolutions Gateway token generation in Devolutions Server 2026.3.10.0 and earlier allow… |
-| 2026-10-22 16:17:34 | [CVE-2026-114487](https://nvd.nist.gov/vuln/detail/CVE-2026-114487) |  |  | Missing authorization in the PAM AD computer import endpoint in Devolutions Server 2026.3.5.0 through 2026.3.10.0 and 2… |
-| 2026-10-22 16:17:34 | [CVE-2026-114603](https://nvd.nist.gov/vuln/detail/CVE-2026-114603) | Medium | 5.3 | OpenTelemetry Python provides the Python API and SDK for OpenTelemetry. Prior to 1.45.1, the opentelemetry-api function… |
-| 2026-10-22 16:17:35 | [CVE-2026-115450](https://nvd.nist.gov/vuln/detail/CVE-2026-115450) | High | 7.1 | External Control of Assumed-Immutable Web Parameter (CWE-472) in the cart and checkout flow of MarcosCamara01 Ecommerce… |
-| 2026-10-22 16:17:35 | [CVE-2026-115453](https://nvd.nist.gov/vuln/detail/CVE-2026-115453) | High | 7.1 | Authorization Bypass Through User-Controlled Key (CWE-639) in the cart and wishlist repositories of MarcosCamara01 Ecom… |
-| 2026-10-22 16:17:35 | [CVE-2026-115454](https://nvd.nist.gov/vuln/detail/CVE-2026-115454) | Medium | 5.3 | An excessive resource allocation issue in the remote workflow editing capabilities of KNIME Business Hub prior to versi… |
-| 2026-10-22 16:17:35 | [CVE-2026-115482](https://nvd.nist.gov/vuln/detail/CVE-2026-115482) | High | 7.5 | In lsquic before 4.9.0, the HTTP/3 implementation can use an excessive amount of memory because the number of buffered… |
-| 2026-10-22 16:17:35 | [CVE-2026-115494](https://nvd.nist.gov/vuln/detail/CVE-2026-115494) | Medium | 5.3 | A flaw in the cross-site request forgery (CSRF) prevention of KNIME Business Hub prior to version 1.19.0 allows an auth… |
-| 2026-10-22 16:17:35 | [CVE-2026-115496](https://nvd.nist.gov/vuln/detail/CVE-2026-115496) | Medium | 6.9 | Overly informative error messages in the catalog functionality of KNIME Business Hub prior to version 1.18.5 may allow… |
-| 2026-10-22 16:17:36 | [CVE-2026-51954](https://nvd.nist.gov/vuln/detail/CVE-2026-51954) |  |  | An issue in Webasyst Framework 4.0.3 and before allows a remote attacker to execute arbitrary code via a crafted OAuth… |
-| 2026-10-22 16:19:16 | [CVE-2026-94482](https://nvd.nist.gov/vuln/detail/CVE-2026-94482) | High | 8.2 | Next.js is a React framework for building full-stack web applications. From 13.0.0 until 15.5.28 and 16.4.1, crafted re… |
+| 2026-10-22 17:16:56 | [CVE-2026-104068](https://nvd.nist.gov/vuln/detail/CVE-2026-104068) | High | 8.6 | JetBackup plugin for WordPress before 3.1.24.10 contains a symlink-based arbitrary file write vulnerability that allows… |
+| 2026-10-22 17:16:58 | [CVE-2026-114605](https://nvd.nist.gov/vuln/detail/CVE-2026-114605) | High | 7.5 | dnspython is a DNS toolkit for Python. Prior to 2.9.0, dns.name.from_wire_parser follows attacker-controlled DNS compre… |
+| 2026-10-22 17:16:58 | [CVE-2026-114606](https://nvd.nist.gov/vuln/detail/CVE-2026-114606) | Medium | 5.6 | draw.io Desktop is the official Electron build of draw.io. Prior to 31.4.4, draw.io Desktop is vulnerable to arbitrary… |
+| 2026-10-22 17:16:58 | [CVE-2026-114607](https://nvd.nist.gov/vuln/detail/CVE-2026-114607) | Critical | 9.1 | Better Auth is an authentication and authorization library for TypeScript. From 1.4.0-beta.18 until 1.7.7, deployments… |
+| 2026-10-22 17:16:58 | [CVE-2026-114608](https://nvd.nist.gov/vuln/detail/CVE-2026-114608) | Medium | 5.4 | Pylint is a static code analyser for Python. From 0.15.2 until 4.0.9, Pylint stores module statistics in predictable fi… |
+| 2026-10-22 17:16:58 | [CVE-2026-115416](https://nvd.nist.gov/vuln/detail/CVE-2026-115416) | Medium | 6.3 | Incorrect authorization checks in Amazon Athena engine version 3 query processing could have allowed an authenticated u… |
+| 2026-10-22 17:16:59 | [CVE-2026-115502](https://nvd.nist.gov/vuln/detail/CVE-2026-115502) | Medium | 6.3 | A missing authorization check allows anyone having access to a "link without login" for a DataApp to list and potential… |
+| 2026-10-22 17:16:59 | [CVE-2026-115513](https://nvd.nist.gov/vuln/detail/CVE-2026-115513) | Medium | 6.3 | OpenCATS before 0.12.0 contains a stored cross-site scripting vulnerability that allows a low-privileged authenticated… |
+| 2026-10-22 17:16:59 | [CVE-2026-67597](https://nvd.nist.gov/vuln/detail/CVE-2026-67597) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-22 17:16:59 | [CVE-2026-75507](https://nvd.nist.gov/vuln/detail/CVE-2026-75507) | High | 7.5 | GraphQL-core is a Python port of the GraphQL.js reference implementation. From 3.0.0 until 3.2.12 and 3.3.0rc1, the Ove… |
+| 2026-10-22 17:16:59 | [CVE-2026-75508](https://nvd.nist.gov/vuln/detail/CVE-2026-75508) | High | 7.5 | GraphQL-core is a Python port of the GraphQL.js reference implementation. From 3.2.3 until 3.2.12 and 3.3.0rc1, the par… |
+| 2026-10-22 17:17:02 | [CVE-2026-97631](https://nvd.nist.gov/vuln/detail/CVE-2026-97631) | Critical | 9.5 | EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds Write”, Classic Buffer Overflow, and “Incor… |
 
 ## Data source
 
