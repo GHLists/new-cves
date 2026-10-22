@@ -9,31 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:18 UTC
+## Latest list — 2026-10-22 15:18 UTC
 
-New CVEs published between 2026-10-22 13:18 UTC and 2026-10-22 14:18 UTC.
+New CVEs published between 2026-10-22 14:18 UTC and 2026-10-22 15:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T14-18-40-110979Z.csv)
+[Full CSV](data/new-cves-2026-10-22T15-18-42-423882Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 14:17:37 | [CVE-2026-107079](https://nvd.nist.gov/vuln/detail/CVE-2026-107079) |  |  | An issue in Systrome Validation & Certification 1.0 allows an attacker to cause a denial of service via the t URL param… |
-| 2026-10-22 14:17:37 | [CVE-2026-111497](https://nvd.nist.gov/vuln/detail/CVE-2026-111497) | Critical | 9.2 | A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on… |
-| 2026-10-22 14:17:38 | [CVE-2026-113582](https://nvd.nist.gov/vuln/detail/CVE-2026-113582) | High | 8.7 | UNSUPPORTED WHEN ASSIGNED Improper restriction of XML external entity references in Apache Abdera allows an attacker to… |
-| 2026-10-22 14:17:38 | [CVE-2026-115247](https://nvd.nist.gov/vuln/detail/CVE-2026-115247) | Low | 2.1 | A security vulnerability has been detected in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa0… |
-| 2026-10-22 14:17:38 | [CVE-2026-115248](https://nvd.nist.gov/vuln/detail/CVE-2026-115248) | Low | 2.1 | A vulnerability was detected in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa07ee693dc4d9a29… |
-| 2026-10-22 14:17:38 | [CVE-2026-115249](https://nvd.nist.gov/vuln/detail/CVE-2026-115249) | Low | 2.0 | A flaw has been found in subhajitkhan online-clinic-management-system up to e9ee77a8827a1446220fa07ee693dc4d9a29a578. I… |
-| 2026-10-22 14:17:39 | [CVE-2026-115400](https://nvd.nist.gov/vuln/detail/CVE-2026-115400) | Medium | 6.7 | crawlseo before version 0.2.5 contains a cleartext storage vulnerability that allows attackers with database read acces… |
-| 2026-10-22 14:17:39 | [CVE-2026-115411](https://nvd.nist.gov/vuln/detail/CVE-2026-115411) | Medium | 5.3 | crawlseo before version 0.2.4 contains a server-side request forgery vulnerability in its crawler engine where isPrivat… |
-| 2026-10-22 14:17:43 | [CVE-2026-66279](https://nvd.nist.gov/vuln/detail/CVE-2026-66279) | High | 7.2 | In Connect SDK 4.3.1 and earlier and Flex SDK 3.7.7 and earlier, a message with invalid security settings may bypass au… |
-| 2026-10-22 14:17:43 | [CVE-2026-66281](https://nvd.nist.gov/vuln/detail/CVE-2026-66281) | Medium | 6.0 | In EmberZNet 9.1.1 and earlier, a malformed Discover Attributes command can result in a loop with unreachable exit cond… |
-| 2026-10-22 14:17:44 | [CVE-2026-66282](https://nvd.nist.gov/vuln/detail/CVE-2026-66282) | Medium | 6.0 | In EmberZNet 9.1.1 and earlier, a malformed Publish Billing Period command can result in a recursive function call that… |
-| 2026-10-22 14:17:50 | [CVE-2026-85079](https://nvd.nist.gov/vuln/detail/CVE-2026-85079) | High | 7.5 | In EmberZNet 9.1.1 and earlier, a malformed Simple_Desc_req response can result in an out-of-bounds write potentially l… |
-| 2026-10-22 14:17:51 | [CVE-2026-85080](https://nvd.nist.gov/vuln/detail/CVE-2026-85080) | Medium | 6.0 | In EmberZNet 9.1.1 and earlier, a malformed GetGroupMembership message can result in an out-of-bounds write leading to… |
-| 2026-10-22 14:17:51 | [CVE-2026-89409](https://nvd.nist.gov/vuln/detail/CVE-2026-89409) | Medium | 5.3 | In Z-Wave SDK 8.1.1 and earlier (for 700/800 series devices) and 6.85.02 and earlier (for 500 series devices), missing… |
-| 2026-10-22 14:17:51 | [CVE-2026-89410](https://nvd.nist.gov/vuln/detail/CVE-2026-89410) | Medium | 5.1 | In Z-Wave SDK 8.1.1 and earlier, a malformed NCP SPI command can trigger out-of-bounds reads that leak sensitive inform… |
-| 2026-10-22 14:17:51 | [CVE-2026-92709](https://nvd.nist.gov/vuln/detail/CVE-2026-92709) | High | 8.1 | Rsyslog is a rocket-fast system for log processing. From versions 1.15.0 to 8.2610.0, rsyslog's omfile dynaFile facilit… |
-| 2026-10-22 14:17:51 | [CVE-2026-94502](https://nvd.nist.gov/vuln/detail/CVE-2026-94502) | High | 7.5 | In EmberZNet 9.1.1 and earlier, a malformed Publish Price Matrix command can result in an out-of-bounds write potential… |
+| 2026-10-22 15:17:04 | [CVE-2026-111181](https://nvd.nist.gov/vuln/detail/CVE-2026-111181) | High | 7.5 | body-parser is body parsing middleware for Node.js and Express. In versions before 1.20.9 and in versions from 2.0.0 be… |
+| 2026-10-22 15:17:05 | [CVE-2026-113872](https://nvd.nist.gov/vuln/detail/CVE-2026-113872) | High | 7.5 | multer is a middleware for Node.js that handles multipart/form-data file uploads. In versions from 2.0.0 before 2.5.0,… |
+| 2026-10-22 15:17:05 | [CVE-2026-114510](https://nvd.nist.gov/vuln/detail/CVE-2026-114510) | High | 7.1 | Flexible GraphRAG is a Python framework for building graph and retrieval-augmented generation applications across multi… |
+| 2026-10-22 15:17:05 | [CVE-2026-114515](https://nvd.nist.gov/vuln/detail/CVE-2026-114515) | Medium | 6.5 | OCO-Server is a self-hosted endpoint management application for computer inventory, software deployment, and mobile dev… |
+| 2026-10-22 15:17:05 | [CVE-2026-16477](https://nvd.nist.gov/vuln/detail/CVE-2026-16477) | High | 8.4 | CleanShot X for macOS insecurely deserializes untrusted data embedded in a .cleanshot project file (editable screenshot… |
+| 2026-10-22 15:17:05 | [CVE-2026-61791](https://nvd.nist.gov/vuln/detail/CVE-2026-61791) | High | 7.4 | OCO-Server is a self-hosted endpoint management application for computer inventory, software deployment, and mobile dev… |
+| 2026-10-22 15:17:06 | [CVE-2026-78801](https://nvd.nist.gov/vuln/detail/CVE-2026-78801) |  |  | An issue in SKYWORTH DIGITAL CO., LTD SK-WR6640X Wi-Fi 6 Dual-Band Fiber Router (AX1800M) V1.0.3 allows a remote attack… |
+| 2026-10-22 15:17:06 | [CVE-2026-78846](https://nvd.nist.gov/vuln/detail/CVE-2026-78846) |  |  | AiDot Linkind Matter Smart Plug 1.01.32 is vulnerable to Buffer Overflow via SSDP local header parsing. |
 
 ## Data source
 
