@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-23T07:16:38.42Z,CVE-2026-55981,CRITICAL,9.6,Received,,1,A firmware verification vulnerability in Creative Sound Blaster Katana could allow an attacker to modify a legitimate firmware image and upload the modified firmware to an affected device.
+2026-10-23T07:16:38.563Z,CVE-2026-63243,MEDIUM,4.3,Received,,1,An authentication vulnerability in the Bluetooth Low Energy (BLE) implementation of Creative Sound Blaster Katana could allow an attacker within Bluetooth range to connect to an affected device without prior pairing or authentication.
