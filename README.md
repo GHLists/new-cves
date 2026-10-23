@@ -9,19 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:18 UTC
+## Latest list — 2026-10-23 20:18 UTC
 
-New CVEs published between 2026-10-23 18:19 UTC and 2026-10-23 19:18 UTC.
+New CVEs published between 2026-10-23 19:18 UTC and 2026-10-23 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T19-18-41-135508Z.csv)
+[Full CSV](data/new-cves-2026-10-23T20-18-57-7319Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 19:17:43 | [CVE-2026-112342](https://nvd.nist.gov/vuln/detail/CVE-2026-112342) | High | 7.1 | Tandoor Recipes before 2.7.0 contains an improper cache-key design in cookbook/helper/permission_helper.py that allows… |
-| 2026-10-23 19:17:44 | [CVE-2026-115569](https://nvd.nist.gov/vuln/detail/CVE-2026-115569) | Low | 3.3 | Fallow is a codebase intelligence tool for TypeScript and JavaScript. From 2.68.0 until 3.34.0, Fallow follows attacker… |
-| 2026-10-23 19:17:44 | [CVE-2026-115570](https://nvd.nist.gov/vuln/detail/CVE-2026-115570) | High | 7.4 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 42.11.… |
-| 2026-10-23 19:17:44 | [CVE-2026-115845](https://nvd.nist.gov/vuln/detail/CVE-2026-115845) | Medium | 5.3 | An incomplete list of disallowed inputs in the Python code validator of the run_script tool in AWS MCP Server might all… |
-| 2026-10-23 19:17:45 | [CVE-2026-91093](https://nvd.nist.gov/vuln/detail/CVE-2026-91093) | High | 8.5 | A potential security vulnerability has been identified in HP One Agent for certain HP PC products, which might allow fo… |
+| 2026-10-23 20:17:20 | [CVE-2026-115572](https://nvd.nist.gov/vuln/detail/CVE-2026-115572) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an attacker can craft a PDF that repeatedly r… |
+| 2026-10-23 20:17:21 | [CVE-2026-115580](https://nvd.nist.gov/vuln/detail/CVE-2026-115580) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an attacker can craft a PDF with a standard c… |
+| 2026-10-23 20:17:21 | [CVE-2026-115585](https://nvd.nist.gov/vuln/detail/CVE-2026-115585) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.2, an incomplete remediation for repeated malfor… |
+| 2026-10-23 20:17:21 | [CVE-2026-115586](https://nvd.nist.gov/vuln/detail/CVE-2026-115586) | High | 7.1 | virtualenv is a tool for creating isolated virtual python environments. From 21.14.9 until 21.14.13, the bash bin/activ… |
+| 2026-10-23 20:17:21 | [CVE-2026-115796](https://nvd.nist.gov/vuln/detail/CVE-2026-115796) | Low | 2.1 | A security flaw has been discovered in Tenda F6 12.02.01.73. This impacts an unknown function of the component Web Mana… |
+| 2026-10-23 20:17:21 | [CVE-2026-115797](https://nvd.nist.gov/vuln/detail/CVE-2026-115797) | Low | 2.9 | A weakness has been identified in Tenda F6 12.02.01.73. Affected is an unknown function of the component Web Management… |
+| 2026-10-23 20:17:21 | [CVE-2026-19741](https://nvd.nist.gov/vuln/detail/CVE-2026-19741) | High | 7.5 | Zephyr's OpenThread integration defined CONFIG_OPENTHREAD_JOINER_PSKD with default "J01NME" in modules/openthread/Kconf… |
+| 2026-10-23 20:17:27 | [CVE-2026-79977](https://nvd.nist.gov/vuln/detail/CVE-2026-79977) | High | 8.2 | The WireGuard VPN service in subsys/net/lib/wireguard/wg.c updated the peer endpoint from a message it could not authen… |
+| 2026-10-23 20:17:27 | [CVE-2026-79978](https://nvd.nist.gov/vuln/detail/CVE-2026-79978) | Low | 3.6 | The RTIO streaming completion callback adxl345_process_fifo_samples_cb() in drivers/sensor/adi/adxl345/adxl345_stream.c… |
+| 2026-10-23 20:17:27 | [CVE-2026-79979](https://nvd.nist.gov/vuln/detail/CVE-2026-79979) | High | 7.8 | The arm64 MMU backend invalidates a single virtual address from the TLB with invalidate_tlb_page() in arch/arm64/core/m… |
+| 2026-10-23 20:17:27 | [CVE-2026-79980](https://nvd.nist.gov/vuln/detail/CVE-2026-79980) | Medium | 5.6 | The DHCPv4 client in subsys/net/lib/dhcpv4/dhcpv4.c maintained its transaction identifier (iface->config.dhcpv4.xid) as… |
+| 2026-10-23 20:17:28 | [CVE-2026-79981](https://nvd.nist.gov/vuln/detail/CVE-2026-79981) | Medium | 6.5 | The DNS stub resolver in subsys/net/lib/dns/resolve.c binds one UDP socket per configured server when the resolver cont… |
+| 2026-10-23 20:17:28 | [CVE-2026-79982](https://nvd.nist.gov/vuln/detail/CVE-2026-79982) | High | 8.8 | The Bluetooth HCI USB transport class of the new USB device stack, subsys/usb/device_next/class/bt_hci.c, copies every… |
 
 ## Data source
 
