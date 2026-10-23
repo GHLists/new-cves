@@ -9,18 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 02:19 UTC
+## Latest list — 2026-10-23 04:19 UTC
 
-New CVEs published between 2026-10-23 01:18 UTC and 2026-10-23 02:19 UTC.
+New CVEs published between 2026-10-23 03:18 UTC and 2026-10-23 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T02-19-11-28275Z.csv)
+[Full CSV](data/new-cves-2026-10-23T04-19-29-861918Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 02:16:57 | [CVE-2026-115536](https://nvd.nist.gov/vuln/detail/CVE-2026-115536) | Low | 2.1 | A security flaw has been discovered in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. T… |
-| 2026-10-23 02:16:57 | [CVE-2026-115537](https://nvd.nist.gov/vuln/detail/CVE-2026-115537) | Low | 2.1 | A weakness has been identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. This a… |
-| 2026-10-23 02:16:57 | [CVE-2026-19677](https://nvd.nist.gov/vuln/detail/CVE-2026-19677) | Critical | 9.3 | An authentication bypass vulnerability in the public onPhase/ frevvo registration form version 11.0.14 allows an unauth… |
-| 2026-10-23 02:16:57 | [CVE-2026-19678](https://nvd.nist.gov/vuln/detail/CVE-2026-19678) | High | 8.7 | A server-side request forgery (SSRF) vulnerability in the unauthenticated form service in version 11.0.14 in onPhase Fo… |
+| 2026-10-23 04:18:15 | [CVE-2026-115546](https://nvd.nist.gov/vuln/detail/CVE-2026-115546) | High | 8.1 | Okta Access Gateway (OAG) does not validate the selected authentication source during sign-on. An authenticated user wi… |
+| 2026-10-23 04:18:16 | [CVE-2026-115547](https://nvd.nist.gov/vuln/detail/CVE-2026-115547) | Critical | 9.1 | An input validation issue in the Okta Access Gateway (OAG) Admin Console allows the processing of specially formatted c… |
+| 2026-10-23 04:18:16 | [CVE-2026-115638](https://nvd.nist.gov/vuln/detail/CVE-2026-115638) | Medium | 4.3 | OpenStack Ironic through 39.0.1 allows a denial of service via a configdrive that results in a very large amount of unc… |
+| 2026-10-23 04:18:16 | [CVE-2026-54615](https://nvd.nist.gov/vuln/detail/CVE-2026-54615) | Medium | 6.0 | Part-DB is an open source inventory management system for electronic components. Prior to version 2.12.1, LogEntryExtra… |
+| 2026-10-23 04:18:17 | [CVE-2026-54630](https://nvd.nist.gov/vuln/detail/CVE-2026-54630) | Critical | 9.6 | Part-DB is an open source inventory management system for electronic components. Prior to version 2.12.1, the part atta… |
+| 2026-10-23 04:18:17 | [CVE-2026-54631](https://nvd.nist.gov/vuln/detail/CVE-2026-54631) | Medium | 6.3 | Part-DB is an open source inventory management system for electronic components. Prior to version 2.12.1, the file .env… |
+| 2026-10-23 04:18:17 | [CVE-2026-55600](https://nvd.nist.gov/vuln/detail/CVE-2026-55600) | Medium | 5.7 | Part-DB is an open source inventory management system for electronic components. Prior to version 2.12.2, Part-DB rende… |
+| 2026-10-23 04:18:19 | [CVE-2026-89419](https://nvd.nist.gov/vuln/detail/CVE-2026-89419) | Medium | 5.0 | OpenStack Ironic before 39.0.1 sometimes allows a user to change the maintenance setting on a node via PATCH to /v1/nod… |
+| 2026-10-23 04:18:19 | [CVE-2026-90458](https://nvd.nist.gov/vuln/detail/CVE-2026-90458) | Medium | 5.4 | OpenStack Ironic before 39.0.1 allows DELETE and GET via vendor_passthru, e.g., to delete accounts from the BMC's Redfi… |
 
 ## Data source
 
