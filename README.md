@@ -9,25 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:20 UTC
+## Latest list — 2026-10-23 18:19 UTC
 
-New CVEs published between 2026-10-23 16:18 UTC and 2026-10-23 17:20 UTC.
+New CVEs published between 2026-10-23 17:20 UTC and 2026-10-23 18:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T17-20-52-951331Z.csv)
+[Full CSV](data/new-cves-2026-10-23T18-19-53-143272Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 17:17:19 | [CVE-2026-105481](https://nvd.nist.gov/vuln/detail/CVE-2026-105481) | Medium | 6.5 | A flaw in Node.js HTTP Agent connection reuse can cause a client to accept as valid a response that was sent before the… |
-| 2026-10-23 17:17:19 | [CVE-2026-105482](https://nvd.nist.gov/vuln/detail/CVE-2026-105482) | High | 7.4 | A flaw in Node.js DNS resolution allows hostnames containing a NUL byte to be silently truncated by the dns.resolve*()… |
-| 2026-10-23 17:17:19 | [CVE-2026-105483](https://nvd.nist.gov/vuln/detail/CVE-2026-105483) | High | 7.4 | A flaw in Node.js TLS hostname verification allows a certificate without a matching IP address SAN to authenticate a co… |
-| 2026-10-23 17:17:19 | [CVE-2026-106069](https://nvd.nist.gov/vuln/detail/CVE-2026-106069) | High | 7.4 | A flaw in Node.js TLS hostname verification can cause a server certificate to be validated against a different IP addre… |
-| 2026-10-23 17:17:19 | [CVE-2026-106070](https://nvd.nist.gov/vuln/detail/CVE-2026-106070) | Low | 3.7 | A flaw in the Node.js `zlib.ZipFile` API can cause it to return bytes that do not belong to the requested entry after t… |
-| 2026-10-23 17:17:20 | [CVE-2026-106071](https://nvd.nist.gov/vuln/detail/CVE-2026-106071) | Low | 3.6 | A flaw in Node.js Permission Model filesystem enforcement can grant access to paths that do not match a wildcard `--all… |
-| 2026-10-23 17:17:20 | [CVE-2026-106072](https://nvd.nist.gov/vuln/detail/CVE-2026-106072) | Medium | 6.7 | A flaw in Node.js TLS hostname verification allows a certificate with only a DNS SAN to authenticate an IP endpoint whe… |
-| 2026-10-23 17:17:20 | [CVE-2026-106073](https://nvd.nist.gov/vuln/detail/CVE-2026-106073) | Low | 3.3 | A flaw in Node.js Permission Model filesystem enforcement leaves `fs.realpathSync()` without the required read permissi… |
-| 2026-10-23 17:17:20 | [CVE-2026-106074](https://nvd.nist.gov/vuln/detail/CVE-2026-106074) | Medium | 4.8 | A flaw in Node.js `crypto` causes the internal entropy caches used by `crypto.randomUUID()`, `crypto.randomUUIDv7()`, a… |
-| 2026-10-23 17:17:21 | [CVE-2026-115810](https://nvd.nist.gov/vuln/detail/CVE-2026-115810) | Medium | 6.3 | Tandoor Recipes before 2.7.0 contains a server-side request forgery vulnerability in the Pestle importer that allows au… |
-| 2026-10-23 17:17:22 | [CVE-2026-87901](https://nvd.nist.gov/vuln/detail/CVE-2026-87901) | High | 8.3 | Improper sanitization in the registration module allows reflected Cross-Site Scripting. |
+| 2026-10-23 18:17:20 | [CVE-2026-110975](https://nvd.nist.gov/vuln/detail/CVE-2026-110975) | High | 7.4 | A flaw was found in Kruize Autotune. Its REST API ships without an authentication layer, and the endpoints that return… |
+| 2026-10-23 18:17:21 | [CVE-2026-115567](https://nvd.nist.gov/vuln/detail/CVE-2026-115567) | Medium | 5.8 | Tokio is a runtime for writing applications with Rust. In 1.54.0, a race condition between tokio::time::Interval::poll_… |
+| 2026-10-23 18:17:21 | [CVE-2026-115812](https://nvd.nist.gov/vuln/detail/CVE-2026-115812) | Critical | 9.3 | Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server 1.1.11 and earlier mi… |
+| 2026-10-23 18:17:21 | [CVE-2026-115813](https://nvd.nist.gov/vuln/detail/CVE-2026-115813) | Medium | 6.9 | Server-side request forgery in the model download path in Amazon Web Services Multi Model Server 1.1.11 and earlier mig… |
+| 2026-10-23 18:17:21 | [CVE-2026-115863](https://nvd.nist.gov/vuln/detail/CVE-2026-115863) | High | 7.6 | ConnMan through 2.0 has a stack-based buffer overflow via a DHCPv6 Reply message. This occurs in get_domains in gdhcp/c… |
 
 ## Data source
 
