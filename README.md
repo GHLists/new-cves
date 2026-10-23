@@ -9,23 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 23:20 UTC
+## Latest list — 2026-10-23 00:21 UTC
 
-New CVEs published between 2026-10-22 22:18 UTC and 2026-10-22 23:20 UTC.
+New CVEs published between 2026-10-22 23:20 UTC and 2026-10-23 00:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-22T23-20-51-457765Z.csv)
+[Full CSV](data/new-cves-2026-10-23T00-21-56-454149Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-22 22:19:18 | [CVE-2026-83938](https://nvd.nist.gov/vuln/detail/CVE-2026-83938) | Critical | 10.0 | Missing authentication for critical function in Azure Kubernetes Configuration Service allows an unauthorized attacker… |
-| 2026-10-22 22:19:53 | [CVE-2026-96185](https://nvd.nist.gov/vuln/detail/CVE-2026-96185) | High | 7.5 | Stack-based buffer overflow in Microsoft Exchange Online allows an authorized attacker to execute code over a network. |
-| 2026-10-22 22:20:01 | [CVE-2026-96616](https://nvd.nist.gov/vuln/detail/CVE-2026-96616) | High | 8.3 | Authentication tokens issued by the E3's web management interface on login are given an expiration time far beyond any… |
-| 2026-10-22 22:20:13 | [CVE-2026-97785](https://nvd.nist.gov/vuln/detail/CVE-2026-97785) | Critical | 10.0 | Improper authentication in AAD App Proxy allows an unauthorized attacker to elevate privileges over a network. |
-| 2026-10-22 23:18:17 | [CVE-2026-107861](https://nvd.nist.gov/vuln/detail/CVE-2026-107861) | Critical | 9.4 | The system control service on affected Kiloview E3 NDI encoder firmware fails to sanitize the hostname parameter accept… |
-| 2026-10-22 23:18:22 | [CVE-2026-110243](https://nvd.nist.gov/vuln/detail/CVE-2026-110243) | Critical | 9.4 | The network management service on affected Kiloview E3 NDI encoder firmware fails to validate the network interface nam… |
-| 2026-10-22 23:18:22 | [CVE-2026-110491](https://nvd.nist.gov/vuln/detail/CVE-2026-110491) | Medium | 6.9 | The ONVIF service on the E3 can be rendered unresponsive by sending malformed or incomplete requests to certain operati… |
-| 2026-10-22 23:18:22 | [CVE-2026-110825](https://nvd.nist.gov/vuln/detail/CVE-2026-110825) | High | 8.7 | The ONVIF device service on affected Kiloview E3 NDI encoder firmware accepts hostname, DNS, and NTP configuration writ… |
-| 2026-10-22 23:20:33 | [CVE-2026-92450](https://nvd.nist.gov/vuln/detail/CVE-2026-92450) | High | 8.7 | The authentication framework used by affected Kiloview E3 NDI encoder firmware signs session JSON Web Tokens using an H… |
+| 2026-10-23 00:16:49 | [CVE-2026-115534](https://nvd.nist.gov/vuln/detail/CVE-2026-115534) | Low | 2.1 | A vulnerability was determined in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. Impact… |
 
 ## Data source
 
