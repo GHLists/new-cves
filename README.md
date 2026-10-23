@@ -9,16 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 07:19 UTC
+## Latest list — 2026-10-23 08:20 UTC
 
-New CVEs published between 2026-10-23 06:18 UTC and 2026-10-23 07:19 UTC.
+New CVEs published between 2026-10-23 07:19 UTC and 2026-10-23 08:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T07-19-00-522151Z.csv)
+[Full CSV](data/new-cves-2026-10-23T08-20-18-786816Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 07:16:38 | [CVE-2026-55981](https://nvd.nist.gov/vuln/detail/CVE-2026-55981) | Critical | 9.6 | A firmware verification vulnerability in Creative Sound Blaster Katana could allow an attacker to modify a legitimate f… |
-| 2026-10-23 07:16:38 | [CVE-2026-63243](https://nvd.nist.gov/vuln/detail/CVE-2026-63243) | Medium | 4.3 | An authentication vulnerability in the Bluetooth Low Energy (BLE) implementation of Creative Sound Blaster Katana could… |
+| 2026-10-23 08:16:54 | [CVE-2026-4950](https://nvd.nist.gov/vuln/detail/CVE-2026-4950) | Medium | 4.8 | The CustomerAdministration portal (KundenManager) of VertiGIS WebOrderSystem allows privileged users to manage the empl… |
+| 2026-10-23 08:16:55 | [CVE-2026-4951](https://nvd.nist.gov/vuln/detail/CVE-2026-4951) | Medium | 5.1 | The CustomerAdministration portal (KundenManager) of VertiGIS WebOrderSystem allows privileged users to search for empl… |
+| 2026-10-23 08:16:55 | [CVE-2026-4952](https://nvd.nist.gov/vuln/detail/CVE-2026-4952) | Medium | 5.1 | The "ASMobile" web interface, which is part of the VertiGIS software package "GIS Portal", allows authenticated users t… |
+| 2026-10-23 08:16:55 | [CVE-2026-63244](https://nvd.nist.gov/vuln/detail/CVE-2026-63244) | Critical | 9.8 | An authentication bypass vulnerability in WizLearn Technologies' Learning Management System (LMS) could allow an unauth… |
+| 2026-10-23 08:16:55 | [CVE-2026-75775](https://nvd.nist.gov/vuln/detail/CVE-2026-75775) | High | 7.7 | Improper Neutralization of Special Elements used in an OS Command in certain ASUS routers allows remote user to execute… |
+| 2026-10-23 08:16:55 | [CVE-2026-75779](https://nvd.nist.gov/vuln/detail/CVE-2026-75779) | High | 8.6 | Improper Neutralization of Special Elements used in an OS Command (“OS Command Injection”) and Cross-Site Request Forge… |
+| 2026-10-23 08:16:55 | [CVE-2026-93489](https://nvd.nist.gov/vuln/detail/CVE-2026-93489) | High | 8.7 | Improper Authentication in ASUS router modules allows an unauthenticated nearby user to send an HTTP request and forge… |
 
 ## Data source
 
