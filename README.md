@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:21 UTC
+## Latest list — 2026-10-23 01:18 UTC
 
-New CVEs published between 2026-10-22 23:20 UTC and 2026-10-23 00:21 UTC.
+New CVEs published between 2026-10-23 00:21 UTC and 2026-10-23 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T00-21-56-454149Z.csv)
+[Full CSV](data/new-cves-2026-10-23T01-18-48-441538Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 00:16:49 | [CVE-2026-115534](https://nvd.nist.gov/vuln/detail/CVE-2026-115534) | Low | 2.1 | A vulnerability was determined in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. Impact… |
+| 2026-10-23 01:16:53 | [CVE-2026-115484](https://nvd.nist.gov/vuln/detail/CVE-2026-115484) | High | 7.6 | A flaw was found in the iscsiuio component of open-iscsi. The DHCPv4 option parser incorrectly calculates the length of… |
+| 2026-10-23 01:16:53 | [CVE-2026-115485](https://nvd.nist.gov/vuln/detail/CVE-2026-115485) | Medium | 6.3 | A flaw was found in the iscsiuio component of open-iscsi. The DHCPv6 option parser calls strlen() on raw network data w… |
+| 2026-10-23 01:16:53 | [CVE-2026-115486](https://nvd.nist.gov/vuln/detail/CVE-2026-115486) | High | 7.1 | A flaw was found in the iscsiuio component of open-iscsi. The IPv6 Neighbor Discovery handler accesses link-layer addre… |
+| 2026-10-23 01:16:54 | [CVE-2026-115535](https://nvd.nist.gov/vuln/detail/CVE-2026-115535) | Low | 1.9 | A vulnerability was identified in gedelumbung HospitalManagement up to c2d45543789a3887067d3915f69d44cfc2cf76a8. The af… |
 
 ## Data source
 
