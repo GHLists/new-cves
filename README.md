@@ -9,19 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:19 UTC
+## Latest list — 2026-10-23 19:18 UTC
 
-New CVEs published between 2026-10-23 17:20 UTC and 2026-10-23 18:19 UTC.
+New CVEs published between 2026-10-23 18:19 UTC and 2026-10-23 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T18-19-53-143272Z.csv)
+[Full CSV](data/new-cves-2026-10-23T19-18-41-135508Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 18:17:20 | [CVE-2026-110975](https://nvd.nist.gov/vuln/detail/CVE-2026-110975) | High | 7.4 | A flaw was found in Kruize Autotune. Its REST API ships without an authentication layer, and the endpoints that return… |
-| 2026-10-23 18:17:21 | [CVE-2026-115567](https://nvd.nist.gov/vuln/detail/CVE-2026-115567) | Medium | 5.8 | Tokio is a runtime for writing applications with Rust. In 1.54.0, a race condition between tokio::time::Interval::poll_… |
-| 2026-10-23 18:17:21 | [CVE-2026-115812](https://nvd.nist.gov/vuln/detail/CVE-2026-115812) | Critical | 9.3 | Relative path traversal during model archive extraction in Amazon Web Services Multi Model Server 1.1.11 and earlier mi… |
-| 2026-10-23 18:17:21 | [CVE-2026-115813](https://nvd.nist.gov/vuln/detail/CVE-2026-115813) | Medium | 6.9 | Server-side request forgery in the model download path in Amazon Web Services Multi Model Server 1.1.11 and earlier mig… |
-| 2026-10-23 18:17:21 | [CVE-2026-115863](https://nvd.nist.gov/vuln/detail/CVE-2026-115863) | High | 7.6 | ConnMan through 2.0 has a stack-based buffer overflow via a DHCPv6 Reply message. This occurs in get_domains in gdhcp/c… |
+| 2026-10-23 19:17:43 | [CVE-2026-112342](https://nvd.nist.gov/vuln/detail/CVE-2026-112342) | High | 7.1 | Tandoor Recipes before 2.7.0 contains an improper cache-key design in cookbook/helper/permission_helper.py that allows… |
+| 2026-10-23 19:17:44 | [CVE-2026-115569](https://nvd.nist.gov/vuln/detail/CVE-2026-115569) | Low | 3.3 | Fallow is a codebase intelligence tool for TypeScript and JavaScript. From 2.68.0 until 3.34.0, Fallow follows attacker… |
+| 2026-10-23 19:17:44 | [CVE-2026-115570](https://nvd.nist.gov/vuln/detail/CVE-2026-115570) | High | 7.4 | Electron is a framework for writing cross-platform desktop applications using JavaScript, HTML and CSS. Prior to 42.11.… |
+| 2026-10-23 19:17:44 | [CVE-2026-115845](https://nvd.nist.gov/vuln/detail/CVE-2026-115845) | Medium | 5.3 | An incomplete list of disallowed inputs in the Python code validator of the run_script tool in AWS MCP Server might all… |
+| 2026-10-23 19:17:45 | [CVE-2026-91093](https://nvd.nist.gov/vuln/detail/CVE-2026-91093) | High | 8.5 | A potential security vulnerability has been identified in HP One Agent for certain HP PC products, which might allow fo… |
 
 ## Data source
 
