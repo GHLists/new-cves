@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-23T23:17:41.09Z,CVE-2026-108537,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-23T23:17:41.17Z,CVE-2026-108793,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-23T23:17:42.437Z,CVE-2026-110814,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-23T23:17:43.263Z,CVE-2026-115931,CRITICAL,9.9,Received,CWE-73; CWE-470,4,"Postiz lets a signed-in user ask the backend to run a function on one of their connected channels. The backend did not restrict which functions can be requested, so a user could call internal helper functions that were never meant to be reachable from the web interface. One of those helpers reads a…"
