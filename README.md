@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 01:19 UTC
+## Latest list — 2026-10-24 05:20 UTC
 
-New CVEs published between 2026-10-24 00:19 UTC and 2026-10-24 01:19 UTC.
+New CVEs published between 2026-10-24 04:20 UTC and 2026-10-24 05:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T01-19-27-106342Z.csv)
+[Full CSV](data/new-cves-2026-10-24T05-20-54-098081Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 01:17:08 | [CVE-2026-115929](https://nvd.nist.gov/vuln/detail/CVE-2026-115929) | High | 7.6 | MongoDB Compass relies on Electron, a third-party runtime that carries its own TLS root certificate store. This root ce… |
+| 2026-10-24 05:17:04 | [CVE-2026-115806](https://nvd.nist.gov/vuln/detail/CVE-2026-115806) | Critical | 9.8 | The Prime Mover – Backup and Migration plugin for WordPress is vulnerable to PHP Object Injection in all versions up to… |
+| 2026-10-24 05:17:06 | [CVE-2026-115807](https://nvd.nist.gov/vuln/detail/CVE-2026-115807) | High | 7.1 | The User Profile Builder – Beautiful User Registration Forms, User Profiles & User Role Editor plugin for WordPress is… |
 
 ## Data source
 
