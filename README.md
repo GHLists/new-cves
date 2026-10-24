@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 09:18 UTC
+## Latest list — 2026-10-24 10:18 UTC
 
-New CVEs published between 2026-10-24 08:18 UTC and 2026-10-24 09:18 UTC.
+New CVEs published between 2026-10-24 09:18 UTC and 2026-10-24 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T09-18-36-865012Z.csv)
+[Full CSV](data/new-cves-2026-10-24T10-18-41-396166Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 09:16:44 | [CVE-2026-115993](https://nvd.nist.gov/vuln/detail/CVE-2026-115993) | Medium | 6.8 | Stored XSS vulnerability in the “Notes” field of the Checklists in Cervantes version v1.3-beta could allow an attacker… |
+| 2026-10-24 10:17:08 | [CVE-2026-114194](https://nvd.nist.gov/vuln/detail/CVE-2026-114194) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Igor Funa Ad Inse… |
+| 2026-10-24 10:17:10 | [CVE-2026-114705](https://nvd.nist.gov/vuln/detail/CVE-2026-114705) | Medium | 6.5 | Missing Authorization vulnerability in quadlayers WP Social Feed Gallery insta-gallery allows Exploiting Incorrectly Co… |
+| 2026-10-24 10:17:10 | [CVE-2026-115994](https://nvd.nist.gov/vuln/detail/CVE-2026-115994) | Medium | 5.4 | BOLA Allows Cross-Project Target Tampering in Cervantes version v1.3-beta could allow an attacker modify or delete targ… |
+| 2026-10-24 10:17:10 | [CVE-2026-115998](https://nvd.nist.gov/vuln/detail/CVE-2026-115998) | Medium | 4.3 | IDOR in Cervantes version v1.3-beta could allow an authenticated attacker ca access sensitive findings, proof-of-concep… |
 
 ## Data source
 
