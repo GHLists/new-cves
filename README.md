@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 15:18 UTC
+## Latest list — 2026-10-24 16:21 UTC
 
-New CVEs published between 2026-10-24 14:18 UTC and 2026-10-24 15:18 UTC.
+New CVEs published between 2026-10-24 15:18 UTC and 2026-10-24 16:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T15-18-42-121305Z.csv)
+[Full CSV](data/new-cves-2026-10-24T16-21-28-357858Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 15:17:33 | [CVE-2026-115557](https://nvd.nist.gov/vuln/detail/CVE-2026-115557) | Critical | 9.4 | Python has added a denylist for known compromised certificates to the "ssl" module to ensure user safety even without c… |
-| 2026-10-24 15:17:33 | [CVE-2026-115933](https://nvd.nist.gov/vuln/detail/CVE-2026-115933) | Critical | 9.9 | Postiz signs its session, invitation and password reset tokens with one shared secret and without any marker of what a… |
+| 2026-10-24 16:16:25 | [CVE-2026-115969](https://nvd.nist.gov/vuln/detail/CVE-2026-115969) | Medium | 5.5 | A flaw has been found in Travisun Opptrix 0.4.0. This affects an unknown function of the file /api/auth/setup of the co… |
 
 ## Data source
 
