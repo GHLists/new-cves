@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 19:18 UTC
+## Latest list — 2026-10-24 22:21 UTC
 
-New CVEs published between 2026-10-24 18:18 UTC and 2026-10-24 19:18 UTC.
+New CVEs published between 2026-10-24 21:18 UTC and 2026-10-24 22:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T19-18-42-17642Z.csv)
+[Full CSV](data/new-cves-2026-10-24T22-21-10-179625Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 19:17:04 | [CVE-2026-114820](https://nvd.nist.gov/vuln/detail/CVE-2026-114820) | Critical | 9.1 | Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java S… |
-| 2026-10-24 19:17:04 | [CVE-2026-115973](https://nvd.nist.gov/vuln/detail/CVE-2026-115973) | Medium | 6.9 | A vulnerability was identified in FaveoSuite Faveo Helpdesk 2.0.3. Affected by this issue is the function ForgotPasswor… |
+| 2026-10-24 22:16:27 | [CVE-2026-115981](https://nvd.nist.gov/vuln/detail/CVE-2026-115981) | Low | 1.9 | A security vulnerability has been detected in phpIPAM up to 1.8.3. Affected by this vulnerability is an unknown functio… |
+| 2026-10-24 22:16:27 | [CVE-2026-115982](https://nvd.nist.gov/vuln/detail/CVE-2026-115982) | Low | 2.1 | A vulnerability was detected in phpIPAM up to 1.8.3. Affected by this issue is the function create_rack_link of the fil… |
 
 ## Data source
 
