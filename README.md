@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 14:18 UTC
+## Latest list — 2026-10-24 15:18 UTC
 
-New CVEs published between 2026-10-24 13:20 UTC and 2026-10-24 14:18 UTC.
+New CVEs published between 2026-10-24 14:18 UTC and 2026-10-24 15:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T14-18-40-994426Z.csv)
+[Full CSV](data/new-cves-2026-10-24T15-18-42-121305Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 14:16:38 | [CVE-2026-114191](https://nvd.nist.gov/vuln/detail/CVE-2026-114191) | High | 7.5 | Missing Authorization vulnerability in Knit Pay UPI QR Code Payment Gateway for WooCommerce upi-qr-code-payment-for-woo… |
-| 2026-10-24 14:16:39 | [CVE-2026-114192](https://nvd.nist.gov/vuln/detail/CVE-2026-114192) | Medium | 6.5 | Missing Authorization vulnerability in Magepeople inc. WpEvently mage-eventpress allows Exploiting Incorrectly Configur… |
-| 2026-10-24 14:16:39 | [CVE-2026-114629](https://nvd.nist.gov/vuln/detail/CVE-2026-114629) |  |  | Web::Simple versions before 0.035 for Perl allocate a buffer sized by the Content-Length header for urlencoded body par… |
-| 2026-10-24 14:16:39 | [CVE-2026-114704](https://nvd.nist.gov/vuln/detail/CVE-2026-114704) | High | 7.2 | Deserialization of Untrusted Data vulnerability in Christoph Vielgrader Relevanssi relevanssi allows Object Injection.T… |
+| 2026-10-24 15:17:33 | [CVE-2026-115557](https://nvd.nist.gov/vuln/detail/CVE-2026-115557) | Critical | 9.4 | Python has added a denylist for known compromised certificates to the "ssl" module to ensure user safety even without c… |
+| 2026-10-24 15:17:33 | [CVE-2026-115933](https://nvd.nist.gov/vuln/detail/CVE-2026-115933) | Critical | 9.9 | Postiz signs its session, invitation and password reset tokens with one shared secret and without any marker of what a… |
 
 ## Data source
 
