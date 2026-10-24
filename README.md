@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:18 UTC
+## Latest list — 2026-10-24 01:19 UTC
 
-New CVEs published between 2026-10-23 22:18 UTC and 2026-10-23 23:18 UTC.
+New CVEs published between 2026-10-24 00:19 UTC and 2026-10-24 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-23T23-18-36-685546Z.csv)
+[Full CSV](data/new-cves-2026-10-24T01-19-27-106342Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-23 23:17:41 | [CVE-2026-108537](https://nvd.nist.gov/vuln/detail/CVE-2026-108537) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-23 23:17:41 | [CVE-2026-108793](https://nvd.nist.gov/vuln/detail/CVE-2026-108793) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-23 23:17:42 | [CVE-2026-110814](https://nvd.nist.gov/vuln/detail/CVE-2026-110814) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-23 23:17:43 | [CVE-2026-115931](https://nvd.nist.gov/vuln/detail/CVE-2026-115931) | Critical | 9.9 | Postiz lets a signed-in user ask the backend to run a function on one of their connected channels. The backend did not… |
+| 2026-10-24 01:17:08 | [CVE-2026-115929](https://nvd.nist.gov/vuln/detail/CVE-2026-115929) | High | 7.6 | MongoDB Compass relies on Electron, a third-party runtime that carries its own TLS root certificate store. This root ce… |
 
 ## Data source
 
