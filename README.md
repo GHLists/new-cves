@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 18:18 UTC
+## Latest list — 2026-10-24 19:18 UTC
 
-New CVEs published between 2026-10-24 17:18 UTC and 2026-10-24 18:18 UTC.
+New CVEs published between 2026-10-24 18:18 UTC and 2026-10-24 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T18-18-37-735596Z.csv)
+[Full CSV](data/new-cves-2026-10-24T19-18-42-17642Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 18:16:48 | [CVE-2026-115970](https://nvd.nist.gov/vuln/detail/CVE-2026-115970) | Medium | 5.5 | A vulnerability has been found in Travisun Opptrix 0.4.0. This impacts an unknown function of the file /api/system-upda… |
-| 2026-10-24 18:16:48 | [CVE-2026-115971](https://nvd.nist.gov/vuln/detail/CVE-2026-115971) | Medium | 5.5 | A vulnerability was found in Travisun Opptrix 0.4.0. Affected is the function Buffer.concat of the file /api/channels/w… |
-| 2026-10-24 18:16:48 | [CVE-2026-115972](https://nvd.nist.gov/vuln/detail/CVE-2026-115972) | Medium | 6.9 | A vulnerability was determined in FaveoSuite Faveo Helpdesk up to 2.0.3. Affected by this vulnerability is the function… |
+| 2026-10-24 19:17:04 | [CVE-2026-114820](https://nvd.nist.gov/vuln/detail/CVE-2026-114820) | Critical | 9.1 | Vulnerability in the Oracle Java SE, Oracle GraalVM for JDK, Oracle GraalVM Enterprise Edition product of Oracle Java S… |
+| 2026-10-24 19:17:04 | [CVE-2026-115973](https://nvd.nist.gov/vuln/detail/CVE-2026-115973) | Medium | 6.9 | A vulnerability was identified in FaveoSuite Faveo Helpdesk 2.0.3. Affected by this issue is the function ForgotPasswor… |
 
 ## Data source
 
