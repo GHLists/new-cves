@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 13:20 UTC
+## Latest list — 2026-10-24 14:18 UTC
 
-New CVEs published between 2026-10-24 12:19 UTC and 2026-10-24 13:20 UTC.
+New CVEs published between 2026-10-24 13:20 UTC and 2026-10-24 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T13-20-35-430132Z.csv)
+[Full CSV](data/new-cves-2026-10-24T14-18-40-994426Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 13:16:37 | [CVE-2026-115932](https://nvd.nist.gov/vuln/detail/CVE-2026-115932) | Critical | 9.6 | When a post is published, Postiz treats a media path that is not a web address as a file on the server's disk, but it d… |
+| 2026-10-24 14:16:38 | [CVE-2026-114191](https://nvd.nist.gov/vuln/detail/CVE-2026-114191) | High | 7.5 | Missing Authorization vulnerability in Knit Pay UPI QR Code Payment Gateway for WooCommerce upi-qr-code-payment-for-woo… |
+| 2026-10-24 14:16:39 | [CVE-2026-114192](https://nvd.nist.gov/vuln/detail/CVE-2026-114192) | Medium | 6.5 | Missing Authorization vulnerability in Magepeople inc. WpEvently mage-eventpress allows Exploiting Incorrectly Configur… |
+| 2026-10-24 14:16:39 | [CVE-2026-114629](https://nvd.nist.gov/vuln/detail/CVE-2026-114629) |  |  | Web::Simple versions before 0.035 for Perl allocate a buffer sized by the Content-Length header for urlencoded body par… |
+| 2026-10-24 14:16:39 | [CVE-2026-114704](https://nvd.nist.gov/vuln/detail/CVE-2026-114704) | High | 7.2 | Deserialization of Untrusted Data vulnerability in Christoph Vielgrader Relevanssi relevanssi allows Object Injection.T… |
 
 ## Data source
 
