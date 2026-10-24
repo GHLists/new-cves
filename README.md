@@ -9,16 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 22:21 UTC
+## Latest list — 2026-10-24 23:18 UTC
 
-New CVEs published between 2026-10-24 21:18 UTC and 2026-10-24 22:21 UTC.
+New CVEs published between 2026-10-24 22:21 UTC and 2026-10-24 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-24T22-21-10-179625Z.csv)
+[Full CSV](data/new-cves-2026-10-24T23-18-57-669791Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-24 22:16:27 | [CVE-2026-115981](https://nvd.nist.gov/vuln/detail/CVE-2026-115981) | Low | 1.9 | A security vulnerability has been detected in phpIPAM up to 1.8.3. Affected by this vulnerability is an unknown functio… |
-| 2026-10-24 22:16:27 | [CVE-2026-115982](https://nvd.nist.gov/vuln/detail/CVE-2026-115982) | Low | 2.1 | A vulnerability was detected in phpIPAM up to 1.8.3. Affected by this issue is the function create_rack_link of the fil… |
+| 2026-10-24 23:16:57 | [CVE-2026-109111](https://nvd.nist.gov/vuln/detail/CVE-2026-109111) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-24 23:16:58 | [CVE-2026-111326](https://nvd.nist.gov/vuln/detail/CVE-2026-111326) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-24 23:16:58 | [CVE-2026-115995](https://nvd.nist.gov/vuln/detail/CVE-2026-115995) | Critical | 9.4 | A security vulnerability has been detected in Unitree Robotics Unitree Go2 up to 1.1.11.4. The impacted element is the… |
+| 2026-10-24 23:16:58 | [CVE-2026-115996](https://nvd.nist.gov/vuln/detail/CVE-2026-115996) | Medium | 6.3 | A vulnerability was detected in Unitree Robotics Unitree Go2 up to 1.1.13/1.1.14.1/1.1.15.1. This affects the function… |
+| 2026-10-24 23:16:59 | [CVE-2026-89284](https://nvd.nist.gov/vuln/detail/CVE-2026-89284) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
 
 ## Data source
 
