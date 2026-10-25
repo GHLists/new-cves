@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:20 UTC
+## Latest list — 2026-10-25 09:18 UTC
 
-New CVEs published between 2026-10-25 07:19 UTC and 2026-10-25 08:20 UTC.
+New CVEs published between 2026-10-25 08:20 UTC and 2026-10-25 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T08-20-25-135428Z.csv)
+[Full CSV](data/new-cves-2026-10-25T09-18-38-308192Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 08:16:26 | [CVE-2026-116047](https://nvd.nist.gov/vuln/detail/CVE-2026-116047) | Low | 2.1 | A vulnerability has been found in Privoce Vocechat up to 0.9.121. This issue affects some unknown processing of the fil… |
-| 2026-10-25 08:16:26 | [CVE-2026-116048](https://nvd.nist.gov/vuln/detail/CVE-2026-116048) | Medium | 5.5 | A vulnerability was detected in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Af… |
+| 2026-10-25 09:16:27 | [CVE-2026-116049](https://nvd.nist.gov/vuln/detail/CVE-2026-116049) | Medium | 5.5 | A flaw has been found in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Affected… |
+| 2026-10-25 09:16:27 | [CVE-2026-116050](https://nvd.nist.gov/vuln/detail/CVE-2026-116050) | Medium | 5.5 | A vulnerability has been found in krupalshah Employee Recruitment System up to 922ff6d208278282e7c8e36d70d9ae356adec9fe… |
 
 ## Data source
 
