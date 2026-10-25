@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:20 UTC
+## Latest list — 2026-10-25 02:18 UTC
 
-New CVEs published between 2026-10-24 23:18 UTC and 2026-10-25 00:20 UTC.
+New CVEs published between 2026-10-25 01:18 UTC and 2026-10-25 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T00-20-27-489282Z.csv)
+[Full CSV](data/new-cves-2026-10-25T02-18-46-179382Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 00:16:45 | [CVE-2026-115997](https://nvd.nist.gov/vuln/detail/CVE-2026-115997) | Low | 2.1 | A flaw has been found in pig-mesh pig up to 4.1.0. This impacts the function orderItem.getColumn of the file pig-common… |
+| 2026-10-25 02:16:26 | [CVE-2026-115999](https://nvd.nist.gov/vuln/detail/CVE-2026-115999) | Medium | 6.9 | A vulnerability has been found in mansi-k Restaurant_IMS d7ad49f61ab7cc1ec6eb359ac2b5378bdbde0694. Affected is the func… |
 
 ## Data source
 
