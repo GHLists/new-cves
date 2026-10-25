@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 15:18 UTC
+## Latest list — 2026-10-25 16:18 UTC
 
-New CVEs published between 2026-10-25 14:19 UTC and 2026-10-25 15:18 UTC.
+New CVEs published between 2026-10-25 15:18 UTC and 2026-10-25 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T15-18-48-592559Z.csv)
+[Full CSV](data/new-cves-2026-10-25T16-18-38-65158Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 15:17:01 | [CVE-2026-116054](https://nvd.nist.gov/vuln/detail/CVE-2026-116054) | Low | 1.2 | A security vulnerability has been detected in SH3. This affects an unknown function of the component Módulo de Gestão/M… |
-| 2026-10-25 15:17:02 | [CVE-2026-116055](https://nvd.nist.gov/vuln/detail/CVE-2026-116055) | Low | 2.1 | A vulnerability was detected in SourceCodester Performance Indicator System 1.0. This impacts an unknown function of th… |
+| 2026-10-25 16:16:49 | [CVE-2026-116056](https://nvd.nist.gov/vuln/detail/CVE-2026-116056) | Medium | 5.3 | A flaw has been found in KodCloud KodExplorer up to 4.56. Affected is the function request_url_safe of the file app/fun… |
+| 2026-10-25 16:16:50 | [CVE-2026-116057](https://nvd.nist.gov/vuln/detail/CVE-2026-116057) | Low | 2.1 | A vulnerability has been found in KodCloud KodExplorer up to 4.55. Affected by this vulnerability is an unknown functio… |
+| 2026-10-25 16:16:50 | [CVE-2026-116058](https://nvd.nist.gov/vuln/detail/CVE-2026-116058) | Medium | 5.3 | A vulnerability was found in Alfresco Activiti up to 7.21.0-rc.692. Affected by this issue is the function JuelScriptEn… |
 
 ## Data source
 
