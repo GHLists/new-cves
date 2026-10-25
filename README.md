@@ -9,17 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 16:18 UTC
+## Latest list — 2026-10-25 17:18 UTC
 
-New CVEs published between 2026-10-25 15:18 UTC and 2026-10-25 16:18 UTC.
+New CVEs published between 2026-10-25 16:18 UTC and 2026-10-25 17:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T16-18-38-65158Z.csv)
+[Full CSV](data/new-cves-2026-10-25T17-18-41-62114Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 16:16:49 | [CVE-2026-116056](https://nvd.nist.gov/vuln/detail/CVE-2026-116056) | Medium | 5.3 | A flaw has been found in KodCloud KodExplorer up to 4.56. Affected is the function request_url_safe of the file app/fun… |
-| 2026-10-25 16:16:50 | [CVE-2026-116057](https://nvd.nist.gov/vuln/detail/CVE-2026-116057) | Low | 2.1 | A vulnerability has been found in KodCloud KodExplorer up to 4.55. Affected by this vulnerability is an unknown functio… |
-| 2026-10-25 16:16:50 | [CVE-2026-116058](https://nvd.nist.gov/vuln/detail/CVE-2026-116058) | Medium | 5.3 | A vulnerability was found in Alfresco Activiti up to 7.21.0-rc.692. Affected by this issue is the function JuelScriptEn… |
+| 2026-10-25 17:17:00 | [CVE-2026-115817](https://nvd.nist.gov/vuln/detail/CVE-2026-115817) |  |  | Starman versions before 0.4019 for Perl allow a stalled request body to hold a worker indefinitely, as read_timeout cov… |
+| 2026-10-25 17:17:01 | [CVE-2026-115822](https://nvd.nist.gov/vuln/detail/CVE-2026-115822) |  |  | Starman versions before 0.4019 for Perl allow CPU exhaustion via quadratic regex backtracking when parsing chunked requ… |
+| 2026-10-25 17:17:01 | [CVE-2026-115823](https://nvd.nist.gov/vuln/detail/CVE-2026-115823) |  |  | Starman versions before 0.4019 for Perl send response bodies for HEAD requests, desynchronizing responses on keep-alive… |
+| 2026-10-25 17:17:01 | [CVE-2026-115824](https://nvd.nist.gov/vuln/detail/CVE-2026-115824) |  |  | Starman versions before 0.4019 for Perl allow memory exhaustion via unbounded buffering of chunked request bodies. The… |
+| 2026-10-25 17:17:01 | [CVE-2026-115825](https://nvd.nist.gov/vuln/detail/CVE-2026-115825) |  |  | HTTP::Server::PSGI versions before 1.0056 for Perl allow a single request to crash the server by declaring a large Cont… |
+| 2026-10-25 17:17:02 | [CVE-2026-116060](https://nvd.nist.gov/vuln/detail/CVE-2026-116060) | Medium | 5.5 | A vulnerability was determined in SourceCodester Performance Indicator System 1.0. This affects an unknown part of the… |
 
 ## Data source
 
