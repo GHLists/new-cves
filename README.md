@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:18 UTC
+## Latest list — 2026-10-25 20:18 UTC
 
-New CVEs published between 2026-10-25 17:18 UTC and 2026-10-25 18:18 UTC.
+New CVEs published between 2026-10-25 19:20 UTC and 2026-10-25 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T18-18-36-772148Z.csv)
+[Full CSV](data/new-cves-2026-10-25T20-18-58-843201Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 18:16:46 | [CVE-2026-116061](https://nvd.nist.gov/vuln/detail/CVE-2026-116061) | Medium | 5.5 | A vulnerability was identified in SourceCodester Performance Indicator System 1.0. This vulnerability affects unknown c… |
-| 2026-10-25 18:16:46 | [CVE-2026-116062](https://nvd.nist.gov/vuln/detail/CVE-2026-116062) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Performance Indicator System 1.0. This issue affects some unknown… |
-| 2026-10-25 18:16:47 | [CVE-2026-116063](https://nvd.nist.gov/vuln/detail/CVE-2026-116063) | Low | 2.0 | A weakness has been identified in DedeCMS up to 5.7.118. Impacted is the function require_once of the file dede/update_… |
+| 2026-10-25 20:16:31 | [CVE-2026-114214](https://nvd.nist.gov/vuln/detail/CVE-2026-114214) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash allows a client to read destination records unrelated to the s… |
+| 2026-10-25 20:16:32 | [CVE-2026-115627](https://nvd.nist.gov/vuln/detail/CVE-2026-115627) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to load destination records linked to a… |
+| 2026-10-25 20:16:32 | [CVE-2026-115635](https://nvd.nist.gov/vuln/detail/CVE-2026-115635) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to read another tenant's record through… |
 
 ## Data source
 
