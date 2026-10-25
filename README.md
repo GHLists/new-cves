@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 20:18 UTC
+## Latest list — 2026-10-25 22:18 UTC
 
-New CVEs published between 2026-10-25 19:20 UTC and 2026-10-25 20:18 UTC.
+New CVEs published between 2026-10-25 21:21 UTC and 2026-10-25 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T20-18-58-843201Z.csv)
+[Full CSV](data/new-cves-2026-10-25T22-18-39-471355Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 20:16:31 | [CVE-2026-114214](https://nvd.nist.gov/vuln/detail/CVE-2026-114214) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash allows a client to read destination records unrelated to the s… |
-| 2026-10-25 20:16:32 | [CVE-2026-115627](https://nvd.nist.gov/vuln/detail/CVE-2026-115627) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to load destination records linked to a… |
-| 2026-10-25 20:16:32 | [CVE-2026-115635](https://nvd.nist.gov/vuln/detail/CVE-2026-115635) | Medium | 6.0 | Incorrect Authorization vulnerability in ash-project ash_postgres allows a user to read another tenant's record through… |
+| 2026-10-25 22:16:29 | [CVE-2026-116094](https://nvd.nist.gov/vuln/detail/CVE-2026-116094) | Medium | 5.5 | A vulnerability was determined in EyouCMS up to 1.8.3. This impacts the function remote_file_to_local of the file appli… |
 
 ## Data source
 
