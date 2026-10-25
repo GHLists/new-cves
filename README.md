@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 22:18 UTC
+## Latest list — 2026-10-25 23:19 UTC
 
-New CVEs published between 2026-10-25 21:21 UTC and 2026-10-25 22:18 UTC.
+New CVEs published between 2026-10-25 22:18 UTC and 2026-10-25 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T22-18-39-471355Z.csv)
+[Full CSV](data/new-cves-2026-10-25T23-19-25-637823Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 22:16:29 | [CVE-2026-116094](https://nvd.nist.gov/vuln/detail/CVE-2026-116094) | Medium | 5.5 | A vulnerability was determined in EyouCMS up to 1.8.3. This impacts the function remote_file_to_local of the file appli… |
+| 2026-10-25 23:17:41 | [CVE-2026-116095](https://nvd.nist.gov/vuln/detail/CVE-2026-116095) | Medium | 5.5 | A vulnerability was identified in smg-project smg 1.7.0/1.8.0/1.9.0/1.10.0/1.10.1. Affected is the function jpeg_turbo:… |
+| 2026-10-25 23:17:41 | [CVE-2026-116096](https://nvd.nist.gov/vuln/detail/CVE-2026-116096) | Low | 1.9 | A weakness has been identified in ggml-org llama.cpp. Affected by this issue is the function list_pockettts_state_slots… |
 
 ## Data source
 
