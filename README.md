@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 03:18 UTC
+## Latest list — 2026-10-25 04:19 UTC
 
-New CVEs published between 2026-10-25 02:18 UTC and 2026-10-25 03:18 UTC.
+New CVEs published between 2026-10-25 03:18 UTC and 2026-10-25 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T03-18-41-419709Z.csv)
+[Full CSV](data/new-cves-2026-10-25T04-19-17-581689Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 03:16:26 | [CVE-2026-116000](https://nvd.nist.gov/vuln/detail/CVE-2026-116000) | Medium | 5.5 | A security flaw has been discovered in Zylon PrivateGPT 1.0.0/1.0.1. This vulnerability affects the function load_file_… |
-| 2026-10-25 03:16:27 | [CVE-2026-116004](https://nvd.nist.gov/vuln/detail/CVE-2026-116004) | Low | 2.0 | A security vulnerability has been detected in onyx-dot-app Onyx up to 5.0.0. Impacted is an unknown function of the fil… |
+| 2026-10-25 04:17:34 | [CVE-2026-116006](https://nvd.nist.gov/vuln/detail/CVE-2026-116006) | Medium | 5.5 | A vulnerability was detected in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.09. The affected element is an unknown fu… |
+| 2026-10-25 04:17:34 | [CVE-2026-116007](https://nvd.nist.gov/vuln/detail/CVE-2026-116007) | Low | 2.9 | A flaw has been found in YunaiV/zhijiantianya ruoyi-vue-pro up to 2026.09. The impacted element is the function SmsCode… |
 
 ## Data source
 
