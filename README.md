@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 07:19 UTC
+## Latest list — 2026-10-25 08:20 UTC
 
-New CVEs published between 2026-10-25 06:18 UTC and 2026-10-25 07:19 UTC.
+New CVEs published between 2026-10-25 07:19 UTC and 2026-10-25 08:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T07-19-32-350485Z.csv)
+[Full CSV](data/new-cves-2026-10-25T08-20-25-135428Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 07:16:46 | [CVE-2026-116045](https://nvd.nist.gov/vuln/detail/CVE-2026-116045) | Low | 2.1 | A vulnerability was detected in 1999AZZAR designer-mcp up to 2.1.0. This affects the function get_reference of the file… |
-| 2026-10-25 07:16:47 | [CVE-2026-116046](https://nvd.nist.gov/vuln/detail/CVE-2026-116046) | Medium | 4.8 | A flaw has been found in eventcatalog sdk up to 2.29.0. This vulnerability affects the function getCustomDoc/writeCusto… |
+| 2026-10-25 08:16:26 | [CVE-2026-116047](https://nvd.nist.gov/vuln/detail/CVE-2026-116047) | Low | 2.1 | A vulnerability has been found in Privoce Vocechat up to 0.9.121. This issue affects some unknown processing of the fil… |
+| 2026-10-25 08:16:26 | [CVE-2026-116048](https://nvd.nist.gov/vuln/detail/CVE-2026-116048) | Medium | 5.5 | A vulnerability was detected in krupalshah EmployeeRecruitmentSystem up to 922ff6d208278282e7c8e36d70d9ae356adec9fe. Af… |
 
 ## Data source
 
