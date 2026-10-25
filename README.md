@@ -9,20 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 17:18 UTC
+## Latest list — 2026-10-25 18:18 UTC
 
-New CVEs published between 2026-10-25 16:18 UTC and 2026-10-25 17:18 UTC.
+New CVEs published between 2026-10-25 17:18 UTC and 2026-10-25 18:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T17-18-41-62114Z.csv)
+[Full CSV](data/new-cves-2026-10-25T18-18-36-772148Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 17:17:00 | [CVE-2026-115817](https://nvd.nist.gov/vuln/detail/CVE-2026-115817) |  |  | Starman versions before 0.4019 for Perl allow a stalled request body to hold a worker indefinitely, as read_timeout cov… |
-| 2026-10-25 17:17:01 | [CVE-2026-115822](https://nvd.nist.gov/vuln/detail/CVE-2026-115822) |  |  | Starman versions before 0.4019 for Perl allow CPU exhaustion via quadratic regex backtracking when parsing chunked requ… |
-| 2026-10-25 17:17:01 | [CVE-2026-115823](https://nvd.nist.gov/vuln/detail/CVE-2026-115823) |  |  | Starman versions before 0.4019 for Perl send response bodies for HEAD requests, desynchronizing responses on keep-alive… |
-| 2026-10-25 17:17:01 | [CVE-2026-115824](https://nvd.nist.gov/vuln/detail/CVE-2026-115824) |  |  | Starman versions before 0.4019 for Perl allow memory exhaustion via unbounded buffering of chunked request bodies. The… |
-| 2026-10-25 17:17:01 | [CVE-2026-115825](https://nvd.nist.gov/vuln/detail/CVE-2026-115825) |  |  | HTTP::Server::PSGI versions before 1.0056 for Perl allow a single request to crash the server by declaring a large Cont… |
-| 2026-10-25 17:17:02 | [CVE-2026-116060](https://nvd.nist.gov/vuln/detail/CVE-2026-116060) | Medium | 5.5 | A vulnerability was determined in SourceCodester Performance Indicator System 1.0. This affects an unknown part of the… |
+| 2026-10-25 18:16:46 | [CVE-2026-116061](https://nvd.nist.gov/vuln/detail/CVE-2026-116061) | Medium | 5.5 | A vulnerability was identified in SourceCodester Performance Indicator System 1.0. This vulnerability affects unknown c… |
+| 2026-10-25 18:16:46 | [CVE-2026-116062](https://nvd.nist.gov/vuln/detail/CVE-2026-116062) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Performance Indicator System 1.0. This issue affects some unknown… |
+| 2026-10-25 18:16:47 | [CVE-2026-116063](https://nvd.nist.gov/vuln/detail/CVE-2026-116063) | Low | 2.0 | A weakness has been identified in DedeCMS up to 5.7.118. Impacted is the function require_once of the file dede/update_… |
 
 ## Data source
 
