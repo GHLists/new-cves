@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 02:18 UTC
+## Latest list — 2026-10-26 03:20 UTC
 
-New CVEs published between 2026-10-26 01:18 UTC and 2026-10-26 02:18 UTC.
+New CVEs published between 2026-10-26 02:18 UTC and 2026-10-26 03:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T02-18-35-353699Z.csv)
+[Full CSV](data/new-cves-2026-10-26T03-20-31-279919Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 02:17:06 | [CVE-2026-116105](https://nvd.nist.gov/vuln/detail/CVE-2026-116105) | Medium | 6.3 | A weakness has been identified in HeyCyan App 1.0.103 on Android. Affected is an unknown function of the file AndroidMa… |
-| 2026-10-26 02:17:06 | [CVE-2026-116106](https://nvd.nist.gov/vuln/detail/CVE-2026-116106) | Medium | 6.9 | A security vulnerability has been detected in HeyCyan App 1.0.103 on Android. Affected by this vulnerability is an unkn… |
-| 2026-10-26 02:17:06 | [CVE-2026-116107](https://nvd.nist.gov/vuln/detail/CVE-2026-116107) | Low | 2.1 | A vulnerability was detected in Datafeedr Product Sets Plugin up to 1.3.24 on WordPress. Affected by this issue is the… |
-| 2026-10-26 02:17:06 | [CVE-2026-116108](https://nvd.nist.gov/vuln/detail/CVE-2026-116108) | Low | 2.1 | A flaw has been found in openbq-org OpenBB up to 4.7.2/5.0.0. This affects an unknown part of the file openbb_platform/… |
+| 2026-10-26 03:17:10 | [CVE-2026-116109](https://nvd.nist.gov/vuln/detail/CVE-2026-116109) | Low | 2.1 | A vulnerability has been found in continuedev Continue 2.0.0. This vulnerability affects the function MCPManagerSinglet… |
+| 2026-10-26 03:17:11 | [CVE-2026-116110](https://nvd.nist.gov/vuln/detail/CVE-2026-116110) | Medium | 5.5 | A vulnerability was found in GiantappMan LiveWallPaper 2.6.8.0 on Windows. This issue affects some unknown processing o… |
+| 2026-10-26 03:17:11 | [CVE-2026-116111](https://nvd.nist.gov/vuln/detail/CVE-2026-116111) | Low | 2.1 | A vulnerability was determined in 2K Games Civilization V 1.0.3.144. Impacted is the function loadstring of the compone… |
+| 2026-10-26 03:17:11 | [CVE-2026-116112](https://nvd.nist.gov/vuln/detail/CVE-2026-116112) | Medium | 5.5 | A vulnerability was identified in HashenUdara edoc-doctor-appointment-system up to cc258425b915d1af9e298777ccd26d160493… |
 
 ## Data source
 
