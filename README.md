@@ -9,35 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:18 UTC
+## Latest list — 2026-10-26 12:19 UTC
 
-New CVEs published between 2026-10-26 10:18 UTC and 2026-10-26 11:18 UTC.
+New CVEs published between 2026-10-26 11:18 UTC and 2026-10-26 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T11-18-57-47878Z.csv)
+[Full CSV](data/new-cves-2026-10-26T12-19-21-956385Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 11:16:33 | [CVE-2026-114707](https://nvd.nist.gov/vuln/detail/CVE-2026-114707) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetEle… |
-| 2026-10-26 11:16:33 | [CVE-2026-114708](https://nvd.nist.gov/vuln/detail/CVE-2026-114708) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetSma… |
-| 2026-10-26 11:16:34 | [CVE-2026-115594](https://nvd.nist.gov/vuln/detail/CVE-2026-115594) | Medium | 6.5 | Insertion of Sensitive Information Into Sent Data vulnerability in David Lingren Media LIbrary Assistant media-library-… |
-| 2026-10-26 11:16:34 | [CVE-2026-115595](https://nvd.nist.gov/vuln/detail/CVE-2026-115595) | Medium | 5.3 | Missing Authorization vulnerability in Supsystic Contact Form by Supsystic contact-form-by-supsystic allows Exploiting… |
-| 2026-10-26 11:16:35 | [CVE-2026-115608](https://nvd.nist.gov/vuln/detail/CVE-2026-115608) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Crocoblock JetEng… |
-| 2026-10-26 11:16:35 | [CVE-2026-115948](https://nvd.nist.gov/vuln/detail/CVE-2026-115948) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in David Lingren Med… |
-| 2026-10-26 11:16:35 | [CVE-2026-115950](https://nvd.nist.gov/vuln/detail/CVE-2026-115950) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Smart Widgets… |
-| 2026-10-26 11:16:35 | [CVE-2026-115951](https://nvd.nist.gov/vuln/detail/CVE-2026-115951) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kevin Weber Lazy… |
-| 2026-10-26 11:16:36 | [CVE-2026-115953](https://nvd.nist.gov/vuln/detail/CVE-2026-115953) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Dylan Kuhn Geo Ma… |
-| 2026-10-26 11:16:36 | [CVE-2026-115954](https://nvd.nist.gov/vuln/detail/CVE-2026-115954) | Medium | 5.4 | Missing Authorization vulnerability in Dylan Kuhn Geo Mashup geo-mashup allows Exploiting Incorrectly Configured Access… |
-| 2026-10-26 11:16:36 | [CVE-2026-115955](https://nvd.nist.gov/vuln/detail/CVE-2026-115955) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Advanced… |
-| 2026-10-26 11:16:36 | [CVE-2026-115956](https://nvd.nist.gov/vuln/detail/CVE-2026-115956) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Panorama… |
-| 2026-10-26 11:16:36 | [CVE-2026-115959](https://nvd.nist.gov/vuln/detail/CVE-2026-115959) | Medium | 5.3 | Missing Authorization vulnerability in WPExperts APIExperts Square for WooCommerce woosquare allows Exploiting Incorrec… |
-| 2026-10-26 11:16:36 | [CVE-2026-115960](https://nvd.nist.gov/vuln/detail/CVE-2026-115960) | Medium | 4.3 | Missing Authorization vulnerability in WPExperts APIExperts Square for WooCommerce woosquare allows Exploiting Incorrec… |
-| 2026-10-26 11:16:36 | [CVE-2026-115961](https://nvd.nist.gov/vuln/detail/CVE-2026-115961) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins B Slider… |
-| 2026-10-26 11:16:37 | [CVE-2026-116256](https://nvd.nist.gov/vuln/detail/CVE-2026-116256) | Medium | 5.5 | A vulnerability was found in geesondog RhaPHP up to 7ae639ccf8dcb627faace096d030bd4cb4cfb905. Affected by this vulnerab… |
-| 2026-10-26 11:16:37 | [CVE-2026-116257](https://nvd.nist.gov/vuln/detail/CVE-2026-116257) | Medium | 5.5 | A vulnerability was determined in BillaBear up to 2025.01.03. Affected by this issue is the function processInstall of… |
-| 2026-10-26 11:16:37 | [CVE-2026-116258](https://nvd.nist.gov/vuln/detail/CVE-2026-116258) | Low | 2.1 | A vulnerability was identified in libimobiledevice up to 1.4.0. This affects an unknown part of the file src/afc.c of t… |
-| 2026-10-26 11:16:37 | [CVE-2026-116259](https://nvd.nist.gov/vuln/detail/CVE-2026-116259) | Low | 1.9 | A security flaw has been discovered in libimobiledevice up to 1.4.0. This vulnerability affects the function afc_get_de… |
-| 2026-10-26 11:16:37 | [CVE-2026-116469](https://nvd.nist.gov/vuln/detail/CVE-2026-116469) | High | 7.1 | MISP Guard, a proxy-based security filter for MISP (Malware Information Sharing Platform) feed distribution, contains a… |
-| 2026-10-26 11:16:38 | [CVE-2026-89209](https://nvd.nist.gov/vuln/detail/CVE-2026-89209) | High | 7.6 | A vulnerability has been identified in Mendix SAML (Mendix 10 compatible) (All versions < V4.2.4), Mendix SAML (Mendix… |
+| 2026-10-26 12:17:01 | [CVE-2012-20006](https://nvd.nist.gov/vuln/detail/CVE-2012-20006) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-26 12:17:02 | [CVE-2026-105947](https://nvd.nist.gov/vuln/detail/CVE-2026-105947) | Medium | 6.5 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Innotim Software, Telec… |
+| 2026-10-26 12:17:04 | [CVE-2026-115717](https://nvd.nist.gov/vuln/detail/CVE-2026-115717) | Medium | 6.3 | Frappe Builder versions before 1.36.1 contain a server-side request forgery vulnerability in the convert_to_webp API en… |
+| 2026-10-26 12:17:05 | [CVE-2026-115718](https://nvd.nist.gov/vuln/detail/CVE-2026-115718) | Medium | 5.3 | Frappe Builder versions 1.33.0 before1.36.0 contain a missing authorization vulnerability in the improve_prompt endpoin… |
+| 2026-10-26 12:17:05 | [CVE-2026-115720](https://nvd.nist.gov/vuln/detail/CVE-2026-115720) | Medium | 5.3 | Frappe Builder before 1.36.1 contains a server-side request forgery vulnerability in builder/api.py where the assert_no… |
+| 2026-10-26 12:17:06 | [CVE-2026-116260](https://nvd.nist.gov/vuln/detail/CVE-2026-116260) | Medium | 5.5 | A weakness has been identified in libimobiledevice up to 1.4.0. This issue affects the function service_receive of the… |
+| 2026-10-26 12:17:06 | [CVE-2026-116261](https://nvd.nist.gov/vuln/detail/CVE-2026-116261) | Low | 2.0 | A security vulnerability has been detected in libimobiledevice up to 1.4.0. Impacted is the function afc_file_open of t… |
+| 2026-10-26 12:17:06 | [CVE-2026-116262](https://nvd.nist.gov/vuln/detail/CVE-2026-116262) | Low | 2.1 | A vulnerability was detected in libimobiledevice up to 1.4.0. The affected element is the function webinspector_receive… |
+| 2026-10-26 12:17:07 | [CVE-2026-116263](https://nvd.nist.gov/vuln/detail/CVE-2026-116263) | Low | 1.2 | A flaw has been found in HaschekSolutions PictShare up to 3.7.1. The impacted element is the function architect of the… |
+| 2026-10-26 12:17:08 | [CVE-2026-94380](https://nvd.nist.gov/vuln/detail/CVE-2026-94380) | High | 8.1 | Weak Password Recovery Mechanism for Forgotten Password vulnerability in HAVELSAN Inc. Liman MYS allows Password Recove… |
+| 2026-10-26 12:17:08 | [CVE-2026-96432](https://nvd.nist.gov/vuln/detail/CVE-2026-96432) | Low | 2.1 | A malicious or compromised HTTP/2 server withholding SETTINGS ACK can send RST_STREAM on a completed stream, planting a… |
 
 ## Data source
 
