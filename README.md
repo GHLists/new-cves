@@ -9,49 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 16:18 UTC
+## Latest list — 2026-10-26 17:19 UTC
 
-New CVEs published between 2026-10-26 15:19 UTC and 2026-10-26 16:18 UTC.
+New CVEs published between 2026-10-26 16:18 UTC and 2026-10-26 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T16-18-41-781253Z.csv)
+[Full CSV](data/new-cves-2026-10-26T17-19-23-846853Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 16:17:10 | [CVE-2026-107080](https://nvd.nist.gov/vuln/detail/CVE-2026-107080) |  |  | OpenJPEG 2.4.0 through 2.5.4, and git master through commit 8314119b, contains an out-of-bounds read and write in opj_d… |
-| 2026-10-26 16:17:10 | [CVE-2026-107090](https://nvd.nist.gov/vuln/detail/CVE-2026-107090) |  |  | An issue in Maltego Technologies GmbH Maltego Windows Installer 4.13.0 allows a local attacker to execute arbitrary cod… |
-| 2026-10-26 16:17:13 | [CVE-2026-112343](https://nvd.nist.gov/vuln/detail/CVE-2026-112343) | High | 8.6 | Syncplify Server! before 8.8.0 contains an access control bypass vulnerability that allows authenticated SFTP users to… |
-| 2026-10-26 16:17:13 | [CVE-2026-112344](https://nvd.nist.gov/vuln/detail/CVE-2026-112344) | High | 7.6 | Syncplify Server! before 8.8.0 contains a path traversal vulnerability that allows attackers with a symbolic link place… |
-| 2026-10-26 16:17:14 | [CVE-2026-112346](https://nvd.nist.gov/vuln/detail/CVE-2026-112346) | Critical | 9.3 | OpenHands Software Agent SDK before 1.52.0 contains an unauthenticated remote code execution vulnerability where the Do… |
-| 2026-10-26 16:17:17 | [CVE-2026-115678](https://nvd.nist.gov/vuln/detail/CVE-2026-115678) |  |  | Arm Keil MDK-Middleware 8.0.0-8.3.0 may allow pre-authentication out-of-bounds read in SNMP processing |
-| 2026-10-26 16:17:17 | [CVE-2026-115679](https://nvd.nist.gov/vuln/detail/CVE-2026-115679) |  |  | Arm Keil MDK-Middleware 8.3.0 may allow out-of-bounds reads and writes to the FTP Server RX Buffer |
-| 2026-10-26 16:17:17 | [CVE-2026-115680](https://nvd.nist.gov/vuln/detail/CVE-2026-115680) |  |  | Arm Keil MDK-Middleware 8.0.0-8.3.0 may allow DHCPv6 Option-Walk Over-Reads and Unintended Data Retransmission |
-| 2026-10-26 16:17:17 | [CVE-2026-115721](https://nvd.nist.gov/vuln/detail/CVE-2026-115721) | High | 7.5 | **UNSUPPORTED WHEN ASSIGNED** Unbounded allocation in XML parsing in Apache Vysper; all versions, may lead to an out of… |
-| 2026-10-26 16:17:17 | [CVE-2026-115748](https://nvd.nist.gov/vuln/detail/CVE-2026-115748) | High | 8.8 | **UNSUPPORTED WHEN ASSIGNED** Authorization bypass in Apache Vysper, all versions. Apache Vysper is an XMPP (Jabber) se… |
-| 2026-10-26 16:17:17 | [CVE-2026-116367](https://nvd.nist.gov/vuln/detail/CVE-2026-116367) | Medium | 5.3 | A vulnerability was found in DeepSeek Harness up to 0.1.0-rc.5. This vulnerability affects the function createContext o… |
-| 2026-10-26 16:17:18 | [CVE-2026-116368](https://nvd.nist.gov/vuln/detail/CVE-2026-116368) | Medium | 6.9 | A vulnerability was determined in DeepSeek Harness up to 0.2.0-rc.2. This issue affects some unknown processing of the… |
-| 2026-10-26 16:17:18 | [CVE-2026-116369](https://nvd.nist.gov/vuln/detail/CVE-2026-116369) | Medium | 5.3 | A vulnerability was identified in Sunwood-ai-labs github-kanban-mcp-server up to 0.4.0. Impacted is the function handle… |
-| 2026-10-26 16:17:18 | [CVE-2026-116394](https://nvd.nist.gov/vuln/detail/CVE-2026-116394) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Magepeople inc. WpEventl… |
-| 2026-10-26 16:17:18 | [CVE-2026-116489](https://nvd.nist.gov/vuln/detail/CVE-2026-116489) | High | 7.7 | Timescale pgvectorscale before 0.9.1 contains a type confusion vulnerability that allows low-privileged database users… |
-| 2026-10-26 16:17:19 | [CVE-2026-116538](https://nvd.nist.gov/vuln/detail/CVE-2026-116538) | Low | 2.3 | HtmlSanitizer before 9.2.1039 and 10.0 prereleases before 10.0.1037-beta contains a cross-site scripting vulnerability… |
-| 2026-10-26 16:17:19 | [CVE-2026-116539](https://nvd.nist.gov/vuln/detail/CVE-2026-116539) | High | 8.2 | Netty netty-tcnative before 2.0.84.Final contains a heap buffer overflow vulnerability in the tcn_write_to_bytebuffer B… |
-| 2026-10-26 16:17:19 | [CVE-2026-116540](https://nvd.nist.gov/vuln/detail/CVE-2026-116540) | High | 8.2 | netty-tcnative 2.0.66.Final before 2.0.84.Final built against OpenSSL 3.x contains a use-after-free vulnerability in ss… |
-| 2026-10-26 16:17:19 | [CVE-2026-116541](https://nvd.nist.gov/vuln/detail/CVE-2026-116541) | High | 8.2 | Netty netty-tcnative before 2.0.84.Final contains a denial of service vulnerability in the tcn_write_to_bytebuffer BIO… |
-| 2026-10-26 16:17:19 | [CVE-2026-116542](https://nvd.nist.gov/vuln/detail/CVE-2026-116542) | Medium | 6.9 | Netty netty-tcnative before 2.0.84.Final contains an SNI hostname spoofing vulnerability that allows remote unauthentic… |
-| 2026-10-26 16:17:19 | [CVE-2026-116543](https://nvd.nist.gov/vuln/detail/CVE-2026-116543) | High | 8.7 | Open5GS 1.3.0 through 2.8.0 contains a heap out-of-bounds write vulnerability in parse_multipart() that allows unauthen… |
-| 2026-10-26 16:17:20 | [CVE-2026-116544](https://nvd.nist.gov/vuln/detail/CVE-2026-116544) | Medium | 6.3 | Open5GS 2.6.1 through 2.8.0 contains an out-of-bounds read vulnerability in parse_scheme_output() in lib/sbi/conv.c dur… |
-| 2026-10-26 16:17:21 | [CVE-2026-65202](https://nvd.nist.gov/vuln/detail/CVE-2026-65202) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65203](https://nvd.nist.gov/vuln/detail/CVE-2026-65203) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65212](https://nvd.nist.gov/vuln/detail/CVE-2026-65212) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65214](https://nvd.nist.gov/vuln/detail/CVE-2026-65214) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18449. This CVE ID is rejected as a duplicate. |
-| 2026-10-26 16:17:21 | [CVE-2026-65216](https://nvd.nist.gov/vuln/detail/CVE-2026-65216) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18450. This CVE ID is rejected as a duplicate. |
-| 2026-10-26 16:17:21 | [CVE-2026-65215](https://nvd.nist.gov/vuln/detail/CVE-2026-65215) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65217](https://nvd.nist.gov/vuln/detail/CVE-2026-65217) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65218](https://nvd.nist.gov/vuln/detail/CVE-2026-65218) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18451. This CVE ID is rejected as a duplicate. |
-| 2026-10-26 16:17:21 | [CVE-2026-65221](https://nvd.nist.gov/vuln/detail/CVE-2026-65221) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
-| 2026-10-26 16:17:21 | [CVE-2026-65222](https://nvd.nist.gov/vuln/detail/CVE-2026-65222) |  |  | Rejected reason: The reported issue could not be reproduced, and the affected products are end-of-life. This CVE ID is… |
-| 2026-10-26 16:17:21 | [CVE-2026-65226](https://nvd.nist.gov/vuln/detail/CVE-2026-65226) |  |  | Rejected reason: This CVE ID has been rejected by runZero as unused. |
-| 2026-10-26 16:17:23 | [CVE-2026-85297](https://nvd.nist.gov/vuln/detail/CVE-2026-85297) | High | 7.7 | Bucket Squatting in Google Cloud Run MCP versions prior to 1.11.0 on Google Cloud Platform allows an attacker to interc… |
-| 2026-10-26 16:17:23 | [CVE-2026-93846](https://nvd.nist.gov/vuln/detail/CVE-2026-93846) | Low | 3.8 | Mattermost versions 11.7.x <= 11.7.10 fail to restrict which built-in roles can be assigned to a team member via the AP… |
+| 2026-10-26 17:17:09 | [CVE-2013-10077](https://nvd.nist.gov/vuln/detail/CVE-2013-10077) | Medium | 5.5 | A weakness has been identified in OctoPrint 1.0.0. This impacts the function getSettings of the file src/octoprint/serv… |
+| 2026-10-26 17:17:11 | [CVE-2026-106676](https://nvd.nist.gov/vuln/detail/CVE-2026-106676) |  |  | qiujie mall-server 0.0.1-SNAPSHOT contains an integer overflow in CartServiceImpl that allows an authenticated user to… |
+| 2026-10-26 17:17:11 | [CVE-2026-106677](https://nvd.nist.gov/vuln/detail/CVE-2026-106677) |  |  | Homestay3 homestay-backend 0.0.1-SNAPSHOT contains an IDOR in ChatServiceImpl. An authenticated user can view conversat… |
+| 2026-10-26 17:17:12 | [CVE-2026-107091](https://nvd.nist.gov/vuln/detail/CVE-2026-107091) |  |  | An issue in HUION Inspiroy Frego S (L310) Windows Driver 20.0.1.118 allows a local attacker to execute arbitrary code v… |
+| 2026-10-26 17:17:15 | [CVE-2026-114710](https://nvd.nist.gov/vuln/detail/CVE-2026-114710) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Chill Gallery… |
+| 2026-10-26 17:17:16 | [CVE-2026-115418](https://nvd.nist.gov/vuln/detail/CVE-2026-115418) | High | 7.0 | SQL injection in the database-query custom resource handlers in the Amazon Web Services (AWS) Cloud Development Kit (CD… |
+| 2026-10-26 17:17:16 | [CVE-2026-115597](https://nvd.nist.gov/vuln/detail/CVE-2026-115597) | Medium | 5.4 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
+| 2026-10-26 17:17:16 | [CVE-2026-115598](https://nvd.nist.gov/vuln/detail/CVE-2026-115598) | Medium | 5.3 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
+| 2026-10-26 17:17:17 | [CVE-2026-115905](https://nvd.nist.gov/vuln/detail/CVE-2026-115905) | Critical | 10.0 | zip is a zip library for Rust that supports reading and writing simple ZIP files. Through 9.0.4, ZipArchive treats Cent… |
+| 2026-10-26 17:17:17 | [CVE-2026-115906](https://nvd.nist.gov/vuln/detail/CVE-2026-115906) | Medium | 6.5 | zip is a zip library for Rust that supports reading and writing simple ZIP files. From 0.6.0 until 9.0.0, the AES entry… |
+| 2026-10-26 17:17:18 | [CVE-2026-115907](https://nvd.nist.gov/vuln/detail/CVE-2026-115907) | High | 7.5 | zip is a zip library for Rust that supports reading and writing simple ZIP files. From 5.1.0 until 9.0.0, applications… |
+| 2026-10-26 17:17:18 | [CVE-2026-115908](https://nvd.nist.gov/vuln/detail/CVE-2026-115908) | High | 7.4 | zip is a zip library for Rust that supports reading and writing simple ZIP files. From 7.2.0 until 9.0.0, ZipArchive::e… |
+| 2026-10-26 17:17:18 | [CVE-2026-115909](https://nvd.nist.gov/vuln/detail/CVE-2026-115909) | High | 7.5 | zip is a zip library for Rust that supports reading and writing simple ZIP files. From 1.3.0 until 9.0.0, ZipArchive::e… |
+| 2026-10-26 17:17:18 | [CVE-2026-115910](https://nvd.nist.gov/vuln/detail/CVE-2026-115910) | Medium | 6.8 | Python Social Auth is a social authentication and registration mechanism. Prior to 6.2.0, OpenIdConnectAuth in social_c… |
+| 2026-10-26 17:17:18 | [CVE-2026-115911](https://nvd.nist.gov/vuln/detail/CVE-2026-115911) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. From 0.19.0 until 0.32.0, authenticated callers can… |
+| 2026-10-26 17:17:18 | [CVE-2026-115912](https://nvd.nist.gov/vuln/detail/CVE-2026-115912) | High | 7.5 | vLLM is an inference and serving engine for large language models. Prior to 0.32.0, an authenticated caller can place f… |
+| 2026-10-26 17:17:19 | [CVE-2026-115913](https://nvd.nist.gov/vuln/detail/CVE-2026-115913) | Medium | 6.5 | vLLM is an inference and serving engine for large language models. Prior to 0.32.0, the Phi-4 multimodal audio encoder… |
+| 2026-10-26 17:17:25 | [CVE-2026-116370](https://nvd.nist.gov/vuln/detail/CVE-2026-116370) | Low | 2.1 | A security flaw has been discovered in 2K Games Sid Meier's Civilization IV 1.0.12.68. The affected element is the func… |
+| 2026-10-26 17:17:26 | [CVE-2026-116371](https://nvd.nist.gov/vuln/detail/CVE-2026-116371) | Medium | 5.3 | A weakness has been identified in Akuvox Akubela HyPanel PS51 51.130.40.26. The impacted element is an unknown function… |
+| 2026-10-26 17:17:26 | [CVE-2026-116384](https://nvd.nist.gov/vuln/detail/CVE-2026-116384) | Low | 2.1 | A weakness has been identified in Bdtask Garage 24 Garage Management Software 1.0. This vulnerability affects unknown c… |
+| 2026-10-26 17:17:26 | [CVE-2026-116388](https://nvd.nist.gov/vuln/detail/CVE-2026-116388) | Medium | 5.3 | Missing Authorization vulnerability in TMS Amelia ameliabooking allows Exploiting Incorrectly Configured Access Control… |
+| 2026-10-26 17:17:26 | [CVE-2026-116395](https://nvd.nist.gov/vuln/detail/CVE-2026-116395) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins LightBox… |
+| 2026-10-26 17:17:26 | [CVE-2026-116396](https://nvd.nist.gov/vuln/detail/CVE-2026-116396) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in TMS Amelia amelia… |
+| 2026-10-26 17:17:26 | [CVE-2026-116403](https://nvd.nist.gov/vuln/detail/CVE-2026-116403) | Medium | 5.9 | Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') vulnerability in Awesomemot… |
+| 2026-10-26 17:17:27 | [CVE-2026-116596](https://nvd.nist.gov/vuln/detail/CVE-2026-116596) |  |  | Pyrus Sync for Windows contains a local privilege escalation vulnerability caused by missing authorization controls in… |
+| 2026-10-26 17:17:27 | [CVE-2026-116612](https://nvd.nist.gov/vuln/detail/CVE-2026-116612) | High | 7.8 | A flaw was found in GStreamer Editing Services (gst-editing-services). A GES project file can embed an arbitrary GStrea… |
+| 2026-10-26 17:17:27 | [CVE-2026-19742](https://nvd.nist.gov/vuln/detail/CVE-2026-19742) | Low | 3.7 | The IPv6 stack derived the long-lived secret key used to compute RFC 7217 stable interface identifiers (gen_stable_iid(… |
+| 2026-10-26 17:17:28 | [CVE-2026-71455](https://nvd.nist.gov/vuln/detail/CVE-2026-71455) | Medium | 5.3 | Cleartext storage of sensitive information in memory vulnerability in Johnson Controls Kantech Entrapass allows Retriev… |
+| 2026-10-26 17:17:28 | [CVE-2026-71456](https://nvd.nist.gov/vuln/detail/CVE-2026-71456) | High | 8.5 | Use of hard-coded cryptographic key vulnerability in Johnson Controls Kantech Entrapass allows Padding Oracle Crypto At… |
+| 2026-10-26 17:17:30 | [CVE-2026-81038](https://nvd.nist.gov/vuln/detail/CVE-2026-81038) | High | 7.1 | The Object Transfer Service server builds its Object Action Control Point (OACP) response indication in oacp_ind_send()… |
+| 2026-10-26 17:17:30 | [CVE-2026-81039](https://nvd.nist.gov/vuln/detail/CVE-2026-81039) | Medium | 4.3 | The Bluetooth host pre-allocates a bt_conn object (a "reservation") from the fixed acl_conns[] pool for every connectab… |
+| 2026-10-26 17:17:30 | [CVE-2026-82388](https://nvd.nist.gov/vuln/detail/CVE-2026-82388) | Medium | 5.3 | bt_hfp_hf_connect() in subsys/bluetooth/host/classic/hfp_hf.c allocates the per-connection HFP Hands-Free object with h… |
+| 2026-10-26 17:17:30 | [CVE-2026-82389](https://nvd.nist.gov/vuln/detail/CVE-2026-82389) | Medium | 6.5 | In the Bluetooth Classic Hands-Free Profile Audio Gateway role, hfp_ag_create() in subsys/bluetooth/host/classic/hfp_ag… |
+| 2026-10-26 17:17:30 | [CVE-2026-82390](https://nvd.nist.gov/vuln/detail/CVE-2026-82390) | Low | 3.7 | The Espressif AES driver drivers/crypto/crypto_esp32_aes.c advertises a multi-session cipher API — it hands out up to C… |
 
 ## Data source
 
