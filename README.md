@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 03:20 UTC
+## Latest list — 2026-10-26 04:19 UTC
 
-New CVEs published between 2026-10-26 02:18 UTC and 2026-10-26 03:20 UTC.
+New CVEs published between 2026-10-26 03:20 UTC and 2026-10-26 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T03-20-31-279919Z.csv)
+[Full CSV](data/new-cves-2026-10-26T04-19-47-827509Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 03:17:10 | [CVE-2026-116109](https://nvd.nist.gov/vuln/detail/CVE-2026-116109) | Low | 2.1 | A vulnerability has been found in continuedev Continue 2.0.0. This vulnerability affects the function MCPManagerSinglet… |
-| 2026-10-26 03:17:11 | [CVE-2026-116110](https://nvd.nist.gov/vuln/detail/CVE-2026-116110) | Medium | 5.5 | A vulnerability was found in GiantappMan LiveWallPaper 2.6.8.0 on Windows. This issue affects some unknown processing o… |
-| 2026-10-26 03:17:11 | [CVE-2026-116111](https://nvd.nist.gov/vuln/detail/CVE-2026-116111) | Low | 2.1 | A vulnerability was determined in 2K Games Civilization V 1.0.3.144. Impacted is the function loadstring of the compone… |
-| 2026-10-26 03:17:11 | [CVE-2026-116112](https://nvd.nist.gov/vuln/detail/CVE-2026-116112) | Medium | 5.5 | A vulnerability was identified in HashenUdara edoc-doctor-appointment-system up to cc258425b915d1af9e298777ccd26d160493… |
+| 2026-10-26 04:17:47 | [CVE-2026-116113](https://nvd.nist.gov/vuln/detail/CVE-2026-116113) | Low | 2.1 | A security flaw has been discovered in GouGuOA up to 6.1.2. The impacted element is the function chunkUpload of the fil… |
+| 2026-10-26 04:17:54 | [CVE-2026-116114](https://nvd.nist.gov/vuln/detail/CVE-2026-116114) | Low | 2.9 | A weakness has been identified in Yoosee GM8135S Camera 21.00.01.36. This affects an unknown function of the file /npc/… |
+| 2026-10-26 04:17:54 | [CVE-2026-116115](https://nvd.nist.gov/vuln/detail/CVE-2026-116115) | Low | 1.3 | A security vulnerability has been detected in Yoosee GM8135S Camera 21.00.01.36. This impacts an unknown function of th… |
+| 2026-10-26 04:17:55 | [CVE-2026-116116](https://nvd.nist.gov/vuln/detail/CVE-2026-116116) | High | 8.4 | A vulnerability was detected in Yoosee GM8135S Camera 21.00.01.36. Affected is an unknown function of the component Sec… |
 
 ## Data source
 
