@@ -9,35 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 09:19 UTC
+## Latest list — 2026-10-26 10:18 UTC
 
-New CVEs published between 2026-10-26 08:19 UTC and 2026-10-26 09:19 UTC.
+New CVEs published between 2026-10-26 09:19 UTC and 2026-10-26 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T09-19-20-807144Z.csv)
+[Full CSV](data/new-cves-2026-10-26T10-18-36-419893Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 09:16:33 | [CVE-2026-101259](https://nvd.nist.gov/vuln/detail/CVE-2026-101259) | Medium | 5.3 | Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CoAP component. This issue a… |
-| 2026-10-26 09:16:34 | [CVE-2026-110376](https://nvd.nist.gov/vuln/detail/CVE-2026-110376) | Medium | 4.3 | Missing Authorization vulnerability in VillaTheme DEPART depart-deposit-and-part-payment-for-woo allows Exploiting Inco… |
-| 2026-10-26 09:16:34 | [CVE-2026-111841](https://nvd.nist.gov/vuln/detail/CVE-2026-111841) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in Aman FunnelKit Automations wp-marketing-automations allows Cross Sit… |
-| 2026-10-26 09:16:34 | [CVE-2026-112828](https://nvd.nist.gov/vuln/detail/CVE-2026-112828) | Medium | 4.3 | Missing Authorization vulnerability in Meow Apps AI Engine ai-engine allows Exploiting Incorrectly Configured Access Co… |
-| 2026-10-26 09:16:34 | [CVE-2026-113438](https://nvd.nist.gov/vuln/detail/CVE-2026-113438) | Medium | 6.9 | Pleasanter provided fails to properly verify passwords in LDAP authentication when processing specially crafted request… |
-| 2026-10-26 09:16:34 | [CVE-2026-115425](https://nvd.nist.gov/vuln/detail/CVE-2026-115425) | Medium | 5.6 | Multiple cross site scripting (XSS) vulnerabilities affect OPNsense firewall vesrion 26.7.1_1 and earlier allows low pr… |
-| 2026-10-26 09:16:34 | [CVE-2026-116233](https://nvd.nist.gov/vuln/detail/CVE-2026-116233) | High | 8.5 | A security vulnerability has been detected in Oray Pugongying X5 Pro 7.6.1. This impacts an unknown function of the com… |
-| 2026-10-26 09:16:34 | [CVE-2026-116234](https://nvd.nist.gov/vuln/detail/CVE-2026-116234) | High | 8.5 | A vulnerability was detected in Oray Pugongying X5 Pro 7.6.1. Affected is an unknown function of the file /etc/ipsec.co… |
-| 2026-10-26 09:16:35 | [CVE-2026-116235](https://nvd.nist.gov/vuln/detail/CVE-2026-116235) | High | 8.5 | A flaw has been found in Oray Pugongying X5 Pro 7.6.1. Affected by this vulnerability is an unknown functionality of th… |
-| 2026-10-26 09:16:35 | [CVE-2026-116236](https://nvd.nist.gov/vuln/detail/CVE-2026-116236) | High | 7.3 | A vulnerability has been found in Oray Pugongying X5 Pro 7.6.1. Affected by this issue is the function plugin_init of t… |
-| 2026-10-26 09:16:35 | [CVE-2026-116372](https://nvd.nist.gov/vuln/detail/CVE-2026-116372) | High | 7.7 | MISP mispguard is a security filtering proxy that inspects and blocks MISP feed responses based on configured rules. Th… |
-| 2026-10-26 09:16:35 | [CVE-2026-70388](https://nvd.nist.gov/vuln/detail/CVE-2026-70388) | High | 8.3 | SOEM version 2.0.0 and earlier contains vulnerabilities where a malicious device on the network can send specially craf… |
-| 2026-10-26 09:16:36 | [CVE-2026-82943](https://nvd.nist.gov/vuln/detail/CVE-2026-82943) | Medium | 6.5 | SOEM version 2.0.0 and earlier contains vulnerabilities where a malicious device can send messages that cause the maste… |
-| 2026-10-26 09:16:36 | [CVE-2026-82944](https://nvd.nist.gov/vuln/detail/CVE-2026-82944) | High | 8.8 | SOEM version 2.0.0 and earlier contains a vulnerability in multi-segment data transfers where a malicious device can ov… |
-| 2026-10-26 09:16:36 | [CVE-2026-82945](https://nvd.nist.gov/vuln/detail/CVE-2026-82945) | Medium | 6.5 | SOEM version 2.0.0 and earlier contains a vulnerability during device configuration where a malicious device can cause… |
-| 2026-10-26 09:16:36 | [CVE-2026-82946](https://nvd.nist.gov/vuln/detail/CVE-2026-82946) | Medium | 6.5 | SOEM version 2.0.0 and earlier contains a vulnerability where a malicious device can crash the master system. When the… |
-| 2026-10-26 09:16:36 | [CVE-2026-82947](https://nvd.nist.gov/vuln/detail/CVE-2026-82947) | High | 7.1 | SOEM version 2.0.0 and earlier contains multiple vulnerabilities in frame processing where a malicious device can cause… |
-| 2026-10-26 09:16:36 | [CVE-2026-95628](https://nvd.nist.gov/vuln/detail/CVE-2026-95628) | Medium | 5.4 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache Camel Docling co… |
-| 2026-10-26 09:16:36 | [CVE-2026-95629](https://nvd.nist.gov/vuln/detail/CVE-2026-95629) | Medium | 5.4 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache Camel Docling co… |
-| 2026-10-26 09:16:37 | [CVE-2026-95663](https://nvd.nist.gov/vuln/detail/CVE-2026-95663) | Medium | 4.8 | Insufficient Session Expiration vulnerability in Apache Camel Keycloak component. This issue affects Apache Camel: from… |
-| 2026-10-26 09:16:37 | [CVE-2026-95664](https://nvd.nist.gov/vuln/detail/CVE-2026-95664) | Medium | 5.4 | Improper Neutralization of Special Elements used in an Expression Language Statement ('Expression Language Injection')… |
+| 2026-10-26 10:16:50 | [CVE-2026-103377](https://nvd.nist.gov/vuln/detail/CVE-2026-103377) | Medium | 5.1 | A reflected Cross-Site Scripting (XSS) vulnerability has been identified in the web application of the Castile-La Manch… |
+| 2026-10-26 10:16:51 | [CVE-2026-110377](https://nvd.nist.gov/vuln/detail/CVE-2026-110377) | Medium | 5.3 | Missing Authorization vulnerability in VillaTheme Bopo – WooCommerce Product Bundle Builder bopo-woo-product-bundle-bui… |
+| 2026-10-26 10:16:51 | [CVE-2026-112250](https://nvd.nist.gov/vuln/detail/CVE-2026-112250) | Medium | 4.4 | A vulnerability has been identified in BRAIN2 versions up to and including version 3.09. Under specific installation co… |
+| 2026-10-26 10:16:51 | [CVE-2026-112865](https://nvd.nist.gov/vuln/detail/CVE-2026-112865) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WProyal Royal Ele… |
+| 2026-10-26 10:16:51 | [CVE-2026-114709](https://nvd.nist.gov/vuln/detail/CVE-2026-114709) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Igor Funa Ad Inse… |
+| 2026-10-26 10:16:51 | [CVE-2026-115602](https://nvd.nist.gov/vuln/detail/CVE-2026-115602) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
+| 2026-10-26 10:16:51 | [CVE-2026-115613](https://nvd.nist.gov/vuln/detail/CVE-2026-115613) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Image Ga… |
+| 2026-10-26 10:16:52 | [CVE-2026-115614](https://nvd.nist.gov/vuln/detail/CVE-2026-115614) | Medium | 5.3 | Missing Authorization vulnerability in Magepeople inc. Booking and Rental Manager booking-and-rental-manager-for-woocom… |
+| 2026-10-26 10:16:52 | [CVE-2026-115949](https://nvd.nist.gov/vuln/detail/CVE-2026-115949) | Medium | 6.5 | Missing Authorization vulnerability in WP Smart Widgets Better Post & Filter Widgets for Elementor better-post-filter-w… |
+| 2026-10-26 10:16:52 | [CVE-2026-115958](https://nvd.nist.gov/vuln/detail/CVE-2026-115958) | Medium | 5.3 | Missing Authorization vulnerability in WP Discussion Board WP Discussion Board wp-discussion-board allows Exploiting In… |
+| 2026-10-26 10:16:52 | [CVE-2026-116237](https://nvd.nist.gov/vuln/detail/CVE-2026-116237) | High | 8.5 | A vulnerability was found in Oray Pugongying X5 Pro 7.6.1. This affects an unknown part of the component Dnsmasq. Perfo… |
+| 2026-10-26 10:16:52 | [CVE-2026-116253](https://nvd.nist.gov/vuln/detail/CVE-2026-116253) | Medium | 6.9 | A vulnerability was determined in DedeCMS 5.7.118. This vulnerability affects the function common.inc.php::_RunMagicQuo… |
+| 2026-10-26 10:16:52 | [CVE-2026-116254](https://nvd.nist.gov/vuln/detail/CVE-2026-116254) | Medium | 5.5 | A vulnerability was identified in rathena FluxCP up to 98cd4b8fd83228c11b36fb3d097b8e0f7c105a8d. This issue affects the… |
+| 2026-10-26 10:16:53 | [CVE-2026-116255](https://nvd.nist.gov/vuln/detail/CVE-2026-116255) | Medium | 5.5 | A vulnerability has been found in PGYER codefever up to 0c35e60f006f9d558cc33a159baf110659351990. Affected is the funct… |
+| 2026-10-26 10:16:53 | [CVE-2026-4316](https://nvd.nist.gov/vuln/detail/CVE-2026-4316) | Medium | 5.1 | Reflected Cross-Site Scripting (XSS) in Gym Management Software IsMyGym by Zuinq Studio affecting the reservation endpo… |
+| 2026-10-26 10:16:53 | [CVE-2026-97254](https://nvd.nist.gov/vuln/detail/CVE-2026-97254) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WProyal Royal Ele… |
+| 2026-10-26 10:16:53 | [CVE-2026-97255](https://nvd.nist.gov/vuln/detail/CVE-2026-97255) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in WProyal Royal Elementor Addons royal-elementor-addons… |
+| 2026-10-26 10:16:53 | [CVE-2026-97295](https://nvd.nist.gov/vuln/detail/CVE-2026-97295) | Medium | 4.3 | Cross-Site Request Forgery (CSRF) vulnerability in David Lingren Media LIbrary Assistant media-library-assistant allows… |
 
 ## Data source
 
