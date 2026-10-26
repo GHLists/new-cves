@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:19 UTC
+## Latest list — 2026-10-26 00:18 UTC
 
-New CVEs published between 2026-10-25 22:18 UTC and 2026-10-25 23:19 UTC.
+New CVEs published between 2026-10-25 23:19 UTC and 2026-10-26 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-25T23-19-25-637823Z.csv)
+[Full CSV](data/new-cves-2026-10-26T00-18-35-990908Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-25 23:17:41 | [CVE-2026-116095](https://nvd.nist.gov/vuln/detail/CVE-2026-116095) | Medium | 5.5 | A vulnerability was identified in smg-project smg 1.7.0/1.8.0/1.9.0/1.10.0/1.10.1. Affected is the function jpeg_turbo:… |
-| 2026-10-25 23:17:41 | [CVE-2026-116096](https://nvd.nist.gov/vuln/detail/CVE-2026-116096) | Low | 1.9 | A weakness has been identified in ggml-org llama.cpp. Affected by this issue is the function list_pockettts_state_slots… |
+| 2026-10-26 00:17:14 | [CVE-2026-116097](https://nvd.nist.gov/vuln/detail/CVE-2026-116097) | Low | 2.1 | A security vulnerability has been detected in CloudClassroom-PHP-Project. This affects an unknown part of the file addn… |
+| 2026-10-26 00:17:14 | [CVE-2026-116098](https://nvd.nist.gov/vuln/detail/CVE-2026-116098) | Medium | 5.3 | A vulnerability was detected in SteelRaven7 Ravenfield 25407073. This vulnerability affects the function cacheCoverPoin… |
+| 2026-10-26 00:17:14 | [CVE-2026-116099](https://nvd.nist.gov/vuln/detail/CVE-2026-116099) | Low | 2.1 | A flaw has been found in Fusion Creators Studio SCP Containment Breach Multiplayer up to 1.295. This issue affects the… |
 
 ## Data source
 
