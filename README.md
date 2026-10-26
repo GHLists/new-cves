@@ -9,58 +9,49 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:19 UTC
+## Latest list — 2026-10-26 16:18 UTC
 
-New CVEs published between 2026-10-26 14:18 UTC and 2026-10-26 15:19 UTC.
+New CVEs published between 2026-10-26 15:19 UTC and 2026-10-26 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-26T15-19-55-583559Z.csv)
+[Full CSV](data/new-cves-2026-10-26T16-18-41-781253Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-26 15:16:35 | [CVE-2026-106781](https://nvd.nist.gov/vuln/detail/CVE-2026-106781) |  |  | An issue in WCH CH340/CH341 USB-to-Serial Windows Driver setup package CH341SER.EXE version 4.0 allows a local attacker… |
-| 2026-10-26 15:16:36 | [CVE-2026-110733](https://nvd.nist.gov/vuln/detail/CVE-2026-110733) |  |  | Vulnerability in the SQL storage module of Apache SIS. When sorting a stream of features, the clause is copied after OR… |
-| 2026-10-26 15:16:36 | [CVE-2026-110748](https://nvd.nist.gov/vuln/detail/CVE-2026-110748) |  |  | This issue affects Apache SIS from version 0.7 through 1.6 inclusive. When a data file contains links to other files, A… |
-| 2026-10-26 15:16:38 | [CVE-2026-112345](https://nvd.nist.gov/vuln/detail/CVE-2026-112345) | High | 8.6 | TTLock Android application before v9.8.260718 and associated smart-lock firmware contain a hardcoded static AES key vul… |
-| 2026-10-26 15:16:39 | [CVE-2026-115930](https://nvd.nist.gov/vuln/detail/CVE-2026-115930) | High | 7.6 | The MongoDB Shell (mongosh) relies on Node.js as a third-party runtime that carries its own TLS root certificate store.… |
-| 2026-10-26 15:16:39 | [CVE-2026-116284](https://nvd.nist.gov/vuln/detail/CVE-2026-116284) | Medium | 5.3 | A security vulnerability has been detected in Kameleo up to 5.3.1. This vulnerability affects unknown code of the file… |
-| 2026-10-26 15:16:39 | [CVE-2026-116339](https://nvd.nist.gov/vuln/detail/CVE-2026-116339) | Medium | 5.5 | A vulnerability was determined in iFlytek astron-agent up to 1.1.2. This affects an unknown function of the file core/m… |
-| 2026-10-26 15:16:40 | [CVE-2026-116340](https://nvd.nist.gov/vuln/detail/CVE-2026-116340) | Low | 2.1 | A vulnerability was identified in iFlytek astron-agent up to 1.1.2. This impacts the function FileInfoV2Service.listKno… |
-| 2026-10-26 15:16:40 | [CVE-2026-116497](https://nvd.nist.gov/vuln/detail/CVE-2026-116497) | Medium | 5.5 | A NULL pointer dereference vulnerability was found in gssproxy. When a GSSX_INIT_SEC_CONTEXT request is received with t… |
-| 2026-10-26 15:16:40 | [CVE-2026-31158](https://nvd.nist.gov/vuln/detail/CVE-2026-31158) |  |  | SQL Injection vulnerability in CRM SOFTTRADE Infotech (aka softtradeindia) 1.0 allows a remote attacker to execute arbi… |
-| 2026-10-26 15:16:40 | [CVE-2026-36698](https://nvd.nist.gov/vuln/detail/CVE-2026-36698) |  |  | Xovis AG APS-R-POE, APS-R-POE-PP, APS-R, APS-R-POE-USB, and APS-B 2.10.1.1 and earlier contains an OS command injection… |
-| 2026-10-26 15:16:40 | [CVE-2026-3322](https://nvd.nist.gov/vuln/detail/CVE-2026-3322) | Medium | 5.6 | Due to improper permission checks in Lobster_pro, attackers are able to interact with endpoints that should require adm… |
-| 2026-10-26 15:16:41 | [CVE-2026-65184](https://nvd.nist.gov/vuln/detail/CVE-2026-65184) | Critical | 9.8 | The root-privileged `wsserver` terminal-bridge daemon builds a shell command from client-supplied WebSocket fields and… |
-| 2026-10-26 15:16:42 | [CVE-2026-77052](https://nvd.nist.gov/vuln/detail/CVE-2026-77052) | High | 8.7 | boneIO Black exposes a Node-RED instance without authentication at the /nodered/ path through a Caddy reverse proxy. Th… |
-| 2026-10-26 15:16:42 | [CVE-2026-77053](https://nvd.nist.gov/vuln/detail/CVE-2026-77053) | High | 8.7 | boneIO Black firmware ships with authentication disabled by default. Its management web API listens on all network inte… |
-| 2026-10-26 15:16:42 | [CVE-2026-77054](https://nvd.nist.gov/vuln/detail/CVE-2026-77054) | Medium | 6.9 | boneIO Black stores passwords, including the MQTT broker and web panel passwords, in cleartext. The GET /api/config end… |
-| 2026-10-26 15:16:43 | [CVE-2026-77055](https://nvd.nist.gov/vuln/detail/CVE-2026-77055) | Critical | 9.3 | boneIO black_debian_images gives the boneio service account excessive privileges, including full passwordless sudo acce… |
-| 2026-10-26 15:16:43 | [CVE-2026-77056](https://nvd.nist.gov/vuln/detail/CVE-2026-77056) | High | 7.1 | boneIO black_debian_images ships with a Mosquitto MQTT broker that uses the same default credentials on all devices. Th… |
-| 2026-10-26 15:16:43 | [CVE-2026-77057](https://nvd.nist.gov/vuln/detail/CVE-2026-77057) | Low | 2.3 | boneIO Black does not limit authentication attempts on its web interface (POST /api/login) or SSH service, and does not… |
-| 2026-10-26 15:16:43 | [CVE-2026-77058](https://nvd.nist.gov/vuln/detail/CVE-2026-77058) | Medium | 5.1 | boneIO Black is vulnerable to Cross-Site Request Forgery (CSRF) on all state-changing API endpoints because it lacks CS… |
-| 2026-10-26 15:16:43 | [CVE-2026-77059](https://nvd.nist.gov/vuln/detail/CVE-2026-77059) | High | 8.8 | boneIO Black contains a TOCTOU race condition in the create_timedatectl_sudoers_file() function in boneio/webui/routes/… |
-| 2026-10-26 15:16:43 | [CVE-2026-77060](https://nvd.nist.gov/vuln/detail/CVE-2026-77060) | Medium | 6.8 | boneIO black_debian_images stores the Mosquitto MQTT broker password file at /etc/mosquitto/passwd with world-readable… |
-| 2026-10-26 15:16:44 | [CVE-2026-77061](https://nvd.nist.gov/vuln/detail/CVE-2026-77061) | Medium | 5.3 | boneIO Black directly excludes several API endpoints from the authentication. An unauthenticated remote attacker on the… |
-| 2026-10-26 15:16:44 | [CVE-2026-77062](https://nvd.nist.gov/vuln/detail/CVE-2026-77062) | Medium | 6.9 | The boneIO Black web interface lacks proper clickjacking protections. A remote attacker can embed the control panel in… |
-| 2026-10-26 15:16:45 | [CVE-2026-90885](https://nvd.nist.gov/vuln/detail/CVE-2026-90885) | High | 7.5 | Improper Restriction of XML External Entity Reference vulnerability in Apache Camel Saxon component. This issue affects… |
-| 2026-10-26 15:16:45 | [CVE-2026-92171](https://nvd.nist.gov/vuln/detail/CVE-2026-92171) | Medium | 6.5 | A flaw was found in the Infinispan Operator for Red Hat Data Grid. When cross-site (xsite) TLS is enabled, the operator… |
-| 2026-10-26 15:16:45 | [CVE-2026-93328](https://nvd.nist.gov/vuln/detail/CVE-2026-93328) | Critical | 9.3 | Path Traversal and Missing Authorization in cloud-storage source in Google Cloud MCP Toolbox for Databases (googleapis/… |
-| 2026-10-26 15:16:46 | [CVE-2026-93847](https://nvd.nist.gov/vuln/detail/CVE-2026-93847) | Low | 3.5 | Mattermost versions 11.7.x <= 11.7.10 fail to validate reserved system post types on the scheduled post creation and pu… |
-| 2026-10-26 15:16:46 | [CVE-2026-93848](https://nvd.nist.gov/vuln/detail/CVE-2026-93848) | Low | 2.7 | Mattermost versions 11.7.x <= 11.7.10 fail to apply outbound internal-connection filtering to the OpenID discovery endp… |
-| 2026-10-26 15:16:46 | [CVE-2026-93849](https://nvd.nist.gov/vuln/detail/CVE-2026-93849) | Medium | 6.5 | Mattermost versions 11.9.x <= 11.9.1, 11.8.x <= 11.8.5, 11.7.x <= 11.7.10, 11.10.x <= 11.10.1 Mattermost fail to apply… |
-| 2026-10-26 15:16:46 | [CVE-2026-93850](https://nvd.nist.gov/vuln/detail/CVE-2026-93850) | Medium | 6.5 | Mattermost versions 11.9.x <= 11.9.1, 11.8.x <= 11.8.5, 11.7.x <= 11.7.10, 11.10.x <= 11.10.1 fail to bind the volume o… |
-| 2026-10-26 15:16:46 | [CVE-2026-94386](https://nvd.nist.gov/vuln/detail/CVE-2026-94386) | Medium | 4.8 | Use of Cache Containing Sensitive Information vulnerability in Apache Camel Oauth component. This issue affects Apache… |
-| 2026-10-26 15:16:47 | [CVE-2026-99088](https://nvd.nist.gov/vuln/detail/CVE-2026-99088) |  |  | In the Linux kernel, the following vulnerability has been resolved: net: openvswitch: validate transport header presenc… |
-| 2026-10-26 15:16:47 | [CVE-2026-99089](https://nvd.nist.gov/vuln/detail/CVE-2026-99089) |  |  | In the Linux kernel, the following vulnerability has been resolved: ASoC: samsung: i2s: enable op_clk in probe to balan… |
-| 2026-10-26 15:16:47 | [CVE-2026-99090](https://nvd.nist.gov/vuln/detail/CVE-2026-99090) |  |  | In the Linux kernel, the following vulnerability has been resolved: drm/amdgpu: serialize vblank counter reads against… |
-| 2026-10-26 15:16:47 | [CVE-2026-99091](https://nvd.nist.gov/vuln/detail/CVE-2026-99091) |  |  | In the Linux kernel, the following vulnerability has been resolved: Bluetooth: MGMT: Fix status of pending commands flu… |
-| 2026-10-26 15:16:48 | [CVE-2026-99092](https://nvd.nist.gov/vuln/detail/CVE-2026-99092) |  |  | In the Linux kernel, the following vulnerability has been resolved: riscv: patch: fix handling of bpf-jit execmem addre… |
-| 2026-10-26 15:16:48 | [CVE-2026-99093](https://nvd.nist.gov/vuln/detail/CVE-2026-99093) |  |  | In the Linux kernel, the following vulnerability has been resolved: mm: don't schedule deferred kernel page table freei… |
-| 2026-10-26 15:16:48 | [CVE-2026-99094](https://nvd.nist.gov/vuln/detail/CVE-2026-99094) |  |  | In the Linux kernel, the following vulnerability has been resolved: Bluetooth: btintel_pcie: fix TX descriptor bounds c… |
-| 2026-10-26 15:16:48 | [CVE-2026-99095](https://nvd.nist.gov/vuln/detail/CVE-2026-99095) |  |  | In the Linux kernel, the following vulnerability has been resolved: drm/vc4: drain the hangcheck timer and works on V3D… |
-| 2026-10-26 15:16:48 | [CVE-2026-99096](https://nvd.nist.gov/vuln/detail/CVE-2026-99096) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/register: don't exempt disabled rings from… |
-| 2026-10-26 15:16:48 | [CVE-2026-99097](https://nvd.nist.gov/vuln/detail/CVE-2026-99097) |  |  | In the Linux kernel, the following vulnerability has been resolved: tee: shm: reject zero-sized allocations in tee_dyn_… |
-| 2026-10-26 15:16:48 | [CVE-2026-99098](https://nvd.nist.gov/vuln/detail/CVE-2026-99098) |  |  | In the Linux kernel, the following vulnerability has been resolved: dm-integrity: fix buffer overflow in inline mode wi… |
-| 2026-10-26 15:16:48 | [CVE-2026-99099](https://nvd.nist.gov/vuln/detail/CVE-2026-99099) |  |  | In the Linux kernel, the following vulnerability has been resolved: x86/CPU/AMD: Fix AMD TLBI Erratum #1718 The process… |
+| 2026-10-26 16:17:10 | [CVE-2026-107080](https://nvd.nist.gov/vuln/detail/CVE-2026-107080) |  |  | OpenJPEG 2.4.0 through 2.5.4, and git master through commit 8314119b, contains an out-of-bounds read and write in opj_d… |
+| 2026-10-26 16:17:10 | [CVE-2026-107090](https://nvd.nist.gov/vuln/detail/CVE-2026-107090) |  |  | An issue in Maltego Technologies GmbH Maltego Windows Installer 4.13.0 allows a local attacker to execute arbitrary cod… |
+| 2026-10-26 16:17:13 | [CVE-2026-112343](https://nvd.nist.gov/vuln/detail/CVE-2026-112343) | High | 8.6 | Syncplify Server! before 8.8.0 contains an access control bypass vulnerability that allows authenticated SFTP users to… |
+| 2026-10-26 16:17:13 | [CVE-2026-112344](https://nvd.nist.gov/vuln/detail/CVE-2026-112344) | High | 7.6 | Syncplify Server! before 8.8.0 contains a path traversal vulnerability that allows attackers with a symbolic link place… |
+| 2026-10-26 16:17:14 | [CVE-2026-112346](https://nvd.nist.gov/vuln/detail/CVE-2026-112346) | Critical | 9.3 | OpenHands Software Agent SDK before 1.52.0 contains an unauthenticated remote code execution vulnerability where the Do… |
+| 2026-10-26 16:17:17 | [CVE-2026-115678](https://nvd.nist.gov/vuln/detail/CVE-2026-115678) |  |  | Arm Keil MDK-Middleware 8.0.0-8.3.0 may allow pre-authentication out-of-bounds read in SNMP processing |
+| 2026-10-26 16:17:17 | [CVE-2026-115679](https://nvd.nist.gov/vuln/detail/CVE-2026-115679) |  |  | Arm Keil MDK-Middleware 8.3.0 may allow out-of-bounds reads and writes to the FTP Server RX Buffer |
+| 2026-10-26 16:17:17 | [CVE-2026-115680](https://nvd.nist.gov/vuln/detail/CVE-2026-115680) |  |  | Arm Keil MDK-Middleware 8.0.0-8.3.0 may allow DHCPv6 Option-Walk Over-Reads and Unintended Data Retransmission |
+| 2026-10-26 16:17:17 | [CVE-2026-115721](https://nvd.nist.gov/vuln/detail/CVE-2026-115721) | High | 7.5 | **UNSUPPORTED WHEN ASSIGNED** Unbounded allocation in XML parsing in Apache Vysper; all versions, may lead to an out of… |
+| 2026-10-26 16:17:17 | [CVE-2026-115748](https://nvd.nist.gov/vuln/detail/CVE-2026-115748) | High | 8.8 | **UNSUPPORTED WHEN ASSIGNED** Authorization bypass in Apache Vysper, all versions. Apache Vysper is an XMPP (Jabber) se… |
+| 2026-10-26 16:17:17 | [CVE-2026-116367](https://nvd.nist.gov/vuln/detail/CVE-2026-116367) | Medium | 5.3 | A vulnerability was found in DeepSeek Harness up to 0.1.0-rc.5. This vulnerability affects the function createContext o… |
+| 2026-10-26 16:17:18 | [CVE-2026-116368](https://nvd.nist.gov/vuln/detail/CVE-2026-116368) | Medium | 6.9 | A vulnerability was determined in DeepSeek Harness up to 0.2.0-rc.2. This issue affects some unknown processing of the… |
+| 2026-10-26 16:17:18 | [CVE-2026-116369](https://nvd.nist.gov/vuln/detail/CVE-2026-116369) | Medium | 5.3 | A vulnerability was identified in Sunwood-ai-labs github-kanban-mcp-server up to 0.4.0. Impacted is the function handle… |
+| 2026-10-26 16:17:18 | [CVE-2026-116394](https://nvd.nist.gov/vuln/detail/CVE-2026-116394) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Magepeople inc. WpEventl… |
+| 2026-10-26 16:17:18 | [CVE-2026-116489](https://nvd.nist.gov/vuln/detail/CVE-2026-116489) | High | 7.7 | Timescale pgvectorscale before 0.9.1 contains a type confusion vulnerability that allows low-privileged database users… |
+| 2026-10-26 16:17:19 | [CVE-2026-116538](https://nvd.nist.gov/vuln/detail/CVE-2026-116538) | Low | 2.3 | HtmlSanitizer before 9.2.1039 and 10.0 prereleases before 10.0.1037-beta contains a cross-site scripting vulnerability… |
+| 2026-10-26 16:17:19 | [CVE-2026-116539](https://nvd.nist.gov/vuln/detail/CVE-2026-116539) | High | 8.2 | Netty netty-tcnative before 2.0.84.Final contains a heap buffer overflow vulnerability in the tcn_write_to_bytebuffer B… |
+| 2026-10-26 16:17:19 | [CVE-2026-116540](https://nvd.nist.gov/vuln/detail/CVE-2026-116540) | High | 8.2 | netty-tcnative 2.0.66.Final before 2.0.84.Final built against OpenSSL 3.x contains a use-after-free vulnerability in ss… |
+| 2026-10-26 16:17:19 | [CVE-2026-116541](https://nvd.nist.gov/vuln/detail/CVE-2026-116541) | High | 8.2 | Netty netty-tcnative before 2.0.84.Final contains a denial of service vulnerability in the tcn_write_to_bytebuffer BIO… |
+| 2026-10-26 16:17:19 | [CVE-2026-116542](https://nvd.nist.gov/vuln/detail/CVE-2026-116542) | Medium | 6.9 | Netty netty-tcnative before 2.0.84.Final contains an SNI hostname spoofing vulnerability that allows remote unauthentic… |
+| 2026-10-26 16:17:19 | [CVE-2026-116543](https://nvd.nist.gov/vuln/detail/CVE-2026-116543) | High | 8.7 | Open5GS 1.3.0 through 2.8.0 contains a heap out-of-bounds write vulnerability in parse_multipart() that allows unauthen… |
+| 2026-10-26 16:17:20 | [CVE-2026-116544](https://nvd.nist.gov/vuln/detail/CVE-2026-116544) | Medium | 6.3 | Open5GS 2.6.1 through 2.8.0 contains an out-of-bounds read vulnerability in parse_scheme_output() in lib/sbi/conv.c dur… |
+| 2026-10-26 16:17:21 | [CVE-2026-65202](https://nvd.nist.gov/vuln/detail/CVE-2026-65202) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65203](https://nvd.nist.gov/vuln/detail/CVE-2026-65203) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65212](https://nvd.nist.gov/vuln/detail/CVE-2026-65212) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65214](https://nvd.nist.gov/vuln/detail/CVE-2026-65214) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18449. This CVE ID is rejected as a duplicate. |
+| 2026-10-26 16:17:21 | [CVE-2026-65216](https://nvd.nist.gov/vuln/detail/CVE-2026-65216) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18450. This CVE ID is rejected as a duplicate. |
+| 2026-10-26 16:17:21 | [CVE-2026-65215](https://nvd.nist.gov/vuln/detail/CVE-2026-65215) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65217](https://nvd.nist.gov/vuln/detail/CVE-2026-65217) |  |  | Rejected reason: The reported issue could not be reproduced. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65218](https://nvd.nist.gov/vuln/detail/CVE-2026-65218) |  |  | Rejected reason: The reported issue is tracked under CVE-2026-18451. This CVE ID is rejected as a duplicate. |
+| 2026-10-26 16:17:21 | [CVE-2026-65221](https://nvd.nist.gov/vuln/detail/CVE-2026-65221) |  |  | Rejected reason: The reported issue was assessed as intended functionality. This CVE ID is unused by the CNA. |
+| 2026-10-26 16:17:21 | [CVE-2026-65222](https://nvd.nist.gov/vuln/detail/CVE-2026-65222) |  |  | Rejected reason: The reported issue could not be reproduced, and the affected products are end-of-life. This CVE ID is… |
+| 2026-10-26 16:17:21 | [CVE-2026-65226](https://nvd.nist.gov/vuln/detail/CVE-2026-65226) |  |  | Rejected reason: This CVE ID has been rejected by runZero as unused. |
+| 2026-10-26 16:17:23 | [CVE-2026-85297](https://nvd.nist.gov/vuln/detail/CVE-2026-85297) | High | 7.7 | Bucket Squatting in Google Cloud Run MCP versions prior to 1.11.0 on Google Cloud Platform allows an attacker to interc… |
+| 2026-10-26 16:17:23 | [CVE-2026-93846](https://nvd.nist.gov/vuln/detail/CVE-2026-93846) | Low | 3.8 | Mattermost versions 11.7.x <= 11.7.10 fail to restrict which built-in roles can be assigned to a team member via the AP… |
 
 ## Data source
 
