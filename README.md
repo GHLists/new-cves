@@ -9,36 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 12:18 UTC
+## Latest list — 2026-10-27 13:18 UTC
 
-New CVEs published between 2026-10-27 11:21 UTC and 2026-10-27 12:18 UTC.
+New CVEs published between 2026-10-27 12:18 UTC and 2026-10-27 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T12-18-40-486712Z.csv)
+[Full CSV](data/new-cves-2026-10-27T13-18-38-53355Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 12:17:04 | [CVE-2026-102800](https://nvd.nist.gov/vuln/detail/CVE-2026-102800) | High | 8.7 | Joomla Extension - dj-extensions.com - Unauthenticated Stored XSS in DJ-HelpfulArticles < 1.3.0 - The “was this article… |
-| 2026-10-27 12:17:04 | [CVE-2026-105323](https://nvd.nist.gov/vuln/detail/CVE-2026-105323) | Medium | 6.1 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Kulga Software an… |
-| 2026-10-27 12:17:04 | [CVE-2026-106087](https://nvd.nist.gov/vuln/detail/CVE-2026-106087) | High | 8.7 | TRO600 contains an arbitrary file read vulnerability. An unauthenticated attacker can exploit this vulnerability to rea… |
-| 2026-10-27 12:17:04 | [CVE-2026-109995](https://nvd.nist.gov/vuln/detail/CVE-2026-109995) | High | 7.2 | The Advanced Views – Display Framework for Gutenberg & Elementor plugin for WordPress is vulnerable to Stored Cross-Sit… |
-| 2026-10-27 12:17:04 | [CVE-2026-10752](https://nvd.nist.gov/vuln/detail/CVE-2026-10752) | Medium | 4.8 | The Advanced Custom Fields: Extended plugin for WordPress is vulnerable to authorization bypass in all versions up to,… |
-| 2026-10-27 12:17:04 | [CVE-2026-10756](https://nvd.nist.gov/vuln/detail/CVE-2026-10756) | High | 7.7 | TRO600 contains a vulnerability that allows an authenticated attacker to bypass network access restrictions and access… |
-| 2026-10-27 12:17:04 | [CVE-2026-112362](https://nvd.nist.gov/vuln/detail/CVE-2026-112362) | Critical | 9.1 | @fastify/express is a Fastify plugin that runs Express middleware inside Fastify. In versions 4.0.5 through 4.0.8, when… |
-| 2026-10-27 12:17:05 | [CVE-2026-113644](https://nvd.nist.gov/vuln/detail/CVE-2026-113644) | Medium | 5.5 | In Eclipse ioFog iofogctl versions 1.0.0 through 3.7.0 and 3.8.0-rc.1 through 3.9.1, the provisioning key and CA certif… |
-| 2026-10-27 12:17:07 | [CVE-2026-115216](https://nvd.nist.gov/vuln/detail/CVE-2026-115216) | Critical | 9.1 | In Eclipse ioFog Operator versions 3.8.0 before 3.9.2, TLS certificate verification is disabled when the operator conta… |
-| 2026-10-27 12:17:07 | [CVE-2026-115408](https://nvd.nist.gov/vuln/detail/CVE-2026-115408) | Medium | 5.5 | In `github.com/eclipse-keypont/crypto11/v2` versions `>= 2.0.0-rc3, <= 2.0.0-rc8`, the ML-KEM key-pair lookup functions… |
-| 2026-10-27 12:17:07 | [CVE-2026-117499](https://nvd.nist.gov/vuln/detail/CVE-2026-117499) | Low | 3.7 | @fastify/session is a session plugin for Fastify. In all releases before 11.1.6, with the default rolling session behav… |
-| 2026-10-27 12:17:07 | [CVE-2026-13162](https://nvd.nist.gov/vuln/detail/CVE-2026-13162) | High | 7.7 | An OS command vulnerability exists in CoreTec product that allows authenticated users with certain roles to execute arb… |
-| 2026-10-27 12:17:07 | [CVE-2026-41020](https://nvd.nist.gov/vuln/detail/CVE-2026-41020) | High | 7.5 | Eaton easyE4 uses a static nonce during authentication, which could allow an unauthenticated attacker with access to ca… |
-| 2026-10-27 12:17:07 | [CVE-2026-41021](https://nvd.nist.gov/vuln/detail/CVE-2026-41021) | High | 7.5 | Eaton easyE4 uses an insufficiently strong password policy. An attacker who obtains a password hash, including through… |
-| 2026-10-27 12:17:07 | [CVE-2026-41022](https://nvd.nist.gov/vuln/detail/CVE-2026-41022) | Medium | 5.9 | Eaton easySoft improperly validates TLS certificates presented by easyE4 devices. A network-adjacent attacker could exp… |
-| 2026-10-27 12:17:08 | [CVE-2026-4337](https://nvd.nist.gov/vuln/detail/CVE-2026-4337) | High | 8.8 | Unrestricted Upload of File with Dangerous Type vulnerability in the PuMuKIT application allows a unauthenticated user… |
-| 2026-10-27 12:17:08 | [CVE-2026-56084](https://nvd.nist.gov/vuln/detail/CVE-2026-56084) | Medium | 5.8 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.7, LTS2024 release versions 7.13.1.0 through… |
-| 2026-10-27 12:17:08 | [CVE-2026-90728](https://nvd.nist.gov/vuln/detail/CVE-2026-90728) | Medium | 6.3 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.7, LTS2024 release versions 7.13.1.0 through… |
-| 2026-10-27 12:17:08 | [CVE-2026-90729](https://nvd.nist.gov/vuln/detail/CVE-2026-90729) | Medium | 6.7 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.7, LTS2024 release versions 7.13.1.0 through… |
-| 2026-10-27 12:17:08 | [CVE-2026-90730](https://nvd.nist.gov/vuln/detail/CVE-2026-90730) | Medium | 6.5 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.7, LTS2024 release versions 7.13.1.0 through… |
-| 2026-10-27 12:17:08 | [CVE-2026-90731](https://nvd.nist.gov/vuln/detail/CVE-2026-90731) | Medium | 4.9 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.7, LTS2024 release versions 7.13.1.0 through… |
-| 2026-10-27 12:17:08 | [CVE-2026-90732](https://nvd.nist.gov/vuln/detail/CVE-2026-90732) | Medium | 4.9 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through LTS 2026, LTS2024 release versions 7.13.1.0 thr… |
+| 2026-10-27 13:16:54 | [CVE-2026-100164](https://nvd.nist.gov/vuln/detail/CVE-2026-100164) | High | 7.5 | Observable response discrepancy vulnerability in Rolantis Information Technologies Tourism Industry and Trade Co. Ltd.… |
+| 2026-10-27 13:16:54 | [CVE-2026-107590](https://nvd.nist.gov/vuln/detail/CVE-2026-107590) | Low | 1.9 | An out-of-bounds write vulnerability in the Qt QTextCodec iconv-based encoding of the Qt 5 Compatibility APIs module (Q… |
+| 2026-10-27 13:16:56 | [CVE-2026-114409](https://nvd.nist.gov/vuln/detail/CVE-2026-114409) | Medium | 5.7 | Docker Desktop before version 4.97.0 could write third-party API keys and OAuth access tokens in cleartext to local app… |
+| 2026-10-27 13:16:56 | [CVE-2026-116627](https://nvd.nist.gov/vuln/detail/CVE-2026-116627) |  |  | Improper neutralization of input during web page generation ('Cross-site Scripting') in the notifications feature in De… |
+| 2026-10-27 13:16:56 | [CVE-2026-15586](https://nvd.nist.gov/vuln/detail/CVE-2026-15586) | Medium | 5.3 | Improper restriction of excessive authentication attempts vulnerability in İdvlabs Software and Consulting Services Inc… |
+| 2026-10-27 13:16:57 | [CVE-2026-24269](https://nvd.nist.gov/vuln/detail/CVE-2026-24269) | High | 7.1 | NVIDIA TensorRT-LLM contains a vulnerability where an attacker could cause a server-side request forgery. A successful… |
+| 2026-10-27 13:16:57 | [CVE-2026-47486](https://nvd.nist.gov/vuln/detail/CVE-2026-47486) | High | 7.8 | NVIDIA PhysX for all platforms contains a vulnerability where an attacker could cause an out-of-bounds write. A success… |
+| 2026-10-27 13:16:59 | [CVE-2026-65119](https://nvd.nist.gov/vuln/detail/CVE-2026-65119) | High | 8.4 | NVIDIA TensorRT-LLM for any platform contains a vulnerability in KvCacheAwareRouter tokenizer loading, where an attacke… |
+| 2026-10-27 13:16:59 | [CVE-2026-65120](https://nvd.nist.gov/vuln/detail/CVE-2026-65120) | High | 7.1 | NVIDIA TensorRT-LLM contains a vulnerability where an attacker could cause a server-side request forgery. A successful… |
+| 2026-10-27 13:16:59 | [CVE-2026-65145](https://nvd.nist.gov/vuln/detail/CVE-2026-65145) | Critical | 10.0 | NVIDIA NeMo Agent Toolkit contains a vulnerability where a attacker could cause a missing authentication issue. This vu… |
+| 2026-10-27 13:16:59 | [CVE-2026-65151](https://nvd.nist.gov/vuln/detail/CVE-2026-65151) | High | 8.4 | NVIDIA NeMo Agent Toolkit contains vulnerability where an attacker could cause a SQL injection issue. A successful expl… |
+| 2026-10-27 13:17:02 | [CVE-2026-92546](https://nvd.nist.gov/vuln/detail/CVE-2026-92546) | High | 7.5 | Authentication bypass by spoofing vulnerability in Keepnet Labs Cybersecurity Inc. Agentic AI / Agentic Ally allows Aut… |
 
 ## Data source
 
