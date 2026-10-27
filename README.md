@@ -9,20 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 07:19 UTC
+## Latest list — 2026-10-27 08:19 UTC
 
-New CVEs published between 2026-10-27 06:18 UTC and 2026-10-27 07:19 UTC.
+New CVEs published between 2026-10-27 07:19 UTC and 2026-10-27 08:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T07-19-04-4574Z.csv)
+[Full CSV](data/new-cves-2026-10-27T08-19-28-392683Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 07:16:31 | [CVE-2026-103325](https://nvd.nist.gov/vuln/detail/CVE-2026-103325) | Low | 3.7 | The TiendaCrypto para WooCommerce WordPress plugin through 1.2.1 does not correctly verify the authenticity of its paym… |
-| 2026-10-27 07:16:31 | [CVE-2026-103359](https://nvd.nist.gov/vuln/detail/CVE-2026-103359) | Medium | 5.3 | The PayDunya WooCommerce Payment Gateway WordPress plugin through 1.1.6 does not verify the authenticity of incoming pa… |
-| 2026-10-27 07:16:31 | [CVE-2026-105946](https://nvd.nist.gov/vuln/detail/CVE-2026-105946) | Medium | 5.3 | Out-of-bounds read in the QAuthenticator NTLM authentication handling in the Qt Network module in Qt Group Qt allows re… |
-| 2026-10-27 07:16:32 | [CVE-2026-106174](https://nvd.nist.gov/vuln/detail/CVE-2026-106174) | High | 7.5 | A improper locking vulnerability in Fortinet FortiOS 8.0.0, FortiOS 7.6.4 through 7.6.6 may allow an unauthenticated at… |
-| 2026-10-27 07:16:32 | [CVE-2026-110910](https://nvd.nist.gov/vuln/detail/CVE-2026-110910) | Medium | 6.3 | ### Summary `qs.stringify` with `allowEmptyArrays: true` writes the key of an empty array without encoding it, even tho… |
-| 2026-10-27 07:16:32 | [CVE-2026-75891](https://nvd.nist.gov/vuln/detail/CVE-2026-75891) | High | 8.8 | The Kirki plugin for WordPress is vulnerable to Privilege Escalation via PHP Object Injection in all versions up to, an… |
+| 2026-10-27 08:16:52 | [CVE-2026-101034](https://nvd.nist.gov/vuln/detail/CVE-2026-101034) | Medium | 6.8 | An attacker who obtained the hardcoded key could decrypt domain/service account passwords, task run-as credentials, and… |
+| 2026-10-27 08:16:52 | [CVE-2026-107472](https://nvd.nist.gov/vuln/detail/CVE-2026-107472) | Medium | 4.3 | An out-of-bounds read vulnerability in the QTextCodec TSCII encoding of the Qt 5 Compatibility APIs module (Qt Core in… |
+| 2026-10-27 08:16:52 | [CVE-2026-10511](https://nvd.nist.gov/vuln/detail/CVE-2026-10511) | Medium | 6.4 | The Jupiter X Core plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'forget_password_link' par… |
+| 2026-10-27 08:16:52 | [CVE-2026-111459](https://nvd.nist.gov/vuln/detail/CVE-2026-111459) | High | 7.6 | An improper certificate validation vulnerability exists in Moxa Remote Connect Suite (MRC Client). Under certain condit… |
+| 2026-10-27 08:16:53 | [CVE-2026-111460](https://nvd.nist.gov/vuln/detail/CVE-2026-111460) | High | 7.7 | A hard-coded cryptographic key vulnerability exists in the OnCell G3150A-LTE Series. Under certain conditions, an unaut… |
+| 2026-10-27 08:16:53 | [CVE-2026-111461](https://nvd.nist.gov/vuln/detail/CVE-2026-111461) | High | 7.5 | An OS command injection vulnerability exists in OnCell G3150A-LTE Series. When the SMS management functionality is enab… |
+| 2026-10-27 08:16:53 | [CVE-2026-16521](https://nvd.nist.gov/vuln/detail/CVE-2026-16521) | High | 7.2 | An OS command injection vulnerability exists because of insufficient input filtering. An attacker can inject a command… |
+| 2026-10-27 08:16:53 | [CVE-2026-18449](https://nvd.nist.gov/vuln/detail/CVE-2026-18449) | High | 7.5 | The BMC does not correctly enforce integrity and encryption requirements for IPMI commands. An attacker may be able to… |
+| 2026-10-27 08:16:53 | [CVE-2026-18450](https://nvd.nist.gov/vuln/detail/CVE-2026-18450) | Critical | 9.8 | The BMC does not correctly enforce integrity and encryption requirements for IPMI commands. An attacker may be able to… |
+| 2026-10-27 08:16:53 | [CVE-2026-18451](https://nvd.nist.gov/vuln/detail/CVE-2026-18451) | Low | 3.1 | The HTML5 KVM-over-IP console authenticates with a token returned by the web interface. Weaknesses in token generation… |
+| 2026-10-27 08:16:54 | [CVE-2026-65210](https://nvd.nist.gov/vuln/detail/CVE-2026-65210) | Medium | 4.9 | This issue may allow an authenticated IPMI Administrator to read arbitrary files from the BMC filesystem, disclosing ma… |
+| 2026-10-27 08:16:54 | [CVE-2026-65219](https://nvd.nist.gov/vuln/detail/CVE-2026-65219) | High | 7.4 | A flaw in the BMC RAKP+ implementation may allow an attacker to send a request followed by a specially crafted RAKP mes… |
+| 2026-10-27 08:16:54 | [CVE-2026-65220](https://nvd.nist.gov/vuln/detail/CVE-2026-65220) | High | 8.8 | A logic flaw in the BMC IPMI implementation may allow an attacker to send specially crafted RAKP+ messages and escalate… |
 
 ## Data source
 
