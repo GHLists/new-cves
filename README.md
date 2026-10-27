@@ -9,42 +9,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 10:18 UTC
+## Latest list — 2026-10-27 11:21 UTC
 
-New CVEs published between 2026-10-27 09:18 UTC and 2026-10-27 10:18 UTC.
+New CVEs published between 2026-10-27 10:18 UTC and 2026-10-27 11:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T10-18-38-729623Z.csv)
+[Full CSV](data/new-cves-2026-10-27T11-21-34-89801Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 10:16:52 | [CVE-2026-102787](https://nvd.nist.gov/vuln/detail/CVE-2026-102787) | Medium | 5.3 | Joomla Extension - phoca.cz - CSRF in category management in Phoca Download 3.1.0 - 6.1.5 |
-| 2026-10-27 10:16:53 | [CVE-2026-102788](https://nvd.nist.gov/vuln/detail/CVE-2026-102788) | Critical | 9.3 | Joomla Extension - balbooa.com - Unauthenticated SQL injection in Gridbox < 2.20.4.2 - On store product list pages, the… |
-| 2026-10-27 10:16:53 | [CVE-2026-102789](https://nvd.nist.gov/vuln/detail/CVE-2026-102789) | Critical | 9.3 | Joomla Extension - balbooa.com - Missing Authorization Check on Editor Controller Task in Gridbox < 2.20.4.2 - EditorCo… |
-| 2026-10-27 10:16:54 | [CVE-2026-107145](https://nvd.nist.gov/vuln/detail/CVE-2026-107145) | Medium | 6.3 | The twofactor_gauthenticator plugin for Roundcube is vulnerable to brute-forcing of the second-factor code. Due to the… |
-| 2026-10-27 10:16:54 | [CVE-2026-107146](https://nvd.nist.gov/vuln/detail/CVE-2026-107146) | Medium | 6.3 | The twofactor_gauthenticator plugin for Roundcube is vulnerable to session persistence after failed 2FA verification. D… |
-| 2026-10-27 10:16:54 | [CVE-2026-107147](https://nvd.nist.gov/vuln/detail/CVE-2026-107147) | Medium | 6.3 | The twofactor_gauthenticator plugin for Roundcube is vulnerable to 2fa authentication bypass by spoofed client address… |
-| 2026-10-27 10:16:54 | [CVE-2026-117493](https://nvd.nist.gov/vuln/detail/CVE-2026-117493) | High | 8.3 | Stored cross-site scripting (XSS) in BloX widgets. The /api/dashboards/<id>/widgets/<id> API accepts HTML and JavaScrip… |
-| 2026-10-27 10:16:54 | [CVE-2026-117494](https://nvd.nist.gov/vuln/detail/CVE-2026-117494) | High | 8.3 | Cross-Site Scripting (XSS) in the processing of SVG images submitted to the /api/v2/ai/sessions API in the format data:… |
-| 2026-10-27 10:16:54 | [CVE-2026-76932](https://nvd.nist.gov/vuln/detail/CVE-2026-76932) | Critical | 9.4 | Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Jo… |
-| 2026-10-27 10:16:54 | [CVE-2026-76933](https://nvd.nist.gov/vuln/detail/CVE-2026-76933) | Critical | 9.4 | Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Job… |
-| 2026-10-27 10:16:54 | [CVE-2026-76934](https://nvd.nist.gov/vuln/detail/CVE-2026-76934) | Critical | 9.8 | Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Jo… |
-| 2026-10-27 10:16:55 | [CVE-2026-76935](https://nvd.nist.gov/vuln/detail/CVE-2026-76935) | Critical | 9.4 | Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Jo… |
-| 2026-10-27 10:16:55 | [CVE-2026-76936](https://nvd.nist.gov/vuln/detail/CVE-2026-76936) | Critical | 9.4 | Stack-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Jo… |
-| 2026-10-27 10:16:55 | [CVE-2026-76937](https://nvd.nist.gov/vuln/detail/CVE-2026-76937) | Critical | 9.4 | Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Job… |
-| 2026-10-27 10:16:55 | [CVE-2026-76938](https://nvd.nist.gov/vuln/detail/CVE-2026-76938) | Critical | 9.8 | Authentication Bypass Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Job Mana… |
-| 2026-10-27 10:16:55 | [CVE-2026-76939](https://nvd.nist.gov/vuln/detail/CVE-2026-76939) | Critical | 9.8 | Heap-based Buffer Overflow Vulnerability in JP1/Automatic Job Management System 3. This issue affects JP1/Automatic Job… |
-| 2026-10-27 10:16:55 | [CVE-2026-82116](https://nvd.nist.gov/vuln/detail/CVE-2026-82116) | Critical | 9.8 | Missing Authentication for Critical Function Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 1… |
-| 2026-10-27 10:16:55 | [CVE-2026-82117](https://nvd.nist.gov/vuln/detail/CVE-2026-82117) | Critical | 9.8 | Authentication Bypass by Spoofing Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before… |
-| 2026-10-27 10:16:55 | [CVE-2026-82118](https://nvd.nist.gov/vuln/detail/CVE-2026-82118) | Critical | 9.8 | Stack-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before 10-12… |
-| 2026-10-27 10:16:56 | [CVE-2026-82119](https://nvd.nist.gov/vuln/detail/CVE-2026-82119) | Critical | 9.8 | OS Command Injection Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before 10-12-01; Hi… |
-| 2026-10-27 10:16:56 | [CVE-2026-82120](https://nvd.nist.gov/vuln/detail/CVE-2026-82120) | Critical | 9.8 | Heap-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before 10-12-… |
-| 2026-10-27 10:16:56 | [CVE-2026-82121](https://nvd.nist.gov/vuln/detail/CVE-2026-82121) | High | 7.5 | Origin Validation Error Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before 10-12-01;… |
-| 2026-10-27 10:16:56 | [CVE-2026-82122](https://nvd.nist.gov/vuln/detail/CVE-2026-82122) | Critical | 9.4 | Stack-based Buffer Overflow Vulnerability in HiRDB. This issue affects HiRDB Server Version 10: from 10-00 before 10-12… |
-| 2026-10-27 10:16:56 | [CVE-2026-85299](https://nvd.nist.gov/vuln/detail/CVE-2026-85299) | High | 8.3 | A Missing Authorization vulnerability in the disks.createSnapshot and regionDisks.createSnapshot APIs in Google Compute… |
-| 2026-10-27 10:16:56 | [CVE-2026-86574](https://nvd.nist.gov/vuln/detail/CVE-2026-86574) | Critical | 9.8 | Heap-based Buffer Overflow Vulnerability in JP1/Base. This issue affects JP1/Base: from 11-00 before 12-50-54. |
-| 2026-10-27 10:16:56 | [CVE-2026-86575](https://nvd.nist.gov/vuln/detail/CVE-2026-86575) | Critical | 9.4 | Stack-based Buffer Overflow Vulnerability in JP1 Products. This issue affects JP1/Integrated Management 3 - Manager: fr… |
-| 2026-10-27 10:16:56 | [CVE-2026-86576](https://nvd.nist.gov/vuln/detail/CVE-2026-86576) | Critical | 9.4 | Heap-based Buffer Overflow Vulnerability in JP1 Products. This issue affects JP1/Integrated Management 3 - Manager: fro… |
-| 2026-10-27 10:16:56 | [CVE-2026-86577](https://nvd.nist.gov/vuln/detail/CVE-2026-86577) | Critical | 9.4 | Out-of-bounds Write Vulnerability in JP1 Products. This issue affects JP1/Integrated Management 3 - Manager: from 13-00… |
+| 2026-10-27 11:17:27 | [CVE-2026-110737](https://nvd.nist.gov/vuln/detail/CVE-2026-110737) | Low | 2.3 | The push endpoint of a Vaadin application that uses server push reflects the request Origin into the Access-Control-All… |
+| 2026-10-27 11:17:27 | [CVE-2026-111548](https://nvd.nist.gov/vuln/detail/CVE-2026-111548) | Medium | 5.3 | A stack-based buffer overflow vulnerability exists in the web management interface of affected Moxa wireless device ser… |
+| 2026-10-27 11:17:28 | [CVE-2026-116870](https://nvd.nist.gov/vuln/detail/CVE-2026-116870) | High | 8.7 | In affected versions of Octopus Server, OIDC token issuer validation was performed inconsistently. This could result in… |
+| 2026-10-27 11:17:28 | [CVE-2026-116871](https://nvd.nist.gov/vuln/detail/CVE-2026-116871) | High | 8.7 | Semantic MediaWiki 3.0.0 before 7.3.1 contains an uncontrolled recursion vulnerability in LegacyParser::getSubqueryDesc… |
+| 2026-10-27 11:17:28 | [CVE-2026-116872](https://nvd.nist.gov/vuln/detail/CVE-2026-116872) | High | 8.7 | Semantic MediaWiki from 3.0.0 before 7.3.1 contains an algorithmic complexity vulnerability in TermParser::normalize_co… |
+| 2026-10-27 11:17:29 | [CVE-2026-116873](https://nvd.nist.gov/vuln/detail/CVE-2026-116873) | Medium | 6.9 | Semantic MediaWiki from 7.3.0 before 7.3.1 contains a missing authorization vulnerability in the smwtask API module tha… |
+| 2026-10-27 11:17:29 | [CVE-2026-116874](https://nvd.nist.gov/vuln/detail/CVE-2026-116874) | Medium | 5.3 | SemanticMediaWiki from 3.1.0 before 7.3.1 contains a reflected cross-site scripting vulnerability that allows unauthent… |
+| 2026-10-27 11:17:29 | [CVE-2026-116875](https://nvd.nist.gov/vuln/detail/CVE-2026-116875) | Medium | 5.3 | SemanticMediaWiki from 3.0.0 before 7.3.1 contains a reflected cross-site scripting vulnerability in Special:Ask, which… |
+| 2026-10-27 11:17:29 | [CVE-2026-116876](https://nvd.nist.gov/vuln/detail/CVE-2026-116876) | High | 7.1 | Semantic MediaWiki from 2.5.0 before 7.3.1 contains an improper authorization vulnerability that allows ordinary editor… |
+| 2026-10-27 11:17:29 | [CVE-2026-116877](https://nvd.nist.gov/vuln/detail/CVE-2026-116877) | High | 8.7 | Semantic MediaWiki from 2.5.0 before 7.3.1 contains an uncontrolled resource consumption vulnerability that allows low-… |
+| 2026-10-27 11:17:29 | [CVE-2026-116878](https://nvd.nist.gov/vuln/detail/CVE-2026-116878) | High | 8.7 | Semantic MediaWiki from 2.5.0 before 7.3.1 contains an uncontrolled resource consumption vulnerability that allows anon… |
+| 2026-10-27 11:17:29 | [CVE-2026-116879](https://nvd.nist.gov/vuln/detail/CVE-2026-116879) | Medium | 6.9 | Semantic MediaWiki from 7.3.0 before 7.3.1 contains a missing authorization vulnerability in the smwtask update task th… |
+| 2026-10-27 11:17:30 | [CVE-2026-116880](https://nvd.nist.gov/vuln/detail/CVE-2026-116880) | High | 7.1 | Semantic MediaWiki from 3.0.0 before 7.3.1 contains a cross-site request forgery vulnerability in Special:SMWAdmin beca… |
+| 2026-10-27 11:17:30 | [CVE-2026-116881](https://nvd.nist.gov/vuln/detail/CVE-2026-116881) | Medium | 5.3 | Semantic MediaWiki from 3.0.0 before 7.3.1 contains a cross-site scripting vulnerability that allows attackers to injec… |
+| 2026-10-27 11:17:30 | [CVE-2026-116882](https://nvd.nist.gov/vuln/detail/CVE-2026-116882) | Medium | 4.8 | Semantic MediaWiki from 4.2.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows authenticat… |
+| 2026-10-27 11:17:30 | [CVE-2026-116883](https://nvd.nist.gov/vuln/detail/CVE-2026-116883) | Medium | 4.8 | Semantic MediaWiki from 3.1.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows authenticat… |
+| 2026-10-27 11:17:30 | [CVE-2026-116884](https://nvd.nist.gov/vuln/detail/CVE-2026-116884) | Medium | 5.3 | SemanticMediaWiki from 5.0.0 before 7.3.1 contains a stored cross-site scripting vulnerability in ext.smw.tooltip.tippy… |
+| 2026-10-27 11:17:30 | [CVE-2026-116885](https://nvd.nist.gov/vuln/detail/CVE-2026-116885) | Medium | 5.3 | Semantic MediaWiki from 3.1.0 before 7.3.1 contains a reflected cross-site scripting vulnerability in the Special:SMWAd… |
+| 2026-10-27 11:17:30 | [CVE-2026-116886](https://nvd.nist.gov/vuln/detail/CVE-2026-116886) | Medium | 5.3 | Semantic MediaWiki from 2.5.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows users with… |
+| 2026-10-27 11:17:31 | [CVE-2026-116887](https://nvd.nist.gov/vuln/detail/CVE-2026-116887) | Medium | 5.3 | Semantic MediaWiki from 3.0.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows users with… |
+| 2026-10-27 11:17:31 | [CVE-2026-116888](https://nvd.nist.gov/vuln/detail/CVE-2026-116888) | Medium | 4.8 | SemanticMediaWiki from 3.2.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows users with t… |
+| 2026-10-27 11:17:31 | [CVE-2026-116889](https://nvd.nist.gov/vuln/detail/CVE-2026-116889) | Medium | 5.3 | SemanticMediaWiki from 2.5.0 before 7.3.1 contains a stored cross-site scripting vulnerability that allows users with p… |
+| 2026-10-27 11:17:31 | [CVE-2026-116890](https://nvd.nist.gov/vuln/detail/CVE-2026-116890) | Medium | 6.9 | Semantic MediaWiki from 3.0.0 before 7.3.0 contains a missing authorization vulnerability in the api.php smwtask module… |
+| 2026-10-27 11:17:31 | [CVE-2026-116891](https://nvd.nist.gov/vuln/detail/CVE-2026-116891) | Medium | 5.1 | SemanticMediaWiki from 4.2.0 before 7.2.1 contains a reflected cross-site scripting vulnerability that allows unauthent… |
+| 2026-10-27 11:17:31 | [CVE-2026-116892](https://nvd.nist.gov/vuln/detail/CVE-2026-116892) | Medium | 5.3 | SemanticMediaWiki from 3.1.0 before 7.3.1 contains a reflected cross-site scripting vulnerability that allows unauthent… |
+| 2026-10-27 11:17:32 | [CVE-2026-116893](https://nvd.nist.gov/vuln/detail/CVE-2026-116893) | Medium | 6.1 | REDAXO core before 5.21.5 contains a missing authorization vulnerability in the rex_api_package API function that lets… |
+| 2026-10-27 11:17:32 | [CVE-2026-116894](https://nvd.nist.gov/vuln/detail/CVE-2026-116894) | Low | 2.3 | REDAXO before 5.21.5 contains an insufficient session expiration vulnerability that allows attackers to retain account… |
+| 2026-10-27 11:17:32 | [CVE-2026-116895](https://nvd.nist.gov/vuln/detail/CVE-2026-116895) | Medium | 5.1 | REDAXO before 5.21.5 contains a cross-site request forgery vulnerability because the backend processes the safemode GET… |
+| 2026-10-27 11:17:32 | [CVE-2026-116896](https://nvd.nist.gov/vuln/detail/CVE-2026-116896) | High | 7.7 | REDAXO before 5.21.5 contains a missing authorization vulnerability in the backup addon export that accepts any databas… |
+| 2026-10-27 11:17:32 | [CVE-2026-116897](https://nvd.nist.gov/vuln/detail/CVE-2026-116897) | High | 7.1 | REDAXO core before 5.21.4 contains a missing authorization vulnerability in the structure/version and structure/history… |
+| 2026-10-27 11:17:32 | [CVE-2026-116898](https://nvd.nist.gov/vuln/detail/CVE-2026-116898) | High | 7.1 | REDAXO before 5.21.4 contains a missing authorization vulnerability in the media pool bulk move that checks only target… |
+| 2026-10-27 11:17:32 | [CVE-2026-116899](https://nvd.nist.gov/vuln/detail/CVE-2026-116899) | High | 7.1 | REDAXO before 5.21.4 contains a broken access control vulnerability that allows authenticated editors to modify slices… |
+| 2026-10-27 11:17:33 | [CVE-2026-116900](https://nvd.nist.gov/vuln/detail/CVE-2026-116900) | Medium | 5.1 | REDAXO before 5.21.4 contains a stored cross-site scripting vulnerability that allows content editors to inject HTML by… |
+| 2026-10-27 11:17:33 | [CVE-2026-117341](https://nvd.nist.gov/vuln/detail/CVE-2026-117341) | High | 7.7 | In affected versions of Octopus Server, creating a user invitation writes the invitation code to the audit event log. W… |
+| 2026-10-27 11:17:33 | [CVE-2026-117466](https://nvd.nist.gov/vuln/detail/CVE-2026-117466) | High | 8.6 | In affected versions of Octopus Server, a user holding the System Manager role could escalate their privileges to full… |
+| 2026-10-27 11:17:33 | [CVE-2026-117530](https://nvd.nist.gov/vuln/detail/CVE-2026-117530) | Medium | 6.7 | In JetBrains Junie CLI before 26.8.17 command execution was possible due to incomplete validation of allowlisted comman… |
+| 2026-10-27 11:17:33 | [CVE-2026-117532](https://nvd.nist.gov/vuln/detail/CVE-2026-117532) | Critical | 9.3 | REDAXO core from 5.3.0 before 5.21.4 contains an authentication bypass vulnerability in the structure/history plugin th… |
+| 2026-10-27 11:17:33 | [CVE-2026-117533](https://nvd.nist.gov/vuln/detail/CVE-2026-117533) | Low | 2.1 | REDAXO from 5.18.0 before 5.21.4 contains a stored cross-site scripting vulnerability because rex_media_service moves u… |
+| 2026-10-27 11:17:33 | [CVE-2026-117534](https://nvd.nist.gov/vuln/detail/CVE-2026-117534) | Medium | 5.1 | REDAXO before 5.21.3 contains a cross-site request forgery vulnerability in the structure/history plugin that allows at… |
+| 2026-10-27 11:17:34 | [CVE-2026-117535](https://nvd.nist.gov/vuln/detail/CVE-2026-117535) | Medium | 5.1 | REDAXO before 5.21.3 contains a reflected cross-site scripting vulnerability in the backend media pool detail page, whe… |
+| 2026-10-27 11:17:34 | [CVE-2026-117536](https://nvd.nist.gov/vuln/detail/CVE-2026-117536) | High | 8.6 | REDAXO before 5.21.3 contains a cross-site request forgery vulnerability in the backend user administration page (users… |
+| 2026-10-27 11:17:34 | [CVE-2026-117537](https://nvd.nist.gov/vuln/detail/CVE-2026-117537) | Low | 2.1 | REDAXO before 5.21.0 contains a reflected cross-site scripting vulnerability that allows authenticated attackers to inj… |
+| 2026-10-27 11:17:34 | [CVE-2026-117538](https://nvd.nist.gov/vuln/detail/CVE-2026-117538) | Low | 2.1 | REDAXO before 5.21.0 contains a reflected cross-site scripting vulnerability in the backend packages API, where the fun… |
+| 2026-10-27 11:17:34 | [CVE-2026-117539](https://nvd.nist.gov/vuln/detail/CVE-2026-117539) | Medium | 5.1 | darylldoyle svg-sanitizer before 1.0.0 contains CSS injection and remote reference bypass vulnerabilities that allow at… |
+| 2026-10-27 11:17:34 | [CVE-2026-117540](https://nvd.nist.gov/vuln/detail/CVE-2026-117540) | High | 8.7 | svg-sanitizer from 0.5.3 before 1.1.0 contains a denial of service vulnerability in Sanitizer::sanitize() that repeated… |
+| 2026-10-27 11:17:35 | [CVE-2026-117541](https://nvd.nist.gov/vuln/detail/CVE-2026-117541) | Medium | 6.9 | svg-sanitizer from 0.11.0 before 1.1.0 contains an uncaught exception vulnerability that allows attackers to crash call… |
 
 ## Data source
 
