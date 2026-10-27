@@ -9,22 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:18 UTC
+## Latest list — 2026-10-27 07:19 UTC
 
-New CVEs published between 2026-10-27 05:19 UTC and 2026-10-27 06:18 UTC.
+New CVEs published between 2026-10-27 06:18 UTC and 2026-10-27 07:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T06-18-39-133827Z.csv)
+[Full CSV](data/new-cves-2026-10-27T07-19-04-4574Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 06:17:23 | [CVE-2026-103312](https://nvd.nist.gov/vuln/detail/CVE-2026-103312) |  |  | The Payment Integration Wompi WordPress plugin through 4.0.1 does not verify the authenticity of incoming payment notif… |
-| 2026-10-27 06:17:23 | [CVE-2026-103332](https://nvd.nist.gov/vuln/detail/CVE-2026-103332) |  |  | The Payex Payment Gateway for Woocommerce WordPress plugin through 1.2.10 does not properly verify the authenticity of… |
-| 2026-10-27 06:17:23 | [CVE-2026-111820](https://nvd.nist.gov/vuln/detail/CVE-2026-111820) | High | 7.2 | The Analytics Insights – Google Analytics Dashboard for WordPress plugin for WordPress is vulnerable to Stored Cross-Si… |
-| 2026-10-27 06:17:24 | [CVE-2026-117468](https://nvd.nist.gov/vuln/detail/CVE-2026-117468) | Medium | 6.5 | Psono Server versions 5.3.5 through 7.2.3 used a permission class that did not enforce token write scope when claiming… |
-| 2026-10-27 06:17:24 | [CVE-2026-117469](https://nvd.nist.gov/vuln/detail/CVE-2026-117469) | Medium | 5.4 | Psono Server (CE & EE) versions 1.0.0 through 7.2.3 did not enforce the direction of file-transfer credentials on file-… |
-| 2026-10-27 06:17:24 | [CVE-2026-117470](https://nvd.nist.gov/vuln/detail/CVE-2026-117470) | Medium | 6.5 | Psono Server CE & EE versions 3.1.0 through 7.2.3 did not consume a stored WebAuthn challenge after assertion verificat… |
-| 2026-10-27 06:17:25 | [CVE-2026-117471](https://nvd.nist.gov/vuln/detail/CVE-2026-117471) | Medium | 5.4 | Psono Server CE && EE versions 0.1.0 through 7.2.3 accepted a user-controlled host when configuring a personal Duo devi… |
-| 2026-10-27 06:17:25 | [CVE-2026-117472](https://nvd.nist.gov/vuln/detail/CVE-2026-117472) | Medium | 4.3 | Psono Server CE && EE versions 4.0.33 through 7.2.3 compared the request path for the bulk-secret-read endpoint with a… |
+| 2026-10-27 07:16:31 | [CVE-2026-103325](https://nvd.nist.gov/vuln/detail/CVE-2026-103325) | Low | 3.7 | The TiendaCrypto para WooCommerce WordPress plugin through 1.2.1 does not correctly verify the authenticity of its paym… |
+| 2026-10-27 07:16:31 | [CVE-2026-103359](https://nvd.nist.gov/vuln/detail/CVE-2026-103359) | Medium | 5.3 | The PayDunya WooCommerce Payment Gateway WordPress plugin through 1.1.6 does not verify the authenticity of incoming pa… |
+| 2026-10-27 07:16:31 | [CVE-2026-105946](https://nvd.nist.gov/vuln/detail/CVE-2026-105946) | Medium | 5.3 | Out-of-bounds read in the QAuthenticator NTLM authentication handling in the Qt Network module in Qt Group Qt allows re… |
+| 2026-10-27 07:16:32 | [CVE-2026-106174](https://nvd.nist.gov/vuln/detail/CVE-2026-106174) | High | 7.5 | A improper locking vulnerability in Fortinet FortiOS 8.0.0, FortiOS 7.6.4 through 7.6.6 may allow an unauthenticated at… |
+| 2026-10-27 07:16:32 | [CVE-2026-110910](https://nvd.nist.gov/vuln/detail/CVE-2026-110910) | Medium | 6.3 | ### Summary `qs.stringify` with `allowEmptyArrays: true` writes the key of an empty array without encoding it, even tho… |
+| 2026-10-27 07:16:32 | [CVE-2026-75891](https://nvd.nist.gov/vuln/detail/CVE-2026-75891) | High | 8.8 | The Kirki plugin for WordPress is vulnerable to Privilege Escalation via PHP Object Injection in all versions up to, an… |
 
 ## Data source
 
