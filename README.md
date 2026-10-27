@@ -9,27 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 20:18 UTC
+## Latest list — 2026-10-27 21:18 UTC
 
-New CVEs published between 2026-10-27 19:18 UTC and 2026-10-27 20:18 UTC.
+New CVEs published between 2026-10-27 20:18 UTC and 2026-10-27 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T20-18-41-743035Z.csv)
+[Full CSV](data/new-cves-2026-10-27T21-18-46-731201Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 20:17:11 | [CVE-2026-103995](https://nvd.nist.gov/vuln/detail/CVE-2026-103995) | Low | 2.0 | Response body and chunk parsing would handle non-hex or negative integers incorrectly which could result in misinterpre… |
-| 2026-10-27 20:17:12 | [CVE-2026-112350](https://nvd.nist.gov/vuln/detail/CVE-2026-112350) | High | 8.7 | Sunhillo SureLine before 9.1.5 contains a path traversal vulnerability in the radarUpdater.cgi endpoint that allows una… |
-| 2026-10-27 20:17:12 | [CVE-2026-112351](https://nvd.nist.gov/vuln/detail/CVE-2026-112351) | High | 8.7 | Sunhillo SureLine before 9.1.5 contains an OS command injection vulnerability in the networkDiag.cgi endpoint that allo… |
-| 2026-10-27 20:17:12 | [CVE-2026-112352](https://nvd.nist.gov/vuln/detail/CVE-2026-112352) | Critical | 9.1 | Sunhillo SureLine before 9.1.5 contains an authentication bypass vulnerability that allows an unauthenticated remote at… |
-| 2026-10-27 20:17:13 | [CVE-2026-112355](https://nvd.nist.gov/vuln/detail/CVE-2026-112355) | High | 8.7 | The MembershipWorks plugin for WordPress before 6.17 contains an information disclosure vulnerability that allows unaut… |
-| 2026-10-27 20:17:13 | [CVE-2026-116684](https://nvd.nist.gov/vuln/detail/CVE-2026-116684) | Medium | 6.8 | The Model Context Protocol Python SDK is the official Python SDK for Model Context Protocol servers and clients. From 1… |
-| 2026-10-27 20:17:13 | [CVE-2026-116685](https://nvd.nist.gov/vuln/detail/CVE-2026-116685) | Medium | 5.9 | The Model Context Protocol Python SDK is the official Python SDK for Model Context Protocol servers and clients. From 1… |
-| 2026-10-27 20:17:13 | [CVE-2026-116686](https://nvd.nist.gov/vuln/detail/CVE-2026-116686) | Medium | 6.5 | The Model Context Protocol Python SDK is the official Python SDK for Model Context Protocol servers and clients. From 1… |
-| 2026-10-27 20:17:13 | [CVE-2026-116687](https://nvd.nist.gov/vuln/detail/CVE-2026-116687) | Low | 3.1 | CKEditor 5 is a modern JavaScript rich-text editor with an MVC architecture. From 29.0.0 until 47.7.4 and 48.5.1, speci… |
-| 2026-10-27 20:17:14 | [CVE-2026-116688](https://nvd.nist.gov/vuln/detail/CVE-2026-116688) | High | 8.1 | CKEditor 5 is a modern JavaScript rich-text editor with an MVC architecture. From 45.0.0 until 47.7.4 and 48.5.1, the e… |
-| 2026-10-27 20:17:14 | [CVE-2026-116689](https://nvd.nist.gov/vuln/detail/CVE-2026-116689) | Medium | 5.9 | follow-redirects is a Node.js HTTP and HTTPS client wrapper that automatically follows redirects. From 1.16.0 until 1.1… |
-| 2026-10-27 20:17:14 | [CVE-2026-116690](https://nvd.nist.gov/vuln/detail/CVE-2026-116690) | High | 7.5 | MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3… |
-| 2026-10-27 20:17:14 | [CVE-2026-116691](https://nvd.nist.gov/vuln/detail/CVE-2026-116691) | Medium | 6.5 | MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 2… |
+| 2026-10-27 21:18:05 | [CVE-2026-116692](https://nvd.nist.gov/vuln/detail/CVE-2026-116692) | Critical | 9.8 | MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3… |
+| 2026-10-27 21:18:05 | [CVE-2026-116693](https://nvd.nist.gov/vuln/detail/CVE-2026-116693) | High | 8.7 | dd-trace is the Datadog APM client for Node.js. From 2.0.0 until 5.131.1 and 6.20.1, the default DD_TRACE_OBFUSCATION_Q… |
+| 2026-10-27 21:18:05 | [CVE-2026-116694](https://nvd.nist.gov/vuln/detail/CVE-2026-116694) | Medium | 6.3 | OpenTelemetry Python provides the Python API and SDK for OpenTelemetry. Prior to 1.45.0, JaegerPropagator.extract() in… |
+| 2026-10-27 21:18:05 | [CVE-2026-116695](https://nvd.nist.gov/vuln/detail/CVE-2026-116695) | Medium | 5.3 | Crass is a Ruby CSS parser that is compliant with the CSS Syntax Level 3 specification. Prior to 1.0.8, Crass incorrect… |
+| 2026-10-27 21:18:05 | [CVE-2026-116696](https://nvd.nist.gov/vuln/detail/CVE-2026-116696) | Low | 3.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to 0.65.0, russ… |
+| 2026-10-27 21:18:05 | [CVE-2026-116773](https://nvd.nist.gov/vuln/detail/CVE-2026-116773) | Medium | 4.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to 0.65.0, the… |
+| 2026-10-27 21:18:05 | [CVE-2026-116774](https://nvd.nist.gov/vuln/detail/CVE-2026-116774) | Medium | 4.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. From 0.60.0 until 0.6… |
+| 2026-10-27 21:18:06 | [CVE-2026-116775](https://nvd.nist.gov/vuln/detail/CVE-2026-116775) | Low | 2.3 | pageant provides a PageantStream type that implements AsyncRead and AsyncWrite traits and can be used to communicate wi… |
+| 2026-10-27 21:18:06 | [CVE-2026-39928](https://nvd.nist.gov/vuln/detail/CVE-2026-39928) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-27 21:18:06 | [CVE-2026-57195](https://nvd.nist.gov/vuln/detail/CVE-2026-57195) | High | 7.5 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 21:18:06 | [CVE-2026-57200](https://nvd.nist.gov/vuln/detail/CVE-2026-57200) | High | 7.5 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
 
 ## Data source
 
