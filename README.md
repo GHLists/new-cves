@@ -9,25 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 21:18 UTC
+## Latest list — 2026-10-27 22:18 UTC
 
-New CVEs published between 2026-10-27 20:18 UTC and 2026-10-27 21:18 UTC.
+New CVEs published between 2026-10-27 21:18 UTC and 2026-10-27 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-27T21-18-46-731201Z.csv)
+[Full CSV](data/new-cves-2026-10-27T22-18-40-298442Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-27 21:18:05 | [CVE-2026-116692](https://nvd.nist.gov/vuln/detail/CVE-2026-116692) | Critical | 9.8 | MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3… |
-| 2026-10-27 21:18:05 | [CVE-2026-116693](https://nvd.nist.gov/vuln/detail/CVE-2026-116693) | High | 8.7 | dd-trace is the Datadog APM client for Node.js. From 2.0.0 until 5.131.1 and 6.20.1, the default DD_TRACE_OBFUSCATION_Q… |
-| 2026-10-27 21:18:05 | [CVE-2026-116694](https://nvd.nist.gov/vuln/detail/CVE-2026-116694) | Medium | 6.3 | OpenTelemetry Python provides the Python API and SDK for OpenTelemetry. Prior to 1.45.0, JaegerPropagator.extract() in… |
-| 2026-10-27 21:18:05 | [CVE-2026-116695](https://nvd.nist.gov/vuln/detail/CVE-2026-116695) | Medium | 5.3 | Crass is a Ruby CSS parser that is compliant with the CSS Syntax Level 3 specification. Prior to 1.0.8, Crass incorrect… |
-| 2026-10-27 21:18:05 | [CVE-2026-116696](https://nvd.nist.gov/vuln/detail/CVE-2026-116696) | Low | 3.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to 0.65.0, russ… |
-| 2026-10-27 21:18:05 | [CVE-2026-116773](https://nvd.nist.gov/vuln/detail/CVE-2026-116773) | Medium | 4.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to 0.65.0, the… |
-| 2026-10-27 21:18:05 | [CVE-2026-116774](https://nvd.nist.gov/vuln/detail/CVE-2026-116774) | Medium | 4.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. From 0.60.0 until 0.6… |
-| 2026-10-27 21:18:06 | [CVE-2026-116775](https://nvd.nist.gov/vuln/detail/CVE-2026-116775) | Low | 2.3 | pageant provides a PageantStream type that implements AsyncRead and AsyncWrite traits and can be used to communicate wi… |
-| 2026-10-27 21:18:06 | [CVE-2026-39928](https://nvd.nist.gov/vuln/detail/CVE-2026-39928) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-27 21:18:06 | [CVE-2026-57195](https://nvd.nist.gov/vuln/detail/CVE-2026-57195) | High | 7.5 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
-| 2026-10-27 21:18:06 | [CVE-2026-57200](https://nvd.nist.gov/vuln/detail/CVE-2026-57200) | High | 7.5 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 21:19:08 | [CVE-2026-83831](https://nvd.nist.gov/vuln/detail/CVE-2026-83831) | High | 8.8 | Double free in Microsoft Edge (Chromium-based) allows an unauthorized attacker to execute code over a network. |
+| 2026-10-27 21:19:34 | [CVE-2026-85898](https://nvd.nist.gov/vuln/detail/CVE-2026-85898) | High | 8.8 | Access of resource using incompatible type ('type confusion') in Microsoft Edge (Chromium-based) allows an unauthorized… |
+| 2026-10-27 22:17:26 | [CVE-2026-57186](https://nvd.nist.gov/vuln/detail/CVE-2026-57186) | High | 7.5 | Asterisk is an open source private branch exchange and telephony toolkit. From 21.0.0-pre1 until Asterisk 21.12.3, 22.1… |
+| 2026-10-27 22:17:27 | [CVE-2026-57190](https://nvd.nist.gov/vuln/detail/CVE-2026-57190) | High | 7.0 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 22:17:27 | [CVE-2026-57191](https://nvd.nist.gov/vuln/detail/CVE-2026-57191) | High | 8.2 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 22:17:27 | [CVE-2026-57192](https://nvd.nist.gov/vuln/detail/CVE-2026-57192) | Medium | 6.0 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 22:17:27 | [CVE-2026-57199](https://nvd.nist.gov/vuln/detail/CVE-2026-57199) | Low | 2.3 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 22:17:27 | [CVE-2026-57203](https://nvd.nist.gov/vuln/detail/CVE-2026-57203) | Medium | 6.9 | Asterisk is an open source private branch exchange and telephony toolkit. Prior to Asterisk 20.20.1, 21.12.3, 22.10.1,… |
+| 2026-10-27 22:17:29 | [CVE-2026-62765](https://nvd.nist.gov/vuln/detail/CVE-2026-62765) | High | 7.5 | Access of resource using incompatible type ('type confusion') in Microsoft Edge (Chromium-based) allows an unauthorized… |
+| 2026-10-27 22:18:05 | [CVE-2026-78661](https://nvd.nist.gov/vuln/detail/CVE-2026-78661) |  |  | When coalescing adjacent text nodes in addText and fosterParent, appending to an existing TextNode's Data via string co… |
 
 ## Data source
 
