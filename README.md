@@ -9,29 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 20:18 UTC
+## Latest list — 2026-10-28 21:19 UTC
 
-New CVEs published between 2026-10-28 19:18 UTC and 2026-10-28 20:18 UTC.
+New CVEs published between 2026-10-28 20:18 UTC and 2026-10-28 21:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-28T20-18-19-628129Z.csv)
+[Full CSV](data/new-cves-2026-10-28T21-19-56-200152Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-28 20:17:14 | [CVE-2025-14260](https://nvd.nist.gov/vuln/detail/CVE-2025-14260) | High | 8.3 | Due to the improper implementation of access control rules, the WSO2 product accepts user-supplied input related to res… |
-| 2026-10-28 20:17:17 | [CVE-2026-109411](https://nvd.nist.gov/vuln/detail/CVE-2026-109411) | High | 8.1 | An access control bypass flaw was found in Samba's vfs_ceph_rgw module in it's openat() function. An authenticated user… |
-| 2026-10-28 20:17:20 | [CVE-2026-115415](https://nvd.nist.gov/vuln/detail/CVE-2026-115415) | Medium | 5.9 | Improper neutralization of input used for LLM prompting in the environment tool in Strands Agents Tools before 0.8.6 mi… |
-| 2026-10-28 20:17:21 | [CVE-2026-117574](https://nvd.nist.gov/vuln/detail/CVE-2026-117574) | Critical | 9.1 | A flaw was found in ai-gateway-payload-processing. An authenticated remote attacker can exploit this vulnerability by s… |
-| 2026-10-28 20:17:21 | [CVE-2026-118266](https://nvd.nist.gov/vuln/detail/CVE-2026-118266) | Medium | 5.3 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, Echo's MethodOverride middleware accepts a safe HTTP method as t… |
-| 2026-10-28 20:17:21 | [CVE-2026-118650](https://nvd.nist.gov/vuln/detail/CVE-2026-118650) | High | 7.5 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, a globally mounted middleware.Static instance can interpret an e… |
-| 2026-10-28 20:17:22 | [CVE-2026-118651](https://nvd.nist.gov/vuln/detail/CVE-2026-118651) | Medium | 5.3 | Echo is a Go web framework. From 4.0.0 until 5.4.0, the Proxy middleware can preserve an attacker-supplied X-Real-IP he… |
-| 2026-10-28 20:17:22 | [CVE-2026-118652](https://nvd.nist.gov/vuln/detail/CVE-2026-118652) | Medium | 6.1 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, Context.JSONP and Context.JSONPBlob concatenate an unvalidated c… |
-| 2026-10-28 20:17:22 | [CVE-2026-118653](https://nvd.nist.gov/vuln/detail/CVE-2026-118653) | Medium | 5.3 | Echo is a Go web framework. From 4.0.0 until 5.1.0, Context.RealIP falls back to client-supplied X-Forwarded-For or X-R… |
-| 2026-10-28 20:17:22 | [CVE-2026-118654](https://nvd.nist.gov/vuln/detail/CVE-2026-118654) | Medium | 5.9 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, Echo's static file handlers can normalize dot segments after rou… |
-| 2026-10-28 20:17:22 | [CVE-2026-118655](https://nvd.nist.gov/vuln/detail/CVE-2026-118655) | Medium | 5.9 | Echo is a Go web framework. Prior to 4.15.3 and 5.2.0, middleware.Static can decode an already decoded Request.URL.Path… |
-| 2026-10-28 20:17:22 | [CVE-2026-11854](https://nvd.nist.gov/vuln/detail/CVE-2026-11854) | Medium | 6.1 | The authentication endpoint generates an error message that includes reflected data directly from the request without s… |
-| 2026-10-28 20:17:23 | [CVE-2026-13451](https://nvd.nist.gov/vuln/detail/CVE-2026-13451) | High | 7.7 | A flaw was found in KServe. A namespace-scoped user with create/update permissions on InferenceService custom resources… |
-| 2026-10-28 20:17:24 | [CVE-2026-3583](https://nvd.nist.gov/vuln/detail/CVE-2026-3583) | Low | 3.1 | When the `allowed_scopes` configuration is enabled, the OAuth2 token introspection mechanism does not immediately inval… |
-| 2026-10-28 20:18:00 | [CVE-2026-54162](https://nvd.nist.gov/vuln/detail/CVE-2026-54162) | Medium | 4.7 | Ember is a real-time terminal dashboard for Caddy servers with FrankenPHP support. Prior to 1.4.2, interactive TUI row… |
+| 2026-10-28 20:18:27 | [CVE-2026-61529](https://nvd.nist.gov/vuln/detail/CVE-2026-61529) | Medium | 4.7 | Endatix is a self-hosted form and survey management platform with a headless API. Prior to 0.7.0, the anonymous `POST /… |
+| 2026-10-28 20:18:27 | [CVE-2026-61542](https://nvd.nist.gov/vuln/detail/CVE-2026-61542) | High | 8.6 | Gearboy is a Game Boy, Game Boy Color, and Super Game Boy emulator and debugger with an embedded MCP server. Gearsystem… |
+| 2026-10-28 20:18:37 | [CVE-2026-63190](https://nvd.nist.gov/vuln/detail/CVE-2026-63190) | Critical | 9.4 | FearlessCMS is a flat-file `content` management system centered on simplicity and open source. Prior to version 0.1.4,… |
+| 2026-10-28 20:18:44 | [CVE-2026-6647](https://nvd.nist.gov/vuln/detail/CVE-2026-6647) | High | 7.4 | In deployments of WSO2 Identity Server configured with a case-insensitive user store and a case-sensitive database for… |
+| 2026-10-28 20:18:47 | [CVE-2026-76418](https://nvd.nist.gov/vuln/detail/CVE-2026-76418) | High | 8.6 | A vulnerability in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) Softwar… |
+| 2026-10-28 20:18:47 | [CVE-2026-78674](https://nvd.nist.gov/vuln/detail/CVE-2026-78674) | High | 8.8 | The BPMN System REST APIs do not sufficiently validate input parameters, allowing authenticated users to submit crafted… |
+| 2026-10-28 21:16:55 | [CVE-2026-118656](https://nvd.nist.gov/vuln/detail/CVE-2026-118656) | Medium | 6.1 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, sanitizeURI checks only the first two bytes of a redirect target… |
+| 2026-10-28 21:16:55 | [CVE-2026-118657](https://nvd.nist.gov/vuln/detail/CVE-2026-118657) | Medium | 5.9 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, Context.Scheme unconditionally trusts forwarded scheme headers f… |
+| 2026-10-28 21:16:55 | [CVE-2026-118658](https://nvd.nist.gov/vuln/detail/CVE-2026-118658) | Medium | 4.7 | Echo is a Go web framework. Prior to 4.15.2 and 5.1.1, Context.Scheme returns values from X-Forwarded-Proto, X-Forwarde… |
+| 2026-10-28 21:16:55 | [CVE-2026-118659](https://nvd.nist.gov/vuln/detail/CVE-2026-118659) | High | 7.5 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 21.0.2, the Ha… |
+| 2026-10-28 21:16:56 | [CVE-2026-118660](https://nvd.nist.gov/vuln/detail/CVE-2026-118660) | High | 8.6 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 21.0.0, Happy… |
+| 2026-10-28 21:16:56 | [CVE-2026-118661](https://nvd.nist.gov/vuln/detail/CVE-2026-118661) | Medium | 6.5 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 20.14.6, Happy… |
+| 2026-10-28 21:16:56 | [CVE-2026-118662](https://nvd.nist.gov/vuln/detail/CVE-2026-118662) | Medium | 6.9 | Vite is a frontend tooling framework for JavaScript. From 6.4.4 until 6.4.5, the Vite development server can evaluate s… |
+| 2026-10-28 21:16:56 | [CVE-2026-118663](https://nvd.nist.gov/vuln/detail/CVE-2026-118663) | Medium | 5.3 | @hono/node-server allows running the Hono application on Node.js. From 1.19.10 until 2.1.3, serveStatic decodes a reque… |
+| 2026-10-28 21:16:56 | [CVE-2026-118664](https://nvd.nist.gov/vuln/detail/CVE-2026-118664) | High | 8.2 | decode-uri-component provides a more robust alternative to decodeURIComponent. Prior to 0.5.1, decodeUriComponent in in… |
+| 2026-10-28 21:16:56 | [CVE-2026-118665](https://nvd.nist.gov/vuln/detail/CVE-2026-118665) | High | 8.2 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to version 1.1.36 of the G… |
+| 2026-10-28 21:16:56 | [CVE-2026-118666](https://nvd.nist.gov/vuln/detail/CVE-2026-118666) | Medium | 6.0 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to version 1.1.36 of the G… |
+| 2026-10-28 21:16:57 | [CVE-2026-118667](https://nvd.nist.gov/vuln/detail/CVE-2026-118667) | Medium | 4.3 | LangGraph Python SDK is used to connect to running LangGraph API servers, manage assistants, threads and stream runs fr… |
+| 2026-10-28 21:16:57 | [CVE-2026-118668](https://nvd.nist.gov/vuln/detail/CVE-2026-118668) | High | 8.6 | langgraph-api implements the LangGraph API for rapid development and testing. From 0.1.2 until 0.15.0, JavaScript or Ty… |
 
 ## Data source
 
