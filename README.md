@@ -9,18 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 08:21 UTC
+## Latest list — 2026-10-28 09:18 UTC
 
-New CVEs published between 2026-10-28 07:18 UTC and 2026-10-28 08:21 UTC.
+New CVEs published between 2026-10-28 08:21 UTC and 2026-10-28 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-28T08-21-15-607239Z.csv)
+[Full CSV](data/new-cves-2026-10-28T09-18-22-02302Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-28 08:16:29 | [CVE-2026-101935](https://nvd.nist.gov/vuln/detail/CVE-2026-101935) | Medium | 6.1 | The Echo Knowledge Base – Documentation, FAQs, Chat & Smart Search plugin for WordPress is vulnerable to Reflected Cros… |
-| 2026-10-28 08:16:29 | [CVE-2026-118435](https://nvd.nist.gov/vuln/detail/CVE-2026-118435) | Medium | 5.4 | Out-of-bounds write vulnerability in Samsung Open Source escargot allows Buffer Manipulation. |
-| 2026-10-28 08:16:30 | [CVE-2026-85655](https://nvd.nist.gov/vuln/detail/CVE-2026-85655) | Medium | 4.3 | The Enable Media Replace plugin for WordPress is vulnerable to authorization bypass in all versions up to, and includin… |
-| 2026-10-28 08:16:30 | [CVE-2026-92797](https://nvd.nist.gov/vuln/detail/CVE-2026-92797) | High | 8.8 | The MemberPress plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 1.14… |
+| 2026-10-28 09:17:06 | [CVE-2026-16020](https://nvd.nist.gov/vuln/detail/CVE-2026-16020) | Medium | 5.4 | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Fazile BACAK Deft… |
+| 2026-10-28 09:17:07 | [CVE-2026-86395](https://nvd.nist.gov/vuln/detail/CVE-2026-86395) | High | 7.2 | Dell PowerProtect Data Domain Virtual Edition, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7… |
+| 2026-10-28 09:17:07 | [CVE-2026-86396](https://nvd.nist.gov/vuln/detail/CVE-2026-86396) | High | 8.8 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:07 | [CVE-2026-86397](https://nvd.nist.gov/vuln/detail/CVE-2026-86397) | Critical | 9.8 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:07 | [CVE-2026-86398](https://nvd.nist.gov/vuln/detail/CVE-2026-86398) | High | 8.8 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:07 | [CVE-2026-86399](https://nvd.nist.gov/vuln/detail/CVE-2026-86399) | High | 7.2 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:08 | [CVE-2026-86400](https://nvd.nist.gov/vuln/detail/CVE-2026-86400) | Critical | 9.8 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:08 | [CVE-2026-86401](https://nvd.nist.gov/vuln/detail/CVE-2026-86401) | Low | 2.7 | Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions… |
+| 2026-10-28 09:17:08 | [CVE-2026-90717](https://nvd.nist.gov/vuln/detail/CVE-2026-90717) | Critical | 9.1 | Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions… |
+| 2026-10-28 09:17:08 | [CVE-2026-90719](https://nvd.nist.gov/vuln/detail/CVE-2026-90719) | Low | 2.7 | Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions… |
+| 2026-10-28 09:17:08 | [CVE-2026-90720](https://nvd.nist.gov/vuln/detail/CVE-2026-90720) | Medium | 6.7 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:08 | [CVE-2026-90721](https://nvd.nist.gov/vuln/detail/CVE-2026-90721) | Low | 3.4 | Dell PowerProtect Data Domain, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions 7.13.1.0 through… |
+| 2026-10-28 09:17:08 | [CVE-2026-90723](https://nvd.nist.gov/vuln/detail/CVE-2026-90723) | Low | 2.7 | Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions… |
+| 2026-10-28 09:17:08 | [CVE-2026-90724](https://nvd.nist.gov/vuln/detail/CVE-2026-90724) | Low | 2.7 | Dell PowerProtect Data Domain Management Center, Feature Release versions 7.7.1.0 through 8.8, LTS2024 release versions… |
 
 ## Data source
 
