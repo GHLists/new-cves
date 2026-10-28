@@ -9,61 +9,54 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 18:20 UTC
+## Latest list — 2026-10-28 19:18 UTC
 
-New CVEs published between 2026-10-28 17:20 UTC and 2026-10-28 18:20 UTC.
+New CVEs published between 2026-10-28 18:20 UTC and 2026-10-28 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-28T18-20-12-790705Z.csv)
+[Full CSV](data/new-cves-2026-10-28T19-18-53-358408Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-28 18:17:02 | [CVE-2026-105612](https://nvd.nist.gov/vuln/detail/CVE-2026-105612) | Low | 3.5 | PostgreSQL Anonymizer contains a vulnerability that data-modifying CTEs to bypass the read-only restriction of masked r… |
-| 2026-10-28 18:17:03 | [CVE-2026-105614](https://nvd.nist.gov/vuln/detail/CVE-2026-105614) | Medium | 4.7 | PostgreSQL Anonymizer's `anon.image_blur()` function doesn't check the declared dimension of the provided image, allowi… |
-| 2026-10-28 18:17:03 | [CVE-2026-105615](https://nvd.nist.gov/vuln/detail/CVE-2026-105615) | Low | 3.5 | PostgreSQL's optimized statistics on a table are visible as long as you have SELECT privilege on said table. A masked r… |
-| 2026-10-28 18:17:03 | [CVE-2026-105616](https://nvd.nist.gov/vuln/detail/CVE-2026-105616) | Medium | 5.7 | PostgreSQL restricts acces to the salt and shift via the `SHOW` command for users not member of `pg_read_all_settings`.… |
-| 2026-10-28 18:17:03 | [CVE-2026-105617](https://nvd.nist.gov/vuln/detail/CVE-2026-105617) | Medium | 6.5 | PostgreSQL Anonymizer doesn't invalidate plans prepared after a rule was added or a role changed. Users using such plan… |
-| 2026-10-28 18:17:03 | [CVE-2026-105618](https://nvd.nist.gov/vuln/detail/CVE-2026-105618) | Medium | 5.7 | PostgreSQL Anonymizer's documentation recommends applying rules on partitions and inheritance tables. Direct access to… |
-| 2026-10-28 18:17:03 | [CVE-2026-105619](https://nvd.nist.gov/vuln/detail/CVE-2026-105619) | Medium | 4.8 | PostgreSQL Anonymizer doesn't mask data accessed thru a security_invoker view. The problem is resolved in PostgreSQL An… |
-| 2026-10-28 18:17:03 | [CVE-2026-105613](https://nvd.nist.gov/vuln/detail/CVE-2026-105613) | Medium | 4.7 | PostgreSQL Anonymizer's range-based dummy functions dont constraint the range size. This vulnerability can be exploited… |
-| 2026-10-28 18:17:04 | [CVE-2026-105620](https://nvd.nist.gov/vuln/detail/CVE-2026-105620) | Medium | 6.5 | PostgreSQL Anonymizer doesn't mask data returned by a sub-query in a rule. The problem is resolved in PostgreSQL Anonym… |
-| 2026-10-28 18:17:05 | [CVE-2026-110181](https://nvd.nist.gov/vuln/detail/CVE-2026-110181) | Medium | 6.5 | PostgreSQL Anonymizer contains a vulnerability related to anonymization functions defined using SQL-standard function b… |
-| 2026-10-28 18:17:05 | [CVE-2026-110182](https://nvd.nist.gov/vuln/detail/CVE-2026-110182) | Medium | 4.3 | PostgreSQL Anonymizer contains a vulnerability related to the anon.partial() and anon.partial_email() functions. These… |
-| 2026-10-28 18:17:05 | [CVE-2026-110183](https://nvd.nist.gov/vuln/detail/CVE-2026-110183) | Medium | 4.3 | PostgreSQL Anonymizer contains a vulnerability related to static masking and statistics persistence. Statistics pertain… |
-| 2026-10-28 18:17:12 | [CVE-2026-116131](https://nvd.nist.gov/vuln/detail/CVE-2026-116131) |  |  | HTTP::Body versions before 1.23_01 for Perl allow memory and temporary file exhaustion via an unlimited number of form… |
-| 2026-10-28 18:17:12 | [CVE-2026-116132](https://nvd.nist.gov/vuln/detail/CVE-2026-116132) |  |  | HTTP::Body versions before 1.23_01 for Perl leave the temporary file of an incomplete multipart upload on disk. The mul… |
-| 2026-10-28 18:17:12 | [CVE-2026-116133](https://nvd.nist.gov/vuln/detail/CVE-2026-116133) |  |  | HTTP::Body versions before 1.23_01 for Perl allow CPU exhaustion via quadratic rescanning of a multipart body with a mi… |
-| 2026-10-28 18:17:12 | [CVE-2026-116134](https://nvd.nist.gov/vuln/detail/CVE-2026-116134) |  |  | HTTP::Body versions before 1.23_01 for Perl allow memory exhaustion via an unbounded multipart part header block. The m… |
-| 2026-10-28 18:17:12 | [CVE-2026-116135](https://nvd.nist.gov/vuln/detail/CVE-2026-116135) |  |  | HTTP::Body versions before 1.23_01 for Perl drop mixed-case percent escapes from urlencoded form fields instead of deco… |
-| 2026-10-28 18:17:12 | [CVE-2026-116264](https://nvd.nist.gov/vuln/detail/CVE-2026-116264) |  |  | MIME::Field::ParamVal versions before 5.521 for Perl allow one invalid Content-Type parameter to hide the parameters af… |
-| 2026-10-28 18:17:12 | [CVE-2026-116265](https://nvd.nist.gov/vuln/detail/CVE-2026-116265) |  |  | MIME::Field::ParamVal versions before 5.521 for Perl do not flag an ambiguous multipart boundary written as RFC 2231 co… |
-| 2026-10-28 18:17:13 | [CVE-2026-116266](https://nvd.nist.gov/vuln/detail/CVE-2026-116266) |  |  | MIME::Head versions from 5.518 before 5.521 for Perl decode a partly encoded multipart boundary without flagging the pa… |
-| 2026-10-28 18:17:13 | [CVE-2026-116267](https://nvd.nist.gov/vuln/detail/CVE-2026-116267) |  |  | MIME::Parser versions before 5.521 for Perl allow memory exhaustion via indented error messages from a truncated, deepl… |
-| 2026-10-28 18:17:13 | [CVE-2026-116268](https://nvd.nist.gov/vuln/detail/CVE-2026-116268) |  |  | MIME::Field::ParamVal versions before 5.521 for Perl allow CPU exhaustion via unclosed comments in header parameters. T… |
-| 2026-10-28 18:17:13 | [CVE-2026-116269](https://nvd.nist.gov/vuln/detail/CVE-2026-116269) |  |  | MIME::Field::ParamVal versions before 5.521 for Perl turn an RFC 2231 filename with a hyphenated language tag into an e… |
-| 2026-10-28 18:17:13 | [CVE-2026-116270](https://nvd.nist.gov/vuln/detail/CVE-2026-116270) |  |  | MIME::Words versions before 5.521 for Perl allow memory exhaustion via repeated "=?" sequences in decode_mimewords. For… |
-| 2026-10-28 18:17:13 | [CVE-2026-116271](https://nvd.nist.gov/vuln/detail/CVE-2026-116271) |  |  | MIME::Parser::FileUnder versions before 5.521 for Perl reuse a pre-created output directory and follow symlinks in it,… |
-| 2026-10-28 18:17:13 | [CVE-2026-116272](https://nvd.nist.gov/vuln/detail/CVE-2026-116272) |  |  | MIME::Field::ParamVal versions before 5.521 for Perl do not flag a duplicate boundary parameter whose name contains a n… |
-| 2026-10-28 18:17:13 | [CVE-2026-116273](https://nvd.nist.gov/vuln/detail/CVE-2026-116273) |  |  | MIME::Parser versions before 5.521 for Perl set no limit on the number of message parts by default, allowing memory exh… |
-| 2026-10-28 18:17:13 | [CVE-2026-116285](https://nvd.nist.gov/vuln/detail/CVE-2026-116285) |  |  | HTTP::Body versions before 1.23_01 for Perl allow CPU exhaustion via quadratic regex backtracking when parsing chunked… |
-| 2026-10-28 18:17:14 | [CVE-2026-116531](https://nvd.nist.gov/vuln/detail/CVE-2026-116531) |  |  | HTTP::Body versions before 1.23_01 for Perl lose track of chunk boundaries in chunked request bodies when a read ends i… |
-| 2026-10-28 18:17:14 | [CVE-2026-116794](https://nvd.nist.gov/vuln/detail/CVE-2026-116794) | High | 8.3 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. From 0.50.0-beta.12 u… |
-| 2026-10-28 18:17:14 | [CVE-2026-116795](https://nvd.nist.gov/vuln/detail/CVE-2026-116795) | High | 7.5 | RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching. From 2.2.0 until 2… |
-| 2026-10-28 18:17:14 | [CVE-2026-116796](https://nvd.nist.gov/vuln/detail/CVE-2026-116796) | High | 7.2 | Highcharts JS is a JavaScript charting library based on SVG. From 10.3.2 until 11.4.9, 12.6.2, and 13.1.1, Highcharts a… |
-| 2026-10-28 18:17:14 | [CVE-2026-116797](https://nvd.nist.gov/vuln/detail/CVE-2026-116797) | High | 8.5 | Highcharts JS is a JavaScript charting library based on SVG. From 2.0.0 until 3.2.0, Highcharts Grid Pro input renderer… |
-| 2026-10-28 18:17:14 | [CVE-2026-117500](https://nvd.nist.gov/vuln/detail/CVE-2026-117500) |  |  | HTTP::Body versions before 1.24_01 for Perl allow CPU exhaustion via regex backtracking on the filename of a multipart… |
-| 2026-10-28 18:17:14 | [CVE-2026-117501](https://nvd.nist.gov/vuln/detail/CVE-2026-117501) |  |  | HTTP::Body versions before 1.24_01 for Perl allow memory exhaustion via unbounded buffering of chunked request bodies.… |
-| 2026-10-28 18:17:14 | [CVE-2026-118242](https://nvd.nist.gov/vuln/detail/CVE-2026-118242) | High | 8.5 | Highcharts JS is a JavaScript charting library based on SVG. From 2.3.0 until 3.2.0, Highcharts Grid creates SVG path e… |
-| 2026-10-28 18:17:15 | [CVE-2026-118243](https://nvd.nist.gov/vuln/detail/CVE-2026-118243) | Medium | 5.3 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.2, Highcharts Dashboards stores DataC… |
-| 2026-10-28 18:17:15 | [CVE-2026-118244](https://nvd.nist.gov/vuln/detail/CVE-2026-118244) | High | 7.2 | Highcharts JS is a JavaScript charting library based on SVG. From 12.0.0 until 12.6.1 and 13.1.0, Highcharts falls back… |
-| 2026-10-28 18:17:15 | [CVE-2026-118245](https://nvd.nist.gov/vuln/detail/CVE-2026-118245) | High | 8.6 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.2, Highcharts Dashboards uses chartCo… |
-| 2026-10-28 18:17:15 | [CVE-2026-118246](https://nvd.nist.gov/vuln/detail/CVE-2026-118246) | High | 8.4 | Highcharts JS is a JavaScript charting library based on SVG. From 10.0.0 until 11.4.9, 12.6.1, and 13.1.0, Highcharts a… |
-| 2026-10-28 18:17:15 | [CVE-2026-118247](https://nvd.nist.gov/vuln/detail/CVE-2026-118247) | Medium | 6.9 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until Dashboards 4.2.2, and from 2.0.0 until Gr… |
-| 2026-10-28 18:17:15 | [CVE-2026-118248](https://nvd.nist.gov/vuln/detail/CVE-2026-118248) | Medium | 6.9 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.2, Highcharts Dashboards edit mode wa… |
-| 2026-10-28 18:17:16 | [CVE-2026-118249](https://nvd.nist.gov/vuln/detail/CVE-2026-118249) | High | 7.2 | Highcharts JS is a JavaScript charting library based on SVG. From 13.0.0 until 13.1.0, Highcharts builds series data co… |
-| 2026-10-28 18:17:16 | [CVE-2026-118250](https://nvd.nist.gov/vuln/detail/CVE-2026-118250) | High | 7.2 | Highcharts JS is a JavaScript charting library based on SVG. From 6.1.0 until 11.4.9, 12.6.1, and 3.1.0, Highcharts fol… |
-| 2026-10-28 18:17:20 | [CVE-2026-58458](https://nvd.nist.gov/vuln/detail/CVE-2026-58458) | Medium | 6.9 | Don't Starve Together (Steam AppID 322330) through build 747465 contains a memory-corruption vulnerability in the nativ… |
-| 2026-10-28 18:17:20 | [CVE-2026-79656](https://nvd.nist.gov/vuln/detail/CVE-2026-79656) | Medium | 6.0 | A user with read access to Grafana's server logs, or to a log store they are shipped to, can recover the OAuth and OIDC… |
-| 2026-10-28 18:17:20 | [CVE-2026-84725](https://nvd.nist.gov/vuln/detail/CVE-2026-84725) | High | 8.1 | when EAP runs with -secmgr, the openjdk-orb's JDKBridge honours attacker-supplied CDR codebase URLs during object unmar… |
+| 2026-10-28 19:17:21 | [CVE-2026-106484](https://nvd.nist.gov/vuln/detail/CVE-2026-106484) |  |  | Insufficient policy enforcement in chrome-devtools-mcp in Google Chrome on Linux prior to 1.5.0 allowed a local attacke… |
+| 2026-10-28 19:17:29 | [CVE-2026-118251](https://nvd.nist.gov/vuln/detail/CVE-2026-118251) | High | 8.4 | Highcharts JS is a JavaScript charting library based on SVG. Prior to 11.4.9, 12.6.1, and 13.1.0, Highcharts assigns cr… |
+| 2026-10-28 19:17:29 | [CVE-2026-118252](https://nvd.nist.gov/vuln/detail/CVE-2026-118252) | High | 8.4 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.3, Highcharts Dashboards edit-mode si… |
+| 2026-10-28 19:17:29 | [CVE-2026-118253](https://nvd.nist.gov/vuln/detail/CVE-2026-118253) | High | 8.4 | Highcharts JS is a JavaScript charting library based on SVG. From 1.0.0 until 4.2.3, Highcharts Dashboards edit mode pa… |
+| 2026-10-28 19:17:29 | [CVE-2026-118254](https://nvd.nist.gov/vuln/detail/CVE-2026-118254) | High | 8.6 | Highcharts JS is a JavaScript charting library based on SVG. From 2.0.0 until 3.2.0, Highcharts Grid writes pagination… |
+| 2026-10-28 19:17:29 | [CVE-2026-118255](https://nvd.nist.gov/vuln/detail/CVE-2026-118255) | High | 8.4 | Highcharts JS is a JavaScript charting library based on SVG. From 2.0.0 until 3.2.0, Highcharts Grid applies credits.hr… |
+| 2026-10-28 19:17:30 | [CVE-2026-118256](https://nvd.nist.gov/vuln/detail/CVE-2026-118256) | Low | 2.1 | Vue I18n is the internationalization plugin for Vue.js. From 9.0.0-beta.5 until 11.4.14 and 12.0.0-alpha.5, enabling es… |
+| 2026-10-28 19:17:30 | [CVE-2026-118257](https://nvd.nist.gov/vuln/detail/CVE-2026-118257) | High | 7.2 | Vue I18n is the internationalization plugin for Vue.js. From 11.1.10 until 11.4.14 and from 12.0.0-alpha.4 until 12.0.0… |
+| 2026-10-28 19:17:30 | [CVE-2026-118258](https://nvd.nist.gov/vuln/detail/CVE-2026-118258) | Low | 3.7 | i18next-http-backend is a backend layer for i18next that loads translation resources in Node.js, browsers, and Deno. Pr… |
+| 2026-10-28 19:17:30 | [CVE-2026-118259](https://nvd.nist.gov/vuln/detail/CVE-2026-118259) | Medium | 5.3 | opentelemetry-java is the Java implementation of the OpenTelemetry API for recording telemetry, and SDK for managing te… |
+| 2026-10-28 19:17:30 | [CVE-2026-118260](https://nvd.nist.gov/vuln/detail/CVE-2026-118260) | High | 8.2 | Echo is a Go web framework. From 4.0.0 until 4.16.1, Echo v4's opt-in BodyDump middleware reads complete request bodies… |
+| 2026-10-28 19:17:30 | [CVE-2026-118261](https://nvd.nist.gov/vuln/detail/CVE-2026-118261) | High | 8.2 | Echo is a Go web framework. From 4.0.0 until 4.16.1, Echo v4's opt-in Decompress middleware exposes a gzip-decoded requ… |
+| 2026-10-28 19:17:30 | [CVE-2026-118262](https://nvd.nist.gov/vuln/detail/CVE-2026-118262) | High | 8.2 | Echo is a Go web framework. From 4.15.0 until 4.16.1 and 5.4.1, Echo's Proxy middleware can retain a handler, copy goro… |
+| 2026-10-28 19:17:31 | [CVE-2026-118263](https://nvd.nist.gov/vuln/detail/CVE-2026-118263) | Medium | 6.3 | Echo is a Go web framework. From 5.0.0 until 5.4.1, Echo v5's BodyDump middleware can discard a BodyLimit overflow erro… |
+| 2026-10-28 19:17:31 | [CVE-2026-118264](https://nvd.nist.gov/vuln/detail/CVE-2026-118264) | Critical | 9.1 | Echo is a Go web framework. From 4.0.0 until 4.16.1 and 5.4.1, Echo's Proxy middleware selects a raw tunnel from a clie… |
+| 2026-10-28 19:17:31 | [CVE-2026-118265](https://nvd.nist.gov/vuln/detail/CVE-2026-118265) | Medium | 5.3 | Echo is a Go web framework. From 5.0.0 until 5.4.1, Echo v5's ExtractIPFromRealIPHeader validates whether the client-su… |
+| 2026-10-28 19:17:31 | [CVE-2026-118633](https://nvd.nist.gov/vuln/detail/CVE-2026-118633) | Critical | 9.2 | A path traversal vulnerability allows a remote unauthenticated attacker to execute arbitrary code as root in Sophos UTM… |
+| 2026-10-28 19:17:31 | [CVE-2026-118640](https://nvd.nist.gov/vuln/detail/CVE-2026-118640) | Medium | 5.3 | n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability in Chat Hub that allows chat-onl… |
+| 2026-10-28 19:17:31 | [CVE-2026-118641](https://nvd.nist.gov/vuln/detail/CVE-2026-118641) | Medium | 6.9 | n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains an OData $filter injection vulnerability in t… |
+| 2026-10-28 19:17:32 | [CVE-2026-118642](https://nvd.nist.gov/vuln/detail/CVE-2026-118642) | Medium | 5.1 | n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability that allows authenticated member… |
+| 2026-10-28 19:17:32 | [CVE-2026-118643](https://nvd.nist.gov/vuln/detail/CVE-2026-118643) | Medium | 5.3 | n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 stores credential secrets in execution error data when… |
+| 2026-10-28 19:17:32 | [CVE-2026-118644](https://nvd.nist.gov/vuln/detail/CVE-2026-118644) | Medium | 5.1 | n8n before 2.41.5 and 2.42.x before 2.42.2 passes a failed workflow's full execution context, including the identity of… |
+| 2026-10-28 19:17:32 | [CVE-2026-118645](https://nvd.nist.gov/vuln/detail/CVE-2026-118645) | High | 7.0 | n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a filter injection vulnerability in the Quick… |
+| 2026-10-28 19:17:32 | [CVE-2026-118646](https://nvd.nist.gov/vuln/detail/CVE-2026-118646) | High | 7.1 | n8n before 1.123.85, 2.43.5, and 2.44.1 contains a regular expression denial of service vulnerability that allows authe… |
+| 2026-10-28 19:17:32 | [CVE-2026-118647](https://nvd.nist.gov/vuln/detail/CVE-2026-118647) | Medium | 5.3 | n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 saves the SeaTable Trigger node's API token in error e… |
+| 2026-10-28 19:17:33 | [CVE-2026-118648](https://nvd.nist.gov/vuln/detail/CVE-2026-118648) | High | 8.4 | n8n before 1.123.85, 2.x before 2.43.5, and 2.44.x before 2.44.1 contains a stored cross-site scripting vulnerability b… |
+| 2026-10-28 19:17:33 | [CVE-2026-118649](https://nvd.nist.gov/vuln/detail/CVE-2026-118649) | High | 8.7 | n8n before 2.43.5 and 2.44.x before 2.44.1 accepts a client-supplied workflow ID and caches each workflow's owner proje… |
+| 2026-10-28 19:17:33 | [CVE-2026-118675](https://nvd.nist.gov/vuln/detail/CVE-2026-118675) | Medium | 5.1 | n8n before 1.123.85, 2.43.5, and 2.44.1 contains a credential guard bypass vulnerability that allows editors of shared… |
+| 2026-10-28 19:17:33 | [CVE-2026-118676](https://nvd.nist.gov/vuln/detail/CVE-2026-118676) | Medium | 5.1 | n8n before 1.123.85, 2.43.5, and 2.44.1 contains an authorization bypass vulnerability that allows member users to use… |
+| 2026-10-28 19:17:33 | [CVE-2026-118677](https://nvd.nist.gov/vuln/detail/CVE-2026-118677) | Medium | 5.9 | n8n before 2.41.4 and 2.42.x before 2.42.1 contains a missing confirmation vulnerability in the Local Gateway desktop a… |
+| 2026-10-28 19:17:33 | [CVE-2026-118678](https://nvd.nist.gov/vuln/detail/CVE-2026-118678) | High | 7.1 | n8n before 2.41.4 and 2.42.x before 2.42.1 contains a prototype pollution vulnerability that allows low-privileged user… |
+| 2026-10-28 19:17:34 | [CVE-2026-118679](https://nvd.nist.gov/vuln/detail/CVE-2026-118679) | Medium | 6.9 | n8n before 1.123.83, 2.41.4, and 2.42.1 contains a server-side request forgery vulnerability in the Slack Trigger webho… |
+| 2026-10-28 19:17:34 | [CVE-2026-118680](https://nvd.nist.gov/vuln/detail/CVE-2026-118680) | Medium | 5.9 | SiYuan 3.8.7 through 3.8.8 fails to normalize Windows GLOBALROOT device-namespace aliases, bypassing the IsSensitivePat… |
+| 2026-10-28 19:17:34 | [CVE-2026-118681](https://nvd.nist.gov/vuln/detail/CVE-2026-118681) | Medium | 6.3 | go-chi chi before 5.5.0 contains an authentication bypass in middleware.SupressNotFound, which calls Match with the liv… |
+| 2026-10-28 19:17:35 | [CVE-2026-118683](https://nvd.nist.gov/vuln/detail/CVE-2026-118683) | High | 8.6 | MONAI from 1.2.0 before 1.6.1 contains a remote code execution vulnerability in ConfigWorkflow.__init__, which passes a… |
+| 2026-10-28 19:17:35 | [CVE-2026-118684](https://nvd.nist.gov/vuln/detail/CVE-2026-118684) | High | 8.2 | MONAI before 1.6.1 contains an insufficient integrity verification vulnerability in check_hash() that silently returns… |
+| 2026-10-28 19:17:35 | [CVE-2026-118685](https://nvd.nist.gov/vuln/detail/CVE-2026-118685) | Medium | 6.9 | ToolJet from 3.20.2-lts before 3.20.242-lts contains an authorization bypass in SignupDisableGuard, which treats the st… |
+| 2026-10-28 19:17:35 | [CVE-2026-118686](https://nvd.nist.gov/vuln/detail/CVE-2026-118686) | High | 8.7 | EspoCRM before 9.3.11 and 10.x before 10.0.8 contains a denial of service vulnerability in which the password-redaction… |
+| 2026-10-28 19:17:35 | [CVE-2026-118687](https://nvd.nist.gov/vuln/detail/CVE-2026-118687) | High | 8.3 | Coder before 2.29.21, 2.30.0 before 2.34.12, 2.35.0 before 2.35.9, 2.36.0 before 2.36.7, and 2.37.0 before 2.37.4 does… |
+| 2026-10-28 19:17:35 | [CVE-2026-118688](https://nvd.nist.gov/vuln/detail/CVE-2026-118688) | High | 8.8 | wasmtime-wasi in Wasmtime before 36.0.18, 37.0.0 before 48.0.6, and 49.0.0 before 49.0.3 re-appends a trailing slash to… |
 
 ## Data source
 
