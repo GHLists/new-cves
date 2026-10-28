@@ -9,44 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 13:18 UTC
+## Latest list — 2026-10-28 14:18 UTC
 
-New CVEs published between 2026-10-28 12:20 UTC and 2026-10-28 13:18 UTC.
+New CVEs published between 2026-10-28 13:18 UTC and 2026-10-28 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-28T13-18-25-362749Z.csv)
+[Full CSV](data/new-cves-2026-10-28T14-18-25-659721Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-28 13:17:04 | [CVE-2026-111411](https://nvd.nist.gov/vuln/detail/CVE-2026-111411) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Aman FunnelKit Au… |
-| 2026-10-28 13:17:04 | [CVE-2026-111850](https://nvd.nist.gov/vuln/detail/CVE-2026-111850) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in BuddyPress BuddyP… |
-| 2026-10-28 13:17:04 | [CVE-2026-115591](https://nvd.nist.gov/vuln/detail/CVE-2026-115591) | High | 7.5 | Insertion of Sensitive Information Into Sent Data vulnerability in Supsystic Contact Form by Supsystic contact-form-by-… |
-| 2026-10-28 13:17:04 | [CVE-2026-115593](https://nvd.nist.gov/vuln/detail/CVE-2026-115593) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Unlimited Element… |
-| 2026-10-28 13:17:04 | [CVE-2026-115596](https://nvd.nist.gov/vuln/detail/CVE-2026-115596) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in impleCode eCommer… |
-| 2026-10-28 13:17:04 | [CVE-2026-115606](https://nvd.nist.gov/vuln/detail/CVE-2026-115606) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crowd Favorite DX… |
-| 2026-10-28 13:17:04 | [CVE-2026-115607](https://nvd.nist.gov/vuln/detail/CVE-2026-115607) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Crowd Favorite DX… |
-| 2026-10-28 13:17:05 | [CVE-2026-115609](https://nvd.nist.gov/vuln/detail/CVE-2026-115609) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Stiofan GetPaid i… |
-| 2026-10-28 13:17:05 | [CVE-2026-115612](https://nvd.nist.gov/vuln/detail/CVE-2026-115612) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in iova.mihai SliceW… |
-| 2026-10-28 13:17:05 | [CVE-2026-115904](https://nvd.nist.gov/vuln/detail/CVE-2026-115904) | Critical | 9.6 | Topluyo is a social networking platform. A vulnerability exists in Topluyo Desktop for Linux prior to version 2026.9.24… |
-| 2026-10-28 13:17:05 | [CVE-2026-115957](https://nvd.nist.gov/vuln/detail/CVE-2026-115957) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Discussion Boa… |
-| 2026-10-28 13:17:05 | [CVE-2026-116391](https://nvd.nist.gov/vuln/detail/CVE-2026-116391) | High | 8.8 | Deserialization of Untrusted Data vulnerability in GS Plugins GS Logo Slider gs-logo-slider allows Object Injection.Thi… |
-| 2026-10-28 13:17:05 | [CVE-2026-116392](https://nvd.nist.gov/vuln/detail/CVE-2026-116392) | High | 7.2 | Deserialization of Untrusted Data vulnerability in PickPlugins Accordion accordions allows Object Injection.This issue… |
-| 2026-10-28 13:17:05 | [CVE-2026-116393](https://nvd.nist.gov/vuln/detail/CVE-2026-116393) | High | 7.5 | Missing Authorization vulnerability in iHomefinder, Inc. Optima Express optima-express allows Exploiting Incorrectly Co… |
-| 2026-10-28 13:17:06 | [CVE-2026-116404](https://nvd.nist.gov/vuln/detail/CVE-2026-116404) | Medium | 6.5 | Missing Authorization vulnerability in David Anderson Redux Framework redux-framework allows Lifting Sensitive Data Emb… |
-| 2026-10-28 13:17:06 | [CVE-2026-118035](https://nvd.nist.gov/vuln/detail/CVE-2026-118035) | High | 7.5 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, uncontrolled recursion, inefficient a… |
-| 2026-10-28 13:17:06 | [CVE-2026-118036](https://nvd.nist.gov/vuln/detail/CVE-2026-118036) | High | 7.5 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, uncontrolled recursion, infinite loop… |
-| 2026-10-28 13:17:06 | [CVE-2026-118037](https://nvd.nist.gov/vuln/detail/CVE-2026-118037) | High | 7.5 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, uncontrolled recursion, infinite loop… |
-| 2026-10-28 13:17:06 | [CVE-2026-118038](https://nvd.nist.gov/vuln/detail/CVE-2026-118038) | High | 7.1 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, a path traversal vulnerability in the… |
-| 2026-10-28 13:17:06 | [CVE-2026-118039](https://nvd.nist.gov/vuln/detail/CVE-2026-118039) | High | 7.5 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, an XML external entity reference vuln… |
-| 2026-10-28 13:17:06 | [CVE-2026-118040](https://nvd.nist.gov/vuln/detail/CVE-2026-118040) | High | 7.5 | In Progress® Telerik® Document Processing Libraries prior to version 2026.3.1027, improper verification of cryptographi… |
-| 2026-10-28 13:17:07 | [CVE-2026-21830](https://nvd.nist.gov/vuln/detail/CVE-2026-21830) | Low | 3.7 | HCL BigFix AEX product is affected by a vulnerability in the aws-sdk package.. It may cause AWS API requests to be sent… |
-| 2026-10-28 13:17:08 | [CVE-2026-55369](https://nvd.nist.gov/vuln/detail/CVE-2026-55369) | Medium | 6.5 | Waline is a comment system with backend support. Prior to version 1.41.1, the login endpoint POST /api/token reads the… |
-| 2026-10-28 13:17:08 | [CVE-2026-67073](https://nvd.nist.gov/vuln/detail/CVE-2026-67073) | High | 8.6 | HCL BigFix AEX is affected by an Unrestricted File Upload and Improper Access Control vulnerability. This could allow a… |
-| 2026-10-28 13:17:08 | [CVE-2026-67074](https://nvd.nist.gov/vuln/detail/CVE-2026-67074) | Critical | 9.1 | HCL BigFix AEX is affected by a Remote Code Execution Vulnerability . It may allow attackers to execute code with the p… |
-| 2026-10-28 13:17:08 | [CVE-2026-67077](https://nvd.nist.gov/vuln/detail/CVE-2026-67077) | Medium | 4.2 | HCL BigFix AEX is affected by a Server-Side Request Forgery vulnerability, which could allow an attacker to cause the a… |
-| 2026-10-28 13:17:08 | [CVE-2026-67079](https://nvd.nist.gov/vuln/detail/CVE-2026-67079) | Medium | 6.4 | HCL BigFix AEX is affected by a Clickjacking vulnerability, which could allow an attacker to embed the application with… |
-| 2026-10-28 13:17:08 | [CVE-2026-67080](https://nvd.nist.gov/vuln/detail/CVE-2026-67080) | Medium | 6.5 | HCL BigFix AEX is affected by an Information Disclosure vulnerability due to improper handling of errors or exceptional… |
-| 2026-10-28 13:17:29 | [CVE-2026-93515](https://nvd.nist.gov/vuln/detail/CVE-2026-93515) | Medium | 6.8 | A use-after-free in present_clear_window_notifies() in the X.org X Server before 21.1.25 and X Wayland before 24.1.14 c… |
-| 2026-10-28 13:17:29 | [CVE-2026-93516](https://nvd.nist.gov/vuln/detail/CVE-2026-93516) | Medium | 5.5 | A use-after-free caused by lack of lifecycle management when adding / removing XInput master devices in X.org X Server… |
+| 2026-10-28 14:16:56 | [CVE-2026-105420](https://nvd.nist.gov/vuln/detail/CVE-2026-105420) | Critical | 9.4 | Wing FTP Server does not verify user's base folder. An attacker with admin privileges can add user directories via scri… |
+| 2026-10-28 14:16:57 | [CVE-2026-115590](https://nvd.nist.gov/vuln/detail/CVE-2026-115590) | High | 7.2 | Deserialization of Untrusted Data vulnerability in weDevs Dokan dokan-lite allows Object Injection.This issue affects D… |
+| 2026-10-28 14:16:57 | [CVE-2026-115603](https://nvd.nist.gov/vuln/detail/CVE-2026-115603) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Advanced Ads GmbH… |
+| 2026-10-28 14:16:58 | [CVE-2026-115968](https://nvd.nist.gov/vuln/detail/CVE-2026-115968) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in Ultimate Member Ultimate Member ultimate-member allows Object Inject… |
+| 2026-10-28 14:16:58 | [CVE-2026-116078](https://nvd.nist.gov/vuln/detail/CVE-2026-116078) | High | 8.7 | Allocation of Resources Without Limits or Throttling vulnerability in the HTTP/2 request body reader of mtrudel bandit… |
+| 2026-10-28 14:16:58 | [CVE-2026-116389](https://nvd.nist.gov/vuln/detail/CVE-2026-116389) | High | 8.8 | Deserialization of Untrusted Data vulnerability in crossi72 Phoenix Media Rename phoenix-media-rename allows Object Inj… |
+| 2026-10-28 14:16:58 | [CVE-2026-116390](https://nvd.nist.gov/vuln/detail/CVE-2026-116390) | High | 7.2 | Deserialization of Untrusted Data vulnerability in stepasyuk Filter Everything&nbsp;— WordPress &amp; WooCommerce Filte… |
+| 2026-10-28 14:17:03 | [CVE-2026-50541](https://nvd.nist.gov/vuln/detail/CVE-2026-50541) | Medium | 6.5 | Xibo is an open source digital signage platform with a web content management system and Windows display player softwar… |
+| 2026-10-28 14:17:04 | [CVE-2026-52729](https://nvd.nist.gov/vuln/detail/CVE-2026-52729) | High | 7.1 | Xibo is an open source digital signage platform with a web content management system and Windows display player softwar… |
+| 2026-10-28 14:17:04 | [CVE-2026-59164](https://nvd.nist.gov/vuln/detail/CVE-2026-59164) | High | 7.1 | NORA is a self-hosted artifact registry and pull-through cache. Prior to 0.9.5, `nora-registry` authenticates the token… |
+| 2026-10-28 14:17:04 | [CVE-2026-59172](https://nvd.nist.gov/vuln/detail/CVE-2026-59172) | High | 7.8 | Joker is a small Clojure interpreter, linter and formatter written in Go. Prior to 1.8.2, `joker --lint <file>` walks u… |
+| 2026-10-28 14:17:04 | [CVE-2026-59176](https://nvd.nist.gov/vuln/detail/CVE-2026-59176) | High | 7.8 | Functype is a family of TypeScript functional programming libraries. Prior to 1.4.4, the `set_functype_version` MCP too… |
+| 2026-10-28 14:17:04 | [CVE-2026-59177](https://nvd.nist.gov/vuln/detail/CVE-2026-59177) | High | 8.8 | ESPHome Device Builder Dashboard is a dashboard for the ESPHome home management software. Prior to 1.0.10, the `Home As… |
+| 2026-10-28 14:17:04 | [CVE-2026-59179](https://nvd.nist.gov/vuln/detail/CVE-2026-59179) | High | 8.3 | OpenHop is a tool for creating interactive data-flow diagrams. Prior to 0.3.7, `@openhop/server` passes unauthenticated… |
+| 2026-10-28 14:17:05 | [CVE-2026-59185](https://nvd.nist.gov/vuln/detail/CVE-2026-59185) | High | 8.5 | identrail is a machine identity security platform for AWS, GitHub/OIDC, and Kubernetes. Prior to 1.0.2, the default-on… |
+| 2026-10-28 14:17:05 | [CVE-2026-59959](https://nvd.nist.gov/vuln/detail/CVE-2026-59959) | Medium | 4.8 | SAIL is a cross-platform library for loading and saving images with support for animation, metadata, and ICC profiles.… |
+| 2026-10-28 14:17:08 | [CVE-2026-93517](https://nvd.nist.gov/vuln/detail/CVE-2026-93517) | High | 8.5 | A heap buffer overflow in handling GLX RenderLarge request where dataBytes exceeds cmdlen in X.org X server before 21.1… |
 
 ## Data source
 
