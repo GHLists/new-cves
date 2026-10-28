@@ -9,33 +9,45 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 21:19 UTC
+## Latest list — 2026-10-28 22:18 UTC
 
-New CVEs published between 2026-10-28 20:18 UTC and 2026-10-28 21:19 UTC.
+New CVEs published between 2026-10-28 21:19 UTC and 2026-10-28 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-28T21-19-56-200152Z.csv)
+[Full CSV](data/new-cves-2026-10-28T22-18-19-171807Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-28 20:18:27 | [CVE-2026-61529](https://nvd.nist.gov/vuln/detail/CVE-2026-61529) | Medium | 4.7 | Endatix is a self-hosted form and survey management platform with a headless API. Prior to 0.7.0, the anonymous `POST /… |
-| 2026-10-28 20:18:27 | [CVE-2026-61542](https://nvd.nist.gov/vuln/detail/CVE-2026-61542) | High | 8.6 | Gearboy is a Game Boy, Game Boy Color, and Super Game Boy emulator and debugger with an embedded MCP server. Gearsystem… |
-| 2026-10-28 20:18:37 | [CVE-2026-63190](https://nvd.nist.gov/vuln/detail/CVE-2026-63190) | Critical | 9.4 | FearlessCMS is a flat-file `content` management system centered on simplicity and open source. Prior to version 0.1.4,… |
-| 2026-10-28 20:18:44 | [CVE-2026-6647](https://nvd.nist.gov/vuln/detail/CVE-2026-6647) | High | 7.4 | In deployments of WSO2 Identity Server configured with a case-insensitive user store and a case-sensitive database for… |
-| 2026-10-28 20:18:47 | [CVE-2026-76418](https://nvd.nist.gov/vuln/detail/CVE-2026-76418) | High | 8.6 | A vulnerability in the Remote Access SSL VPN service of Cisco Secure Firewall Adaptive Security Appliance (ASA) Softwar… |
-| 2026-10-28 20:18:47 | [CVE-2026-78674](https://nvd.nist.gov/vuln/detail/CVE-2026-78674) | High | 8.8 | The BPMN System REST APIs do not sufficiently validate input parameters, allowing authenticated users to submit crafted… |
-| 2026-10-28 21:16:55 | [CVE-2026-118656](https://nvd.nist.gov/vuln/detail/CVE-2026-118656) | Medium | 6.1 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, sanitizeURI checks only the first two bytes of a redirect target… |
-| 2026-10-28 21:16:55 | [CVE-2026-118657](https://nvd.nist.gov/vuln/detail/CVE-2026-118657) | Medium | 5.9 | Echo is a Go web framework. Prior to 4.16.0 and 5.4.0, Context.Scheme unconditionally trusts forwarded scheme headers f… |
-| 2026-10-28 21:16:55 | [CVE-2026-118658](https://nvd.nist.gov/vuln/detail/CVE-2026-118658) | Medium | 4.7 | Echo is a Go web framework. Prior to 4.15.2 and 5.1.1, Context.Scheme returns values from X-Forwarded-Proto, X-Forwarde… |
-| 2026-10-28 21:16:55 | [CVE-2026-118659](https://nvd.nist.gov/vuln/detail/CVE-2026-118659) | High | 7.5 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 21.0.2, the Ha… |
-| 2026-10-28 21:16:56 | [CVE-2026-118660](https://nvd.nist.gov/vuln/detail/CVE-2026-118660) | High | 8.6 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 21.0.0, Happy… |
-| 2026-10-28 21:16:56 | [CVE-2026-118661](https://nvd.nist.gov/vuln/detail/CVE-2026-118661) | Medium | 6.5 | Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. Prior to 20.14.6, Happy… |
-| 2026-10-28 21:16:56 | [CVE-2026-118662](https://nvd.nist.gov/vuln/detail/CVE-2026-118662) | Medium | 6.9 | Vite is a frontend tooling framework for JavaScript. From 6.4.4 until 6.4.5, the Vite development server can evaluate s… |
-| 2026-10-28 21:16:56 | [CVE-2026-118663](https://nvd.nist.gov/vuln/detail/CVE-2026-118663) | Medium | 5.3 | @hono/node-server allows running the Hono application on Node.js. From 1.19.10 until 2.1.3, serveStatic decodes a reque… |
-| 2026-10-28 21:16:56 | [CVE-2026-118664](https://nvd.nist.gov/vuln/detail/CVE-2026-118664) | High | 8.2 | decode-uri-component provides a more robust alternative to decodeURIComponent. Prior to 0.5.1, decodeUriComponent in in… |
-| 2026-10-28 21:16:56 | [CVE-2026-118665](https://nvd.nist.gov/vuln/detail/CVE-2026-118665) | High | 8.2 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to version 1.1.36 of the G… |
-| 2026-10-28 21:16:56 | [CVE-2026-118666](https://nvd.nist.gov/vuln/detail/CVE-2026-118666) | Medium | 6.0 | GraphQL Tools provides utilities for building, stitching, and mocking GraphQL schemas. Prior to version 1.1.36 of the G… |
-| 2026-10-28 21:16:57 | [CVE-2026-118667](https://nvd.nist.gov/vuln/detail/CVE-2026-118667) | Medium | 4.3 | LangGraph Python SDK is used to connect to running LangGraph API servers, manage assistants, threads and stream runs fr… |
-| 2026-10-28 21:16:57 | [CVE-2026-118668](https://nvd.nist.gov/vuln/detail/CVE-2026-118668) | High | 8.6 | langgraph-api implements the LangGraph API for rapid development and testing. From 0.1.2 until 0.15.0, JavaScript or Ty… |
+| 2026-10-28 22:17:12 | [CVE-2026-116641](https://nvd.nist.gov/vuln/detail/CVE-2026-116641) | High | 7.6 | The DB Tools rely on the TLS implementation in Golang’s standard library, which generally uses the system CA store. How… |
+| 2026-10-28 22:17:12 | [CVE-2026-118537](https://nvd.nist.gov/vuln/detail/CVE-2026-118537) | Medium | 5.3 | A vulnerability was found in a2ui up to 0.10.4. This vulnerability affects unknown code of the file src/v0_9/basic_cata… |
+| 2026-10-28 22:17:12 | [CVE-2026-118538](https://nvd.nist.gov/vuln/detail/CVE-2026-118538) | Medium | 5.1 | A vulnerability was determined in a2ui-project a2ui up to 0.12.0. This issue affects the function Root.renderComponentT… |
+| 2026-10-28 22:17:12 | [CVE-2026-118669](https://nvd.nist.gov/vuln/detail/CVE-2026-118669) | High | 8.4 | OAuthLib is an implementation of the OAuth request-signing logic for Python 3.6+. Prior to 4.0.0, the client_credential… |
+| 2026-10-28 22:17:12 | [CVE-2026-118682](https://nvd.nist.gov/vuln/detail/CVE-2026-118682) | High | 7.7 | KaringX ClashMi through 1.0.32.1801 disables TLS certificate validation by default in the HttpUtils helper, allowing at… |
+| 2026-10-28 22:17:12 | [CVE-2026-118689](https://nvd.nist.gov/vuln/detail/CVE-2026-118689) | High | 8.7 | OvenMediaEngine through 0.21.0 contains a denial of service vulnerability in OvtPacket::LoadHeader() that allows unauth… |
+| 2026-10-28 22:17:13 | [CVE-2026-118690](https://nvd.nist.gov/vuln/detail/CVE-2026-118690) | Critical | 9.3 | Signal K Server before 2.33.0 contains a missing authentication vulnerability that allows unauthenticated remote attack… |
+| 2026-10-28 22:17:13 | [CVE-2026-118691](https://nvd.nist.gov/vuln/detail/CVE-2026-118691) | Medium | 6.3 | xianyu-auto-reply-fix through 2.0.7 contains a missing authorization vulnerability in the POST /send-message endpoint t… |
+| 2026-10-28 22:17:13 | [CVE-2026-118692](https://nvd.nist.gov/vuln/detail/CVE-2026-118692) | High | 7.1 | CherryTree through 1.7.2 contains an OS command injection vulnerability in CtActions::link_clicked that allows attacker… |
+| 2026-10-28 22:17:13 | [CVE-2026-118693](https://nvd.nist.gov/vuln/detail/CVE-2026-118693) | Medium | 5.6 | CherryTree through 1.7.2 contains a path traversal vulnerability in CtStorageXmlHelper::_create_image_from_xml that tru… |
+| 2026-10-28 22:17:13 | [CVE-2026-118694](https://nvd.nist.gov/vuln/detail/CVE-2026-118694) | High | 8.7 | python-markdown2 through 2.5.5 contains a denial of service vulnerability that allows remote users to exhaust CPU by su… |
+| 2026-10-28 22:17:13 | [CVE-2026-118752](https://nvd.nist.gov/vuln/detail/CVE-2026-118752) | High | 8.5 | FreeImage (danoli3 fork) before 3.19.22 contains a heap buffer overflow vulnerability in the PBM RLE decoder of PluginI… |
+| 2026-10-28 22:17:14 | [CVE-2026-118753](https://nvd.nist.gov/vuln/detail/CVE-2026-118753) | High | 8.5 | FreeImage (danoli3 fork) before 3.19.25 contains a heap buffer overflow vulnerability in PluginGIF.cpp that allows atta… |
+| 2026-10-28 22:17:14 | [CVE-2026-118754](https://nvd.nist.gov/vuln/detail/CVE-2026-118754) | Medium | 6.9 | Dolibarr ERP CRM before 24.0.2 contains a missing authorization vulnerability in htdocs/public/recruitment/view.php tha… |
+| 2026-10-28 22:17:14 | [CVE-2026-118755](https://nvd.nist.gov/vuln/detail/CVE-2026-118755) | High | 8.6 | Volmarg Personal Management System through 2.1.0 contains an OS command injection vulnerability that allows authenticat… |
+| 2026-10-28 22:17:14 | [CVE-2026-118756](https://nvd.nist.gov/vuln/detail/CVE-2026-118756) | Medium | 6.7 | gopass before 1.17.0 contains a path traversal vulnerability in the filesystem storage backend that allows attackers to… |
+| 2026-10-28 22:17:14 | [CVE-2026-118757](https://nvd.nist.gov/vuln/detail/CVE-2026-118757) | Medium | 6.9 | PiWeb Disable payment method / Partial payment for WooCommerce before 1.1.10.9 contains a missing authorization vulnera… |
+| 2026-10-28 22:17:14 | [CVE-2026-118803](https://nvd.nist.gov/vuln/detail/CVE-2026-118803) | High | 7.5 | Bricks Theme 2.4.3 and before contains an unauthenticated dynamic-data tag injection vulnerability that allows anonymou… |
+| 2026-10-28 22:17:14 | [CVE-2026-118804](https://nvd.nist.gov/vuln/detail/CVE-2026-118804) | High | 7.5 | Bricks Builder 2.4.3 and before contains a broken access control vulnerability that allows unauthenticated attackers to… |
+| 2026-10-28 22:17:15 | [CVE-2026-54453](https://nvd.nist.gov/vuln/detail/CVE-2026-54453) | High | 7.2 | OpenCATS is an open-source applicant tracking system and recruitment CRM for staffing agencies and hiring teams. Prior… |
+| 2026-10-28 22:17:15 | [CVE-2026-54455](https://nvd.nist.gov/vuln/detail/CVE-2026-54455) | High | 7.6 | OpenCATS is an open-source applicant tracking system and recruitment CRM for staffing agencies and hiring teams. Prior… |
+| 2026-10-28 22:17:15 | [CVE-2026-57448](https://nvd.nist.gov/vuln/detail/CVE-2026-57448) | Medium | 6.2 | Blombooru is a self-hosted personal booru for organizing and tagging private image collections. Prior to 1.40.0, the ad… |
+| 2026-10-28 22:17:15 | [CVE-2026-61546](https://nvd.nist.gov/vuln/detail/CVE-2026-61546) | High | 8.8 | AnkiMCP is an Anki addon that implements an MCP server, enabling AI assistants to interact with the Anki flashcard appl… |
+| 2026-10-28 22:17:15 | [CVE-2026-61564](https://nvd.nist.gov/vuln/detail/CVE-2026-61564) | Critical | 10.0 | AVideo is a video-sharing Platform. Prior to 8.1.0, the unauthenticated installer endpoint `install/checkConfiguration.… |
+| 2026-10-28 22:17:15 | [CVE-2026-61567](https://nvd.nist.gov/vuln/detail/CVE-2026-61567) | Critical | 10.0 | AVideo is a video-sharing Platform. Prior to 8.1.0, the live-streaming endpoint `view/videosListToLive.php` accepts an… |
+| 2026-10-28 22:17:16 | [CVE-2026-61569](https://nvd.nist.gov/vuln/detail/CVE-2026-61569) | High | 7.5 | AVideo is a video-sharing Platform. Prior to 8.1.0, the unauthenticated streamer login at `objects/login.json.php` pass… |
+| 2026-10-28 22:17:16 | [CVE-2026-61571](https://nvd.nist.gov/vuln/detail/CVE-2026-61571) | High | 7.3 | AVideo is a video-sharing Platform. Prior to 8.1.0, the encoder lacks a global authentication layer and exposes control… |
+| 2026-10-28 22:17:16 | [CVE-2026-61572](https://nvd.nist.gov/vuln/detail/CVE-2026-61572) | High | 8.6 | AVideo is a video-sharing Platform. Before the initial remediation attempt in 8.1.0, `url_get_contents` in `objects/fun… |
+| 2026-10-28 22:17:16 | [CVE-2026-61573](https://nvd.nist.gov/vuln/detail/CVE-2026-61573) | Medium | 6.1 | AVideo is a video-sharing Platform. Prior to 8.1.0, the anonymous login interface reflects request values into HTML and… |
+| 2026-10-28 22:17:16 | [CVE-2026-61575](https://nvd.nist.gov/vuln/detail/CVE-2026-61575) | Medium | 4.7 | AVideo is a video-sharing Platform. Prior to 8.1.0, `view/queue.php` uses `pathinfo` on the caller-controlled `fileURI`… |
+| 2026-10-28 22:17:17 | [CVE-2026-93851](https://nvd.nist.gov/vuln/detail/CVE-2026-93851) | High | 8.0 | Mattermost versions 11.9.x <= 11.9.1, 11.8.x <= 11.8.5, 11.7.x <= 11.7.10 fail to validate the target post ID in the Ag… |
 
 ## Data source
 
