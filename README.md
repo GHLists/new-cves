@@ -9,36 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:19 UTC
+## Latest list — 2026-10-29 22:19 UTC
 
-New CVEs published between 2026-10-29 20:19 UTC and 2026-10-29 21:19 UTC.
+New CVEs published between 2026-10-29 21:19 UTC and 2026-10-29 22:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T21-19-40-810961Z.csv)
+[Full CSV](data/new-cves-2026-10-29T22-19-15-564597Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 21:17:18 | [CVE-2026-119198](https://nvd.nist.gov/vuln/detail/CVE-2026-119198) | Medium | 5.9 | Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.3, a client with TCP access to an exp… |
-| 2026-10-29 21:17:18 | [CVE-2026-119199](https://nvd.nist.gov/vuln/detail/CVE-2026-119199) | Medium | 5.9 | Nuxt is an open-source web development framework for Vue.js. From 3.0.0 until 4.6.3, the Nuxt development server can ex… |
-| 2026-10-29 21:17:18 | [CVE-2026-119200](https://nvd.nist.gov/vuln/detail/CVE-2026-119200) | Medium | 6.5 | Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.3, Nuxt resolves literal or percent-e… |
-| 2026-10-29 21:17:19 | [CVE-2026-119201](https://nvd.nist.gov/vuln/detail/CVE-2026-119201) | Medium | 4.8 | Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.3, nuxt dev stores a generated appSec… |
-| 2026-10-29 21:17:19 | [CVE-2026-119202](https://nvd.nist.gov/vuln/detail/CVE-2026-119202) | High | 7.5 | @hapi/content provides HTTP Content-* header parsing. From 3.0.6 until 6.0.3, Content.disposition() uses an unanchored… |
-| 2026-10-29 21:17:19 | [CVE-2026-119203](https://nvd.nist.gov/vuln/detail/CVE-2026-119203) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.4, pypdf can enter an infinite loop while openin… |
-| 2026-10-29 21:17:19 | [CVE-2026-119204](https://nvd.nist.gov/vuln/detail/CVE-2026-119204) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.4, pypdf can consume excessive memory while pars… |
-| 2026-10-29 21:17:19 | [CVE-2026-119205](https://nvd.nist.gov/vuln/detail/CVE-2026-119205) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.4, pypdf can enter an infinite loop when cloning… |
-| 2026-10-29 21:17:19 | [CVE-2026-119206](https://nvd.nist.gov/vuln/detail/CVE-2026-119206) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.3, pypdf can take excessive time to retrieve pag… |
-| 2026-10-29 21:17:19 | [CVE-2026-119207](https://nvd.nist.gov/vuln/detail/CVE-2026-119207) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.3, pypdf can consume excessive memory when stric… |
-| 2026-10-29 21:17:20 | [CVE-2026-119208](https://nvd.nist.gov/vuln/detail/CVE-2026-119208) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.3, pypdf can consume excessive time and memory w… |
-| 2026-10-29 21:17:20 | [CVE-2026-119209](https://nvd.nist.gov/vuln/detail/CVE-2026-119209) | High | 7.1 | pypdf is a free and open-source pure-python PDF library. Prior to 6.21.3, pypdf can consume excessive memory while open… |
-| 2026-10-29 21:17:20 | [CVE-2026-119210](https://nvd.nist.gov/vuln/detail/CVE-2026-119210) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:20 | [CVE-2026-119276](https://nvd.nist.gov/vuln/detail/CVE-2026-119276) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119277](https://nvd.nist.gov/vuln/detail/CVE-2026-119277) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119278](https://nvd.nist.gov/vuln/detail/CVE-2026-119278) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119279](https://nvd.nist.gov/vuln/detail/CVE-2026-119279) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119280](https://nvd.nist.gov/vuln/detail/CVE-2026-119280) | Low | 3.7 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119281](https://nvd.nist.gov/vuln/detail/CVE-2026-119281) | Medium | 5.9 | MariaDB Connector/J is used to connect applications developed in Java to MariaDB and MySQL databases. From 3.0.0 until… |
-| 2026-10-29 21:17:21 | [CVE-2026-119325](https://nvd.nist.gov/vuln/detail/CVE-2026-119325) | High | 7.5 | Bricks Theme 2.4 and before for WordPress contains an unauthenticated broken access control vulnerability in the load_p… |
-| 2026-10-29 21:17:22 | [CVE-2026-13303](https://nvd.nist.gov/vuln/detail/CVE-2026-13303) | High | 8.7 | HashiCorp Boundary and Boundary Enterprise are vulnerable to a server-side request forgery in the Vault credential stor… |
-| 2026-10-29 21:17:27 | [CVE-2026-61576](https://nvd.nist.gov/vuln/detail/CVE-2026-61576) | High | 8.3 | Lightdash is an open source business intelligence platform. In affected versions through 0.3213.0, the dbt Cloud webhoo… |
+| 2026-10-29 22:17:00 | [CVE-2026-115943](https://nvd.nist.gov/vuln/detail/CVE-2026-115943) |  |  | Spreadsheet::XLSX versions before 0.19 for Perl allow code execution via string eval of number format conditions in Exc… |
+| 2026-10-29 22:17:00 | [CVE-2026-119282](https://nvd.nist.gov/vuln/detail/CVE-2026-119282) | High | 7.3 | Nx is a monorepo solution for TypeScript and polyglot codebases. From 22.0.2 until 22.7.9 and 23.1.2 for @nx/maven, and… |
+| 2026-10-29 22:17:01 | [CVE-2026-119283](https://nvd.nist.gov/vuln/detail/CVE-2026-119283) | High | 7.5 | joserfc is a Python library that provides an implementation of several JSON Object Signing and Encryption (JOSE) standa… |
+| 2026-10-29 22:17:01 | [CVE-2026-119284](https://nvd.nist.gov/vuln/detail/CVE-2026-119284) | Medium | 6.9 | joserfc is a Python library that provides an implementation of several JSON Object Signing and Encryption (JOSE) standa… |
+| 2026-10-29 22:17:01 | [CVE-2026-119285](https://nvd.nist.gov/vuln/detail/CVE-2026-119285) | Medium | 5.9 | Fiber is an Express inspired web framework written in Go. From 2.52.1 until 2.52.3, the CORS middleware's validateDomai… |
+| 2026-10-29 22:17:01 | [CVE-2026-119286](https://nvd.nist.gov/vuln/detail/CVE-2026-119286) | High | 7.5 | GraphQL-core is a Python port of the GraphQL.js reference implementation. From 3.3.0a3 until 3.3.1, validate() reuses a… |
+| 2026-10-29 22:17:01 | [CVE-2026-119317](https://nvd.nist.gov/vuln/detail/CVE-2026-119317) | Medium | 6.0 | On Linux, an authenticated, low-privileged Nessus user with scan-creation rights could read arbitrary text files on the… |
+| 2026-10-29 22:17:02 | [CVE-2026-45049](https://nvd.nist.gov/vuln/detail/CVE-2026-45049) | High | 8.3 | Open Access Management (OpenAM) is an access management solution. Prior to 16.1.1, the `Cross-Domain Single Sign-On` (`… |
+| 2026-10-29 22:17:04 | [CVE-2026-61645](https://nvd.nist.gov/vuln/detail/CVE-2026-61645) | Critical | 9.1 | Docat is a tool for hosting versioned static documentation. In the affected implementation, an arbitrary file upload vu… |
+| 2026-10-29 22:17:05 | [CVE-2026-61654](https://nvd.nist.gov/vuln/detail/CVE-2026-61654) | High | 8.3 | Lightdash is an open source business intelligence platform. In affected versions through 0.3213.0, the dbt Cloud webhoo… |
+| 2026-10-29 22:17:05 | [CVE-2026-61671](https://nvd.nist.gov/vuln/detail/CVE-2026-61671) | High | 8.1 | WeGIA is a web manager for charitable institutions. Prior to the advisory's stated patched version 3.8.7, the `/control… |
+| 2026-10-29 22:17:05 | [CVE-2026-61673](https://nvd.nist.gov/vuln/detail/CVE-2026-61673) | Medium | 6.3 | WeGIA is a web manager for charitable institutions. Prior to 3.8.7, a stored DOM cross-site scripting vulnerability in… |
+| 2026-10-29 22:17:05 | [CVE-2026-61707](https://nvd.nist.gov/vuln/detail/CVE-2026-61707) | Critical | 9.0 | SOCFortress CoPilot focuses on providing a single pane of glass for all your security operations needs. Prior to 0.1.76… |
+| 2026-10-29 22:17:05 | [CVE-2026-61719](https://nvd.nist.gov/vuln/detail/CVE-2026-61719) | High | 8.9 | WeGIA is a web manager for charitable institutions. Prior to 3.8.7, a stored cross-site scripting vulnerability in `sau… |
 
 ## Data source
 
