@@ -9,43 +9,63 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 14:21 UTC
+## Latest list — 2026-10-29 15:19 UTC
 
-New CVEs published between 2026-10-29 13:20 UTC and 2026-10-29 14:21 UTC.
+New CVEs published between 2026-10-29 14:21 UTC and 2026-10-29 15:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T14-21-35-566181Z.csv)
+[Full CSV](data/new-cves-2026-10-29T15-19-00-133219Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 14:17:39 | [CVE-2019-25781](https://nvd.nist.gov/vuln/detail/CVE-2019-25781) | High | 8.7 | Python-Markdown 3.0 through 3.11.2 contains an algorithmic complexity vulnerability in inline link parsing that allows… |
-| 2026-10-29 14:17:44 | [CVE-2026-113691](https://nvd.nist.gov/vuln/detail/CVE-2026-113691) | Medium | 5.1 | Stored cross-site scripting in the SmartIT knowledge-article feature of BMC IT Service Management Suite versions 25.3.0… |
-| 2026-10-29 14:17:44 | [CVE-2026-113692](https://nvd.nist.gov/vuln/detail/CVE-2026-113692) | Medium | 6.9 | Path traversal in the SmartIT file-management feature of BMC IT Service Management Suite versions 25.3.01, 25.4.01, and… |
-| 2026-10-29 14:17:44 | [CVE-2026-113693](https://nvd.nist.gov/vuln/detail/CVE-2026-113693) | Medium | 5.3 | Exposure of sensitive information in the SmartIT system-account settings of BMC IT Service Management Suite versions 25… |
-| 2026-10-29 14:17:44 | [CVE-2026-113694](https://nvd.nist.gov/vuln/detail/CVE-2026-113694) | Medium | 5.3 | Improper authorization in the SmartIT user attachment feature of BMC IT Service Management Suite versions 25.3.01, 25.4… |
-| 2026-10-29 14:17:45 | [CVE-2026-113695](https://nvd.nist.gov/vuln/detail/CVE-2026-113695) | Medium | 4.8 | Reflected cross-site scripting in the SmartIT inline-image attachment feature of BMC IT Service Management Suite versio… |
-| 2026-10-29 14:17:45 | [CVE-2026-113696](https://nvd.nist.gov/vuln/detail/CVE-2026-113696) | Medium | 5.3 | Improper authorization in the SmartIT change approval feature of BMC IT Service Management Suite versions 25.3.01, 25.4… |
-| 2026-10-29 14:17:45 | [CVE-2026-113697](https://nvd.nist.gov/vuln/detail/CVE-2026-113697) | Medium | 4.8 | Reflected cross-site scripting in the agent query feature of BMC Helix Operations Management 25.4.00 allows authenticat… |
-| 2026-10-29 14:17:50 | [CVE-2026-116399](https://nvd.nist.gov/vuln/detail/CVE-2026-116399) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in InstaWP InstaWP Connect instawp-connect allows Cross Site Request Fo… |
-| 2026-10-29 14:17:50 | [CVE-2026-116402](https://nvd.nist.gov/vuln/detail/CVE-2026-116402) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Brainstorm Force SureFor… |
-| 2026-10-29 14:17:50 | [CVE-2026-116857](https://nvd.nist.gov/vuln/detail/CVE-2026-116857) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetSma… |
-| 2026-10-29 14:17:51 | [CVE-2026-118425](https://nvd.nist.gov/vuln/detail/CVE-2026-118425) | Medium | 6.8 | A flaw was found in the secure-redirect-uris-enforcer client policy of Keycloak, an identity and access management solu… |
-| 2026-10-29 14:17:51 | [CVE-2026-119048](https://nvd.nist.gov/vuln/detail/CVE-2026-119048) | Low | 2.3 | JeeSite 5.11.0 through 5.19.1 contains an insecure direct object reference vulnerability in the AI CMS chat module that… |
-| 2026-10-29 14:17:51 | [CVE-2026-119049](https://nvd.nist.gov/vuln/detail/CVE-2026-119049) | High | 7.2 | FreeMail before 5.3.2 contains an authorization bypass vulnerability that allows authenticated users to claim another u… |
-| 2026-10-29 14:17:51 | [CVE-2026-119050](https://nvd.nist.gov/vuln/detail/CVE-2026-119050) | Critical | 9.2 | Agno through 3.1.11 contains an unsafe reflection vulnerability in PandasTools that allows attackers to invoke arbitrar… |
-| 2026-10-29 14:17:52 | [CVE-2026-119051](https://nvd.nist.gov/vuln/detail/CVE-2026-119051) | High | 8.2 | flat through 6.0.1 contains an uncontrolled resource allocation vulnerability in unflatten() that allows attackers to c… |
-| 2026-10-29 14:17:52 | [CVE-2026-119052](https://nvd.nist.gov/vuln/detail/CVE-2026-119052) | High | 8.7 | llama.cpp b2877 before b11935 contains an uncaught exception vulnerability in the ggml-rpc server that allows unauthent… |
-| 2026-10-29 14:17:52 | [CVE-2026-119053](https://nvd.nist.gov/vuln/detail/CVE-2026-119053) | Medium | 6.9 | lwIP 2.0.0 through 2.2.1 built with the SNMP agent contains an out-of-bounds read vulnerability in snmp_pbuf_stream_wri… |
-| 2026-10-29 14:17:52 | [CVE-2026-119054](https://nvd.nist.gov/vuln/detail/CVE-2026-119054) | Medium | 5.1 | Multiple Pages Generator by Themeisle before 4.2.5 contains a stored cross-site scripting vulnerability that allows Con… |
-| 2026-10-29 14:17:54 | [CVE-2026-25467](https://nvd.nist.gov/vuln/detail/CVE-2026-25467) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in ThemeGrill User Registra… |
-| 2026-10-29 14:17:54 | [CVE-2026-39736](https://nvd.nist.gov/vuln/detail/CVE-2026-39736) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Crocoblock JetEng… |
-| 2026-10-29 14:17:54 | [CVE-2026-39782](https://nvd.nist.gov/vuln/detail/CVE-2026-39782) | Medium | 5.3 | Missing Authorization vulnerability in Kaliforms Kali Forms kali-forms allows Exploiting Incorrectly Configured Access… |
-| 2026-10-29 14:17:55 | [CVE-2026-42707](https://nvd.nist.gov/vuln/detail/CVE-2026-42707) | Medium | 4.3 | Missing Authorization vulnerability in HivePress HivePress Claim Listings hivepress-claim-listings allows Exploiting In… |
-| 2026-10-29 14:17:55 | [CVE-2026-48195](https://nvd.nist.gov/vuln/detail/CVE-2026-48195) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins PDF Post… |
-| 2026-10-29 14:17:56 | [CVE-2026-48202](https://nvd.nist.gov/vuln/detail/CVE-2026-48202) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Brave Brave brave-popup-… |
-| 2026-10-29 14:17:56 | [CVE-2026-54862](https://nvd.nist.gov/vuln/detail/CVE-2026-54862) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Codection Import… |
-| 2026-10-29 14:17:59 | [CVE-2026-79589](https://nvd.nist.gov/vuln/detail/CVE-2026-79589) |  |  | The WIFI4 N300 router (Model: T1 Pro) v1.0.0 by U-speed contains an insecure access control flaw that allows an attacke… |
-| 2026-10-29 14:18:00 | [CVE-2026-93009](https://nvd.nist.gov/vuln/detail/CVE-2026-93009) | Medium | 4.3 | A flaw was found in dnsmasq. The DHCPv6 client hostname parser can read one byte past the end of a crafted FQDN option… |
-| 2026-10-29 14:18:00 | [CVE-2026-93010](https://nvd.nist.gov/vuln/detail/CVE-2026-93010) | Medium | 4.3 | A flaw was found in dnsmasq. When DHCP leasequery is enabled without listing allowed source addresses, the server does… |
+| 2026-10-29 15:17:15 | [CVE-2026-107014](https://nvd.nist.gov/vuln/detail/CVE-2026-107014) |  |  | Insecure permissions in Bander Notepad (bander.notepad) versionCode 12 allow unauthorized attackers to write and read n… |
+| 2026-10-29 15:17:15 | [CVE-2026-107015](https://nvd.nist.gov/vuln/detail/CVE-2026-107015) |  |  | Insecure permissions in Simple Contacts Pro versionCode 107 allow unauthorized attackers to write and read notes in ano… |
+| 2026-10-29 15:17:15 | [CVE-2026-107016](https://nvd.nist.gov/vuln/detail/CVE-2026-107016) |  |  | Insecure permissions in Fossify v1.3.0 allows unauthorized attackers to access and read another user's stored contacts. |
+| 2026-10-29 15:17:15 | [CVE-2026-107017](https://nvd.nist.gov/vuln/detail/CVE-2026-107017) |  |  | Insecure permissions in the ShortcutDispatchActivity component of canvoki versionCode 14 allows unauthorized attackers… |
+| 2026-10-29 15:17:15 | [CVE-2026-107018](https://nvd.nist.gov/vuln/detail/CVE-2026-107018) |  |  | Insecure permissions in Ghost Commander File Manager versionCode 479 allows unauthorized attackers to arbitrarily read… |
+| 2026-10-29 15:17:15 | [CVE-2026-107019](https://nvd.nist.gov/vuln/detail/CVE-2026-107019) |  |  | Insecure permissions in the feiertage.ImportActivity component of Arbeitszeiterfassung2 versionCode 159 allows unauthor… |
+| 2026-10-29 15:17:15 | [CVE-2026-107020](https://nvd.nist.gov/vuln/detail/CVE-2026-107020) |  |  | An issue in the activity.LoadLinkLaterActivity component of FeedEx / Handy News Reader versionCode 116 allows attackers… |
+| 2026-10-29 15:17:15 | [CVE-2026-107021](https://nvd.nist.gov/vuln/detail/CVE-2026-107021) |  |  | Insecure permissions in the CardProvider content provider component of helloworld1 AnyMemo versionCode 20260730 allows… |
+| 2026-10-29 15:17:16 | [CVE-2026-107023](https://nvd.nist.gov/vuln/detail/CVE-2026-107023) |  |  | Insecure permissions in the ContentProvider component of mhss1 MyBrain v3.1.0 allows unauthorized attackers to arbitrar… |
+| 2026-10-29 15:17:16 | [CVE-2026-107024](https://nvd.nist.gov/vuln/detail/CVE-2026-107024) |  |  | Insecure permissions in Share 2 Archive Today versionCode 61 allows unauthorized attackers to arbitrarily overwrite ano… |
+| 2026-10-29 15:17:16 | [CVE-2026-110881](https://nvd.nist.gov/vuln/detail/CVE-2026-110881) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brainstorm Force… |
+| 2026-10-29 15:17:16 | [CVE-2026-114181](https://nvd.nist.gov/vuln/detail/CVE-2026-114181) | Medium | 5.3 | Missing Authorization vulnerability in Magepeople inc. Taxi Booking Manager for WooCommerce ecab-taxi-booking-manager a… |
+| 2026-10-29 15:17:16 | [CVE-2026-114706](https://nvd.nist.gov/vuln/detail/CVE-2026-114706) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Chill Strong T… |
+| 2026-10-29 15:17:17 | [CVE-2026-115601](https://nvd.nist.gov/vuln/detail/CVE-2026-115601) | Medium | 5.3 | Missing Authorization vulnerability in WP Desk Custom Price for WooCommerce custom-price-for-woocommerce allows Exploit… |
+| 2026-10-29 15:17:17 | [CVE-2026-115605](https://nvd.nist.gov/vuln/detail/CVE-2026-115605) | Medium | 4.3 | Missing Authorization vulnerability in Brainstorm Force SureDash suredash allows Exploiting Incorrectly Configured Acce… |
+| 2026-10-29 15:17:17 | [CVE-2026-115610](https://nvd.nist.gov/vuln/detail/CVE-2026-115610) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PublishPress Publ… |
+| 2026-10-29 15:17:17 | [CVE-2026-115706](https://nvd.nist.gov/vuln/detail/CVE-2026-115706) | Medium | 6.8 | Authorization Bypass Through User-Controlled Key (CWE-639) in Elastic Cloud Enterprise (ECE) can lead to privilege esca… |
+| 2026-10-29 15:17:17 | [CVE-2026-115707](https://nvd.nist.gov/vuln/detail/CVE-2026-115707) | Medium | 6.4 | Insertion of Sensitive Information into Externally-Accessible File or Directory (CWE-538) in Elastic Cloud Enterprise (… |
+| 2026-10-29 15:17:17 | [CVE-2026-115708](https://nvd.nist.gov/vuln/detail/CVE-2026-115708) | High | 7.2 | Improper Link Resolution Before File Access ('Link Following') (CWE-59) in Elastic Cloud Enterprise (ECE) can lead to a… |
+| 2026-10-29 15:17:18 | [CVE-2026-115709](https://nvd.nist.gov/vuln/detail/CVE-2026-115709) | High | 8.2 | Improper Link Resolution Before File Access ('Link Following') (CWE-59) in Elastic Cloud Enterprise (ECE) can lead to u… |
+| 2026-10-29 15:17:18 | [CVE-2026-115711](https://nvd.nist.gov/vuln/detail/CVE-2026-115711) | Medium | 6.4 | Insertion of Sensitive Information into Externally-Accessible File or Directory (CWE-538) in Elastic Cloud Enterprise (… |
+| 2026-10-29 15:17:18 | [CVE-2026-115712](https://nvd.nist.gov/vuln/detail/CVE-2026-115712) | Medium | 4.3 | Incorrect Authorization (CWE-863) in Elastic Cloud Enterprise (ECE) can lead to unauthorized modification of platform-l… |
+| 2026-10-29 15:17:18 | [CVE-2026-115713](https://nvd.nist.gov/vuln/detail/CVE-2026-115713) | High | 7.5 | Improper Link Resolution Before File Access ('Link Following') (CWE-59) in Elastic Cloud Enterprise (ECE) can lead to u… |
+| 2026-10-29 15:17:19 | [CVE-2026-116387](https://nvd.nist.gov/vuln/detail/CVE-2026-116387) | Medium | 5.3 | Missing Authorization vulnerability in Brainstorm Force SureForms sureforms allows Exploiting Incorrectly Configured Ac… |
+| 2026-10-29 15:17:19 | [CVE-2026-116406](https://nvd.nist.gov/vuln/detail/CVE-2026-116406) | Medium | 4.3 | Missing Authorization vulnerability in Webba Plugins Webba Booking webba-booking-lite allows Exploiting Incorrectly Con… |
+| 2026-10-29 15:17:20 | [CVE-2026-116846](https://nvd.nist.gov/vuln/detail/CVE-2026-116846) | Medium | 5.3 | Missing Authorization vulnerability in WP User Manager WP User Manager wp-user-manager allows Exploiting Incorrectly Co… |
+| 2026-10-29 15:17:20 | [CVE-2026-116849](https://nvd.nist.gov/vuln/detail/CVE-2026-116849) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins StreamCa… |
+| 2026-10-29 15:17:20 | [CVE-2026-116850](https://nvd.nist.gov/vuln/detail/CVE-2026-116850) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in weDevs Happy Addo… |
+| 2026-10-29 15:17:20 | [CVE-2026-116856](https://nvd.nist.gov/vuln/detail/CVE-2026-116856) | Medium | 5.3 | Missing Authorization vulnerability in WP Desk Flexible Quantity – Measurement Price Calculator for WooCommerce flexibl… |
+| 2026-10-29 15:17:20 | [CVE-2026-118088](https://nvd.nist.gov/vuln/detail/CVE-2026-118088) | Medium | 5.3 | Missing Authorization vulnerability in WPFunnels Team WPFunnels wpfunnels allows Exploiting Incorrectly Configured Acce… |
+| 2026-10-29 15:17:20 | [CVE-2026-118091](https://nvd.nist.gov/vuln/detail/CVE-2026-118091) | Medium | 5.3 | Missing Authorization vulnerability in WPFunnels Team WPFunnels wpfunnels allows Exploiting Incorrectly Configured Acce… |
+| 2026-10-29 15:17:21 | [CVE-2026-118092](https://nvd.nist.gov/vuln/detail/CVE-2026-118092) | Medium | 4.3 | Missing Authorization vulnerability in StylemixThemes MasterStudy LMS masterstudy-lms-learning-management-system allows… |
+| 2026-10-29 15:17:21 | [CVE-2026-118095](https://nvd.nist.gov/vuln/detail/CVE-2026-118095) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in David Lingren Med… |
+| 2026-10-29 15:17:21 | [CVE-2026-118097](https://nvd.nist.gov/vuln/detail/CVE-2026-118097) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Flash &… |
+| 2026-10-29 15:17:22 | [CVE-2026-25448](https://nvd.nist.gov/vuln/detail/CVE-2026-25448) | Medium | 4.3 | Missing Authorization vulnerability in weDevs WP ERP erp allows Exploiting Incorrectly Configured Access Control Securi… |
+| 2026-10-29 15:17:22 | [CVE-2026-25450](https://nvd.nist.gov/vuln/detail/CVE-2026-25450) | Medium | 5.3 | Missing Authorization vulnerability in ThemeGrill User Registration user-registration allows Exploiting Incorrectly Con… |
+| 2026-10-29 15:17:22 | [CVE-2026-27062](https://nvd.nist.gov/vuln/detail/CVE-2026-27062) | Medium | 4.3 | Cross-Site Request Forgery (CSRF) vulnerability in WPFunnels Team WPFunnels wpfunnels allows Cross Site Request Forgery… |
+| 2026-10-29 15:17:22 | [CVE-2026-27063](https://nvd.nist.gov/vuln/detail/CVE-2026-27063) | Medium | 5.3 | Missing Authorization vulnerability in Kit Kit (formerly ConvertKit) convertkit allows Exploiting Incorrectly Configure… |
+| 2026-10-29 15:17:22 | [CVE-2026-39737](https://nvd.nist.gov/vuln/detail/CVE-2026-39737) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetEle… |
+| 2026-10-29 15:17:22 | [CVE-2026-39742](https://nvd.nist.gov/vuln/detail/CVE-2026-39742) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
+| 2026-10-29 15:17:23 | [CVE-2026-42691](https://nvd.nist.gov/vuln/detail/CVE-2026-42691) | Medium | 5.4 | Authorization Bypass Through User-Controlled Key vulnerability in EventPrime EventPrime eventprime-event-calendar-manag… |
+| 2026-10-29 15:17:23 | [CVE-2026-48884](https://nvd.nist.gov/vuln/detail/CVE-2026-48884) | Medium | 5.3 | Missing Authorization vulnerability in weDevs WP User Frontend wp-user-frontend allows Exploiting Incorrectly Configure… |
+| 2026-10-29 15:17:23 | [CVE-2026-52708](https://nvd.nist.gov/vuln/detail/CVE-2026-52708) | Medium | 4.3 | Missing Authorization vulnerability in weDevs WP User Frontend wp-user-frontend allows Exploiting Incorrectly Configure… |
+| 2026-10-29 15:17:23 | [CVE-2026-54852](https://nvd.nist.gov/vuln/detail/CVE-2026-54852) | Medium | 5.3 | Missing Authorization vulnerability in miniOrange Page Restriction WordPress (WP) page-and-post-restriction allows Expl… |
+| 2026-10-29 15:17:23 | [CVE-2026-54853](https://nvd.nist.gov/vuln/detail/CVE-2026-54853) | Medium | 5.3 | Missing Authorization vulnerability in Cozmoslabs Profile Builder profile-builder allows Exploiting Incorrectly Configu… |
+| 2026-10-29 15:17:23 | [CVE-2026-54871](https://nvd.nist.gov/vuln/detail/CVE-2026-54871) | Medium | 5.3 | Missing Authorization vulnerability in Mamunur Rashid ShopBuilder – Elementor WooCommerce Builder Addons shopbuilder al… |
+| 2026-10-29 15:17:24 | [CVE-2026-80067](https://nvd.nist.gov/vuln/detail/CVE-2026-80067) | Medium | 5.3 | MasterStudy LMS plugin for WordPress before 3.7.50 contains a path traversal vulnerability that allows authenticated Su… |
+| 2026-10-29 15:17:24 | [CVE-2026-80069](https://nvd.nist.gov/vuln/detail/CVE-2026-80069) | Medium | 5.3 | MasterStudy LMS plugin for WordPress before 3.7.50 contains a missing authorization vulnerability that allows any authe… |
+| 2026-10-29 15:17:25 | [CVE-2026-97073](https://nvd.nist.gov/vuln/detail/CVE-2026-97073) | Medium | 5.3 | Missing Authorization vulnerability in myCred myCred mycred allows Exploiting Incorrectly Configured Access Control Sec… |
 
 ## Data source
 
