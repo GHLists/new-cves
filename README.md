@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 00:20 UTC
+## Latest list — 2026-10-29 01:19 UTC
 
-New CVEs published between 2026-10-28 23:19 UTC and 2026-10-29 00:20 UTC.
+New CVEs published between 2026-10-29 00:20 UTC and 2026-10-29 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T00-20-22-623889Z.csv)
+[Full CSV](data/new-cves-2026-10-29T01-19-46-988126Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 00:17:25 | [CVE-2026-118585](https://nvd.nist.gov/vuln/detail/CVE-2026-118585) | Low | 2.0 | A vulnerability was identified in configuroweb inventariobasico c9377cdba474deb3eb5a0704d197b5733af16b47/f9db0c0a04d79a… |
-| 2026-10-29 00:17:26 | [CVE-2026-118586](https://nvd.nist.gov/vuln/detail/CVE-2026-118586) | Medium | 6.9 | A security flaw has been discovered in dfm feedfinder2 up to 0.0.4. This issue affects the function find_feeds of the f… |
-| 2026-10-29 00:17:26 | [CVE-2026-118589](https://nvd.nist.gov/vuln/detail/CVE-2026-118589) | Medium | 6.9 | A weakness has been identified in nschloe meshio up to 5.3.5. Impacted is an unknown function of the file meshio/_vtk_4… |
+| 2026-10-29 01:17:22 | [CVE-2026-113957](https://nvd.nist.gov/vuln/detail/CVE-2026-113957) |  |  | An attacker who controls the registry, a mirror, or the network path to it may be able to serve arbitrary image content… |
+| 2026-10-29 01:17:22 | [CVE-2026-118590](https://nvd.nist.gov/vuln/detail/CVE-2026-118590) | Medium | 6.9 | A security vulnerability has been detected in nipy nibabel up to 5.4.2. The affected element is the function array_from… |
+| 2026-10-29 01:17:23 | [CVE-2026-21157](https://nvd.nist.gov/vuln/detail/CVE-2026-21157) | High | 8.3 | Improper input validation in Bixby prior to version 4.0.85.6 allows privileged local attackers to launch arbitrary acti… |
 
 ## Data source
 
