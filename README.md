@@ -9,41 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:19 UTC
+## Latest list — 2026-10-29 20:19 UTC
 
-New CVEs published between 2026-10-29 18:20 UTC and 2026-10-29 19:19 UTC.
+New CVEs published between 2026-10-29 19:19 UTC and 2026-10-29 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T19-19-42-691809Z.csv)
+[Full CSV](data/new-cves-2026-10-29T20-19-51-108225Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 19:17:15 | [CVE-2026-103093](https://nvd.nist.gov/vuln/detail/CVE-2026-103093) | Critical | 9.4 | ServiceNow has remediated a sandbox escape security issue that was identified in the ServiceNow AI Platform. This vulne… |
-| 2026-10-29 19:17:15 | [CVE-2026-103094](https://nvd.nist.gov/vuln/detail/CVE-2026-103094) | High | 7.1 | ServiceNow has remediated an information disclosure vulnerability that was identified in the ServiceNow AI Platform. Th… |
-| 2026-10-29 19:17:19 | [CVE-2026-118772](https://nvd.nist.gov/vuln/detail/CVE-2026-118772) | High | 7.5 | joi is a schema description language and data validator for JavaScript. From 17.1.1 until 17.13.9 and 18.3.1, the Joi.s… |
-| 2026-10-29 19:17:19 | [CVE-2026-118773](https://nvd.nist.gov/vuln/detail/CVE-2026-118773) | Medium | 6.3 | Glob matches files using patterns the shell uses. From 9.0.0 until 14.0.2, abort branches in src/walker.ts, including G… |
-| 2026-10-29 19:17:19 | [CVE-2026-118774](https://nvd.nist.gov/vuln/detail/CVE-2026-118774) | Low | 3.7 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118775](https://nvd.nist.gov/vuln/detail/CVE-2026-118775) | Low | 3.7 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, as… |
-| 2026-10-29 19:17:20 | [CVE-2026-118776](https://nvd.nist.gov/vuln/detail/CVE-2026-118776) | Low | 3.7 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118777](https://nvd.nist.gov/vuln/detail/CVE-2026-118777) | Medium | 4.8 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118778](https://nvd.nist.gov/vuln/detail/CVE-2026-118778) | Medium | 5.9 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118779](https://nvd.nist.gov/vuln/detail/CVE-2026-118779) | High | 7.5 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118780](https://nvd.nist.gov/vuln/detail/CVE-2026-118780) | Low | 3.7 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118781](https://nvd.nist.gov/vuln/detail/CVE-2026-118781) | Low | 2.9 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
-| 2026-10-29 19:17:20 | [CVE-2026-118782](https://nvd.nist.gov/vuln/detail/CVE-2026-118782) | High | 7.5 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, no… |
-| 2026-10-29 19:17:21 | [CVE-2026-119168](https://nvd.nist.gov/vuln/detail/CVE-2026-119168) | High | 8.8 | HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during same-client allocation data migration t… |
-| 2026-10-29 19:17:21 | [CVE-2026-119249](https://nvd.nist.gov/vuln/detail/CVE-2026-119249) | High | 7.5 | A malicious actor with access to the network could exploit a Binding to an Unrestricted IP Address vulnerability found… |
-| 2026-10-29 19:17:21 | [CVE-2026-119250](https://nvd.nist.gov/vuln/detail/CVE-2026-119250) | High | 7.8 | A malicious actor with local access and low privileges could exploit an External Control of File Name or Path vulnerabi… |
-| 2026-10-29 19:17:21 | [CVE-2026-119251](https://nvd.nist.gov/vuln/detail/CVE-2026-119251) | Medium | 6.7 | A malicious actor with local access and high privileges could exploit an Improper Access Control vulnerability found in… |
-| 2026-10-29 19:17:21 | [CVE-2026-41216](https://nvd.nist.gov/vuln/detail/CVE-2026-41216) | High | 7.5 | An invalid pointer dereference vulnerability exists in the vtkPNGReader::ExecuteInformation functionality of vtk 9.6. A… |
-| 2026-10-29 19:17:21 | [CVE-2026-42057](https://nvd.nist.gov/vuln/detail/CVE-2026-42057) | High | 7.5 | An invalid pointer dereference vulnerability exists in the vtkPNGReader::vtkPNGReaderUpdate2 functionality of vtk 9.6.… |
-| 2026-10-29 19:17:23 | [CVE-2026-58118](https://nvd.nist.gov/vuln/detail/CVE-2026-58118) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-29 19:17:23 | [CVE-2026-58119](https://nvd.nist.gov/vuln/detail/CVE-2026-58119) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-29 19:17:23 | [CVE-2026-58120](https://nvd.nist.gov/vuln/detail/CVE-2026-58120) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-29 19:17:26 | [CVE-2026-6877](https://nvd.nist.gov/vuln/detail/CVE-2026-6877) | Medium | 5.3 | ServiceNow has addressed a domain separation bypass security issue that was identified in the ServiceNow SR – CSM – Tas… |
-| 2026-10-29 19:17:28 | [CVE-2026-8822](https://nvd.nist.gov/vuln/detail/CVE-2026-8822) | High | 7.5 | A memory corruption vulnerability exists in the vtkDEMReader ReadProfiles functionality of vtk (version(s): 9.6.1). A s… |
-| 2026-10-29 19:17:28 | [CVE-2026-8824](https://nvd.nist.gov/vuln/detail/CVE-2026-8824) | High | 7.5 | A memory corruption vulnerability exists in the vtkBMPReader ExecuteDataWithInformation functionality of vtk (version(s… |
-| 2026-10-29 19:17:29 | [CVE-2026-9535](https://nvd.nist.gov/vuln/detail/CVE-2026-9535) | High | 8.2 | A out-of-bounds read vulnerability exists in the vtkChacoReader InputGraph2 functionality of vtk (version(s): 9.6.1). A… |
-| 2026-10-29 19:17:30 | [CVE-2026-9536](https://nvd.nist.gov/vuln/detail/CVE-2026-9536) | High | 7.5 | A heap-based buffer overflow vulnerability exists in the vtkWindBladeReader FindVariableOffsets functionality of vtk (v… |
+| 2026-10-29 20:17:29 | [CVE-2026-119186](https://nvd.nist.gov/vuln/detail/CVE-2026-119186) | Medium | 5.9 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, no… |
+| 2026-10-29 20:17:29 | [CVE-2026-119187](https://nvd.nist.gov/vuln/detail/CVE-2026-119187) | High | 7.5 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
+| 2026-10-29 20:17:29 | [CVE-2026-119188](https://nvd.nist.gov/vuln/detail/CVE-2026-119188) | High | 7.5 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
+| 2026-10-29 20:17:29 | [CVE-2026-119189](https://nvd.nist.gov/vuln/detail/CVE-2026-119189) | Medium | 5.9 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, no… |
+| 2026-10-29 20:17:30 | [CVE-2026-119190](https://nvd.nist.gov/vuln/detail/CVE-2026-119190) | High | 7.4 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, no… |
+| 2026-10-29 20:17:30 | [CVE-2026-119191](https://nvd.nist.gov/vuln/detail/CVE-2026-119191) | High | 7.5 | Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, th… |
+| 2026-10-29 20:17:30 | [CVE-2026-119193](https://nvd.nist.gov/vuln/detail/CVE-2026-119193) | Medium | 5.4 | PHPUnit is a testing framework for PHP. From 13.4.0 until 13.4.4, the TestCase::coverageFilesDirectory() logic in src/R… |
+| 2026-10-29 20:17:30 | [CVE-2026-119194](https://nvd.nist.gov/vuln/detail/CVE-2026-119194) | High | 7.5 | pyasn1 is a generic ASN.1 library for Python. From 0.3.3 until 0.6.5, schemaless container decoding stores every decode… |
+| 2026-10-29 20:17:30 | [CVE-2026-119195](https://nvd.nist.gov/vuln/detail/CVE-2026-119195) | High | 7.5 | pyasn1 is a generic ASN.1 library for Python. Prior to 0.6.5, constructed string and indefinite-length ANY decoding rep… |
+| 2026-10-29 20:17:30 | [CVE-2026-119196](https://nvd.nist.gov/vuln/detail/CVE-2026-119196) | High | 7.5 | pyasn1 is a generic ASN.1 library for Python. Prior to 0.6.5, constructed BIT STRING decoding repeatedly shifts and cop… |
+| 2026-10-29 20:17:30 | [CVE-2026-119197](https://nvd.nist.gov/vuln/detail/CVE-2026-119197) | High | 7.5 | pyasn1 is a generic ASN.1 library for Python. Prior to 0.6.5, binary REAL decoding builds a large mantissa one octet at… |
+| 2026-10-29 20:17:31 | [CVE-2026-51831](https://nvd.nist.gov/vuln/detail/CVE-2026-51831) |  |  | An issue in IDrive IDrive Backup for Windows Version 7.0.1.1 and below affected, remediated in Version 7.0.1.2 allows a… |
+| 2026-10-29 20:17:31 | [CVE-2026-51832](https://nvd.nist.gov/vuln/detail/CVE-2026-51832) |  |  | An issue in IDrive IDrive Backup for Windows Version 7.0.1.1 and below affected, remediated in Version 7.0.1.2 allows a… |
+| 2026-10-29 20:17:33 | [CVE-2026-67203](https://nvd.nist.gov/vuln/detail/CVE-2026-67203) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-29 20:17:33 | [CVE-2026-67205](https://nvd.nist.gov/vuln/detail/CVE-2026-67205) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-29 20:17:36 | [CVE-2026-92092](https://nvd.nist.gov/vuln/detail/CVE-2026-92092) | High | 7.4 | A flaw was found in openshift-ansible. The installer container's `run` script downloads and executes remote inventory a… |
 
 ## Data source
 
