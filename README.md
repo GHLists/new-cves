@@ -9,23 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 02:18 UTC
+## Latest list — 2026-10-29 04:21 UTC
 
-New CVEs published between 2026-10-29 01:19 UTC and 2026-10-29 02:18 UTC.
+New CVEs published between 2026-10-29 03:19 UTC and 2026-10-29 04:21 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T02-18-42-525874Z.csv)
+[Full CSV](data/new-cves-2026-10-29T04-21-05-010744Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 02:16:49 | [CVE-2026-113387](https://nvd.nist.gov/vuln/detail/CVE-2026-113387) | High | 8.6 | The Ortto plugin for WordPress before 1.0.25 did not authenticate configuration update requests, relying only on a secr… |
-| 2026-10-29 02:16:50 | [CVE-2026-113409](https://nvd.nist.gov/vuln/detail/CVE-2026-113409) | Medium | 4.8 | The Ortto plugin for WordPress before 1.0.25 did not escape stored settings on its admin settings page, leading to stor… |
-| 2026-10-29 02:16:50 | [CVE-2026-114173](https://nvd.nist.gov/vuln/detail/CVE-2026-114173) | Medium | 5.3 | The Ortto plugin for WordPress before 1.0.25 did not filter the WooCommerce product data it embedded in public storefro… |
-| 2026-10-29 02:16:51 | [CVE-2026-16889](https://nvd.nist.gov/vuln/detail/CVE-2026-16889) | Medium | 4.8 | In openEQUELLA before 2026.1, the pre-login notice image upload endpoint (PUT /api/preloginnotice/image/{name}) does no… |
-| 2026-10-29 02:16:52 | [CVE-2026-66088](https://nvd.nist.gov/vuln/detail/CVE-2026-66088) | Critical | 9.4 | In openEQUELLA before 2026.1, the system.execute() function available to the scripting engine runs supplied operating s… |
-| 2026-10-29 02:16:52 | [CVE-2026-66089](https://nvd.nist.gov/vuln/detail/CVE-2026-66089) | Medium | 6.1 | In openEQUELLA before 2026.1, the SOAP API parses XML supplied in the stopEdit operation with a parser that resolves ex… |
-| 2026-10-29 02:16:52 | [CVE-2026-66090](https://nvd.nist.gov/vuln/detail/CVE-2026-66090) | High | 7.1 | In openEQUELLA before 2026.1, the XML parser used for item metadata does not disable external entity resolution. A user… |
-| 2026-10-29 02:16:52 | [CVE-2026-66091](https://nvd.nist.gov/vuln/detail/CVE-2026-66091) | Medium | 6.9 | In openEQUELLA before 2026.1, the GET /api/userquery/userinfobackup endpoint performs no authentication or authorisatio… |
-| 2026-10-29 02:16:53 | [CVE-2026-66092](https://nvd.nist.gov/vuln/detail/CVE-2026-66092) | Medium | 4.8 | In openEQUELLA before 2026.2, the pre-login notice is stored as HTML and rendered on the legacy logon page without enco… |
+| 2026-10-29 04:18:22 | [CVE-2026-109516](https://nvd.nist.gov/vuln/detail/CVE-2026-109516) | Critical | 9.8 | The Bot for Telegram on WooCommerce plugin for WordPress is vulnerable to Authentication Bypass leading to Account Take… |
+| 2026-10-29 04:18:35 | [CVE-2026-118426](https://nvd.nist.gov/vuln/detail/CVE-2026-118426) | Medium | 5.3 | In affected versions of Octopus Server with the LDAP authentication provider enabled, any authenticated user could call… |
+| 2026-10-29 04:18:36 | [CVE-2026-40063](https://nvd.nist.gov/vuln/detail/CVE-2026-40063) | Medium | 5.3 | A information disclosure vulnerability exists in the /nodered/fuxa/scripts functionality of FUXA (version(s): 1.3.2-280… |
+| 2026-10-29 04:18:36 | [CVE-2026-42922](https://nvd.nist.gov/vuln/detail/CVE-2026-42922) | Critical | 9.8 | A authorization bypass vulnerability exists in the /nodered functionality of FUXA (version(s): 1.3.2-2809). A specially… |
+| 2026-10-29 04:18:36 | [CVE-2026-42949](https://nvd.nist.gov/vuln/detail/CVE-2026-42949) | Medium | 5.6 | A authorization bypass vulnerability exists in the /api/runscript functionality of FUXA (version(s): 1.3.2-2809). A spe… |
+| 2026-10-29 04:18:43 | [CVE-2026-93757](https://nvd.nist.gov/vuln/detail/CVE-2026-93757) | High | 7.5 | The Wild Apricot Login plugin for WordPress is vulnerable to Authentication Bypass via SSO Email-Collision Account Bind… |
+| 2026-10-29 04:18:43 | [CVE-2026-93855](https://nvd.nist.gov/vuln/detail/CVE-2026-93855) | High | 7.5 | The SendPress Newsletters plugin for WordPress is vulnerable to time-based SQL Injection via the 'subscriberid' paramet… |
+| 2026-10-29 04:18:44 | [CVE-2026-93904](https://nvd.nist.gov/vuln/detail/CVE-2026-93904) | High | 7.5 | The Social Web Suite – Social Media Auto Post, Social Media Auto Publish plugin for WordPress is vulnerable to generic… |
+| 2026-10-29 04:18:45 | [CVE-2026-96228](https://nvd.nist.gov/vuln/detail/CVE-2026-96228) | High | 8.1 | SSL Wireless SMS Notification for WordPress is vulnerable to Authentication Bypass in all versions up to, and including… |
+| 2026-10-29 04:18:45 | [CVE-2026-96666](https://nvd.nist.gov/vuln/detail/CVE-2026-96666) | High | 7.2 | The Schema App Structured Data plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content vi… |
+| 2026-10-29 04:18:45 | [CVE-2026-96669](https://nvd.nist.gov/vuln/detail/CVE-2026-96669) | High | 7.2 | The Food Store – Online Food Delivery & Pickup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 's… |
+| 2026-10-29 04:18:45 | [CVE-2026-96741](https://nvd.nist.gov/vuln/detail/CVE-2026-96741) | High | 7.2 | The DSGVO All in one for WP plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Comment Content via O… |
 
 ## Data source
 
