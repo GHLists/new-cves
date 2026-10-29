@@ -9,17 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 08:20 UTC
+## Latest list — 2026-10-29 09:20 UTC
 
-New CVEs published between 2026-10-29 07:19 UTC and 2026-10-29 08:20 UTC.
+New CVEs published between 2026-10-29 08:20 UTC and 2026-10-29 09:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T08-20-48-7284Z.csv)
+[Full CSV](data/new-cves-2026-10-29T09-20-22-915163Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 08:16:59 | [CVE-2025-62839](https://nvd.nist.gov/vuln/detail/CVE-2025-62839) | High | 8.7 | An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Ba… |
-| 2026-10-29 08:17:00 | [CVE-2025-62841](https://nvd.nist.gov/vuln/detail/CVE-2025-62841) | High | 8.7 | An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Ba… |
-| 2026-10-29 08:17:00 | [CVE-2026-117174](https://nvd.nist.gov/vuln/detail/CVE-2026-117174) |  |  | Rejected reason: VUL-2026-008368 為先回報之相同問題 |
+| 2026-10-29 09:17:07 | [CVE-2026-114358](https://nvd.nist.gov/vuln/detail/CVE-2026-114358) | Critical | 9.3 | This vulnerability exists in the Radius Xenia M2M Platform due to insufficient validation of user supplied input in the… |
+| 2026-10-29 09:17:08 | [CVE-2026-115303](https://nvd.nist.gov/vuln/detail/CVE-2026-115303) | Low | 3.7 | The Contact Form by Supsystic WordPress plugin before 1.11.1 does not strip CR/LF characters or re-validate submitted f… |
+| 2026-10-29 09:17:08 | [CVE-2026-7190](https://nvd.nist.gov/vuln/detail/CVE-2026-7190) | Medium | 5.1 | A cross-site scripting (XSS) vulnerability in the ICTBroadcast software, which affects the demo environment. The vulner… |
+| 2026-10-29 09:17:08 | [CVE-2026-85498](https://nvd.nist.gov/vuln/detail/CVE-2026-85498) | Low | 3.5 | A flaw was found in polkit. When processing input that begins with a null byte, an arithmetic error in the authenticati… |
 
 ## Data source
 
