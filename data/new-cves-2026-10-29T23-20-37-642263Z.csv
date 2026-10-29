@@ -1,0 +1,6 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-29T23:16:54.27Z,CVE-2023-22793,CRITICAL,9.3,Received,CWE-502,1,A vulnerability allowing an unauthenticated attacker to perform remote code execution (RCE) on servers running the Veeam Virtualization Extensions service of Veeam Management Pack for Microsoft System Center.
+2026-10-29T23:16:54.76Z,CVE-2026-107238,HIGH,8.7,Received,CWE-502,1,A vulnerability allowing an authenticated domain user to perform remote code execution (RCE) as the LocalSystem account on servers running the Veeam Management Pack for Microsoft System Center Collector service.
+2026-10-29T23:16:54.887Z,CVE-2026-107239,HIGH,8.8,Received,CWE-23,1,A vulnerability allowing a member of the Veeam Virtualization Extensions Users group to perform remote code execution (RCE) on servers running the Veeam Management Pack for Microsoft System Center Collector service.
+2026-10-29T23:16:55.143Z,CVE-2026-112211,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-10-29T23:17:02.19Z,CVE-2026-92744,HIGH,8.7,Received,CWE-295; CWE-306,1,"Under certain conditions, privilege manager agent allows a remote unauthenticated attacker to execute arbitrary code as LocalSystem."
