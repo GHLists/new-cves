@@ -9,45 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:18 UTC
+## Latest list — 2026-10-29 18:20 UTC
 
-New CVEs published between 2026-10-29 16:20 UTC and 2026-10-29 17:18 UTC.
+New CVEs published between 2026-10-29 17:18 UTC and 2026-10-29 18:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T17-18-59-018064Z.csv)
+[Full CSV](data/new-cves-2026-10-29T18-20-42-343789Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 17:17:54 | [CVE-2023-7357](https://nvd.nist.gov/vuln/detail/CVE-2023-7357) | High | 8.6 | A remote code execution (RCE) vulnerability was identified in the FlexNet Publisher lmadmin web user interface. This vu… |
-| 2026-10-29 17:17:55 | [CVE-2025-12523](https://nvd.nist.gov/vuln/detail/CVE-2025-12523) | Medium | 6.5 | Broken Object Level Authorization in Users Configuration Endpoint allows Information Disclosure to authenticated user |
-| 2026-10-29 17:17:56 | [CVE-2026-107043](https://nvd.nist.gov/vuln/detail/CVE-2026-107043) |  |  | Insecure permissions in Code Catcher versionCode 131 allow unauthorized attackers to arbitrarily manipulate the app's S… |
-| 2026-10-29 17:17:56 | [CVE-2026-107044](https://nvd.nist.gov/vuln/detail/CVE-2026-107044) |  |  | Insecure permissions in ProjectMAXS MAXS Main v0.5.19 (versionCode 19) allows unauthorized attackers to arbitrarily man… |
-| 2026-10-29 17:17:56 | [CVE-2026-107045](https://nvd.nist.gov/vuln/detail/CVE-2026-107045) |  |  | Insecure permissions in the CitrineContentProvider component of Citrine v3.1.0 (versionCode 62) allows unauthorized att… |
-| 2026-10-29 17:17:57 | [CVE-2026-107046](https://nvd.nist.gov/vuln/detail/CVE-2026-107046) |  |  | A Server-Side Request Forgery (SSRF) in the url/title/author/coverUrl component of FocusPodcast versionCode 70allows at… |
-| 2026-10-29 17:17:57 | [CVE-2026-107047](https://nvd.nist.gov/vuln/detail/CVE-2026-107047) |  |  | Insecure permissions in mendhak GPSLogger versionCode 137 allows unauthorized attackers to arbitrarily manipulate the a… |
-| 2026-10-29 17:17:57 | [CVE-2026-107048](https://nvd.nist.gov/vuln/detail/CVE-2026-107048) |  |  | An issue in the WebView rendering path component of MotionCreative Motion UI versionCode 101 allows attackers to execut… |
-| 2026-10-29 17:17:57 | [CVE-2026-107049](https://nvd.nist.gov/vuln/detail/CVE-2026-107049) |  |  | An issue in Forkyz versionCode 8500000 allows attackers to arbitrarily change another user's storage settings via suppl… |
-| 2026-10-29 17:17:57 | [CVE-2026-107050](https://nvd.nist.gov/vuln/detail/CVE-2026-107050) |  |  | An issue in libretro RetroArch v1.22.2 allows attackers to force another user into loading attacker-supplied code in th… |
-| 2026-10-29 17:17:57 | [CVE-2026-107051](https://nvd.nist.gov/vuln/detail/CVE-2026-107051) |  |  | Insecure permissions in klassm AndFHEM v2.4.1 (versionCode 241, the verified build) allows unauthorized attackers to ar… |
-| 2026-10-29 17:17:57 | [CVE-2026-107052](https://nvd.nist.gov/vuln/detail/CVE-2026-107052) |  |  | Insecure permissions in the AIDL interface of ProjectMAXS MAXS Module FileRead versionCode 27 allows unauthorized attac… |
-| 2026-10-29 17:17:58 | [CVE-2026-107053](https://nvd.nist.gov/vuln/detail/CVE-2026-107053) |  |  | Insecure permissions in foobnix Librera PDF Reader versionCode 7222 allows unauthorized attackers to arbitrarily write… |
-| 2026-10-29 17:17:58 | [CVE-2026-107055](https://nvd.nist.gov/vuln/detail/CVE-2026-107055) |  |  | Insecure permissions in the autosave component of AppML neutriNote CE versionCode 1387 allows unauthorized attackers to… |
-| 2026-10-29 17:17:58 | [CVE-2026-107056](https://nvd.nist.gov/vuln/detail/CVE-2026-107056) |  |  | Insecure permissions in the io.file.importer.ImportActivity component of OpenTracks versionCode 6751 allows unauthorize… |
-| 2026-10-29 17:17:58 | [CVE-2026-107057](https://nvd.nist.gov/vuln/detail/CVE-2026-107057) |  |  | An issue in AndBible versionCode 1111 allows attackers to execute arbitrary code via uploading a crafted module zip. |
-| 2026-10-29 17:17:58 | [CVE-2026-107058](https://nvd.nist.gov/vuln/detail/CVE-2026-107058) |  |  | An issue in Shelter versionCode 445 allows attackers to register their own auth_key and execute a takeover of another u… |
-| 2026-10-29 17:17:58 | [CVE-2026-107059](https://nvd.nist.gov/vuln/detail/CVE-2026-107059) |  |  | An issue in Nextcloud versionCode 30390190 allows attackers to force victim users to logout of their accounts and switc… |
-| 2026-10-29 17:17:58 | [CVE-2026-107060](https://nvd.nist.gov/vuln/detail/CVE-2026-107060) |  |  | Insecure permissions in Tailscale versionCode 297862600 allows unauthorized attackers to make arbitrary changes to anot… |
-| 2026-10-29 17:18:01 | [CVE-2026-115805](https://nvd.nist.gov/vuln/detail/CVE-2026-115805) | High | 7.8 | Improper handling of local filesystem paths in Rapid7 Insight Agent on Linux and macOS may allow authenticated local us… |
-| 2026-10-29 17:18:06 | [CVE-2026-118758](https://nvd.nist.gov/vuln/detail/CVE-2026-118758) | High | 7.5 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-10-29 17:18:06 | [CVE-2026-118759](https://nvd.nist.gov/vuln/detail/CVE-2026-118759) | High | 7.5 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-10-29 17:18:06 | [CVE-2026-118760](https://nvd.nist.gov/vuln/detail/CVE-2026-118760) | Medium | 6.5 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. From 0.5.1 until 2.… |
-| 2026-10-29 17:18:06 | [CVE-2026-118761](https://nvd.nist.gov/vuln/detail/CVE-2026-118761) | High | 7.5 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-10-29 17:18:07 | [CVE-2026-118762](https://nvd.nist.gov/vuln/detail/CVE-2026-118762) | Critical | 9.3 | Monkeytype is a minimalistic and customizable typing test. Prior to 26.43.0, the .github/workflows/fix-formatting.yml w… |
-| 2026-10-29 17:18:07 | [CVE-2026-118763](https://nvd.nist.gov/vuln/detail/CVE-2026-118763) | High | 7.4 | sigstore-js provides JavaScript libraries for interacting with Sigstore services. Prior to 0.7.2, packages/oci/src/regi… |
-| 2026-10-29 17:18:07 | [CVE-2026-118764](https://nvd.nist.gov/vuln/detail/CVE-2026-118764) | High | 8.7 | minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp objects. Prior to 11.0.1… |
-| 2026-10-29 17:18:07 | [CVE-2026-118765](https://nvd.nist.gov/vuln/detail/CVE-2026-118765) | High | 7.3 | Botan is a C++ cryptography library. From 3.7.0 until 3.13.0, an application that calls AutoSeeded_RNG::clear() and the… |
-| 2026-10-29 17:18:07 | [CVE-2026-119115](https://nvd.nist.gov/vuln/detail/CVE-2026-119115) | High | 8.4 | Incorrect authorization in the issuer resolution logic in AWS Private CA Connector for Kubernetes (aws-privateca-issuer… |
-| 2026-10-29 17:18:08 | [CVE-2026-11587](https://nvd.nist.gov/vuln/detail/CVE-2026-11587) | High | 7.2 | SQL injection allowing an authenticated user with access to ACL management to read and modify the Centreon database |
-| 2026-10-29 17:18:10 | [CVE-2026-62374](https://nvd.nist.gov/vuln/detail/CVE-2026-62374) | High | 7.1 | SD JWT JS is a JavaScript implementation of the Selective Disclosure JWT (SD-JWT) specification. In version 0.19.0 and… |
+| 2026-10-29 18:17:21 | [CVE-2026-102260](https://nvd.nist.gov/vuln/detail/CVE-2026-102260) | Medium | 4.3 | HashiCorp Nomad and Nomad Enterprise are vulnerable to cross-namespace authorization bypasses in several read-only API… |
+| 2026-10-29 18:17:21 | [CVE-2026-107347](https://nvd.nist.gov/vuln/detail/CVE-2026-107347) | High | 8.4 | HashiCorp Nomad and Nomad Enterprise are vulnerable to symlink following during dispatch payload and executor log write… |
+| 2026-10-29 18:17:24 | [CVE-2026-116566](https://nvd.nist.gov/vuln/detail/CVE-2026-116566) | Medium | 5.3 | socket.getaddrinfo() previously accepted null bytes within *host* and *port* parameters which can cause the values to b… |
+| 2026-10-29 18:17:28 | [CVE-2026-118766](https://nvd.nist.gov/vuln/detail/CVE-2026-118766) | Medium | 6.1 | Botan is a C++ cryptography library. Prior to 3.13.0, Botan's online OCSP client allowed a single HTTP redirect while p… |
+| 2026-10-29 18:17:28 | [CVE-2026-118767](https://nvd.nist.gov/vuln/detail/CVE-2026-118767) | Medium | 4.8 | Botan is a C++ cryptography library. From 1.11.22 until 3.13.0, Botan's Python binding converted Python strings contain… |
+| 2026-10-29 18:17:28 | [CVE-2026-118768](https://nvd.nist.gov/vuln/detail/CVE-2026-118768) | Medium | 5.9 | Botan is a C++ cryptography library. From 1.11.34 until 3.13.0, the botan ocsp_check command requested an OCSP response… |
+| 2026-10-29 18:17:29 | [CVE-2026-118769](https://nvd.nist.gov/vuln/detail/CVE-2026-118769) | Critical | 9.2 | Botan is a C++ cryptography library. From 2.1.0 until 3.13.0, the Botan C API function botan_block_cipher_block_size co… |
+| 2026-10-29 18:17:32 | [CVE-2026-51851](https://nvd.nist.gov/vuln/detail/CVE-2026-51851) |  |  | modelscope agent-zero 1.7, 1.8, 1.9, and 1.10 is vulnerable to Directory Traversal in python/helpers/file_browser.py:Fi… |
+| 2026-10-29 18:17:32 | [CVE-2026-51863](https://nvd.nist.gov/vuln/detail/CVE-2026-51863) |  |  | DB-GPT v0.7.5 and 0.8.0 contains directory traversal in use_example_file (packages/dbgpt-app/src/dbgpt_app/openapi/api_… |
+| 2026-10-29 18:17:32 | [CVE-2026-51902](https://nvd.nist.gov/vuln/detail/CVE-2026-51902) |  |  | SuperAGI up to v0.0.14 contains an improper access control vulnerability. The agent controller endpoint /api/agents/get… |
+| 2026-10-29 18:17:32 | [CVE-2026-51903](https://nvd.nist.gov/vuln/detail/CVE-2026-51903) |  |  | SuperAGI v0.0.14 contains an improper access control vulnerability in get_agent_by_latest_execution in superagi/control… |
+| 2026-10-29 18:17:32 | [CVE-2026-51905](https://nvd.nist.gov/vuln/detail/CVE-2026-51905) |  |  | TransformerOptimus SuperAGI v0.0.14 is vulnerable to Incorrect Access Control in get_agent_execution_configuration in s… |
+| 2026-10-29 18:17:32 | [CVE-2026-51912](https://nvd.nist.gov/vuln/detail/CVE-2026-51912) |  |  | OpenBMB XAgent v1.0.0 contains directory traversal vulnerability in main-upload_file-the-preserved-live-upload-file-wit… |
+| 2026-10-29 18:17:33 | [CVE-2026-60111](https://nvd.nist.gov/vuln/detail/CVE-2026-60111) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
 
 ## Data source
 
