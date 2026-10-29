@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-29T08:16:59.863Z,CVE-2025-62839,HIGH,8.7,Awaiting Analysis,CWE-321,2,"An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Backup Sync. If exploited, the vulnerability could allow remote attackers to compromise the security of the system. We have already fixed the vulnerability in the following version:…"
+2026-10-29T08:17:00.057Z,CVE-2025-62841,HIGH,8.7,Awaiting Analysis,CWE-321,2,"An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Backup Sync. If exploited, the vulnerability could allow remote attackers to compromise the security of the system. We have already fixed the vulnerability in the following version:…"
+2026-10-29T08:17:00.21Z,CVE-2026-117174,,,Rejected,,0,Rejected reason: VUL-2026-008368 為先回報之相同問題

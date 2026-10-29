@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 07:19 UTC
+## Latest list — 2026-10-29 08:20 UTC
 
-New CVEs published between 2026-10-29 06:18 UTC and 2026-10-29 07:19 UTC.
+New CVEs published between 2026-10-29 07:19 UTC and 2026-10-29 08:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T07-19-05-531863Z.csv)
+[Full CSV](data/new-cves-2026-10-29T08-20-48-7284Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 07:16:44 | [CVE-2026-117548](https://nvd.nist.gov/vuln/detail/CVE-2026-117548) | Medium | 6.5 | A NULL pointer dereference flaw was found in 389-ds-base. This flaw occurs when a ModifyDN (rename) operation uses an a… |
-| 2026-10-29 07:16:44 | [CVE-2026-117627](https://nvd.nist.gov/vuln/detail/CVE-2026-117627) | Medium | 5.4 | A flaw was found in the JWT Authorization Grant implementation of the keycloak-services component. When an OIDC or Goog… |
-| 2026-10-29 07:16:44 | [CVE-2026-117688](https://nvd.nist.gov/vuln/detail/CVE-2026-117688) | Medium | 5.3 | A flaw was found in the client registration component of Keycloak, an open-source identity and access management soluti… |
-| 2026-10-29 07:16:44 | [CVE-2026-117859](https://nvd.nist.gov/vuln/detail/CVE-2026-117859) | Medium | 5.4 | A flaw was found in the Pushed Authorization Request PAR implementation of the keycloak-services component. The issue o… |
-| 2026-10-29 07:16:44 | [CVE-2026-118030](https://nvd.nist.gov/vuln/detail/CVE-2026-118030) | Medium | 4.2 | A flaw was found in the HOTP authentication mechanism of the keycloak-services component, which provides identity and a… |
+| 2026-10-29 08:16:59 | [CVE-2025-62839](https://nvd.nist.gov/vuln/detail/CVE-2025-62839) | High | 8.7 | An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Ba… |
+| 2026-10-29 08:17:00 | [CVE-2025-62841](https://nvd.nist.gov/vuln/detail/CVE-2025-62841) | High | 8.7 | An use of hard-coded cryptographic key vulnerability has been reported to affect HBS 3 Hybrid Backup Sync and Hybrid Ba… |
+| 2026-10-29 08:17:00 | [CVE-2026-117174](https://nvd.nist.gov/vuln/detail/CVE-2026-117174) |  |  | Rejected reason: VUL-2026-008368 為先回報之相同問題 |
 
 ## Data source
 
