@@ -9,34 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:18 UTC
+## Latest list — 2026-10-29 12:19 UTC
 
-New CVEs published between 2026-10-29 10:18 UTC and 2026-10-29 11:18 UTC.
+New CVEs published between 2026-10-29 11:18 UTC and 2026-10-29 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-29T11-18-54-571687Z.csv)
+[Full CSV](data/new-cves-2026-10-29T12-19-00-46552Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-29 11:17:24 | [CVE-2026-105031](https://nvd.nist.gov/vuln/detail/CVE-2026-105031) |  |  | When using the OpenSSL TLS implementation, both the pn_ssl_domain_set_trusted_ca_db() & pn_tls_config_set_trusted_certs… |
-| 2026-10-29 11:17:24 | [CVE-2026-105042](https://nvd.nist.gov/vuln/detail/CVE-2026-105042) |  |  | A message body that is deeply nested and decoded by pn_message_body() could overflow the stack and cause a crash. This… |
-| 2026-10-29 11:17:27 | [CVE-2026-112827](https://nvd.nist.gov/vuln/detail/CVE-2026-112827) | High | 7.1 | Missing Authorization vulnerability in VillaTheme HANDMADE – Dropshipping for Etsy and WooCommerce handmade-dropshippin… |
-| 2026-10-29 11:17:28 | [CVE-2026-114193](https://nvd.nist.gov/vuln/detail/CVE-2026-114193) | High | 7.5 | Missing Authorization vulnerability in Eyal Fitoussi GEO my WordPress geo-my-wp allows Exploiting Incorrectly Configure… |
-| 2026-10-29 11:17:28 | [CVE-2026-114230](https://nvd.nist.gov/vuln/detail/CVE-2026-114230) |  |  | When dispatching SASL frames to authenticate the peer, Proton will also dispatch AMQP frames if they claim to be SASL f… |
-| 2026-10-29 11:17:29 | [CVE-2026-115592](https://nvd.nist.gov/vuln/detail/CVE-2026-115592) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in OceanWP OceanWP o… |
-| 2026-10-29 11:17:30 | [CVE-2026-115599](https://nvd.nist.gov/vuln/detail/CVE-2026-115599) | High | 7.5 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
-| 2026-10-29 11:17:30 | [CVE-2026-115611](https://nvd.nist.gov/vuln/detail/CVE-2026-115611) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PluginUs.Net Tabl… |
-| 2026-10-29 11:17:30 | [CVE-2026-115942](https://nvd.nist.gov/vuln/detail/CVE-2026-115942) |  |  | A misconfigured wildcard TLS certificate causes a stack read overflow. This issue does not affect any wildcard certific… |
-| 2026-10-29 11:17:30 | [CVE-2026-115962](https://nvd.nist.gov/vuln/detail/CVE-2026-115962) | Medium | 4.3 | Authentication Bypass by Spoofing vulnerability in myCred myCred mycred allows Identity Spoofing.This issue affects myC… |
-| 2026-10-29 11:17:31 | [CVE-2026-115963](https://nvd.nist.gov/vuln/detail/CVE-2026-115963) | High | 7.1 | Missing Authorization vulnerability in VideoWhisper.com Broadcast Live Video videowhisper-live-streaming-integration al… |
-| 2026-10-29 11:17:31 | [CVE-2026-115964](https://nvd.nist.gov/vuln/detail/CVE-2026-115964) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in StylemixThemes Mo… |
-| 2026-10-29 11:17:31 | [CVE-2026-115965](https://nvd.nist.gov/vuln/detail/CVE-2026-115965) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in BuddyPress BuddyP… |
-| 2026-10-29 11:17:31 | [CVE-2026-115967](https://nvd.nist.gov/vuln/detail/CVE-2026-115967) | High | 8.8 | Weak Authentication vulnerability in Hamid Alinia Login with phone number login-with-phone-number allows Authentication… |
-| 2026-10-29 11:17:31 | [CVE-2026-116409](https://nvd.nist.gov/vuln/detail/CVE-2026-116409) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Swings Upsell… |
-| 2026-10-29 11:17:32 | [CVE-2026-118984](https://nvd.nist.gov/vuln/detail/CVE-2026-118984) | High | 7.0 | OmniRoute 3.8.0 before 3.8.52 contains an unverified password change vulnerability that allows holders of manage- or ad… |
-| 2026-10-29 11:17:32 | [CVE-2026-118989](https://nvd.nist.gov/vuln/detail/CVE-2026-118989) | Medium | 5.1 | WebToffee Product Import Export for WooCommerce 2.5.1 before 2.6.8 contains a server-side request forgery vulnerability… |
-| 2026-10-29 11:17:32 | [CVE-2026-33923](https://nvd.nist.gov/vuln/detail/CVE-2026-33923) | High | 7.5 | A signature verification vulnerability was discovered in the update installation functionality due to inconsistent vali… |
-| 2026-10-29 11:17:33 | [CVE-2026-33924](https://nvd.nist.gov/vuln/detail/CVE-2026-33924) | High | 7.5 | Two OS command injection vulnerabilities were discovered in the update installation functionality due to insufficient v… |
-| 2026-10-29 11:17:34 | [CVE-2026-71569](https://nvd.nist.gov/vuln/detail/CVE-2026-71569) | Medium | 4.8 | Server-Side Request Forgery (SSRF) vulnerability in Apache Camel A2A component. This issue affects Apache Camel: from 4… |
+| 2026-10-29 12:17:08 | [CVE-2026-103665](https://nvd.nist.gov/vuln/detail/CVE-2026-103665) | High | 8.4 | The installer for Yamaha LAN Monitor for Windows provided by Yamaha Corporation may insecurely load Dynamic Link Librar… |
+| 2026-10-29 12:17:09 | [CVE-2026-109216](https://nvd.nist.gov/vuln/detail/CVE-2026-109216) | Medium | 4.9 | The Meta Box – A Framework for Dynamic Websites plugin for WordPress is vulnerable to Stored Cross-Site Scripting via t… |
+| 2026-10-29 12:17:09 | [CVE-2026-109822](https://nvd.nist.gov/vuln/detail/CVE-2026-109822) | High | 7.1 | Yamaha wireless LAN router NWR100 provided by Yamaha Corporation contains an issue with insecure storage of sensitive i… |
+| 2026-10-29 12:17:09 | [CVE-2026-110184](https://nvd.nist.gov/vuln/detail/CVE-2026-110184) | High | 7.5 | The Newsmatic theme for WordPress is vulnerable to blind SQL Injection via the 'slug' parameter in all versions up to,… |
+| 2026-10-29 12:17:11 | [CVE-2026-115821](https://nvd.nist.gov/vuln/detail/CVE-2026-115821) | High | 7.2 | The NewsmanApp plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'billing_first_name, billing_l… |
+| 2026-10-29 12:17:12 | [CVE-2026-119025](https://nvd.nist.gov/vuln/detail/CVE-2026-119025) | High | 7.7 | open 7.2.0 before 11.0.0 contains an OS command injection vulnerability that allows attackers to execute PowerShell cod… |
+| 2026-10-29 12:17:12 | [CVE-2026-119027](https://nvd.nist.gov/vuln/detail/CVE-2026-119027) | High | 7.7 | oapi-codegen 2.5.0 before 2.8.1 contains a code injection vulnerability that allows attackers to inject Go code by supp… |
+| 2026-10-29 12:17:12 | [CVE-2026-119028](https://nvd.nist.gov/vuln/detail/CVE-2026-119028) | High | 8.7 | oapi-codegen 2.0.0 before 2.8.1 contains a code injection vulnerability that allows attackers to inject Go code by supp… |
+| 2026-10-29 12:17:12 | [CVE-2026-27401](https://nvd.nist.gov/vuln/detail/CVE-2026-27401) | Medium | 5.3 | Missing Authorization vulnerability in YITH YITH PayPal Express Checkout for WooCommerce yith-paypal-express-checkout-f… |
+| 2026-10-29 12:17:12 | [CVE-2026-5697](https://nvd.nist.gov/vuln/detail/CVE-2026-5697) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) vulnerability in SABBATIC application that allows an attacker to store JavaScript cod… |
+| 2026-10-29 12:17:12 | [CVE-2026-5698](https://nvd.nist.gov/vuln/detail/CVE-2026-5698) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) vulnerability in SABBATIC application that allows an attacker to store JavaScript cod… |
+| 2026-10-29 12:17:13 | [CVE-2026-5699](https://nvd.nist.gov/vuln/detail/CVE-2026-5699) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) vulnerability in SABBATIC application that allows an attacker to store JavaScript cod… |
+| 2026-10-29 12:17:13 | [CVE-2026-5700](https://nvd.nist.gov/vuln/detail/CVE-2026-5700) | Medium | 4.8 | Stored Cross-Site Scripting (XSS) vulnerability in SABBATIC application that allows an attacker to store JavaScript cod… |
+| 2026-10-29 12:17:13 | [CVE-2026-5702](https://nvd.nist.gov/vuln/detail/CVE-2026-5702) | Medium | 4.8 | Cross-Site Request Forgery (CSRF) vulnerability in SABBATIC application that allows an attacker can trick an authentica… |
+| 2026-10-29 12:17:14 | [CVE-2026-92086](https://nvd.nist.gov/vuln/detail/CVE-2026-92086) | Medium | 5.3 | The MW WP Form plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and includin… |
+| 2026-10-29 12:17:14 | [CVE-2026-96767](https://nvd.nist.gov/vuln/detail/CVE-2026-96767) | High | 7.2 | The NEX-Forms – Ultimate Forms Plugin for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting v… |
+| 2026-10-29 12:17:14 | [CVE-2026-97854](https://nvd.nist.gov/vuln/detail/CVE-2026-97854) | Critical | 9.3 | Yamaha wireless LAN router NWR100 provided by Yamaha Corporation contains an OS command injection vulnerability. Arbitr… |
+| 2026-10-29 12:17:14 | [CVE-2026-97860](https://nvd.nist.gov/vuln/detail/CVE-2026-97860) | High | 8.4 | YMS-VPN8 and YMS-VPN8-CP provided by Yamaha Corporation register Windows services with unquoted file paths. A user who… |
 
 ## Data source
 
