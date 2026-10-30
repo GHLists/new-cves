@@ -9,79 +9,68 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 19:18 UTC
+## Latest list — 2026-10-30 20:19 UTC
 
-New CVEs published between 2026-10-30 18:19 UTC and 2026-10-30 19:18 UTC.
+New CVEs published between 2026-10-30 19:18 UTC and 2026-10-30 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-30T19-18-54-636627Z.csv)
+[Full CSV](data/new-cves-2026-10-30T20-19-16-702941Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-30 19:17:56 | [CVE-2026-104674](https://nvd.nist.gov/vuln/detail/CVE-2026-104674) | Medium | 4.3 | Missing Authorization vulnerability in Arraytics Booktics booktics allows Exploiting Incorrectly Configured Access Cont… |
-| 2026-10-30 19:17:58 | [CVE-2026-105077](https://nvd.nist.gov/vuln/detail/CVE-2026-105077) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in Ad Inserter <= 2.8.19 versions. |
-| 2026-10-30 19:18:03 | [CVE-2026-107868](https://nvd.nist.gov/vuln/detail/CVE-2026-107868) | Medium | 5.3 | Unauthenticated Bypass Vulnerability in YITH WooCommerce Product Add-Ons <= 4.34.0 versions. |
-| 2026-10-30 19:18:07 | [CVE-2026-109213](https://nvd.nist.gov/vuln/detail/CVE-2026-109213) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-113499. Reason: This candidate is… |
-| 2026-10-30 19:18:12 | [CVE-2026-114711](https://nvd.nist.gov/vuln/detail/CVE-2026-114711) | Medium | 6.5 | Subscriber Cross Site Scripting (XSS) in MultiVendorX <= 5.0.20 versions. |
-| 2026-10-30 19:18:12 | [CVE-2026-115604](https://nvd.nist.gov/vuln/detail/CVE-2026-115604) | Medium | 5.0 | Subscriber Arbitrary File Deletion in SureDash <= 1.12.3 versions. |
-| 2026-10-30 19:18:13 | [CVE-2026-115947](https://nvd.nist.gov/vuln/detail/CVE-2026-115947) | Medium | 6.5 | Unauthenticated Sensitive Data Exposure in HUSKY <= 1.4.6 versions. |
-| 2026-10-30 19:18:13 | [CVE-2026-116386](https://nvd.nist.gov/vuln/detail/CVE-2026-116386) | Critical | 9.8 | Unauthenticated Privilege Escalation in SMS Alert Order Notifications <= 4.0.2 versions. |
-| 2026-10-30 19:18:13 | [CVE-2026-116401](https://nvd.nist.gov/vuln/detail/CVE-2026-116401) | High | 7.5 | Unauthenticated Broken Access Control in HUSKY <= 1.4.6 versions. |
-| 2026-10-30 19:18:14 | [CVE-2026-116405](https://nvd.nist.gov/vuln/detail/CVE-2026-116405) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in VikRentCar <= 1.4.9 versions. |
-| 2026-10-30 19:18:14 | [CVE-2026-116410](https://nvd.nist.gov/vuln/detail/CVE-2026-116410) | Medium | 6.5 | Unauthenticated Arbitrary Content Deletion in Masteriyo - LMS <= 3.4.3 versions. |
-| 2026-10-30 19:18:14 | [CVE-2026-116847](https://nvd.nist.gov/vuln/detail/CVE-2026-116847) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in Mang Board WP <= 2.4.6 versions. |
-| 2026-10-30 19:18:14 | [CVE-2026-116851](https://nvd.nist.gov/vuln/detail/CVE-2026-116851) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in eCommerce Product Catalog <= 3.6.5 versions. |
-| 2026-10-30 19:18:15 | [CVE-2026-116852](https://nvd.nist.gov/vuln/detail/CVE-2026-116852) | Critical | 9.1 | Author Remote Code Execution (RCE) in Widget Options <= 4.2.5 versions. |
-| 2026-10-30 19:18:15 | [CVE-2026-116853](https://nvd.nist.gov/vuln/detail/CVE-2026-116853) | Medium | 6.5 | Unauthenticated Broken Access Control in GiveWP <= 4.19.0.1 versions. |
-| 2026-10-30 19:18:15 | [CVE-2026-116854](https://nvd.nist.gov/vuln/detail/CVE-2026-116854) | Medium | 6.5 | Subscriber Cross Site Scripting (XSS) in WP Customer Area <= 8.4.0 versions. |
-| 2026-10-30 19:18:15 | [CVE-2026-116861](https://nvd.nist.gov/vuln/detail/CVE-2026-116861) | High | 7.5 | Unauthenticated Sensitive Data Exposure in Flexible Chat <= 1.1.0 versions. |
-| 2026-10-30 19:18:15 | [CVE-2026-116862](https://nvd.nist.gov/vuln/detail/CVE-2026-116862) | High | 7.5 | Unauthenticated Broken Access Control in WP REST Cache <= 2026.3.1 versions. |
-| 2026-10-30 19:18:17 | [CVE-2026-118086](https://nvd.nist.gov/vuln/detail/CVE-2026-118086) | High | 8.8 | Subscriber Privilege Escalation in WP BASE Booking <= 6.5.2 versions. |
-| 2026-10-30 19:18:17 | [CVE-2026-118089](https://nvd.nist.gov/vuln/detail/CVE-2026-118089) | High | 7.2 | Shop manager PHP Object Injection in Product Feed Manager <= 7.14.1 versions. |
-| 2026-10-30 19:18:17 | [CVE-2026-118090](https://nvd.nist.gov/vuln/detail/CVE-2026-118090) | High | 8.8 | Subscriber PHP Object Injection in MasterStudy LMS <= 3.7.55 versions. |
-| 2026-10-30 19:18:20 | [CVE-2026-119117](https://nvd.nist.gov/vuln/detail/CVE-2026-119117) | High | 8.2 | Insertion of sensitive information into a log file in Amazon Kinesis Producer Library for Java before 1.0.8, when the l… |
-| 2026-10-30 19:18:20 | [CVE-2026-119526](https://nvd.nist.gov/vuln/detail/CVE-2026-119526) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in ThemeREX Royal Event allows Object Injection. This issue affects Roy… |
-| 2026-10-30 19:18:21 | [CVE-2026-119727](https://nvd.nist.gov/vuln/detail/CVE-2026-119727) | Medium | 6.5 | A flaw was found in GStreamer's gst-plugins-bad H.265 video parser. When parsing a specially crafted H.265 bitstream co… |
-| 2026-10-30 19:18:21 | [CVE-2026-119728](https://nvd.nist.gov/vuln/detail/CVE-2026-119728) | Medium | 5.5 | A flaw was found in the H.264 video parser in gst-plugins-bad. When processing a specially crafted H.264 video file wit… |
-| 2026-10-30 19:18:21 | [CVE-2026-119729](https://nvd.nist.gov/vuln/detail/CVE-2026-119729) | Medium | 6.5 | A flaw was found in GStreamer. An integer overflow vulnerability in the AV1 LEB128 variable-length integer parser allow… |
-| 2026-10-30 19:18:22 | [CVE-2026-119842](https://nvd.nist.gov/vuln/detail/CVE-2026-119842) | Medium | 6.5 | A flaw was found in GStreamer's gst-plugins-base MicroDVD subtitle parser. When processing a specially crafted subtitle… |
-| 2026-10-30 19:18:22 | [CVE-2026-120007](https://nvd.nist.gov/vuln/detail/CVE-2026-120007) | Medium | 6.9 | NodeBB 1.18.0 through 4.16.5 contains an authorization bypass vulnerability that allows unauthenticated visitors to act… |
-| 2026-10-30 19:18:22 | [CVE-2026-120046](https://nvd.nist.gov/vuln/detail/CVE-2026-120046) | Medium | 6.0 | Nezha 2.0.0 before 2.4.0 contains a NULL pointer dereference vulnerability in ServiceSentinel.loadTodayStats that allow… |
-| 2026-10-30 19:18:23 | [CVE-2026-27061](https://nvd.nist.gov/vuln/detail/CVE-2026-27061) | Medium | 6.5 | Subscriber Cross Site Scripting (XSS) in User Registration <= 5.3.0 versions. |
-| 2026-10-30 19:18:23 | [CVE-2026-28160](https://nvd.nist.gov/vuln/detail/CVE-2026-28160) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in VikRentCar <= 1.4.10 versions. |
-| 2026-10-30 19:18:24 | [CVE-2026-39732](https://nvd.nist.gov/vuln/detail/CVE-2026-39732) | Critical | 9.3 | Unauthenticated SQL Injection in Transliterator <= 2.5.13 versions. |
-| 2026-10-30 19:18:24 | [CVE-2026-39734](https://nvd.nist.gov/vuln/detail/CVE-2026-39734) | High | 7.5 | Unauthenticated Path Traversal in WP EasyPay <= 4.5.4 versions. |
-| 2026-10-30 19:18:24 | [CVE-2026-39738](https://nvd.nist.gov/vuln/detail/CVE-2026-39738) | Critical | 9.8 | Unauthenticated PHP Object Injection in FunnelKit Automations <= 3.8.6.1 versions. |
-| 2026-10-30 19:18:24 | [CVE-2026-39739](https://nvd.nist.gov/vuln/detail/CVE-2026-39739) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brainstorm Force… |
-| 2026-10-30 19:18:24 | [CVE-2026-39786](https://nvd.nist.gov/vuln/detail/CVE-2026-39786) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in BA Book Everything <= 1.8.33 versions. |
-| 2026-10-30 19:18:25 | [CVE-2026-46560](https://nvd.nist.gov/vuln/detail/CVE-2026-46560) | High | 7.5 | Open Access Management (OpenAM) is an access management solution. Prior to 16.1.1, the `RADIUS` authentication module o… |
-| 2026-10-30 19:18:25 | [CVE-2026-48201](https://nvd.nist.gov/vuln/detail/CVE-2026-48201) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in Fast Velocity Minify <= 3.5.7 versions. |
-| 2026-10-30 19:18:25 | [CVE-2026-52710](https://nvd.nist.gov/vuln/detail/CVE-2026-52710) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in ithemelandco GIFTiT &#82… |
-| 2026-10-30 19:18:25 | [CVE-2026-54850](https://nvd.nist.gov/vuln/detail/CVE-2026-54850) | Medium | 6.5 | Subscriber Broken Access Control in Booking and Rental Manager <= 2.8.2 versions. |
-| 2026-10-30 19:18:26 | [CVE-2026-54854](https://nvd.nist.gov/vuln/detail/CVE-2026-54854) | Medium | 6.3 | Contributor Privilege Escalation in Profile Builder <= 4.0.5 versions. |
-| 2026-10-30 19:18:26 | [CVE-2026-54855](https://nvd.nist.gov/vuln/detail/CVE-2026-54855) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in Profile Builder <= 4.0.5 versions. |
-| 2026-10-30 19:18:27 | [CVE-2026-59978](https://nvd.nist.gov/vuln/detail/CVE-2026-59978) | High | 7.5 | AdminNeo is a full-featured database management tool written in PHP. From 4.6.2 until 5.5.0, the unauthenticated `?scri… |
-| 2026-10-30 19:18:27 | [CVE-2026-61586](https://nvd.nist.gov/vuln/detail/CVE-2026-61586) | High | 8.2 | Copernik XML Factory provides secure-by-default JAXP factory creation for Java. Prior to 0.1.2, Copernik XML Factory do… |
-| 2026-10-30 19:18:28 | [CVE-2026-61840](https://nvd.nist.gov/vuln/detail/CVE-2026-61840) | Low | 2.3 | Quest Bot is an opensource Discord Bot. Prior to 1.1.9, the `image to GIF` command uses a request helper that validates… |
-| 2026-10-30 19:18:28 | [CVE-2026-61845](https://nvd.nist.gov/vuln/detail/CVE-2026-61845) | High | 8.9 | Crass is a Ruby CSS parser that's fully compliant with the CSS Syntax Level 3 specification. Prior to 1.0.7, Crass conv… |
-| 2026-10-30 19:18:28 | [CVE-2026-61846](https://nvd.nist.gov/vuln/detail/CVE-2026-61846) | Medium | 6.3 | Crass is a Ruby CSS parser that's fully compliant with the CSS Syntax Level 3 specification. Prior to 1.0.7, Crass recu… |
-| 2026-10-30 19:18:28 | [CVE-2026-61847](https://nvd.nist.gov/vuln/detail/CVE-2026-61847) | Medium | 6.3 | Crass is a Ruby CSS parser that's fully compliant with the CSS Syntax Level 3 specification. Prior to 1.0.7, when the `… |
-| 2026-10-30 19:18:28 | [CVE-2026-61848](https://nvd.nist.gov/vuln/detail/CVE-2026-61848) | Medium | 6.3 | Crass is a Ruby CSS parser that's fully compliant with the CSS Syntax Level 3 specification. Prior to 1.0.7, when Crass… |
-| 2026-10-30 19:18:28 | [CVE-2026-61854](https://nvd.nist.gov/vuln/detail/CVE-2026-61854) | High | 8.2 | VoiceSentinel is a real-time voice moderation system for Minecraft servers. From 2.2.1 until 3.3.1, the optional report… |
-| 2026-10-30 19:18:31 | [CVE-2026-62019](https://nvd.nist.gov/vuln/detail/CVE-2026-62019) | Medium | 4.3 | Missing Authorization vulnerability in Liquid Web / StellarWP BookIt bookit allows Exploiting Incorrectly Configured Ac… |
-| 2026-10-30 19:18:31 | [CVE-2026-62023](https://nvd.nist.gov/vuln/detail/CVE-2026-62023) | Medium | 4.3 | Missing Authorization vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templ… |
-| 2026-10-30 19:18:31 | [CVE-2026-62047](https://nvd.nist.gov/vuln/detail/CVE-2026-62047) | Medium | 4.3 | Missing Authorization vulnerability in Liquid Web / StellarWP Event Tickets event-tickets allows Exploiting Incorrectly… |
-| 2026-10-30 19:18:31 | [CVE-2026-62056](https://nvd.nist.gov/vuln/detail/CVE-2026-62056) | Medium | 5.3 | Missing Authorization vulnerability in WP ManageNinja LLC Fluent CRM fluent-crm allows Exploiting Incorrectly Configure… |
-| 2026-10-30 19:18:31 | [CVE-2026-62057](https://nvd.nist.gov/vuln/detail/CVE-2026-62057) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Fahim Reza Divi Contact… |
-| 2026-10-30 19:18:32 | [CVE-2026-62121](https://nvd.nist.gov/vuln/detail/CVE-2026-62121) | Medium | 6.5 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
-| 2026-10-30 19:18:32 | [CVE-2026-62122](https://nvd.nist.gov/vuln/detail/CVE-2026-62122) | Medium | 5.3 | Missing Authorization vulnerability in Arraytics Booktics booktics allows Exploiting Incorrectly Configured Access Cont… |
-| 2026-10-30 19:18:32 | [CVE-2026-62160](https://nvd.nist.gov/vuln/detail/CVE-2026-62160) | High | 8.7 | Daptin is a GraphQL/JSON-API headless CMS. Prior to 0.12.26, the global `LanguageMiddleware` in `server/language.go` pa… |
-| 2026-10-30 19:18:32 | [CVE-2026-62162](https://nvd.nist.gov/vuln/detail/CVE-2026-62162) | High | 8.2 | Hydra is a layer-two scalability solution for Cardano. Prior to 2.1.0, the `Claim` branch in `hydra-plutus/validators/d… |
-| 2026-10-30 19:18:32 | [CVE-2026-62264](https://nvd.nist.gov/vuln/detail/CVE-2026-62264) | High | 7.5 | PDF Reader MCP is a Model Context Protocol server for reading PDF documents. In versions 2.2.0 and later prior to 3.0.1… |
-| 2026-10-30 19:18:33 | [CVE-2026-62298](https://nvd.nist.gov/vuln/detail/CVE-2026-62298) | None | 0.0 | mouse07410/asn1c is an ASN.1 compiler. Prior to 1.2.5, `OPEN TYPE` decoding can dereference an unallocated member point… |
-| 2026-10-30 19:18:33 | [CVE-2026-62303](https://nvd.nist.gov/vuln/detail/CVE-2026-62303) | Medium | 5.9 | Pistache is a high-performance REST toolkit written in C++. From 0.0.5 through 0.4.26, `SegmentTreeNode::sanitizeResour… |
-| 2026-10-30 19:18:33 | [CVE-2026-62331](https://nvd.nist.gov/vuln/detail/CVE-2026-62331) | High | 8.2 | praktor is a multi-agent Claude Code orchestrator with Telegram input and output, Docker isolation, and a Mission Contr… |
-| 2026-10-30 19:18:33 | [CVE-2026-66025](https://nvd.nist.gov/vuln/detail/CVE-2026-66025) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-10-30 19:18:33 | [CVE-2026-66026](https://nvd.nist.gov/vuln/detail/CVE-2026-66026) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-30 19:19:10 | [CVE-2026-73186](https://nvd.nist.gov/vuln/detail/CVE-2026-73186) | High | 8.8 | Subscriber PHP Object Injection in Enable Media Replace <= 4.2.2 versions. |
+| 2026-10-30 19:19:10 | [CVE-2026-73322](https://nvd.nist.gov/vuln/detail/CVE-2026-73322) |  |  | Incorrect Authorization vulnerability in the single-stage query engine of Apache Pinot. When broker access control is e… |
+| 2026-10-30 19:19:12 | [CVE-2026-78527](https://nvd.nist.gov/vuln/detail/CVE-2026-78527) | High | 8.8 | Contributor PHP Object Injection in GS Testimonial Slider <= 3.3.10 versions. |
+| 2026-10-30 19:19:13 | [CVE-2026-7003](https://nvd.nist.gov/vuln/detail/CVE-2026-7003) | Medium | 6.9 | WIT SynApps Runtime through 1.4.11 contains a hardcoded credentials vulnerability that allows unauthenticated attackers… |
+| 2026-10-30 19:19:13 | [CVE-2026-7004](https://nvd.nist.gov/vuln/detail/CVE-2026-7004) | Medium | 5.1 | WIT SynApps Runtime through 1.4.11 contains a pre-authentication reflected cross-site scripting vulnerability that allo… |
+| 2026-10-30 19:19:13 | [CVE-2026-7005](https://nvd.nist.gov/vuln/detail/CVE-2026-7005) | Medium | 5.3 | WIT SynApps Runtime through 1.4.11 contains a browser-mediated cross-origin request forgery vulnerability that allows a… |
+| 2026-10-30 19:20:18 | [CVE-2026-90888](https://nvd.nist.gov/vuln/detail/CVE-2026-90888) | Critical | 9.8 | Unauthenticated PHP Object Injection in LeadSnap <= 1.25 versions. |
+| 2026-10-30 19:20:19 | [CVE-2026-94175](https://nvd.nist.gov/vuln/detail/CVE-2026-94175) | High | 7.1 | Unauthenticated Cross Site Scripting (XSS) in All In One Login <= 2.4.1 versions. |
+| 2026-10-30 20:17:01 | [CVE-2026-115828](https://nvd.nist.gov/vuln/detail/CVE-2026-115828) | Medium | 5.1 | In Secret Server versions earlier than 12.3.1, Secret Server did not always validate the PIN or biometric check when us… |
+| 2026-10-30 20:17:02 | [CVE-2026-115829](https://nvd.nist.gov/vuln/detail/CVE-2026-115829) | High | 8.7 | In Secret Server versions earlier than 12.3.1, a user could bypass the initial login step and authenticate by successfu… |
+| 2026-10-30 20:17:02 | [CVE-2026-115830](https://nvd.nist.gov/vuln/detail/CVE-2026-115830) | High | 8.7 | In Secret Server versions earlier than 12.3.1, a user under certain conditions could submit an unsigned JWT and receive… |
+| 2026-10-30 20:17:02 | [CVE-2026-116238](https://nvd.nist.gov/vuln/detail/CVE-2026-116238) | Critical | 9.2 | In server mode pgAdmin 4 locks an internal account after MAX_LOGIN_ATTEMPTS failed logins (3 by default). The limit cou… |
+| 2026-10-30 20:17:03 | [CVE-2026-116239](https://nvd.nist.gov/vuln/detail/CVE-2026-116239) | High | 8.9 | In server mode pgAdmin 4 keeps an account per authentication source, so the same username can exist as, for example, an… |
+| 2026-10-30 20:17:03 | [CVE-2026-116240](https://nvd.nist.gov/vuln/detail/CVE-2026-116240) | High | 7.1 | In server mode pgAdmin 4 validates a path into the user's storage directory with check_access_permission(), which build… |
+| 2026-10-30 20:17:03 | [CVE-2026-116241](https://nvd.nist.gov/vuln/detail/CVE-2026-116241) | Critical | 9.4 | pgAdmin 4's Import/Export Data tool wraps a user's query export in a psql \copy (...) TO command and checks that the qu… |
+| 2026-10-30 20:17:03 | [CVE-2026-116242](https://nvd.nist.gov/vuln/detail/CVE-2026-116242) | High | 7.1 | pgAdmin 4 opens SSH tunnels with the sshtunnel library but gave it neither host_pkey_directories nor ssh_config_file, s… |
+| 2026-10-30 20:17:04 | [CVE-2026-116243](https://nvd.nist.gov/vuln/detail/CVE-2026-116243) | High | 7.7 | pgAdmin 4 runs pg_dump, pg_restore, pg_dumpall and psql from the binary path a user sets in their preferences. In serve… |
+| 2026-10-30 20:17:04 | [CVE-2026-116244](https://nvd.nist.gov/vuln/detail/CVE-2026-116244) | High | 7.1 | When a pgAdmin 4 connection was not meant to use a Kerberos user's delegated credentials, pgAdmin removed KRB5CCNAME fr… |
+| 2026-10-30 20:17:04 | [CVE-2026-116245](https://nvd.nist.gov/vuln/detail/CVE-2026-116245) | High | 7.1 | libpq looks a connection service up in the service file of the operating-system account running pgAdmin 4, and an entry… |
+| 2026-10-30 20:17:04 | [CVE-2026-116246](https://nvd.nist.gov/vuln/detail/CVE-2026-116246) | High | 7.0 | To pass a server's password to psql and to the utilities pgAdmin 4 runs as background processes, the server manager wro… |
+| 2026-10-30 20:17:04 | [CVE-2026-116247](https://nvd.nist.gov/vuln/detail/CVE-2026-116247) | High | 7.1 | When a server in pgAdmin 4 had no password file, client certificate or client key configured, or the configured one cou… |
+| 2026-10-30 20:17:04 | [CVE-2026-116248](https://nvd.nist.gov/vuln/detail/CVE-2026-116248) | Medium | 6.0 | In pgAdmin 4 server mode only administrators are meant to share a server with all users; the server dialog shows the Sh… |
+| 2026-10-30 20:17:05 | [CVE-2026-116249](https://nvd.nist.gov/vuln/detail/CVE-2026-116249) | High | 7.2 | In server mode pgAdmin 4 resolves a server's password file, SSL certificate, key, CRL and SSH tunnel identity file rela… |
+| 2026-10-30 20:17:05 | [CVE-2026-116250](https://nvd.nist.gov/vuln/detail/CVE-2026-116250) | High | 7.3 | In server mode pgAdmin 4 validates a path a user gives for a file in their storage directory with check_access_permissi… |
+| 2026-10-30 20:17:05 | [CVE-2026-116251](https://nvd.nist.gov/vuln/detail/CVE-2026-116251) | Low | 2.3 | pgAdmin 4 did not invalidate a user's existing sessions when their password changed, either through the user's own chan… |
+| 2026-10-30 20:17:05 | [CVE-2026-116252](https://nvd.nist.gov/vuln/detail/CVE-2026-116252) | High | 7.1 | pgAdmin 4's materialized view refresh passed the target database's name to psql's --dbname argument unchanged. libpq tr… |
+| 2026-10-30 20:17:06 | [CVE-2026-119328](https://nvd.nist.gov/vuln/detail/CVE-2026-119328) | Medium | 6.5 | Immich is a high-performance self-hosted photo and video management solution. Prior to 3.3.0, the unauthenticated machi… |
+| 2026-10-30 20:17:06 | [CVE-2026-119329](https://nvd.nist.gov/vuln/detail/CVE-2026-119329) | Medium | 4.3 | Immich is a high-performance self-hosted photo and video management solution. Prior to 3.0.0, GET /api/map/markers used… |
+| 2026-10-30 20:17:06 | [CVE-2026-119330](https://nvd.nist.gov/vuln/detail/CVE-2026-119330) | Low | 3.5 | Immich is a high-performance self-hosted photo and video management solution. Prior to 3.2.0, the shared-link creation… |
+| 2026-10-30 20:17:07 | [CVE-2026-119331](https://nvd.nist.gov/vuln/detail/CVE-2026-119331) | High | 7.1 | Ladybird is a truly independent web browser. Prior to the c0d68bddf3e3616e5173835f0f4c155ee9700d91 commit, CSSStyleShee… |
+| 2026-10-30 20:17:07 | [CVE-2026-119332](https://nvd.nist.gov/vuln/detail/CVE-2026-119332) | High | 8.8 | Ladybird is a truly independent web browser. Prior to 209579c96473c75bd5eba9701fcadb841a045964, FinalizationRegistry::c… |
+| 2026-10-30 20:17:07 | [CVE-2026-119333](https://nvd.nist.gov/vuln/detail/CVE-2026-119333) | High | 7.8 | draw.io Desktop is the official Electron build of draw.io. Prior to 31.5.2, the Windows application launched powershell… |
+| 2026-10-30 20:17:07 | [CVE-2026-119334](https://nvd.nist.gov/vuln/detail/CVE-2026-119334) | Low | 2.2 | Pi-hole is a DNS sinkhole that protects devices from unwanted content without installing any client-side software. Prio… |
+| 2026-10-30 20:17:08 | [CVE-2026-119335](https://nvd.nist.gov/vuln/detail/CVE-2026-119335) | High | 7.8 | Pi-hole is a DNS sinkhole that protects devices from unwanted content without installing any client-side software. Prio… |
+| 2026-10-30 20:17:08 | [CVE-2026-119336](https://nvd.nist.gov/vuln/detail/CVE-2026-119336) | High | 7.8 | Pi-hole is a DNS sinkhole that protects devices from unwanted content without installing any client-side software. From… |
+| 2026-10-30 20:17:08 | [CVE-2026-119337](https://nvd.nist.gov/vuln/detail/CVE-2026-119337) | High | 7.1 | RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine. From 0.25.2 until 0.27.3, POST /api/v1/agents/ch… |
+| 2026-10-30 20:17:08 | [CVE-2026-119730](https://nvd.nist.gov/vuln/detail/CVE-2026-119730) | Medium | 5.1 | Maxthon Browser for Android before 7.5.8.103 contains an address bar spoofing vulnerability that allows remote attacker… |
+| 2026-10-30 20:17:09 | [CVE-2026-55098](https://nvd.nist.gov/vuln/detail/CVE-2026-55098) | Medium | 6.5 | Arc is an open, SQL-native time-series database for telemetry. Prior to the repository-verified 26.06.2 repair, the rem… |
+| 2026-10-30 20:17:09 | [CVE-2026-55493](https://nvd.nist.gov/vuln/detail/CVE-2026-55493) | Medium | 6.5 | HotCRP is conference review software. Starting with 2.101, the `cmt:` search term checks whether a comment is visible t… |
+| 2026-10-30 20:17:10 | [CVE-2026-55598](https://nvd.nist.gov/vuln/detail/CVE-2026-55598) | Critical | 9.1 | PinePods is a complete, self-hosted podcast management system written in Rust. Prior to 0.9.0, an authenticated user ca… |
+| 2026-10-30 20:17:10 | [CVE-2026-61618](https://nvd.nist.gov/vuln/detail/CVE-2026-61618) | Medium | 6.9 | SNARK Verifier is a generic (S)NARK verifier. Prior to 0.2.5, KZG accumulator public-instance limbs are decoded without… |
+| 2026-10-30 20:17:10 | [CVE-2026-61620](https://nvd.nist.gov/vuln/detail/CVE-2026-61620) | Critical | 9.8 | HoneySQL turns Clojure data structures into SQL. From 2.0.0 until 2.7.1392, applications that pass user input or other… |
+| 2026-10-30 20:17:11 | [CVE-2026-61694](https://nvd.nist.gov/vuln/detail/CVE-2026-61694) | Low | 3.7 | go-xrpl is a Go implementation of the XRP Ledger protocol. In versions through the June 18, 2026 revision identified by… |
+| 2026-10-30 20:17:11 | [CVE-2026-61850](https://nvd.nist.gov/vuln/detail/CVE-2026-61850) | Critical | 9.3 | Kargo manages and automates the promotion of software artifacts. From 0.6.0 until 1.8.14, 1.9.9, and 1.10.8, two author… |
+| 2026-10-30 20:17:11 | [CVE-2026-62284](https://nvd.nist.gov/vuln/detail/CVE-2026-62284) | High | 8.6 | OSAC operator is a Kubernetes operator. In the affected revision identified as 8220502, the `console-proxy` `RemoteConf… |
+| 2026-10-30 20:17:11 | [CVE-2026-62301](https://nvd.nist.gov/vuln/detail/CVE-2026-62301) | High | 7.1 | MyTube is a self-hosted downloader and player for several video websites. Prior to version 1.10.3, backend video access… |
+| 2026-10-30 20:17:12 | [CVE-2026-62302](https://nvd.nist.gov/vuln/detail/CVE-2026-62302) | High | 8.7 | MyTube is a self-hosted downloader and player for several video websites. Prior to version 1.10.3, `server.ts` calls `r… |
+| 2026-10-30 20:17:12 | [CVE-2026-62333](https://nvd.nist.gov/vuln/detail/CVE-2026-62333) | High | 8.7 | OpenVM is a performant and modular zkVM framework built for customization and extensibility. Before 1.7.0 in the 1.x li… |
+| 2026-10-30 20:17:12 | [CVE-2026-62334](https://nvd.nist.gov/vuln/detail/CVE-2026-62334) | High | 8.7 | OpenVM is a performant and modular zkVM framework built for customization and extensibility. Before 1.7.0 in the 1.x li… |
+| 2026-10-30 20:17:12 | [CVE-2026-62335](https://nvd.nist.gov/vuln/detail/CVE-2026-62335) | Medium | 6.9 | OpenVM is a performant and modular zkVM framework built for customization and extensibility. Before 1.7.0 in the 1.x li… |
+| 2026-10-30 20:17:12 | [CVE-2026-62337](https://nvd.nist.gov/vuln/detail/CVE-2026-62337) | Medium | 6.9 | SNARK Verifier is a generic (S)NARK verifier. Prior to 0.2.5, the Halo 2 aggregation circuit can mishandle proof points… |
+| 2026-10-30 20:17:17 | [CVE-2026-78402](https://nvd.nist.gov/vuln/detail/CVE-2026-78402) | High | 7.3 | Stack-based buffer overflow and out-of-bounds write vulnerability in Thales Sentinel Keys Server on Windows allows Over… |
+| 2026-10-30 20:17:17 | [CVE-2026-78403](https://nvd.nist.gov/vuln/detail/CVE-2026-78403) | Critical | 9.3 | Stack-based buffer overflow and missing authorization vulnerability in Thales Sentinel Keys Server on Windows allows Ov… |
+| 2026-10-30 20:17:29 | [CVE-2026-95673](https://nvd.nist.gov/vuln/detail/CVE-2026-95673) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-92243. Reason: This candidate is a… |
 
 ## Data source
 
