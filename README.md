@@ -9,62 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 16:20 UTC
+## Latest list — 2026-10-30 17:20 UTC
 
-New CVEs published between 2026-10-30 15:18 UTC and 2026-10-30 16:20 UTC.
+New CVEs published between 2026-10-30 16:20 UTC and 2026-10-30 17:20 UTC.
 
-[Full CSV](data/new-cves-2026-10-30T16-20-41-448151Z.csv)
+[Full CSV](data/new-cves-2026-10-30T17-20-34-721098Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-30 16:17:35 | [CVE-2026-104061](https://nvd.nist.gov/vuln/detail/CVE-2026-104061) | High | 8.5 | Scribus before 1.6.7 contains a heap out-of-bounds write vulnerability in the scimgdataloader_psd loader that uses unch… |
-| 2026-10-30 16:17:35 | [CVE-2026-104062](https://nvd.nist.gov/vuln/detail/CVE-2026-104062) | High | 8.5 | Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the PICT image loader and import plugin that allo… |
-| 2026-10-30 16:17:35 | [CVE-2026-104063](https://nvd.nist.gov/vuln/detail/CVE-2026-104063) | Medium | 6.9 | Scribus before 1.6.7 contains an out-of-bounds read vulnerability in the Mac PICT image loader and import plugin when d… |
-| 2026-10-30 16:17:36 | [CVE-2026-104064](https://nvd.nist.gov/vuln/detail/CVE-2026-104064) | High | 8.5 | Scribus before 1.6.7 contains an integer overflow vulnerability in the scimgdataloader_tiff TIFF loader that allows att… |
-| 2026-10-30 16:17:36 | [CVE-2026-104065](https://nvd.nist.gov/vuln/detail/CVE-2026-104065) | High | 8.5 | Scribus before 1.6.7 contains an out-of-bounds write vulnerability in the importdrw Micrografx Draw plugin that uses an… |
-| 2026-10-30 16:17:36 | [CVE-2026-104066](https://nvd.nist.gov/vuln/detail/CVE-2026-104066) | High | 8.5 | Scribus before 1.6.7 contains a heap buffer overflow vulnerability in the Mac PICT image loader and import plugin when… |
-| 2026-10-30 16:17:36 | [CVE-2026-104067](https://nvd.nist.gov/vuln/detail/CVE-2026-104067) | High | 8.5 | Scribus before 1.6.7 contains an out-of-bounds memory access vulnerability in the importsvm plugin that fails to verify… |
-| 2026-10-30 16:17:36 | [CVE-2026-104615](https://nvd.nist.gov/vuln/detail/CVE-2026-104615) | High | 7.9 | A security vulnerability was discovered in SUSE Rancher Fleet's cluster registration flow, in Fleet versions before 0.1… |
-| 2026-10-30 16:17:36 | [CVE-2026-105454](https://nvd.nist.gov/vuln/detail/CVE-2026-105454) | Medium | 5.3 | RT's automatic link creation for URLs in HTML ticket content does not HTML-escape the URL it places in the link. A URL… |
-| 2026-10-30 16:17:37 | [CVE-2026-105455](https://nvd.nist.gov/vuln/detail/CVE-2026-105455) | Medium | 5.3 | RTIR's ticket creation forms show the subject of the related ticket when splitting a ticket or creating an incident fro… |
-| 2026-10-30 16:17:37 | [CVE-2026-105456](https://nvd.nist.gov/vuln/detail/CVE-2026-105456) | Medium | 5.3 | RTIR extends RT's HTML scrubber to allow an internal link placeholder, and the extension lets through any link that mer… |
-| 2026-10-30 16:17:40 | [CVE-2026-116407](https://nvd.nist.gov/vuln/detail/CVE-2026-116407) | Medium | 5.4 | Missing Authorization vulnerability in Webba Plugins Webba Booking webba-booking-lite allows Exploiting Incorrectly Con… |
-| 2026-10-30 16:17:41 | [CVE-2026-117182](https://nvd.nist.gov/vuln/detail/CVE-2026-117182) |  |  | An authenticated cross-site scripting (XSS) vulnerability in the /spina/embeddable.rb component of Spina CMS v2.21.0 al… |
-| 2026-10-30 16:17:41 | [CVE-2026-117183](https://nvd.nist.gov/vuln/detail/CVE-2026-117183) |  |  | A path traversal vulnerability in the FeaturedImage component of astro-notion-blog 0.13.0 allows attackers to escape th… |
-| 2026-10-30 16:17:41 | [CVE-2026-117184](https://nvd.nist.gov/vuln/detail/CVE-2026-117184) |  |  | An issue in the GraphQL endpoint of traggo server v0.8.3 allows attackers to cause a Denial of Service (DoS) via a craf… |
-| 2026-10-30 16:17:41 | [CVE-2026-118238](https://nvd.nist.gov/vuln/detail/CVE-2026-118238) |  |  | The Tenda W18E web management server is vulnerable to OS command injection via the "diagnose" packet-capture feature du… |
-| 2026-10-30 16:17:42 | [CVE-2026-119287](https://nvd.nist.gov/vuln/detail/CVE-2026-119287) | High | 8.0 | Zuke is a code-first, strongly typed build automation system for Deno. Prior to 1.51.0, the @zuke/core MCP registry mod… |
-| 2026-10-30 16:17:42 | [CVE-2026-119288](https://nvd.nist.gov/vuln/detail/CVE-2026-119288) | High | 7.0 | Zuke is a code-first, strongly typed build automation system for Deno. Prior to 1.51.0, @zuke/core launches resolved Wi… |
-| 2026-10-30 16:17:43 | [CVE-2026-119289](https://nvd.nist.gov/vuln/detail/CVE-2026-119289) | High | 7.1 | Zuke is a code-first, strongly typed build automation system for Deno. Prior to 1.10.0, the @zuke/gh githubWorkflow(...… |
-| 2026-10-30 16:17:43 | [CVE-2026-119290](https://nvd.nist.gov/vuln/detail/CVE-2026-119290) | High | 7.5 | Zuke is a code-first, strongly typed build automation system for Deno. Prior to 1.51.0, @zuke/core writes rendered repo… |
-| 2026-10-30 16:17:43 | [CVE-2026-119291](https://nvd.nist.gov/vuln/detail/CVE-2026-119291) | Medium | 5.5 | Zuke is a code-first, strongly typed build automation system for Deno. Prior to 1.4.0, @zuke/cli uses lstat to inspect… |
-| 2026-10-30 16:17:43 | [CVE-2026-119369](https://nvd.nist.gov/vuln/detail/CVE-2026-119369) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
-| 2026-10-30 16:17:45 | [CVE-2026-119479](https://nvd.nist.gov/vuln/detail/CVE-2026-119479) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Crocoblock JetFormBuilde… |
-| 2026-10-30 16:17:50 | [CVE-2026-119699](https://nvd.nist.gov/vuln/detail/CVE-2026-119699) | Medium | 6.9 | WPGraphQL Smart Cache before 2.3.3 contains an uncontrolled resource consumption vulnerability that allows unauthentica… |
-| 2026-10-30 16:17:50 | [CVE-2026-119700](https://nvd.nist.gov/vuln/detail/CVE-2026-119700) | Medium | 6.9 | WPGraphQL before 2.24.2 contains an information disclosure vulnerability that allows unauthenticated attackers to deter… |
-| 2026-10-30 16:17:50 | [CVE-2026-119701](https://nvd.nist.gov/vuln/detail/CVE-2026-119701) | Medium | 6.9 | WPGraphQL before 2.24.1 contains a missing rate limiting vulnerability that allows unauthenticated attackers to flood p… |
-| 2026-10-30 16:17:50 | [CVE-2026-119702](https://nvd.nist.gov/vuln/detail/CVE-2026-119702) | Medium | 6.9 | WPGraphQL before 2.24.1 contains a missing authorization vulnerability in the createComment mutation that allows unauth… |
-| 2026-10-30 16:17:51 | [CVE-2026-119703](https://nvd.nist.gov/vuln/detail/CVE-2026-119703) | Medium | 6.3 | xiaozhi-esp32-server through 0.9.8 contains an authentication bypass vulnerability in WebSocketServer._handle_auth that… |
-| 2026-10-30 16:17:51 | [CVE-2026-119704](https://nvd.nist.gov/vuln/detail/CVE-2026-119704) | Medium | 5.3 | Bastille through 1.4.4 contains a symlink following vulnerability in the cp.sh, rcp.sh and jcp.sh subcommands that allo… |
-| 2026-10-30 16:17:51 | [CVE-2026-119705](https://nvd.nist.gov/vuln/detail/CVE-2026-119705) | Medium | 6.9 | SerpBear before 3.1.1 contains a missing authentication vulnerability in pages/api/notify.ts that allows remote unauthe… |
-| 2026-10-30 16:17:51 | [CVE-2026-119706](https://nvd.nist.gov/vuln/detail/CVE-2026-119706) | Critical | 9.3 | InternLM LMDeploy 0.9.0 through 0.18.0 contains an unauthenticated remote code execution vulnerability that allows remo… |
-| 2026-10-30 16:17:51 | [CVE-2026-119707](https://nvd.nist.gov/vuln/detail/CVE-2026-119707) | High | 7.1 | SonicJS through 3.0.0 contains a missing authorization vulnerability in the /api/:collection and /api/content write rou… |
-| 2026-10-30 16:17:53 | [CVE-2026-119708](https://nvd.nist.gov/vuln/detail/CVE-2026-119708) | High | 7.1 | abp-next-admin 10.4.0 through 10.7.0 contains a cross-tenant authorization bypass in the BlobManagement download-by-nam… |
-| 2026-10-30 16:17:53 | [CVE-2026-119709](https://nvd.nist.gov/vuln/detail/CVE-2026-119709) | Medium | 6.9 | Grimoire before 1.0.0 contains an unauthenticated server-side request forgery vulnerability in the /api/fetch-metadata… |
-| 2026-10-30 16:17:54 | [CVE-2026-119710](https://nvd.nist.gov/vuln/detail/CVE-2026-119710) | High | 7.1 | PipesHub 0.3.0 before 0.10.0 contains an event type injection vulnerability that allows authenticated users with only t… |
-| 2026-10-30 16:17:54 | [CVE-2026-119711](https://nvd.nist.gov/vuln/detail/CVE-2026-119711) | Medium | 6.9 | PipesHub before 0.10.0 contains a rate limit bypass vulnerability in getClientIp() that allows unauthenticated attacker… |
-| 2026-10-30 16:17:54 | [CVE-2026-119712](https://nvd.nist.gov/vuln/detail/CVE-2026-119712) | Medium | 5.3 | PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allow… |
-| 2026-10-30 16:17:54 | [CVE-2026-119713](https://nvd.nist.gov/vuln/detail/CVE-2026-119713) | High | 8.7 | Paperclip 2026.403.0 before 2026.416.0 contains a remote code execution vulnerability that allows agent API key holders… |
-| 2026-10-30 16:17:54 | [CVE-2026-119714](https://nvd.nist.gov/vuln/detail/CVE-2026-119714) | Medium | 6.9 | My Calendar WordPress plugin 3.8.8 before 3.8.11 contains a shortcode injection vulnerability that allows unauthenticat… |
-| 2026-10-30 16:17:54 | [CVE-2026-119715](https://nvd.nist.gov/vuln/detail/CVE-2026-119715) | Medium | 5.3 | NocoDB before 2026.08.0 contains a clickjacking vulnerability that allows any origin to frame the authenticated interfa… |
-| 2026-10-30 16:17:55 | [CVE-2026-119716](https://nvd.nist.gov/vuln/detail/CVE-2026-119716) | Critical | 9.2 | pybars3 through 0.9.7 contains a code injection vulnerability in pybars/_compiler.py that allows template authors to ex… |
-| 2026-10-30 16:17:55 | [CVE-2026-119717](https://nvd.nist.gov/vuln/detail/CVE-2026-119717) | Critical | 9.2 | pybars4 through 0.9.13 contains a code injection vulnerability in pybars/_compiler.py that allows attackers to execute… |
-| 2026-10-30 16:17:55 | [CVE-2026-119718](https://nvd.nist.gov/vuln/detail/CVE-2026-119718) | High | 8.5 | Blender before 4.5.15 and 5.x before 5.2.3 contains a heap buffer overflow vulnerability caused by integer overflow in… |
-| 2026-10-30 16:17:55 | [CVE-2026-119719](https://nvd.nist.gov/vuln/detail/CVE-2026-119719) | High | 8.5 | Blender before 4.5.15 and 5.x before 5.2.3 contains a heap buffer overflow vulnerability in the blend file thumbnail ex… |
-| 2026-10-30 16:17:55 | [CVE-2026-119720](https://nvd.nist.gov/vuln/detail/CVE-2026-119720) | Medium | 6.8 | Blender before 4.5.15 and 5.x before 5.2.3 contains a heap out-of-bounds read vulnerability in read_file_dna() that rea… |
-| 2026-10-30 16:17:55 | [CVE-2026-119721](https://nvd.nist.gov/vuln/detail/CVE-2026-119721) | Medium | 6.9 | Blender before 4.5.15 and 5.x before 5.2.3 contains an out-of-bounds read vulnerability in blo_bhead_id_* accessors in… |
-| 2026-10-30 16:17:55 | [CVE-2026-119722](https://nvd.nist.gov/vuln/detail/CVE-2026-119722) | High | 8.5 | Blender before 4.5.15 and 5.x before 5.2.3 contains a heap out-of-bounds access vulnerability in read_struct() that ski… |
-| 2026-10-30 16:17:58 | [CVE-2026-62141](https://nvd.nist.gov/vuln/detail/CVE-2026-62141) | Medium | 5.4 | Missing Authorization vulnerability in WP ManageNinja LLC Fluent CRM fluent-crm allows Exploiting Incorrectly Configure… |
+| 2026-10-30 17:17:11 | [CVE-2025-49602](https://nvd.nist.gov/vuln/detail/CVE-2025-49602) |  |  | An issue was discovered in Keyfactor EJBCA 9. When an administrator is removed from its administrator role while having… |
+| 2026-10-30 17:17:12 | [CVE-2026-104623](https://nvd.nist.gov/vuln/detail/CVE-2026-104623) | Medium | 6.3 | A security vulnerability exists in the authorization handling for the local (management) cluster shell feature of SUSE… |
+| 2026-10-30 17:17:14 | [CVE-2026-112816](https://nvd.nist.gov/vuln/detail/CVE-2026-112816) | Critical | 10.0 | Improper certificate validation in the HTTPS listener in Canonical LXD 4.0.14, 5.0.10, 5.21.8, 6.9 before 4.0.15, 5.0.1… |
+| 2026-10-30 17:17:15 | [CVE-2026-115642](https://nvd.nist.gov/vuln/detail/CVE-2026-115642) | High | 8.3 | In OpenStack keystonemiddleware before 13.0.2, by supplying a custom X-Service-Token header in a request, anyone in pos… |
+| 2026-10-30 17:17:16 | [CVE-2026-119116](https://nvd.nist.gov/vuln/detail/CVE-2026-119116) | High | 8.7 | A use-after-free and double-free issue in the SetClient command handler of the kmstool-enclave sample application of AW… |
+| 2026-10-30 17:17:16 | [CVE-2026-119148](https://nvd.nist.gov/vuln/detail/CVE-2026-119148) | High | 8.2 | Incomplete string validation in AWS aws-nitro-enclaves-sdk-c before 0.4.6 may allow a third party to impersonate the AW… |
+| 2026-10-30 17:17:18 | [CVE-2026-119298](https://nvd.nist.gov/vuln/detail/CVE-2026-119298) | Medium | 4.2 | croc is a tool that allows any two computers to simply and securely transfer files and folders. Prior to 11.5.2, the re… |
+| 2026-10-30 17:17:18 | [CVE-2026-119299](https://nvd.nist.gov/vuln/detail/CVE-2026-119299) | Medium | 5.9 | gopacket provides packet processing capabilities for Go. Prior to 1.7.2, the SCTP chunk chain in layers/sctp.go passes… |
+| 2026-10-30 17:17:18 | [CVE-2026-119300](https://nvd.nist.gov/vuln/detail/CVE-2026-119300) | Medium | 6.5 | Wekan is open source kanban built with Meteor. Prior to 11.11, the user-search publication in server/publications/users… |
+| 2026-10-30 17:17:18 | [CVE-2026-119365](https://nvd.nist.gov/vuln/detail/CVE-2026-119365) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in bPlugins Media Pl… |
+| 2026-10-30 17:17:18 | [CVE-2026-119367](https://nvd.nist.gov/vuln/detail/CVE-2026-119367) | Medium | 5.4 | Missing Authorization vulnerability in Liquid Web / StellarWP The Events Calendar the-events-calendar allows Exploiting… |
+| 2026-10-30 17:17:19 | [CVE-2026-119466](https://nvd.nist.gov/vuln/detail/CVE-2026-119466) | Medium | 5.4 | Cross-Site Request Forgery (CSRF) vulnerability in WPExperts APIExperts Square for WooCommerce woosquare allows Cross S… |
+| 2026-10-30 17:17:23 | [CVE-2026-37468](https://nvd.nist.gov/vuln/detail/CVE-2026-37468) |  |  | Cross Site Scripting vulnerability in BeeHome MyBeeHome before 2025-11-01 allows a remote attacker to execute arbitrary… |
+| 2026-10-30 17:17:23 | [CVE-2026-39375](https://nvd.nist.gov/vuln/detail/CVE-2026-39375) | Medium | 5.1 | Frappe Learning Management System (LMS) is a learning system that helps users structure their content. Prior to version… |
+| 2026-10-30 17:17:25 | [CVE-2026-50000](https://nvd.nist.gov/vuln/detail/CVE-2026-50000) | Medium | 5.0 | SecureDrop is an open-source whistleblower submission system that media organizations can use to securely accept docume… |
+| 2026-10-30 17:17:25 | [CVE-2026-55551](https://nvd.nist.gov/vuln/detail/CVE-2026-55551) | Medium | 6.5 | ZAC is an open-source, workflow-based Common Ground component for Dutch municipal case management. Prior to 5.2.0, by-i… |
+| 2026-10-30 17:17:26 | [CVE-2026-61789](https://nvd.nist.gov/vuln/detail/CVE-2026-61789) | Medium | 6.1 | DBHub is a database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite. Prior to 0.22.6, read-only SQL… |
+| 2026-10-30 17:17:26 | [CVE-2026-61803](https://nvd.nist.gov/vuln/detail/CVE-2026-61803) | Medium | 5.3 | Frappe Learning Management System (LMS) is a learning system that helps users structure their content. Prior to version… |
+| 2026-10-30 17:17:27 | [CVE-2026-61804](https://nvd.nist.gov/vuln/detail/CVE-2026-61804) | High | 8.1 | myTinyWMS is a free, open-source warehouse management system. Prior to version 1.6.4, `Product (Artikel)` and `Category… |
+| 2026-10-30 17:17:27 | [CVE-2026-61805](https://nvd.nist.gov/vuln/detail/CVE-2026-61805) | Medium | 5.3 | Frappe Learning Management System (LMS) is a learning system that helps users structure their content. Prior to version… |
+| 2026-10-30 17:17:27 | [CVE-2026-61806](https://nvd.nist.gov/vuln/detail/CVE-2026-61806) | Medium | 5.3 | Frappe Learning Management System (LMS) is a learning system that helps users structure their content. Prior to version… |
+| 2026-10-30 17:17:27 | [CVE-2026-61826](https://nvd.nist.gov/vuln/detail/CVE-2026-61826) | Critical | 10.0 | Bazarr is a companion application to Sonarr and Radarr. Prior to 1.5.7-beta.14, the `api_ns_plex` namespace in `bazarr/… |
+| 2026-10-30 17:17:27 | [CVE-2026-62055](https://nvd.nist.gov/vuln/detail/CVE-2026-62055) | Medium | 4.3 | Missing Authorization vulnerability in Liquid Web / StellarWP Event Tickets event-tickets allows Exploiting Incorrectly… |
+| 2026-10-30 17:17:27 | [CVE-2026-65566](https://nvd.nist.gov/vuln/detail/CVE-2026-65566) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in Meow Apps AI Engine ai-engine allows Cross Site Request Forgery.This… |
 
 ## Data source
 
