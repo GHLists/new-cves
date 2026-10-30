@@ -9,40 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 01:19 UTC
+## Latest list — 2026-10-30 02:18 UTC
 
-New CVEs published between 2026-10-30 00:18 UTC and 2026-10-30 01:19 UTC.
+New CVEs published between 2026-10-30 01:19 UTC and 2026-10-30 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-30T01-19-14-954286Z.csv)
+[Full CSV](data/new-cves-2026-10-30T02-18-59-931411Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-30 01:16:43 | [CVE-2026-110133](https://nvd.nist.gov/vuln/detail/CVE-2026-110133) | Medium | 5.8 | A flaw was found in Ghostscript. When processing a specially crafted TrueType font or document embedding one, an accoun… |
-| 2026-10-30 01:16:43 | [CVE-2026-112602](https://nvd.nist.gov/vuln/detail/CVE-2026-112602) |  |  | An authorization issue was addressed with improved state management. This issue is fixed in Xcode 27.2. An app may be a… |
-| 2026-10-30 01:16:44 | [CVE-2026-112605](https://nvd.nist.gov/vuln/detail/CVE-2026-112605) |  |  | This issue was addressed with improved handling of symlinks. This issue is fixed in Xcode 27.2. An app may be able to r… |
-| 2026-10-30 01:16:44 | [CVE-2026-118947](https://nvd.nist.gov/vuln/detail/CVE-2026-118947) | Medium | 4.3 | A flaw was found in the UMA resource registration endpoint of the keycloak-services component, which provides the core… |
-| 2026-10-30 01:16:44 | [CVE-2026-118959](https://nvd.nist.gov/vuln/detail/CVE-2026-118959) | Medium | 5.4 | A flaw was found in the required action provider mechanism of Keycloak. The issue occurs when an authorization request… |
-| 2026-10-30 01:16:44 | [CVE-2026-119260](https://nvd.nist.gov/vuln/detail/CVE-2026-119260) |  |  | Use after free in Frames in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary code in… |
-| 2026-10-30 01:16:44 | [CVE-2026-119261](https://nvd.nist.gov/vuln/detail/CVE-2026-119261) |  |  | Improper input validation in Skia in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially exec… |
-| 2026-10-30 01:16:44 | [CVE-2026-119262](https://nvd.nist.gov/vuln/detail/CVE-2026-119262) |  |  | Improper input validation in V8 in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execut… |
-| 2026-10-30 01:16:45 | [CVE-2026-119263](https://nvd.nist.gov/vuln/detail/CVE-2026-119263) |  |  | Memory corruption in GarbageCollection in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially… |
-| 2026-10-30 01:16:45 | [CVE-2026-119264](https://nvd.nist.gov/vuln/detail/CVE-2026-119264) |  |  | Memory corruption in Dawn in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute arbi… |
-| 2026-10-30 01:16:45 | [CVE-2026-119265](https://nvd.nist.gov/vuln/detail/CVE-2026-119265) |  |  | Memory corruption in Quota in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute arb… |
-| 2026-10-30 01:16:45 | [CVE-2026-119266](https://nvd.nist.gov/vuln/detail/CVE-2026-119266) |  |  | Use after free in Quota in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute arbitr… |
-| 2026-10-30 01:16:45 | [CVE-2026-119267](https://nvd.nist.gov/vuln/detail/CVE-2026-119267) |  |  | Memory corruption in DOM in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute arbit… |
-| 2026-10-30 01:16:45 | [CVE-2026-119268](https://nvd.nist.gov/vuln/detail/CVE-2026-119268) |  |  | Integer overflow in Editing in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute ar… |
-| 2026-10-30 01:16:45 | [CVE-2026-119269](https://nvd.nist.gov/vuln/detail/CVE-2026-119269) |  |  | Use after free in Blink in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary code ins… |
-| 2026-10-30 01:16:45 | [CVE-2026-119270](https://nvd.nist.gov/vuln/detail/CVE-2026-119270) |  |  | Improper input validation in CacheStorage in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentia… |
-| 2026-10-30 01:16:46 | [CVE-2026-119271](https://nvd.nist.gov/vuln/detail/CVE-2026-119271) |  |  | Use after free in Skia in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary code insi… |
-| 2026-10-30 01:16:46 | [CVE-2026-119272](https://nvd.nist.gov/vuln/detail/CVE-2026-119272) |  |  | Out of bounds read in FileSystem in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to read memory insid… |
-| 2026-10-30 01:16:46 | [CVE-2026-76024](https://nvd.nist.gov/vuln/detail/CVE-2026-76024) |  |  | Memory corruption in MediaStream in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially read… |
-| 2026-10-30 01:16:46 | [CVE-2026-76025](https://nvd.nist.gov/vuln/detail/CVE-2026-76025) |  |  | Use after free in FileSystem in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary cod… |
-| 2026-10-30 01:16:47 | [CVE-2026-76026](https://nvd.nist.gov/vuln/detail/CVE-2026-76026) |  |  | Memory corruption in Autofill in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary co… |
-| 2026-10-30 01:16:47 | [CVE-2026-76027](https://nvd.nist.gov/vuln/detail/CVE-2026-76027) |  |  | Memory corruption in CacheStorage in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to read memory via… |
-| 2026-10-30 01:16:47 | [CVE-2026-76028](https://nvd.nist.gov/vuln/detail/CVE-2026-76028) |  |  | Use after free in FileSystem in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary cod… |
-| 2026-10-30 01:16:47 | [CVE-2026-76029](https://nvd.nist.gov/vuln/detail/CVE-2026-76029) |  |  | Memory corruption in Network in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execute a… |
-| 2026-10-30 01:16:47 | [CVE-2026-76030](https://nvd.nist.gov/vuln/detail/CVE-2026-76030) |  |  | Memory corruption in FileSystem in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to potentially execut… |
-| 2026-10-30 01:16:47 | [CVE-2026-76031](https://nvd.nist.gov/vuln/detail/CVE-2026-76031) |  |  | Use after free in Input in Google Chrome prior to 156.0.8078.79 allowed a remote attacker to execute arbitrary code ins… |
+| 2026-10-30 02:17:08 | [CVE-2026-112922](https://nvd.nist.gov/vuln/detail/CVE-2026-112922) | Low | 3.3 | A flaw was found in Ghostscript. A remote attacker could exploit this vulnerability by enticing a user to process a spe… |
+| 2026-10-30 02:17:08 | [CVE-2026-118475](https://nvd.nist.gov/vuln/detail/CVE-2026-118475) | Low | 3.6 | A flaw was found in Eye of GNOME. When parsing a specially crafted PNG image containing malformed color profile metadat… |
+| 2026-10-30 02:17:08 | [CVE-2026-15466](https://nvd.nist.gov/vuln/detail/CVE-2026-15466) |  |  | Software installed and run as a non-privileged user may conduct improper GPU system calls to cause race condition in ha… |
+| 2026-10-30 02:17:09 | [CVE-2026-18629](https://nvd.nist.gov/vuln/detail/CVE-2026-18629) |  |  | A web page that contains unusual GPU shader code is loaded into the GPU compiler process and can lead memory allocation… |
+| 2026-10-30 02:17:09 | [CVE-2026-19199](https://nvd.nist.gov/vuln/detail/CVE-2026-19199) |  |  | Software installed and run as a non-privileged user may conduct improper system calls to allocate physical memory. A 32… |
+| 2026-10-30 02:17:09 | [CVE-2026-65584](https://nvd.nist.gov/vuln/detail/CVE-2026-65584) |  |  | Software installed and run as a non-privileged user may conduct improper GPU system calls causing a stack overflow in t… |
+| 2026-10-30 02:17:09 | [CVE-2026-65586](https://nvd.nist.gov/vuln/detail/CVE-2026-65586) |  |  | Software installed and run as a non-privileged user may conduct improper GPU system calls to free memory in still in us… |
+| 2026-10-30 02:17:09 | [CVE-2026-65587](https://nvd.nist.gov/vuln/detail/CVE-2026-65587) |  |  | A web page that contains unusual WebGPU content loaded into the GPU GLES render process can trigger an OOB write in the… |
+| 2026-10-30 02:17:09 | [CVE-2026-74912](https://nvd.nist.gov/vuln/detail/CVE-2026-74912) |  |  | On GPU systems with the security vulnerability fix for CVE-2026-49746 applied, the mapping range of graphics buffers is… |
+| 2026-10-30 02:17:09 | [CVE-2026-74915](https://nvd.nist.gov/vuln/detail/CVE-2026-74915) |  |  | A web page that contains unusual WebGPU content loaded into the GPU GLES render process can trigger a OOB read and/or w… |
+| 2026-10-30 02:17:10 | [CVE-2026-91920](https://nvd.nist.gov/vuln/detail/CVE-2026-91920) | Medium | 6.5 | A flaw was found in the ChunkReader component of the Undertow web server, which is used to handle chunked transfer enco… |
 
 ## Data source
 
