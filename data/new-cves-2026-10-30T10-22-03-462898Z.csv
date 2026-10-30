@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-30T10:16:53.82Z,CVE-2026-14467,HIGH,8.2,Received,CWE-200,1,"An information disclosure vulnerability in the Forocoches comments editor that allows an attacker to obtain unauthorised user information by inserting an image containing a malicious external URL into a comment. When a victim views the discussion thread, their browser automatically sends an HTTP/HT…"
