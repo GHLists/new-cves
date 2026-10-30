@@ -9,30 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 22:19 UTC
+## Latest list — 2026-10-30 23:19 UTC
 
-New CVEs published between 2026-10-30 21:20 UTC and 2026-10-30 22:19 UTC.
+New CVEs published between 2026-10-30 22:19 UTC and 2026-10-30 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-30T22-19-42-855953Z.csv)
+[Full CSV](data/new-cves-2026-10-30T23-19-24-807881Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-30 22:16:53 | [CVE-2026-111578](https://nvd.nist.gov/vuln/detail/CVE-2026-111578) | High | 7.5 | The PDF Invoices & Packing Slips for WooCommerce WordPress plugin from 5.16.2 before 5.16.5 does not properly escape se… |
-| 2026-10-30 22:16:54 | [CVE-2026-118938](https://nvd.nist.gov/vuln/detail/CVE-2026-118938) | High | 8.8 | In Trail of Bits fickling through 0.1.12, a pickle STACK_GLOBAL operand carrying a dotted __qualname__ (for example "Va… |
-| 2026-10-30 22:16:54 | [CVE-2026-16760](https://nvd.nist.gov/vuln/detail/CVE-2026-16760) | High | 8.8 | In Trail of Bits fickling through 0.1.12, the _process_import() method in fickle.py adds an imported name to the likely… |
-| 2026-10-30 22:16:54 | [CVE-2026-55146](https://nvd.nist.gov/vuln/detail/CVE-2026-55146) | Medium | 4.3 | LORIS (Longitudinal Online Research and Imaging System) is a self-hosted web application that provides data- and projec… |
-| 2026-10-30 22:16:54 | [CVE-2026-55147](https://nvd.nist.gov/vuln/detail/CVE-2026-55147) | Medium | 6.3 | LORIS (Longitudinal Online Research and Imaging System) is a self-hosted web application that provides data- and projec… |
-| 2026-10-30 22:16:54 | [CVE-2026-55612](https://nvd.nist.gov/vuln/detail/CVE-2026-55612) | Low | 3.7 | uhttpd is a small HTTP server. In unpatched repository snapshots, `client_poll_post_data()` in `client.c` consumes an i… |
-| 2026-10-30 22:16:55 | [CVE-2026-55613](https://nvd.nist.gov/vuln/detail/CVE-2026-55613) | Medium | 6.9 | uhttpd is a small HTTP server. In unpatched repository snapshots, `uh_ubus_data_send()` in `ubus.c` can desynchronize H… |
-| 2026-10-30 22:16:55 | [CVE-2026-55614](https://nvd.nist.gov/vuln/detail/CVE-2026-55614) | Medium | 6.9 | uhttpd is a small HTTP server. In unpatched repository snapshots, `client_parse_header()` in `client.c` lowercases head… |
-| 2026-10-30 22:16:56 | [CVE-2026-62277](https://nvd.nist.gov/vuln/detail/CVE-2026-62277) | Medium | 6.5 | LubeLogger is a self-hosted, open-source, web-based vehicle maintenance and fuel mileage tracker. Prior to 1.6.8, `Prin… |
-| 2026-10-30 22:16:56 | [CVE-2026-62347](https://nvd.nist.gov/vuln/detail/CVE-2026-62347) | Medium | 5.9 | Element Call is a native Matrix video conferencing application. From 0.16.0 until 0.20.3, the standalone Element Call `… |
-| 2026-10-30 22:16:57 | [CVE-2026-63115](https://nvd.nist.gov/vuln/detail/CVE-2026-63115) | Medium | 5.3 | ActivityPub is a multi-tenant ActivityPub server for Ghost, built with Fedify. From 1.0.0 until 1.2.6, the `Undo` handl… |
-| 2026-10-30 22:16:58 | [CVE-2026-63121](https://nvd.nist.gov/vuln/detail/CVE-2026-63121) | Medium | 6.3 | Kubewarden policies is a collection of WebAssembly policies for securing and governing Kubernetes clusters. For version… |
-| 2026-10-30 22:16:58 | [CVE-2026-63182](https://nvd.nist.gov/vuln/detail/CVE-2026-63182) | High | 8.1 | LightSAML implements SAML 2.0 data model classes, XML serialization and deserialization, XML security, certificate supp… |
-| 2026-10-30 22:16:58 | [CVE-2026-63184](https://nvd.nist.gov/vuln/detail/CVE-2026-63184) | High | 7.1 | Refitter is a tool for generating a C# REST API client using the Refit library. Prior to 2.1.1, the `refitter` dotnet t… |
-| 2026-10-30 22:16:58 | [CVE-2026-63201](https://nvd.nist.gov/vuln/detail/CVE-2026-63201) | High | 7.1 | Netopeer2 is a server for implementing network configuration management based on the `NETCONF` Protocol. In affected ve… |
-| 2026-10-30 22:16:58 | [CVE-2026-63224](https://nvd.nist.gov/vuln/detail/CVE-2026-63224) | High | 7.2 | OpenRemote is an open-source internet-of-things platform. Prior to 1.26.0, the `datapoint export` API constructs `CSV c… |
+| 2026-10-30 23:17:09 | [CVE-2026-111477](https://nvd.nist.gov/vuln/detail/CVE-2026-111477) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-10-30 23:17:11 | [CVE-2026-61725](https://nvd.nist.gov/vuln/detail/CVE-2026-61725) | Medium | 6.1 | sevenz-rust2 is a Rust-native 7z compressor and `decompress`or. Prior to 0.21.1, extracting an attacker-supplied 7z arc… |
+| 2026-10-30 23:17:13 | [CVE-2026-63338](https://nvd.nist.gov/vuln/detail/CVE-2026-63338) | High | 8.3 | IXP Manager is a full-stack web application for managing Internet Exchange Points. Prior to version 7.3.0, an authentic… |
+| 2026-10-30 23:17:13 | [CVE-2026-63339](https://nvd.nist.gov/vuln/detail/CVE-2026-63339) | High | 8.8 | IXP Manager is a full-stack web application for managing Internet Exchange Points. Prior to version 7.3.0, an authentic… |
+| 2026-10-30 23:17:13 | [CVE-2026-63341](https://nvd.nist.gov/vuln/detail/CVE-2026-63341) | High | 7.5 | Aedes is an MQTT broker that can run on any stream server. Prior to 1.1.1, the MQTT broker does not bound topic depth o… |
+| 2026-10-30 23:17:13 | [CVE-2026-63344](https://nvd.nist.gov/vuln/detail/CVE-2026-63344) | High | 8.6 | Refitter is a tool for generating a C# REST API client using the Refit library. Prior to 2.1.2, content-type keys in th… |
+| 2026-10-30 23:17:13 | [CVE-2026-63345](https://nvd.nist.gov/vuln/detail/CVE-2026-63345) | High | 8.6 | Refitter is a tool for generating a C# REST API client using the Refit library. Prior to 2.1.2, OpenAPI `paths`-object… |
+| 2026-10-30 23:17:14 | [CVE-2026-63346](https://nvd.nist.gov/vuln/detail/CVE-2026-63346) | High | 8.6 | Refitter is a tool for generating a C# REST API client using the Refit library. Prior to 2.1.2, the header parameter na… |
+| 2026-10-30 23:17:14 | [CVE-2026-63377](https://nvd.nist.gov/vuln/detail/CVE-2026-63377) | Critical | 9.8 | TAKO AI Agent for Okta is a local-first AI agent that helps Okta administrators query tenant data using natural languag… |
+| 2026-10-30 23:17:14 | [CVE-2026-63378](https://nvd.nist.gov/vuln/detail/CVE-2026-63378) | High | 8.8 | TAKO AI Agent for Okta is a local-first AI agent that helps Okta administrators query tenant data using natural languag… |
+| 2026-10-30 23:17:14 | [CVE-2026-63393](https://nvd.nist.gov/vuln/detail/CVE-2026-63393) | High | 8.7 | OpenSearch SQL supports querying OpenSearch data using SQL and Piped Processing Language. In the 2.x line from 2.8.0.0… |
+| 2026-10-30 23:17:14 | [CVE-2026-63396](https://nvd.nist.gov/vuln/detail/CVE-2026-63396) | High | 8.7 | Coop is an open source review and moderation tool from ROOST. Prior to 1.0.0, an unauthenticated actor can query `Query… |
+| 2026-10-30 23:17:14 | [CVE-2026-63398](https://nvd.nist.gov/vuln/detail/CVE-2026-63398) | High | 7.4 | Coop is an open source review and moderation tool from ROOST. Prior to 1.0.2, the SAML strategy's verify callback resol… |
+| 2026-10-30 23:17:14 | [CVE-2026-63399](https://nvd.nist.gov/vuln/detail/CVE-2026-63399) | Medium | 6.9 | Coop is an open source review and moderation tool from ROOST. Prior to 1.0.0, the `GraphQL` `Mutation.createOrg` operat… |
+| 2026-10-30 23:17:15 | [CVE-2026-63400](https://nvd.nist.gov/vuln/detail/CVE-2026-63400) | Low | 2.3 | Coop is an open source review and moderation tool from ROOST. Prior to 1.0.2, `resetPasswordForToken` updates the passw… |
+| 2026-10-30 23:17:15 | [CVE-2026-63401](https://nvd.nist.gov/vuln/detail/CVE-2026-63401) | Medium | 5.3 | Coop is an open source review and moderation tool from ROOST. Prior to 1.0.2, `addAccessibleQueuesForUser` and `removeA… |
+| 2026-10-30 23:17:15 | [CVE-2026-63402](https://nvd.nist.gov/vuln/detail/CVE-2026-63402) | Medium | 5.9 | i18next is an internationalization framework for JavaScript. Prior to version 26.3.4, `deepExtend` in `src/utils.js` ch… |
+| 2026-10-30 23:17:15 | [CVE-2026-63410](https://nvd.nist.gov/vuln/detail/CVE-2026-63410) | Medium | 5.9 | secp256k1-native is a native C secp256k1 implementation for Ruby. In affected native builds, native constant-time scala… |
+| 2026-10-30 23:17:15 | [CVE-2026-63414](https://nvd.nist.gov/vuln/detail/CVE-2026-63414) | High | 7.6 | Shopify App is a Rails engine for building Shopify applications. From 22.1.0 until 23.0.3, `token-exchange` authenticat… |
 
 ## Data source
 
