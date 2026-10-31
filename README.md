@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 00:19 UTC
+## Latest list — 2026-10-31 01:19 UTC
 
-New CVEs published between 2026-10-30 23:19 UTC and 2026-10-31 00:19 UTC.
+New CVEs published between 2026-10-31 00:19 UTC and 2026-10-31 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T00-19-24-925043Z.csv)
+[Full CSV](data/new-cves-2026-10-31T01-19-04-779239Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 00:16:51 | [CVE-2026-117656](https://nvd.nist.gov/vuln/detail/CVE-2026-117656) | Critical | 9.3 | Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability in the Sign in with Apple strategy in pow-auth… |
-| 2026-10-31 00:16:51 | [CVE-2026-77152](https://nvd.nist.gov/vuln/detail/CVE-2026-77152) | Medium | 5.3 | Improper Authorization vulnerability in Drupal Field Collection for Drupal 7 allows a user with the "edit field collect… |
+| 2026-10-31 01:17:05 | [CVE-2026-110176](https://nvd.nist.gov/vuln/detail/CVE-2026-110176) | High | 8.7 | The File Force Download module for Drupal 7 implements hook_file_download() to add a Content-Disposition header when a… |
 
 ## Data source
 
