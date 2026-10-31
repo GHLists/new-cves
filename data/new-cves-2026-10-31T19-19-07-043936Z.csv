@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-10-31T19:16:47.213Z,CVE-2026-118147,HIGH,7.4,Awaiting Analysis,CWE-295,1,Improper certificate validation in Visual Studio allows an unauthorized attacker to perform spoofing over a network.
