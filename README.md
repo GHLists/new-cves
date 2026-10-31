@@ -9,41 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 07:18 UTC
+## Latest list — 2026-10-31 08:19 UTC
 
-New CVEs published between 2026-10-31 06:18 UTC and 2026-10-31 07:18 UTC.
+New CVEs published between 2026-10-31 07:18 UTC and 2026-10-31 08:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T07-18-14-077752Z.csv)
+[Full CSV](data/new-cves-2026-10-31T08-19-01-735639Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 07:16:32 | [CVE-2026-107653](https://nvd.nist.gov/vuln/detail/CVE-2026-107653) | High | 7.2 | The SureCart – Ecommerce Made Easy For Selling Physical Products, Digital Downloads, Subscriptions, Donations, & Paymen… |
-| 2026-10-31 07:16:33 | [CVE-2026-107750](https://nvd.nist.gov/vuln/detail/CVE-2026-107750) | High | 7.2 | The PDF Invoices & Packing Slips for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
-| 2026-10-31 07:16:34 | [CVE-2026-107765](https://nvd.nist.gov/vuln/detail/CVE-2026-107765) | Medium | 6.4 | The Discussion Board – WordPress Forum Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting in vers… |
-| 2026-10-31 07:16:34 | [CVE-2026-109217](https://nvd.nist.gov/vuln/detail/CVE-2026-109217) | Medium | 5.3 | The PDF Invoices & Packing Slips for WooCommerce plugin for WordPress is vulnerable to Sensitive Information Exposure i… |
-| 2026-10-31 07:16:34 | [CVE-2026-109220](https://nvd.nist.gov/vuln/detail/CVE-2026-109220) | Critical | 9.8 | The PDF Invoice for WooCommerce + Drag and Drop Template Builder plugin for WordPress is vulnerable to PHP Object Injec… |
-| 2026-10-31 07:16:34 | [CVE-2026-109386](https://nvd.nist.gov/vuln/detail/CVE-2026-109386) | Medium | 4.3 | The Hustle – Email Marketing, Lead Generation, Optins, Popups plugin for WordPress is vulnerable to authorization bypas… |
-| 2026-10-31 07:16:34 | [CVE-2026-110251](https://nvd.nist.gov/vuln/detail/CVE-2026-110251) | Medium | 5.4 | The Photo Reviews for WooCommerce plugin for WordPress is vulnerable to unauthorized Media Library File Deletion in all… |
-| 2026-10-31 07:16:34 | [CVE-2026-111109](https://nvd.nist.gov/vuln/detail/CVE-2026-111109) | Medium | 6.1 | The Webmention plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the Open Graph og:title meta tag o… |
-| 2026-10-31 07:16:34 | [CVE-2026-111254](https://nvd.nist.gov/vuln/detail/CVE-2026-111254) | High | 7.2 | The W3 Total Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'comment' parameter in all… |
-| 2026-10-31 07:16:35 | [CVE-2026-115840](https://nvd.nist.gov/vuln/detail/CVE-2026-115840) | High | 7.2 | The VikRentCar Car Rental Management System plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the '… |
-| 2026-10-31 07:16:35 | [CVE-2026-116522](https://nvd.nist.gov/vuln/detail/CVE-2026-116522) | High | 7.2 | The Relevanssi – A Better Search plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'comment' pa… |
-| 2026-10-31 07:16:35 | [CVE-2026-116546](https://nvd.nist.gov/vuln/detail/CVE-2026-116546) | Medium | 6.4 | The WP Job Portal – AI-Powered Recruitment System for Company or Job Board website plugin for WordPress is vulnerable t… |
-| 2026-10-31 07:16:35 | [CVE-2026-116548](https://nvd.nist.gov/vuln/detail/CVE-2026-116548) | High | 7.2 | The VikRentCar Car Rental Management System plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the '… |
-| 2026-10-31 07:16:35 | [CVE-2026-116557](https://nvd.nist.gov/vuln/detail/CVE-2026-116557) | Critical | 9.1 | The WP Booking System - Booking Calendar plugin for WordPress is vulnerable to unauthorized modification of data due to… |
-| 2026-10-31 07:16:36 | [CVE-2026-118070](https://nvd.nist.gov/vuln/detail/CVE-2026-118070) | High | 7.2 | The Welcart e-Commerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'gid' parameter in all… |
-| 2026-10-31 07:16:36 | [CVE-2026-119065](https://nvd.nist.gov/vuln/detail/CVE-2026-119065) | High | 7.2 | The Shipping Zones by Drawing for WooCommerce plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the… |
-| 2026-10-31 07:16:36 | [CVE-2026-119089](https://nvd.nist.gov/vuln/detail/CVE-2026-119089) | High | 7.2 | The ThirstyAffiliates – Affiliate Links, Link Branding, Link Tracking & Marketing Plugin plugin for WordPress is vulner… |
-| 2026-10-31 07:16:36 | [CVE-2026-119162](https://nvd.nist.gov/vuln/detail/CVE-2026-119162) | High | 7.2 | The User Submitted Posts – Enable Users to Submit Posts from the Front End plugin for WordPress is vulnerable to Stored… |
-| 2026-10-31 07:16:36 | [CVE-2026-119163](https://nvd.nist.gov/vuln/detail/CVE-2026-119163) | High | 7.5 | The FunnelKit Automations – Email Marketing Automation and CRM for WordPress & WooCommerce plugin for WordPress is vuln… |
-| 2026-10-31 07:16:36 | [CVE-2026-119166](https://nvd.nist.gov/vuln/detail/CVE-2026-119166) | Medium | 5.3 | The Welcart e-Commerce plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions up to, an… |
-| 2026-10-31 07:16:36 | [CVE-2026-119980](https://nvd.nist.gov/vuln/detail/CVE-2026-119980) | Medium | 6.5 | The UsersWP – Front-end login form, User Registration, User Profile & Members Directory plugin for WordPress is vulnera… |
-| 2026-10-31 07:16:37 | [CVE-2026-11396](https://nvd.nist.gov/vuln/detail/CVE-2026-11396) | Medium | 5.3 | The Product Filter for WooCommerce by WBW plugin for WordPress is vulnerable to Missing Authorization / Information Dis… |
-| 2026-10-31 07:16:37 | [CVE-2026-120019](https://nvd.nist.gov/vuln/detail/CVE-2026-120019) | Medium | 5.4 | The W3 Total Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'comment' parameter in all… |
-| 2026-10-31 07:16:37 | [CVE-2026-120040](https://nvd.nist.gov/vuln/detail/CVE-2026-120040) | High | 7.5 | The Mail logging & Catcher plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to,… |
-| 2026-10-31 07:16:37 | [CVE-2026-88942](https://nvd.nist.gov/vuln/detail/CVE-2026-88942) | Medium | 6.1 | The Product Filter for WooCommerce by WBW plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via 'wpf… |
-| 2026-10-31 07:16:37 | [CVE-2026-89270](https://nvd.nist.gov/vuln/detail/CVE-2026-89270) | Critical | 9.1 | The Popup Builder – Create highly converting, mobile friendly marketing popups. plugin for WordPress is vulnerable to a… |
-| 2026-10-31 07:16:37 | [CVE-2026-90960](https://nvd.nist.gov/vuln/detail/CVE-2026-90960) | Medium | 5.3 | The Seraphinite Accelerator plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to,… |
+| 2026-10-31 08:16:46 | [CVE-2025-11455](https://nvd.nist.gov/vuln/detail/CVE-2025-11455) | Medium | 4.3 | The Perfect Images plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability… |
+| 2026-10-31 08:16:47 | [CVE-2025-9462](https://nvd.nist.gov/vuln/detail/CVE-2025-9462) | Medium | 6.5 | The WP2LEADS plugin for WordPress is vulnerable to time-based SQL Injection via the ‘order’ parameter in all versions u… |
+| 2026-10-31 08:16:47 | [CVE-2026-103898](https://nvd.nist.gov/vuln/detail/CVE-2026-103898) | High | 8.1 | The Wp Social Login and Register Social Counter plugin for WordPress is vulnerable to Authentication Bypass in all vers… |
+| 2026-10-31 08:16:47 | [CVE-2026-103962](https://nvd.nist.gov/vuln/detail/CVE-2026-103962) | Medium | 6.1 | The User Frontend – Membership, User Registration, User Profile, User Directory & Content Restriction with Frontend Pos… |
+| 2026-10-31 08:16:47 | [CVE-2026-103997](https://nvd.nist.gov/vuln/detail/CVE-2026-103997) | Medium | 6.5 | The Redux Framework plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 4.… |
+| 2026-10-31 08:16:47 | [CVE-2026-104012](https://nvd.nist.gov/vuln/detail/CVE-2026-104012) | High | 8.8 | The Rox Appointment Booking – Appointment Booking Scheduling Solution plugin for WordPress is vulnerable to Privilege E… |
+| 2026-10-31 08:16:48 | [CVE-2026-107759](https://nvd.nist.gov/vuln/detail/CVE-2026-107759) | High | 7.2 | The WPO365 \| MICROSOFT 365 GRAPH MAILER plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'Subj… |
+| 2026-10-31 08:16:48 | [CVE-2026-110023](https://nvd.nist.gov/vuln/detail/CVE-2026-110023) | Medium | 5.9 | The WP Data Access – App Builder for Tables, Forms, Dashboards, Charts & Maps plugin for WordPress is vulnerable to Sen… |
+| 2026-10-31 08:16:48 | [CVE-2026-111070](https://nvd.nist.gov/vuln/detail/CVE-2026-111070) | Medium | 5.4 | The Content Pilot – Autoblogging & Affiliate Marketing Suite plugin for WordPress is vulnerable to Stored Cross-Site Sc… |
+| 2026-10-31 08:16:48 | [CVE-2026-111592](https://nvd.nist.gov/vuln/detail/CVE-2026-111592) | Medium | 6.4 | The Co-Authors, Multiple Authors and Guest Authors in an Author Box with PublishPress Authors plugin for WordPress is v… |
+| 2026-10-31 08:16:48 | [CVE-2026-116512](https://nvd.nist.gov/vuln/detail/CVE-2026-116512) | Critical | 9.8 | The Project Manager – AI Powered Project Management, Task Management, Kanban Board & Time Tracker plugin for WordPress… |
+| 2026-10-31 08:16:48 | [CVE-2026-116535](https://nvd.nist.gov/vuln/detail/CVE-2026-116535) | Medium | 6.4 | The SEOPress – AI SEO Plugin & On-site SEO plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'd… |
+| 2026-10-31 08:16:48 | [CVE-2026-118057](https://nvd.nist.gov/vuln/detail/CVE-2026-118057) | High | 7.2 | The Shield Security – Smart Bot Blocking, Brute-Force Login Protection & File Scanning plugin for WordPress is vulnerab… |
+| 2026-10-31 08:16:49 | [CVE-2026-119096](https://nvd.nist.gov/vuln/detail/CVE-2026-119096) | Critical | 9.8 | The Uncanny Toolkit for LearnDash plugin for WordPress is vulnerable to Authentication Bypass in versions up to, and in… |
+| 2026-10-31 08:16:49 | [CVE-2026-120070](https://nvd.nist.gov/vuln/detail/CVE-2026-120070) | High | 8.8 | The User Frontend – Membership, User Registration, User Profile, User Directory & Content Restriction with Frontend Pos… |
 
 ## Data source
 
