@@ -9,26 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 09:19 UTC
+## Latest list — 2026-10-31 10:18 UTC
 
-New CVEs published between 2026-10-31 08:19 UTC and 2026-10-31 09:19 UTC.
+New CVEs published between 2026-10-31 09:19 UTC and 2026-10-31 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T09-19-29-540462Z.csv)
+[Full CSV](data/new-cves-2026-10-31T10-18-53-296156Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 09:16:32 | [CVE-2026-101325](https://nvd.nist.gov/vuln/detail/CVE-2026-101325) | Medium | 5.3 | The Newsletters plugin for WordPress is vulnerable to time-based SQL Injection via the 'id' parameter in all versions u… |
-| 2026-10-31 09:16:32 | [CVE-2026-103882](https://nvd.nist.gov/vuln/detail/CVE-2026-103882) | Critical | 9.1 | The Acadlix LMS – AI Quiz Maker, Online Exam & Course Plugin for WordPress plugin for WordPress is vulnerable to arbitr… |
-| 2026-10-31 09:16:32 | [CVE-2026-103915](https://nvd.nist.gov/vuln/detail/CVE-2026-103915) | Medium | 5.3 | The Booking for Appointments and Events Calendar – Amelia plugin for WordPress is vulnerable to Sensitive Information E… |
-| 2026-10-31 09:16:32 | [CVE-2026-109367](https://nvd.nist.gov/vuln/detail/CVE-2026-109367) | Medium | 5.3 | The All in One SEO – AI SEO Plugin to Boost SEO Rankings & Traffic (Schema, Local SEO, Sitemap & SEO Insights) plugin f… |
-| 2026-10-31 09:16:32 | [CVE-2026-110530](https://nvd.nist.gov/vuln/detail/CVE-2026-110530) | High | 7.2 | The FeedWordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting in versions up to, and including, 2… |
-| 2026-10-31 09:16:33 | [CVE-2026-114217](https://nvd.nist.gov/vuln/detail/CVE-2026-114217) | High | 8.6 | A flaw was found in konflux-ci. Continuous Integration (CI) automation scripts store sensitive GitHub access tokens in… |
-| 2026-10-31 09:16:33 | [CVE-2026-116086](https://nvd.nist.gov/vuln/detail/CVE-2026-116086) | High | 8.8 | A flaw was found in konflux-ci. An attacker with permission to trigger automated workflow runs can cause an information… |
-| 2026-10-31 09:16:33 | [CVE-2026-116964](https://nvd.nist.gov/vuln/detail/CVE-2026-116964) | High | 8.4 | A flaw was found in konflux-ci. An attacker with repository write access can achieve arbitrary code execution within th… |
-| 2026-10-31 09:16:33 | [CVE-2026-117681](https://nvd.nist.gov/vuln/detail/CVE-2026-117681) | High | 8.0 | A flaw was found in konflux-ci. This vulnerability allows privilege escalation when the user interface proxy automatica… |
-| 2026-10-31 09:16:33 | [CVE-2026-118235](https://nvd.nist.gov/vuln/detail/CVE-2026-118235) | Critical | 9.8 | The SimpleForm – Form Maker to Chat Apps with Quiz, Poll and Multi Lead Notifications plugin for WordPress is vulnerabl… |
-| 2026-10-31 09:16:33 | [CVE-2026-119160](https://nvd.nist.gov/vuln/detail/CVE-2026-119160) | Medium | 6.4 | The Smart Post – Post Grid, Post Carousel, Post Slider Gutenberg Blocks for Blog & News plugin for WordPress is vulnera… |
-| 2026-10-31 09:16:33 | [CVE-2026-120075](https://nvd.nist.gov/vuln/detail/CVE-2026-120075) | High | 7.2 | The WP Activity Log plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and includ… |
+| 2026-10-31 10:16:29 | [CVE-2026-100151](https://nvd.nist.gov/vuln/detail/CVE-2026-100151) | Medium | 6.1 | The Ninja Forms – Contact Form Builder with Calculators, Quizzes, Signatures & AI Form Builder plugin for WordPress is… |
+| 2026-10-31 10:16:36 | [CVE-2026-104926](https://nvd.nist.gov/vuln/detail/CVE-2026-104926) | Medium | 6.1 | The WooCommerce Extra Product Options Pro plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the… |
+| 2026-10-31 10:16:37 | [CVE-2026-107711](https://nvd.nist.gov/vuln/detail/CVE-2026-107711) | Medium | 6.4 | The FlexStock – Product Stock Sync with Google Sheets for WooCommerce plugin for WordPress is vulnerable to Stored Cros… |
+| 2026-10-31 10:16:37 | [CVE-2026-109197](https://nvd.nist.gov/vuln/detail/CVE-2026-109197) | High | 7.5 | The WP Directory Kit plugin for WordPress is vulnerable to generic SQL Injection via the 'idfield' parameter in all ver… |
+| 2026-10-31 10:16:37 | [CVE-2026-109231](https://nvd.nist.gov/vuln/detail/CVE-2026-109231) | Medium | 4.3 | The Germanized for WooCommerce plugin for WordPress is vulnerable to Unauthorized Access of Private Data via Activation… |
+| 2026-10-31 10:16:37 | [CVE-2026-116752](https://nvd.nist.gov/vuln/detail/CVE-2026-116752) | Medium | 6.4 | The GeoDirectory – WP Business Directory Plugin and Classified Listings Directory plugin for WordPress is vulnerable to… |
+| 2026-10-31 10:16:37 | [CVE-2026-118598](https://nvd.nist.gov/vuln/detail/CVE-2026-118598) | Medium | 6.5 | A logic error in Epiphany's site permission handling can cause camera and microphone access to be granted when the user… |
+| 2026-10-31 10:16:38 | [CVE-2026-118599](https://nvd.nist.gov/vuln/detail/CVE-2026-118599) | Medium | 5.5 | A file overwrite vulnerability exists in Epiphany when installing WebExtension packages from .xpi files. In src/webexte… |
+| 2026-10-31 10:16:38 | [CVE-2026-120114](https://nvd.nist.gov/vuln/detail/CVE-2026-120114) | High | 7.2 | The Debug Log Manager – Conveniently Monitor and Inspect Errors plugin for WordPress is vulnerable to Stored Cross-Site… |
+| 2026-10-31 10:16:38 | [CVE-2026-120194](https://nvd.nist.gov/vuln/detail/CVE-2026-120194) | High | 7.5 | A flaw was found in json-glib. The JSONPath slice evaluator used by json_path_query() can enter an infinite loop when g… |
+| 2026-10-31 10:16:38 | [CVE-2026-76010](https://nvd.nist.gov/vuln/detail/CVE-2026-76010) | High | 8.8 | The Photo Gallery, Sliders, Proofing and Themes – NextGEN Gallery plugin for WordPress is vulnerable to Remote Code Exe… |
+| 2026-10-31 10:16:38 | [CVE-2026-96554](https://nvd.nist.gov/vuln/detail/CVE-2026-96554) | Medium | 6.4 | The BuddyBoss Platform plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Group Name in all versions… |
 
 ## Data source
 
