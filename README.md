@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 15:19 UTC
+## Latest list — 2026-10-31 16:19 UTC
 
-New CVEs published between 2026-10-31 14:19 UTC and 2026-10-31 15:19 UTC.
+New CVEs published between 2026-10-31 15:19 UTC and 2026-10-31 16:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T15-19-34-905187Z.csv)
+[Full CSV](data/new-cves-2026-10-31T16-19-22-55099Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 15:16:53 | [CVE-2026-78188](https://nvd.nist.gov/vuln/detail/CVE-2026-78188) |  |  | WebDyne versions from 2.014 before 3.022 for Perl issue session cookies without the Secure, HttpOnly and SameSite attri… |
-| 2026-10-31 15:16:54 | [CVE-2026-78189](https://nvd.nist.gov/vuln/detail/CVE-2026-78189) |  |  | WebDyne versions from 3.007 before 3.022 for Perl execute .psp files outside the document root via path traversal in th… |
-| 2026-10-31 15:16:54 | [CVE-2026-78190](https://nvd.nist.gov/vuln/detail/CVE-2026-78190) |  |  | WebDyne versions from 2.014 before 3.022 for Perl reflect request parameters unescaped into form field values, allowing… |
-| 2026-10-31 15:16:54 | [CVE-2026-78191](https://nvd.nist.gov/vuln/detail/CVE-2026-78191) |  |  | WebDyne versions from 2.031 before 3.022 for Perl execute files with .psp anywhere in the name as Perl pages. WebDyne d… |
-| 2026-10-31 15:16:54 | [CVE-2026-78192](https://nvd.nist.gov/vuln/detail/CVE-2026-78192) |  |  | WebDyne versions from 2.022 before 3.022 for Perl disclose application source to unauthenticated clients via the viewer… |
+| 2026-10-31 16:16:52 | [CVE-2026-102212](https://nvd.nist.gov/vuln/detail/CVE-2026-102212) | High | 8.4 | Heap-based buffer overflow in Opengear IM72XX, CM71XX, and ACM70XX firmware versions 4.8.0 through 5.5.2 on console ser… |
 
 ## Data source
 
