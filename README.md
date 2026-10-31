@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 21:18 UTC
+## Latest list — 2026-10-31 23:18 UTC
 
-New CVEs published between 2026-10-31 20:18 UTC and 2026-10-31 21:18 UTC.
+New CVEs published between 2026-10-31 22:18 UTC and 2026-10-31 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T21-18-59-485954Z.csv)
+[Full CSV](data/new-cves-2026-10-31T23-18-08-689162Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 21:16:53 | [CVE-2026-118636](https://nvd.nist.gov/vuln/detail/CVE-2026-118636) | Critical | 9.8 | **UNSUPPORTED WHEN ASSIGNED** JavaNativeMessageDecoder in the MINA 3.0 codec module calls ObjectInputStream.readObject(… |
-| 2026-10-31 21:16:53 | [CVE-2026-120135](https://nvd.nist.gov/vuln/detail/CVE-2026-120135) | High | 8.2 | Uncontrolled Recursion vulnerability in Apache Thrift Java bindings. This issue affects Apache Thrift: before 0.24.0. U… |
+| 2026-10-31 23:17:11 | [CVE-2026-120185](https://nvd.nist.gov/vuln/detail/CVE-2026-120185) | Medium | 5.1 | A security flaw has been discovered in ken678 YznCMS up to 2.2.0. The affected element is the function Backend of the f… |
 
 ## Data source
 
