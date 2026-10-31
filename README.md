@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:19 UTC
+## Latest list — 2026-10-31 02:19 UTC
 
-New CVEs published between 2026-10-31 00:19 UTC and 2026-10-31 01:19 UTC.
+New CVEs published between 2026-10-31 01:19 UTC and 2026-10-31 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T01-19-04-779239Z.csv)
+[Full CSV](data/new-cves-2026-10-31T02-19-22-950918Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 01:17:05 | [CVE-2026-110176](https://nvd.nist.gov/vuln/detail/CVE-2026-110176) | High | 8.7 | The File Force Download module for Drupal 7 implements hook_file_download() to add a Content-Disposition header when a… |
+| 2026-10-31 02:17:33 | [CVE-2026-116755](https://nvd.nist.gov/vuln/detail/CVE-2026-116755) | High | 7.4 | Improper Neutralization of Special Elements used in a Command ('Command Injection') in the Orchestrator component of So… |
 
 ## Data source
 
