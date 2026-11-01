@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 23:18 UTC
+## Latest list — 2026-11-01 00:18 UTC
 
-New CVEs published between 2026-10-31 22:18 UTC and 2026-10-31 23:18 UTC.
+New CVEs published between 2026-10-31 23:18 UTC and 2026-11-01 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-10-31T23-18-08-689162Z.csv)
+[Full CSV](data/new-cves-2026-11-01T00-18-26-874273Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-10-31 23:17:11 | [CVE-2026-120185](https://nvd.nist.gov/vuln/detail/CVE-2026-120185) | Medium | 5.1 | A security flaw has been discovered in ken678 YznCMS up to 2.2.0. The affected element is the function Backend of the f… |
+| 2026-11-01 00:16:34 | [CVE-2026-115946](https://nvd.nist.gov/vuln/detail/CVE-2026-115946) |  |  | XS::libbrotli versions before 1.2.1.0 for Perl bundle a brotli library with an out-of-bounds write in the decoder. Affe… |
 
 ## Data source
 
