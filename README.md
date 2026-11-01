@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:19 UTC
+## Latest list — 2026-11-01 07:18 UTC
 
-New CVEs published between 2026-11-01 04:18 UTC and 2026-11-01 05:19 UTC.
+New CVEs published between 2026-11-01 06:19 UTC and 2026-11-01 07:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-01T05-19-55-985307Z.csv)
+[Full CSV](data/new-cves-2026-11-01T07-18-08-606012Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-01 04:18:46 | [CVE-2026-120195](https://nvd.nist.gov/vuln/detail/CVE-2026-120195) | Critical | 9.3 | A security vulnerability has been detected in WAVLINK WL-WN579A3-A 2026-03-10-94f93d4. The impacted element is the func… |
-| 2026-11-01 04:18:46 | [CVE-2026-120196](https://nvd.nist.gov/vuln/detail/CVE-2026-120196) | High | 8.6 | A vulnerability was detected in WAVLINK WN579X3-D V250402. This affects the function port_forward of the file /cgi-bin/… |
-| 2026-11-01 04:18:47 | [CVE-2026-120197](https://nvd.nist.gov/vuln/detail/CVE-2026-120197) | High | 8.6 | A flaw has been found in WAVLINK WL-WN530HG4B M_V260724. This impacts the function port_forward of the file /cgi-bin/wa… |
+| 2026-11-01 07:17:14 | [CVE-2026-120217](https://nvd.nist.gov/vuln/detail/CVE-2026-120217) | Low | 2.1 | A vulnerability was detected in Delgan loguru 0.7.3. The affected element is the function AnsiParser.feed of the file l… |
+| 2026-11-01 07:17:26 | [CVE-2026-120218](https://nvd.nist.gov/vuln/detail/CVE-2026-120218) | Low | 2.0 | A flaw has been found in Typemill up to 2.26.0. The impacted element is the function ControllerApiImage::saveImage of t… |
 
 ## Data source
 
