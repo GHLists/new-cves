@@ -9,15 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:18 UTC
+## Latest list — 2026-11-01 05:19 UTC
 
-New CVEs published between 2026-11-01 01:19 UTC and 2026-11-01 02:18 UTC.
+New CVEs published between 2026-11-01 04:18 UTC and 2026-11-01 05:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-01T02-18-11-865947Z.csv)
+[Full CSV](data/new-cves-2026-11-01T05-19-55-985307Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-01 02:16:59 | [CVE-2026-120192](https://nvd.nist.gov/vuln/detail/CVE-2026-120192) | Medium | 5.5 | A security vulnerability has been detected in Presenton up to 0.9.11-beta. This affects an unknown part of the file /ap… |
+| 2026-11-01 04:18:46 | [CVE-2026-120195](https://nvd.nist.gov/vuln/detail/CVE-2026-120195) | Critical | 9.3 | A security vulnerability has been detected in WAVLINK WL-WN579A3-A 2026-03-10-94f93d4. The impacted element is the func… |
+| 2026-11-01 04:18:46 | [CVE-2026-120196](https://nvd.nist.gov/vuln/detail/CVE-2026-120196) | High | 8.6 | A vulnerability was detected in WAVLINK WN579X3-D V250402. This affects the function port_forward of the file /cgi-bin/… |
+| 2026-11-01 04:18:47 | [CVE-2026-120197](https://nvd.nist.gov/vuln/detail/CVE-2026-120197) | High | 8.6 | A flaw has been found in WAVLINK WL-WN530HG4B M_V260724. This impacts the function port_forward of the file /cgi-bin/wa… |
 
 ## Data source
 
