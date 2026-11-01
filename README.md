@@ -9,15 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 21:18 UTC
+## Latest list — 2026-11-01 22:18 UTC
 
-New CVEs published between 2026-11-01 20:18 UTC and 2026-11-01 21:18 UTC.
+New CVEs published between 2026-11-01 21:18 UTC and 2026-11-01 22:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-01T21-18-11-978608Z.csv)
+[Full CSV](data/new-cves-2026-11-01T22-18-28-733238Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-01 21:17:08 | [CVE-2026-120274](https://nvd.nist.gov/vuln/detail/CVE-2026-120274) | Medium | 5.1 | A vulnerability was identified in beecue FastBee up to 2.1.0. Affected by this issue is some unknown functionality of t… |
+| 2026-11-01 22:17:46 | [CVE-2026-82115](https://nvd.nist.gov/vuln/detail/CVE-2026-82115) | Medium | 6.3 | Missing authorization in Apache Wicket. org.apache.wicket.protocol.ws.api.WebSocketMessageBroadcastHandler, the request… |
+| 2026-11-01 22:17:46 | [CVE-2026-82557](https://nvd.nist.gov/vuln/detail/CVE-2026-82557) | Medium | 6.9 | Missing authorization in Apache Wicket. org.apache.wicket.markup.html.form.Form resolves the component that submitted a… |
+| 2026-11-01 22:17:47 | [CVE-2026-82558](https://nvd.nist.gov/vuln/detail/CVE-2026-82558) | Low | 2.3 | Missing authorization in Apache Wicket. org.apache.wicket.protocol.ws.api.WebSocketBehavior, through which Wicket's nat… |
+| 2026-11-01 22:17:47 | [CVE-2026-82559](https://nvd.nist.gov/vuln/detail/CVE-2026-82559) | Low | 2.3 | Insufficient session expiration in Apache Wicket. org.apache.wicket.protocol.ws.WebSocketSettings#newWebSocketRequest()… |
+| 2026-11-01 22:17:47 | [CVE-2026-82704](https://nvd.nist.gov/vuln/detail/CVE-2026-82704) | Medium | 6.9 | Missing authorization in Apache Wicket. org.apache.wicket.core.request.handler.ListenerRequestHandler invokes an IReque… |
+| 2026-11-01 22:17:47 | [CVE-2026-82705](https://nvd.nist.gov/vuln/detail/CVE-2026-82705) | Medium | 6.3 | Missing authorization in Apache Wicket. org.apache.wicket.authorization.IAuthorizationStrategy declares isResourceAutho… |
+| 2026-11-01 22:17:48 | [CVE-2026-82840](https://nvd.nist.gov/vuln/detail/CVE-2026-82840) | High | 7.2 | Session fixation in Apache Wicket. org.apache.wicket.authroles.authentication.AuthenticatedWebSession is the authentica… |
+| 2026-11-01 22:17:48 | [CVE-2026-82898](https://nvd.nist.gov/vuln/detail/CVE-2026-82898) | Low | 2.1 | Incorrect order of security checks in Apache Wicket. org.apache.wicket.protocol.http.ResourceIsolationRequestCycleListe… |
 
 ## Data source
 
