@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 17:18 UTC
+## Latest list — 2026-11-01 18:18 UTC
 
-New CVEs published between 2026-11-01 16:18 UTC and 2026-11-01 17:18 UTC.
+New CVEs published between 2026-11-01 17:18 UTC and 2026-11-01 18:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-01T17-18-12-762116Z.csv)
+[Full CSV](data/new-cves-2026-11-01T18-18-13-228205Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-01 17:16:33 | [CVE-2026-120236](https://nvd.nist.gov/vuln/detail/CVE-2026-120236) | Low | 2.1 | A vulnerability was detected in ag-ui-protocol ag-ui up to 0.0.58. Affected by this vulnerability is an unknown functio… |
-| 2026-11-01 17:16:34 | [CVE-2026-74759](https://nvd.nist.gov/vuln/detail/CVE-2026-74759) |  |  | Google::Auth versions 0.12 for Perl allow server side request forgery via unvalidated credential_source URLs in AWS ext… |
-| 2026-11-01 17:16:34 | [CVE-2026-74760](https://nvd.nist.gov/vuln/detail/CVE-2026-74760) |  |  | Google::Auth versions from 0.11 through 0.12 for Perl accept an authorization code from any local process because the g… |
+| 2026-11-01 18:17:13 | [CVE-2026-120237](https://nvd.nist.gov/vuln/detail/CVE-2026-120237) | Low | 2.1 | A flaw has been found in ag-ui-protocol ag-ui up to 0.0.58. Affected by this issue is the function isInterruptExpired o… |
+| 2026-11-01 18:17:13 | [CVE-2026-120238](https://nvd.nist.gov/vuln/detail/CVE-2026-120238) | High | 8.6 | A vulnerability has been found in WAVLINK WN553X1-B 260403_2.0.0. This affects the function sub_4162A8 of the file /bin… |
+| 2026-11-01 18:17:13 | [CVE-2026-120239](https://nvd.nist.gov/vuln/detail/CVE-2026-120239) | High | 8.6 | A vulnerability was found in WAVLINK WN553X1-B V260403_2.0.0. This vulnerability affects the function sub_419DA8 of the… |
 
 ## Data source
 
