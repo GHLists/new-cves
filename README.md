@@ -9,22 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 22:18 UTC
+## Latest list — 2026-11-01 23:18 UTC
 
-New CVEs published between 2026-11-01 21:18 UTC and 2026-11-01 22:18 UTC.
+New CVEs published between 2026-11-01 22:18 UTC and 2026-11-01 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-01T22-18-28-733238Z.csv)
+[Full CSV](data/new-cves-2026-11-01T23-18-59-21002Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-01 22:17:46 | [CVE-2026-82115](https://nvd.nist.gov/vuln/detail/CVE-2026-82115) | Medium | 6.3 | Missing authorization in Apache Wicket. org.apache.wicket.protocol.ws.api.WebSocketMessageBroadcastHandler, the request… |
-| 2026-11-01 22:17:46 | [CVE-2026-82557](https://nvd.nist.gov/vuln/detail/CVE-2026-82557) | Medium | 6.9 | Missing authorization in Apache Wicket. org.apache.wicket.markup.html.form.Form resolves the component that submitted a… |
-| 2026-11-01 22:17:47 | [CVE-2026-82558](https://nvd.nist.gov/vuln/detail/CVE-2026-82558) | Low | 2.3 | Missing authorization in Apache Wicket. org.apache.wicket.protocol.ws.api.WebSocketBehavior, through which Wicket's nat… |
-| 2026-11-01 22:17:47 | [CVE-2026-82559](https://nvd.nist.gov/vuln/detail/CVE-2026-82559) | Low | 2.3 | Insufficient session expiration in Apache Wicket. org.apache.wicket.protocol.ws.WebSocketSettings#newWebSocketRequest()… |
-| 2026-11-01 22:17:47 | [CVE-2026-82704](https://nvd.nist.gov/vuln/detail/CVE-2026-82704) | Medium | 6.9 | Missing authorization in Apache Wicket. org.apache.wicket.core.request.handler.ListenerRequestHandler invokes an IReque… |
-| 2026-11-01 22:17:47 | [CVE-2026-82705](https://nvd.nist.gov/vuln/detail/CVE-2026-82705) | Medium | 6.3 | Missing authorization in Apache Wicket. org.apache.wicket.authorization.IAuthorizationStrategy declares isResourceAutho… |
-| 2026-11-01 22:17:48 | [CVE-2026-82840](https://nvd.nist.gov/vuln/detail/CVE-2026-82840) | High | 7.2 | Session fixation in Apache Wicket. org.apache.wicket.authroles.authentication.AuthenticatedWebSession is the authentica… |
-| 2026-11-01 22:17:48 | [CVE-2026-82898](https://nvd.nist.gov/vuln/detail/CVE-2026-82898) | Low | 2.1 | Incorrect order of security checks in Apache Wicket. org.apache.wicket.protocol.http.ResourceIsolationRequestCycleListe… |
+| 2026-11-01 23:17:28 | [CVE-2026-111089](https://nvd.nist.gov/vuln/detail/CVE-2026-111089) | High | 7.6 | Apache Wicket reads texts from the application's resource bundles — a localized label, a css class name — and writes so… |
+| 2026-11-01 23:17:28 | [CVE-2026-120275](https://nvd.nist.gov/vuln/detail/CVE-2026-120275) | Medium | 5.1 | A security flaw has been discovered in Shanghai Xi Yu Ji Zhi Technology Minimax Code 0.5.8. This affects an unknown par… |
+| 2026-11-01 23:17:29 | [CVE-2026-82956](https://nvd.nist.gov/vuln/detail/CVE-2026-82956) | High | 7.6 | Improper neutralization of input during web page generation in Apache Wicket. org.apache.wicket.ajax.AjaxNewWindowNotif… |
+| 2026-11-01 23:17:29 | [CVE-2026-83539](https://nvd.nist.gov/vuln/detail/CVE-2026-83539) | High | 7.4 | Improper neutralization of input during web page generation in Apache Wicket. org.apache.wicket.extensions.markup.html.… |
+| 2026-11-01 23:17:29 | [CVE-2026-83559](https://nvd.nist.gov/vuln/detail/CVE-2026-83559) | High | 7.4 | Improper encoding or escaping of output in Apache Wicket. org.apache.wicket.core.util.string.JavaScriptUtils#escapeQuot… |
+| 2026-11-01 23:17:29 | [CVE-2026-83594](https://nvd.nist.gov/vuln/detail/CVE-2026-83594) | High | 8.3 | Memory allocation with an excessive size value in Apache Wicket. org.apache.wicket.markup.html.form.upload.resource.Fil… |
+| 2026-11-01 23:17:29 | [CVE-2026-84170](https://nvd.nist.gov/vuln/detail/CVE-2026-84170) | High | 8.3 | Allocation of resources without limits or throttling in Apache Wicket. org.apache.wicket.markup.html.form.upload.resour… |
+| 2026-11-01 23:17:30 | [CVE-2026-84172](https://nvd.nist.gov/vuln/detail/CVE-2026-84172) | Medium | 6.3 | Files accessible to external parties in Apache Wicket. org.apache.wicket.markup.html.PackageResourceGuard decides wheth… |
+| 2026-11-01 23:17:30 | [CVE-2026-84177](https://nvd.nist.gov/vuln/detail/CVE-2026-84177) | Medium | 6.3 | Incorrect behavior order in Apache Wicket: a file path is validated before the framework appends the attributes that co… |
+| 2026-11-01 23:17:30 | [CVE-2026-84231](https://nvd.nist.gov/vuln/detail/CVE-2026-84231) | High | 7.4 | Improper neutralization of input during web page generation in Apache Wicket. org.apache.wicket.markup.html.link.Extern… |
+| 2026-11-01 23:17:30 | [CVE-2026-87718](https://nvd.nist.gov/vuln/detail/CVE-2026-87718) | Low | 2.3 | Apache Wicket 10.10.0, 10.11.0 and 9.24.0 do not set the Content-Security-Policy headers on a page whose render request… |
+| 2026-11-01 23:17:30 | [CVE-2026-95863](https://nvd.nist.gov/vuln/detail/CVE-2026-95863) | High | 7.6 | Improper neutralization of input during web page generation in Apache Wicket. Apache Wicket generates JavaScript that r… |
 
 ## Data source
 
