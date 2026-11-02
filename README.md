@@ -9,28 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 13:23 UTC
+## Latest list — 2026-11-02 14:18 UTC
 
-New CVEs published between 2026-11-02 12:18 UTC and 2026-11-02 13:23 UTC.
+New CVEs published between 2026-11-02 13:23 UTC and 2026-11-02 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T13-23-12-066426Z.csv)
+[Full CSV](data/new-cves-2026-11-02T14-18-08-665331Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 13:17:29 | [CVE-2024-12141](https://nvd.nist.gov/vuln/detail/CVE-2024-12141) | Medium | 4.3 | The product fails to sufficiently validate callback URLs, allowing them to be manipulated with malicious payloads when… |
-| 2026-11-02 13:17:35 | [CVE-2026-111560](https://nvd.nist.gov/vuln/detail/CVE-2026-111560) | High | 8.6 | Improper neutralization of shell metacharacters in the timezone configuration field in certain Barracuda appliance prod… |
-| 2026-11-02 13:17:37 | [CVE-2026-116606](https://nvd.nist.gov/vuln/detail/CVE-2026-116606) | Critical | 9.3 | An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated… |
-| 2026-11-02 13:17:39 | [CVE-2026-91903](https://nvd.nist.gov/vuln/detail/CVE-2026-91903) | Medium | 6.1 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Limitation of a Pathname to a Restricted Dire… |
-| 2026-11-02 13:17:39 | [CVE-2026-91904](https://nvd.nist.gov/vuln/detail/CVE-2026-91904) | Medium | 5.5 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Incorrect Permission Assignment for Critical Resource… |
-| 2026-11-02 13:17:40 | [CVE-2026-91905](https://nvd.nist.gov/vuln/detail/CVE-2026-91905) | Medium | 6.4 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Verification of Cryptographic Signature vulne… |
-| 2026-11-02 13:17:40 | [CVE-2026-91906](https://nvd.nist.gov/vuln/detail/CVE-2026-91906) | Medium | 5.5 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Incorrect Permission Assignment for Critical Resource… |
-| 2026-11-02 13:17:40 | [CVE-2026-91907](https://nvd.nist.gov/vuln/detail/CVE-2026-91907) | Medium | 6.8 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of Input During Web Page Gener… |
-| 2026-11-02 13:17:40 | [CVE-2026-91908](https://nvd.nist.gov/vuln/detail/CVE-2026-91908) | Medium | 5.7 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Verification of Cryptographic Signature vulne… |
-| 2026-11-02 13:17:40 | [CVE-2026-91909](https://nvd.nist.gov/vuln/detail/CVE-2026-91909) | Medium | 4.6 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of Argument Delimiters in a Co… |
-| 2026-11-02 13:17:40 | [CVE-2026-91910](https://nvd.nist.gov/vuln/detail/CVE-2026-91910) | Medium | 5.7 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Limitation of a Pathname to a Restricted Dire… |
-| 2026-11-02 13:17:40 | [CVE-2026-91911](https://nvd.nist.gov/vuln/detail/CVE-2026-91911) | Medium | 6.1 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Limitation of a Pathname to a Restricted Dire… |
-| 2026-11-02 13:17:41 | [CVE-2026-92886](https://nvd.nist.gov/vuln/detail/CVE-2026-92886) | High | 7.8 | Missing Authorization vulnerability in TÜBİTAK BİLGEM Software Technologies Research Institute eta-register allows Priv… |
-| 2026-11-02 13:17:41 | [CVE-2026-94349](https://nvd.nist.gov/vuln/detail/CVE-2026-94349) | High | 8.0 | Dell OpenManage Enterprise, versions prior to 4.8.0, contains an Improper Neutralization of Special Elements used in an… |
+| 2026-11-02 14:17:32 | [CVE-2026-102801](https://nvd.nist.gov/vuln/detail/CVE-2026-102801) | Medium | 5.1 | Joomla Extension - regularlabs.com - Exposure of Sensitive Information to Unauthorized Actor in Users Anywhere extensio… |
+| 2026-11-02 14:17:34 | [CVE-2026-102802](https://nvd.nist.gov/vuln/detail/CVE-2026-102802) | High | 8.9 | Joomla Extension - regularlabs.com - PHP code injection vector in Sourcerer extension < 17.0.1 when used with Articles… |
+| 2026-11-02 14:17:34 | [CVE-2026-103419](https://nvd.nist.gov/vuln/detail/CVE-2026-103419) | High | 8.6 | Joomla Extension - joomshaper.com - Stored Cross-Site Scripting (XSS) in Media Picker in Helix Ultimate < 2.2.11. |
+| 2026-11-02 14:17:34 | [CVE-2026-103420](https://nvd.nist.gov/vuln/detail/CVE-2026-103420) | High | 7.2 | Joomla Extension - php-web-design.com - CSRF for various actions in StageIt 1.0-5.7.5, 6.0-6.3.5 |
+| 2026-11-02 14:17:34 | [CVE-2026-105600](https://nvd.nist.gov/vuln/detail/CVE-2026-105600) | High | 8.6 | Joomla Extension - php-web-design.com - RCE via setting strings in StageIt 1.0-5.7.5, 6.0-6.3.5 |
+| 2026-11-02 14:17:34 | [CVE-2026-105601](https://nvd.nist.gov/vuln/detail/CVE-2026-105601) | Medium | 5.3 | Joomla Extension - php-web-design.com - Reflected XSS in StageIt 1.0-5.7.5, 6.0-6.3.5 |
+| 2026-11-02 14:17:34 | [CVE-2026-105602](https://nvd.nist.gov/vuln/detail/CVE-2026-105602) | High | 8.6 | Joomla Extension - joomshaper.com - Stored Cross-Site Scripting (XSS) in Mega Menu Badge Text in Helix Ultimate < 2.2.1… |
+| 2026-11-02 14:17:35 | [CVE-2026-109083](https://nvd.nist.gov/vuln/detail/CVE-2026-109083) |  |  | Improper isolation or compartmentalization vulnerability in Apache Syncope. An administrator with adequate entitlements… |
+| 2026-11-02 14:17:35 | [CVE-2026-110535](https://nvd.nist.gov/vuln/detail/CVE-2026-110535) |  |  | Improper Privilege Management vulnerability in Apache Syncope. AuthProfile self-updates allow non-admin users to config… |
+| 2026-11-02 14:17:35 | [CVE-2026-111959](https://nvd.nist.gov/vuln/detail/CVE-2026-111959) |  |  | Out-of-bounds read vulnerability in Apache Arrow Rust (`arrow` crate), from version 33.0.0 through to versions 57.3.1,… |
+| 2026-11-02 14:17:35 | [CVE-2026-113511](https://nvd.nist.gov/vuln/detail/CVE-2026-113511) |  |  | Authorization bypass through User-Controlled key vulnerability in Apache Syncope. A delegated administrator can relocat… |
+| 2026-11-02 14:17:35 | [CVE-2026-113687](https://nvd.nist.gov/vuln/detail/CVE-2026-113687) |  |  | Improper isolation or compartmentalization vulnerability in Apache Syncope. An administrator with adequate entitlements… |
+| 2026-11-02 14:17:35 | [CVE-2026-114364](https://nvd.nist.gov/vuln/detail/CVE-2026-114364) |  |  | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Apache Syncope. T… |
+| 2026-11-02 14:17:36 | [CVE-2026-120463](https://nvd.nist.gov/vuln/detail/CVE-2026-120463) | Medium | 6.0 | Warracker before 1.0.4 contains a missing authorization vulnerability in its Paperless-ngx integration that allows an a… |
+| 2026-11-02 14:17:37 | [CVE-2026-74993](https://nvd.nist.gov/vuln/detail/CVE-2026-74993) | High | 7.5 | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Starnet Computer… |
 
 ## Data source
 
