@@ -9,20 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 22:19 UTC
+## Latest list — 2026-11-02 23:18 UTC
 
-New CVEs published between 2026-11-02 21:18 UTC and 2026-11-02 22:19 UTC.
+New CVEs published between 2026-11-02 22:19 UTC and 2026-11-02 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T22-19-47-81616Z.csv)
+[Full CSV](data/new-cves-2026-11-02T23-18-19-787026Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 22:17:18 | [CVE-2026-115215](https://nvd.nist.gov/vuln/detail/CVE-2026-115215) | High | 8.7 | In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, the NetX Secure DTLS server allocates a session from it… |
-| 2026-11-02 22:17:18 | [CVE-2026-115403](https://nvd.nist.gov/vuln/detail/CVE-2026-115403) | High | 8.2 | In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, built with BSD raw socket and IPv6 support, the IPv6 ra… |
-| 2026-11-02 22:17:19 | [CVE-2026-116635](https://nvd.nist.gov/vuln/detail/CVE-2026-116635) | Medium | 6.9 | Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MC… |
-| 2026-11-02 22:17:20 | [CVE-2026-120091](https://nvd.nist.gov/vuln/detail/CVE-2026-120091) | High | 8.7 | Temporal Server compiles a Worker Controller Instance module, go.temporal.io/auto-scaled-workers, into its Worker Servi… |
-| 2026-11-02 22:17:21 | [CVE-2026-120740](https://nvd.nist.gov/vuln/detail/CVE-2026-120740) | Low | 2.0 | A flaw was found in hivex. By supplying a specially crafted Windows registry hive file, an attacker can trigger an out-… |
-| 2026-11-02 22:17:23 | [CVE-2026-86596](https://nvd.nist.gov/vuln/detail/CVE-2026-86596) | Critical | 9.8 | The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, <= 26092… |
+| 2026-11-02 23:17:19 | [CVE-2026-111565](https://nvd.nist.gov/vuln/detail/CVE-2026-111565) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-02 23:17:19 | [CVE-2026-120597](https://nvd.nist.gov/vuln/detail/CVE-2026-120597) | Low | 2.1 | A vulnerability was identified in Welcart e-Commerce Plugin up to 2.12.6 on WordPress. This affects the function ESCOTT… |
+| 2026-11-02 23:17:20 | [CVE-2026-120752](https://nvd.nist.gov/vuln/detail/CVE-2026-120752) | High | 7.7 | PyMuPDF 1.25.3 before 2.0 contains a stack-based buffer overflow vulnerability in JM_set_annot_callout_line() that copi… |
+| 2026-11-02 23:17:21 | [CVE-2026-71450](https://nvd.nist.gov/vuln/detail/CVE-2026-71450) | High | 8.7 | Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO Neo EC and CW Edge Co… |
 
 ## Data source
 
