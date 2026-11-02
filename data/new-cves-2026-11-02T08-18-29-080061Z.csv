@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-02T08:17:34.237Z,CVE-2026-101178,MEDIUM,6.6,Received,CWE-200,2,Permission control vulnerability in the autofill service module. Impact: Successful exploitation of this vulnerability may affect service confidentiality.
+2026-11-02T08:17:35.8Z,CVE-2026-101184,MEDIUM,5.5,Received,CWE-264,2,Permission control vulnerability in the Bluetooth module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T08:17:35.927Z,CVE-2026-103310,MEDIUM,5.3,Received,,1,"The PayHere Payment Gateway WordPress plugin from 2.4.0 through 2.4.5 does not verify the authenticity of payment notifications when the merchant secret is unset, which is the default state, allowing unauthenticated attackers to forge a payment confirmation and mark any order as paid without paymen…"
+2026-11-02T08:17:36.083Z,CVE-2026-18199,HIGH,8.8,Received,CWE-78,1,Zohocorp ManageEngine Password Manager Pro versions before 13236 and PAM360 versions before 8601 are vulnerable to an authenticated Remote Code Execution vulnerability.
