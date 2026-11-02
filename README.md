@@ -9,25 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 11:18 UTC
+## Latest list — 2026-11-02 12:18 UTC
 
-New CVEs published between 2026-11-02 10:18 UTC and 2026-11-02 11:18 UTC.
+New CVEs published between 2026-11-02 11:18 UTC and 2026-11-02 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T11-18-13-553543Z.csv)
+[Full CSV](data/new-cves-2026-11-02T12-18-13-081594Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 11:17:28 | [CVE-2024-2372](https://nvd.nist.gov/vuln/detail/CVE-2024-2372) | Medium | 5.4 | The affected components accept user-supplied input for constructing redirection URLs without enforcing expected validat… |
-| 2026-11-02 11:17:30 | [CVE-2025-12544](https://nvd.nist.gov/vuln/detail/CVE-2025-12544) | Medium | 4.8 | The Publisher portal fails to enforce proper validation on uploaded SVG files, allowing users with the Publisher role t… |
-| 2026-11-02 11:17:30 | [CVE-2026-117518](https://nvd.nist.gov/vuln/detail/CVE-2026-117518) | High | 8.2 | @fastify/reply-from is a Fastify plugin that forwards requests to an upstream HTTP server. In versions up to and includ… |
-| 2026-11-02 11:17:30 | [CVE-2026-117531](https://nvd.nist.gov/vuln/detail/CVE-2026-117531) | Medium | 5.9 | @fastify/multipart is the multipart form-data and file upload plugin for the Fastify web framework. In versions 5.3.0 t… |
-| 2026-11-02 11:17:30 | [CVE-2026-117549](https://nvd.nist.gov/vuln/detail/CVE-2026-117549) | Medium | 4.2 | @fastify/secure-session is a session plugin for Fastify that stores an encrypted session in a cookie. In versions 7.5.0… |
-| 2026-11-02 11:17:31 | [CVE-2026-120213](https://nvd.nist.gov/vuln/detail/CVE-2026-120213) | Critical | 9.1 | @fastify/http-proxy is a Fastify plugin that proxies HTTP requests to an upstream server under a configured prefix. In… |
-| 2026-11-02 11:17:31 | [CVE-2026-120214](https://nvd.nist.gov/vuln/detail/CVE-2026-120214) | Medium | 5.9 | @fastify/http-proxy is a Fastify plugin that proxies HTTP requests to an upstream server under a configured prefix. In… |
-| 2026-11-02 11:17:31 | [CVE-2026-120215](https://nvd.nist.gov/vuln/detail/CVE-2026-120215) | Low | 3.7 | @fastify/cors is the CORS plugin for the Fastify web framework. In versions 8.2.0 through 11.3.x, an application that r… |
-| 2026-11-02 11:17:31 | [CVE-2026-120216](https://nvd.nist.gov/vuln/detail/CVE-2026-120216) | Medium | 5.9 | fastify is a web framework for Node.js. In versions 5.8.0 through 5.12.7, when the server is configured with a nonzero… |
-| 2026-11-02 11:17:31 | [CVE-2026-2613](https://nvd.nist.gov/vuln/detail/CVE-2026-2613) | High | 8.7 | The Admin REST API accepts user-supplied input without adequately sanitizing it, allowing it to be included in the stru… |
-| 2026-11-02 11:17:33 | [CVE-2026-8923](https://nvd.nist.gov/vuln/detail/CVE-2026-8923) | High | 8.7 | Zohocorp ManageEngine Eventlog Analyzer and ManageEngine Log360 versions before 13062 are vulnerable to Authenticated R… |
+| 2026-11-02 12:16:57 | [CVE-2024-9517](https://nvd.nist.gov/vuln/detail/CVE-2024-9517) | Medium | 4.9 | The refresh token grant type in WSO2 products fails to re-validate account status before issuing new access tokens. Thi… |
+| 2026-11-02 12:16:58 | [CVE-2026-100140](https://nvd.nist.gov/vuln/detail/CVE-2026-100140) | Low | 1.9 | An integer overflow vulnerability in the Qt XML parsing (Qt5Compat / QXmlSimpleReader) functionality of Qt. |
 
 ## Data source
 
