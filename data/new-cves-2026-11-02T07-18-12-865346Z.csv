@@ -1,0 +1,17 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-02T07:18:01.477Z,CVE-2026-101170,MEDIUM,4.0,Received,CWE-115,3,DoS vulnerability in the file parsing module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:01.777Z,CVE-2026-101171,LOW,3.6,Received,CWE-264,3,Permission control vulnerability in the background task management module. Impact: Successful exploitation of this vulnerability may affect service integrity.
+2026-11-02T07:18:01.973Z,CVE-2026-101172,MEDIUM,6.2,Received,CWE-264,4,Permission control vulnerability in the graphics module. Impact: Successful exploitation of this vulnerability may affect confidentiality.
+2026-11-02T07:18:02.137Z,CVE-2026-101173,MEDIUM,6.5,Received,CWE-400,2,DoS vulnerability in the DSoftBus module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:02.273Z,CVE-2026-101174,MEDIUM,5.7,Received,CWE-400,3,DoS vulnerability in the DSoftBus module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:02.42Z,CVE-2026-101175,MEDIUM,4.3,Received,CWE-248,3,Null pointer dereference vulnerability in the ArkWeb module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:02.577Z,CVE-2026-101176,HIGH,7.1,Received,CWE-264,2,Permission control vulnerability in the event notification management module. Impact: Successful exploitation of this vulnerability may affect service confidentiality.
+2026-11-02T07:18:02.7Z,CVE-2026-101177,LOW,3.7,Received,CWE-264,1,Permission control vulnerability in the Optimizer module. Impact: Successful exploitation of this vulnerability may affect service confidentiality.
+2026-11-02T07:18:02.83Z,CVE-2026-101179,MEDIUM,4.7,Received,CWE-19,3,Buffer overflow vulnerability in the file preview module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:02.97Z,CVE-2026-101180,MEDIUM,4.3,Received,CWE-674,3,DoS vulnerability in the file parsing module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:03.097Z,CVE-2026-101181,MEDIUM,5.5,Received,CWE-200,4,Permission control vulnerability in the WLAN module. Impact: Successful exploitation of this vulnerability may affect service confidentiality.
+2026-11-02T07:18:03.22Z,CVE-2026-101182,MEDIUM,5.9,Received,CWE-362,3,Race condition vulnerability in the location service module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:03.36Z,CVE-2026-101183,MEDIUM,5.9,Received,CWE-416,4,UAF vulnerability in the location service module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:03.483Z,CVE-2026-101185,MEDIUM,5.9,Received,CWE-805,1,OOB read vulnerability in the peripheral module. Impact: Successful exploitation of this vulnerability may affect service confidentiality.
+2026-11-02T07:18:03.617Z,CVE-2026-101186,HIGH,7.5,Received,CWE-19,3,DoS vulnerability in the window module. Impact: Successful exploitation of this vulnerability may affect availability.
+2026-11-02T07:18:03.843Z,CVE-2026-120349,MEDIUM,5.5,Received,CWE-74; CWE-94,5,A security flaw has been discovered in dayrui XunRuiCMS up to 4.7.4. Affected by this issue is the function str_replace of the file /var/www/html/zzmob/index.php of the component Mobile Site Directory. The manipulation of the argument dirname results in code injection. The attack can be launched re…
