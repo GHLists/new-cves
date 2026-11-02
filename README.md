@@ -9,33 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 21:18 UTC
+## Latest list — 2026-11-02 22:19 UTC
 
-New CVEs published between 2026-11-02 20:18 UTC and 2026-11-02 21:18 UTC.
+New CVEs published between 2026-11-02 21:18 UTC and 2026-11-02 22:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T21-18-35-073913Z.csv)
+[Full CSV](data/new-cves-2026-11-02T22-19-47-81616Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 21:17:22 | [CVE-2026-105475](https://nvd.nist.gov/vuln/detail/CVE-2026-105475) | High | 8.7 | Improper neutralization of a NUL byte in cPanel allows remote attackers to read any mail account's calendar and contact… |
-| 2026-11-02 21:17:22 | [CVE-2026-105476](https://nvd.nist.gov/vuln/detail/CVE-2026-105476) |  |  | Improper link resolution before file access in cPanel allows remote authenticated users to write arbitrary root-owned f… |
-| 2026-11-02 21:17:24 | [CVE-2026-116766](https://nvd.nist.gov/vuln/detail/CVE-2026-116766) | High | 8.3 | CVE-2026-116766 is an improper input handling vulnerability in the Secure Access server versions between 13.0 and prior… |
-| 2026-11-02 21:17:25 | [CVE-2026-116767](https://nvd.nist.gov/vuln/detail/CVE-2026-116767) | High | 7.1 | CVE-2026-116767 is an improper input handling vulnerability in Secure Access servers prior to 14.61. Authenticated atta… |
-| 2026-11-02 21:17:25 | [CVE-2026-116768](https://nvd.nist.gov/vuln/detail/CVE-2026-116768) | High | 7.1 | CVE-2026-116768 is a missing length validation vulnerability in Secure Access servers prior to 14.61. Authenticated att… |
-| 2026-11-02 21:17:25 | [CVE-2026-116958](https://nvd.nist.gov/vuln/detail/CVE-2026-116958) | Medium | 6.7 | A flaw was found in konflux-ci. This vulnerability allows arbitrary code execution due to improper quoting of shell var… |
-| 2026-11-02 21:17:30 | [CVE-2026-120503](https://nvd.nist.gov/vuln/detail/CVE-2026-120503) | Low | 1.9 | A vulnerability was detected in EchoHS GeekezBrowser up to 1.7.2/1.8.0. This affects an unknown part of the file /api/s… |
-| 2026-11-02 21:17:30 | [CVE-2026-16305](https://nvd.nist.gov/vuln/detail/CVE-2026-16305) |  |  | Local privilege escalation in `SmartUpdate.exe` and `SmartExecute.exe` in INFINITT Healthcare Co., Ltd. INFINITT PACS a… |
-| 2026-11-02 21:17:31 | [CVE-2026-29508](https://nvd.nist.gov/vuln/detail/CVE-2026-29508) | High | 8.7 | ReadyMedia (formerly MiniDLNA) versions 1.3.0 through 1.3.3 contain a stack-based buffer overflow vulnerability that al… |
-| 2026-11-02 21:17:31 | [CVE-2026-49903](https://nvd.nist.gov/vuln/detail/CVE-2026-49903) |  |  | The `ClusterRenderingService.dump()` method, accessible to processes holding `android.permission.DUMP` and `android.per… |
-| 2026-11-02 21:17:31 | [CVE-2026-49906](https://nvd.nist.gov/vuln/detail/CVE-2026-49906) |  |  | An unprivileged application can bypass the `android.car.permission.CAR_DISPLAY_IN_CLUSTER` permission by registering an… |
-| 2026-11-02 21:17:35 | [CVE-2026-58873](https://nvd.nist.gov/vuln/detail/CVE-2026-58873) |  |  | In addDragDropListener of WindowManagerService.java, there is a possible permission bypass due to a missing permission… |
-| 2026-11-02 21:17:35 | [CVE-2026-58915](https://nvd.nist.gov/vuln/detail/CVE-2026-58915) |  |  | A physical occupant on an Android Automotive OS (AAOS) Multi-User Multi-Display (MUMD) passenger display can view sensi… |
-| 2026-11-02 21:17:35 | [CVE-2026-58924](https://nvd.nist.gov/vuln/detail/CVE-2026-58924) |  |  | The vulnerability is a heap out-of-bounds read in the EVS HAL's `getStreamList()` method. An attacker can craft a `Came… |
-| 2026-11-02 21:17:36 | [CVE-2026-58925](https://nvd.nist.gov/vuln/detail/CVE-2026-58925) |  |  | The report details a heap Use-After-Free (UAF) vulnerability within the `android.hardware.automotive.evs-default` HAL s… |
-| 2026-11-02 21:17:36 | [CVE-2026-58926](https://nvd.nist.gov/vuln/detail/CVE-2026-58926) |  |  | A Use-After-Free (UAF) vulnerability exists in the EVS HAL, allowing a privileged client to free a `buffer_handle_t` wh… |
-| 2026-11-02 21:17:36 | [CVE-2026-58927](https://nvd.nist.gov/vuln/detail/CVE-2026-58927) |  |  | The vulnerability is a Use-After-Free (UAF) in the EVS AIDL HAL, arising from a data race on an unsynchronized `std::we… |
-| 2026-11-02 21:17:36 | [CVE-2026-58930](https://nvd.nist.gov/vuln/detail/CVE-2026-58930) |  |  | An unprivileged application can exploit a lack of package/signature validation in SystemUI's `RemoteQCController` when… |
-| 2026-11-02 21:17:37 | [CVE-2026-58977](https://nvd.nist.gov/vuln/detail/CVE-2026-58977) |  |  | In is_valid_header of timed_cache_item.c, there is a possible out-of-bounds write due to a missing bounds check. This c… |
+| 2026-11-02 22:17:18 | [CVE-2026-115215](https://nvd.nist.gov/vuln/detail/CVE-2026-115215) | High | 8.7 | In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, the NetX Secure DTLS server allocates a session from it… |
+| 2026-11-02 22:17:18 | [CVE-2026-115403](https://nvd.nist.gov/vuln/detail/CVE-2026-115403) | High | 8.2 | In Eclipse ThreadX NetX Duo versions 6.0 through 6.5.2.202603a, built with BSD raw socket and IPv6 support, the IPv6 ra… |
+| 2026-11-02 22:17:19 | [CVE-2026-116635](https://nvd.nist.gov/vuln/detail/CVE-2026-116635) | Medium | 6.9 | Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MC… |
+| 2026-11-02 22:17:20 | [CVE-2026-120091](https://nvd.nist.gov/vuln/detail/CVE-2026-120091) | High | 8.7 | Temporal Server compiles a Worker Controller Instance module, go.temporal.io/auto-scaled-workers, into its Worker Servi… |
+| 2026-11-02 22:17:21 | [CVE-2026-120740](https://nvd.nist.gov/vuln/detail/CVE-2026-120740) | Low | 2.0 | A flaw was found in hivex. By supplying a specially crafted Windows registry hive file, an attacker can trigger an out-… |
+| 2026-11-02 22:17:23 | [CVE-2026-86596](https://nvd.nist.gov/vuln/detail/CVE-2026-86596) | Critical | 9.8 | The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, <= 26092… |
 
 ## Data source
 
