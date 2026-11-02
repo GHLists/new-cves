@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 08:18 UTC
+## Latest list — 2026-11-02 09:19 UTC
 
-New CVEs published between 2026-11-02 07:18 UTC and 2026-11-02 08:18 UTC.
+New CVEs published between 2026-11-02 08:18 UTC and 2026-11-02 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T08-18-29-080061Z.csv)
+[Full CSV](data/new-cves-2026-11-02T09-19-15-861311Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 08:17:34 | [CVE-2026-101178](https://nvd.nist.gov/vuln/detail/CVE-2026-101178) | Medium | 6.6 | Permission control vulnerability in the autofill service module. Impact: Successful exploitation of this vulnerability… |
-| 2026-11-02 08:17:35 | [CVE-2026-101184](https://nvd.nist.gov/vuln/detail/CVE-2026-101184) | Medium | 5.5 | Permission control vulnerability in the Bluetooth module. Impact: Successful exploitation of this vulnerability may aff… |
-| 2026-11-02 08:17:35 | [CVE-2026-103310](https://nvd.nist.gov/vuln/detail/CVE-2026-103310) | Medium | 5.3 | The PayHere Payment Gateway WordPress plugin from 2.4.0 through 2.4.5 does not verify the authenticity of payment notif… |
-| 2026-11-02 08:17:36 | [CVE-2026-18199](https://nvd.nist.gov/vuln/detail/CVE-2026-18199) | High | 8.8 | Zohocorp ManageEngine Password Manager Pro versions before 13236 and PAM360 versions before 8601 are vulnerable to an a… |
+| 2026-11-02 09:17:36 | [CVE-2026-107457](https://nvd.nist.gov/vuln/detail/CVE-2026-107457) | Low | 2.3 | A memory corruption vulnerability in the QMqttClient class of the Qt MQTT module. Under certain MQTT 5 connection setti… |
 
 ## Data source
 

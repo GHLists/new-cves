@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-02T09:17:36.43Z,CVE-2026-107457,LOW,2.3,Received,CWE-129; CWE-787,2,"A memory corruption vulnerability in the QMqttClient class of the Qt MQTT module. Under certain MQTT 5 connection settings between client and server, QMqttClient may corrupt memory, which can cause the application to crash."
