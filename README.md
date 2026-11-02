@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:19 UTC
+## Latest list — 2026-11-02 02:19 UTC
 
-New CVEs published between 2026-11-02 00:20 UTC and 2026-11-02 01:19 UTC.
+New CVEs published between 2026-11-02 01:19 UTC and 2026-11-02 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T01-19-33-416047Z.csv)
+[Full CSV](data/new-cves-2026-11-02T02-19-28-926191Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 01:17:26 | [CVE-2026-120279](https://nvd.nist.gov/vuln/detail/CVE-2026-120279) | Critical | 9.3 | A flaw has been found in WAVLINK WN536AX6-A V260507. The affected element is an unknown function of the file /protocol.… |
-| 2026-11-02 01:17:26 | [CVE-2026-120280](https://nvd.nist.gov/vuln/detail/CVE-2026-120280) | Critical | 9.3 | A vulnerability has been found in WAVLINK WN536AX6-A V260507. The impacted element is the function wireguard_cli_group… |
-| 2026-11-02 01:17:27 | [CVE-2026-120281](https://nvd.nist.gov/vuln/detail/CVE-2026-120281) | Critical | 9.3 | A vulnerability was found in WAVLINK WN536AX6-A V260507. This affects the function strcpy of the file /protocol.csp of… |
-| 2026-11-02 01:17:27 | [CVE-2026-120282](https://nvd.nist.gov/vuln/detail/CVE-2026-120282) | High | 8.6 | A vulnerability was determined in WAVLINK WN536AX6-A V260507. This impacts the function host_black of the file /protoco… |
-| 2026-11-02 01:17:27 | [CVE-2026-120283](https://nvd.nist.gov/vuln/detail/CVE-2026-120283) | Critical | 9.3 | A vulnerability was identified in Linksys E8450 1.2.00.360516. Affected is the function strcpy of the file /www/cgi-bin… |
+| 2026-11-02 02:18:47 | [CVE-2026-120319](https://nvd.nist.gov/vuln/detail/CVE-2026-120319) | Low | 2.1 | A vulnerability was found in Sanluan PublicCMS 4.x/5.x/6.x. This affects the function TradeRefundService.updateAmound o… |
+| 2026-11-02 02:18:47 | [CVE-2026-120320](https://nvd.nist.gov/vuln/detail/CVE-2026-120320) | Low | 2.0 | A vulnerability was determined in jxxghp MoviePilot up to 3.1.2. This vulnerability affects the function WorkflowExecut… |
+| 2026-11-02 02:18:47 | [CVE-2026-120322](https://nvd.nist.gov/vuln/detail/CVE-2026-120322) | High | 8.6 | A vulnerability was identified in Termix-SSH Termix up to 2.9.2. This issue affects some unknown processing of the file… |
+| 2026-11-02 02:18:47 | [CVE-2026-120323](https://nvd.nist.gov/vuln/detail/CVE-2026-120323) | Medium | 5.3 | A security flaw has been discovered in samanhappy MCPHub up to 1.0.45/1.1.7. Impacted is an unknown function of the fil… |
 
 ## Data source
 
