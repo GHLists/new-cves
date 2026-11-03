@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 02:18 UTC
+## Latest list — 2026-11-03 03:18 UTC
 
-New CVEs published between 2026-11-03 01:18 UTC and 2026-11-03 02:18 UTC.
+New CVEs published between 2026-11-03 02:18 UTC and 2026-11-03 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T02-18-22-793306Z.csv)
+[Full CSV](data/new-cves-2026-11-03T03-18-49-858179Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 02:16:52 | [CVE-2026-107441](https://nvd.nist.gov/vuln/detail/CVE-2026-107441) | High | 8.8 | An out-of-bounds write vulnerability in the CGI program of Zyxel GS1900-24E firmware versions through 2.90(AAHK.2)C0 co… |
-| 2026-11-03 02:16:53 | [CVE-2026-120831](https://nvd.nist.gov/vuln/detail/CVE-2026-120831) | Medium | 6.5 | A flaw was found in libslirp in if_output(). When moving a session from the fast queue to the batch queue, the code unl… |
-| 2026-11-03 02:16:53 | [CVE-2026-76955](https://nvd.nist.gov/vuln/detail/CVE-2026-76955) | High | 8.8 | A buffer overflow vulnerability in the zdp_wtp binary in Zyxel NWA110AX firmware versions through 7.12(ABTG.0)C0 could… |
+| 2026-11-03 03:16:42 | [CVE-2026-111464](https://nvd.nist.gov/vuln/detail/CVE-2026-111464) | Medium | 5.9 | The WP Fastest Cache plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and in… |
 
 ## Data source
 
