@@ -9,32 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 05:20 UTC
+## Latest list — 2026-11-03 06:18 UTC
 
-New CVEs published between 2026-11-03 04:18 UTC and 2026-11-03 05:20 UTC.
+New CVEs published between 2026-11-03 05:20 UTC and 2026-11-03 06:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T05-20-22-759077Z.csv)
+[Full CSV](data/new-cves-2026-11-03T06-18-19-23504Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 05:18:31 | [CVE-2026-120518](https://nvd.nist.gov/vuln/detail/CVE-2026-120518) | Critical | 9.1 | The BuddyPress XProfile Image Field plugin for WordPress is vulnerable to arbitrary file deletion in all versions up to… |
-| 2026-11-03 05:18:31 | [CVE-2026-120524](https://nvd.nist.gov/vuln/detail/CVE-2026-120524) | Medium | 6.4 | The News Kit Addons For Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'formData'… |
-| 2026-11-03 05:18:31 | [CVE-2026-120534](https://nvd.nist.gov/vuln/detail/CVE-2026-120534) | Critical | 9.8 | The Advanced Custom Fields: Extended PRO plugin for WordPress is vulnerable to Limited Code Injection in all versions u… |
-| 2026-11-03 05:18:32 | [CVE-2026-120538](https://nvd.nist.gov/vuln/detail/CVE-2026-120538) | High | 8.1 | The Easy Digital Downloads plugin for WordPress is vulnerable to authentication bypass leading to administrator account… |
-| 2026-11-03 05:18:32 | [CVE-2026-120544](https://nvd.nist.gov/vuln/detail/CVE-2026-120544) | Medium | 4.3 | The Academy LMS – AI Course Builder, Quizzes, Certificates & eLearning plugin for WordPress is vulnerable to Directory… |
-| 2026-11-03 05:18:32 | [CVE-2026-120551](https://nvd.nist.gov/vuln/detail/CVE-2026-120551) | Medium | 5.3 | The WP Compress – Instant Performance & Speed Optimization plugin for WordPress is vulnerable to authorization bypass i… |
-| 2026-11-03 05:18:32 | [CVE-2026-120552](https://nvd.nist.gov/vuln/detail/CVE-2026-120552) | Medium | 6.4 | The SEO Engine – Smart SEO with AI, Schema & Redirection for WordPress plugin for WordPress is vulnerable to Stored Cro… |
-| 2026-11-03 05:18:33 | [CVE-2026-120558](https://nvd.nist.gov/vuln/detail/CVE-2026-120558) | High | 7.2 | The Advanced Shipment Tracking for WooCommerce plugin for WordPress is vulnerable to SQL Injection via the `tracking_pr… |
-| 2026-11-03 05:18:33 | [CVE-2026-120559](https://nvd.nist.gov/vuln/detail/CVE-2026-120559) | High | 7.5 | The Contact Form Extender for Divi Builder plugin for WordPress is vulnerable to Arbitrary File Deletion due to insuffi… |
-| 2026-11-03 05:18:33 | [CVE-2026-120561](https://nvd.nist.gov/vuln/detail/CVE-2026-120561) | Medium | 5.3 | The JetFormBuilder — Dynamic Blocks Form Builder plugin for WordPress is vulnerable to unauthorized modification of dat… |
-| 2026-11-03 05:18:33 | [CVE-2026-120563](https://nvd.nist.gov/vuln/detail/CVE-2026-120563) | Medium | 4.9 | The WooCommerce Multilingual & Multicurrency with WPML plugin for WordPress is vulnerable to SQL Injection in all versi… |
-| 2026-11-03 05:18:33 | [CVE-2026-120574](https://nvd.nist.gov/vuln/detail/CVE-2026-120574) | High | 8.1 | The SureCart plugin for WordPress is vulnerable to unauthenticated account takeover in all versions up to, and includin… |
-| 2026-11-03 05:18:34 | [CVE-2026-120575](https://nvd.nist.gov/vuln/detail/CVE-2026-120575) | Medium | 6.4 | The Photo Engine (Media Organizer & Lightroom) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via th… |
-| 2026-11-03 05:18:34 | [CVE-2026-120577](https://nvd.nist.gov/vuln/detail/CVE-2026-120577) | High | 8.1 | The FluentCart A New Era of eCommerce – Faster, Lighter, and Simpler plugin for WordPress is vulnerable to arbitrary fi… |
-| 2026-11-03 05:18:34 | [CVE-2026-120578](https://nvd.nist.gov/vuln/detail/CVE-2026-120578) | Medium | 5.3 | The AI Alt Text Generator plugin for WordPress is vulnerable to authorization bypass in all versions up to, and includi… |
-| 2026-11-03 05:18:34 | [CVE-2026-120971](https://nvd.nist.gov/vuln/detail/CVE-2026-120971) | Medium | 5.3 | RESTEasy's default exception mapper returns an exception's localized message in the HTTP 500 response body when no appl… |
-| 2026-11-03 05:18:52 | [CVE-2026-77799](https://nvd.nist.gov/vuln/detail/CVE-2026-77799) | High | 7.4 | ManageEngine Key Manager Plus versions before 7150 are vulnerable to a Two-Factor Authentication bypass that allows att… |
-| 2026-11-03 05:18:52 | [CVE-2026-77800](https://nvd.nist.gov/vuln/detail/CVE-2026-77800) | High | 7.7 | ManageEngine Key Manager Plus versions before 7151 are vulnerable to a SAML authentication bypass that allows attackers… |
+| 2026-11-03 06:17:35 | [CVE-2026-103379](https://nvd.nist.gov/vuln/detail/CVE-2026-103379) |  |  | The WATI Chat and Notification WordPress plugin through 1.1.8 does not require a valid, non-empty secret on a public en… |
+| 2026-11-03 06:17:37 | [CVE-2026-104647](https://nvd.nist.gov/vuln/detail/CVE-2026-104647) |  |  | The weMail WordPress plugin through 2.1.6 does not correctly verify user capabilities in its REST API permission checks… |
+| 2026-11-03 06:17:37 | [CVE-2026-104648](https://nvd.nist.gov/vuln/detail/CVE-2026-104648) |  |  | The weMail WordPress plugin through 2.1.6 does not restrict a site-wide third-party email-service API key to administra… |
+| 2026-11-03 06:17:37 | [CVE-2026-105967](https://nvd.nist.gov/vuln/detail/CVE-2026-105967) |  |  | The Gallery for Social Photo WordPress plugin through 1.0.0.41 does not validate a user-supplied URL before using it to… |
+| 2026-11-03 06:17:37 | [CVE-2026-105993](https://nvd.nist.gov/vuln/detail/CVE-2026-105993) |  |  | The DT Directory Lite Addon WordPress plugin through 1.1 does not perform nonce or capability checks on its settings ha… |
+| 2026-11-03 06:17:37 | [CVE-2026-106004](https://nvd.nist.gov/vuln/detail/CVE-2026-106004) |  |  | The DT LMS WordPress plugin through 1.2 does not perform capability or nonce checks on one of its AJAX actions, allowin… |
+| 2026-11-03 06:17:37 | [CVE-2026-115205](https://nvd.nist.gov/vuln/detail/CVE-2026-115205) |  |  | The AZEXO Store Locator WordPress plugin through 1.4 does not have a capability check or any authorization control when… |
 
 ## Data source
 
