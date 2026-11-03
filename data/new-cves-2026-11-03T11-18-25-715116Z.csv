@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-03T11:16:52.13Z,CVE-2026-114442,,,Received,CWE-643,2,"Apache HertzBeat versions 1.7.1, 1.7.2, 1.7.3, 1.8.0, and 1.9.0 have incomplete XPath expression validation in the HTTP collector XML parsing path. An authenticated user with permission to create monitor templates can supply XPath expressions through metrics.aliasFields that are evaluated without t…"
