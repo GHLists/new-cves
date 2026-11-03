@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-03T07:17:19.267Z,CVE-2025-1397,MEDIUM,4.8,Received,CWE-862,1,"When utilizing JWT Bearer or SAML2 Bearer grant types, the system fails to validate the status of the Identity Provider (IDP) before issuing access tokens. This oversight permits tokens to be generated even when the associated IDP has been disabled. A malicious actor could leverage this vulnerabili…"
+2026-11-03T07:17:41.527Z,CVE-2025-5769,MEDIUM,6.1,Received,CWE-79,1,"The authentication endpoint does not properly encode user-supplied input before rendering it within the web page. This lack of output encoding allows an attacker to inject malicious JavaScript payloads into the authentication flow, which are then executed by the victim's browser. By exploiting this…"
+2026-11-03T07:18:21.527Z,CVE-2026-120987,,,Received,CWE-346,1,Whale Browser before 5.39.412.57 allows an attacker to bypass the iframe sandbox in a dual-tab environment.
