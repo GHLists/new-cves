@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 23:18 UTC
+## Latest list — 2026-11-03 00:20 UTC
 
-New CVEs published between 2026-11-02 22:19 UTC and 2026-11-02 23:18 UTC.
+New CVEs published between 2026-11-02 23:18 UTC and 2026-11-03 00:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-02T23-18-19-787026Z.csv)
+[Full CSV](data/new-cves-2026-11-03T00-20-05-883297Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-02 23:17:19 | [CVE-2026-111565](https://nvd.nist.gov/vuln/detail/CVE-2026-111565) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-02 23:17:19 | [CVE-2026-120597](https://nvd.nist.gov/vuln/detail/CVE-2026-120597) | Low | 2.1 | A vulnerability was identified in Welcart e-Commerce Plugin up to 2.12.6 on WordPress. This affects the function ESCOTT… |
-| 2026-11-02 23:17:20 | [CVE-2026-120752](https://nvd.nist.gov/vuln/detail/CVE-2026-120752) | High | 7.7 | PyMuPDF 1.25.3 before 2.0 contains a stack-based buffer overflow vulnerability in JM_set_annot_callout_line() that copi… |
-| 2026-11-02 23:17:21 | [CVE-2026-71450](https://nvd.nist.gov/vuln/detail/CVE-2026-71450) | High | 8.7 | Authentication bypass using an alternate path or channel vulnerability in Johnson Controls EasyIO Neo EC and CW Edge Co… |
+| 2026-11-03 00:17:18 | [CVE-2026-120830](https://nvd.nist.gov/vuln/detail/CVE-2026-120830) | High | 7.4 | A flaw was found in libslirp in icmp_forward_error(). When building an ICMP error response, the length of the quoted or… |
 
 ## Data source
 
