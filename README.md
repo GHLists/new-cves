@@ -9,35 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:18 UTC
+## Latest list — 2026-11-03 10:18 UTC
 
-New CVEs published between 2026-11-03 08:18 UTC and 2026-11-03 09:18 UTC.
+New CVEs published between 2026-11-03 09:18 UTC and 2026-11-03 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T09-18-18-900734Z.csv)
+[Full CSV](data/new-cves-2026-11-03T10-18-46-101561Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 09:17:08 | [CVE-2026-103327](https://nvd.nist.gov/vuln/detail/CVE-2026-103327) | Medium | 5.3 | The CryptoCloud WordPress plugin from 3.0.0 through 3.0.1 does not verify the authenticity of the payment notifications… |
-| 2026-11-03 09:17:09 | [CVE-2026-105978](https://nvd.nist.gov/vuln/detail/CVE-2026-105978) | High | 8.6 | Improper input validation in management control functions may allow a remote attacker with high privileges to inject op… |
-| 2026-11-03 09:17:09 | [CVE-2026-105979](https://nvd.nist.gov/vuln/detail/CVE-2026-105979) | High | 8.6 | Improper input validation in the ZeroTier VPN function may allow a remote attacker with high privileges to inject syste… |
-| 2026-11-03 09:17:10 | [CVE-2026-105980](https://nvd.nist.gov/vuln/detail/CVE-2026-105980) | High | 8.6 | Improper input validation in the WireGuard VPN function may allow a remote attacker with high privileges to inject syst… |
-| 2026-11-03 09:17:10 | [CVE-2026-105981](https://nvd.nist.gov/vuln/detail/CVE-2026-105981) | High | 8.6 | Improper input validation in the Digital I/O function may allow a remote attacker with high privileges to inject operat… |
-| 2026-11-03 09:17:10 | [CVE-2026-105982](https://nvd.nist.gov/vuln/detail/CVE-2026-105982) | High | 8.6 | Improper input validation in the IPsec VPN function may allow a remote attacker with high privileges to inject system c… |
-| 2026-11-03 09:17:10 | [CVE-2026-109161](https://nvd.nist.gov/vuln/detail/CVE-2026-109161) | Medium | 6.9 | Insufficient bounds checking in the Digital I/O function may allow a remote attacker with high privileges to cause a de… |
-| 2026-11-03 09:17:10 | [CVE-2026-113421](https://nvd.nist.gov/vuln/detail/CVE-2026-113421) | High | 7.3 | In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, ThreadX Modules does not revoke a module's trace-buffer-full ca… |
-| 2026-11-03 09:17:10 | [CVE-2026-115231](https://nvd.nist.gov/vuln/detail/CVE-2026-115231) | High | 8.5 | In Eclipse ThreadX versions 6.0.1 through 6.5.2.202603, the Module Manager lets a user-mode, memory-protected module po… |
-| 2026-11-03 09:17:10 | [CVE-2026-118444](https://nvd.nist.gov/vuln/detail/CVE-2026-118444) | Medium | 4.8 | Out-of-bounds read vulnerabilities in the pybddisasm Python bindings may disclose adjacent process memory during instru… |
-| 2026-11-03 09:17:11 | [CVE-2026-118445](https://nvd.nist.gov/vuln/detail/CVE-2026-118445) | Medium | 6.9 | A use-after-free vulnerability in the pybddisasm Python bindings affects structure-valued members of INSTRUX objects. T… |
-| 2026-11-03 09:17:11 | [CVE-2026-118446](https://nvd.nist.gov/vuln/detail/CVE-2026-118446) | Medium | 6.9 | A use-after-free vulnerability in the pybddisasm Python bindings affects array-valued members of INSTRUX objects, inclu… |
-| 2026-11-03 09:17:11 | [CVE-2026-118447](https://nvd.nist.gov/vuln/detail/CVE-2026-118447) | Medium | 4.8 | A use of uninitialized memory vulnerability in the pybddisasm Python bindings may disclose process memory when instruct… |
-| 2026-11-03 09:17:11 | [CVE-2026-118448](https://nvd.nist.gov/vuln/detail/CVE-2026-118448) | Medium | 6.9 | A use of uninitialized memory vulnerability in the pybddisasm Python bindings affects nd_to_text. If the underlying tex… |
-| 2026-11-03 09:17:11 | [CVE-2026-121020](https://nvd.nist.gov/vuln/detail/CVE-2026-121020) | Medium | 5.3 | Exposure of Sensitive Information to an Unauthorized Actor (CWE-200) in the security configuration API in AxxonSoft Axx… |
-| 2026-11-03 09:17:11 | [CVE-2026-121021](https://nvd.nist.gov/vuln/detail/CVE-2026-121021) | Medium | 6.8 | Plaintext Storage of a Password (CWE-256) in the SecurityManager shared configuration in AxxonSoft Axxon One before 3.1… |
-| 2026-11-03 09:17:11 | [CVE-2026-121022](https://nvd.nist.gov/vuln/detail/CVE-2026-121022) | Critical | 9.2 | Use of Default Password (CWE-1393) in the web client in AxxonSoft Axxon One before 3.0.0 on Windows and Linux allows a… |
-| 2026-11-03 09:17:12 | [CVE-2026-121023](https://nvd.nist.gov/vuln/detail/CVE-2026-121023) | Medium | 6.8 | Insertion of Sensitive Information into Log File (CWE-532) in the ARP Agent component in AxxonSoft AxxonNet before 3.25… |
-| 2026-11-03 09:17:12 | [CVE-2026-121024](https://nvd.nist.gov/vuln/detail/CVE-2026-121024) | Medium | 5.3 | Incorrect Authorization (CWE-863) in the Health Monitoring service in AxxonSoft AxxonNet before 3.28.0 on Linux allows… |
-| 2026-11-03 09:17:13 | [CVE-2026-91075](https://nvd.nist.gov/vuln/detail/CVE-2026-91075) | Medium | 5.3 | The Eupago Gateway For Woocommerce WordPress plugin from 4.5.0 through 4.7.5 does not verify the authenticity of incomi… |
-| 2026-11-03 09:17:13 | [CVE-2026-92610](https://nvd.nist.gov/vuln/detail/CVE-2026-92610) |  |  | In esmf-sdk-py-aspect-model-loader versions 2.1.2 to 2.2.1, the Aspect Model loader resolves cross-file model reference… |
+| 2026-11-03 10:17:14 | [CVE-2026-119641](https://nvd.nist.gov/vuln/detail/CVE-2026-119641) |  |  | ** UNSUPPORTED WHEN ASSIGNED ** Improper input validation vulnerability in Apache Oozie. An authenticated Oozie user ca… |
+| 2026-11-03 10:17:15 | [CVE-2026-119724](https://nvd.nist.gov/vuln/detail/CVE-2026-119724) |  |  | ** UNSUPPORTED WHEN ASSIGNED ** Improper restriction of recursive entity references in DTDs ('XML entity expansion') vu… |
+| 2026-11-03 10:17:16 | [CVE-2026-119843](https://nvd.nist.gov/vuln/detail/CVE-2026-119843) | Medium | 6.5 | A flaw was found in GStreamer's gst-plugins-good package. The FLV media demuxer does not properly validate buffer sizes… |
+| 2026-11-03 10:17:17 | [CVE-2026-120327](https://nvd.nist.gov/vuln/detail/CVE-2026-120327) | Medium | 5.3 | The click tracking middleware accepts an arbitrary target URL and redirects to it. Attackers can misuse links to the we… |
+| 2026-11-03 10:17:17 | [CVE-2026-120328](https://nvd.nist.gov/vuln/detail/CVE-2026-120328) | Medium | 6.9 | The click tracking middleware does not validate the authentication code of a recipient if the code is omitted. Unauthen… |
+| 2026-11-03 10:17:17 | [CVE-2026-120329](https://nvd.nist.gov/vuln/detail/CVE-2026-120329) | Medium | 5.3 | Saving the configuration of the mail backend module writes submitted settings to the page TSconfig without restricting… |
+| 2026-11-03 10:17:17 | [CVE-2026-120330](https://nvd.nist.gov/vuln/detail/CVE-2026-120330) | High | 7.1 | Backend actions and ajax routes of the mail module do not check whether the backend user has access to the page of the… |
+| 2026-11-03 10:17:17 | [CVE-2026-120331](https://nvd.nist.gov/vuln/detail/CVE-2026-120331) | Medium | 5.3 | Content of external URL mails, their stylesheets and images to embed is fetched by the server without validating the ta… |
+| 2026-11-03 10:17:18 | [CVE-2026-120332](https://nvd.nist.gov/vuln/detail/CVE-2026-120332) | Medium | 5.1 | The HTML content of mails and tracked URLs are rendered unescaped in the backend module. Backend users with access to t… |
+| 2026-11-03 10:17:18 | [CVE-2026-120333](https://nvd.nist.gov/vuln/detail/CVE-2026-120333) | High | 8.8 | The actions linked in the emails of the extension (e.g. to confirm a registration or the deletion of an account) do not… |
+| 2026-11-03 10:17:18 | [CVE-2026-77691](https://nvd.nist.gov/vuln/detail/CVE-2026-77691) | High | 8.1 | ZohoCorp ManageEngine Key Manager Plus versions before 7151 allow authenticated users to enter malicious input when con… |
+| 2026-11-03 10:17:19 | [CVE-2026-77777](https://nvd.nist.gov/vuln/detail/CVE-2026-77777) | High | 7.1 | ManageEngine Key Manager Plus versions before 7151 are vulnerable to an improper access control issue that allow authen… |
+| 2026-11-03 10:17:19 | [CVE-2026-77778](https://nvd.nist.gov/vuln/detail/CVE-2026-77778) | High | 7.1 | ZohoCorp ManageEngine Key Manager Plus versions up to 7150 allow authenticated users to export certificates belonging t… |
+| 2026-11-03 10:17:19 | [CVE-2026-89229](https://nvd.nist.gov/vuln/detail/CVE-2026-89229) | Medium | 5.1 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in the ShareActivity component of BlueLM… |
+| 2026-11-03 10:17:20 | [CVE-2026-89292](https://nvd.nist.gov/vuln/detail/CVE-2026-89292) | Critical | 9.2 | In Eclipse Mnestix Browser versions 1.6.0 up until but excluding 2.3.0 it was possible for an unauthenticated attacker… |
+| 2026-11-03 10:17:20 | [CVE-2026-89293](https://nvd.nist.gov/vuln/detail/CVE-2026-89293) | High | 8.8 | In Eclipse Mnestix Browser versions 1.2.0 up until but excluding 2.3.0 it was possible for an unauthenticated attacker… |
 
 ## Data source
 
