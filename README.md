@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 00:20 UTC
+## Latest list — 2026-11-03 01:18 UTC
 
-New CVEs published between 2026-11-02 23:18 UTC and 2026-11-03 00:20 UTC.
+New CVEs published between 2026-11-03 00:20 UTC and 2026-11-03 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T00-20-05-883297Z.csv)
+[Full CSV](data/new-cves-2026-11-03T01-18-24-206099Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 00:17:18 | [CVE-2026-120830](https://nvd.nist.gov/vuln/detail/CVE-2026-120830) | High | 7.4 | A flaw was found in libslirp in icmp_forward_error(). When building an ICMP error response, the length of the quoted or… |
+| 2026-11-03 01:16:44 | [CVE-2026-105770](https://nvd.nist.gov/vuln/detail/CVE-2026-105770) | Medium | 5.3 | Octo STS (github.com/octo-sts/app) before 0.11.2 returns trust policy configuration to callers whose OIDC token does no… |
+| 2026-11-03 01:16:52 | [CVE-2026-120833](https://nvd.nist.gov/vuln/detail/CVE-2026-120833) | High | 8.5 | labbench before 0.46.1 contains a deserialization of untrusted data vulnerability in read() and read_relational() that… |
 
 ## Data source
 
