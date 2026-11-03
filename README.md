@@ -9,33 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 13:19 UTC
+## Latest list — 2026-11-03 14:18 UTC
 
-New CVEs published between 2026-11-03 12:19 UTC and 2026-11-03 13:19 UTC.
+New CVEs published between 2026-11-03 13:19 UTC and 2026-11-03 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T13-19-40-647956Z.csv)
+[Full CSV](data/new-cves-2026-11-03T14-18-55-177323Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 13:17:17 | [CVE-2026-108046](https://nvd.nist.gov/vuln/detail/CVE-2026-108046) | Medium | 6.9 | Direct Object Reference (IDOR) vulnerability in Alosuite due to insufficient authorization checks when processing objec… |
-| 2026-11-03 13:17:17 | [CVE-2026-108047](https://nvd.nist.gov/vuln/detail/CVE-2026-108047) | High | 8.6 | Inadequate authorization vulnerability in Alosuite’s user invitation functionality. The ‘/Requests/userInvitation’ endp… |
-| 2026-11-03 13:17:17 | [CVE-2026-108048](https://nvd.nist.gov/vuln/detail/CVE-2026-108048) | Medium | 6.9 | Vulnerability due to a lack of request limits in Alosuite’s password recovery functionality. The ‘/Account/resetPwd’ en… |
-| 2026-11-03 13:17:17 | [CVE-2026-108049](https://nvd.nist.gov/vuln/detail/CVE-2026-108049) | Medium | 5.1 | Clickjacking vulnerability in the Alosuite web application. The affected login interface can be embedded in a web page… |
-| 2026-11-03 13:17:17 | [CVE-2026-108050](https://nvd.nist.gov/vuln/detail/CVE-2026-108050) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:17 | [CVE-2026-108051](https://nvd.nist.gov/vuln/detail/CVE-2026-108051) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108052](https://nvd.nist.gov/vuln/detail/CVE-2026-108052) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108053](https://nvd.nist.gov/vuln/detail/CVE-2026-108053) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108054](https://nvd.nist.gov/vuln/detail/CVE-2026-108054) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108055](https://nvd.nist.gov/vuln/detail/CVE-2026-108055) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108056](https://nvd.nist.gov/vuln/detail/CVE-2026-108056) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108057](https://nvd.nist.gov/vuln/detail/CVE-2026-108057) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:18 | [CVE-2026-108058](https://nvd.nist.gov/vuln/detail/CVE-2026-108058) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:19 | [CVE-2026-108059](https://nvd.nist.gov/vuln/detail/CVE-2026-108059) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:19 | [CVE-2026-108060](https://nvd.nist.gov/vuln/detail/CVE-2026-108060) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
-| 2026-11-03 13:17:21 | [CVE-2026-121458](https://nvd.nist.gov/vuln/detail/CVE-2026-121458) | High | 7.1 | Instatic before 0.0.21 contains a missing authorization vulnerability in its AI/MCP content read tools that allows low-… |
-| 2026-11-03 13:17:23 | [CVE-2026-65160](https://nvd.nist.gov/vuln/detail/CVE-2026-65160) | Medium | 5.5 | NVIDIA nvJPEG contains a vulnerability where an attacker could cause a divide-by-zero. A successful exploit of this vul… |
-| 2026-11-03 13:17:23 | [CVE-2026-76124](https://nvd.nist.gov/vuln/detail/CVE-2026-76124) | High | 8.8 | The BuddyBoss App plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3.2… |
-| 2026-11-03 13:17:24 | [CVE-2026-99270](https://nvd.nist.gov/vuln/detail/CVE-2026-99270) |  |  | In the Linux kernel, the following vulnerability has been resolved: tcp: Fix potential UAF in reqsk_timer_handler(). Wh… |
+| 2026-11-03 14:17:33 | [CVE-2026-119179](https://nvd.nist.gov/vuln/detail/CVE-2026-119179) | High | 8.3 | A flaw in the connection management layer of the MongoDB Node.js driver can leave a pooled network connection in the po… |
+| 2026-11-03 14:17:34 | [CVE-2026-119742](https://nvd.nist.gov/vuln/detail/CVE-2026-119742) | High | 8.6 | Nagios XI before 2026R2 contains an OS command injection vulnerability in the MIB upload feature where the install_mib(… |
+| 2026-11-03 14:17:35 | [CVE-2026-120572](https://nvd.nist.gov/vuln/detail/CVE-2026-120572) |  |  | Incorrect boundary conditions in the Layout: Block and Inline component. This vulnerability was fixed in Firefox 159.0.… |
+| 2026-11-03 14:17:38 | [CVE-2026-85032](https://nvd.nist.gov/vuln/detail/CVE-2026-85032) | Medium | 4.8 | The MCTP over USB device class in subsys/pmci/mctp/mctp_usb.c splits RX handling across two threads: the system workque… |
+| 2026-11-03 14:17:38 | [CVE-2026-85033](https://nvd.nist.gov/vuln/detail/CVE-2026-85033) | Medium | 4.6 | The AVRCP Target role in subsys/bluetooth/host/classic/avrcp.c keeps its vendor-dependent response transmit state in a… |
+| 2026-11-03 14:17:39 | [CVE-2026-85034](https://nvd.nist.gov/vuln/detail/CVE-2026-85034) | Medium | 6.7 | The Bluetooth host's GATT client passed the value of a received Handle Value Notification, Handle Value Indication or M… |
+| 2026-11-03 14:17:39 | [CVE-2026-85035](https://nvd.nist.gov/vuln/detail/CVE-2026-85035) | High | 8.8 | The can_add_rx_filter_msgq() system call installs a CAN RX filter whose callback (can_msgq_put() in drivers/can/can_com… |
+| 2026-11-03 14:17:39 | [CVE-2026-89295](https://nvd.nist.gov/vuln/detail/CVE-2026-89295) |  |  | In Eclipse Mnestix AAS Generator versions 0.1.0 up until but excluding 1.5.0, a practical upper bound on the client-sup… |
 
 ## Data source
 
