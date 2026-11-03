@@ -9,41 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 12:19 UTC
+## Latest list — 2026-11-03 13:19 UTC
 
-New CVEs published between 2026-11-03 11:18 UTC and 2026-11-03 12:19 UTC.
+New CVEs published between 2026-11-03 12:19 UTC and 2026-11-03 13:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T12-19-36-797213Z.csv)
+[Full CSV](data/new-cves-2026-11-03T13-19-40-647956Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 12:17:30 | [CVE-2026-99243](https://nvd.nist.gov/vuln/detail/CVE-2026-99243) |  |  | In the Linux kernel, the following vulnerability has been resolved: io-wq: order the exit bit against worker creation t… |
-| 2026-11-03 12:17:30 | [CVE-2026-99244](https://nvd.nist.gov/vuln/detail/CVE-2026-99244) |  |  | In the Linux kernel, the following vulnerability has been resolved: pid_namespace: prevent TIF_NOTIFY_SIGNAL from inter… |
-| 2026-11-03 12:17:30 | [CVE-2026-99245](https://nvd.nist.gov/vuln/detail/CVE-2026-99245) |  |  | In the Linux kernel, the following vulnerability has been resolved: KEYS: Fix key_reject_and_link() race with keyring r… |
-| 2026-11-03 12:17:31 | [CVE-2026-99246](https://nvd.nist.gov/vuln/detail/CVE-2026-99246) |  |  | In the Linux kernel, the following vulnerability has been resolved: tipc: protect node reset trace dump with node lock… |
-| 2026-11-03 12:17:31 | [CVE-2026-99247](https://nvd.nist.gov/vuln/detail/CVE-2026-99247) |  |  | In the Linux kernel, the following vulnerability has been resolved: tracing: Do not initialize tracefs work if tracing… |
-| 2026-11-03 12:17:31 | [CVE-2026-99248](https://nvd.nist.gov/vuln/detail/CVE-2026-99248) |  |  | In the Linux kernel, the following vulnerability has been resolved: i2c: xiic: restore non-managed runtime PM to fix cl… |
-| 2026-11-03 12:17:31 | [CVE-2026-99249](https://nvd.nist.gov/vuln/detail/CVE-2026-99249) |  |  | In the Linux kernel, the following vulnerability has been resolved: pid_namespace: make zap_pid_ns_processes() freezabl… |
-| 2026-11-03 12:17:31 | [CVE-2026-99250](https://nvd.nist.gov/vuln/detail/CVE-2026-99250) |  |  | In the Linux kernel, the following vulnerability has been resolved: printk: Postpone kthread startup There have been va… |
-| 2026-11-03 12:17:31 | [CVE-2026-99251](https://nvd.nist.gov/vuln/detail/CVE-2026-99251) |  |  | In the Linux kernel, the following vulnerability has been resolved: Drivers: hv: Avoid infinite retry loop in init_vp_i… |
-| 2026-11-03 12:17:31 | [CVE-2026-99252](https://nvd.nist.gov/vuln/detail/CVE-2026-99252) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/mpscq: disable preemption while pushing A… |
-| 2026-11-03 12:17:32 | [CVE-2026-99253](https://nvd.nist.gov/vuln/detail/CVE-2026-99253) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/cancel: rearm local work wake up before sl… |
-| 2026-11-03 12:17:32 | [CVE-2026-99254](https://nvd.nist.gov/vuln/detail/CVE-2026-99254) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring: don't flood a cancelling task with task_w… |
-| 2026-11-03 12:17:32 | [CVE-2026-99255](https://nvd.nist.gov/vuln/detail/CVE-2026-99255) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/io-wq: don't hide a link from cancellation… |
-| 2026-11-03 12:17:32 | [CVE-2026-99256](https://nvd.nist.gov/vuln/detail/CVE-2026-99256) |  |  | In the Linux kernel, the following vulnerability has been resolved: dm cache: fix issue with background work locking dm… |
-| 2026-11-03 12:17:32 | [CVE-2026-99257](https://nvd.nist.gov/vuln/detail/CVE-2026-99257) |  |  | In the Linux kernel, the following vulnerability has been resolved: gpio: shared: gracefully handle no-device lookup of… |
-| 2026-11-03 12:17:32 | [CVE-2026-99258](https://nvd.nist.gov/vuln/detail/CVE-2026-99258) |  |  | In the Linux kernel, the following vulnerability has been resolved: x86/hyperv: Avoid using per-cpu output page in hv_a… |
-| 2026-11-03 12:17:32 | [CVE-2026-99259](https://nvd.nist.gov/vuln/detail/CVE-2026-99259) |  |  | In the Linux kernel, the following vulnerability has been resolved: soc/tegra: pmc: Fix uninitialised clock rate For le… |
-| 2026-11-03 12:17:32 | [CVE-2026-99260](https://nvd.nist.gov/vuln/detail/CVE-2026-99260) |  |  | In the Linux kernel, the following vulnerability has been resolved: ntfs: fix resident conversion in ntfs_new_attr_flag… |
-| 2026-11-03 12:17:33 | [CVE-2026-99261](https://nvd.nist.gov/vuln/detail/CVE-2026-99261) |  |  | In the Linux kernel, the following vulnerability has been resolved: drm/amdgpu: correct reservation fence slots for use… |
-| 2026-11-03 12:17:33 | [CVE-2026-99262](https://nvd.nist.gov/vuln/detail/CVE-2026-99262) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/timeout: don't lose a cancel as io-wq arms… |
-| 2026-11-03 12:17:33 | [CVE-2026-99263](https://nvd.nist.gov/vuln/detail/CVE-2026-99263) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/poll: avoid retry wakeup loss when droppin… |
-| 2026-11-03 12:17:33 | [CVE-2026-99264](https://nvd.nist.gov/vuln/detail/CVE-2026-99264) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/net: don't retry recv on uncommitted buffe… |
-| 2026-11-03 12:17:33 | [CVE-2026-99265](https://nvd.nist.gov/vuln/detail/CVE-2026-99265) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/openclose: keep the lock in io_pipe_fixed(… |
-| 2026-11-03 12:17:33 | [CVE-2026-99266](https://nvd.nist.gov/vuln/detail/CVE-2026-99266) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/zcrx: fix buffer offsets in areas above 4G… |
-| 2026-11-03 12:17:33 | [CVE-2026-99267](https://nvd.nist.gov/vuln/detail/CVE-2026-99267) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring/napi: make stale entries time out after 60… |
-| 2026-11-03 12:17:33 | [CVE-2026-99268](https://nvd.nist.gov/vuln/detail/CVE-2026-99268) |  |  | In the Linux kernel, the following vulnerability has been resolved: io_uring: wake ring pollers for local task_work Wit… |
-| 2026-11-03 12:17:34 | [CVE-2026-99269](https://nvd.nist.gov/vuln/detail/CVE-2026-99269) |  |  | In the Linux kernel, the following vulnerability has been resolved: sched_ext: Wait for SCX_OPSS_DISPATCHING before mov… |
+| 2026-11-03 13:17:17 | [CVE-2026-108046](https://nvd.nist.gov/vuln/detail/CVE-2026-108046) | Medium | 6.9 | Direct Object Reference (IDOR) vulnerability in Alosuite due to insufficient authorization checks when processing objec… |
+| 2026-11-03 13:17:17 | [CVE-2026-108047](https://nvd.nist.gov/vuln/detail/CVE-2026-108047) | High | 8.6 | Inadequate authorization vulnerability in Alosuite’s user invitation functionality. The ‘/Requests/userInvitation’ endp… |
+| 2026-11-03 13:17:17 | [CVE-2026-108048](https://nvd.nist.gov/vuln/detail/CVE-2026-108048) | Medium | 6.9 | Vulnerability due to a lack of request limits in Alosuite’s password recovery functionality. The ‘/Account/resetPwd’ en… |
+| 2026-11-03 13:17:17 | [CVE-2026-108049](https://nvd.nist.gov/vuln/detail/CVE-2026-108049) | Medium | 5.1 | Clickjacking vulnerability in the Alosuite web application. The affected login interface can be embedded in a web page… |
+| 2026-11-03 13:17:17 | [CVE-2026-108050](https://nvd.nist.gov/vuln/detail/CVE-2026-108050) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:17 | [CVE-2026-108051](https://nvd.nist.gov/vuln/detail/CVE-2026-108051) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108052](https://nvd.nist.gov/vuln/detail/CVE-2026-108052) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108053](https://nvd.nist.gov/vuln/detail/CVE-2026-108053) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108054](https://nvd.nist.gov/vuln/detail/CVE-2026-108054) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108055](https://nvd.nist.gov/vuln/detail/CVE-2026-108055) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108056](https://nvd.nist.gov/vuln/detail/CVE-2026-108056) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108057](https://nvd.nist.gov/vuln/detail/CVE-2026-108057) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:18 | [CVE-2026-108058](https://nvd.nist.gov/vuln/detail/CVE-2026-108058) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:19 | [CVE-2026-108059](https://nvd.nist.gov/vuln/detail/CVE-2026-108059) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:19 | [CVE-2026-108060](https://nvd.nist.gov/vuln/detail/CVE-2026-108060) | Medium | 5.1 | A stored Cross-Site Scripting (XSS) vulnerability in Alosuite that affects the delivery note functionality. Insufficien… |
+| 2026-11-03 13:17:21 | [CVE-2026-121458](https://nvd.nist.gov/vuln/detail/CVE-2026-121458) | High | 7.1 | Instatic before 0.0.21 contains a missing authorization vulnerability in its AI/MCP content read tools that allows low-… |
+| 2026-11-03 13:17:23 | [CVE-2026-65160](https://nvd.nist.gov/vuln/detail/CVE-2026-65160) | Medium | 5.5 | NVIDIA nvJPEG contains a vulnerability where an attacker could cause a divide-by-zero. A successful exploit of this vul… |
+| 2026-11-03 13:17:23 | [CVE-2026-76124](https://nvd.nist.gov/vuln/detail/CVE-2026-76124) | High | 8.8 | The BuddyBoss App plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3.2… |
+| 2026-11-03 13:17:24 | [CVE-2026-99270](https://nvd.nist.gov/vuln/detail/CVE-2026-99270) |  |  | In the Linux kernel, the following vulnerability has been resolved: tcp: Fix potential UAF in reqsk_timer_handler(). Wh… |
 
 ## Data source
 
