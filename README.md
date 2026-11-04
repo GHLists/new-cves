@@ -9,19 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 07:18 UTC
+## Latest list — 2026-11-04 08:18 UTC
 
-New CVEs published between 2026-11-04 06:18 UTC and 2026-11-04 07:18 UTC.
+New CVEs published between 2026-11-04 07:18 UTC and 2026-11-04 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T07-18-18-85584Z.csv)
+[Full CSV](data/new-cves-2026-11-04T08-18-51-464956Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 07:17:11 | [CVE-2026-121816](https://nvd.nist.gov/vuln/detail/CVE-2026-121816) | High | 8.7 | Herowatch Mini developed by About Time Technologies has a Missing Authentication vulnerability. Unauthenticated remote… |
-| 2026-11-04 07:17:12 | [CVE-2026-121817](https://nvd.nist.gov/vuln/detail/CVE-2026-121817) | High | 8.7 | Herowatch Go Server developed by About Time Technologies has a Insecure Direct Object Reference vulnerability. Authenti… |
-| 2026-11-04 07:17:12 | [CVE-2026-121818](https://nvd.nist.gov/vuln/detail/CVE-2026-121818) | High | 8.5 | Herowatch Mini developed by About Time Technologies has a system signing vulnerability. Authenticated local attackers c… |
-| 2026-11-04 07:17:12 | [CVE-2026-54851](https://nvd.nist.gov/vuln/detail/CVE-2026-54851) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Awesomemotive Con… |
-| 2026-11-04 07:17:12 | [CVE-2026-62000](https://nvd.nist.gov/vuln/detail/CVE-2026-62000) | High | 7.5 | Missing Authorization vulnerability in WC Lovers WCFM Marketplace wc-multivendor-marketplace allows Exploiting Incorrec… |
+| 2026-11-04 08:17:15 | [CVE-2026-110944](https://nvd.nist.gov/vuln/detail/CVE-2026-110944) | Low | 2.7 | Resource exhaustion vulnerability in the HTTP request handling of the QHttpServer component of Qt HTTP Server. |
+| 2026-11-04 08:17:16 | [CVE-2026-119366](https://nvd.nist.gov/vuln/detail/CVE-2026-119366) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in AdvancedCoding wp… |
+| 2026-11-04 08:17:16 | [CVE-2026-119477](https://nvd.nist.gov/vuln/detail/CVE-2026-119477) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Jacob N. Breetvel… |
+| 2026-11-04 08:17:16 | [CVE-2026-54861](https://nvd.nist.gov/vuln/detail/CVE-2026-54861) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Aguila Technologi… |
+| 2026-11-04 08:17:17 | [CVE-2026-56065](https://nvd.nist.gov/vuln/detail/CVE-2026-56065) | High | 7.5 | Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerability in Doofinder Doofinder fo… |
+| 2026-11-04 08:17:17 | [CVE-2026-57639](https://nvd.nist.gov/vuln/detail/CVE-2026-57639) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Roland Murg WP Bo… |
+| 2026-11-04 08:17:17 | [CVE-2026-57666](https://nvd.nist.gov/vuln/detail/CVE-2026-57666) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Aguila Technologi… |
+| 2026-11-04 08:17:17 | [CVE-2026-57775](https://nvd.nist.gov/vuln/detail/CVE-2026-57775) | Medium | 5.3 | Authentication Bypass Using an Alternate Path or Channel vulnerability in RelyWP Simple Cloudflare Turnstile simple-clo… |
+| 2026-11-04 08:17:17 | [CVE-2026-62007](https://nvd.nist.gov/vuln/detail/CVE-2026-62007) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Unlimited Element… |
+| 2026-11-04 08:17:17 | [CVE-2026-62126](https://nvd.nist.gov/vuln/detail/CVE-2026-62126) | High | 7.5 | Allocation of Resources Without Limits or Throttling vulnerability in miniOrange SAML SP Single Sign On miniorange-saml… |
 
 ## Data source
 
