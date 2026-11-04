@@ -9,24 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 08:18 UTC
+## Latest list — 2026-11-04 09:18 UTC
 
-New CVEs published between 2026-11-04 07:18 UTC and 2026-11-04 08:18 UTC.
+New CVEs published between 2026-11-04 08:18 UTC and 2026-11-04 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T08-18-51-464956Z.csv)
+[Full CSV](data/new-cves-2026-11-04T09-18-19-566809Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 08:17:15 | [CVE-2026-110944](https://nvd.nist.gov/vuln/detail/CVE-2026-110944) | Low | 2.7 | Resource exhaustion vulnerability in the HTTP request handling of the QHttpServer component of Qt HTTP Server. |
-| 2026-11-04 08:17:16 | [CVE-2026-119366](https://nvd.nist.gov/vuln/detail/CVE-2026-119366) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in AdvancedCoding wp… |
-| 2026-11-04 08:17:16 | [CVE-2026-119477](https://nvd.nist.gov/vuln/detail/CVE-2026-119477) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Jacob N. Breetvel… |
-| 2026-11-04 08:17:16 | [CVE-2026-54861](https://nvd.nist.gov/vuln/detail/CVE-2026-54861) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Aguila Technologi… |
-| 2026-11-04 08:17:17 | [CVE-2026-56065](https://nvd.nist.gov/vuln/detail/CVE-2026-56065) | High | 7.5 | Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerability in Doofinder Doofinder fo… |
-| 2026-11-04 08:17:17 | [CVE-2026-57639](https://nvd.nist.gov/vuln/detail/CVE-2026-57639) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Roland Murg WP Bo… |
-| 2026-11-04 08:17:17 | [CVE-2026-57666](https://nvd.nist.gov/vuln/detail/CVE-2026-57666) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Aguila Technologi… |
-| 2026-11-04 08:17:17 | [CVE-2026-57775](https://nvd.nist.gov/vuln/detail/CVE-2026-57775) | Medium | 5.3 | Authentication Bypass Using an Alternate Path or Channel vulnerability in RelyWP Simple Cloudflare Turnstile simple-clo… |
-| 2026-11-04 08:17:17 | [CVE-2026-62007](https://nvd.nist.gov/vuln/detail/CVE-2026-62007) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Unlimited Element… |
-| 2026-11-04 08:17:17 | [CVE-2026-62126](https://nvd.nist.gov/vuln/detail/CVE-2026-62126) | High | 7.5 | Allocation of Resources Without Limits or Throttling vulnerability in miniOrange SAML SP Single Sign On miniorange-saml… |
+| 2026-11-04 09:17:40 | [CVE-2026-114420](https://nvd.nist.gov/vuln/detail/CVE-2026-114420) | Medium | 6.9 | SEPPmail Secure Email Gateway before 15.1.1 does not neutralize LDAP metacharacters in an unauthenticated account-selec… |
+| 2026-11-04 09:17:41 | [CVE-2026-114421](https://nvd.nist.gov/vuln/detail/CVE-2026-114421) | High | 8.3 | SEPPmail Secure Email Gateway before 15.1.1 permits password recovery for a created but unregistered GINA account whose… |
+| 2026-11-04 09:17:41 | [CVE-2026-114424](https://nvd.nist.gov/vuln/detail/CVE-2026-114424) | Critical | 9.2 | SEPPmail Secure Email Gateway before 15.1.1 can evaluate attacker-influenced replacement text as Perl code in sender or… |
+| 2026-11-04 09:17:41 | [CVE-2026-114425](https://nvd.nist.gov/vuln/detail/CVE-2026-114425) | Critical | 9.2 | SEPPmail Secure Email Gateway before 15.1.1 trusts a file path supplied in externally provided Large File Transfer atta… |
+| 2026-11-04 09:17:41 | [CVE-2026-114426](https://nvd.nist.gov/vuln/detail/CVE-2026-114426) | High | 8.7 | SEPPmail Secure Email Gateway before 15.1.1 processes and writes v1 file-interface upload data before authenticating th… |
+| 2026-11-04 09:17:42 | [CVE-2026-19721](https://nvd.nist.gov/vuln/detail/CVE-2026-19721) | Low | 3.3 | Improper restriction of XML external entity reference vulnerability in TÜBİTAK BİLGEM Software Technologies Research In… |
+| 2026-11-04 09:17:42 | [CVE-2026-19731](https://nvd.nist.gov/vuln/detail/CVE-2026-19731) | Low | 3.3 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in TÜBİTAK BİLGEM Software… |
 
 ## Data source
 
