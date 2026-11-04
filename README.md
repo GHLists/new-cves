@@ -9,21 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 17:18 UTC
+## Latest list — 2026-11-04 18:19 UTC
 
-New CVEs published between 2026-11-04 16:18 UTC and 2026-11-04 17:18 UTC.
+New CVEs published between 2026-11-04 17:18 UTC and 2026-11-04 18:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T17-18-22-452184Z.csv)
+[Full CSV](data/new-cves-2026-11-04T18-19-33-896925Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 17:17:34 | [CVE-2026-119747](https://nvd.nist.gov/vuln/detail/CVE-2026-119747) | High | 7.1 | The GetPaid plugin for WordPress before 2.8.63 contains an incorrect authorization vulnerability where the check_post_p… |
-| 2026-11-04 17:17:34 | [CVE-2026-119748](https://nvd.nist.gov/vuln/detail/CVE-2026-119748) | Medium | 6.9 | The GetPaid plugin for WordPress before 2.8.63 contains an authorization bypass vulnerability that allows unauthenticat… |
-| 2026-11-04 17:17:34 | [CVE-2026-119749](https://nvd.nist.gov/vuln/detail/CVE-2026-119749) | High | 8.7 | The GetPaid plugin for WordPress before 2.8.63 contains an improper input validation vulnerability that allows unauthen… |
-| 2026-11-04 17:17:35 | [CVE-2026-121926](https://nvd.nist.gov/vuln/detail/CVE-2026-121926) | Medium | 5.5 | A vulnerability was detected in yezhihao jt808-server up to a07f68c466b560b97ef41edb8a4966469abdf83e. Affected is the f… |
-| 2026-11-04 17:17:35 | [CVE-2026-20241](https://nvd.nist.gov/vuln/detail/CVE-2026-20241) | Medium | 5.3 | A vulnerability in the authorization mechanism of Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity C… |
-| 2026-11-04 17:17:36 | [CVE-2026-76419](https://nvd.nist.gov/vuln/detail/CVE-2026-76419) | Medium | 6.1 | A vulnerability in the web-based management interface of Cisco Unified Communications Manager (Unified CM) and Cisco Un… |
-| 2026-11-04 17:17:37 | [CVE-2026-76506](https://nvd.nist.gov/vuln/detail/CVE-2026-76506) | High | 7.6 | A vulnerability in the web-based management interface of Cisco UCS Central Software could allow an authenticated, remot… |
+| 2026-11-04 18:17:42 | [CVE-2026-121927](https://nvd.nist.gov/vuln/detail/CVE-2026-121927) | Low | 2.1 | A vulnerability has been found in InfiniFlow RAGFlow up to 0.27.3. Affected by this issue is the function _account_get… |
+| 2026-11-04 18:17:43 | [CVE-2026-121971](https://nvd.nist.gov/vuln/detail/CVE-2026-121971) | High | 8.2 | The component ScopingHttpClient in Symfony HttpClient merges the options of its default scope (such as auth_bearer or a… |
+| 2026-11-04 18:17:43 | [CVE-2026-122054](https://nvd.nist.gov/vuln/detail/CVE-2026-122054) | Medium | 5.9 | Converting crafted BIG-HKSCS input to UCS-4 or the internal wide character encoding, for example with iconv, in the GNU… |
+| 2026-11-04 18:17:43 | [CVE-2026-122116](https://nvd.nist.gov/vuln/detail/CVE-2026-122116) | Medium | 4.3 | Certain Yealink terminal devices before 2026-04-21 contain an improper access control vulnerability in the Wi-Fi 802.1X… |
+| 2026-11-04 18:17:43 | [CVE-2026-122118](https://nvd.nist.gov/vuln/detail/CVE-2026-122118) | High | 7.4 | In certain Yealink products before 2026-04-15, when the Wi-Fi AP function is enabled, a default 8-digit numeric PSK wit… |
+| 2026-11-04 18:17:44 | [CVE-2026-57853](https://nvd.nist.gov/vuln/detail/CVE-2026-57853) | High | 8.7 | DataGerry before 3.3.0 contains a server-side template injection vulnerability that allows authenticated attackers with… |
 
 ## Data source
 
