@@ -9,40 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 12:20 UTC
+## Latest list — 2026-11-04 13:18 UTC
 
-New CVEs published between 2026-11-04 10:21 UTC and 2026-11-04 12:20 UTC.
+New CVEs published between 2026-11-04 12:20 UTC and 2026-11-04 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T12-20-25-696029Z.csv)
+[Full CSV](data/new-cves-2026-11-04T13-18-23-055743Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 11:17:04 | [CVE-2026-100235](https://nvd.nist.gov/vuln/detail/CVE-2026-100235) | Medium | 6.0 | Incorrect authorization due to a time-of-check to time-of-use (TOCTOU) race condition in the setACL request handling of… |
-| 2026-11-04 11:17:06 | [CVE-2026-100252](https://nvd.nist.gov/vuln/detail/CVE-2026-100252) | High | 8.6 | Improper Authorization vulnerability in Apache ZooKeeper. When SASL authentication is enabled on the client port, the s… |
-| 2026-11-04 11:17:06 | [CVE-2026-100300](https://nvd.nist.gov/vuln/detail/CVE-2026-100300) | High | 8.7 | Improper handling of exceptional conditions in the quota subsystem of Apache ZooKeeper allows an attacker able to write… |
-| 2026-11-04 11:17:07 | [CVE-2026-100302](https://nvd.nist.gov/vuln/detail/CVE-2026-100302) | High | 7.1 | Allocation of Resources Without Limits or Throttling in the multiRead request handler of Apache ZooKeeper allows a remo… |
-| 2026-11-04 11:17:07 | [CVE-2026-102703](https://nvd.nist.gov/vuln/detail/CVE-2026-102703) |  |  | [This CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to wh… |
-| 2026-11-04 11:17:07 | [CVE-2026-102704](https://nvd.nist.gov/vuln/detail/CVE-2026-102704) |  |  | [This CNA information record relates to multiple CVEs; the text explains which aspects/vulnerabilities correspond to wh… |
-| 2026-11-04 11:17:13 | [CVE-2026-103582](https://nvd.nist.gov/vuln/detail/CVE-2026-103582) |  |  | Unbounded memory allocation and missing frame size validation in Apache NMS ActiveMQ (the .NET OpenWire client, package… |
-| 2026-11-04 11:17:13 | [CVE-2026-108500](https://nvd.nist.gov/vuln/detail/CVE-2026-108500) |  |  | Input validation vulnerability in Apache ActiveMQ configured to use the LDAPAuthorizationMapPlugin allows an authentica… |
-| 2026-11-04 11:17:13 | [CVE-2026-108946](https://nvd.nist.gov/vuln/detail/CVE-2026-108946) |  |  | Improper input validation vulnerability in Apache ActiveMQ, Apache ActiveMQ KahaDB. The ActiveMQ broker resolves connec… |
-| 2026-11-04 11:17:14 | [CVE-2026-115448](https://nvd.nist.gov/vuln/detail/CVE-2026-115448) | High | 8.7 | Uncontrolled recursion in Apache ZooKeeper. The server serializes its data tree to a snapshot by recursing one stack fr… |
-| 2026-11-04 11:17:16 | [CVE-2026-59263](https://nvd.nist.gov/vuln/detail/CVE-2026-59263) | Low | 1.9 | A manipulated document opened in Apache OpenOffice 4.1.16 or earlier may allow substituted content to be displayed mani… |
-| 2026-11-04 11:17:16 | [CVE-2026-59264](https://nvd.nist.gov/vuln/detail/CVE-2026-59264) |  |  | The Windows installers of Apache OpenOffice 4.1.16 and earlier allow an already manipulated system to run external code… |
-| 2026-11-04 11:17:16 | [CVE-2026-59268](https://nvd.nist.gov/vuln/detail/CVE-2026-59268) |  |  | An out-of-bounds Write vulnerability in Apache OpenOffice versions through 4.1.16 could allow an attacker to craft a Mi… |
-| 2026-11-04 11:17:18 | [CVE-2026-90624](https://nvd.nist.gov/vuln/detail/CVE-2026-90624) |  |  | An unchecked memory access in the PDF import code of Apache OpenOffice versions through 4.1.16 on allows a crafted PDF… |
-| 2026-11-04 11:17:19 | [CVE-2026-90626](https://nvd.nist.gov/vuln/detail/CVE-2026-90626) |  |  | An uncontrolled memory access in the PDF import code of Apache OpenOffice versions through 4.1.16 allows a crafted PDF… |
-| 2026-11-04 11:17:19 | [CVE-2026-90627](https://nvd.nist.gov/vuln/detail/CVE-2026-90627) |  |  | The flat file database driver in Apache Openoffice versions through 4.1.16 allows a crafted document to read the conten… |
-| 2026-11-04 11:17:19 | [CVE-2026-90628](https://nvd.nist.gov/vuln/detail/CVE-2026-90628) |  |  | An uncontrolled memory access in the PDF export code of Apache OpenOffice versions through 4.1.16 allows a crafted CFF… |
-| 2026-11-04 11:17:19 | [CVE-2026-90629](https://nvd.nist.gov/vuln/detail/CVE-2026-90629) |  |  | An uncontrolled memory access in the WMF import code of Apache OpenOffice versions through 4.1.16 allows a crafted WMF… |
-| 2026-11-04 11:17:19 | [CVE-2026-90631](https://nvd.nist.gov/vuln/detail/CVE-2026-90631) |  |  | Apache OpenOffice documents can contain links. A missing Authorization vulnerability in Apache OpenOffice allowed an at… |
-| 2026-11-04 11:17:19 | [CVE-2026-90632](https://nvd.nist.gov/vuln/detail/CVE-2026-90632) |  |  | Apache OpenOffice documents can include multimedia content (audio, video, etc.) A crafted document could exploit the GS… |
-| 2026-11-04 11:17:19 | [CVE-2026-90634](https://nvd.nist.gov/vuln/detail/CVE-2026-90634) |  |  | An uncontrolled memory access in the PDF import code of Apache OpenOffice versions through 4.1.16 allows a crafted PDF… |
-| 2026-11-04 12:17:05 | [CVE-2026-104799](https://nvd.nist.gov/vuln/detail/CVE-2026-104799) | High | 8.8 | The Mobile builder plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 1.4… |
-| 2026-11-04 12:17:06 | [CVE-2026-114456](https://nvd.nist.gov/vuln/detail/CVE-2026-114456) | Medium | 6.5 | Multiple Snowflake client drivers implementing the `authenticator=externalbrowser` single sign-on flow could have allow… |
-| 2026-11-04 12:17:06 | [CVE-2026-121925](https://nvd.nist.gov/vuln/detail/CVE-2026-121925) | Medium | 6.6 | A stack-based buffer overflow in libsnowflakeclient and the Snowflake PHP PDO Driver could, under specific conditions,… |
-| 2026-11-04 12:17:06 | [CVE-2026-59267](https://nvd.nist.gov/vuln/detail/CVE-2026-59267) | Medium | 5.8 | A crafted DXF document causes a heap buffer overflow in Draw in Apache OpenOffice 4.1.16 and earlier. This could cause… |
-| 2026-11-04 12:17:07 | [CVE-2026-97397](https://nvd.nist.gov/vuln/detail/CVE-2026-97397) | High | 7.2 | The Remove Google Fonts – Disable, Block, or Replace with Bunny Fonts for GDPR Compliance plugin for WordPress is vulne… |
+| 2026-11-04 13:17:21 | [CVE-2026-107479](https://nvd.nist.gov/vuln/detail/CVE-2026-107479) | Low | 1.7 | An integer truncation vulnerability in the QTextCodec conversion functions of the Qt 5 Core Compatibility APIs module i… |
+| 2026-11-04 13:17:25 | [CVE-2026-118513](https://nvd.nist.gov/vuln/detail/CVE-2026-118513) | High | 7.7 | Authentication bypass by spoofing in X509Authenticator and X509AuthenticationListener of Symfony versions prior to 5.4.… |
+| 2026-11-04 13:17:26 | [CVE-2026-118516](https://nvd.nist.gov/vuln/detail/CVE-2026-118516) | Medium | 6.3 | The Symfony Routing components CompiledUrlMatcher and UrlMatcher interpret the host and path information differently, a… |
+| 2026-11-04 13:17:26 | [CVE-2026-119468](https://nvd.nist.gov/vuln/detail/CVE-2026-119468) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Noptin Newsletter… |
+| 2026-11-04 13:17:26 | [CVE-2026-119481](https://nvd.nist.gov/vuln/detail/CVE-2026-119481) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in Crocoblock JetFormBuilder jetformbuilder allows Privilege Escalation.Th… |
+| 2026-11-04 13:17:26 | [CVE-2026-121144](https://nvd.nist.gov/vuln/detail/CVE-2026-121144) | High | 8.8 | This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to presence of hardcoded service account cr… |
+| 2026-11-04 13:17:26 | [CVE-2026-121145](https://nvd.nist.gov/vuln/detail/CVE-2026-121145) | High | 7.1 | This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to insufficient validation of URLs and orig… |
+| 2026-11-04 13:17:27 | [CVE-2026-121146](https://nvd.nist.gov/vuln/detail/CVE-2026-121146) | Medium | 6.8 | This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to the recording of authentication tokens i… |
+| 2026-11-04 13:17:27 | [CVE-2026-121147](https://nvd.nist.gov/vuln/detail/CVE-2026-121147) | High | 8.5 | This vulnerability exists in the iRA 2.0 and iRA.ev mobile applications due to improper implementation of SSL certifica… |
+| 2026-11-04 13:17:27 | [CVE-2026-121373](https://nvd.nist.gov/vuln/detail/CVE-2026-121373) | Medium | 5.3 | The Symfony HtmlSanitizer component MetaRefreshAttributeSanitizer, introduced to fix CVE-2026-48761, sanitizes the refr… |
+| 2026-11-04 13:17:27 | [CVE-2026-121620](https://nvd.nist.gov/vuln/detail/CVE-2026-121620) | High | 8.3 | CoopCycle coopcycle-web 5.6.0 before 6.20.0 contains a missing authentication vulnerability that allows unauthenticated… |
+| 2026-11-04 13:17:27 | [CVE-2026-121936](https://nvd.nist.gov/vuln/detail/CVE-2026-121936) | Medium | 6.9 | easyVoice before 0.0.23 contains a server-side request forgery vulnerability that allows unauthenticated attackers to m… |
+| 2026-11-04 13:17:27 | [CVE-2026-121937](https://nvd.nist.gov/vuln/detail/CVE-2026-121937) | Low | 2.3 | loonflow before r3.2.3 contains a missing authorization vulnerability in TicketFlowHistoryView that allows any authenti… |
+| 2026-11-04 13:17:28 | [CVE-2026-121938](https://nvd.nist.gov/vuln/detail/CVE-2026-121938) | Medium | 6.0 | langchain4j-aideepin before 3.31.0 contains an insecure direct object reference vulnerability that allows authenticated… |
+| 2026-11-04 13:17:28 | [CVE-2026-121939](https://nvd.nist.gov/vuln/detail/CVE-2026-121939) | Critical | 9.2 | Databasement before 1.10.9 contains an authentication bypass vulnerability in OAuthService::findOrCreateLocalUser() tha… |
+| 2026-11-04 13:17:28 | [CVE-2026-121940](https://nvd.nist.gov/vuln/detail/CVE-2026-121940) | High | 8.7 | Stonewuu ai-fusion-video before 1.3.0 contains an insecure direct object reference vulnerability that allows authentica… |
+| 2026-11-04 13:17:28 | [CVE-2026-121941](https://nvd.nist.gov/vuln/detail/CVE-2026-121941) | High | 8.5 | libmt32emu before 2.8.4 contains a heap buffer overflow vulnerability in MidiStreamParserImpl::parseSysex that allows a… |
+| 2026-11-04 13:17:28 | [CVE-2026-121942](https://nvd.nist.gov/vuln/detail/CVE-2026-121942) | Medium | 6.9 | ZBar through 0.23.95 contains an out-of-bounds read vulnerability in _zbar_sq_decode() in zbar/sqcode.c that allows att… |
+| 2026-11-04 13:17:28 | [CVE-2026-121943](https://nvd.nist.gov/vuln/detail/CVE-2026-121943) | Medium | 6.3 | Irontec sngrep through 1.9.0 contains an out-of-bounds stack read vulnerability in sip_check_packet and sip_validate_pa… |
+| 2026-11-04 13:17:29 | [CVE-2026-121944](https://nvd.nist.gov/vuln/detail/CVE-2026-121944) | Medium | 6.8 | sngrep through 1.9.0 contains an infinite loop vulnerability in capture_packet_reasm_ip() in src/capture.c that allows… |
+| 2026-11-04 13:17:29 | [CVE-2026-121945](https://nvd.nist.gov/vuln/detail/CVE-2026-121945) | High | 7.2 | CoopCycle coopcycle-web before 6.20.1 contains a broken access control vulnerability that allows any courier to read an… |
+| 2026-11-04 13:17:29 | [CVE-2026-121946](https://nvd.nist.gov/vuln/detail/CVE-2026-121946) | Medium | 6.9 | zbateson mail-mime-parser before 3.0.9 and 4.x before 4.0.6 contains a CRLF header injection vulnerability in message-b… |
+| 2026-11-04 13:17:29 | [CVE-2026-121970](https://nvd.nist.gov/vuln/detail/CVE-2026-121970) | Medium | 6.3 | Pay with Vipps and MobilePay for WooCommerce (woo-vipps) before 6.4.1 contains an improper cryptographic signature veri… |
+| 2026-11-04 13:17:30 | [CVE-2026-65555](https://nvd.nist.gov/vuln/detail/CVE-2026-65555) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in Uncanny Owl Uncanny Toolkit for LearnDash uncanny-learndash-toolkit all… |
 
 ## Data source
 
