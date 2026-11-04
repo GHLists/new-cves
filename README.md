@@ -9,18 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 01:18 UTC
+## Latest list — 2026-11-04 02:18 UTC
 
-New CVEs published between 2026-11-04 00:18 UTC and 2026-11-04 01:18 UTC.
+New CVEs published between 2026-11-04 01:18 UTC and 2026-11-04 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T01-18-18-808474Z.csv)
+[Full CSV](data/new-cves-2026-11-04T02-18-18-279489Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 01:17:23 | [CVE-2026-121598](https://nvd.nist.gov/vuln/detail/CVE-2026-121598) | High | 8.6 | A security vulnerability has been detected in TOTOLINK A950RG 4.1.2cu.5268_B20221104. This impacts the function strcpy… |
-| 2026-11-04 01:17:23 | [CVE-2026-121599](https://nvd.nist.gov/vuln/detail/CVE-2026-121599) | High | 8.6 | A vulnerability was detected in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected is the function setWiFiMultipleConfig/… |
-| 2026-11-04 01:17:23 | [CVE-2026-121600](https://nvd.nist.gov/vuln/detail/CVE-2026-121600) | High | 8.6 | A flaw has been found in TOTOLINK A950RG 4.1.2cu.5268_B20221104. Affected by this vulnerability is the function setMacF… |
-| 2026-11-04 01:17:23 | [CVE-2026-121606](https://nvd.nist.gov/vuln/detail/CVE-2026-121606) | Critical | 9.3 | A vulnerability has been found in Qihoo 360 D621-2, D603-2, D600-2, D619, D606-6 and D706 up to 6.4.9. Affected by this… |
+| 2026-11-04 02:17:14 | [CVE-2026-110464](https://nvd.nist.gov/vuln/detail/CVE-2026-110464) | Medium | 6.9 | Missing authorization in ASUS Armoury Crate allows a local attacker to write content into a specific file or registry l… |
+| 2026-11-04 02:17:14 | [CVE-2026-112116](https://nvd.nist.gov/vuln/detail/CVE-2026-112116) | High | 8.5 | An exposed IOCTL with insufficient access control in ASUS System Control Interface allows a local, low-privileged user… |
+| 2026-11-04 02:17:19 | [CVE-2026-121607](https://nvd.nist.gov/vuln/detail/CVE-2026-121607) | Critical | 9.3 | A vulnerability was found in Qihoo 360 D603-2, D600-2, D606-6 and D706 up to 6.4.9. This affects the function testspeed… |
+| 2026-11-04 02:17:20 | [CVE-2026-121609](https://nvd.nist.gov/vuln/detail/CVE-2026-121609) | Critical | 9.3 | A vulnerability was identified in Qihoo 360 Whole Home Router M5 4.0.17.1566. This issue affects the function Home of t… |
+| 2026-11-04 02:17:20 | [CVE-2026-121610](https://nvd.nist.gov/vuln/detail/CVE-2026-121610) | Medium | 5.5 | A security flaw has been discovered in funadmin 7.1.0. Impacted is the function Curd::selectList of the file /frontend/… |
+| 2026-11-04 02:17:20 | [CVE-2026-121608](https://nvd.nist.gov/vuln/detail/CVE-2026-121608) | Medium | 5.5 | A vulnerability was determined in Qihoo 360 D603-2, D600-2 and D606-6 up to 6.3.2. This vulnerability affects the funct… |
+| 2026-11-04 02:17:21 | [CVE-2026-84729](https://nvd.nist.gov/vuln/detail/CVE-2026-84729) | High | 7.2 | Out-of-bounds write in certain ASUS Router firmware allow an unauthenticated nearby attacker to write data beyond the i… |
+| 2026-11-04 02:17:21 | [CVE-2026-84730](https://nvd.nist.gov/vuln/detail/CVE-2026-84730) | High | 8.7 | Stack-based buffer overflow in certain ASUS Router firmware allows an unauthenticated nearby attacker to execute arbitr… |
 
 ## Data source
 
