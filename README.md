@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 03:20 UTC
+## Latest list — 2026-11-04 04:19 UTC
 
-New CVEs published between 2026-11-04 02:18 UTC and 2026-11-04 03:20 UTC.
+New CVEs published between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T03-20-10-729701Z.csv)
+[Full CSV](data/new-cves-2026-11-04T04-19-08-43496Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 03:17:14 | [CVE-2026-121615](https://nvd.nist.gov/vuln/detail/CVE-2026-121615) | Critical | 9.3 | A vulnerability was determined in Linksys E5600 1.1.0.26. Affected is an unknown function of the file /cgi-bin/mesh_log… |
-| 2026-11-04 03:17:15 | [CVE-2026-121616](https://nvd.nist.gov/vuln/detail/CVE-2026-121616) | Medium | 5.5 | A vulnerability was identified in Linksys E5600 1.1.0.26. Affected by this vulnerability is the function strcpy of the… |
-| 2026-11-04 03:17:15 | [CVE-2026-121617](https://nvd.nist.gov/vuln/detail/CVE-2026-121617) | High | 7.7 | A security flaw has been discovered in Linksys E5600 1.1.0.26. Affected by this issue is the function init_multipart of… |
-| 2026-11-04 03:17:15 | [CVE-2026-121618](https://nvd.nist.gov/vuln/detail/CVE-2026-121618) | Medium | 5.5 | A weakness has been identified in Linksys E5600 1.1.0.26. This affects an unknown part of the file /cgi-bin/fqc.cgi of… |
-| 2026-11-04 03:17:15 | [CVE-2026-121802](https://nvd.nist.gov/vuln/detail/CVE-2026-121802) | Critical | 9.1 | @better-auth/expo before 1.7.16 allows certain account-takeover outcomes (e.g., unauthenticated changes of any account'… |
+| 2026-11-04 04:17:33 | [CVE-2026-121803](https://nvd.nist.gov/vuln/detail/CVE-2026-121803) | Critical | 9.3 | In UFS Field Firmware Update (FFU) functionality, there is a possible out-of-bounds write due to missing bounds checkin… |
+| 2026-11-04 04:17:37 | [CVE-2026-79405](https://nvd.nist.gov/vuln/detail/CVE-2026-79405) | High | 7.5 | In Modem Firmware, there is a possible system crash due to improper input validation of dedicated PUCCH configuration.… |
+| 2026-11-04 04:17:37 | [CVE-2026-80335](https://nvd.nist.gov/vuln/detail/CVE-2026-80335) | High | 7.6 | In the bootloader download module, there is a possible out-of-bounds write due to a failure to reset a global offset va… |
 
 ## Data source
 
