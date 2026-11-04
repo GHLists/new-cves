@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:19 UTC
+## Latest list — 2026-11-04 05:18 UTC
 
-New CVEs published between 2026-11-04 03:20 UTC and 2026-11-04 04:19 UTC.
+New CVEs published between 2026-11-04 04:19 UTC and 2026-11-04 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-04T04-19-08-43496Z.csv)
+[Full CSV](data/new-cves-2026-11-04T05-18-30-545947Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-04 04:17:33 | [CVE-2026-121803](https://nvd.nist.gov/vuln/detail/CVE-2026-121803) | Critical | 9.3 | In UFS Field Firmware Update (FFU) functionality, there is a possible out-of-bounds write due to missing bounds checkin… |
-| 2026-11-04 04:17:37 | [CVE-2026-79405](https://nvd.nist.gov/vuln/detail/CVE-2026-79405) | High | 7.5 | In Modem Firmware, there is a possible system crash due to improper input validation of dedicated PUCCH configuration.… |
-| 2026-11-04 04:17:37 | [CVE-2026-80335](https://nvd.nist.gov/vuln/detail/CVE-2026-80335) | High | 7.6 | In the bootloader download module, there is a possible out-of-bounds write due to a failure to reset a global offset va… |
+| 2026-11-04 05:18:21 | [CVE-2026-105296](https://nvd.nist.gov/vuln/detail/CVE-2026-105296) | Medium | 5.1 | Multiple Akeeba products lack the anti-CSRF check on some actions. If the user access a malicious page while logged int… |
 
 ## Data source
 

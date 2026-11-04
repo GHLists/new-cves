@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-04T05:18:21.367Z,CVE-2026-105296,MEDIUM,5.1,Received,CWE-352,3,"Multiple Akeeba products lack the anti-CSRF check on some actions. If the user access a malicious page while logged into the product, unintended operations may be performed."
