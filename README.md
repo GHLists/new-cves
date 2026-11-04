@@ -9,58 +9,65 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 23:18 UTC
+## Latest list — 2026-11-04 00:18 UTC
 
-New CVEs published between 2026-11-03 22:21 UTC and 2026-11-03 23:18 UTC.
+New CVEs published between 2026-11-03 23:18 UTC and 2026-11-04 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-03T23-18-20-127912Z.csv)
+[Full CSV](data/new-cves-2026-11-04T00-18-19-408505Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-03 23:17:20 | [CVE-2022-29966](https://nvd.nist.gov/vuln/detail/CVE-2022-29966) | Critical | 9.3 | Emerson Ovation has several protocols that have no authentication, which could allow an attacker to change controller c… |
-| 2026-11-03 23:17:21 | [CVE-2022-30267](https://nvd.nist.gov/vuln/detail/CVE-2022-30267) | High | 8.7 | Emerson Ovation was found to have no authentication of firmware signing and relies on an insecure checksum for integrit… |
-| 2026-11-03 23:17:24 | [CVE-2026-103429](https://nvd.nist.gov/vuln/detail/CVE-2026-103429) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-03 23:17:24 | [CVE-2026-104608](https://nvd.nist.gov/vuln/detail/CVE-2026-104608) | High | 7.7 | A remote code execution vulnerability was identified in GitHub Enterprise Server in the Git service (babeld). babeld he… |
-| 2026-11-03 23:17:24 | [CVE-2026-107916](https://nvd.nist.gov/vuln/detail/CVE-2026-107916) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-03 23:17:24 | [CVE-2026-108324](https://nvd.nist.gov/vuln/detail/CVE-2026-108324) | Medium | 6.5 | Tanium addressed a denial of service vulnerability in Tanium Client. |
-| 2026-11-03 23:17:24 | [CVE-2026-108327](https://nvd.nist.gov/vuln/detail/CVE-2026-108327) | Medium | 5.0 | Tanium addressed a path traversal vulnerability in Tanium Data Service. |
-| 2026-11-03 23:17:25 | [CVE-2026-108516](https://nvd.nist.gov/vuln/detail/CVE-2026-108516) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-03 23:17:25 | [CVE-2026-109836](https://nvd.nist.gov/vuln/detail/CVE-2026-109836) | High | 8.4 | The Core Temp kernel driver provided by ALCPU is vulnerable to insufficient access control in an exposed IOCTL, which m… |
-| 2026-11-03 23:17:25 | [CVE-2026-110288](https://nvd.nist.gov/vuln/detail/CVE-2026-110288) | Medium | 5.3 | A cross-site request forgery vulnerability was identified in GitHub Enterprise Server that allowed an unauthenticated a… |
-| 2026-11-03 23:17:26 | [CVE-2026-111085](https://nvd.nist.gov/vuln/detail/CVE-2026-111085) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-03 23:17:30 | [CVE-2026-116646](https://nvd.nist.gov/vuln/detail/CVE-2026-116646) | Medium | 4.3 | Tanium addressed an uncontrolled resource consumption vulnerability in Threat Response. |
-| 2026-11-03 23:17:30 | [CVE-2026-116648](https://nvd.nist.gov/vuln/detail/CVE-2026-116648) | Medium | 4.1 | Tanium addressed an improper output sanitization vulnerability in Discover. |
-| 2026-11-03 23:17:30 | [CVE-2026-116650](https://nvd.nist.gov/vuln/detail/CVE-2026-116650) | High | 7.5 | Tanium addressed an unauthorized code execution vulnerability in Threat Response. |
-| 2026-11-03 23:17:30 | [CVE-2026-116651](https://nvd.nist.gov/vuln/detail/CVE-2026-116651) | High | 7.5 | Tanium addressed an unauthorized code execution vulnerability in Threat Response. |
-| 2026-11-03 23:17:31 | [CVE-2026-116652](https://nvd.nist.gov/vuln/detail/CVE-2026-116652) | Medium | 4.3 | Tanium addressed a business logic error in Threat Response. |
-| 2026-11-03 23:17:31 | [CVE-2026-116653](https://nvd.nist.gov/vuln/detail/CVE-2026-116653) | Medium | 4.3 | Tanium addressed an improper input validation vulnerability in Threat Response. |
-| 2026-11-03 23:17:31 | [CVE-2026-116654](https://nvd.nist.gov/vuln/detail/CVE-2026-116654) | Medium | 6.5 | Tanium addressed an improper input validation vulnerability in Threat Response. |
-| 2026-11-03 23:17:31 | [CVE-2026-116661](https://nvd.nist.gov/vuln/detail/CVE-2026-116661) | Medium | 6.5 | Tanium addressed an improper access controls vulnerability in Enforce. |
-| 2026-11-03 23:17:31 | [CVE-2026-116663](https://nvd.nist.gov/vuln/detail/CVE-2026-116663) | Medium | 6.5 | Tanium addressed an improper access controls vulnerability in Enforce. |
-| 2026-11-03 23:17:31 | [CVE-2026-116664](https://nvd.nist.gov/vuln/detail/CVE-2026-116664) | Low | 3.1 | Tanium addressed an improper access controls vulnerability in Discover. |
-| 2026-11-03 23:17:31 | [CVE-2026-116665](https://nvd.nist.gov/vuln/detail/CVE-2026-116665) | Medium | 4.3 | Tanium addressed an information disclosure vulnerability in Discover. |
-| 2026-11-03 23:17:32 | [CVE-2026-116666](https://nvd.nist.gov/vuln/detail/CVE-2026-116666) | Medium | 4.3 | Tanium addressed an information disclosure vulnerability in Discover. |
-| 2026-11-03 23:17:32 | [CVE-2026-116667](https://nvd.nist.gov/vuln/detail/CVE-2026-116667) | Medium | 4.2 | Tanium addressed an improper access controls vulnerability in Discover. |
-| 2026-11-03 23:17:32 | [CVE-2026-116668](https://nvd.nist.gov/vuln/detail/CVE-2026-116668) | Medium | 4.3 | Tanium addressed an uncontrolled resource consumption vulnerability in Discover. |
-| 2026-11-03 23:17:32 | [CVE-2026-116669](https://nvd.nist.gov/vuln/detail/CVE-2026-116669) | Medium | 6.5 | Tanium addressed an improper access controls vulnerability in Discover. |
-| 2026-11-03 23:17:33 | [CVE-2026-118237](https://nvd.nist.gov/vuln/detail/CVE-2026-118237) | Medium | 5.3 | An out-of-bounds read vulnerability was identified in GitHub Enterprise Server in the Git service (babeld). When provin… |
-| 2026-11-03 23:17:33 | [CVE-2026-120775](https://nvd.nist.gov/vuln/detail/CVE-2026-120775) | High | 7.2 | Tanium addressed a heap-based buffer overflow vulnerability in Deploy. |
-| 2026-11-03 23:17:34 | [CVE-2026-121520](https://nvd.nist.gov/vuln/detail/CVE-2026-121520) | Medium | 4.5 | In BuildKit versions prior to v0.34.1, a malicious client with access to the BuildKit control APIs can submit a build r… |
-| 2026-11-03 23:17:34 | [CVE-2026-121535](https://nvd.nist.gov/vuln/detail/CVE-2026-121535) | Low | 2.9 | A vulnerability was found in miroslavpejic85 MiroTalk P2P up to 2.0.87. This vulnerability affects the function checkPa… |
-| 2026-11-03 23:17:34 | [CVE-2026-121539](https://nvd.nist.gov/vuln/detail/CVE-2026-121539) | Medium | 5.3 | A vulnerability was found in miroslavpejic85 MiroTalk P2P up to 2.0.87/2.1.38. Affected by this issue is the function C… |
-| 2026-11-03 23:17:35 | [CVE-2026-121565](https://nvd.nist.gov/vuln/detail/CVE-2026-121565) | High | 7.4 | Tanium addressed an improper certificate validation vulnerability in multiple products. Products have been updated to d… |
-| 2026-11-03 23:17:35 | [CVE-2026-121581](https://nvd.nist.gov/vuln/detail/CVE-2026-121581) | Low | 2.1 | A vulnerability has been found in ArcReel 0.32.0/0.33.0/0.34.0. The impacted element is an unknown function of the file… |
-| 2026-11-03 23:17:35 | [CVE-2026-121582](https://nvd.nist.gov/vuln/detail/CVE-2026-121582) | Medium | 5.5 | A vulnerability has been found in Umami up to 3.4.1. Impacted is an unknown function of the file src/app/api/record/rou… |
-| 2026-11-03 23:17:36 | [CVE-2026-121727](https://nvd.nist.gov/vuln/detail/CVE-2026-121727) | High | 8.7 | Kore before 4.3.0 contains an integer underflow vulnerability in HTTP request body handling that allows unauthenticated… |
-| 2026-11-03 23:17:36 | [CVE-2026-121728](https://nvd.nist.gov/vuln/detail/CVE-2026-121728) | Medium | 6.9 | SourceHut meta.sr.ht 0.56.11 before 0.89.0 contains an authorization bypass vulnerability that allows unauthenticated a… |
-| 2026-11-03 23:17:36 | [CVE-2026-121729](https://nvd.nist.gov/vuln/detail/CVE-2026-121729) | High | 7.2 | emailflare before commit cf31f33 contains a missing authorization vulnerability in the inbox service /api/keys routes t… |
-| 2026-11-03 23:17:36 | [CVE-2026-121730](https://nvd.nist.gov/vuln/detail/CVE-2026-121730) | High | 7.1 | emailflare before commit cf31f33 contains a missing authorization vulnerability in POST /api/inbox/compose that allows… |
-| 2026-11-03 23:17:36 | [CVE-2026-121731](https://nvd.nist.gov/vuln/detail/CVE-2026-121731) | High | 8.7 | RosarioSIS before 12.9 contains a sql injection vulnerability that allows authenticated non-student users, including pa… |
-| 2026-11-03 23:17:36 | [CVE-2026-121732](https://nvd.nist.gov/vuln/detail/CVE-2026-121732) | Low | 2.1 | RosarioSIS before 12.9 contains an improper authorization vulnerability that allows school-scoped administrators to ass… |
-| 2026-11-03 23:17:37 | [CVE-2026-121733](https://nvd.nist.gov/vuln/detail/CVE-2026-121733) | Low | 2.1 | Bagisto before 2.4.5 contains a stored cross-site scripting vulnerability that allows authenticated customers to upload… |
-| 2026-11-03 23:17:37 | [CVE-2026-121734](https://nvd.nist.gov/vuln/detail/CVE-2026-121734) | Medium | 6.0 | ZaneOps 1.14.0 before 1.15.2 contains an authorization bypass vulnerability that allows any workspace administrator to… |
-| 2026-11-03 23:17:37 | [CVE-2026-121735](https://nvd.nist.gov/vuln/detail/CVE-2026-121735) | Medium | 6.3 | blueprintUE self-hosted edition before 4.3.4 contains an insufficient session expiration vulnerability that allows atta… |
-| 2026-11-03 23:17:37 | [CVE-2026-121736](https://nvd.nist.gov/vuln/detail/CVE-2026-121736) | Medium | 6.9 | NocoDB 0.300.0 before 2026.08.0 contains a missing authentication vulnerability in the POST /api/v2/oauth/authorize han… |
+| 2026-11-04 00:17:22 | [CVE-2026-114549](https://nvd.nist.gov/vuln/detail/CVE-2026-114549) | Critical | 9.8 | NoMachine nxwebrunner Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote… |
+| 2026-11-04 00:17:22 | [CVE-2026-114550](https://nvd.nist.gov/vuln/detail/CVE-2026-114550) | High | 8.1 | libwebsockets MQTT Protocol PUBACK Packet Handling Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulner… |
+| 2026-11-04 00:17:22 | [CVE-2026-114551](https://nvd.nist.gov/vuln/detail/CVE-2026-114551) | Medium | 5.9 | MailEnable Auth Cleartext Storage Information Disclosure Vulnerability. This vulnerability allows remote attackers to d… |
+| 2026-11-04 00:17:23 | [CVE-2026-114552](https://nvd.nist.gov/vuln/detail/CVE-2026-114552) | Medium | 6.5 | MailEnable parseObjectResponse XML External Entity Processing Information Disclosure Vulnerability. This vulnerability… |
+| 2026-11-04 00:17:23 | [CVE-2026-118623](https://nvd.nist.gov/vuln/detail/CVE-2026-118623) | High | 7.8 | MLflow PickleEvaluationArtifact Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerabili… |
+| 2026-11-04 00:17:23 | [CVE-2026-118624](https://nvd.nist.gov/vuln/detail/CVE-2026-118624) | Medium | 5.4 | MLflow Tracking Server Jobs Missing Authorization Information Disclosure Vulnerability. This vulnerability allows remot… |
+| 2026-11-04 00:17:23 | [CVE-2026-118625](https://nvd.nist.gov/vuln/detail/CVE-2026-118625) | Medium | 6.3 | MLflow Tracking Server Missing Authorization Privilege Escalation Vulnerability. This vulnerability allows remote attac… |
+| 2026-11-04 00:17:23 | [CVE-2026-118626](https://nvd.nist.gov/vuln/detail/CVE-2026-118626) | Medium | 5.4 | MLflow Tracking Server Issues Missing Authorization Privilege Escalation Vulnerability. This vulnerability allows remot… |
+| 2026-11-04 00:17:23 | [CVE-2026-118627](https://nvd.nist.gov/vuln/detail/CVE-2026-118627) | High | 7.8 | MLflow SHAP load_explainer Deserialization of Untrusted Data Remote Code Execution Vulnerability. This vulnerability al… |
+| 2026-11-04 00:17:24 | [CVE-2026-118628](https://nvd.nist.gov/vuln/detail/CVE-2026-118628) | High | 8.2 | MLflow get-artifacts Server-Side Request Forgery Information Disclosure Vulnerability. This vulnerability allows remote… |
+| 2026-11-04 00:17:24 | [CVE-2026-120631](https://nvd.nist.gov/vuln/detail/CVE-2026-120631) |  |  | CGI::Cookie versions from 4.67 before 5.00 for Perl allow denial of service via the client cookie expires value used as… |
+| 2026-11-04 00:17:24 | [CVE-2026-120632](https://nvd.nist.gov/vuln/detail/CVE-2026-120632) |  |  | CGI versions before 5.00 for Perl allow CPU exhaustion via a backtracking regex on the XForms multipart/related Content… |
+| 2026-11-04 00:17:24 | [CVE-2026-120633](https://nvd.nist.gov/vuln/detail/CVE-2026-120633) |  |  | CGI versions before 5.00 for Perl trust the client X-Forwarded-Host header in url, self_url, virtual_host and virtual_p… |
+| 2026-11-04 00:17:24 | [CVE-2026-120634](https://nvd.nist.gov/vuln/detail/CVE-2026-120634) |  |  | CGI::Carp versions before 5.00 for Perl leak warnings across requests in persistent environments via the warningsToBrow… |
+| 2026-11-04 00:17:24 | [CVE-2026-120635](https://nvd.nist.gov/vuln/detail/CVE-2026-120635) |  |  | CGI versions before 5.00 for Perl allow form fields to be smuggled past proxies and WAFs via multipart parsing that dif… |
+| 2026-11-04 00:17:24 | [CVE-2026-120636](https://nvd.nist.gov/vuln/detail/CVE-2026-120636) |  |  | CGI versions before 5.00 for Perl allow open redirects and script injection via URLs built from REQUEST_URI in url and… |
+| 2026-11-04 00:17:24 | [CVE-2026-120637](https://nvd.nist.gov/vuln/detail/CVE-2026-120637) |  |  | CGI versions before 5.00 for Perl take request parameters from the process command line arguments for an unrecognised R… |
+| 2026-11-04 00:17:25 | [CVE-2026-120638](https://nvd.nist.gov/vuln/detail/CVE-2026-120638) |  |  | CGI versions before 5.00 for Perl allow open redirects via HTML entity decoding of the URL after application validation… |
+| 2026-11-04 00:17:25 | [CVE-2026-120639](https://nvd.nist.gov/vuln/detail/CVE-2026-120639) |  |  | CGI versions before 5.00 for Perl allow HTTP header injection via entity decoding after the newline check in header and… |
+| 2026-11-04 00:17:25 | [CVE-2026-120640](https://nvd.nist.gov/vuln/detail/CVE-2026-120640) |  |  | CGI versions before 5.00 for Perl allow the POSTDATA, PUTDATA, PATCHDATA and XForms:Model parameters to be set from the… |
+| 2026-11-04 00:17:25 | [CVE-2026-120641](https://nvd.nist.gov/vuln/detail/CVE-2026-120641) |  |  | CGI versions before 5.00 for Perl return upload filenames with any client-supplied path, including ../ and Windows path… |
+| 2026-11-04 00:17:25 | [CVE-2026-120642](https://nvd.nist.gov/vuln/detail/CVE-2026-120642) |  |  | CGI versions before 5.00 for Perl return request-derived values untainted under taint mode. The upload filename, upload… |
+| 2026-11-04 00:17:25 | [CVE-2026-120643](https://nvd.nist.gov/vuln/detail/CVE-2026-120643) |  |  | CGI versions from 4.62 before 5.00 for Perl allow cross-site scripting via a raw apostrophe in URLs returned by url and… |
+| 2026-11-04 00:17:25 | [CVE-2026-120644](https://nvd.nist.gov/vuln/detail/CVE-2026-120644) |  |  | CGI::Cookie versions before 5.00 for Perl allow cookie attribute injection via unvalidated path, domain and expires val… |
+| 2026-11-04 00:17:26 | [CVE-2026-120645](https://nvd.nist.gov/vuln/detail/CVE-2026-120645) |  |  | CGI versions before 5.00 for Perl allow denial of service via submitted values used as a regex for optgroup selection i… |
+| 2026-11-04 00:17:26 | [CVE-2026-120646](https://nvd.nist.gov/vuln/detail/CVE-2026-120646) |  |  | CGI versions from 4.71 before 5.00 for Perl allow denial of service via a plain string dereferenced as a symbolic refer… |
+| 2026-11-04 00:17:26 | [CVE-2026-120647](https://nvd.nist.gov/vuln/detail/CVE-2026-120647) |  |  | CGI versions before 5.00 for Perl allow Content-Disposition parameter injection via unescaped double quotes in the head… |
+| 2026-11-04 00:17:26 | [CVE-2026-120648](https://nvd.nist.gov/vuln/detail/CVE-2026-120648) |  |  | CGI versions before 5.00 for Perl allow HTML injection via text containing --> in comment. Arguments are placed between… |
+| 2026-11-04 00:17:26 | [CVE-2026-120650](https://nvd.nist.gov/vuln/detail/CVE-2026-120650) |  |  | CGI versions before 5.00 for Perl allow memory, CPU and disk exhaustion via missing or unenforced request size, paramet… |
+| 2026-11-04 00:17:26 | [CVE-2026-120651](https://nvd.nist.gov/vuln/detail/CVE-2026-120651) |  |  | CGI versions before 5.00 for Perl allow an infinite loop on a short request body when $DISABLE_UPLOADS is set. When $CG… |
+| 2026-11-04 00:17:26 | [CVE-2026-121583](https://nvd.nist.gov/vuln/detail/CVE-2026-121583) | Low | 2.1 | A vulnerability was identified in Sanluan PublicCMS 5. This affects the function TradePaymentService.pendingRefund of t… |
+| 2026-11-04 00:17:26 | [CVE-2026-121585](https://nvd.nist.gov/vuln/detail/CVE-2026-121585) | Low | 2.1 | A security flaw has been discovered in InfiniFlow RAGFlow up to 0.27.2/1.0.0-rc2. This impacts the function RunSQL of t… |
+| 2026-11-04 00:17:27 | [CVE-2026-121589](https://nvd.nist.gov/vuln/detail/CVE-2026-121589) | Medium | 5.5 | A weakness has been identified in spatie url-signer up to 2.1.3. Affected is the function AbstractUrlSigner::validate o… |
+| 2026-11-04 00:17:27 | [CVE-2026-121597](https://nvd.nist.gov/vuln/detail/CVE-2026-121597) | High | 8.6 | A weakness has been identified in TOTOLINK A950RG 4.1.2cu.5268_B20221104. This affects the function setAppEasyWizardCon… |
+| 2026-11-04 00:17:28 | [CVE-2026-92185](https://nvd.nist.gov/vuln/detail/CVE-2026-92185) | High | 7.2 | Quest Foglight for Databases AbstractParser XML External Entity Processing Information Disclosure Vulnerability. This v… |
+| 2026-11-04 00:17:28 | [CVE-2026-92186](https://nvd.nist.gov/vuln/detail/CVE-2026-92186) | High | 8.8 | Quest Foglight for Databases paFnUploadFileAndCreateInfo Directory Traversal Remote Code Execution Vulnerability. This… |
+| 2026-11-04 00:17:28 | [CVE-2026-92187](https://nvd.nist.gov/vuln/detail/CVE-2026-92187) | High | 8.8 | Quest Foglight for Databases extractAndCreateUploadInfoList Directory Traversal Remote Code Execution Vulnerability. Th… |
+| 2026-11-04 00:17:29 | [CVE-2026-92188](https://nvd.nist.gov/vuln/detail/CVE-2026-92188) | Critical | 9.8 | Quest Foglight for Databases ForgeMBeanServerSupport Missing Authentication Remote Code Execution Vulnerability. This v… |
+| 2026-11-04 00:17:29 | [CVE-2026-92189](https://nvd.nist.gov/vuln/detail/CVE-2026-92189) | Critical | 9.8 | Quest Foglight for Databases writeTopologySectionToFile External Control of File Path Remote Code Execution Vulnerabili… |
+| 2026-11-04 00:17:29 | [CVE-2026-92190](https://nvd.nist.gov/vuln/detail/CVE-2026-92190) | Critical | 9.8 | Quest Foglight for Databases baseRmiServiceExporter Deserialization of Untrusted Data Remote Code Execution Vulnerabili… |
+| 2026-11-04 00:17:29 | [CVE-2026-92191](https://nvd.nist.gov/vuln/detail/CVE-2026-92191) | High | 8.8 | Quest Foglight for Databases runScript Incorrect Authorization Remote Code Execution Vulnerability. This vulnerability… |
+| 2026-11-04 00:17:29 | [CVE-2026-92192](https://nvd.nist.gov/vuln/detail/CVE-2026-92192) | High | 8.8 | Quest Foglight for Databases installLicense Directory Traversal Remote Code Execution Vulnerability. This vulnerability… |
+| 2026-11-04 00:17:29 | [CVE-2026-92193](https://nvd.nist.gov/vuln/detail/CVE-2026-92193) | Medium | 6.5 | Quest Foglight for Databases FileServlet External Control of File Path Information Disclosure Vulnerability. This vulne… |
+| 2026-11-04 00:17:30 | [CVE-2026-92194](https://nvd.nist.gov/vuln/detail/CVE-2026-92194) | High | 8.8 | Quest Foglight for Databases loadManageServerLicense Directory Traversal Remote Code Execution Vulnerability. This vuln… |
+| 2026-11-04 00:17:30 | [CVE-2026-92195](https://nvd.nist.gov/vuln/detail/CVE-2026-92195) | High | 8.8 | Quest Foglight for Databases loadEvolveLicense Directory Traversal Remote Code Execution Vulnerability. This vulnerabil… |
+| 2026-11-04 00:17:30 | [CVE-2026-92196](https://nvd.nist.gov/vuln/detail/CVE-2026-92196) | High | 7.2 | Quest Foglight for Databases renderTemplateString Server-Side Template Injection Remote Code Execution Vulnerability. T… |
+| 2026-11-04 00:17:30 | [CVE-2026-92197](https://nvd.nist.gov/vuln/detail/CVE-2026-92197) | High | 8.8 | Quest Foglight for Databases unzipFile Directory Traversal Remote Code Execution Vulnerability. This vulnerability allo… |
+| 2026-11-04 00:17:30 | [CVE-2026-92198](https://nvd.nist.gov/vuln/detail/CVE-2026-92198) | High | 8.2 | Quest Foglight for Databases getSource XML External Entity Processing Information Disclosure Vulnerability. This vulner… |
+| 2026-11-04 00:17:30 | [CVE-2026-92199](https://nvd.nist.gov/vuln/detail/CVE-2026-92199) | High | 7.8 | Quest Foglight for Databases EncryptionUtil Hardcoded Encyption Key Local Privilege Escalation Vulnerability. This vuln… |
+| 2026-11-04 00:17:31 | [CVE-2026-92200](https://nvd.nist.gov/vuln/detail/CVE-2026-92200) | High | 7.8 | Quest Foglight for Databases Incorrect Permission Assignment Local Privilege Escalation Vulnerability. This vulnerabili… |
+| 2026-11-04 00:17:31 | [CVE-2026-92211](https://nvd.nist.gov/vuln/detail/CVE-2026-92211) | High | 7.8 | Pixar Animation Studio OpenUSD Crate File Parsing Double Free Remote Code Execution Vulnerability. This vulnerability a… |
 
 ## Data source
 
