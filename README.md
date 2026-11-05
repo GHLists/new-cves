@@ -9,216 +9,50 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 16:19 UTC
+## Latest list — 2026-11-05 17:18 UTC
 
-New CVEs published between 2026-11-05 15:19 UTC and 2026-11-05 16:19 UTC.
+New CVEs published between 2026-11-05 16:19 UTC and 2026-11-05 17:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T16-19-18-21211Z.csv)
+[Full CSV](data/new-cves-2026-11-05T17-18-43-037926Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 16:16:55 | [CVE-2019-16447](https://nvd.nist.gov/vuln/detail/CVE-2019-16447) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16472](https://nvd.nist.gov/vuln/detail/CVE-2019-16472) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16473](https://nvd.nist.gov/vuln/detail/CVE-2019-16473) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16474](https://nvd.nist.gov/vuln/detail/CVE-2019-16474) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16475](https://nvd.nist.gov/vuln/detail/CVE-2019-16475) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16476](https://nvd.nist.gov/vuln/detail/CVE-2019-16476) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16477](https://nvd.nist.gov/vuln/detail/CVE-2019-16477) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:55 | [CVE-2019-16478](https://nvd.nist.gov/vuln/detail/CVE-2019-16478) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16479](https://nvd.nist.gov/vuln/detail/CVE-2019-16479) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16480](https://nvd.nist.gov/vuln/detail/CVE-2019-16480) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16481](https://nvd.nist.gov/vuln/detail/CVE-2019-16481) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16482](https://nvd.nist.gov/vuln/detail/CVE-2019-16482) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16484](https://nvd.nist.gov/vuln/detail/CVE-2019-16484) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16483](https://nvd.nist.gov/vuln/detail/CVE-2019-16483) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16485](https://nvd.nist.gov/vuln/detail/CVE-2019-16485) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16486](https://nvd.nist.gov/vuln/detail/CVE-2019-16486) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16487](https://nvd.nist.gov/vuln/detail/CVE-2019-16487) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16488](https://nvd.nist.gov/vuln/detail/CVE-2019-16488) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16489](https://nvd.nist.gov/vuln/detail/CVE-2019-16489) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16490](https://nvd.nist.gov/vuln/detail/CVE-2019-16490) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:56 | [CVE-2019-16491](https://nvd.nist.gov/vuln/detail/CVE-2019-16491) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16492](https://nvd.nist.gov/vuln/detail/CVE-2019-16492) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16493](https://nvd.nist.gov/vuln/detail/CVE-2019-16493) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16494](https://nvd.nist.gov/vuln/detail/CVE-2019-16494) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16495](https://nvd.nist.gov/vuln/detail/CVE-2019-16495) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16496](https://nvd.nist.gov/vuln/detail/CVE-2019-16496) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16497](https://nvd.nist.gov/vuln/detail/CVE-2019-16497) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16498](https://nvd.nist.gov/vuln/detail/CVE-2019-16498) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16499](https://nvd.nist.gov/vuln/detail/CVE-2019-16499) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16500](https://nvd.nist.gov/vuln/detail/CVE-2019-16500) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16501](https://nvd.nist.gov/vuln/detail/CVE-2019-16501) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16502](https://nvd.nist.gov/vuln/detail/CVE-2019-16502) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16503](https://nvd.nist.gov/vuln/detail/CVE-2019-16503) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16504](https://nvd.nist.gov/vuln/detail/CVE-2019-16504) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:57 | [CVE-2019-16505](https://nvd.nist.gov/vuln/detail/CVE-2019-16505) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-16506](https://nvd.nist.gov/vuln/detail/CVE-2019-16506) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-16507](https://nvd.nist.gov/vuln/detail/CVE-2019-16507) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7126](https://nvd.nist.gov/vuln/detail/CVE-2019-7126) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7856](https://nvd.nist.gov/vuln/detail/CVE-2019-7856) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7879](https://nvd.nist.gov/vuln/detail/CVE-2019-7879) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7883](https://nvd.nist.gov/vuln/detail/CVE-2019-7883) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7891](https://nvd.nist.gov/vuln/detail/CVE-2019-7891) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7893](https://nvd.nist.gov/vuln/detail/CVE-2019-7893) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7907](https://nvd.nist.gov/vuln/detail/CVE-2019-7907) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7916](https://nvd.nist.gov/vuln/detail/CVE-2019-7916) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7917](https://nvd.nist.gov/vuln/detail/CVE-2019-7917) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7918](https://nvd.nist.gov/vuln/detail/CVE-2019-7918) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:58 | [CVE-2019-7920](https://nvd.nist.gov/vuln/detail/CVE-2019-7920) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-7922](https://nvd.nist.gov/vuln/detail/CVE-2019-7922) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-7943](https://nvd.nist.gov/vuln/detail/CVE-2019-7943) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-7924](https://nvd.nist.gov/vuln/detail/CVE-2019-7924) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-7949](https://nvd.nist.gov/vuln/detail/CVE-2019-7949) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-7952](https://nvd.nist.gov/vuln/detail/CVE-2019-7952) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-8065](https://nvd.nist.gov/vuln/detail/CVE-2019-8065) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-8067](https://nvd.nist.gov/vuln/detail/CVE-2019-8067) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2019-8068](https://nvd.nist.gov/vuln/detail/CVE-2019-8068) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2020-24398](https://nvd.nist.gov/vuln/detail/CVE-2020-24398) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2020-24399](https://nvd.nist.gov/vuln/detail/CVE-2020-24399) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2020-24417](https://nvd.nist.gov/vuln/detail/CVE-2020-24417) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2020-24446](https://nvd.nist.gov/vuln/detail/CVE-2020-24446) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:16:59 | [CVE-2020-29076](https://nvd.nist.gov/vuln/detail/CVE-2020-29076) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29077](https://nvd.nist.gov/vuln/detail/CVE-2020-29077) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29078](https://nvd.nist.gov/vuln/detail/CVE-2020-29078) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29079](https://nvd.nist.gov/vuln/detail/CVE-2020-29079) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29080](https://nvd.nist.gov/vuln/detail/CVE-2020-29080) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29081](https://nvd.nist.gov/vuln/detail/CVE-2020-29081) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29082](https://nvd.nist.gov/vuln/detail/CVE-2020-29082) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29083](https://nvd.nist.gov/vuln/detail/CVE-2020-29083) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29084](https://nvd.nist.gov/vuln/detail/CVE-2020-29084) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29085](https://nvd.nist.gov/vuln/detail/CVE-2020-29085) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29086](https://nvd.nist.gov/vuln/detail/CVE-2020-29086) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29087](https://nvd.nist.gov/vuln/detail/CVE-2020-29087) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29088](https://nvd.nist.gov/vuln/detail/CVE-2020-29088) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29089](https://nvd.nist.gov/vuln/detail/CVE-2020-29089) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:00 | [CVE-2020-29090](https://nvd.nist.gov/vuln/detail/CVE-2020-29090) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29091](https://nvd.nist.gov/vuln/detail/CVE-2020-29091) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29092](https://nvd.nist.gov/vuln/detail/CVE-2020-29092) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29093](https://nvd.nist.gov/vuln/detail/CVE-2020-29093) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29094](https://nvd.nist.gov/vuln/detail/CVE-2020-29094) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29095](https://nvd.nist.gov/vuln/detail/CVE-2020-29095) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29096](https://nvd.nist.gov/vuln/detail/CVE-2020-29096) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29097](https://nvd.nist.gov/vuln/detail/CVE-2020-29097) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29098](https://nvd.nist.gov/vuln/detail/CVE-2020-29098) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29099](https://nvd.nist.gov/vuln/detail/CVE-2020-29099) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29100](https://nvd.nist.gov/vuln/detail/CVE-2020-29100) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29101](https://nvd.nist.gov/vuln/detail/CVE-2020-29101) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29102](https://nvd.nist.gov/vuln/detail/CVE-2020-29102) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29103](https://nvd.nist.gov/vuln/detail/CVE-2020-29103) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:01 | [CVE-2020-29104](https://nvd.nist.gov/vuln/detail/CVE-2020-29104) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29105](https://nvd.nist.gov/vuln/detail/CVE-2020-29105) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29106](https://nvd.nist.gov/vuln/detail/CVE-2020-29106) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29107](https://nvd.nist.gov/vuln/detail/CVE-2020-29107) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29108](https://nvd.nist.gov/vuln/detail/CVE-2020-29108) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29109](https://nvd.nist.gov/vuln/detail/CVE-2020-29109) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29110](https://nvd.nist.gov/vuln/detail/CVE-2020-29110) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29111](https://nvd.nist.gov/vuln/detail/CVE-2020-29111) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29112](https://nvd.nist.gov/vuln/detail/CVE-2020-29112) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29113](https://nvd.nist.gov/vuln/detail/CVE-2020-29113) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29114](https://nvd.nist.gov/vuln/detail/CVE-2020-29114) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29115](https://nvd.nist.gov/vuln/detail/CVE-2020-29115) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29116](https://nvd.nist.gov/vuln/detail/CVE-2020-29116) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29117](https://nvd.nist.gov/vuln/detail/CVE-2020-29117) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:02 | [CVE-2020-29118](https://nvd.nist.gov/vuln/detail/CVE-2020-29118) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:03 | [CVE-2020-29119](https://nvd.nist.gov/vuln/detail/CVE-2020-29119) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:03 | [CVE-2020-29120](https://nvd.nist.gov/vuln/detail/CVE-2020-29120) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:03 | [CVE-2020-29121](https://nvd.nist.gov/vuln/detail/CVE-2020-29121) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:03 | [CVE-2020-29122](https://nvd.nist.gov/vuln/detail/CVE-2020-29122) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:03 | [CVE-2020-29123](https://nvd.nist.gov/vuln/detail/CVE-2020-29123) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2020-29124](https://nvd.nist.gov/vuln/detail/CVE-2020-29124) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2020-9619](https://nvd.nist.gov/vuln/detail/CVE-2020-9619) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2020-9709](https://nvd.nist.gov/vuln/detail/CVE-2020-9709) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-21097](https://nvd.nist.gov/vuln/detail/CVE-2021-21097) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-35998](https://nvd.nist.gov/vuln/detail/CVE-2021-35998) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-39848](https://nvd.nist.gov/vuln/detail/CVE-2021-39848) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-40704](https://nvd.nist.gov/vuln/detail/CVE-2021-40704) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-40705](https://nvd.nist.gov/vuln/detail/CVE-2021-40705) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-40706](https://nvd.nist.gov/vuln/detail/CVE-2021-40706) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-40707](https://nvd.nist.gov/vuln/detail/CVE-2021-40707) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-40717](https://nvd.nist.gov/vuln/detail/CVE-2021-40717) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-45065](https://nvd.nist.gov/vuln/detail/CVE-2021-45065) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-45066](https://nvd.nist.gov/vuln/detail/CVE-2021-45066) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:04 | [CVE-2021-45069](https://nvd.nist.gov/vuln/detail/CVE-2021-45069) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2021-45070](https://nvd.nist.gov/vuln/detail/CVE-2021-45070) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2021-46819](https://nvd.nist.gov/vuln/detail/CVE-2021-46819) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-1060](https://nvd.nist.gov/vuln/detail/CVE-2022-1060) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-24087](https://nvd.nist.gov/vuln/detail/CVE-2022-24087) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-24088](https://nvd.nist.gov/vuln/detail/CVE-2022-24088) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-24100](https://nvd.nist.gov/vuln/detail/CVE-2022-24100) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-34240](https://nvd.nist.gov/vuln/detail/CVE-2022-34240) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-35679](https://nvd.nist.gov/vuln/detail/CVE-2022-35679) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:05 | [CVE-2022-35680](https://nvd.nist.gov/vuln/detail/CVE-2022-35680) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35681](https://nvd.nist.gov/vuln/detail/CVE-2022-35681) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35682](https://nvd.nist.gov/vuln/detail/CVE-2022-35682) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35683](https://nvd.nist.gov/vuln/detail/CVE-2022-35683) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35684](https://nvd.nist.gov/vuln/detail/CVE-2022-35684) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35685](https://nvd.nist.gov/vuln/detail/CVE-2022-35685) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35686](https://nvd.nist.gov/vuln/detail/CVE-2022-35686) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35687](https://nvd.nist.gov/vuln/detail/CVE-2022-35687) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42347](https://nvd.nist.gov/vuln/detail/CVE-2022-42347) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-35688](https://nvd.nist.gov/vuln/detail/CVE-2022-35688) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42353](https://nvd.nist.gov/vuln/detail/CVE-2022-42353) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42355](https://nvd.nist.gov/vuln/detail/CVE-2022-42355) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42358](https://nvd.nist.gov/vuln/detail/CVE-2022-42358) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42361](https://nvd.nist.gov/vuln/detail/CVE-2022-42361) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:06 | [CVE-2022-42359](https://nvd.nist.gov/vuln/detail/CVE-2022-42359) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-42363](https://nvd.nist.gov/vuln/detail/CVE-2022-42363) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-42368](https://nvd.nist.gov/vuln/detail/CVE-2022-42368) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44464](https://nvd.nist.gov/vuln/detail/CVE-2022-44464) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44475](https://nvd.nist.gov/vuln/detail/CVE-2022-44475) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44472](https://nvd.nist.gov/vuln/detail/CVE-2022-44472) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44476](https://nvd.nist.gov/vuln/detail/CVE-2022-44476) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44477](https://nvd.nist.gov/vuln/detail/CVE-2022-44477) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44478](https://nvd.nist.gov/vuln/detail/CVE-2022-44478) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44479](https://nvd.nist.gov/vuln/detail/CVE-2022-44479) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44480](https://nvd.nist.gov/vuln/detail/CVE-2022-44480) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44481](https://nvd.nist.gov/vuln/detail/CVE-2022-44481) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44482](https://nvd.nist.gov/vuln/detail/CVE-2022-44482) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:07 | [CVE-2022-44483](https://nvd.nist.gov/vuln/detail/CVE-2022-44483) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44484](https://nvd.nist.gov/vuln/detail/CVE-2022-44484) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44485](https://nvd.nist.gov/vuln/detail/CVE-2022-44485) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44486](https://nvd.nist.gov/vuln/detail/CVE-2022-44486) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44487](https://nvd.nist.gov/vuln/detail/CVE-2022-44487) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44490](https://nvd.nist.gov/vuln/detail/CVE-2022-44490) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44489](https://nvd.nist.gov/vuln/detail/CVE-2022-44489) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44491](https://nvd.nist.gov/vuln/detail/CVE-2022-44491) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44492](https://nvd.nist.gov/vuln/detail/CVE-2022-44492) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44493](https://nvd.nist.gov/vuln/detail/CVE-2022-44493) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44494](https://nvd.nist.gov/vuln/detail/CVE-2022-44494) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44495](https://nvd.nist.gov/vuln/detail/CVE-2022-44495) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44496](https://nvd.nist.gov/vuln/detail/CVE-2022-44496) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44497](https://nvd.nist.gov/vuln/detail/CVE-2022-44497) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:08 | [CVE-2022-44501](https://nvd.nist.gov/vuln/detail/CVE-2022-44501) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44503](https://nvd.nist.gov/vuln/detail/CVE-2022-44503) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44504](https://nvd.nist.gov/vuln/detail/CVE-2022-44504) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44505](https://nvd.nist.gov/vuln/detail/CVE-2022-44505) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44506](https://nvd.nist.gov/vuln/detail/CVE-2022-44506) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44507](https://nvd.nist.gov/vuln/detail/CVE-2022-44507) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44508](https://nvd.nist.gov/vuln/detail/CVE-2022-44508) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44509](https://nvd.nist.gov/vuln/detail/CVE-2022-44509) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44511](https://nvd.nist.gov/vuln/detail/CVE-2022-44511) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44521](https://nvd.nist.gov/vuln/detail/CVE-2022-44521) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44522](https://nvd.nist.gov/vuln/detail/CVE-2022-44522) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44523](https://nvd.nist.gov/vuln/detail/CVE-2022-44523) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44524](https://nvd.nist.gov/vuln/detail/CVE-2022-44524) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44525](https://nvd.nist.gov/vuln/detail/CVE-2022-44525) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:09 | [CVE-2022-44526](https://nvd.nist.gov/vuln/detail/CVE-2022-44526) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2022-44527](https://nvd.nist.gov/vuln/detail/CVE-2022-44527) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2022-44529](https://nvd.nist.gov/vuln/detail/CVE-2022-44529) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2022-44528](https://nvd.nist.gov/vuln/detail/CVE-2022-44528) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2022-44530](https://nvd.nist.gov/vuln/detail/CVE-2022-44530) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2022-44531](https://nvd.nist.gov/vuln/detail/CVE-2022-44531) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-21580](https://nvd.nist.gov/vuln/detail/CVE-2023-21580) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-21600](https://nvd.nist.gov/vuln/detail/CVE-2023-21600) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-21602](https://nvd.nist.gov/vuln/detail/CVE-2023-21602) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-21617](https://nvd.nist.gov/vuln/detail/CVE-2023-21617) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-22245](https://nvd.nist.gov/vuln/detail/CVE-2023-22245) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-21623](https://nvd.nist.gov/vuln/detail/CVE-2023-21623) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-22255](https://nvd.nist.gov/vuln/detail/CVE-2023-22255) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-22270](https://nvd.nist.gov/vuln/detail/CVE-2023-22270) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-| 2026-11-05 16:17:10 | [CVE-2023-22267](https://nvd.nist.gov/vuln/detail/CVE-2023-22267) |  |  | Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05 |
-
-_Showing the first 200 of 254 CVEs; see the [full CSV](data/new-cves-2026-11-05T16-19-18-21211Z.csv)._
+| 2026-11-05 17:17:32 | [CVE-2026-102739](https://nvd.nist.gov/vuln/detail/CVE-2026-102739) | High | 7.8 | ESPectre is a Wi-Fi motion sensing platform for ESP32. Prior to 3.0.0-rc1, Micro-ESPectre analysis tools, including too… |
+| 2026-11-05 17:17:32 | [CVE-2026-103112](https://nvd.nist.gov/vuln/detail/CVE-2026-103112) | High | 7.5 | A flaw was found in the authentication session handling of the keycloak-services component in Keycloak. The issue occur… |
+| 2026-11-05 17:17:32 | [CVE-2026-104867](https://nvd.nist.gov/vuln/detail/CVE-2026-104867) | Medium | 4.3 | Immich is a high-performance self-hosted photo and video management solution. From 3.0.0 until 3.2.0, the GET /api/admi… |
+| 2026-11-05 17:17:34 | [CVE-2026-107123](https://nvd.nist.gov/vuln/detail/CVE-2026-107123) | High | 7.5 | A flaw was found in the SAML XML processing component of Keycloak, an open-source identity and access management soluti… |
+| 2026-11-05 17:17:35 | [CVE-2026-107602](https://nvd.nist.gov/vuln/detail/CVE-2026-107602) | High | 7.5 | A flaw was found in the SAML 1.1 XML parsing logic of Keycloak, an open-source identity and access management solution.… |
+| 2026-11-05 17:17:37 | [CVE-2026-110931](https://nvd.nist.gov/vuln/detail/CVE-2026-110931) | High | 7.5 | A flaw was found in the SAML 1.1 assertion parser of Keycloak, a tool used for identity and access management. The issu… |
+| 2026-11-05 17:17:37 | [CVE-2026-110932](https://nvd.nist.gov/vuln/detail/CVE-2026-110932) | High | 7.5 | A flaw was found in the theme resource endpoint of Keycloak, an open-source identity and access management solution. Th… |
+| 2026-11-05 17:17:37 | [CVE-2026-111253](https://nvd.nist.gov/vuln/detail/CVE-2026-111253) | Medium | 6.6 | A flaw was found in dnf5daemon-server. Session methods on dynamically exported D-Bus session objects do not verify that… |
+| 2026-11-05 17:17:38 | [CVE-2026-112208](https://nvd.nist.gov/vuln/detail/CVE-2026-112208) | High | 8.1 | A flaw was found in the Organization identity-first login flow of the Keycloak authentication server. Keycloak is an op… |
+| 2026-11-05 17:17:39 | [CVE-2026-114232](https://nvd.nist.gov/vuln/detail/CVE-2026-114232) | High | 8.1 | A flaw was found in the UserManagedPermissionService of the Keycloak authorization server. The UMA Protection API, whic… |
+| 2026-11-05 17:17:53 | [CVE-2026-118517](https://nvd.nist.gov/vuln/detail/CVE-2026-118517) | Low | 2.3 | The Symfony HtmlSanitizer component UrlSanitizer parses URLs differently from browsers, allowing the allowLinkHosts() a… |
+| 2026-11-05 17:17:55 | [CVE-2026-119083](https://nvd.nist.gov/vuln/detail/CVE-2026-119083) | High | 8.4 | Path traversal in the archive extraction utility in GluonTS before 0.17.0 might allow an actor who supplies a crafted t… |
+| 2026-11-05 17:18:00 | [CVE-2026-120499](https://nvd.nist.gov/vuln/detail/CVE-2026-120499) | High | 8.5 | h5io before 0.2.6 contains a code injection vulnerability in read_hdf5() that allows attackers to execute arbitrary cod… |
+| 2026-11-05 17:18:00 | [CVE-2026-121994](https://nvd.nist.gov/vuln/detail/CVE-2026-121994) | High | 8.8 | A stack buffer overflow in the GDB client's remote protocol handler allows an attacker-controlled debug target to execu… |
+| 2026-11-05 17:18:00 | [CVE-2026-121995](https://nvd.nist.gov/vuln/detail/CVE-2026-121995) | High | 7.5 | A stack buffer overflow in the GDB client's tracepoint upload handler allows an attacker-controlled debug stub to corru… |
+| 2026-11-05 17:18:00 | [CVE-2026-121996](https://nvd.nist.gov/vuln/detail/CVE-2026-121996) | High | 8.2 | A length validation flaw in gdbserver's agent-expression parser allows an unauthenticated remote attacker to read unini… |
+| 2026-11-05 17:18:01 | [CVE-2026-121997](https://nvd.nist.gov/vuln/detail/CVE-2026-121997) | High | 8.1 | A heap buffer overflow in gdbserver's QTDPsrc packet handler allows an unauthenticated remote attacker to achieve nativ… |
+| 2026-11-05 17:18:03 | [CVE-2026-123151](https://nvd.nist.gov/vuln/detail/CVE-2026-123151) |  |  | A flaw was found in the GNU debugger (GDB). When GDB connects to a remote debug target, a malicious target can cause GD… |
+| 2026-11-05 17:18:16 | [CVE-2026-49393](https://nvd.nist.gov/vuln/detail/CVE-2026-49393) | High | 8.4 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.56.0, the core… |
+| 2026-11-05 17:18:18 | [CVE-2026-49405](https://nvd.nist.gov/vuln/detail/CVE-2026-49405) | Medium | 6.2 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.56.0, the local… |
+| 2026-11-05 17:18:18 | [CVE-2026-49407](https://nvd.nist.gov/vuln/detail/CVE-2026-49407) | High | 7.7 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before version 0.57.44,… |
+| 2026-11-05 17:18:18 | [CVE-2026-54140](https://nvd.nist.gov/vuln/detail/CVE-2026-54140) | High | 8.3 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.57.13, OpenHuma… |
+| 2026-11-05 17:18:19 | [CVE-2026-54141](https://nvd.nist.gov/vuln/detail/CVE-2026-54141) | Critical | 9.0 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.57.13, a remote… |
+| 2026-11-05 17:18:19 | [CVE-2026-54142](https://nvd.nist.gov/vuln/detail/CVE-2026-54142) | High | 8.7 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.57.13, backgrou… |
+| 2026-11-05 17:18:19 | [CVE-2026-54143](https://nvd.nist.gov/vuln/detail/CVE-2026-54143) | Critical | 9.8 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before version 0.57.13,… |
+| 2026-11-05 17:18:19 | [CVE-2026-54144](https://nvd.nist.gov/vuln/detail/CVE-2026-54144) | Medium | 6.1 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. Before 0.56.0 on macOS,… |
+| 2026-11-05 17:18:19 | [CVE-2026-54145](https://nvd.nist.gov/vuln/detail/CVE-2026-54145) | High | 8.8 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. In affected versions bef… |
+| 2026-11-05 17:18:20 | [CVE-2026-54146](https://nvd.nist.gov/vuln/detail/CVE-2026-54146) | High | 8.8 | OpenHuman is an open-source agent harness available as a desktop application and Rust library. From 0.53.15 before 0.57… |
+| 2026-11-05 17:18:20 | [CVE-2026-75599](https://nvd.nist.gov/vuln/detail/CVE-2026-75599) | Medium | 5.4 | HomeBox is a home inventory and organization system. Prior to 0.27.0, the maybeUrl() utility accepts markdown-style lin… |
+| 2026-11-05 17:18:20 | [CVE-2026-75614](https://nvd.nist.gov/vuln/detail/CVE-2026-75614) | High | 8.1 | ASN1SCC is an open source ASN.1 compiler for embedded systems. Prior to 4.7.0.1, BitStream_DecodeConstraintWholeNumber… |
+| 2026-11-05 17:18:20 | [CVE-2026-75615](https://nvd.nist.gov/vuln/detail/CVE-2026-75615) | Medium | 5.3 | ASN1SCC is an open source ASN.1 compiler for embedded systems. Prior to 4.7.0.1, the ACN runtime function Acn_Dec_Strin… |
+| 2026-11-05 17:18:20 | [CVE-2026-76077](https://nvd.nist.gov/vuln/detail/CVE-2026-76077) | High | 8.1 | ASN1SCC is an open source ASN.1 compiler for embedded systems. Prior to 4.7.0.1, the XER tokenizer NT() in asn1crt/asn1… |
+| 2026-11-05 17:18:21 | [CVE-2026-82413](https://nvd.nist.gov/vuln/detail/CVE-2026-82413) | High | 8.8 | ntopng is a web-based network traffic monitoring application. Prior to 6.7.260717, scripts/lua/rest/v2/add/host/to_scan… |
+| 2026-11-05 17:18:21 | [CVE-2026-82965](https://nvd.nist.gov/vuln/detail/CVE-2026-82965) | High | 7.5 | A flaw was found in the SAML implementation of Keycloak, an open-source identity and access management solution. The SA… |
+| 2026-11-05 17:18:22 | [CVE-2026-85287](https://nvd.nist.gov/vuln/detail/CVE-2026-85287) | Medium | 6.5 | HomeBox is a home inventory and organization system. Prior to 0.27.0, POST /api/v1/users/register and the users.email u… |
+| 2026-11-05 17:18:22 | [CVE-2026-97371](https://nvd.nist.gov/vuln/detail/CVE-2026-97371) | Medium | 5.3 | ntopng is a web-based network traffic monitoring application. Prior to 6.7.260721, ndpi_get_custom_category_match write… |
 
 ## Data source
 
