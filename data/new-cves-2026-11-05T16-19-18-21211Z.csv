@@ -1,0 +1,255 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-05T16:16:55.473Z,CVE-2019-16447,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.567Z,CVE-2019-16472,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.64Z,CVE-2019-16473,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.71Z,CVE-2019-16474,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.773Z,CVE-2019-16475,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.85Z,CVE-2019-16476,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.92Z,CVE-2019-16477,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:55.993Z,CVE-2019-16478,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.06Z,CVE-2019-16479,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.133Z,CVE-2019-16480,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.217Z,CVE-2019-16481,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.307Z,CVE-2019-16482,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.48Z,CVE-2019-16484,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.4Z,CVE-2019-16483,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.553Z,CVE-2019-16485,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.623Z,CVE-2019-16486,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.697Z,CVE-2019-16487,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.763Z,CVE-2019-16488,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.843Z,CVE-2019-16489,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.91Z,CVE-2019-16490,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:56.987Z,CVE-2019-16491,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.067Z,CVE-2019-16492,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.133Z,CVE-2019-16493,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.203Z,CVE-2019-16494,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.273Z,CVE-2019-16495,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.353Z,CVE-2019-16496,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.417Z,CVE-2019-16497,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.493Z,CVE-2019-16498,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.557Z,CVE-2019-16499,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.63Z,CVE-2019-16500,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.707Z,CVE-2019-16501,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.77Z,CVE-2019-16502,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.83Z,CVE-2019-16503,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.907Z,CVE-2019-16504,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:57.97Z,CVE-2019-16505,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.043Z,CVE-2019-16506,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.13Z,CVE-2019-16507,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.233Z,CVE-2019-7126,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.323Z,CVE-2019-7856,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.397Z,CVE-2019-7879,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.47Z,CVE-2019-7883,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.533Z,CVE-2019-7891,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.61Z,CVE-2019-7893,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.677Z,CVE-2019-7907,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.753Z,CVE-2019-7916,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.82Z,CVE-2019-7917,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.89Z,CVE-2019-7918,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:58.957Z,CVE-2019-7920,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.037Z,CVE-2019-7922,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.173Z,CVE-2019-7943,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.1Z,CVE-2019-7924,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.243Z,CVE-2019-7949,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.323Z,CVE-2019-7952,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.413Z,CVE-2019-8065,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.493Z,CVE-2019-8067,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.563Z,CVE-2019-8068,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.647Z,CVE-2020-24398,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.72Z,CVE-2020-24399,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.793Z,CVE-2020-24417,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.86Z,CVE-2020-24446,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:16:59.93Z,CVE-2020-29076,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.01Z,CVE-2020-29077,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.093Z,CVE-2020-29078,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.163Z,CVE-2020-29079,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.237Z,CVE-2020-29080,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.307Z,CVE-2020-29081,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.383Z,CVE-2020-29082,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.45Z,CVE-2020-29083,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.517Z,CVE-2020-29084,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.587Z,CVE-2020-29085,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.66Z,CVE-2020-29086,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.73Z,CVE-2020-29087,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.803Z,CVE-2020-29088,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.87Z,CVE-2020-29089,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:00.943Z,CVE-2020-29090,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.01Z,CVE-2020-29091,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.087Z,CVE-2020-29092,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.16Z,CVE-2020-29093,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.24Z,CVE-2020-29094,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.307Z,CVE-2020-29095,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.38Z,CVE-2020-29096,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.453Z,CVE-2020-29097,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.523Z,CVE-2020-29098,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.593Z,CVE-2020-29099,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.667Z,CVE-2020-29100,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.73Z,CVE-2020-29101,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.797Z,CVE-2020-29102,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.87Z,CVE-2020-29103,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:01.933Z,CVE-2020-29104,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.01Z,CVE-2020-29105,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.073Z,CVE-2020-29106,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.147Z,CVE-2020-29107,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.21Z,CVE-2020-29108,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.287Z,CVE-2020-29109,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.347Z,CVE-2020-29110,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.423Z,CVE-2020-29111,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.483Z,CVE-2020-29112,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.56Z,CVE-2020-29113,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.627Z,CVE-2020-29114,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.707Z,CVE-2020-29115,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.793Z,CVE-2020-29116,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.863Z,CVE-2020-29117,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:02.953Z,CVE-2020-29118,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:03.027Z,CVE-2020-29119,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:03.12Z,CVE-2020-29120,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:03.787Z,CVE-2020-29121,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:03.883Z,CVE-2020-29122,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:03.957Z,CVE-2020-29123,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.017Z,CVE-2020-29124,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.093Z,CVE-2020-9619,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.18Z,CVE-2020-9709,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.25Z,CVE-2021-21097,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.327Z,CVE-2021-35998,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.403Z,CVE-2021-39848,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.48Z,CVE-2021-40704,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.553Z,CVE-2021-40705,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.623Z,CVE-2021-40706,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.697Z,CVE-2021-40707,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.76Z,CVE-2021-40717,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.833Z,CVE-2021-45065,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.903Z,CVE-2021-45066,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:04.98Z,CVE-2021-45069,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.06Z,CVE-2021-45070,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.12Z,CVE-2021-46819,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.477Z,CVE-2022-1060,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.557Z,CVE-2022-24087,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.637Z,CVE-2022-24088,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.707Z,CVE-2022-24100,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.79Z,CVE-2022-34240,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.863Z,CVE-2022-35679,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:05.943Z,CVE-2022-35680,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.007Z,CVE-2022-35681,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.077Z,CVE-2022-35682,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.14Z,CVE-2022-35683,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.21Z,CVE-2022-35684,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.28Z,CVE-2022-35685,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.35Z,CVE-2022-35686,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.427Z,CVE-2022-35687,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.59Z,CVE-2022-42347,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.5Z,CVE-2022-35688,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.677Z,CVE-2022-42353,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.76Z,CVE-2022-42355,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.837Z,CVE-2022-42358,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.973Z,CVE-2022-42361,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:06.9Z,CVE-2022-42359,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.04Z,CVE-2022-42363,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.12Z,CVE-2022-42368,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.213Z,CVE-2022-44464,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.377Z,CVE-2022-44475,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.3Z,CVE-2022-44472,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.443Z,CVE-2022-44476,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.513Z,CVE-2022-44477,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.59Z,CVE-2022-44478,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.657Z,CVE-2022-44479,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.72Z,CVE-2022-44480,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.793Z,CVE-2022-44481,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.863Z,CVE-2022-44482,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:07.943Z,CVE-2022-44483,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.007Z,CVE-2022-44484,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.08Z,CVE-2022-44485,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.15Z,CVE-2022-44486,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.223Z,CVE-2022-44487,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.37Z,CVE-2022-44490,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.3Z,CVE-2022-44489,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.46Z,CVE-2022-44491,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.537Z,CVE-2022-44492,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.617Z,CVE-2022-44493,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.683Z,CVE-2022-44494,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.763Z,CVE-2022-44495,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.833Z,CVE-2022-44496,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.913Z,CVE-2022-44497,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:08.97Z,CVE-2022-44501,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.04Z,CVE-2022-44503,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.11Z,CVE-2022-44504,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.177Z,CVE-2022-44505,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.253Z,CVE-2022-44506,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.317Z,CVE-2022-44507,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.39Z,CVE-2022-44508,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.467Z,CVE-2022-44509,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.53Z,CVE-2022-44511,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.603Z,CVE-2022-44521,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.673Z,CVE-2022-44522,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.743Z,CVE-2022-44523,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.813Z,CVE-2022-44524,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.883Z,CVE-2022-44525,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:09.953Z,CVE-2022-44526,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.03Z,CVE-2022-44527,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.17Z,CVE-2022-44529,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.1Z,CVE-2022-44528,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.24Z,CVE-2022-44530,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.307Z,CVE-2022-44531,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.393Z,CVE-2023-21580,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.483Z,CVE-2023-21600,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.56Z,CVE-2023-21602,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.623Z,CVE-2023-21617,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.763Z,CVE-2023-22245,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.7Z,CVE-2023-21623,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.837Z,CVE-2023-22255,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.973Z,CVE-2023-22270,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:10.9Z,CVE-2023-22267,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.047Z,CVE-2023-26357,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.123Z,CVE-2023-26362,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.27Z,CVE-2023-26365,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.2Z,CVE-2023-26363,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.35Z,CVE-2023-26399,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.427Z,CVE-2023-29493,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.507Z,CVE-2023-38202,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.59Z,CVE-2023-44349,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.663Z,CVE-2023-44354,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.74Z,CVE-2023-44363,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.82Z,CVE-2023-44364,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.887Z,CVE-2023-44368,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:11.96Z,CVE-2023-44369,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.027Z,CVE-2023-44370,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.173Z,CVE-2023-47082,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.1Z,CVE-2023-47045,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.24Z,CVE-2023-47083,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.32Z,CVE-2023-47084,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.39Z,CVE-2023-47085,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.477Z,CVE-2023-47086,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.547Z,CVE-2023-47087,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.63Z,CVE-2023-47088,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.717Z,CVE-2023-47089,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.807Z,CVE-2023-51465,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:12.89Z,CVE-2023-51466,,,Rejected,,0,Rejected reason: Reserved ID never published and not linked to any VULN ticket - quota reclaim 2026-11-05
+2026-11-05T16:17:23.727Z,CVE-2026-102523,HIGH,8.0,Received,CWE-73,8,"MariaDB server is a community developed fork of MySQL server. From 10.11.1 until 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, ALTER TABLE ... CONVERT ... PARTITION does not apply filename encoding to user-specified partition names before using them in filesystem path construction. An authenticate…"
+2026-11-05T16:17:23.937Z,CVE-2026-102615,HIGH,7.6,Deferred,CWE-79,3,"HeyForm is an open-source form builder. Prior to 3.0.1, /api/upload accepts a file according to the client-controlled multipart file.mimetype while retaining an HTML filename, and static/upload serves the resulting file as text/html with contentSecurityPolicy: false. An ordinary user can therefore…"
+2026-11-05T16:17:24.9Z,CVE-2026-103932,MEDIUM,5.8,Received,CWE-253,3,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. From 3.0.5 until 3.0.17, the PCRE2 implementation of @rxGlobal in src/utils/regex.cc converts pcre2_match match-limit errors into an ordinary no-match result instead of propagating a non-O…"
+2026-11-05T16:17:29.377Z,CVE-2026-104269,HIGH,8.6,Received,CWE-436,5,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. From 3.0.0 until 3.0.17, ModSecurity's multipart parser does not apply the RFC 2231 filename* parameter precedence used by common Go, Python, Node.js, and Java application parsers. A Conte…"
+2026-11-05T16:17:32.15Z,CVE-2026-107891,HIGH,8.1,Received,CWE-190,3,"musl libc before 1.2.7, when an untrusted regular expression is used with regcomp, has multiple integer overflows, possibly leading to incorrect allocation sizes and out-of-bounds heap writes."
+2026-11-05T16:17:34.367Z,CVE-2026-115739,MEDIUM,6.0,Received,CWE-321,1,Hard-coded Cryptographic Key vulnerability exists in the DLP on-prem extensions version 11.13.1 and earlier allows a remote attacker to decrypt credentials and evidence files.
+2026-11-05T16:17:34.51Z,CVE-2026-115740,MEDIUM,5.3,Received,CWE-918,1,"Server side request forgery vulnerability exists in the DLP on-prem extensions version 11.13.1 and earlier allows the file Prefix parameter in the OpenEventEvidenceFile.do endpoint accepts arbitrary UNC paths without validation. The server-side code attempts to open the specified file path, causing…"
+2026-11-05T16:17:40.373Z,CVE-2026-119344,CRITICAL,9.1,Received,CWE-346,5,"Cocos AI is a confidential computing system for AI. In version 0.8.2 and earlier, Cocos AI accepts trusted execution environment attestation Evidence when firmware patch levels and software measurements match, without binding the Evidence to an allowed platform owner or unique machine identity and…"
+2026-11-05T16:17:40.553Z,CVE-2026-119345,HIGH,7.2,Received,CWE-367,4,"Cocos AI is a confidential computing system for AI. Prior to 0.9.0, Cocos AI performs attestation only once when an attested TLS connection is established. An attacker who can modify the attester's workload code, memory-backed state, configuration, or attached devices after that check can keep the…"
+2026-11-05T16:17:40.717Z,CVE-2026-119751,MEDIUM,6.9,Received,CWE-639; CWE-862,2,"Content Egg plugin for WordPress before 12.1.0 contains a broken access control vulnerability that allows unauthenticated attackers to retrieve Content Egg product data from unpublished posts by calling the REST route POST /wp-json/content-egg/v1/render-blocks, whose permission_check() improperly r…"
+2026-11-05T16:17:44.787Z,CVE-2026-121139,HIGH,7.3,Received,CWE-306,1,"The Rapid7 Metasploit msf-ws suffers from a missing authentication vulnerability whereby the REST API grants an unauthenticated ""bootstrap"" exemption so that the very first administrator can be created when the users table is empty. While the table is empty, POST /api/v1/users is exempt from authen…"
+2026-11-05T16:17:44.963Z,CVE-2026-122317,MEDIUM,5.3,Received,CWE-639,6,"SplitPro through 2.1.6 contains an authorization bypass vulnerability that allows authenticated users to retrieve any account's details by supplying arbitrary userId values to user.getUserDetails. Attackers can iterate sequential integer user ids to harvest every user's email, name, avatar, currenc…"
+2026-11-05T16:17:45.143Z,CVE-2026-122324,LOW,2.3,Received,CWE-639,6,"SplitPro through 2.1.6 contains an authorization bypass vulnerability that allows authenticated users to read other users' expenses by supplying arbitrary expenseId values to expense.getExpenseDetails. Attackers who obtain an expense UUID, such as removed former participants, can retrieve expense n…"
+2026-11-05T16:17:45.323Z,CVE-2026-122325,LOW,2.3,Received,CWE-639,6,fossasia eventyay-exhibition through commit f68888e contains an authorization bypass vulnerability in the exhibitor lead creation API that allows exhibitors to access other organizers' attendee data. Exhibitors with lead scanning enabled can submit another event's pseudonymization id or order secre…
+2026-11-05T16:17:45.503Z,CVE-2026-122326,MEDIUM,6.9,Received,CWE-639,8,Chevereto before 4.5.8 contains an authorization bypass vulnerability in the get-album-contents action of the /json route that allows unauthenticated attackers to list private albums by supplying another user's album id. Attackers with a session token from any public page and an album's encoded id…
+2026-11-05T16:17:45.677Z,CVE-2026-122327,MEDIUM,5.3,Received,CWE-862,8,"Meelo through 3.13.1 contains a missing authorization vulnerability that allows authenticated non-admin users to modify shared catalog data because RolesGuard does not require Admin on song, track and video write routes. Attackers can send PUT requests to /songs/:idOrSlug, /tracks/:idOrSlug or /vid…"
+2026-11-05T16:17:45.853Z,CVE-2026-122328,HIGH,8.5,Received,CWE-121,8,"SDL_mixer 3.1.2 through 3.2.4 contains a stack-based buffer overflow vulnerability in FetchXLaw() of src/decoder_wav.c when decoding A-law or mu-law WAV files. Attackers can supply a crafted WAV file whose doubly-offset float expansion overwrites about 1 KB of adjacent stack memory, causing crashes…"
+2026-11-05T16:17:46.03Z,CVE-2026-122329,HIGH,8.5,Received,CWE-121,7,"SDL_mixer 3.1.2 through 3.2.4 contains a stack-based buffer overflow in FetchXLaw() in src/decoder_aiff.c due to miscalculated output offsets when expanding A-law or mu-law samples. Attackers can supply a crafted AIFF-C file that overwrites roughly 1 KB of adjacent stack memory when decoded, causin…"
+2026-11-05T16:17:46.197Z,CVE-2026-122330,MEDIUM,6.8,Received,CWE-369,7,Blosc c-blosc2 before 3.5.0 contains a divide-by-zero vulnerability in blosc2_schunk_get_slice_buffer() in blosc/schunk.c that allows attackers to crash applications by supplying crafted frames with unchecked zero chunksize or blocksize values. Attackers can provide a malicious Blosc2 frame opened…
+2026-11-05T16:17:46.39Z,CVE-2026-123094,MEDIUM,5.1,Received,CWE-79,7,"Huginn before 2026.11.05 contains a stored cross-site scripting vulnerability in the service_label helper that marks unescaped OAuth service display names as html_safe. Authenticated attackers can connect an OAuth account with a crafted nickname, name or email and share it globally, executing JavaS…"
+2026-11-05T16:17:46.58Z,CVE-2026-123095,HIGH,7.7,Received,CWE-93,7,"mpv 0.29.0 before 0.42.0 contains a playlist injection vulnerability in the bundled ytdl_hook script that allows remote attackers to add unchecked entries by embedding newlines in playlist URLs. Attackers controlling a feed or page can bypass url_is_safe() to open file:// or av:// inputs, reading l…"
+2026-11-05T16:17:46.76Z,CVE-2026-123096,HIGH,7.1,Received,CWE-770,5,anacrolix/torrent through 1.61.0 contains a memory exhaustion vulnerability in the tracker/http package that allows malicious trackers to crash clients by returning unbounded responses. Attackers controlling an HTTP tracker in a torrent file or magnet link can return huge or gzip-compressed announc…
+2026-11-05T16:17:46.94Z,CVE-2026-123125,MEDIUM,6.3,Received,CWE-184; CWE-918,2,"The Symfony Validator component IpValidator incompletely classifies internal addresses in the filtered modes of the Ip constraint, so some internal addresses are accepted as public, which can lead to Server-Side Request Forgery (SSRF) in Symfony versions prior to 5.4.56, 6.x prior to 6.4.50, 7.x pr…"
+2026-11-05T16:17:47.11Z,CVE-2026-123158,HIGH,8.1,Received,CWE-394,8,"sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters…"
+2026-11-05T16:17:47.797Z,CVE-2026-61813,LOW,3.7,Received,CWE-295,5,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. Prior to 2.9.15 and 3.0.17, the HttpsClient::download function in src/utils/https_client.cc sets libcurl CURLOPT_SSL_VERIFYHOST to 1 instead of the strict value 2L. Under adversary-in-the-…"
+2026-11-05T16:17:48.047Z,CVE-2026-70659,HIGH,7.8,Received,CWE-787; CWE-1284,4,"stable-diffusion.cpp is a pure C/C++ library for running diffusion model (Stable Diffusion, Flux, Wan, Qwen Image, Z-Image, and more) inference. From master-742-1a13107 until master-763-4fcc6fe, IMatrixCollector::load_imatrix in src/runtime/imatrix.cpp reuses the values and counts vectors for entri…"
+2026-11-05T16:17:48.263Z,CVE-2026-70660,MEDIUM,6.9,Received,CWE-125,4,"stable-diffusion.cpp is a pure C/C++ library for running diffusion model (Stable Diffusion, Flux, Wan, Qwen Image, Z-Image, and more) inference. Prior to master-764-e22272e, the safetensors loader in src/model_io/safetensors_io.cpp trusts each tensor's data_offsets after checking only that nbytes e…"
+2026-11-05T16:17:48.443Z,CVE-2026-73856,HIGH,8.6,Received,CWE-178,3,"ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. From 3.0.0 until 3.0.17, src/transaction.cc compares a response Content-Type value against SecResponseBodyMimeType entries case-sensitively. A mixed-case response media type that is semant…"
+2026-11-05T16:17:50.463Z,CVE-2026-85286,LOW,3.7,Received,CWE-204; CWE-208,3,"HomeBox is a home inventory and organization system. Prior to 0.27.0, the POST /api/v1/users/login endpoint performs password-hash verification only when the submitted username matches an existing account, while unknown usernames return immediately. Although both paths return the same 401 unauthori…"
