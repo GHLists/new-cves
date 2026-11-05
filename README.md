@@ -9,15 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:19 UTC
+## Latest list — 2026-11-05 12:19 UTC
 
-New CVEs published between 2026-11-05 09:18 UTC and 2026-11-05 10:19 UTC.
+New CVEs published between 2026-11-05 11:18 UTC and 2026-11-05 12:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T10-19-56-458859Z.csv)
+[Full CSV](data/new-cves-2026-11-05T12-19-01-476482Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 10:16:38 | [CVE-2026-123036](https://nvd.nist.gov/vuln/detail/CVE-2026-123036) | Medium | 5.5 | A flaw was found in ansible-core. When a task marked `no_log: true` fails, the task result is censored before being emi… |
+| 2026-11-05 12:17:49 | [CVE-2026-121489](https://nvd.nist.gov/vuln/detail/CVE-2026-121489) | Critical | 10.0 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache Juneau. The micr… |
+| 2026-11-05 12:17:49 | [CVE-2026-123018](https://nvd.nist.gov/vuln/detail/CVE-2026-123018) | Medium | 5.5 | A security flaw has been discovered in eosphoros-ai DB-GPT up to 0.8.2. This issue affects the function execute_code of… |
+| 2026-11-05 12:17:50 | [CVE-2026-123019](https://nvd.nist.gov/vuln/detail/CVE-2026-123019) | Medium | 5.5 | A weakness has been identified in eosphoros-ai DB-GPT up to 0.8.2. Impacted is the function exec_module of the file hf_… |
+| 2026-11-05 12:17:50 | [CVE-2026-73095](https://nvd.nist.gov/vuln/detail/CVE-2026-73095) | High | 8.7 | Allocation of Resources Without Limits or Throttling vulnerability in Apache Juneau. The MessagePack parser, which the… |
+| 2026-11-05 12:17:50 | [CVE-2026-73098](https://nvd.nist.gov/vuln/detail/CVE-2026-73098) | Critical | 10.0 | Improper control of dynamically-loaded code vulnerability in Apache Juneau. When Apache Juneau parses a value into a pr… |
+| 2026-11-05 12:17:50 | [CVE-2026-73099](https://nvd.nist.gov/vuln/detail/CVE-2026-73099) | Critical | 10.0 | Cross-Site Request Forgery (CSRF) vulnerability in Apache Juneau. The REST server accepts a "content" query parameter t… |
+| 2026-11-05 12:17:51 | [CVE-2026-73100](https://nvd.nist.gov/vuln/detail/CVE-2026-73100) | Critical | 10.0 | Insertion of Sensitive Information into Log File vulnerability in Apache Juneau. The default REST server call logger re… |
+| 2026-11-05 12:17:51 | [CVE-2026-73101](https://nvd.nist.gov/vuln/detail/CVE-2026-73101) | Critical | 10.0 | Generation of Error Message Containing Sensitive Information vulnerability in Apache Juneau. The REST server sends the… |
+| 2026-11-05 12:17:51 | [CVE-2026-73116](https://nvd.nist.gov/vuln/detail/CVE-2026-73116) | Critical | 10.0 | Insufficiently Protected Credentials vulnerability in Apache Juneau. The Apache Juneau RestClient followed HTTP redirec… |
+| 2026-11-05 12:17:51 | [CVE-2026-73117](https://nvd.nist.gov/vuln/detail/CVE-2026-73117) | Critical | 10.0 | Improper Neutralization of CRLF Sequences in HTTP Headers ('HTTP Response Splitting') vulnerability in Apache Juneau. T… |
+| 2026-11-05 12:17:51 | [CVE-2026-96677](https://nvd.nist.gov/vuln/detail/CVE-2026-96677) | Critical | 10.0 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Apache Juneau. HT… |
 
 ## Data source
 
