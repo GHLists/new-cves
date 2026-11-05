@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 09:18 UTC
+## Latest list — 2026-11-05 10:19 UTC
 
-New CVEs published between 2026-11-05 08:18 UTC and 2026-11-05 09:18 UTC.
+New CVEs published between 2026-11-05 09:18 UTC and 2026-11-05 10:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T09-18-48-697247Z.csv)
+[Full CSV](data/new-cves-2026-11-05T10-19-56-458859Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 09:17:04 | [CVE-2026-117679](https://nvd.nist.gov/vuln/detail/CVE-2026-117679) | Medium | 5.1 | A cross-site scripting vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrar… |
-| 2026-11-05 09:17:05 | [CVE-2026-118869](https://nvd.nist.gov/vuln/detail/CVE-2026-118869) | High | 8.7 | An OS command injection vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitra… |
+| 2026-11-05 10:16:38 | [CVE-2026-123036](https://nvd.nist.gov/vuln/detail/CVE-2026-123036) | Medium | 5.5 | A flaw was found in ansible-core. When a task marked `no_log: true` fails, the task result is censored before being emi… |
 
 ## Data source
 
