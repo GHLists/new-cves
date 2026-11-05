@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 01:18 UTC
+## Latest list — 2026-11-05 02:20 UTC
 
-New CVEs published between 2026-11-05 00:21 UTC and 2026-11-05 01:18 UTC.
+New CVEs published between 2026-11-05 01:18 UTC and 2026-11-05 02:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T01-18-43-041723Z.csv)
+[Full CSV](data/new-cves-2026-11-05T02-20-09-553792Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 01:17:21 | [CVE-2026-109849](https://nvd.nist.gov/vuln/detail/CVE-2026-109849) | High | 7.1 | Incorrect privilege assignment issue exists in Hinemos. If this vulnerability is exploited, an attacker who can access… |
-| 2026-11-05 01:17:21 | [CVE-2026-122052](https://nvd.nist.gov/vuln/detail/CVE-2026-122052) | Medium | 5.3 | A vulnerability has been found in laspy up to 2.7.0. Affected by this issue is some unknown functionality of the file l… |
-| 2026-11-05 01:17:21 | [CVE-2026-122144](https://nvd.nist.gov/vuln/detail/CVE-2026-122144) | Low | 2.1 | A security flaw has been discovered in nliautaud pico-content-editor up to 02d5ad6c820c5050c542ab9505819b5e0a0ba1af. Th… |
-| 2026-11-05 01:17:22 | [CVE-2026-122146](https://nvd.nist.gov/vuln/detail/CVE-2026-122146) | Medium | 5.5 | A weakness has been identified in 101arrowz fflate up to 0.8.3. This issue affects the function unzipSync of the file e… |
-| 2026-11-05 01:17:22 | [CVE-2026-122151](https://nvd.nist.gov/vuln/detail/CVE-2026-122151) | Low | 2.1 | A security vulnerability has been detected in Presenton up to 0.9.11-beta. Impacted is the function JSON.parse of the f… |
+| 2026-11-05 02:16:57 | [CVE-2025-66364](https://nvd.nist.gov/vuln/detail/CVE-2025-66364) |  |  | Continuously sending control‑plane messages causes the baseband to crashes. |
+| 2026-11-05 02:16:57 | [CVE-2026-122154](https://nvd.nist.gov/vuln/detail/CVE-2026-122154) | Medium | 5.5 | A vulnerability was found in purocean Yank Note 3.93.0. This impacts the function config.getAll of the file src/main/se… |
+| 2026-11-05 02:16:58 | [CVE-2026-122157](https://nvd.nist.gov/vuln/detail/CVE-2026-122157) | Low | 2.1 | A vulnerability was identified in Purocean Yank Note 3.93.0. Affected by this vulnerability is the function checkPermis… |
+| 2026-11-05 02:16:58 | [CVE-2026-122158](https://nvd.nist.gov/vuln/detail/CVE-2026-122158) | Low | 2.0 | A security flaw has been discovered in InvoiceShelf up to 2.4.3/3.0.0-alpha.3. Affected by this issue is the function M… |
 
 ## Data source
 
