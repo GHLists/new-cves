@@ -9,18 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 08:18 UTC
+## Latest list — 2026-11-05 09:18 UTC
 
-New CVEs published between 2026-11-05 07:31 UTC and 2026-11-05 08:18 UTC.
+New CVEs published between 2026-11-05 08:18 UTC and 2026-11-05 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T08-18-45-950159Z.csv)
+[Full CSV](data/new-cves-2026-11-05T09-18-48-697247Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 08:17:01 | [CVE-2026-100109](https://nvd.nist.gov/vuln/detail/CVE-2026-100109) | Critical | 9.8 | The Security For WooCommerce WordPress plugin from 1.0.10 to 1.0.16 does not perform capability checks when creating us… |
-| 2026-11-05 08:17:03 | [CVE-2026-107776](https://nvd.nist.gov/vuln/detail/CVE-2026-107776) | Low | 2.2 | The Dokan WordPress plugin before 5.3.3 does not reconcile the amount credited to a vendor's reverse-withdrawal ledger… |
-| 2026-11-05 08:17:03 | [CVE-2026-109408](https://nvd.nist.gov/vuln/detail/CVE-2026-109408) | High | 7.4 | vault-java-driver, a Java client for HashiCorp Vault, silently disables TLS certificate and hostname verification in th… |
-| 2026-11-05 08:17:03 | [CVE-2026-112072](https://nvd.nist.gov/vuln/detail/CVE-2026-112072) | Medium | 6.5 | vault-java-driver, a Java client for HashiCorp Vault, parses Vault's JSON responses with a vendored minimal-json parser… |
+| 2026-11-05 09:17:04 | [CVE-2026-117679](https://nvd.nist.gov/vuln/detail/CVE-2026-117679) | Medium | 5.1 | A cross-site scripting vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitrar… |
+| 2026-11-05 09:17:05 | [CVE-2026-118869](https://nvd.nist.gov/vuln/detail/CVE-2026-118869) | High | 8.7 | An OS command injection vulnerability exists in SHIRASAGI, which may allow an authenticated attacker to execute arbitra… |
 
 ## Data source
 
