@@ -9,23 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:19 UTC
+## Latest list — 2026-11-06 14:19 UTC
 
-New CVEs published between 2026-11-06 12:18 UTC and 2026-11-06 13:19 UTC.
+New CVEs published between 2026-11-06 13:19 UTC and 2026-11-06 14:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T13-19-36-841557Z.csv)
+[Full CSV](data/new-cves-2026-11-06T14-19-48-176731Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 13:17:21 | [CVE-2026-105422](https://nvd.nist.gov/vuln/detail/CVE-2026-105422) | Medium | 6.6 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in TÜBİTAK BİLGEM Software… |
-| 2026-11-06 13:17:23 | [CVE-2026-109883](https://nvd.nist.gov/vuln/detail/CVE-2026-109883) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Elementor Element… |
-| 2026-11-06 13:17:23 | [CVE-2026-109884](https://nvd.nist.gov/vuln/detail/CVE-2026-109884) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Elementor Element… |
-| 2026-11-06 13:17:25 | [CVE-2026-115431](https://nvd.nist.gov/vuln/detail/CVE-2026-115431) | High | 7.1 | Missing Authorization vulnerability in WP Swings Upsell Order Bump Offer for WooCommerce upsell-order-bump-offer-for-wo… |
-| 2026-11-06 13:17:25 | [CVE-2026-115952](https://nvd.nist.gov/vuln/detail/CVE-2026-115952) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPMU DEV Forminat… |
-| 2026-11-06 13:17:29 | [CVE-2026-123746](https://nvd.nist.gov/vuln/detail/CVE-2026-123746) | Low | 2.3 | The Symfony Security HTTP component AuthenticatorManager::authenticateUser() does not run the firewall user checker’s c… |
-| 2026-11-06 13:17:30 | [CVE-2026-35114](https://nvd.nist.gov/vuln/detail/CVE-2026-35114) | Low | 3.7 | HCL AION is affected by a vulnerability where the X-Content-Type-Options header was missing or insecure, allowing brows… |
-| 2026-11-06 13:17:30 | [CVE-2026-35115](https://nvd.nist.gov/vuln/detail/CVE-2026-35115) | Low | 3.7 | HCL AION is affected by a vulnerability where the HTTP Strict-Transport-Security (HSTS) header was missing or insecurel… |
-| 2026-11-06 13:17:33 | [CVE-2026-92080](https://nvd.nist.gov/vuln/detail/CVE-2026-92080) | Medium | 4.3 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in TÜBİTAK BİLGEM Software… |
+| 2026-11-06 14:17:10 | [CVE-2026-123653](https://nvd.nist.gov/vuln/detail/CVE-2026-123653) | Low | 2.1 | A security vulnerability has been detected in esengine DeepSeek-Reasonix up to 2.52.0. Affected is the function discove… |
+| 2026-11-06 14:17:11 | [CVE-2026-21849](https://nvd.nist.gov/vuln/detail/CVE-2026-21849) | Low | 3.7 | HCL AION is affected by a missing encryption vulnerability in the WebSocket connection set up by the GenAI web interfac… |
+| 2026-11-06 14:17:11 | [CVE-2026-21850](https://nvd.nist.gov/vuln/detail/CVE-2026-21850) | Medium | 6.5 | HCL AION is affected by a vulnerability where user-controlled input could be included in HTTP response headers without… |
+| 2026-11-06 14:17:11 | [CVE-2026-35102](https://nvd.nist.gov/vuln/detail/CVE-2026-35102) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability in the navigation bar of the GenAI web interface (Navbar compone… |
+| 2026-11-06 14:17:11 | [CVE-2026-35103](https://nvd.nist.gov/vuln/detail/CVE-2026-35103) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability on the role assignment pending page (RoleAssignPending component… |
+| 2026-11-06 14:17:11 | [CVE-2026-35104](https://nvd.nist.gov/vuln/detail/CVE-2026-35104) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability on the user registration page (Signup component). The redirect p… |
+| 2026-11-06 14:17:12 | [CVE-2026-35105](https://nvd.nist.gov/vuln/detail/CVE-2026-35105) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability in the session-handling logic of the GenAI web interface (UserCo… |
+| 2026-11-06 14:17:12 | [CVE-2026-35106](https://nvd.nist.gov/vuln/detail/CVE-2026-35106) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability in the session-handling logic of the GenAI web interface (UserCo… |
+| 2026-11-06 14:17:12 | [CVE-2026-35107](https://nvd.nist.gov/vuln/detail/CVE-2026-35107) | Medium | 4.7 | HCL AION is affected by an open redirect vulnerability in the user menu of the GenAI web interface (UserMenu component)… |
+| 2026-11-06 14:17:12 | [CVE-2026-35109](https://nvd.nist.gov/vuln/detail/CVE-2026-35109) | Low | 3.7 | HCL AION is affected by a vulnerability where pages served over HTTPS could be cached by the browser or intermediate pr… |
+| 2026-11-06 14:17:12 | [CVE-2026-35110](https://nvd.nist.gov/vuln/detail/CVE-2026-35110) | Medium | 5.4 | HCL AION is affected by a vulnerability where encrypted (HTTPS) communication was not enforced for all requests. Data m… |
+| 2026-11-06 14:17:12 | [CVE-2026-35111](https://nvd.nist.gov/vuln/detail/CVE-2026-35111) | Medium | 4.8 | HCL AION is affected by a vulnerability where the Cross-Origin-Resource-Policy (CORP) header was missing or insecure, a… |
+| 2026-11-06 14:17:12 | [CVE-2026-35112](https://nvd.nist.gov/vuln/detail/CVE-2026-35112) | Medium | 4.2 | HCL AION is affected by a vulnerability where the Cross-Origin-Embedder-Policy (COEP) header was missing or insecure, s… |
+| 2026-11-06 14:17:13 | [CVE-2026-35113](https://nvd.nist.gov/vuln/detail/CVE-2026-35113) | Medium | 4.8 | HCL AION is affected by a vulnerability where the Cross-Origin-Opener-Policy (COOP) header was missing or insecure, all… |
+| 2026-11-06 14:17:13 | [CVE-2026-5345](https://nvd.nist.gov/vuln/detail/CVE-2026-5345) | Low | 3.7 | HCL AION is affected by a missing encryption vulnerability in a second WebSocket connection defined in the GenAI web in… |
 
 ## Data source
 
