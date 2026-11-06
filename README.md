@@ -9,25 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:19 UTC
+## Latest list — 2026-11-06 10:19 UTC
 
-New CVEs published between 2026-11-06 08:20 UTC and 2026-11-06 09:19 UTC.
+New CVEs published between 2026-11-06 09:19 UTC and 2026-11-06 10:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T09-19-30-009744Z.csv)
+[Full CSV](data/new-cves-2026-11-06T10-19-47-689356Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 09:16:58 | [CVE-2026-103674](https://nvd.nist.gov/vuln/detail/CVE-2026-103674) | Low | 2.0 | Invocation of the NetApp ONTAP special agent with the login password in the command line in Checkmk version 2.5.0 befor… |
-| 2026-11-06 09:16:59 | [CVE-2026-103682](https://nvd.nist.gov/vuln/detail/CVE-2026-103682) | Low | 2.0 | Invocation of the Jolokia special agent with the login password in the command line in Checkmk versions 2.5.0 before 2.… |
-| 2026-11-06 09:16:59 | [CVE-2026-108018](https://nvd.nist.gov/vuln/detail/CVE-2026-108018) | Medium | 6.3 | The BigFix MCM admin portal is directly accessible from the internet without VPN or network restriction. A client-side… |
-| 2026-11-06 09:16:59 | [CVE-2026-110291](https://nvd.nist.gov/vuln/detail/CVE-2026-110291) | High | 7.2 | The Graphina – Charts and Graphs For Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via th… |
-| 2026-11-06 09:17:00 | [CVE-2026-118189](https://nvd.nist.gov/vuln/detail/CVE-2026-118189) | Medium | 6.4 | The Posts Table with Search & Sort plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'date_form… |
-| 2026-11-06 09:17:00 | [CVE-2026-120671](https://nvd.nist.gov/vuln/detail/CVE-2026-120671) | Medium | 6.4 | The UsersWP – Front-end login form, User Registration, User Profile & Members Directory plugin for WP plugin for WordPr… |
-| 2026-11-06 09:17:00 | [CVE-2026-121794](https://nvd.nist.gov/vuln/detail/CVE-2026-121794) | Medium | 6.5 | The Travelly – Tour & Travel Booking Manager for WooCommerce plugin for WordPress is vulnerable to authorization bypass… |
-| 2026-11-06 09:17:00 | [CVE-2026-122222](https://nvd.nist.gov/vuln/detail/CVE-2026-122222) | Medium | 6.4 | The Permalink Manager Lite plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'slug' parameter i… |
-| 2026-11-06 09:17:01 | [CVE-2026-123660](https://nvd.nist.gov/vuln/detail/CVE-2026-123660) | Medium | 5.3 | In Vulnerability-Lookup 5.5.1 up to but not including 6.4.1, a signed-in user could make the server allocate memory far… |
-| 2026-11-06 09:17:01 | [CVE-2026-19876](https://nvd.nist.gov/vuln/detail/CVE-2026-19876) | Medium | 6.1 | A reflected cross-site scripting (XSS) vulnerability in the login/SSO error page of INFINITT ULite 5.0.2.1_BN48_2026052… |
-| 2026-11-06 09:17:01 | [CVE-2026-19877](https://nvd.nist.gov/vuln/detail/CVE-2026-19877) | High | 7.5 | INFINITT ULite 5.0.2.1_BN48_20260528 and earlier protects image-share links with a low-entropy password and does not re… |
+| 2026-11-06 10:16:34 | [CVE-2026-109977](https://nvd.nist.gov/vuln/detail/CVE-2026-109977) | Medium | 4.9 | The YaySMTP – WP Mail SMTP with Email Logs, Tracking & Reports plugin for WordPress is vulnerable to time-based SQL Inj… |
+| 2026-11-06 10:16:35 | [CVE-2026-109994](https://nvd.nist.gov/vuln/detail/CVE-2026-109994) | Medium | 6.5 | The Eventin – Events Calendar, Tickets, Registration, Booking & WooCommerce plugin for WordPress is vulnerable to Sensi… |
+| 2026-11-06 10:16:35 | [CVE-2026-110776](https://nvd.nist.gov/vuln/detail/CVE-2026-110776) | High | 7.2 | The MDTF – Meta Data and Taxonomies Filter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'v… |
+| 2026-11-06 10:16:36 | [CVE-2026-115831](https://nvd.nist.gov/vuln/detail/CVE-2026-115831) | Medium | 4.3 | The VOD Infomaniak plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 1.5… |
+| 2026-11-06 10:16:36 | [CVE-2026-116592](https://nvd.nist.gov/vuln/detail/CVE-2026-116592) | High | 7.4 | undici is an HTTP client for Node.js. In versions 7.30.1 and 8.12.2 through 8.12.3, when an originless Agent composes t… |
+| 2026-11-06 10:16:36 | [CVE-2026-120222](https://nvd.nist.gov/vuln/detail/CVE-2026-120222) | Medium | 5.9 | undici is an HTTP client for Node.js. In versions 7.0.0 through 7.30.1 and 8.0.0 through 8.12.3, when the cache interce… |
+| 2026-11-06 10:16:36 | [CVE-2026-120415](https://nvd.nist.gov/vuln/detail/CVE-2026-120415) | Medium | 5.9 | undici is an HTTP client for Node.js. In versions 7.0.0 through 7.30.1 and 8.0.0 through 8.12.3, the redirect intercept… |
+| 2026-11-06 10:16:36 | [CVE-2026-120423](https://nvd.nist.gov/vuln/detail/CVE-2026-120423) | Medium | 5.9 | undici is an HTTP client for Node.js. In versions 7.15.0 through 7.30.1 and 8.0.0 through 8.12.3, fetch verifies Subres… |
+| 2026-11-06 10:16:36 | [CVE-2026-120474](https://nvd.nist.gov/vuln/detail/CVE-2026-120474) | Medium | 6.5 | undici is an HTTP client for Node.js. In versions 7.0.0 through 7.30.1 and 8.0.0 through 8.12.3, when the redirect inte… |
+| 2026-11-06 10:16:37 | [CVE-2026-120550](https://nvd.nist.gov/vuln/detail/CVE-2026-120550) | Medium | 6.4 | The WP User Manager – Registration Form, Login Form, User Profile Builder & Member Directory plugin for WordPress is vu… |
+| 2026-11-06 10:16:37 | [CVE-2026-120659](https://nvd.nist.gov/vuln/detail/CVE-2026-120659) | Medium | 5.3 | The Redirection for Contact Form 7 plugin for WordPress is vulnerable to authorization bypass in all versions up to, an… |
+| 2026-11-06 10:16:37 | [CVE-2026-123087](https://nvd.nist.gov/vuln/detail/CVE-2026-123087) | High | 8.7 | SQL injection vulnerability in Atmira’s SIREC. The server retrieves the value of a field from a JSON object containing… |
+| 2026-11-06 10:16:37 | [CVE-2026-33379](https://nvd.nist.gov/vuln/detail/CVE-2026-33379) | High | 8.5 | A user with any role, including Viewer or a service account with no permissions, can create, externally publish, and de… |
+| 2026-11-06 10:16:38 | [CVE-2026-87964](https://nvd.nist.gov/vuln/detail/CVE-2026-87964) | High | 7.2 | The Product Feed Manager for WooCommerce – CTX Feed – Support 220+ Shopping, AI & Social Channels plugin for WordPress… |
+| 2026-11-06 10:16:38 | [CVE-2026-97642](https://nvd.nist.gov/vuln/detail/CVE-2026-97642) | Medium | 6.4 | The Wp Parsidate plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the calendar Gutenberg block's '… |
 
 ## Data source
 
