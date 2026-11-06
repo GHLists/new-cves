@@ -9,35 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 08:20 UTC
+## Latest list — 2026-11-06 09:19 UTC
 
-New CVEs published between 2026-11-06 07:18 UTC and 2026-11-06 08:20 UTC.
+New CVEs published between 2026-11-06 08:20 UTC and 2026-11-06 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T08-20-12-092542Z.csv)
+[Full CSV](data/new-cves-2026-11-06T09-19-30-009744Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 08:17:18 | [CVE-2026-118166](https://nvd.nist.gov/vuln/detail/CVE-2026-118166) | Medium | 4.8 | The MC4WP: Mailchimp for WordPress WordPress plugin before 4.15.0 does not prevent request-derived values in its dynami… |
-| 2026-11-06 08:17:18 | [CVE-2026-118423](https://nvd.nist.gov/vuln/detail/CVE-2026-118423) | Critical | 10.0 | The WP Libre Form WordPress plugin 1.5.0.1 does not validate the type of files uploaded through its form submissions, a… |
-| 2026-11-06 08:17:18 | [CVE-2026-119472](https://nvd.nist.gov/vuln/detail/CVE-2026-119472) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in David Anderson Re… |
-| 2026-11-06 08:17:18 | [CVE-2026-119488](https://nvd.nist.gov/vuln/detail/CVE-2026-119488) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Shamim Rajani Pie… |
-| 2026-11-06 08:17:19 | [CVE-2026-119499](https://nvd.nist.gov/vuln/detail/CVE-2026-119499) | High | 7.5 | Insertion of Sensitive Information Into Sent Data vulnerability in BAKKBONE Australia FloristPress bakkbone-florist-com… |
-| 2026-11-06 08:17:19 | [CVE-2026-119516](https://nvd.nist.gov/vuln/detail/CVE-2026-119516) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &a… |
-| 2026-11-06 08:17:19 | [CVE-2026-120844](https://nvd.nist.gov/vuln/detail/CVE-2026-120844) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in miniOrange OAuth Single Sign On – SSO (OAuth Client) miniorange-login-w… |
-| 2026-11-06 08:17:19 | [CVE-2026-121006](https://nvd.nist.gov/vuln/detail/CVE-2026-121006) |  |  | HTTP::Body versions before 1.24_02 for Perl parse the trailer in quadratic time. Everything after the last chunk in the… |
-| 2026-11-06 08:17:19 | [CVE-2026-121633](https://nvd.nist.gov/vuln/detail/CVE-2026-121633) | Medium | 5.3 | The Order Tracking WordPress plugin before 3.6.0 does not verify that a PayPal payment notification was sent to the mer… |
-| 2026-11-06 08:17:20 | [CVE-2026-121636](https://nvd.nist.gov/vuln/detail/CVE-2026-121636) | Medium | 5.3 | The Quick Event Manager WordPress plugin before 9.19 does not verify the authenticity of PayPal payment notifications b… |
-| 2026-11-06 08:17:20 | [CVE-2026-121819](https://nvd.nist.gov/vuln/detail/CVE-2026-121819) | Medium | 5.9 | A vulnerability has been identified in armeria-xds versions 1.40.0 through 1.42.0, where DataSourcePolicy checks filena… |
-| 2026-11-06 08:17:20 | [CVE-2026-121820](https://nvd.nist.gov/vuln/detail/CVE-2026-121820) | High | 8.7 | A vulnerability has been identified in armeria-saml versions prior to 1.43.0, where the HTTP-Redirect binding decoder d… |
-| 2026-11-06 08:17:20 | [CVE-2026-121821](https://nvd.nist.gov/vuln/detail/CVE-2026-121821) | Medium | 5.3 | A vulnerability has been identified in armeria versions 0.84.0 through 1.42.0, where any-origin CORS policies do not en… |
-| 2026-11-06 08:17:20 | [CVE-2026-121822](https://nvd.nist.gov/vuln/detail/CVE-2026-121822) | Low | 2.4 | A vulnerability has been identified in armeria versions 0.80.0 through 1.42.0, where attackers who control file names c… |
-| 2026-11-06 08:17:20 | [CVE-2026-121823](https://nvd.nist.gov/vuln/detail/CVE-2026-121823) | High | 8.7 | A vulnerability has been identified in armeria versions prior to 1.43.0, where inconsistent request path normalization… |
-| 2026-11-06 08:17:20 | [CVE-2026-121824](https://nvd.nist.gov/vuln/detail/CVE-2026-121824) | High | 8.7 | A vulnerability has been identified in armeria versions prior to 1.43.0, where processing malformed Thrift messages can… |
-| 2026-11-06 08:17:25 | [CVE-2026-39744](https://nvd.nist.gov/vuln/detail/CVE-2026-39744) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WC Lovers WCFM Me… |
-| 2026-11-06 08:17:36 | [CVE-2026-65022](https://nvd.nist.gov/vuln/detail/CVE-2026-65022) | Medium | 6.3 | The MDM App Catalog / App Store preview does not properly sanitize or encode user-supplied HTML before rendering it. In… |
-| 2026-11-06 08:17:38 | [CVE-2026-88799](https://nvd.nist.gov/vuln/detail/CVE-2026-88799) | High | 8.8 | The MDJM Event Management and Mobile Events Manager WordPress plugins through 1.7.8.7 do not check ownership or capabil… |
-| 2026-11-06 08:17:38 | [CVE-2026-88800](https://nvd.nist.gov/vuln/detail/CVE-2026-88800) | Critical | 9.1 | The MDJM Event Management and Mobile Events Manager WordPress plugins through 1.7.8.7 act on a role deletion request on… |
-| 2026-11-06 08:17:38 | [CVE-2026-88801](https://nvd.nist.gov/vuln/detail/CVE-2026-88801) | High | 8.0 | The MDJM Event Management and Mobile Events Manager WordPress plugins through 1.7.8.7 do not check a capability or a no… |
+| 2026-11-06 09:16:58 | [CVE-2026-103674](https://nvd.nist.gov/vuln/detail/CVE-2026-103674) | Low | 2.0 | Invocation of the NetApp ONTAP special agent with the login password in the command line in Checkmk version 2.5.0 befor… |
+| 2026-11-06 09:16:59 | [CVE-2026-103682](https://nvd.nist.gov/vuln/detail/CVE-2026-103682) | Low | 2.0 | Invocation of the Jolokia special agent with the login password in the command line in Checkmk versions 2.5.0 before 2.… |
+| 2026-11-06 09:16:59 | [CVE-2026-108018](https://nvd.nist.gov/vuln/detail/CVE-2026-108018) | Medium | 6.3 | The BigFix MCM admin portal is directly accessible from the internet without VPN or network restriction. A client-side… |
+| 2026-11-06 09:16:59 | [CVE-2026-110291](https://nvd.nist.gov/vuln/detail/CVE-2026-110291) | High | 7.2 | The Graphina – Charts and Graphs For Elementor plugin for WordPress is vulnerable to Stored Cross-Site Scripting via th… |
+| 2026-11-06 09:17:00 | [CVE-2026-118189](https://nvd.nist.gov/vuln/detail/CVE-2026-118189) | Medium | 6.4 | The Posts Table with Search & Sort plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'date_form… |
+| 2026-11-06 09:17:00 | [CVE-2026-120671](https://nvd.nist.gov/vuln/detail/CVE-2026-120671) | Medium | 6.4 | The UsersWP – Front-end login form, User Registration, User Profile & Members Directory plugin for WP plugin for WordPr… |
+| 2026-11-06 09:17:00 | [CVE-2026-121794](https://nvd.nist.gov/vuln/detail/CVE-2026-121794) | Medium | 6.5 | The Travelly – Tour & Travel Booking Manager for WooCommerce plugin for WordPress is vulnerable to authorization bypass… |
+| 2026-11-06 09:17:00 | [CVE-2026-122222](https://nvd.nist.gov/vuln/detail/CVE-2026-122222) | Medium | 6.4 | The Permalink Manager Lite plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'slug' parameter i… |
+| 2026-11-06 09:17:01 | [CVE-2026-123660](https://nvd.nist.gov/vuln/detail/CVE-2026-123660) | Medium | 5.3 | In Vulnerability-Lookup 5.5.1 up to but not including 6.4.1, a signed-in user could make the server allocate memory far… |
+| 2026-11-06 09:17:01 | [CVE-2026-19876](https://nvd.nist.gov/vuln/detail/CVE-2026-19876) | Medium | 6.1 | A reflected cross-site scripting (XSS) vulnerability in the login/SSO error page of INFINITT ULite 5.0.2.1_BN48_2026052… |
+| 2026-11-06 09:17:01 | [CVE-2026-19877](https://nvd.nist.gov/vuln/detail/CVE-2026-19877) | High | 7.5 | INFINITT ULite 5.0.2.1_BN48_20260528 and earlier protects image-share links with a low-entropy password and does not re… |
 
 ## Data source
 
