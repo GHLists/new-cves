@@ -9,32 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 23:18 UTC
+## Latest list — 2026-11-06 01:20 UTC
 
-New CVEs published between 2026-11-05 22:21 UTC and 2026-11-05 23:18 UTC.
+New CVEs published between 2026-11-06 00:20 UTC and 2026-11-06 01:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-05T23-18-47-035759Z.csv)
+[Full CSV](data/new-cves-2026-11-06T01-20-40-605022Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-05 23:16:49 | [CVE-2026-102943](https://nvd.nist.gov/vuln/detail/CVE-2026-102943) | Medium | 6.5 | Dagu is a workflow engine with a built-in Web user interface. Prior to version 2.11.0, its MCP dagu_read operation with… |
-| 2026-11-05 23:16:50 | [CVE-2026-110390](https://nvd.nist.gov/vuln/detail/CVE-2026-110390) | Medium | 6.9 | Missing authentication in the FlexNet Beacon component of Flexera One and FlexNet Manager Suite allows unauthenticated… |
-| 2026-11-05 23:16:50 | [CVE-2026-113663](https://nvd.nist.gov/vuln/detail/CVE-2026-113663) | High | 8.8 | AG2 is an open-source AgentOS. From 0.13.2 until ag2 1.1.1, and from autogen 0.13.2 to 0.14.1, SandboxShellTool configu… |
-| 2026-11-05 23:16:50 | [CVE-2026-16579](https://nvd.nist.gov/vuln/detail/CVE-2026-16579) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-05 23:16:56 | [CVE-2026-68509](https://nvd.nist.gov/vuln/detail/CVE-2026-68509) | Medium | 6.3 | FairEmail is a fully featured, open source, privacy-friendly email app for Android. Prior to 1.2325, shared attachment… |
-| 2026-11-05 23:17:00 | [CVE-2026-77596](https://nvd.nist.gov/vuln/detail/CVE-2026-77596) | Critical | 9.6 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-11-05 23:17:00 | [CVE-2026-85068](https://nvd.nist.gov/vuln/detail/CVE-2026-85068) | Low | 2.4 | Network UPS Tools is a collection of programs which provide a common interface for monitoring and administering UPS, PD… |
-| 2026-11-05 23:17:01 | [CVE-2026-88979](https://nvd.nist.gov/vuln/detail/CVE-2026-88979) | Medium | 5.8 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. From 2.17.0 until 2… |
-| 2026-11-05 23:17:01 | [CVE-2026-88980](https://nvd.nist.gov/vuln/detail/CVE-2026-88980) | High | 8.6 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-11-05 23:17:01 | [CVE-2026-88981](https://nvd.nist.gov/vuln/detail/CVE-2026-88981) | High | 8.6 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-11-05 23:17:01 | [CVE-2026-88982](https://nvd.nist.gov/vuln/detail/CVE-2026-88982) | Medium | 5.4 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.18.0, th… |
-| 2026-11-05 23:17:01 | [CVE-2026-88984](https://nvd.nist.gov/vuln/detail/CVE-2026-88984) | High | 7.2 | Kubeflow Pipelines enables users to build and deploy portable, scalable machine learning workflows. Prior to 2.16.1, th… |
-| 2026-11-05 23:17:01 | [CVE-2026-92693](https://nvd.nist.gov/vuln/detail/CVE-2026-92693) | High | 8.2 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, parse_raw_packet_to_simple_pac… |
-| 2026-11-05 23:17:02 | [CVE-2026-92694](https://nvd.nist.gov/vuln/detail/CVE-2026-92694) | Medium | 5.9 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, FastNetMon's IPv6 top-talkers… |
-| 2026-11-05 23:17:02 | [CVE-2026-92695](https://nvd.nist.gov/vuln/detail/CVE-2026-92695) | High | 8.2 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, the live parse_packet() callba… |
-| 2026-11-05 23:17:02 | [CVE-2026-92697](https://nvd.nist.gov/vuln/detail/CVE-2026-92697) | High | 7.5 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, the NetFlow v9 collector calls… |
-| 2026-11-05 23:17:02 | [CVE-2026-92698](https://nvd.nist.gov/vuln/detail/CVE-2026-92698) | High | 8.2 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, process_sflow_flow_sample() in… |
-| 2026-11-05 23:17:02 | [CVE-2026-93424](https://nvd.nist.gov/vuln/detail/CVE-2026-93424) | High | 7.5 | FastNetMon is a high-performance DDoS detector and sensor. In version 1.2.9 and earlier, peer_find_template() in src/ne… |
+| 2026-11-06 01:17:47 | [CVE-2025-71458](https://nvd.nist.gov/vuln/detail/CVE-2025-71458) | High | 8.7 | FTS3 Web Monitoring (fts-monitoring) versions 3.12.0 through 3.13.2 and 3.14.0 contain an unauthenticated sql injection… |
+| 2026-11-06 01:17:48 | [CVE-2026-107492](https://nvd.nist.gov/vuln/detail/CVE-2026-107492) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-06 01:17:48 | [CVE-2026-123268](https://nvd.nist.gov/vuln/detail/CVE-2026-123268) | Low | 2.0 | A security vulnerability has been detected in libyal libvmdk up to 3fdd7839758e9f44ef95e1dfccde8552b860a4fc. Affected i… |
+| 2026-11-06 01:17:48 | [CVE-2026-123269](https://nvd.nist.gov/vuln/detail/CVE-2026-123269) | Low | 1.9 | A vulnerability was detected in libyal libvmdk. Affected by this vulnerability is the function libvmdk_descriptor_file_… |
+| 2026-11-06 01:17:50 | [CVE-2026-63017](https://nvd.nist.gov/vuln/detail/CVE-2026-63017) | Critical | 9.4 | Incorrect authorization in PowerSYSTEM Center allows a low-privileged, authenticated user to access resources normally… |
+| 2026-11-06 01:17:50 | [CVE-2026-63774](https://nvd.nist.gov/vuln/detail/CVE-2026-63774) | Critical | 9.4 | Insufficient input validation in the PowerSYSTEM Center report designer allows an authenticated user to execute unautho… |
 
 ## Data source
 
