@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 04:18 UTC
+## Latest list — 2026-11-06 05:18 UTC
 
-New CVEs published between 2026-11-06 03:19 UTC and 2026-11-06 04:18 UTC.
+New CVEs published between 2026-11-06 04:18 UTC and 2026-11-06 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T04-18-42-256513Z.csv)
+[Full CSV](data/new-cves-2026-11-06T05-18-42-907005Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 04:16:35 | [CVE-2026-89142](https://nvd.nist.gov/vuln/detail/CVE-2026-89142) | Medium | 6.3 | In the Wi-Fi NPU FW, there is a possible out-of-bounds write due to an incorrect bounds check. This could lead to local… |
+| 2026-11-06 05:18:20 | [CVE-2026-114366](https://nvd.nist.gov/vuln/detail/CVE-2026-114366) | Low | 2.3 | An information disclosure vulnerability in the Qt Framework QWebSocket authentication handling of the Qt WebSockets mod… |
+| 2026-11-06 05:18:20 | [CVE-2026-119431](https://nvd.nist.gov/vuln/detail/CVE-2026-119431) | High | 7.7 | A server-side request forgery (SSRF) vulnerability exists in Foxit Workspace's file-upload functionality. Insufficient… |
+| 2026-11-06 05:18:20 | [CVE-2026-119432](https://nvd.nist.gov/vuln/detail/CVE-2026-119432) | High | 8.7 | A stored cross-site scripting (XSS) vulnerability exists in the Foxit Workspace's file share preview functionality. An… |
+| 2026-11-06 05:18:20 | [CVE-2026-119433](https://nvd.nist.gov/vuln/detail/CVE-2026-119433) | High | 7.7 | A server-side request forgery (SSRF) vulnerability exists in an undocumented API endpoint of Foxit Workspace due to ins… |
 
 ## Data source
 
