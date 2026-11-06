@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 02:18 UTC
+## Latest list — 2026-11-06 04:18 UTC
 
-New CVEs published between 2026-11-06 01:20 UTC and 2026-11-06 02:18 UTC.
+New CVEs published between 2026-11-06 03:19 UTC and 2026-11-06 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T02-18-46-730586Z.csv)
+[Full CSV](data/new-cves-2026-11-06T04-18-42-256513Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 02:17:52 | [CVE-2026-77299](https://nvd.nist.gov/vuln/detail/CVE-2026-77299) | High | 7.5 | Regexp2 is a feature-rich RegExp engine for Go. Prior to version 2.3.0, when regexp2 compiles and matches a pattern con… |
+| 2026-11-06 04:16:35 | [CVE-2026-89142](https://nvd.nist.gov/vuln/detail/CVE-2026-89142) | Medium | 6.3 | In the Wi-Fi NPU FW, there is a possible out-of-bounds write due to an incorrect bounds check. This could lead to local… |
 
 ## Data source
 

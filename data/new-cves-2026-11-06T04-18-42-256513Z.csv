@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-06T04:16:35.437Z,CVE-2026-89142,MEDIUM,6.3,Received,CWE-787,1,"In the Wi-Fi NPU FW, there is a possible out-of-bounds write due to an incorrect bounds check. This could lead to local denial of service with user execution privileges needed. User interaction is not needed for exploitation."
