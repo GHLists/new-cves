@@ -9,57 +9,36 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 19:19 UTC
+## Latest list — 2026-11-06 20:19 UTC
 
-New CVEs published between 2026-11-06 18:20 UTC and 2026-11-06 19:19 UTC.
+New CVEs published between 2026-11-06 19:19 UTC and 2026-11-06 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-06T19-19-27-100705Z.csv)
+[Full CSV](data/new-cves-2026-11-06T20-19-58-395728Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-06 19:17:02 | [CVE-2024-36240](https://nvd.nist.gov/vuln/detail/CVE-2024-36240) |  |  | Rejected reason: Unused reservation with no CVE record; removed from tickets/pool during the 2026-11-06 stale-CVE remed… |
-| 2026-11-06 19:17:02 | [CVE-2025-46896](https://nvd.nist.gov/vuln/detail/CVE-2025-46896) |  |  | Rejected reason: Unused reservation with no CVE record; removed from tickets/pool during the 2026-11-06 stale-CVE remed… |
-| 2026-11-06 19:17:02 | [CVE-2025-64798](https://nvd.nist.gov/vuln/detail/CVE-2025-64798) |  |  | Rejected reason: Unused reservation with no CVE record; removed from tickets/pool during the 2026-11-06 stale-CVE remed… |
-| 2026-11-06 19:17:03 | [CVE-2026-100080](https://nvd.nist.gov/vuln/detail/CVE-2026-100080) |  |  | In the Linux kernel, the following vulnerability has been resolved: xen-netback: Fix UAF when reading statistics data T… |
-| 2026-11-06 19:17:03 | [CVE-2026-100081](https://nvd.nist.gov/vuln/detail/CVE-2026-100081) |  |  | In the Linux kernel, the following vulnerability has been resolved: xen-netback: defer xenvif_mcast_addr_list_free() In… |
-| 2026-11-06 19:17:03 | [CVE-2026-100082](https://nvd.nist.gov/vuln/detail/CVE-2026-100082) |  |  | In the Linux kernel, the following vulnerability has been resolved: xen-blkback: Avoid UAF when reading I/O statistics… |
-| 2026-11-06 19:17:06 | [CVE-2026-107154](https://nvd.nist.gov/vuln/detail/CVE-2026-107154) | High | 8.8 | A session validation vulnerability has been identified in the SonicOS management interface, which in specific condition… |
-| 2026-11-06 19:17:06 | [CVE-2026-107155](https://nvd.nist.gov/vuln/detail/CVE-2026-107155) | High | 8.8 | A permissive cross-domain policy vulnerability has been identified in the SonicOS management interface, which in specif… |
-| 2026-11-06 19:17:06 | [CVE-2026-108262](https://nvd.nist.gov/vuln/detail/CVE-2026-108262) | Medium | 6.5 | DDEV is an open-source tool for running local web development environments for PHP and Node.js. From 1.25.2 until 1.25.… |
-| 2026-11-06 19:17:07 | [CVE-2026-10146](https://nvd.nist.gov/vuln/detail/CVE-2026-10146) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:07 | [CVE-2026-10147](https://nvd.nist.gov/vuln/detail/CVE-2026-10147) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:39 | [CVE-2026-119923](https://nvd.nist.gov/vuln/detail/CVE-2026-119923) | Critical | 9.3 | A heap-based buffer overflow in the TDS prelogin parser in the Babelfish for PostgreSQL extension versions 1.0-1.5, 2.1… |
-| 2026-11-06 19:17:39 | [CVE-2026-119924](https://nvd.nist.gov/vuln/detail/CVE-2026-119924) | High | 7.2 | An out-of-bounds read in the TDS RPC procedure-name parser in the Babelfish for PostgreSQL extension versions 1.0-1.5,… |
-| 2026-11-06 19:17:43 | [CVE-2026-122113](https://nvd.nist.gov/vuln/detail/CVE-2026-122113) |  |  | A vulnerability in Realtek's RtUsbA64.sys USB audio driver allows a physically present attacker using a maliciously cra… |
-| 2026-11-06 19:17:44 | [CVE-2026-123356](https://nvd.nist.gov/vuln/detail/CVE-2026-123356) | High | 7.5 | GROBID is machine learning software for extracting information from scholarly documents. Prior to 0.9.1, the unauthenti… |
-| 2026-11-06 19:17:44 | [CVE-2026-123357](https://nvd.nist.gov/vuln/detail/CVE-2026-123357) | None | 0.0 | GROBID is machine learning software for extracting information from scholarly documents. Prior to 0.9.1, the Linux non-… |
-| 2026-11-06 19:17:44 | [CVE-2026-123993](https://nvd.nist.gov/vuln/detail/CVE-2026-123993) | High | 8.7 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated access vulnerability where a QA build of… |
-| 2026-11-06 19:17:44 | [CVE-2026-123994](https://nvd.nist.gov/vuln/detail/CVE-2026-123994) | Medium | 5.3 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated access vulnerability in the DIAL (Discov… |
-| 2026-11-06 19:17:44 | [CVE-2026-123995](https://nvd.nist.gov/vuln/detail/CVE-2026-123995) | Medium | 4.8 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an input validation vulnerability in the UPnP/DLNA AVTransp… |
-| 2026-11-06 19:17:45 | [CVE-2026-123996](https://nvd.nist.gov/vuln/detail/CVE-2026-123996) | Medium | 4.8 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains a missing authentication vulnerability in the UPnP/DLNA Ren… |
-| 2026-11-06 19:17:45 | [CVE-2026-123997](https://nvd.nist.gov/vuln/detail/CVE-2026-123997) | High | 7.1 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an unauthenticated denial-of-service vulnerability in the U… |
-| 2026-11-06 19:17:45 | [CVE-2026-123998](https://nvd.nist.gov/vuln/detail/CVE-2026-123998) | High | 7.2 | Hisense VIDAA Smart TV firmware V0000.01.00a.P0220 contains an authentication bypass vulnerability in its remote-contro… |
-| 2026-11-06 19:17:48 | [CVE-2026-19703](https://nvd.nist.gov/vuln/detail/CVE-2026-19703) |  |  | A weak password hashing vulnerability has been identified on SonicOS virtual appliances, which in specific conditions c… |
-| 2026-11-06 19:17:48 | [CVE-2026-19868](https://nvd.nist.gov/vuln/detail/CVE-2026-19868) |  |  | An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an al… |
-| 2026-11-06 19:17:51 | [CVE-2026-47400](https://nvd.nist.gov/vuln/detail/CVE-2026-47400) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-47402](https://nvd.nist.gov/vuln/detail/CVE-2026-47402) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-47401](https://nvd.nist.gov/vuln/detail/CVE-2026-47401) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-47403](https://nvd.nist.gov/vuln/detail/CVE-2026-47403) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-47404](https://nvd.nist.gov/vuln/detail/CVE-2026-47404) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-49122](https://nvd.nist.gov/vuln/detail/CVE-2026-49122) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-49123](https://nvd.nist.gov/vuln/detail/CVE-2026-49123) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-49124](https://nvd.nist.gov/vuln/detail/CVE-2026-49124) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-49125](https://nvd.nist.gov/vuln/detail/CVE-2026-49125) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:51 | [CVE-2026-49126](https://nvd.nist.gov/vuln/detail/CVE-2026-49126) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:52 | [CVE-2026-56717](https://nvd.nist.gov/vuln/detail/CVE-2026-56717) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-06 19:17:53 | [CVE-2026-62345](https://nvd.nist.gov/vuln/detail/CVE-2026-62345) | High | 7.6 | Wanderer is a self-hosted trail database for saving and sharing adventures. Prior to 0.19.3, an authenticated user can… |
-| 2026-11-06 19:17:53 | [CVE-2026-62346](https://nvd.nist.gov/vuln/detail/CVE-2026-62346) | High | 7.6 | Wanderer is a self-hosted trail database for saving and sharing adventures. Prior to 0.19.3, an authenticated local use… |
-| 2026-11-06 19:17:56 | [CVE-2026-71495](https://nvd.nist.gov/vuln/detail/CVE-2026-71495) | Critical | 10.0 | Wanderer is a self-hosted trail database for saving and sharing adventures. Prior to 0.20.0, when PUBLIC_PRIVATE_INSTAN… |
-| 2026-11-06 19:17:57 | [CVE-2026-77708](https://nvd.nist.gov/vuln/detail/CVE-2026-77708) |  |  | A pre-authentication stack-based buffer overflow vulnerability has been identified in the SonicOS TACACS+ authenticatio… |
-| 2026-11-06 19:17:57 | [CVE-2026-77709](https://nvd.nist.gov/vuln/detail/CVE-2026-77709) |  |  | A pre-authentication heap-based buffer overflow vulnerability has been identified in the SonicOS TACACS+ authentication… |
-| 2026-11-06 19:17:57 | [CVE-2026-82308](https://nvd.nist.gov/vuln/detail/CVE-2026-82308) |  |  | A pre-authentication heap-based buffer overflow vulnerability has been identified in the SonicOS SSL-VPN service, which… |
-| 2026-11-06 19:17:57 | [CVE-2026-84473](https://nvd.nist.gov/vuln/detail/CVE-2026-84473) |  |  | Authentication Bypass / Missing Brute-Force Protection in remote.php/webdav/ in ownCloud ownCloud server 10.16.3 allows… |
-| 2026-11-06 19:17:59 | [CVE-2026-90975](https://nvd.nist.gov/vuln/detail/CVE-2026-90975) |  |  | A vulnerability in Realtek's RtUsbA64.sys USB audio driver allows a local, low-privileged user to abuse a kernel I/O co… |
+| 2026-11-06 20:17:09 | [CVE-2026-109683](https://nvd.nist.gov/vuln/detail/CVE-2026-109683) | Medium | 5.3 | A newline injection vulnerability exists in the UPnP service of Archer BE805 v1 such that an adjacent attacker can supp… |
+| 2026-11-06 20:17:14 | [CVE-2026-119217](https://nvd.nist.gov/vuln/detail/CVE-2026-119217) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate is a reservation duplicate. Note… |
+| 2026-11-06 20:17:17 | [CVE-2026-120484](https://nvd.nist.gov/vuln/detail/CVE-2026-120484) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-119167 Reason: This candidate is a… |
+| 2026-11-06 20:17:20 | [CVE-2026-123974](https://nvd.nist.gov/vuln/detail/CVE-2026-123974) | High | 7.8 | In all versions of PyTorch's TorchServe, a predictable extraction directory in /tmp lets a local user swap the model ha… |
+| 2026-11-06 20:17:20 | [CVE-2026-124025](https://nvd.nist.gov/vuln/detail/CVE-2026-124025) | Medium | 5.3 | Faveo Helpdesk through 2.0.3 contains a broken access control vulnerability in TicketController::ticket_print and the p… |
+| 2026-11-06 20:17:20 | [CVE-2026-124026](https://nvd.nist.gov/vuln/detail/CVE-2026-124026) | Medium | 5.3 | Bar Assistant 6.0.0-rc1 before 6.11.0 contains an incorrect authorization vulnerability in CocktailController::copy tha… |
+| 2026-11-06 20:17:21 | [CVE-2026-124027](https://nvd.nist.gov/vuln/detail/CVE-2026-124027) | High | 8.7 | ChatWiki before 2.10.0 contains a missing authentication vulnerability in the GET /manage/getLibRawFileOnePage route th… |
+| 2026-11-06 20:17:21 | [CVE-2026-124028](https://nvd.nist.gov/vuln/detail/CVE-2026-124028) | Low | 2.3 | mistral.rs before 0.9.5 contains a delimiter injection vulnerability in mistralrs-core that allows attackers to inject… |
+| 2026-11-06 20:17:21 | [CVE-2026-124029](https://nvd.nist.gov/vuln/detail/CVE-2026-124029) | Medium | 6.9 | Kopia through 0.23.1 contains a path traversal vulnerability in copyDirectoryContent that allows users with repository… |
+| 2026-11-06 20:17:21 | [CVE-2026-124030](https://nvd.nist.gov/vuln/detail/CVE-2026-124030) | Medium | 6.8 | GPAC through 26.07.0 contains a type confusion vulnerability in gf_sg_command_apply() in src/scenegraph/commands.c that… |
+| 2026-11-06 20:17:21 | [CVE-2026-124031](https://nvd.nist.gov/vuln/detail/CVE-2026-124031) | Medium | 6.8 | GPAC through 26.07.0 contains a type confusion vulnerability in drawable_get_aspect_2d_mpeg4() and TraverseShape() that… |
+| 2026-11-06 20:17:22 | [CVE-2026-124039](https://nvd.nist.gov/vuln/detail/CVE-2026-124039) | Medium | 4.8 | Gitleaks through 8.30.1 contains an incorrect permission assignment vulnerability that allows local users to read scan… |
+| 2026-11-06 20:17:22 | [CVE-2026-124040](https://nvd.nist.gov/vuln/detail/CVE-2026-124040) | Critical | 9.2 | CivetWeb through 1.16, when built with USE_HTTP2 and enable_http2 on, contains a use-after-free vulnerability in handle… |
+| 2026-11-06 20:17:22 | [CVE-2026-33050](https://nvd.nist.gov/vuln/detail/CVE-2026-33050) | High | 8.8 | GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. Pr… |
+| 2026-11-06 20:17:22 | [CVE-2026-46429](https://nvd.nist.gov/vuln/detail/CVE-2026-46429) | Medium | 5.5 | GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. Pr… |
+| 2026-11-06 20:17:22 | [CVE-2026-55449](https://nvd.nist.gov/vuln/detail/CVE-2026-55449) | Medium | 5.3 | CloudBeaver is a cloud database manager. Prior to 26.1.2, its resource-management project resolution accepts project id… |
+| 2026-11-06 20:17:23 | [CVE-2026-55649](https://nvd.nist.gov/vuln/detail/CVE-2026-55649) | Medium | 6.3 | GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. Pr… |
+| 2026-11-06 20:17:23 | [CVE-2026-58490](https://nvd.nist.gov/vuln/detail/CVE-2026-58490) | Critical | 9.8 | Tracecat is an open-source security automation platform for teams and AI agents. From version 0.37.0 until 1.0.0-beta.4… |
+| 2026-11-06 20:17:23 | [CVE-2026-63663](https://nvd.nist.gov/vuln/detail/CVE-2026-63663) | Medium | 6.5 | CloudBeaver is a cloud database manager. From version 23.2.3 until 26.1.2, a path traversal vulnerability in its SQL re… |
+| 2026-11-06 20:17:24 | [CVE-2026-63664](https://nvd.nist.gov/vuln/detail/CVE-2026-63664) | Medium | 6.5 | CloudBeaver is a cloud database manager. In versions up to and including 26.1.1, some server-side export operations do… |
+| 2026-11-06 20:17:24 | [CVE-2026-65960](https://nvd.nist.gov/vuln/detail/CVE-2026-65960) | High | 8.8 | Tetragon is an eBPF-based security observability and runtime enforcement project. Versions before 1.7.0 can use a Helm… |
+| 2026-11-06 20:17:25 | [CVE-2026-73860](https://nvd.nist.gov/vuln/detail/CVE-2026-73860) | Medium | 5.4 | CRIU is a checkpoint and restore tool for Linux. Prior to 4.2.1, CRIU injects a syscall;int3 sequence at the start of t… |
 
 ## Data source
 
