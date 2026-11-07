@@ -9,39 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 13:19 UTC
+## Latest list — 2026-11-07 14:21 UTC
 
-New CVEs published between 2026-11-07 12:18 UTC and 2026-11-07 13:19 UTC.
+New CVEs published between 2026-11-07 13:19 UTC and 2026-11-07 14:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-07T13-19-00-42576Z.csv)
+[Full CSV](data/new-cves-2026-11-07T14-21-40-772443Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-07 13:16:33 | [CVE-2026-109973](https://nvd.nist.gov/vuln/detail/CVE-2026-109973) | Medium | 6.4 | The Image Hover Effects Ultimate Visual Composer (Flipbox - Awesomes Flip Boxes Image Overlay) plugin for WordPress is… |
-| 2026-11-07 13:16:34 | [CVE-2026-119156](https://nvd.nist.gov/vuln/detail/CVE-2026-119156) | High | 7.2 | The Download Manager plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'wpdm_reg[first_name], w… |
-| 2026-11-07 13:16:34 | [CVE-2026-120579](https://nvd.nist.gov/vuln/detail/CVE-2026-120579) | Medium | 6.4 | The Active Woot Products Tables for WooCommerce. 100% FREE plugin for WordPress is vulnerable to Stored Cross-Site Scri… |
-| 2026-11-07 13:16:34 | [CVE-2026-120839](https://nvd.nist.gov/vuln/detail/CVE-2026-120839) | High | 8.8 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
-| 2026-11-07 13:16:35 | [CVE-2026-120841](https://nvd.nist.gov/vuln/detail/CVE-2026-120841) | High | 8.8 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
-| 2026-11-07 13:16:35 | [CVE-2026-121575](https://nvd.nist.gov/vuln/detail/CVE-2026-121575) | Medium | 5.3 | Missing Authorization vulnerability in WP User Manager WP User Manager wp-user-manager allows Exploiting Incorrectly Co… |
-| 2026-11-07 13:16:35 | [CVE-2026-121579](https://nvd.nist.gov/vuln/detail/CVE-2026-121579) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Unlimited Element… |
-| 2026-11-07 13:16:35 | [CVE-2026-121775](https://nvd.nist.gov/vuln/detail/CVE-2026-121775) | Medium | 5.3 | Missing Authorization vulnerability in VillaTheme CURCY woo-multi-currency allows Exploiting Incorrectly Configured Acc… |
-| 2026-11-07 13:16:35 | [CVE-2026-121777](https://nvd.nist.gov/vuln/detail/CVE-2026-121777) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Cool Plugins Cool Formki… |
-| 2026-11-07 13:16:35 | [CVE-2026-121784](https://nvd.nist.gov/vuln/detail/CVE-2026-121784) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Magepeople inc. W… |
-| 2026-11-07 13:16:36 | [CVE-2026-122041](https://nvd.nist.gov/vuln/detail/CVE-2026-122041) | Critical | 9.1 | The Checkout Field Editor for WooCommerce (Pro) plugin for WordPress is vulnerable to unauthorized deletion of arbitrar… |
-| 2026-11-07 13:16:36 | [CVE-2026-122659](https://nvd.nist.gov/vuln/detail/CVE-2026-122659) | Medium | 5.4 | Missing Authorization vulnerability in WP ManageNinja LLC Fluent Booking fluent-booking allows Exploiting Incorrectly C… |
-| 2026-11-07 13:16:36 | [CVE-2026-122660](https://nvd.nist.gov/vuln/detail/CVE-2026-122660) | Medium | 4.3 | Missing Authorization vulnerability in BAKKBONE Australia FloristPress bakkbone-florist-companion allows Exploiting Inc… |
-| 2026-11-07 13:16:36 | [CVE-2026-122663](https://nvd.nist.gov/vuln/detail/CVE-2026-122663) | Medium | 5.3 | Missing Authorization vulnerability in VillaTheme CURCY woo-multi-currency allows Exploiting Incorrectly Configured Acc… |
-| 2026-11-07 13:16:36 | [CVE-2026-122669](https://nvd.nist.gov/vuln/detail/CVE-2026-122669) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Everest Forms Eve… |
-| 2026-11-07 13:16:36 | [CVE-2026-123183](https://nvd.nist.gov/vuln/detail/CVE-2026-123183) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in PluginUs.Net Active Prod… |
-| 2026-11-07 13:16:36 | [CVE-2026-123462](https://nvd.nist.gov/vuln/detail/CVE-2026-123462) | Medium | 5.3 | Missing Authorization vulnerability in myCred myCred mycred allows Exploiting Incorrectly Configured Access Control Sec… |
-| 2026-11-07 13:16:37 | [CVE-2026-123467](https://nvd.nist.gov/vuln/detail/CVE-2026-123467) | Medium | 4.3 | Missing Authorization vulnerability in StylemixThemes Motors motors-car-dealership-classified-listings allows Exploitin… |
-| 2026-11-07 13:16:37 | [CVE-2026-123474](https://nvd.nist.gov/vuln/detail/CVE-2026-123474) | Medium | 5.3 | Missing Authorization vulnerability in LeapWorx Premium Blocks – Gutenberg Blocks for WordPress premium-blocks-for-gute… |
-| 2026-11-07 13:16:37 | [CVE-2026-123477](https://nvd.nist.gov/vuln/detail/CVE-2026-123477) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetEng… |
-| 2026-11-07 13:16:37 | [CVE-2026-123483](https://nvd.nist.gov/vuln/detail/CVE-2026-123483) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Crocoblock JetFormBuilde… |
-| 2026-11-07 13:16:37 | [CVE-2026-123860](https://nvd.nist.gov/vuln/detail/CVE-2026-123860) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Crocoblock JetFormBuilde… |
-| 2026-11-07 13:16:37 | [CVE-2026-123861](https://nvd.nist.gov/vuln/detail/CVE-2026-123861) | Medium | 5.3 | Authorization Bypass Through User-Controlled Key vulnerability in CrocoBlock JetFormBuilder – Hierarchical Select jet-f… |
-| 2026-11-07 13:16:38 | [CVE-2026-123963](https://nvd.nist.gov/vuln/detail/CVE-2026-123963) | Medium | 5.5 | A security vulnerability has been detected in OpenBMB Internet of Agents up to 9d78e88e47160eb42ee1ee8538c05e1c2c47877a… |
-| 2026-11-07 13:16:38 | [CVE-2026-123964](https://nvd.nist.gov/vuln/detail/CVE-2026-123964) | Low | 2.1 | A vulnerability was detected in OpenBMB Internet of Agents up to 9d78e88e47160eb42ee1ee8538c05e1c2c47877a. This affects… |
+| 2026-11-07 14:17:01 | [CVE-2026-120984](https://nvd.nist.gov/vuln/detail/CVE-2026-120984) | Critical | 9.1 | A flaw was found in the Keycloak server's client management component. When a client is created or imported with author… |
+| 2026-11-07 14:17:01 | [CVE-2026-123966](https://nvd.nist.gov/vuln/detail/CVE-2026-123966) | Critical | 9.3 | A vulnerability was determined in Tenda AC19 16.03.10.07. Affected by this issue is the function saveParentControlInfo… |
+| 2026-11-07 14:17:02 | [CVE-2026-123988](https://nvd.nist.gov/vuln/detail/CVE-2026-123988) | Medium | 5.5 | A vulnerability has been found in SililaWijesinghe Food Ordering System up to ba314e897e3365600461e5ea59432e39ceaa0fa5.… |
+| 2026-11-07 14:17:02 | [CVE-2026-99271](https://nvd.nist.gov/vuln/detail/CVE-2026-99271) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: line6: Clear prev_fbuf on capture buffer rele… |
+| 2026-11-07 14:17:02 | [CVE-2026-99272](https://nvd.nist.gov/vuln/detail/CVE-2026-99272) |  |  | In the Linux kernel, the following vulnerability has been resolved: smb: client: validate the data area in SMB2_read()… |
+| 2026-11-07 14:17:02 | [CVE-2026-99273](https://nvd.nist.gov/vuln/detail/CVE-2026-99273) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: reserve space for the UTF-16 terminator in s… |
+| 2026-11-07 14:17:02 | [CVE-2026-99274](https://nvd.nist.gov/vuln/detail/CVE-2026-99274) |  |  | In the Linux kernel, the following vulnerability has been resolved: smb: client: fix fiemap wild read on empty truncate… |
+| 2026-11-07 14:17:02 | [CVE-2026-99275](https://nvd.nist.gov/vuln/detail/CVE-2026-99275) |  |  | In the Linux kernel, the following vulnerability has been resolved: smb: client: reject short SESSION_SETUP responses s… |
+| 2026-11-07 14:17:02 | [CVE-2026-99276](https://nvd.nist.gov/vuln/detail/CVE-2026-99276) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: defer connection scavenging while session lo… |
+| 2026-11-07 14:17:03 | [CVE-2026-99277](https://nvd.nist.gov/vuln/detail/CVE-2026-99277) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: hold a connection reference for each session… |
+| 2026-11-07 14:17:03 | [CVE-2026-99278](https://nvd.nist.gov/vuln/detail/CVE-2026-99278) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: limit sessions on each connection The pendin… |
+| 2026-11-07 14:17:03 | [CVE-2026-99279](https://nvd.nist.gov/vuln/detail/CVE-2026-99279) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: reclaim ended sessions on logoff and expirat… |
+| 2026-11-07 14:17:03 | [CVE-2026-99280](https://nvd.nist.gov/vuln/detail/CVE-2026-99280) |  |  | In the Linux kernel, the following vulnerability has been resolved: ksmbd: drain session procfs readers before dropping… |
+| 2026-11-07 14:17:03 | [CVE-2026-99281](https://nvd.nist.gov/vuln/detail/CVE-2026-99281) |  |  | In the Linux kernel, the following vulnerability has been resolved: tun: Require CAP_NET_ADMIN to attach to an ownerles… |
+| 2026-11-07 14:17:03 | [CVE-2026-99282](https://nvd.nist.gov/vuln/detail/CVE-2026-99282) |  |  | In the Linux kernel, the following vulnerability has been resolved: net/sched: sch_teql: fix use-after-free on lower qd… |
 
 ## Data source
 
