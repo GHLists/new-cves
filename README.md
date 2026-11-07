@@ -9,27 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 15:18 UTC
+## Latest list — 2026-11-07 17:19 UTC
 
-New CVEs published between 2026-11-07 14:21 UTC and 2026-11-07 15:18 UTC.
+New CVEs published between 2026-11-07 16:18 UTC and 2026-11-07 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-07T15-18-46-568574Z.csv)
+[Full CSV](data/new-cves-2026-11-07T17-19-41-154903Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-07 15:17:14 | [CVE-2026-123989](https://nvd.nist.gov/vuln/detail/CVE-2026-123989) | Medium | 5.3 | A vulnerability was found in ESEngine DeepSeek-Reasonix up to 1.33.0. Impacted is the function loadGitStatus of the fil… |
-| 2026-11-07 15:17:14 | [CVE-2026-124307](https://nvd.nist.gov/vuln/detail/CVE-2026-124307) | Medium | 5.8 | Fraunhofer HHI VVdeC before 3.2.1 contains a heap use-after-free vulnerability that allows attackers to corrupt memory… |
-| 2026-11-07 15:17:14 | [CVE-2026-124308](https://nvd.nist.gov/vuln/detail/CVE-2026-124308) | Medium | 5.8 | Fraunhofer HHI VVdeC before 3.2.1 contains a heap use-after-free vulnerability in DecLibRecon::createSubPicRefBufs beca… |
-| 2026-11-07 15:17:14 | [CVE-2026-124309](https://nvd.nist.gov/vuln/detail/CVE-2026-124309) | Medium | 6.9 | Fraunhofer HHI VVdeC before 3.2.1 contains a heap out-of-bounds read vulnerability in SEIReader::xParseSEIScalableNesti… |
-| 2026-11-07 15:17:14 | [CVE-2026-124310](https://nvd.nist.gov/vuln/detail/CVE-2026-124310) | Medium | 6.9 | Fraunhofer HHI VVdeC before 3.2.1 contains an out-of-bounds read vulnerability that allows attackers to crash the decod… |
-| 2026-11-07 15:17:14 | [CVE-2026-124311](https://nvd.nist.gov/vuln/detail/CVE-2026-124311) | Medium | 6.8 | Fraunhofer HHI VVdeC through 3.2.1 contains a NULL pointer dereference vulnerability in InterPrediction::xPredInterBlk… |
-| 2026-11-07 15:17:15 | [CVE-2026-124312](https://nvd.nist.gov/vuln/detail/CVE-2026-124312) | Medium | 5.7 | Fraunhofer HHI VVdeC through 3.2.1 contains a heap out-of-bounds read vulnerability that allows attackers to crash the… |
-| 2026-11-07 15:17:15 | [CVE-2026-124313](https://nvd.nist.gov/vuln/detail/CVE-2026-124313) | Medium | 5.3 | Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability in the whiteliste… |
-| 2026-11-07 15:17:15 | [CVE-2026-124314](https://nvd.nist.gov/vuln/detail/CVE-2026-124314) | High | 7.1 | Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability in erpnext.crm.ut… |
-| 2026-11-07 15:17:15 | [CVE-2026-124315](https://nvd.nist.gov/vuln/detail/CVE-2026-124315) | High | 7.1 | Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability in the whiteliste… |
-| 2026-11-07 15:17:15 | [CVE-2026-124316](https://nvd.nist.gov/vuln/detail/CVE-2026-124316) | Medium | 5.3 | Frappe ERPNext before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability in the whiteliste… |
-| 2026-11-07 15:17:16 | [CVE-2026-124317](https://nvd.nist.gov/vuln/detail/CVE-2026-124317) | Medium | 6.3 | libexpat through 2.10.0 contains an out-of-bounds read vulnerability in unknown_toUtf8() and unknown_toUtf16() in xmlto… |
-| 2026-11-07 15:17:16 | [CVE-2026-124318](https://nvd.nist.gov/vuln/detail/CVE-2026-124318) | High | 8.6 | Treeio through 2.0 contains an insecure deserialization vulnerability in UpdateRecord.get_format_strings and ModuleSett… |
+| 2026-11-07 17:16:34 | [CVE-2026-123990](https://nvd.nist.gov/vuln/detail/CVE-2026-123990) | Medium | 5.5 | A security vulnerability has been detected in DataEase up to 2.10.27/3.1.0. Affected is the function ExtWhere2Str.extWh… |
+| 2026-11-07 17:16:34 | [CVE-2026-123991](https://nvd.nist.gov/vuln/detail/CVE-2026-123991) | Medium | 5.5 | A vulnerability was detected in DataEase up to 2.10.27. Affected by this vulnerability is the function WhitelistUtils.e… |
 
 ## Data source
 
