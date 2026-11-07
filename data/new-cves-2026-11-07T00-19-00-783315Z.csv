@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-07T00:16:58.577Z,CVE-2026-71881,MEDIUM,4.8,Received,CWE-79,2,Multiple injection issues in resource metadata fields in GBIF Integrated Publishing Toolkit versions before 3.3.5 allows authenticated remote attackers to execute code in another user's session after user interaction via stored cross-site scripting
