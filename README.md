@@ -9,34 +9,51 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 11:20 UTC
+## Latest list — 2026-11-07 12:18 UTC
 
-New CVEs published between 2026-11-07 10:20 UTC and 2026-11-07 11:20 UTC.
+New CVEs published between 2026-11-07 11:20 UTC and 2026-11-07 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-07T11-20-17-121683Z.csv)
+[Full CSV](data/new-cves-2026-11-07T12-18-42-192Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-07 11:16:56 | [CVE-2026-119478](https://nvd.nist.gov/vuln/detail/CVE-2026-119478) | Medium | 4.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in StylemixThemes MasterStu… |
-| 2026-11-07 11:16:58 | [CVE-2026-119490](https://nvd.nist.gov/vuln/detail/CVE-2026-119490) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Made with Fuel Ltd. Bett… |
-| 2026-11-07 11:16:58 | [CVE-2026-119492](https://nvd.nist.gov/vuln/detail/CVE-2026-119492) | Medium | 4.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Metaphor Creations, LLC… |
-| 2026-11-07 11:16:58 | [CVE-2026-119496](https://nvd.nist.gov/vuln/detail/CVE-2026-119496) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in David Lingren Media LIbr… |
-| 2026-11-07 11:16:58 | [CVE-2026-119501](https://nvd.nist.gov/vuln/detail/CVE-2026-119501) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Element… |
-| 2026-11-07 11:16:59 | [CVE-2026-119508](https://nvd.nist.gov/vuln/detail/CVE-2026-119508) | Medium | 5.3 | Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services… |
-| 2026-11-07 11:16:59 | [CVE-2026-119513](https://nvd.nist.gov/vuln/detail/CVE-2026-119513) | Medium | 5.3 | Missing Authorization vulnerability in Ahmad JS Help Desk js-support-ticket allows Exploiting Incorrectly Configured Ac… |
-| 2026-11-07 11:16:59 | [CVE-2026-119523](https://nvd.nist.gov/vuln/detail/CVE-2026-119523) | Medium | 5.3 | Missing Authorization vulnerability in Cozmoslabs Paid Member Subscriptions paid-member-subscriptions allows Exploiting… |
-| 2026-11-07 11:16:59 | [CVE-2026-119525](https://nvd.nist.gov/vuln/detail/CVE-2026-119525) | Medium | 4.3 | Missing Authorization vulnerability in WP Desk Dropshipping XML for WooCommerce dropshipping-xml-for-woocommerce allows… |
-| 2026-11-07 11:16:59 | [CVE-2026-120364](https://nvd.nist.gov/vuln/detail/CVE-2026-120364) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Untapwp Vidplex v… |
-| 2026-11-07 11:16:59 | [CVE-2026-120365](https://nvd.nist.gov/vuln/detail/CVE-2026-120365) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Aguila Technologi… |
-| 2026-11-07 11:17:00 | [CVE-2026-120837](https://nvd.nist.gov/vuln/detail/CVE-2026-120837) | Medium | 4.3 | Missing Authorization vulnerability in Everest Forms Everest Forms everest-forms allows Exploiting Incorrectly Configur… |
-| 2026-11-07 11:17:00 | [CVE-2026-120857](https://nvd.nist.gov/vuln/detail/CVE-2026-120857) | Medium | 5.3 | Missing Authorization vulnerability in VideoWhisper.com 2Way VideoCalls and Random Chat webcam-2way-videochat allows Ex… |
-| 2026-11-07 11:17:00 | [CVE-2026-121571](https://nvd.nist.gov/vuln/detail/CVE-2026-121571) | Medium | 5.3 | Missing Authorization vulnerability in WP Desk Autopay dla WooCommerce pay-wp allows Exploiting Incorrectly Configured… |
-| 2026-11-07 11:17:00 | [CVE-2026-121724](https://nvd.nist.gov/vuln/detail/CVE-2026-121724) | Medium | 4.3 | Missing Authorization vulnerability in WebberZone Contextual Related Posts contextual-related-posts allows Exploiting I… |
-| 2026-11-07 11:17:00 | [CVE-2026-121783](https://nvd.nist.gov/vuln/detail/CVE-2026-121783) | Medium | 6.5 | Cross-Site Request Forgery (CSRF) vulnerability in Passionate Programmer Peter WP Data Access wp-data-access allows Cro… |
-| 2026-11-07 11:17:00 | [CVE-2026-123148](https://nvd.nist.gov/vuln/detail/CVE-2026-123148) | Medium | 5.3 | Missing Authorization vulnerability in TMS IvyForms ivyforms allows Exploiting Incorrectly Configured Access Control Se… |
-| 2026-11-07 11:17:00 | [CVE-2026-123468](https://nvd.nist.gov/vuln/detail/CVE-2026-123468) | Medium | 4.3 | Missing Authorization vulnerability in StylemixThemes Motors motors-car-dealership-classified-listings allows Exploitin… |
-| 2026-11-07 11:17:01 | [CVE-2026-123470](https://nvd.nist.gov/vuln/detail/CVE-2026-123470) | Medium | 4.3 | Missing Authorization vulnerability in HivePress HivePress hivepress allows Exploiting Incorrectly Configured Access Co… |
-| 2026-11-07 11:17:01 | [CVE-2026-123961](https://nvd.nist.gov/vuln/detail/CVE-2026-123961) | High | 8.6 | A security vulnerability has been detected in TOTOLINK CA300-PoE 6.2c.884. This impacts the function setWiFiBasicConfig… |
+| 2026-11-07 12:17:40 | [CVE-2026-102564](https://nvd.nist.gov/vuln/detail/CVE-2026-102564) | Medium | 6.5 | The The Dynific Addons for Elementor (formerly Anywhere Elementor) plugin for WordPress is vulnerable to arbitrary shor… |
+| 2026-11-07 12:17:41 | [CVE-2026-103914](https://nvd.nist.gov/vuln/detail/CVE-2026-103914) | Medium | 6.5 | The Dynific Addons for Elementor plugin for WordPress is vulnerable to SQL Injection via the 'q' parameter in versions… |
+| 2026-11-07 12:17:41 | [CVE-2026-104014](https://nvd.nist.gov/vuln/detail/CVE-2026-104014) | Critical | 9.8 | The Naimur Email OTP Verification for WooCommerce plugin for WordPress is vulnerable to authentication bypass in versio… |
+| 2026-11-07 12:17:41 | [CVE-2026-104746](https://nvd.nist.gov/vuln/detail/CVE-2026-104746) | High | 8.1 | The Motors – Car Dealership & Classified Listings Plugin plugin for WordPress is vulnerable to arbitrary file deletion… |
+| 2026-11-07 12:17:41 | [CVE-2026-104760](https://nvd.nist.gov/vuln/detail/CVE-2026-104760) | Medium | 6.4 | The weDocs: AI Powered Knowledge Base, Docs, Documentation, Wiki & AI Chatbot plugin for WordPress is vulnerable to Sto… |
+| 2026-11-07 12:17:41 | [CVE-2026-104768](https://nvd.nist.gov/vuln/detail/CVE-2026-104768) | High | 7.5 | The AutomatorWP – No-Code Workflow Automation, Integration & Webhooks Plugin, now with AI plugin for WordPress is vulne… |
+| 2026-11-07 12:17:41 | [CVE-2026-109214](https://nvd.nist.gov/vuln/detail/CVE-2026-109214) | High | 7.2 | The User Frontend – Membership, User Registration, User Profile, User Directory & Content Restriction with Frontend Pos… |
+| 2026-11-07 12:17:42 | [CVE-2026-109230](https://nvd.nist.gov/vuln/detail/CVE-2026-109230) | High | 7.2 | The WP Visitor Statistics (Real Time Traffic) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the… |
+| 2026-11-07 12:17:42 | [CVE-2026-109991](https://nvd.nist.gov/vuln/detail/CVE-2026-109991) | High | 7.5 | The FunnelKit Payment Gateway for Stripe WooCommerce plugin for WordPress is vulnerable to Insecure Direct Object Refer… |
+| 2026-11-07 12:17:42 | [CVE-2026-111317](https://nvd.nist.gov/vuln/detail/CVE-2026-111317) | High | 7.2 | The JetFormBuilder — Dynamic Blocks Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-11-07 12:17:42 | [CVE-2026-111370](https://nvd.nist.gov/vuln/detail/CVE-2026-111370) | High | 7.2 | The WP Visitor Statistics (Real Time Traffic) plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the… |
+| 2026-11-07 12:17:42 | [CVE-2026-115548](https://nvd.nist.gov/vuln/detail/CVE-2026-115548) | High | 7.2 | The Quttera ThreatSign – Web Malware Scanner for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scri… |
+| 2026-11-07 12:17:42 | [CVE-2026-116537](https://nvd.nist.gov/vuln/detail/CVE-2026-116537) | High | 7.2 | The Link Library plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'link_description' parameter… |
+| 2026-11-07 12:17:43 | [CVE-2026-116751](https://nvd.nist.gov/vuln/detail/CVE-2026-116751) | High | 7.5 | The Booking for Appointments and Events Calendar – Amelia Pro plugin for WordPress is vulnerable to time-based SQL Inje… |
+| 2026-11-07 12:17:43 | [CVE-2026-118047](https://nvd.nist.gov/vuln/detail/CVE-2026-118047) | Medium | 6.4 | The Falang multilanguage for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'falan… |
+| 2026-11-07 12:17:43 | [CVE-2026-118050](https://nvd.nist.gov/vuln/detail/CVE-2026-118050) | Medium | 6.4 | The Football Pool plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'shouttext' parameter in al… |
+| 2026-11-07 12:17:43 | [CVE-2026-118056](https://nvd.nist.gov/vuln/detail/CVE-2026-118056) | Medium | 4.9 | The Image Hover Effects Ultimate ( Image Gallery, Effects, Lightbox, Comparison & Magnifier ) plugin for WordPress is v… |
+| 2026-11-07 12:17:43 | [CVE-2026-118066](https://nvd.nist.gov/vuln/detail/CVE-2026-118066) | Critical | 9.1 | The Appointment Booking Plugin – LatePoint \| Calendar & Scheduling for WordPress plugin for WordPress is vulnerable to… |
+| 2026-11-07 12:17:43 | [CVE-2026-118267](https://nvd.nist.gov/vuln/detail/CVE-2026-118267) | High | 8.1 | The WP Data Access – App Builder for Tables, Forms, Dashboards, Charts & Maps plugin for WordPress is vulnerable to Inc… |
+| 2026-11-07 12:17:44 | [CVE-2026-119075](https://nvd.nist.gov/vuln/detail/CVE-2026-119075) | Critical | 9.8 | The Registration Form for WooCommerce plugin for WordPress is vulnerable to privilege escalation due to a missing allow… |
+| 2026-11-07 12:17:44 | [CVE-2026-119183](https://nvd.nist.gov/vuln/detail/CVE-2026-119183) | High | 7.2 | The JetFormBuilder — Dynamic Blocks Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-11-07 12:17:44 | [CVE-2026-119498](https://nvd.nist.gov/vuln/detail/CVE-2026-119498) | Medium | 5.3 | Authentication Bypass Using an Alternate Path or Channel vulnerability in RelyWP Simple Cloudflare Turnstile simple-clo… |
+| 2026-11-07 12:17:44 | [CVE-2026-120509](https://nvd.nist.gov/vuln/detail/CVE-2026-120509) | Medium | 4.7 | The Real Testimonials – Testimonial Slider, Collect Customer Reviews and Video Testimonials plugin for WordPress is vul… |
+| 2026-11-07 12:17:44 | [CVE-2026-120683](https://nvd.nist.gov/vuln/detail/CVE-2026-120683) | Medium | 5.4 | The Real Testimonials – Testimonial Slider, Collect Customer Reviews and Video Testimonials plugin for WordPress is vul… |
+| 2026-11-07 12:17:44 | [CVE-2026-120685](https://nvd.nist.gov/vuln/detail/CVE-2026-120685) | Medium | 5.4 | The Real Testimonials – Testimonial Slider, Collect Customer Reviews and Video Testimonials plugin for WordPress is vul… |
+| 2026-11-07 12:17:44 | [CVE-2026-121265](https://nvd.nist.gov/vuln/detail/CVE-2026-121265) |  |  | SQL::Abstract versions before 2.000003 for Perl allow SQL injection via an arrayref column value in insert and update.… |
+| 2026-11-07 12:17:45 | [CVE-2026-121765](https://nvd.nist.gov/vuln/detail/CVE-2026-121765) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Cozmoslabs Transl… |
+| 2026-11-07 12:17:45 | [CVE-2026-121976](https://nvd.nist.gov/vuln/detail/CVE-2026-121976) | Medium | 6.4 | The Modula plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'items' parameter in versions up t… |
+| 2026-11-07 12:17:45 | [CVE-2026-121977](https://nvd.nist.gov/vuln/detail/CVE-2026-121977) | Medium | 5.4 | The JetFormBuilder — Dynamic Blocks Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-11-07 12:17:45 | [CVE-2026-122059](https://nvd.nist.gov/vuln/detail/CVE-2026-122059) | Medium | 6.4 | The WP ImageViewer plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scripting via the 'img.alt' parame… |
+| 2026-11-07 12:17:45 | [CVE-2026-122231](https://nvd.nist.gov/vuln/detail/CVE-2026-122231) | High | 7.2 | The WS Form LITE – Drag & Drop Contact Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting v… |
+| 2026-11-07 12:17:45 | [CVE-2026-123418](https://nvd.nist.gov/vuln/detail/CVE-2026-123418) | High | 7.2 | The Church Admin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'lat' parameter in all versi… |
+| 2026-11-07 12:17:46 | [CVE-2026-123776](https://nvd.nist.gov/vuln/detail/CVE-2026-123776) |  |  | RRD::CGI::Image versions through 0.01 for Perl pass CGI query parameters containting "tz" to tzset(), , so a FIFO or de… |
+| 2026-11-07 12:17:46 | [CVE-2026-93429](https://nvd.nist.gov/vuln/detail/CVE-2026-93429) | High | 7.2 | The VikBooking Hotel Booking Engine & PMS plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'guests… |
+| 2026-11-07 12:17:47 | [CVE-2026-93755](https://nvd.nist.gov/vuln/detail/CVE-2026-93755) | High | 7.2 | The Happyforms plugin for WordPress is vulnerable to Stored Cross-Site Scripting via spoofable client IP headers in ver… |
+| 2026-11-07 12:17:47 | [CVE-2026-93766](https://nvd.nist.gov/vuln/detail/CVE-2026-93766) | High | 7.2 | The Happyforms Pro plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'happyforms_client_referer… |
+| 2026-11-07 12:17:47 | [CVE-2026-96565](https://nvd.nist.gov/vuln/detail/CVE-2026-96565) | Medium | 6.4 | The WP-Members Membership Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via WooCommerce Chec… |
 
 ## Data source
 
