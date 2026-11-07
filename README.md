@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 21:18 UTC
+## Latest list — 2026-11-07 22:20 UTC
 
-New CVEs published between 2026-11-07 20:19 UTC and 2026-11-07 21:18 UTC.
+New CVEs published between 2026-11-07 21:18 UTC and 2026-11-07 22:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-07T21-18-51-809932Z.csv)
+[Full CSV](data/new-cves-2026-11-07T22-20-30-884942Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-07 21:17:00 | [CVE-2026-124060](https://nvd.nist.gov/vuln/detail/CVE-2026-124060) | High | 8.5 | A vulnerability was detected in TOTOLINK CA300-PoE 6.2c.884. Affected by this issue is the function UploadCustomModule… |
-| 2026-11-07 21:17:00 | [CVE-2026-99283](https://nvd.nist.gov/vuln/detail/CVE-2026-99283) |  |  | In the Linux kernel, the following vulnerability has been resolved: netfilter: conntrack: tcp: use UNACK timeout for no… |
-| 2026-11-07 21:17:00 | [CVE-2026-99284](https://nvd.nist.gov/vuln/detail/CVE-2026-99284) |  |  | In the Linux kernel, the following vulnerability has been resolved: net: skbuff: propagate shared-frag marker in skb_ze… |
+| 2026-11-07 22:16:36 | [CVE-2026-120531](https://nvd.nist.gov/vuln/detail/CVE-2026-120531) | High | 7.2 | The Subscribe2 – Form, Email Subscribers & Newsletters plugin for WordPress is vulnerable to Stored Cross-Site Scriptin… |
 
 ## Data source
 
