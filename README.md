@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 12:19 UTC
+## Latest list — 2026-11-08 13:18 UTC
 
-New CVEs published between 2026-11-08 11:20 UTC and 2026-11-08 12:19 UTC.
+New CVEs published between 2026-11-08 12:19 UTC and 2026-11-08 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-08T12-19-50-210747Z.csv)
+[Full CSV](data/new-cves-2026-11-08T13-18-19-334072Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-08 12:17:48 | [CVE-2026-124329](https://nvd.nist.gov/vuln/detail/CVE-2026-124329) | Low | 1.3 | A vulnerability was found in FlowCI flow-core-x up to 1.23.49. The impacted element is the function FileHelper.unzip of… |
+| 2026-11-08 13:16:33 | [CVE-2026-124330](https://nvd.nist.gov/vuln/detail/CVE-2026-124330) | Low | 1.3 | A vulnerability was determined in FlowCI flow-core-x up to 1.23.49. This affects the function exist/save/read/remove of… |
 
 ## Data source
 
