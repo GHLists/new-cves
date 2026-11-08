@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-08T15:16:51.46Z,CVE-2026-124553,HIGH,8.7,Deferred,CWE-770,6,"BabelDOC from 0.3.61 before 0.7.0 contains a resource exhaustion vulnerability that allows remote attackers to exhaust CPU and memory by supplying unbounded bfrange and cidrange spans. Attackers can submit a crafted PDF whose embedded ToUnicode CMap declares a huge range, driving billions of loop i…"
