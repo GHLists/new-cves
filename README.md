@@ -9,28 +9,32 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:20 UTC
+## Latest list — 2026-11-08 17:19 UTC
 
-New CVEs published between 2026-11-08 15:19 UTC and 2026-11-08 16:20 UTC.
+New CVEs published between 2026-11-08 16:20 UTC and 2026-11-08 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-08T16-20-15-895501Z.csv)
+[Full CSV](data/new-cves-2026-11-08T17-19-21-901735Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-08 16:16:35 | [CVE-2024-41786](https://nvd.nist.gov/vuln/detail/CVE-2024-41786) | Medium | 5.3 | IBM Engineering Requirements Management DOORS Next 7.1, and 7.2 could allow a remote attacker to force the Web server t… |
-| 2026-11-08 16:16:35 | [CVE-2025-0166](https://nvd.nist.gov/vuln/detail/CVE-2025-0166) | Low | 2.7 | IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 could disclose se… |
-| 2026-11-08 16:16:35 | [CVE-2025-1837](https://nvd.nist.gov/vuln/detail/CVE-2025-1837) | Medium | 5.4 | IBM watsonx Orchestrate Cartridge for Cloud Pak for Data 4.8.4 through 4.8.5, and 5.0.0 through 5.4.2 could allow an au… |
-| 2026-11-08 16:16:35 | [CVE-2025-36075](https://nvd.nist.gov/vuln/detail/CVE-2025-36075) | Medium | 5.3 | IBM Safer Payments 6.4.0.00 through 6.4.2.11, 6.5.0.00 through 6.5.0.09, 6.6.0.00 through 6.6.0.07, 6.7.0.00 through 6.… |
-| 2026-11-08 16:16:36 | [CVE-2026-101117](https://nvd.nist.gov/vuln/detail/CVE-2026-101117) | Critical | 9.1 | IBM WebSphere Extreme Scale 8.6.1.0 through 8.6.2.2 could allow a remote attacker to bypass security restrictions due t… |
-| 2026-11-08 16:16:36 | [CVE-2026-102618](https://nvd.nist.gov/vuln/detail/CVE-2026-102618) | Low | 3.6 | IBM i 7.6, 7.5, 7.4, and 7.3 could allow an authenticated user to indirectly disable system auditing, which they otherw… |
-| 2026-11-08 16:16:36 | [CVE-2026-103320](https://nvd.nist.gov/vuln/detail/CVE-2026-103320) | Medium | 4.3 | IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader r… |
-| 2026-11-08 16:16:36 | [CVE-2026-109899](https://nvd.nist.gov/vuln/detail/CVE-2026-109899) | High | 7.1 | Missing Authorization vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Exploiting Incorrec… |
-| 2026-11-08 16:16:36 | [CVE-2026-109900](https://nvd.nist.gov/vuln/detail/CVE-2026-109900) | Critical | 9.6 | Incorrect Privilege Assignment vulnerability in Melapress Melapress Role Editor melapress-role-editor allows Privilege… |
-| 2026-11-08 16:16:36 | [CVE-2026-114186](https://nvd.nist.gov/vuln/detail/CVE-2026-114186) | Medium | 6.5 | Missing Authorization vulnerability in WPVibes AnyWhere Elementor anywhere-elementor allows Exploiting Incorrectly Conf… |
-| 2026-11-08 16:16:37 | [CVE-2026-114188](https://nvd.nist.gov/vuln/detail/CVE-2026-114188) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPVibes AnyWhere… |
-| 2026-11-08 16:16:37 | [CVE-2026-114189](https://nvd.nist.gov/vuln/detail/CVE-2026-114189) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in WPVibes AnyWhere… |
-| 2026-11-08 16:16:37 | [CVE-2026-120858](https://nvd.nist.gov/vuln/detail/CVE-2026-120858) | Medium | 6.5 | Missing Authorization vulnerability in WP ManageNinja LLC FluentForm fluentform allows Exploiting Incorrectly Configure… |
-| 2026-11-08 16:16:37 | [CVE-2026-61987](https://nvd.nist.gov/vuln/detail/CVE-2026-61987) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WC Lovers WCFM –… |
+| 2026-11-08 17:16:35 | [CVE-2026-105467](https://nvd.nist.gov/vuln/detail/CVE-2026-105467) | High | 8.1 | IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Reflected XS… |
+| 2026-11-08 17:16:35 | [CVE-2026-105473](https://nvd.nist.gov/vuln/detail/CVE-2026-105473) | Medium | 4.6 | IBM QRadar 7.5.0 through 7.5.0 Update Pack 16 Interim Fix 02, and 7.6.0.0 through 7.6.0.5 is vulnerable to Open Redirec… |
+| 2026-11-08 17:16:35 | [CVE-2026-107330](https://nvd.nist.gov/vuln/detail/CVE-2026-107330) | High | 7.7 | IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information… |
+| 2026-11-08 17:16:35 | [CVE-2026-107331](https://nvd.nist.gov/vuln/detail/CVE-2026-107331) | Critical | 9.9 | IBM DataStage on Cloud Pak for Data 5.4.0.0 could allow a remote authenticated attacker to obtain sensitive information… |
+| 2026-11-08 17:16:35 | [CVE-2026-108284](https://nvd.nist.gov/vuln/detail/CVE-2026-108284) | Medium | 6.5 | IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow an authenticated user with the Reader r… |
+| 2026-11-08 17:16:35 | [CVE-2026-108292](https://nvd.nist.gov/vuln/detail/CVE-2026-108292) | Medium | 5.5 | IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to upload a file with dangerous types that cou… |
+| 2026-11-08 17:16:35 | [CVE-2026-10844](https://nvd.nist.gov/vuln/detail/CVE-2026-10844) | Medium | 4.3 | IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 could allow a remote attacker to conduct phishing a… |
+| 2026-11-08 17:16:36 | [CVE-2026-110273](https://nvd.nist.gov/vuln/detail/CVE-2026-110273) | High | 8.8 | IBM TRIRIGA Application Platform 5.0.0 through 5.0.9 IBM TRIRIGA could allow a remote authenticated attacker to execute… |
+| 2026-11-08 17:16:36 | [CVE-2026-112369](https://nvd.nist.gov/vuln/detail/CVE-2026-112369) | Medium | 4.3 | IBM Process Mining 2.0.0 through 2.2.1 could allow an authenticated user to perform unauthorized actions due to client-… |
+| 2026-11-08 17:16:36 | [CVE-2026-113698](https://nvd.nist.gov/vuln/detail/CVE-2026-113698) | Medium | 6.5 | IBM Db2 11.5.0 through 11.5.9, and 12.1.0 through 12.1.5 is vulnerable to a denial of service when executing a speciall… |
+| 2026-11-08 17:16:36 | [CVE-2026-114464](https://nvd.nist.gov/vuln/detail/CVE-2026-114464) | Critical | 9.3 | IBM Process Mining 2.0.0 through 2.2.1 could allow a remote attacker to obtain sensitive information due to improper ac… |
+| 2026-11-08 17:16:36 | [CVE-2026-115554](https://nvd.nist.gov/vuln/detail/CVE-2026-115554) | Medium | 6.4 | IBM Tivoli Netcool/OMNIbus 8.1.0 through 8.1.0.41 is vulnerable to stored cross-site scripting. This vulnerability allo… |
+| 2026-11-08 17:16:36 | [CVE-2026-116499](https://nvd.nist.gov/vuln/detail/CVE-2026-116499) | High | 8.4 | IBM Qiskit SDK 1.4.2 through 2.6.2 could allow a local attacker to execute arbitrary code due to deserialization of unt… |
+| 2026-11-08 17:16:37 | [CVE-2026-116500](https://nvd.nist.gov/vuln/detail/CVE-2026-116500) | Medium | 6.2 | IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to cause a denial of service due to unbound recursion d… |
+| 2026-11-08 17:16:37 | [CVE-2026-116501](https://nvd.nist.gov/vuln/detail/CVE-2026-116501) | High | 8.4 | IBM Qiskit SDK 2.4.0 through 2.6.1 could allow a local attacker to execute arbitrary code due to an out-of-bounds write… |
+| 2026-11-08 17:16:37 | [CVE-2026-117545](https://nvd.nist.gov/vuln/detail/CVE-2026-117545) | High | 8.8 | IBM webMethods Integration Server 12.1 could allow a remote authenticated attacker to bypass security restrictions due… |
+| 2026-11-08 17:16:37 | [CVE-2026-119670](https://nvd.nist.gov/vuln/detail/CVE-2026-119670) | Medium | 6.3 | IBM Storage Copy Data Management 2.2 could allow an authenticated user to execute arbitrary commands with normal user p… |
+| 2026-11-08 17:16:37 | [CVE-2026-11547](https://nvd.nist.gov/vuln/detail/CVE-2026-11547) | Medium | 4.3 | IBM WebSphere Application Server Liberty 17.0.0.3 through 26.0.0.10 is affected by a server-side request forgery vulner… |
 
 ## Data source
 
