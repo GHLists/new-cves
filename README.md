@@ -9,19 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 03:21 UTC
+## Latest list — 2026-11-09 04:18 UTC
 
-New CVEs published between 2026-11-09 02:18 UTC and 2026-11-09 03:21 UTC.
+New CVEs published between 2026-11-09 03:21 UTC and 2026-11-09 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-09T03-21-06-959425Z.csv)
+[Full CSV](data/new-cves-2026-11-09T04-18-43-050963Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-09 03:16:36 | [CVE-2026-121825](https://nvd.nist.gov/vuln/detail/CVE-2026-121825) | Medium | 5.1 | OpenAM (OpenAM Consortium Edition) 14.0.5 and earlier contains an open redirect vulnerability (CWE-601) in the Liberty… |
-| 2026-11-09 03:16:37 | [CVE-2026-124556](https://nvd.nist.gov/vuln/detail/CVE-2026-124556) | Low | 2.1 | A security vulnerability has been detected in kekingcn kkFileView up to 5.0.3. This issue affects the function BaseUrlF… |
-| 2026-11-09 03:16:37 | [CVE-2026-124557](https://nvd.nist.gov/vuln/detail/CVE-2026-124557) | Medium | 5.5 | A vulnerability was detected in OtterMind Chat2DB up to 5.3.8. Impacted is the function DbMybatisGenerateServiceImpl.ge… |
-| 2026-11-09 03:16:37 | [CVE-2026-124558](https://nvd.nist.gov/vuln/detail/CVE-2026-124558) | Medium | 5.5 | A vulnerability has been found in DataLinkDC Dinky up to 1.2.5. The impacted element is the function SqlGateway.onOpen… |
-| 2026-11-09 03:16:38 | [CVE-2026-124560](https://nvd.nist.gov/vuln/detail/CVE-2026-124560) | High | 8.9 | A vulnerability was found in D-Link DIR-878 1.20B05. This affects the function GetCAPTCHAsetting of the file bin/prog.c… |
+| 2026-11-09 04:17:06 | [CVE-2026-113362](https://nvd.nist.gov/vuln/detail/CVE-2026-113362) | High | 8.5 | Improper Access Control in the program installation folder in NEC Corporation WebSAM Winshare Ver 7.5.0 and earlier (ex… |
+| 2026-11-09 04:17:06 | [CVE-2026-124561](https://nvd.nist.gov/vuln/detail/CVE-2026-124561) | High | 7.7 | A vulnerability was determined in D-Link DIR-878 1.20B05. This impacts the function SetVLANSettings of the file prog.cg… |
+| 2026-11-09 04:17:06 | [CVE-2026-124562](https://nvd.nist.gov/vuln/detail/CVE-2026-124562) | High | 7.7 | A vulnerability was identified in D-Link DIR-878 1.20B05. Affected is the function SetWanSettings of the component HNAP… |
+| 2026-11-09 04:17:06 | [CVE-2026-124563](https://nvd.nist.gov/vuln/detail/CVE-2026-124563) | High | 7.7 | A security flaw has been discovered in D-Link DIR-878 1.20B05. Affected by this vulnerability is the function SetWanSet… |
+| 2026-11-09 04:17:06 | [CVE-2026-124564](https://nvd.nist.gov/vuln/detail/CVE-2026-124564) | Medium | 5.5 | A weakness has been identified in D-Link DIR-878 1.20B05. Affected by this issue is the function GetListDirectory of th… |
+| 2026-11-09 04:17:07 | [CVE-2026-124610](https://nvd.nist.gov/vuln/detail/CVE-2026-124610) |  |  | Rejected reason: 依 VUL-2026-008441 判定為主 |
 
 ## Data source
 
