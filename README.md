@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 01:18 UTC
+## Latest list — 2026-11-09 02:18 UTC
 
-New CVEs published between 2026-11-09 00:19 UTC and 2026-11-09 01:18 UTC.
+New CVEs published between 2026-11-09 01:18 UTC and 2026-11-09 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-09T01-18-23-81761Z.csv)
+[Full CSV](data/new-cves-2026-11-09T02-18-22-978639Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-09 01:17:01 | [CVE-2026-119506](https://nvd.nist.gov/vuln/detail/CVE-2026-119506) | Critical | 9.1 | Incorrect Privilege Assignment vulnerability in DynamiApps Frontend Admin by DynamiApps acf-frontend-form-element allow… |
-| 2026-11-09 01:17:02 | [CVE-2026-124504](https://nvd.nist.gov/vuln/detail/CVE-2026-124504) | Low | 2.1 | A vulnerability was detected in erupts erupt up to 2.3.0. Affected by this issue is the function ReportService.queryBiD… |
-| 2026-11-09 01:17:02 | [CVE-2026-124505](https://nvd.nist.gov/vuln/detail/CVE-2026-124505) | Low | 2.1 | A flaw has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This affects the function Handler.redirect of the file Handl… |
-| 2026-11-09 01:17:02 | [CVE-2026-124506](https://nvd.nist.gov/vuln/detail/CVE-2026-124506) | Low | 2.1 | A vulnerability has been found in Dianping CAT 3.0.0/3.1.0/4.0-RC1. This vulnerability affects the function Model.getDo… |
-| 2026-11-09 01:17:03 | [CVE-2026-124507](https://nvd.nist.gov/vuln/detail/CVE-2026-124507) | Medium | 5.5 | A vulnerability was found in conductor-oss conductor up to 3.32.4/3.33.0/3.34.0-rc3/4.0.0-alpha.1. This issue affects t… |
+| 2026-11-09 02:16:58 | [CVE-2026-124508](https://nvd.nist.gov/vuln/detail/CVE-2026-124508) | Medium | 5.5 | A vulnerability was determined in floci-io Floci up to 2.4.0. Impacted is the function BuildspecParser.parseArtifacts o… |
+| 2026-11-09 02:16:59 | [CVE-2026-124509](https://nvd.nist.gov/vuln/detail/CVE-2026-124509) | Medium | 5.5 | A vulnerability was identified in floci-io Floci up to 2.1.0. The affected element is the function S3Destination.bucket… |
+| 2026-11-09 02:16:59 | [CVE-2026-124554](https://nvd.nist.gov/vuln/detail/CVE-2026-124554) | Medium | 5.5 | A security flaw has been discovered in JeecgBoot 3.9.5. This affects an unknown part of the file /jeecg-boot/drag/onlDr… |
+| 2026-11-09 02:16:59 | [CVE-2026-124555](https://nvd.nist.gov/vuln/detail/CVE-2026-124555) | Low | 2.1 | A weakness has been identified in JeecgBoot 3.9.5. This vulnerability affects the function JimuFormApiService.getTableD… |
 
 ## Data source
 
