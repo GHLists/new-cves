@@ -9,39 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 07:18 UTC
+## Latest list — 2026-11-09 08:18 UTC
 
-New CVEs published between 2026-11-09 06:18 UTC and 2026-11-09 07:18 UTC.
+New CVEs published between 2026-11-09 07:18 UTC and 2026-11-09 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-09T07-18-18-119733Z.csv)
+[Full CSV](data/new-cves-2026-11-09T08-18-31-274499Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-09 07:17:27 | [CVE-2026-115204](https://nvd.nist.gov/vuln/detail/CVE-2026-115204) |  |  | The AZEXO Store Locator WordPress plugin through 1.4 does not perform capability or nonce checks on its AJAX actions an… |
-| 2026-11-09 07:17:27 | [CVE-2026-115212](https://nvd.nist.gov/vuln/detail/CVE-2026-115212) |  |  | The mView 豆瓣电影 WordPress plugin through 1.0.3 does not validate the type, name, or source of a remotely fetched file, n… |
-| 2026-11-09 07:17:27 | [CVE-2026-115213](https://nvd.nist.gov/vuln/detail/CVE-2026-115213) |  |  | The EASY-JS-WPAPI Client HANDLE for the WordPress REST-API WordPress plugin through 2.0 does not prevent the administra… |
-| 2026-11-09 07:17:28 | [CVE-2026-115237](https://nvd.nist.gov/vuln/detail/CVE-2026-115237) |  |  | The Grand Job WordPress plugin through 1.2.1 does not correctly verify the password reset code before updating a user's… |
-| 2026-11-09 07:17:28 | [CVE-2026-115256](https://nvd.nist.gov/vuln/detail/CVE-2026-115256) |  |  | The Mail Debug for WooCommerce WordPress plugin through 1.3.0 does not perform any capability, authentication, or nonce… |
-| 2026-11-09 07:17:28 | [CVE-2026-118201](https://nvd.nist.gov/vuln/detail/CVE-2026-118201) |  |  | The Limit Login Attempts Security WordPress plugin before 3.4.1 does not enforce its two-factor authentication on every… |
-| 2026-11-09 07:17:28 | [CVE-2026-118202](https://nvd.nist.gov/vuln/detail/CVE-2026-118202) |  |  | The Limit Login Attempts Security WordPress plugin before 3.4.1 does not confirm that its two-factor authentication ste… |
-| 2026-11-09 07:17:28 | [CVE-2026-120409](https://nvd.nist.gov/vuln/detail/CVE-2026-120409) |  |  | The All-in-One Video Gallery WordPress plugin before 5.1.1 does not check whether a video is password protected before… |
-| 2026-11-09 07:17:28 | [CVE-2026-121759](https://nvd.nist.gov/vuln/detail/CVE-2026-121759) |  |  | The Fusion Page Builder WordPress plugin before 1.7.1 does not check that the user owns the content it moves to the tra… |
-| 2026-11-09 07:17:28 | [CVE-2026-121874](https://nvd.nist.gov/vuln/detail/CVE-2026-121874) |  |  | The Post Duplicator WordPress plugin before 3.0.18 does not restrict settings saves to its own options, allowing a site… |
-| 2026-11-09 07:17:29 | [CVE-2026-121875](https://nvd.nist.gov/vuln/detail/CVE-2026-121875) |  |  | The Post Duplicator WordPress plugin before 3.0.18 does not validate the capabilities assigned to roles through its per… |
-| 2026-11-09 07:17:29 | [CVE-2026-123064](https://nvd.nist.gov/vuln/detail/CVE-2026-123064) |  |  | The WP BASE Booking of Appointments, Services and Events WordPress plugin before 6.5.1 does not properly restrict acces… |
-| 2026-11-09 07:17:29 | [CVE-2026-123088](https://nvd.nist.gov/vuln/detail/CVE-2026-123088) |  |  | The UniPAY Payment Gateway For WooCommerce WordPress plugin before 2.4 does not perform any authorization check before… |
-| 2026-11-09 07:17:29 | [CVE-2026-123091](https://nvd.nist.gov/vuln/detail/CVE-2026-123091) |  |  | The Vigilant WordPress plugin before 2.11.0 does not enforce its two-factor authentication on login forms other than th… |
-| 2026-11-09 07:17:29 | [CVE-2026-123128](https://nvd.nist.gov/vuln/detail/CVE-2026-123128) |  |  | The GemBooking WordPress plugin before 1.7.1 does not serialise concurrent booking requests per team member, allowing u… |
-| 2026-11-09 07:17:29 | [CVE-2026-123129](https://nvd.nist.gov/vuln/detail/CVE-2026-123129) |  |  | The Event Tickets Manager for WooCommerce WordPress plugin before 1.6.0 does not validate the ticket-type price sent to… |
-| 2026-11-09 07:17:29 | [CVE-2026-123131](https://nvd.nist.gov/vuln/detail/CVE-2026-123131) |  |  | The GemBooking WordPress plugin before 1.7.1 does not properly verify that a REST request is addressed to its own route… |
-| 2026-11-09 07:17:30 | [CVE-2026-123145](https://nvd.nist.gov/vuln/detail/CVE-2026-123145) |  |  | The WooCommerce Stripe Payment Gateway WordPress plugin before 11.1.0 does not exclude the account password from the ch… |
-| 2026-11-09 07:17:30 | [CVE-2026-123751](https://nvd.nist.gov/vuln/detail/CVE-2026-123751) |  |  | The WP Duplicate WordPress plugin through 1.1.11 does not properly verify a request authentication value and does not v… |
-| 2026-11-09 07:17:30 | [CVE-2026-124572](https://nvd.nist.gov/vuln/detail/CVE-2026-124572) | Medium | 5.3 | A vulnerability has been found in DataLinkDC dinky up to 1.2.5. Affected by this issue is the function CatalogueControl… |
-| 2026-11-09 07:17:31 | [CVE-2026-124573](https://nvd.nist.gov/vuln/detail/CVE-2026-124573) | Medium | 5.5 | A vulnerability was found in logseq 2.0.1/2.0.2. This affects the function validate-auth-token of the file src/electron… |
-| 2026-11-09 07:17:32 | [CVE-2026-124574](https://nvd.nist.gov/vuln/detail/CVE-2026-124574) | Low | 2.1 | A vulnerability was determined in chenyme grok2api up to 3.1.6. This vulnerability affects the function beginSelectionS… |
-| 2026-11-09 07:17:32 | [CVE-2026-124575](https://nvd.nist.gov/vuln/detail/CVE-2026-124575) | Medium | 6.3 | A vulnerability was identified in SiteServer SSCMS up to 7.1.3/7.2.1/7.4.0. This issue affects the function LoginContro… |
-| 2026-11-09 07:17:32 | [CVE-2026-124576](https://nvd.nist.gov/vuln/detail/CVE-2026-124576) | Medium | 6.9 | A security flaw has been discovered in BeikeShop up to 2.0.0.31. Impacted is the function OrderRepo::getOrderByNumber o… |
-| 2026-11-09 07:17:33 | [CVE-2026-81422](https://nvd.nist.gov/vuln/detail/CVE-2026-81422) |  |  | The Advanced Appointment Booking & Scheduling WordPress plugin before 2.7 does not verify the site's user-registration… |
+| 2026-11-09 08:17:00 | [CVE-2026-109582](https://nvd.nist.gov/vuln/detail/CVE-2026-109582) | Medium | 5.1 | Insecure storage of sensitive information issue exists in SS1 provided by DOS Co., Ltd. Sensitive information used by t… |
+| 2026-11-09 08:17:02 | [CVE-2026-113437](https://nvd.nist.gov/vuln/detail/CVE-2026-113437) | Medium | 6.9 | Path Traversal vulnerability exists in SS1/ SS1 Cloud provided by DOS Co., Ltd. and the ODM product rocoeyes provided b… |
+| 2026-11-09 08:17:02 | [CVE-2026-120386](https://nvd.nist.gov/vuln/detail/CVE-2026-120386) | Medium | 5.1 | Effekseer improperly validates "effect" files. When a crafted effect file is loaded to the affected runtime, the host p… |
+| 2026-11-09 08:17:02 | [CVE-2026-124577](https://nvd.nist.gov/vuln/detail/CVE-2026-124577) | High | 8.9 | A weakness has been identified in Intelbras SG 2404 PoE L2+ 1.00.70/1.00.72. The affected element is an unknown functio… |
+| 2026-11-09 08:17:02 | [CVE-2026-124578](https://nvd.nist.gov/vuln/detail/CVE-2026-124578) | Medium | 6.9 | A security vulnerability has been detected in Pantum BP5100DW 3.A.4.7. The impacted element is an unknown function of t… |
+| 2026-11-09 08:17:02 | [CVE-2026-124579](https://nvd.nist.gov/vuln/detail/CVE-2026-124579) | Low | 2.1 | A vulnerability was determined in aaPanel BillionMail up to 4.9. Affected by this issue is some unknown functionality o… |
+| 2026-11-09 08:17:02 | [CVE-2026-124580](https://nvd.nist.gov/vuln/detail/CVE-2026-124580) | Critical | 9.3 | A vulnerability was found in Chengdu Feiyuxing Technology VW2100 and VEC10GP 1.0 B-MB3W202-210825-r11775. This impacts… |
 
 ## Data source
 
