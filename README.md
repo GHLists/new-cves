@@ -9,25 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 14:18 UTC
+## Latest list — 2026-11-09 15:19 UTC
 
-New CVEs published between 2026-11-09 13:21 UTC and 2026-11-09 14:18 UTC.
+New CVEs published between 2026-11-09 14:18 UTC and 2026-11-09 15:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-09T14-18-22-731106Z.csv)
+[Full CSV](data/new-cves-2026-11-09T15-19-37-263971Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-09 14:17:06 | [CVE-2026-119274](https://nvd.nist.gov/vuln/detail/CVE-2026-119274) | Medium | 4.8 | Stored XSS attacks occur when an attacker injects a malicious script in Global Smart Folders feature in NIOS |
-| 2026-11-09 14:17:06 | [CVE-2026-119743](https://nvd.nist.gov/vuln/detail/CVE-2026-119743) | Medium | 6.3 | pdfmake before 0.3.14 contains a shared resource caching vulnerability that allows attackers to access cross-document c… |
-| 2026-11-09 14:17:08 | [CVE-2026-121841](https://nvd.nist.gov/vuln/detail/CVE-2026-121841) |  |  | Other issue in Firefox for iOS. This vulnerability was fixed in Firefox for iOS 160.0. |
-| 2026-11-09 14:17:08 | [CVE-2026-121842](https://nvd.nist.gov/vuln/detail/CVE-2026-121842) |  |  | Privilege escalation in the Reader View component in Firefox for iOS. This vulnerability was fixed in Firefox for iOS 1… |
-| 2026-11-09 14:17:08 | [CVE-2026-121843](https://nvd.nist.gov/vuln/detail/CVE-2026-121843) |  |  | Privilege escalation in Firefox for iOS. This vulnerability was fixed in Firefox for iOS 160.0. |
-| 2026-11-09 14:17:16 | [CVE-2026-124624](https://nvd.nist.gov/vuln/detail/CVE-2026-124624) | Medium | 5.5 | A weakness has been identified in PipraPay 3.0.0. Affected by this vulnerability is the function hash_hmac of the file… |
-| 2026-11-09 14:17:16 | [CVE-2026-124625](https://nvd.nist.gov/vuln/detail/CVE-2026-124625) | Low | 2.1 | A security vulnerability has been detected in PipraPay 3.0.0. Affected by this issue is the function deleteData of the… |
-| 2026-11-09 14:17:16 | [CVE-2026-124635](https://nvd.nist.gov/vuln/detail/CVE-2026-124635) | Medium | 5.1 | A vulnerability was identified in kevquirk PureBlog up to 3.7.2. Impacted is an unknown function of the file admin/uplo… |
-| 2026-11-09 14:17:16 | [CVE-2026-16283](https://nvd.nist.gov/vuln/detail/CVE-2026-16283) | High | 8.8 | Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in Osbil Techn… |
-| 2026-11-09 14:17:24 | [CVE-2026-95778](https://nvd.nist.gov/vuln/detail/CVE-2026-95778) | High | 8.8 | A remote code execution vulnerability exists in HPE Morpheus Software. |
-| 2026-11-09 14:17:25 | [CVE-2026-95779](https://nvd.nist.gov/vuln/detail/CVE-2026-95779) | High | 8.8 | An exposure of the appliance’s confidential certificate information vulnerability exists in HPE Morpheus manager softwa… |
+| 2026-11-09 15:17:04 | [CVE-2026-104620](https://nvd.nist.gov/vuln/detail/CVE-2026-104620) | High | 8.5 | A path traversal attack in simulation of actions in the Zypp backend of PackageKit before 1.4.1 could be used by local… |
+| 2026-11-09 15:17:07 | [CVE-2026-119474](https://nvd.nist.gov/vuln/detail/CVE-2026-119474) | High | 7.8 | Incorrect Permission Assignment for Critical Resource vulnerability in HAVELSAN Inc. Liman Render Engine allows Privile… |
+| 2026-11-09 15:17:14 | [CVE-2026-124249](https://nvd.nist.gov/vuln/detail/CVE-2026-124249) | Medium | 6.3 | http.cookiejar.CookieJar deleted a stored cookie when a response carried an already expired Set-Cookie header for it, u… |
+| 2026-11-09 15:17:18 | [CVE-2026-124636](https://nvd.nist.gov/vuln/detail/CVE-2026-124636) | Medium | 5.1 | A security flaw has been discovered in kevquirk PureBlog up to 3.7.2. The affected element is the function save_page of… |
+| 2026-11-09 15:17:19 | [CVE-2026-124850](https://nvd.nist.gov/vuln/detail/CVE-2026-124850) | High | 7.3 | A SQL injection vulnerability exists in a database migration script in flowintel. The migration process reads stored co… |
+| 2026-11-09 15:17:19 | [CVE-2026-124916](https://nvd.nist.gov/vuln/detail/CVE-2026-124916) |  |  | PrestaShop contains an authenticated PHP code injection vulnerability in the back-office Performance debug-mode configu… |
+| 2026-11-09 15:17:19 | [CVE-2026-124959](https://nvd.nist.gov/vuln/detail/CVE-2026-124959) |  |  | The loadIndex function in nmslib hnswlib and Spotify Voyager does not verify that the element count in a serialized HNS… |
+| 2026-11-09 15:17:21 | [CVE-2026-19552](https://nvd.nist.gov/vuln/detail/CVE-2026-19552) | None | 0.0 | When ca_certs parameter was supplied to ssl.get_server_certificate() function, the identity of the certificate is not c… |
 
 ## Data source
 
