@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 23:19 UTC
+## Latest list — 2026-11-09 00:19 UTC
 
-New CVEs published between 2026-11-08 22:18 UTC and 2026-11-08 23:19 UTC.
+New CVEs published between 2026-11-08 23:19 UTC and 2026-11-09 00:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-08T23-19-14-334296Z.csv)
+[Full CSV](data/new-cves-2026-11-09T00-19-58-719124Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-08 23:16:34 | [CVE-2026-124498](https://nvd.nist.gov/vuln/detail/CVE-2026-124498) | Low | 2.0 | A vulnerability was determined in Convene Azeus Convene Board Management Portal 7.0.2.7_3 p72. The impacted element is… |
+| 2026-11-09 00:18:00 | [CVE-2026-124499](https://nvd.nist.gov/vuln/detail/CVE-2026-124499) | Low | 2.0 | A vulnerability was identified in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This affects the function write_tran… |
+| 2026-11-09 00:18:01 | [CVE-2026-124500](https://nvd.nist.gov/vuln/detail/CVE-2026-124500) | Low | 2.1 | A security flaw has been discovered in Fengoffice Feng Office up to 3.11.13.11/4.2.1.2. This impacts the function uploa… |
+| 2026-11-09 00:18:01 | [CVE-2026-124501](https://nvd.nist.gov/vuln/detail/CVE-2026-124501) | Medium | 5.5 | A weakness has been identified in Tidelift moto up to 5.2.4. Affected is an unknown function of the file moto/batch/mod… |
+| 2026-11-09 00:18:01 | [CVE-2026-124502](https://nvd.nist.gov/vuln/detail/CVE-2026-124502) | Low | 2.1 | A security vulnerability has been detected in yungifez Skuul School Management System up to 2.6.3. Affected by this vul… |
 
 ## Data source
 
