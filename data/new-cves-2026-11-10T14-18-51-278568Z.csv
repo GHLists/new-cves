@@ -1,0 +1,104 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-10T14:17:14.3Z,CVE-2026-120399,HIGH,7.5,Awaiting Analysis,CWE-1322,2,A flaw was found in flightctl. A TLS handshake is performed synchronously in the HTTP server’s connection-context callback without a deadline. A network-reachable unauthenticated client can stall the handshake and prevent the affected listener from accepting new connections.
+2026-11-10T14:17:16.89Z,CVE-2026-124852,,,Received,,2,Incorrect boundary conditions in the Graphics: CanvasWebGL component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:17.007Z,CVE-2026-124853,,,Received,,4,"Sandbox escape due to incorrect boundary conditions in the Graphics: Text component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:17.17Z,CVE-2026-124854,,,Received,,3,Privilege escalation in the DOM: Navigation component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:17.357Z,CVE-2026-124855,,,Received,,3,Sandbox escape in the DOM: Navigation component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:17.827Z,CVE-2026-124856,,,Received,,3,Incorrect boundary conditions in the Networking: HTTP component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:17.983Z,CVE-2026-124857,,,Received,,4,"Use-after-free in the Graphics: Canvas2D component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.097Z,CVE-2026-124858,,,Received,,4,"Use-after-free in the DOM: HTML Parser component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.21Z,CVE-2026-124859,,,Received,,4,"Sandbox escape due to incorrect boundary conditions in the Storage: Cache API component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.32Z,CVE-2026-124860,,,Received,,4,"Use-after-free in the Audio/Video component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.447Z,CVE-2026-124861,,,Received,,4,"Sandbox escape due to use-after-free in the Audio/Video: cubeb component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.567Z,CVE-2026-124862,,,Received,,3,Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:18.683Z,CVE-2026-124863,,,Received,,4,"Use-after-free in the DOM: HTML Parser component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.81Z,CVE-2026-124864,,,Received,,4,"Sandbox escape due to use-after-free in the DOM: Service Workers component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:18.93Z,CVE-2026-124865,,,Received,,4,"Use-after-free in the Audio/Video component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:19.047Z,CVE-2026-124866,,,Received,,3,Use-after-free in the Layout component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:19.16Z,CVE-2026-124867,,,Received,,2,Use-after-free in the DOM: Editor component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:19.287Z,CVE-2026-124868,,,Received,,3,Incorrect boundary conditions in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:19.407Z,CVE-2026-124869,,,Received,,3,Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:19.527Z,CVE-2026-124870,,,Received,,3,Incorrect boundary conditions in the JavaScript: GC component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:19.66Z,CVE-2026-124871,,,Received,,2,Use-after-free in the DOM: HTML Parser component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:19.79Z,CVE-2026-124872,,,Received,,4,"Use-after-free in the Cycle Collector component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:19.927Z,CVE-2026-124873,,,Received,,3,Invalid pointer in the DOM: Editor component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:20.047Z,CVE-2026-124874,,,Received,,4,"Same-origin policy bypass in the Networking: HTTP component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:20.203Z,CVE-2026-124875,,,Received,,4,"Incorrect boundary conditions in the DOM: CSS Object Model component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:20.347Z,CVE-2026-124876,,,Received,,4,"Use-after-free in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:20.48Z,CVE-2026-124877,,,Received,,4,"Use-after-free in the Layout: Positioned component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:20.62Z,CVE-2026-124878,,,Received,,2,Use-after-free in the Layout: Positioned component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:20.777Z,CVE-2026-124879,,,Received,,3,Invalid pointer in the Networking: Cache component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:20.913Z,CVE-2026-124880,,,Received,,4,"Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:21.057Z,CVE-2026-124881,,,Received,,4,"Use-after-free in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:21.2Z,CVE-2026-124882,,,Received,,4,"Use-after-free in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:21.34Z,CVE-2026-124883,,,Received,,3,Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:21.517Z,CVE-2026-124884,,,Received,,3,Use-after-free in the JavaScript: GC component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:21.747Z,CVE-2026-124885,,,Received,,4,"Use-after-free in the Graphics: Text component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:21.887Z,CVE-2026-124886,,,Received,,3,Invalid pointer in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.027Z,CVE-2026-124887,,,Received,,3,Incorrect boundary conditions in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.243Z,CVE-2026-124888,,,Received,,3,Incorrect boundary conditions in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.4Z,CVE-2026-124889,,,Received,,3,Use-after-free in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.533Z,CVE-2026-124890,,,Received,,4,"Use-after-free in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:22.647Z,CVE-2026-124891,,,Received,,3,Incorrect boundary conditions in the DOM: Selection component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.757Z,CVE-2026-124892,,,Received,,3,Use-after-free in the JavaScript: GC component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.88Z,CVE-2026-124893,,,Received,,3,Use-after-free in the DOM: Workers component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:22.993Z,CVE-2026-124894,,,Received,,3,Use-after-free in the Networking: Cookies component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:23.11Z,CVE-2026-124895,,,Received,,4,"Use-after-free in the Storage: localStorage & sessionStorage component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:23.22Z,CVE-2026-124896,,,Received,,3,Invalid pointer in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:23.337Z,CVE-2026-124897,,,Received,,3,Use-after-free in the JavaScript: GC component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:23.447Z,CVE-2026-124898,,,Received,,4,"Use-after-free in the DOM: Editor component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:23.553Z,CVE-2026-124899,,,Received,,4,"Use-after-free in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:23.663Z,CVE-2026-124900,,,Received,,2,Sandbox escape due to use-after-free in the DOM: Service Workers component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:23.773Z,CVE-2026-124901,,,Received,,4,"Other issue in the Networking: JAR component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:23.883Z,CVE-2026-124902,,,Received,,4,"Same-origin policy bypass due to race condition in the Audio/Video component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:23.99Z,CVE-2026-124903,,,Received,,4,"Sandbox escape due to use-after-free in the IPC component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:24.093Z,CVE-2026-124904,,,Received,,2,Use-after-free in the SVG component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:24.227Z,CVE-2026-124905,,,Received,,4,"Sandbox escape in the DOM: Navigation component. This vulnerability was fixed in Firefox 160, Firefox ESR 115.45, and Firefox ESR 153.7."
+2026-11-10T14:17:24.34Z,CVE-2026-124906,,,Received,,3,Use-after-free in the Graphics: WebRender component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:24.457Z,CVE-2026-124907,,,Received,,3,"Privilege escalation, sandbox escape due to use-after-free in the Graphics: CanvasWebGL component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7."
+2026-11-10T14:17:24.557Z,CVE-2026-124908,,,Received,,2,Use-after-free in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:24.68Z,CVE-2026-124909,,,Received,,3,Information disclosure in the Private Browsing component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:24.8Z,CVE-2026-124910,,,Received,,3,Mitigation bypass in the WebExtensions component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:24.917Z,CVE-2026-124911,,,Received,,2,Clickjacking issue in the Autofill component in Firefox for Android. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:25.03Z,CVE-2026-124912,,,Received,,3,Spoofing issue in the DOM: Security component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.143Z,CVE-2026-124913,,,Received,,3,Site isolation issue in the Networking component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.247Z,CVE-2026-124914,,,Received,,3,Site isolation issue in the DOM: Navigation component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.367Z,CVE-2026-124915,,,Received,,3,Incorrect boundary conditions in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.483Z,CVE-2026-124917,,,Received,,3,Sandbox escape due to use-after-free in the Widget: Gtk component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.607Z,CVE-2026-124918,,,Received,,3,Privilege escalation due to incorrect boundary conditions in the Graphics: WebRender component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.72Z,CVE-2026-124919,,,Received,,3,Privilege escalation due to use-after-free in the WebRTC: Networking component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:25.823Z,CVE-2026-124920,,,Received,,2,Uninitialized memory in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:25.93Z,CVE-2026-124921,,,Received,,2,Sandbox escape in the Graphics: WebGPU component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:26.033Z,CVE-2026-124922,,,Received,,3,Use-after-free in the CSS Transitions and Animations component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:26.15Z,CVE-2026-124923,,,Received,,2,Sandbox escape in the Agent component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:26.27Z,CVE-2026-124924,,,Received,,3,Incorrect boundary conditions in the Graphics: WebRender component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:26.403Z,CVE-2026-124925,,,Received,,2,Information disclosure in the Layout component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:26.533Z,CVE-2026-124926,,,Received,,3,Incorrect boundary conditions in the WebRTC component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:26.643Z,CVE-2026-124927,,,Received,,3,Site isolation issue in the Graphics: WebRender component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:26.76Z,CVE-2026-124928,,,Received,,2,Mitigation bypass in the SVG component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:26.88Z,CVE-2026-124929,,,Received,,3,Information disclosure in the Layout: Form Controls component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.003Z,CVE-2026-124930,,,Received,,3,Information disclosure in the Address Bar component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.12Z,CVE-2026-124931,,,Received,,3,Same-origin policy bypass in the DOM: Core & HTML component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.237Z,CVE-2026-124932,,,Received,,3,Use-after-free in the Graphics component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.35Z,CVE-2026-124933,,,Received,,3,Sandbox escape in the Console component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.467Z,CVE-2026-124934,,,Received,,3,Spoofing issue in the Security component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.633Z,CVE-2026-124935,,,Received,,3,Undefined behavior in the WebRTC: Networking component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:27.76Z,CVE-2026-124936,,,Received,,2,Spoofing issue in the Address Bar component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:27.873Z,CVE-2026-124937,,,Received,,2,Other issue in the Media component in Firefox for Android. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:28.127Z,CVE-2026-124939,,,Received,,3,JIT miscompilation in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:28.243Z,CVE-2026-124940,,,Received,,3,Mitigation bypass in the File Handling component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:28.363Z,CVE-2026-124941,,,Received,,3,Information disclosure in the Security: RLBox component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:28.487Z,CVE-2026-124942,,,Received,,3,Invalid pointer in the DOM: Streams component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:28.607Z,CVE-2026-124943,,,Received,,2,Use-after-free in the Layout component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:28.707Z,CVE-2026-124944,,,Received,,2,Information disclosure in the Marionette component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:28.817Z,CVE-2026-124945,,,Received,,2,Invalid pointer in the Layout: Text and Fonts component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:28.917Z,CVE-2026-124946,,,Received,,2,Invalid pointer in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:28Z,CVE-2026-124938,,,Received,,3,Mitigation bypass in the Add-ons Manager component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:29.033Z,CVE-2026-124947,,,Received,,2,Incorrect boundary conditions in the Graphics component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:29.133Z,CVE-2026-124948,,,Received,,3,"Incorrect boundary conditions, use-after-free in the Graphics component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7."
+2026-11-10T14:17:29.257Z,CVE-2026-124949,,,Received,,2,Other issue in the SVG component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:29.36Z,CVE-2026-124950,,,Received,,2,Same-origin policy bypass in the CSS Parsing and Computation component. This vulnerability was fixed in Firefox 160.
+2026-11-10T14:17:29.48Z,CVE-2026-124951,,,Received,,3,Privilege escalation in the Nimbus Desktop Client component. This vulnerability was fixed in Firefox 160 and Firefox ESR 153.7.
+2026-11-10T14:17:29.59Z,CVE-2026-124952,,,Received,,2,Use-after-free in the Audio/Video component. This vulnerability was fixed in Firefox ESR 115.45.
+2026-11-10T14:17:29.98Z,CVE-2026-12708,HIGH,8.7,Received,CWE-401,2,"Summary Cloudflare tokio-quiche was found to contain an uncontrolled resource consumption vulnerability in its HTTP/3 DATAGRAM handling. For every previously unseen flow identifier (quarter stream ID) received in a DATAGRAM frame, tokio-quiche creates and retains new, per-flow state. A remote peer…"
+2026-11-10T14:17:36.29Z,CVE-2026-82509,CRITICAL,9.1,Received,CWE-295,3,V programming language standard library net.http through version 0.5.2 prior to commit 4077484 contains a TLS certificate validation bypass vulnerability that allows on-path attackers to intercept HTTPS traffic by exploiting the default false value of SSLConnectConfig.validate and FetchConfig.valid…
