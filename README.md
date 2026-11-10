@@ -9,19 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:18 UTC
+## Latest list — 2026-11-10 08:18 UTC
 
-New CVEs published between 2026-11-10 06:18 UTC and 2026-11-10 07:18 UTC.
+New CVEs published between 2026-11-10 07:18 UTC and 2026-11-10 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-10T07-18-54-261565Z.csv)
+[Full CSV](data/new-cves-2026-11-10T08-18-51-528928Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-10 07:16:47 | [CVE-2026-100386](https://nvd.nist.gov/vuln/detail/CVE-2026-100386) | High | 7.5 | The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Directory Traversal in all versions up to, an… |
-| 2026-11-10 07:16:51 | [CVE-2026-120513](https://nvd.nist.gov/vuln/detail/CVE-2026-120513) | High | 8.2 | The Everest Forms – Contact Form, Payment Form, Quiz, Survey & Custom Form Builder with AI plugin for WordPress is vuln… |
-| 2026-11-10 07:16:52 | [CVE-2026-76877](https://nvd.nist.gov/vuln/detail/CVE-2026-76877) | High | 8.1 | The WPML Multilingual CMS plugin for WordPress is vulnerable to Authentication Bypass via Race Condition in versions up… |
-| 2026-11-10 07:16:52 | [CVE-2026-84938](https://nvd.nist.gov/vuln/detail/CVE-2026-84938) | High | 7.2 | The Avada (Fusion) Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Form Notification Dyna… |
-| 2026-11-10 07:16:53 | [CVE-2026-93427](https://nvd.nist.gov/vuln/detail/CVE-2026-93427) | High | 7.2 | The ARMember Premium – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for Wor… |
+| 2026-11-10 08:16:41 | [CVE-2026-125652](https://nvd.nist.gov/vuln/detail/CVE-2026-125652) | Medium | 6.8 | A flaw was found in the keycloak-services component of Keycloak, which provides the core authentication and authorizati… |
 
 ## Data source
 
