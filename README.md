@@ -9,18 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:19 UTC
+## Latest list — 2026-11-10 03:20 UTC
 
-New CVEs published between 2026-11-10 01:19 UTC and 2026-11-10 02:19 UTC.
+New CVEs published between 2026-11-10 02:19 UTC and 2026-11-10 03:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-10T02-19-43-746187Z.csv)
+[Full CSV](data/new-cves-2026-11-10T03-20-31-640078Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-10 02:16:45 | [CVE-2026-88707](https://nvd.nist.gov/vuln/detail/CVE-2026-88707) | High | 7.1 | An out-of-bounds write in certain ASUS Router firmware allows an unauthenticated nearby user to send an HTTP request co… |
-| 2026-11-10 02:16:45 | [CVE-2026-88708](https://nvd.nist.gov/vuln/detail/CVE-2026-88708) | Medium | 5.3 | An off-by-one error in certain ASUS Router firmware allows an unauthenticated nearby user to send a packet with a speci… |
-| 2026-11-10 02:16:45 | [CVE-2026-88709](https://nvd.nist.gov/vuln/detail/CVE-2026-88709) | High | 7.0 | Improper neutralization of special elements used in an OS command in certain ASUS Router firmware allows an user with p… |
-| 2026-11-10 02:16:45 | [CVE-2026-88710](https://nvd.nist.gov/vuln/detail/CVE-2026-88710) | High | 8.7 | Improper neutralization of special elements used in an OS command in certain ASUS Router firmware allows an unauthentic… |
+| 2026-11-10 03:16:42 | [CVE-2026-125612](https://nvd.nist.gov/vuln/detail/CVE-2026-125612) | High | 8.8 | Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Deltaww DIAEnergi… |
 
 ## Data source
 

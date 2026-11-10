@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-10T03:16:42.547Z,CVE-2026-125612,HIGH,8.8,Received,CWE-89,1,Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Deltaww DIAEnergie allows SQL Injection. This issue affects DIAEnergie: before 1.11.01.032.
