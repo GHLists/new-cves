@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-10T10:16:42.59Z,CVE-2026-104619,HIGH,7.8,Received,CWE-1328,1,"Untrusted users could roll back security updates when using the PackageKit Zypp Backend before 1.4.1, allowing privilege escalation."
+2026-11-10T10:16:43.76Z,CVE-2026-124503,LOW,2.1,Deferred,CWE-22,8,A vulnerability was identified in sooperset mcp-atlassian up to 0.24.0. This issue affects the function validate_safe_path of the file src/mcp_atlassian/utils/io.py. The manipulation of the argument path leads to path traversal. The attack may be initiated remotely. The exploit is publicly availabl…
