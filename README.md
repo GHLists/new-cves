@@ -9,32 +9,33 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:18 UTC
+## Latest list — 2026-11-11 15:19 UTC
 
-New CVEs published between 2026-11-11 13:20 UTC and 2026-11-11 14:18 UTC.
+New CVEs published between 2026-11-11 14:18 UTC and 2026-11-11 15:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-11T14-18-43-876767Z.csv)
+[Full CSV](data/new-cves-2026-11-11T15-19-18-774163Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-11 14:17:27 | [CVE-2026-0470](https://nvd.nist.gov/vuln/detail/CVE-2026-0470) | Medium | 6.8 | Null pointer dereference in AMD Embedded SPI Flash driver could allow a local user to potentially cause a loss of avail… |
-| 2026-11-11 14:17:32 | [CVE-2026-123040](https://nvd.nist.gov/vuln/detail/CVE-2026-123040) | High | 8.5 | An attacker who gains the ability to execute arbitrary code on a system with TrueConf Server (Linux) versions from 4.7.… |
-| 2026-11-11 14:17:35 | [CVE-2026-125838](https://nvd.nist.gov/vuln/detail/CVE-2026-125838) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Quality quality allows Cross Site Request Forgery.This issue… |
-| 2026-11-11 14:17:35 | [CVE-2026-125839](https://nvd.nist.gov/vuln/detail/CVE-2026-125839) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti ElitePress elitepress allows Cross Site Request Forgery.This… |
-| 2026-11-11 14:17:35 | [CVE-2026-125840](https://nvd.nist.gov/vuln/detail/CVE-2026-125840) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Rambo rambo allows Cross Site Request Forgery.This issue aff… |
-| 2026-11-11 14:17:36 | [CVE-2026-125841](https://nvd.nist.gov/vuln/detail/CVE-2026-125841) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Heroic heroic allows Cross Site Request Forgery.This issue a… |
-| 2026-11-11 14:17:36 | [CVE-2026-125842](https://nvd.nist.gov/vuln/detail/CVE-2026-125842) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Wallstreet Agency wallstreet-agency allows Cross Site Reques… |
-| 2026-11-11 14:17:36 | [CVE-2026-125843](https://nvd.nist.gov/vuln/detail/CVE-2026-125843) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Spasalon spasalon allows Cross Site Request Forgery.This iss… |
-| 2026-11-11 14:17:36 | [CVE-2026-125844](https://nvd.nist.gov/vuln/detail/CVE-2026-125844) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti vice vice allows Cross Site Request Forgery.This issue affec… |
-| 2026-11-11 14:17:36 | [CVE-2026-125845](https://nvd.nist.gov/vuln/detail/CVE-2026-125845) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti vdequator vdequator allows Cross Site Request Forgery.This i… |
-| 2026-11-11 14:17:36 | [CVE-2026-125846](https://nvd.nist.gov/vuln/detail/CVE-2026-125846) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Mazino mazino allows Cross Site Request Forgery.This issue a… |
-| 2026-11-11 14:17:37 | [CVE-2026-125847](https://nvd.nist.gov/vuln/detail/CVE-2026-125847) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti vdperanto vdperanto allows Cross Site Request Forgery.This i… |
-| 2026-11-11 14:17:37 | [CVE-2026-125848](https://nvd.nist.gov/vuln/detail/CVE-2026-125848) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Leo leo allows Cross Site Request Forgery.This issue affects… |
-| 2026-11-11 14:17:37 | [CVE-2026-125849](https://nvd.nist.gov/vuln/detail/CVE-2026-125849) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Shk Corporate shk-corporate allows Cross Site Request Forger… |
-| 2026-11-11 14:17:37 | [CVE-2026-125850](https://nvd.nist.gov/vuln/detail/CVE-2026-125850) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in webriti Appointment Dark appointment-dark allows Cross Site Request… |
-| 2026-11-11 14:17:40 | [CVE-2026-40853](https://nvd.nist.gov/vuln/detail/CVE-2026-40853) |  |  | A Cross-Site Scripting via Unencoded Font Metadata in Apache Batik SVGFont. This issue affects Apache XML Graphics Bati… |
-| 2026-11-11 14:17:41 | [CVE-2026-48479](https://nvd.nist.gov/vuln/detail/CVE-2026-48479) | Medium | 6.9 | Use of uninitialized or invalid state in AMD Graphics Driver could allow a local attacker to write out of bounds, poten… |
-| 2026-11-11 14:17:43 | [CVE-2026-49236](https://nvd.nist.gov/vuln/detail/CVE-2026-49236) |  |  | Server-Side Request Forgery (SSRF) vulnerability in Apache XML Graphics Batik. SVG color-profile xml:base bypasses Bati… |
+| 2026-11-11 15:17:12 | [CVE-2026-102589](https://nvd.nist.gov/vuln/detail/CVE-2026-102589) | High | 7.1 | When independent Grafana instances share the same [rendering] renderer_token, an image renderer key issued by one insta… |
+| 2026-11-11 15:17:13 | [CVE-2026-106023](https://nvd.nist.gov/vuln/detail/CVE-2026-106023) |  |  | NULL pointer dereference vulnerability in Apache HTTP Server's mod_md during HTTP request processing. This issue affect… |
+| 2026-11-11 15:17:13 | [CVE-2026-107509](https://nvd.nist.gov/vuln/detail/CVE-2026-107509) | Medium | 6.5 | A user with the Viewer role can make Grafana allocate an unbounded amount of memory, and crash it, with a single SQL Ex… |
+| 2026-11-11 15:17:14 | [CVE-2026-109163](https://nvd.nist.gov/vuln/detail/CVE-2026-109163) |  |  | Stack-based buffer overflow vulnerability in Apache HTTP Server's mod_vhost_alias (after CVE-2026-63292) This issue aff… |
+| 2026-11-11 15:17:14 | [CVE-2026-110289](https://nvd.nist.gov/vuln/detail/CVE-2026-110289) | Medium | 5.5 | A user with the Organization Admin role could point the server or token URL of a Git Sync connection at a loopback or i… |
+| 2026-11-11 15:17:14 | [CVE-2026-110992](https://nvd.nist.gov/vuln/detail/CVE-2026-110992) | Medium | 6.5 | A user who can create Git Sync provisioning jobs (the Editor role by default) could delete or move files outside the co… |
+| 2026-11-11 15:17:14 | [CVE-2026-111000](https://nvd.nist.gov/vuln/detail/CVE-2026-111000) | High | 7.1 | A user with the Editor role who can edit a folder can move it, through the folders resource API, under a folder they ad… |
+| 2026-11-11 15:17:14 | [CVE-2026-111024](https://nvd.nist.gov/vuln/detail/CVE-2026-111024) | High | 7.1 | A user with the Viewer or Editor role could bypass folder permissions on Git Sync managed resources through the reposit… |
+| 2026-11-11 15:17:15 | [CVE-2026-119618](https://nvd.nist.gov/vuln/detail/CVE-2026-119618) |  |  | Concurrent Execution using Shared Resource with Improper Synchronization vulnerability in Apache HTTP Server's mod_http… |
+| 2026-11-11 15:17:18 | [CVE-2026-123710](https://nvd.nist.gov/vuln/detail/CVE-2026-123710) | Critical | 9.8 | A flaw was found in Red Hat Quay. An unauthenticated client can obtain an anonymous registry token with an audience it… |
+| 2026-11-11 15:17:19 | [CVE-2026-124746](https://nvd.nist.gov/vuln/detail/CVE-2026-124746) | Medium | 5.5 | A flaw was found in BusyBox. An integer overflow occurs in the volume_id component when calculating buffer boundaries w… |
+| 2026-11-11 15:17:22 | [CVE-2026-126325](https://nvd.nist.gov/vuln/detail/CVE-2026-126325) | Critical | 9.2 | A critical remote code execution (RCE) vulnerability has been reported in PTC Windchill and PTC FlexPLM. The vulnerabil… |
+| 2026-11-11 15:17:22 | [CVE-2026-13721](https://nvd.nist.gov/vuln/detail/CVE-2026-13721) | Medium | 6.5 | A user with edit access to one folder could modify, move or delete Git Sync provisioned resources in folders where they… |
+| 2026-11-11 15:17:22 | [CVE-2026-14242](https://nvd.nist.gov/vuln/detail/CVE-2026-14242) | Medium | 6.5 | A user with the Editor role could delete, move, push or pull Git Sync managed resources in folders where they only had… |
+| 2026-11-11 15:17:23 | [CVE-2026-44929](https://nvd.nist.gov/vuln/detail/CVE-2026-44929) |  |  | Server-Side Request Forgery (SSRF) vulnerability in Apache XML Graphics Batik. This issue affects Apache XML Graphics B… |
+| 2026-11-11 15:17:24 | [CVE-2026-71395](https://nvd.nist.gov/vuln/detail/CVE-2026-71395) |  |  | unsafe deserialization in hyphenation loading vulnerability in Apache XML Graphics FOP. This issue affects Apache XML G… |
+| 2026-11-11 15:17:25 | [CVE-2026-82014](https://nvd.nist.gov/vuln/detail/CVE-2026-82014) | Medium | 4.3 | Any authenticated user, including a Viewer, could change the preferences of any team, such as its home dashboard, theme… |
+| 2026-11-11 15:17:25 | [CVE-2026-85632](https://nvd.nist.gov/vuln/detail/CVE-2026-85632) | Critical | 9.1 | Missing authentication for critical function and Improper validation of integrity check value vulnerability in Sipay El… |
+| 2026-11-11 15:17:25 | [CVE-2026-89326](https://nvd.nist.gov/vuln/detail/CVE-2026-89326) |  |  | Origin Validation Error vulnerability in Apache XML Graphics Batik: the external resource same-origin check does not co… |
 
 ## Data source
 
