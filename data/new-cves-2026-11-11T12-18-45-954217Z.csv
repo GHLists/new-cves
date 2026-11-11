@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-11T12:18:14.7Z,CVE-2026-103883,HIGH,8.8,Deferred,CWE-287,6,"The 6Storage Rentals plugin for WordPress is vulnerable to Authentication Bypass leading to Administrator Account Takeover in all versions up to, and including, 2.31.0. The vulnerability exists because the `six_storage_portal_registration()` AJAX handler — registered on `wp_ajax_six_storage_portal_…"
