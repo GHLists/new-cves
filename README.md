@@ -9,30 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:18 UTC
+## Latest list — 2026-11-11 09:21 UTC
 
-New CVEs published between 2026-11-11 07:19 UTC and 2026-11-11 08:18 UTC.
+New CVEs published between 2026-11-11 08:18 UTC and 2026-11-11 09:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-11T08-18-48-307758Z.csv)
+[Full CSV](data/new-cves-2026-11-11T09-21-40-838457Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-11 08:17:16 | [CVE-2025-59847](https://nvd.nist.gov/vuln/detail/CVE-2025-59847) | Medium | 6.8 | HCL Domino Leap is vulnerable to Stored XSS through malicious application titles in Manage page dialogs, allowing an at… |
-| 2026-11-11 08:17:16 | [CVE-2025-59848](https://nvd.nist.gov/vuln/detail/CVE-2025-59848) | Medium | 6.8 | HCL Leap is vulnerable to Stored XSS through malicious application titles in the Manage page dialogs, allowing an attac… |
-| 2026-11-11 08:17:16 | [CVE-2026-105948](https://nvd.nist.gov/vuln/detail/CVE-2026-105948) | High | 7.7 | In affected versions of Octopus Server, incorrect validation of permissions assigned to a user that would allow them to… |
-| 2026-11-11 08:17:16 | [CVE-2026-111190](https://nvd.nist.gov/vuln/detail/CVE-2026-111190) | High | 8.1 | The ARForms plugin for WordPress is vulnerable to arbitrary file upload in all versions up to, and including, 7.2.4 via… |
-| 2026-11-11 08:17:17 | [CVE-2026-116468](https://nvd.nist.gov/vuln/detail/CVE-2026-116468) | Medium | 6.6 | A flaw was found in the group-move and organization group reparenting endpoints of the keycloak-services component. Thi… |
-| 2026-11-11 08:17:17 | [CVE-2026-119171](https://nvd.nist.gov/vuln/detail/CVE-2026-119171) | Medium | 5.3 | The Advanced Product Fields (Product Addons) for WooCommerce WordPress plugin from 1.6.22 to 1.7.3 does not validate th… |
-| 2026-11-11 08:17:17 | [CVE-2026-119302](https://nvd.nist.gov/vuln/detail/CVE-2026-119302) | Medium | 6.5 | The NotificationX WordPress plugin before 3.3.7 does not perform any capability, authentication or nonce check on its n… |
-| 2026-11-11 08:17:17 | [CVE-2026-123659](https://nvd.nist.gov/vuln/detail/CVE-2026-123659) | Medium | 5.3 | The ProfilePress WordPress plugin before 4.17.6 does not restrict the role and user meta filters its member directories… |
-| 2026-11-11 08:17:17 | [CVE-2026-123668](https://nvd.nist.gov/vuln/detail/CVE-2026-123668) | Medium | 5.3 | The GetPaid WordPress plugin from 2.8.63 to 2.8.64 does not ensure item quantities on its payment forms are whole numbe… |
-| 2026-11-11 08:17:17 | [CVE-2026-12062](https://nvd.nist.gov/vuln/detail/CVE-2026-12062) | High | 8.8 | Zoho Corporation ManageEngine ADAudit Plus versions below 8703 are vulnerable to an authenticated SQL injection vulnera… |
-| 2026-11-11 08:17:18 | [CVE-2026-12424](https://nvd.nist.gov/vuln/detail/CVE-2026-12424) | High | 7.2 | The ARforms plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Referer Header in all versions up to,… |
-| 2026-11-11 08:17:18 | [CVE-2026-12427](https://nvd.nist.gov/vuln/detail/CVE-2026-12427) | High | 7.2 | The ARforms plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'description' parameter in all ve… |
-| 2026-11-11 08:17:18 | [CVE-2026-15785](https://nvd.nist.gov/vuln/detail/CVE-2026-15785) | Medium | 6.1 | The Joinchat – Enhanced "click to chat" plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via '{HREF… |
-| 2026-11-11 08:17:18 | [CVE-2026-76981](https://nvd.nist.gov/vuln/detail/CVE-2026-76981) | High | 8.8 | Zoho Corporation ManageEngine ADAudit Plus versions below 8711 are vulnerable to an authenticated second order SQL inje… |
-| 2026-11-11 08:17:18 | [CVE-2026-92408](https://nvd.nist.gov/vuln/detail/CVE-2026-92408) | Medium | 5.3 | The WPS Bookings for WooCommerce WordPress plugin before 3.13.1 does not validate a price value taken from user input b… |
-| 2026-11-11 08:17:19 | [CVE-2026-93487](https://nvd.nist.gov/vuln/detail/CVE-2026-93487) | High | 7.1 | In affected versions of Octopus Server, incorrect validation of the permissions assigned to a user that would allow the… |
+| 2026-11-11 09:17:11 | [CVE-2026-126607](https://nvd.nist.gov/vuln/detail/CVE-2026-126607) | High | 7.8 | Progressive Robot hMailServer 6.2.3 through 6.3.7 on Windows, with a MySQL or MariaDB database, hands the bundled Maria… |
+| 2026-11-11 09:17:12 | [CVE-2026-126609](https://nvd.nist.gov/vuln/detail/CVE-2026-126609) | High | 7.5 | Progressive Robot hMailServer 6.2.25 through 6.3.7 on Windows, with a PostgreSQL database, the connection's sslmode req… |
+| 2026-11-11 09:17:12 | [CVE-2026-126610](https://nvd.nist.gov/vuln/detail/CVE-2026-126610) | High | 7.4 | Progressive Robot hMailServer 6.3.4 through 6.3.7, with a MySQL or MariaDB database and TlsMode=verify-full, does not h… |
+| 2026-11-11 09:17:12 | [CVE-2026-126611](https://nvd.nist.gov/vuln/detail/CVE-2026-126611) | High | 7.0 | Progressive Robot hMailServer 6.3.4 through 6.3.7, with a MySQL or MariaDB database, TlsMode=verify-full and no TlsCaFi… |
+| 2026-11-11 09:17:13 | [CVE-2026-126612](https://nvd.nist.gov/vuln/detail/CVE-2026-126612) | High | 7.8 | Improper link resolution in the Windows installer of Progressive Robot hMailServer 6.0.0 through 6.3.7 allows a local a… |
+| 2026-11-11 09:17:13 | [CVE-2026-126613](https://nvd.nist.gov/vuln/detail/CVE-2026-126613) | High | 7.5 | Allocation of resources without limits in the JSON reader of Progressive Robot hMailServer 6.3.2 through 6.3.7 allows a… |
+| 2026-11-11 09:17:13 | [CVE-2026-126614](https://nvd.nist.gov/vuln/detail/CVE-2026-126614) | Medium | 5.3 | The web services listener of Progressive Robot hMailServer 6.3.3 through 6.3.7 does not apply the server's IP ranges to… |
+| 2026-11-11 09:17:13 | [CVE-2026-126615](https://nvd.nist.gov/vuln/detail/CVE-2026-126615) | Medium | 5.3 | The sign-in of Progressive Robot hMailServer 6.2.22-pre2 through 6.3.7 takes for an account names that are not its addr… |
+| 2026-11-11 09:17:13 | [CVE-2026-126616](https://nvd.nist.gov/vuln/detail/CVE-2026-126616) | Medium | 5.3 | The auto-ban of Progressive Robot hMailServer 6.2.0 through 6.3.3, with a MySQL or MariaDB database, can be kept from b… |
+| 2026-11-11 09:17:13 | [CVE-2026-126617](https://nvd.nist.gov/vuln/detail/CVE-2026-126617) | High | 8.8 | SQL injection in the database layer of Progressive Robot hMailServer 6.0.0-B1 through 6.2.18, when the server uses MySQ… |
+| 2026-11-11 09:17:14 | [CVE-2026-126619](https://nvd.nist.gov/vuln/detail/CVE-2026-126619) | Medium | 4.8 | Misinterpretation of SQL statement text in the database layer of Progressive Robot hMailServer 6.0.0-B1 through 6.3.7 a… |
+| 2026-11-11 09:17:14 | [CVE-2026-126621](https://nvd.nist.gov/vuln/detail/CVE-2026-126621) | High | 7.5 | Progressive Robot hMailServer 6.0.0-B1 through 6.3.7 on Windows hands OpenSSL the names of its own TLS files - the list… |
+| 2026-11-11 09:17:14 | [CVE-2026-126622](https://nvd.nist.gov/vuln/detail/CVE-2026-126622) | High | 7.3 | Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.3.7 allow a local authenticat… |
+| 2026-11-11 09:17:14 | [CVE-2026-126623](https://nvd.nist.gov/vuln/detail/CVE-2026-126623) | High | 7.5 | Inefficient algorithmic complexity in the JSON reader of Progressive Robot hMailServer 6.3.6 and 6.3.7 allows a remote… |
+| 2026-11-11 09:17:14 | [CVE-2026-126624](https://nvd.nist.gov/vuln/detail/CVE-2026-126624) | High | 7.3 | Unverified ownership in the Windows installer of Progressive Robot hMailServer 6.3.7 allows a local authenticated user… |
+| 2026-11-11 09:17:14 | [CVE-2026-126625](https://nvd.nist.gov/vuln/detail/CVE-2026-126625) | Medium | 6.7 | Incorrect default permissions in the Windows installer of Progressive Robot hMailServer 6.3.7 allow a local authenticat… |
+| 2026-11-11 09:17:14 | [CVE-2026-126626](https://nvd.nist.gov/vuln/detail/CVE-2026-126626) | Medium | 5.3 | The web services listener of Progressive Robot hMailServer 6.3.3 through 6.3.7 counts every failed CardDAV, CalDAV or A… |
+| 2026-11-11 09:17:14 | [CVE-2026-126618](https://nvd.nist.gov/vuln/detail/CVE-2026-126618) | Medium | 5.3 | The auto-ban of Progressive Robot hMailServer 6.0.0-B1 through 6.3.7 can be kept from banning an address after repeated… |
+| 2026-11-11 09:17:15 | [CVE-2026-18767](https://nvd.nist.gov/vuln/detail/CVE-2026-18767) | High | 8.5 | A local low privileged attacker or process can access I/O ports via TcRouter.sys because of exposed IOCTL function call… |
+| 2026-11-11 09:17:15 | [CVE-2026-18768](https://nvd.nist.gov/vuln/detail/CVE-2026-18768) | High | 8.5 | A local low privileged attacker can access arbitrary physical memory or define its mapping via TcRouter.sys because of… |
+| 2026-11-11 09:17:15 | [CVE-2026-18769](https://nvd.nist.gov/vuln/detail/CVE-2026-18769) | High | 8.5 | A local low privileged attacker can move arbitrary physical memory content via TcRouter.sys because of exposed IOCTL fu… |
 
 ## Data source
 
