@@ -9,24 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 10:18 UTC
+## Latest list — 2026-11-12 11:21 UTC
 
-New CVEs published between 2026-11-12 09:18 UTC and 2026-11-12 10:18 UTC.
+New CVEs published between 2026-11-12 10:18 UTC and 2026-11-12 11:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T10-18-53-831066Z.csv)
+[Full CSV](data/new-cves-2026-11-12T11-21-44-166666Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 10:17:26 | [CVE-2026-106140](https://nvd.nist.gov/vuln/detail/CVE-2026-106140) | High | 7.3 | In Progress® Telerik® Reporting prior to version 20.3.26.1110, a deserialization of untrusted data vulnerability in the… |
-| 2026-11-12 10:17:28 | [CVE-2026-117474](https://nvd.nist.gov/vuln/detail/CVE-2026-117474) |  |  | Rejected reason: none |
-| 2026-11-12 10:17:28 | [CVE-2026-117475](https://nvd.nist.gov/vuln/detail/CVE-2026-117475) |  |  | Rejected reason: none |
-| 2026-11-12 10:17:28 | [CVE-2026-117476](https://nvd.nist.gov/vuln/detail/CVE-2026-117476) |  |  | Rejected reason: none |
-| 2026-11-12 10:17:28 | [CVE-2026-118975](https://nvd.nist.gov/vuln/detail/CVE-2026-118975) | Medium | 6.5 | In Progress® Telerik® Reporting prior to version 20.3.26.1110, improper restriction of XML external entity references i… |
-| 2026-11-12 10:17:28 | [CVE-2026-123765](https://nvd.nist.gov/vuln/detail/CVE-2026-123765) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS.… |
-| 2026-11-12 10:17:28 | [CVE-2026-124617](https://nvd.nist.gov/vuln/detail/CVE-2026-124617) |  |  | Rejected reason: 歸類為 JSONCPP Open Source 之問題 |
-| 2026-11-12 10:17:28 | [CVE-2026-124699](https://nvd.nist.gov/vuln/detail/CVE-2026-124699) | High | 7.8 | In Telerik UI for WinForms, versions prior to 2026.4.1111, an improper control of code generation vulnerability exists… |
-| 2026-11-12 10:17:28 | [CVE-2026-127016](https://nvd.nist.gov/vuln/detail/CVE-2026-127016) | Critical | 9.2 | The MISP Modules website component exposes external tool management endpoints (add, delete, change status, and change c… |
-| 2026-11-12 10:17:29 | [CVE-2026-76173](https://nvd.nist.gov/vuln/detail/CVE-2026-76173) | High | 8.8 | Blind SQL injection vulnerability in the public endpoint `public/webhook/receiver.php` of the WhatsApp module for Dolib… |
+| 2026-11-12 11:17:10 | [CVE-2026-124023](https://nvd.nist.gov/vuln/detail/CVE-2026-124023) |  |  | Out-of-bounds Read vulnerability in the Guththila XML parser wrapper of Apache Axis2/C. On some malformed XML input the… |
+| 2026-11-12 11:17:10 | [CVE-2026-124701](https://nvd.nist.gov/vuln/detail/CVE-2026-124701) | High | 7.8 | In Telerik UI for WinForms, versions prior to 2026.4.1111, a deserialization of untrusted data vulnerability exists tha… |
+| 2026-11-12 11:17:10 | [CVE-2026-124703](https://nvd.nist.gov/vuln/detail/CVE-2026-124703) | High | 7.8 | In Telerik UI for WPF, versions prior to 2026.4.1110, an improper control of code generation vulnerability exists that… |
+| 2026-11-12 11:17:10 | [CVE-2026-124704](https://nvd.nist.gov/vuln/detail/CVE-2026-124704) | High | 7.8 | In Telerik UI for WPF, versions prior to 2026.4.1110, a deserialization of untrusted data vulnerability exists that all… |
+| 2026-11-12 11:17:11 | [CVE-2026-126641](https://nvd.nist.gov/vuln/detail/CVE-2026-126641) | Medium | 6.5 | A host key verification flaw was found in ansible-pylibssh and in the ansible.netcommon libssh connection plugin. When… |
+| 2026-11-12 11:17:11 | [CVE-2026-126643](https://nvd.nist.gov/vuln/detail/CVE-2026-126643) | Medium | 6.5 | A cleartext storage flaw was found in the AAP Gateway Operator. When reconciling an AutomationController, the operator… |
+| 2026-11-12 11:17:11 | [CVE-2026-126644](https://nvd.nist.gov/vuln/detail/CVE-2026-126644) | Low | 3.9 | A link-following flaw was found in the authorized_key module of the ansible.posix collection, residual to the fix for C… |
 
 ## Data source
 
