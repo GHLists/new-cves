@@ -9,15 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 00:19 UTC
+## Latest list — 2026-11-12 01:18 UTC
 
-New CVEs published between 2026-11-11 23:19 UTC and 2026-11-12 00:19 UTC.
+New CVEs published between 2026-11-12 00:19 UTC and 2026-11-12 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T00-19-04-025106Z.csv)
+[Full CSV](data/new-cves-2026-11-12T01-18-42-765099Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 00:17:14 | [CVE-2026-126759](https://nvd.nist.gov/vuln/detail/CVE-2026-126759) | Medium | 5.5 | A flaw has been found in H3C ICG2000 Unified Communication Gateway 2023. This issue affects some unknown processing of… |
+| 2026-11-12 01:17:11 | [CVE-2026-125785](https://nvd.nist.gov/vuln/detail/CVE-2026-125785) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Crocoblock JetEng… |
+| 2026-11-12 01:17:11 | [CVE-2026-125786](https://nvd.nist.gov/vuln/detail/CVE-2026-125786) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in ExpressTech Quiz And Sur… |
+| 2026-11-12 01:17:11 | [CVE-2026-125787](https://nvd.nist.gov/vuln/detail/CVE-2026-125787) | Medium | 5.4 | Missing Authorization vulnerability in ExpressTech Quiz And Survey Master quiz-master-next allows Exploiting Incorrectl… |
+| 2026-11-12 01:17:11 | [CVE-2026-126673](https://nvd.nist.gov/vuln/detail/CVE-2026-126673) |  |  | Data::Dump::Streamer versions before 3.00 for Perl allow code injection via unescaped Regexp patterns in _dump_qr. A Re… |
+| 2026-11-12 01:17:11 | [CVE-2026-126785](https://nvd.nist.gov/vuln/detail/CVE-2026-126785) | Critical | 9.3 | A vulnerability has been found in rmalright TR-VISION HOME 2.0.5. Impacted is the function sub_11504 in the library WFa… |
 
 ## Data source
 
