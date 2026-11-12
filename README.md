@@ -9,28 +9,30 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:18 UTC
+## Latest list — 2026-11-12 14:18 UTC
 
-New CVEs published between 2026-11-12 12:21 UTC and 2026-11-12 13:18 UTC.
+New CVEs published between 2026-11-12 13:18 UTC and 2026-11-12 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T13-18-45-373562Z.csv)
+[Full CSV](data/new-cves-2026-11-12T14-18-44-714271Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 13:17:08 | [CVE-2026-110951](https://nvd.nist.gov/vuln/detail/CVE-2026-110951) | High | 7.5 | Weak Password Recovery Mechanism for Forgotten Password vulnerability in Hyper Teknoloji Ltd. Şti. Hyper E-Commerce Inf… |
-| 2026-11-12 13:17:09 | [CVE-2026-111552](https://nvd.nist.gov/vuln/detail/CVE-2026-111552) | High | 7.1 | Use of single-factor authentication vulnerability in Hyper Teknoloji Ltd. Şti. Hyper E-Commerce Infrastructure, Hyper T… |
-| 2026-11-12 13:17:11 | [CVE-2026-123139](https://nvd.nist.gov/vuln/detail/CVE-2026-123139) | Medium | 5.8 | Improper verification of the source of a communication channel vulnerability in Opera Neon on macOS and Windows allows… |
-| 2026-11-12 13:17:15 | [CVE-2026-125285](https://nvd.nist.gov/vuln/detail/CVE-2026-125285) | High | 8.8 | Authentication bypass using an alternate path or channel vulnerability in TIBCO TIBCO Platform’s Self-Hosted Control Pl… |
-| 2026-11-12 13:17:15 | [CVE-2026-125870](https://nvd.nist.gov/vuln/detail/CVE-2026-125870) | Low | 2.3 | BookStack before 26.09.3 contains a missing authorization vulnerability in ImageController::checkImagePermission() that… |
-| 2026-11-12 13:17:15 | [CVE-2026-126993](https://nvd.nist.gov/vuln/detail/CVE-2026-126993) | Medium | 5.5 | A security flaw has been discovered in SiteServer SSCMS up to 7.2.2. Impacted is an unknown function of the file /api/v… |
-| 2026-11-12 13:17:15 | [CVE-2026-126994](https://nvd.nist.gov/vuln/detail/CVE-2026-126994) | Low | 2.1 | A vulnerability has been found in braindecode up to 1.8.1. Affected is the function resolve_type_kwargs of the file bra… |
-| 2026-11-12 13:17:16 | [CVE-2026-127050](https://nvd.nist.gov/vuln/detail/CVE-2026-127050) | High | 7.1 | Backup Migration before 2.1.8 for WordPress contains a path traversal vulnerability in its PclZip restore fallback that… |
-| 2026-11-12 13:17:16 | [CVE-2026-127056](https://nvd.nist.gov/vuln/detail/CVE-2026-127056) | High | 8.7 | PapaParse before 5.7.1 contains an inefficient algorithmic complexity vulnerability that allows remote unauthenticated… |
-| 2026-11-12 13:17:16 | [CVE-2026-19422](https://nvd.nist.gov/vuln/detail/CVE-2026-19422) | Critical | 9.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authentication bypass vulnerability in Windows… |
-| 2026-11-12 13:17:16 | [CVE-2026-75864](https://nvd.nist.gov/vuln/detail/CVE-2026-75864) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an improper authorization vulnerability that allow… |
-| 2026-11-12 13:17:16 | [CVE-2026-75867](https://nvd.nist.gov/vuln/detail/CVE-2026-75867) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass vulnerability that allowed… |
-| 2026-11-12 13:17:16 | [CVE-2026-75868](https://nvd.nist.gov/vuln/detail/CVE-2026-75868) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass vulnerability that allowed… |
-| 2026-11-12 13:17:16 | [CVE-2026-75869](https://nvd.nist.gov/vuln/detail/CVE-2026-75869) | High | 8.8 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass and PowerShell command inj… |
+| 2026-11-12 14:17:22 | [CVE-2026-107484](https://nvd.nist.gov/vuln/detail/CVE-2026-107484) | High | 7.3 | An input and authorization validation vulnerability in Gaia Portal backend handlers could allow an authenticated, non-a… |
+| 2026-11-12 14:17:23 | [CVE-2026-114466](https://nvd.nist.gov/vuln/detail/CVE-2026-114466) | Medium | 4.4 | Arbitrary data can be read or written through git-fast-import(1) and git-fast-export(1) features not marked unsafe |
+| 2026-11-12 14:17:23 | [CVE-2026-114467](https://nvd.nist.gov/vuln/detail/CVE-2026-114467) | Low | 3.3 | Out-of-bounds write possible in Git when git-merge(1) used on tag with more than two GPG signatures |
+| 2026-11-12 14:17:23 | [CVE-2026-114469](https://nvd.nist.gov/vuln/detail/CVE-2026-114469) | Medium | 4.4 | Out-of-bounds read can crash git-apply(1) when binary patch inflates to very large size |
+| 2026-11-12 14:17:23 | [CVE-2026-116835](https://nvd.nist.gov/vuln/detail/CVE-2026-116835) | High | 8.7 | In affected versions of Octopus Server, insufficient validation of custom claims on OIDC accounts allowed a user with p… |
+| 2026-11-12 14:17:23 | [CVE-2026-120490](https://nvd.nist.gov/vuln/detail/CVE-2026-120490) | Low | 3.8 | On Scalable Platforms, an administrator with permissions to edit and install the Access Control Policy and NAT rules ca… |
+| 2026-11-12 14:17:23 | [CVE-2026-120869](https://nvd.nist.gov/vuln/detail/CVE-2026-120869) | Critical | 9.3 | An unauthenticated attacker can bypass authentication controls to access restricted resources on the Citrix NetScaler C… |
+| 2026-11-12 14:17:24 | [CVE-2026-123039](https://nvd.nist.gov/vuln/detail/CVE-2026-123039) | High | 7.8 | The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without a… |
+| 2026-11-12 14:17:27 | [CVE-2026-124018](https://nvd.nist.gov/vuln/detail/CVE-2026-124018) | Medium | 5.3 | Gutenverse Form plugin for WordPress before 3.2.2 contains a CSV formula injection vulnerability that allows unauthenti… |
+| 2026-11-12 14:17:28 | [CVE-2026-124627](https://nvd.nist.gov/vuln/detail/CVE-2026-124627) | High | 8.7 | In affected versions of Octopus Server, incorrect validation of the external identity linked to a newly registered user… |
+| 2026-11-12 14:17:28 | [CVE-2026-124628](https://nvd.nist.gov/vuln/detail/CVE-2026-124628) | High | 8.7 | In affected versions of Octopus Server, incorrect validation of changes a user made to their own LDAP identity allowed… |
+| 2026-11-12 14:17:28 | [CVE-2026-126995](https://nvd.nist.gov/vuln/detail/CVE-2026-126995) | Low | 2.1 | A vulnerability was found in tjake Jlama up to 0.8.4/0.9.0-beta. Affected by this vulnerability is the function SafeTen… |
+| 2026-11-12 14:17:29 | [CVE-2026-127058](https://nvd.nist.gov/vuln/detail/CVE-2026-127058) | Medium | 6.9 | WonderCMS before 3.7.0 contains an unverified password change vulnerability in the saveAction functionality that allows… |
+| 2026-11-12 14:17:30 | [CVE-2026-71367](https://nvd.nist.gov/vuln/detail/CVE-2026-71367) | Medium | 4.3 | An incorrect authorization vulnerability was found in AWX's WebSocket consumer. The consumer_access() function only enf… |
+| 2026-11-12 14:17:30 | [CVE-2026-92083](https://nvd.nist.gov/vuln/detail/CVE-2026-92083) | High | 7.8 | Missing Authorization vulnerability in TÜBİTAK BİLGEM Yazılım Teknolojileri Araştırma Enstitüsü pardus-image-writer all… |
+| 2026-11-12 14:17:30 | [CVE-2026-97845](https://nvd.nist.gov/vuln/detail/CVE-2026-97845) | Medium | 4.3 | An uncontrolled recursion vulnerability has been discovered in the Qt QXmlSimpleReader XML parsing functionality of the… |
 
 ## Data source
 
