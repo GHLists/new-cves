@@ -9,17 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 09:18 UTC
+## Latest list — 2026-11-12 10:18 UTC
 
-New CVEs published between 2026-11-12 08:18 UTC and 2026-11-12 09:18 UTC.
+New CVEs published between 2026-11-12 09:18 UTC and 2026-11-12 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T09-18-42-578252Z.csv)
+[Full CSV](data/new-cves-2026-11-12T10-18-53-831066Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 09:16:39 | [CVE-2026-110003](https://nvd.nist.gov/vuln/detail/CVE-2026-110003) | Critical | 9.3 | A vulnerability in the administration REST interface of Azul Payara allows a remote, unauthenticated attacker to bypass… |
-| 2026-11-12 09:16:40 | [CVE-2026-126642](https://nvd.nist.gov/vuln/detail/CVE-2026-126642) | Medium | 6.5 | An incorrect authorization flaw was found in AWX, the automation controller component of Red Hat Ansible Automation Pla… |
-| 2026-11-12 09:16:40 | [CVE-2026-90908](https://nvd.nist.gov/vuln/detail/CVE-2026-90908) | Critical | 9.3 | A vulnerability in the GenericAdminAuthenticator component of Azul Payara Server and Azul Payara Micro allows a remote,… |
+| 2026-11-12 10:17:26 | [CVE-2026-106140](https://nvd.nist.gov/vuln/detail/CVE-2026-106140) | High | 7.3 | In Progress® Telerik® Reporting prior to version 20.3.26.1110, a deserialization of untrusted data vulnerability in the… |
+| 2026-11-12 10:17:28 | [CVE-2026-117474](https://nvd.nist.gov/vuln/detail/CVE-2026-117474) |  |  | Rejected reason: none |
+| 2026-11-12 10:17:28 | [CVE-2026-117475](https://nvd.nist.gov/vuln/detail/CVE-2026-117475) |  |  | Rejected reason: none |
+| 2026-11-12 10:17:28 | [CVE-2026-117476](https://nvd.nist.gov/vuln/detail/CVE-2026-117476) |  |  | Rejected reason: none |
+| 2026-11-12 10:17:28 | [CVE-2026-118975](https://nvd.nist.gov/vuln/detail/CVE-2026-118975) | Medium | 6.5 | In Progress® Telerik® Reporting prior to version 20.3.26.1110, improper restriction of XML external entity references i… |
+| 2026-11-12 10:17:28 | [CVE-2026-123765](https://nvd.nist.gov/vuln/detail/CVE-2026-123765) |  |  | Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Apache Sling XSS.… |
+| 2026-11-12 10:17:28 | [CVE-2026-124617](https://nvd.nist.gov/vuln/detail/CVE-2026-124617) |  |  | Rejected reason: 歸類為 JSONCPP Open Source 之問題 |
+| 2026-11-12 10:17:28 | [CVE-2026-124699](https://nvd.nist.gov/vuln/detail/CVE-2026-124699) | High | 7.8 | In Telerik UI for WinForms, versions prior to 2026.4.1111, an improper control of code generation vulnerability exists… |
+| 2026-11-12 10:17:28 | [CVE-2026-127016](https://nvd.nist.gov/vuln/detail/CVE-2026-127016) | Critical | 9.2 | The MISP Modules website component exposes external tool management endpoints (add, delete, change status, and change c… |
+| 2026-11-12 10:17:29 | [CVE-2026-76173](https://nvd.nist.gov/vuln/detail/CVE-2026-76173) | High | 8.8 | Blind SQL injection vulnerability in the public endpoint `public/webhook/receiver.php` of the WhatsApp module for Dolib… |
 
 ## Data source
 
