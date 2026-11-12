@@ -9,31 +9,52 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 19:21 UTC
+## Latest list — 2026-11-12 20:20 UTC
 
-New CVEs published between 2026-11-12 18:20 UTC and 2026-11-12 19:21 UTC.
+New CVEs published between 2026-11-12 19:21 UTC and 2026-11-12 20:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T19-21-07-554583Z.csv)
+[Full CSV](data/new-cves-2026-11-12T20-20-49-263493Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 19:16:44 | [CVE-2024-21954](https://nvd.nist.gov/vuln/detail/CVE-2024-21954) | High | 7.0 | Improper exception handling in IOMMU could allow an invalidate command to be sent to PCIe devices that do not support A… |
-| 2026-11-12 19:16:45 | [CVE-2025-54501](https://nvd.nist.gov/vuln/detail/CVE-2025-54501) | Medium | 5.9 | Improper access control on an internal debug interface could allow a high privileged attacker to bypass memory access c… |
-| 2026-11-12 19:16:45 | [CVE-2026-0004](https://nvd.nist.gov/vuln/detail/CVE-2026-0004) | Medium | 5.7 | A transient execution vulnerability in some AMD processors may allow an attacker with the ability to execute code on th… |
-| 2026-11-12 19:16:45 | [CVE-2026-0101](https://nvd.nist.gov/vuln/detail/CVE-2026-0101) | Medium | 6.8 | Improper validation of specified quantities in input within AMD Power Management Firmware (PMFW) could allow a local at… |
-| 2026-11-12 19:16:45 | [CVE-2026-0436](https://nvd.nist.gov/vuln/detail/CVE-2026-0436) | Medium | 6.9 | Insufficient parameter sanitization in the AMD Secure Processor (ASP) trusted execution environment (TEE) SPDM driver c… |
-| 2026-11-12 19:16:47 | [CVE-2026-117542](https://nvd.nist.gov/vuln/detail/CVE-2026-117542) | Medium | 5.1 | Joomla Extension - jdownloads.com - Authenticated path traversal in jDownloads < 4.1.8 - A manipulated `update_file` fo… |
-| 2026-11-12 19:16:47 | [CVE-2026-117544](https://nvd.nist.gov/vuln/detail/CVE-2026-117544) | High | 8.2 | Joomla Extension - jdownloads.com - IDOR allowing restricted file downloads in jDownloads < 4.1.8 - The `other_file_id`… |
-| 2026-11-12 19:16:48 | [CVE-2026-120033](https://nvd.nist.gov/vuln/detail/CVE-2026-120033) | Medium | 6.0 | In FRRouting 10.1 and later, bgpd does not correctly close a BGP session when the Send Hold Timer (RFC 9687) expires, i… |
-| 2026-11-12 19:16:48 | [CVE-2026-120467](https://nvd.nist.gov/vuln/detail/CVE-2026-120467) | High | 7.1 | Joomla / WordPress Extension - acymailing.com - Subscriber identity not bound to the record acted upon in AcyMailing 1.… |
-| 2026-11-12 19:16:48 | [CVE-2026-121619](https://nvd.nist.gov/vuln/detail/CVE-2026-121619) | Medium | 6.3 | The Symfony FrameworkBundle framework.trusted_proxies option and the HttpFoundation Request::setTrustedProxies() method… |
-| 2026-11-12 19:16:56 | [CVE-2026-126203](https://nvd.nist.gov/vuln/detail/CVE-2026-126203) | Medium | 6.1 | Loofah is a general library for manipulating and transforming HTML/XML documents and fragments, built on top of Nokogir… |
-| 2026-11-12 19:16:56 | [CVE-2026-126204](https://nvd.nist.gov/vuln/detail/CVE-2026-126204) | Low | 3.7 | express-rate-limit is a basic rate-limiting middleware for Express. From 8.6.0 until 8.7.2, the built-in MemoryStore re… |
-| 2026-11-12 19:17:01 | [CVE-2026-126838](https://nvd.nist.gov/vuln/detail/CVE-2026-126838) | Medium | 5.7 | A MongoDB Rust Driver component that holds client-side field level encryption settings includes key management service… |
-| 2026-11-12 19:17:03 | [CVE-2026-127119](https://nvd.nist.gov/vuln/detail/CVE-2026-127119) | Medium | 5.9 | Unverified ownership of the default cluster log location in the EMR module in AWS SDK for pandas (awswrangler) from 1.1… |
-| 2026-11-12 19:17:03 | [CVE-2026-127235](https://nvd.nist.gov/vuln/detail/CVE-2026-127235) | Medium | 6.1 | A reflected cross-site scripting vulnerability exists in the web user interface of multiple versions of OpenNMS Meridia… |
-| 2026-11-12 19:17:03 | [CVE-2026-127236](https://nvd.nist.gov/vuln/detail/CVE-2026-127236) | Medium | 5.4 | An argument injection vulnerability exists in the ad-hoc RRD graph feature of multiple versions of OpenNMS Meridian and… |
-| 2026-11-12 19:17:04 | [CVE-2026-18379](https://nvd.nist.gov/vuln/detail/CVE-2026-18379) | High | 8.8 | A flaw was found in yggdrasil-worker-package-manager. An authenticated attacker can exploit this issue to achieve arbit… |
+| 2026-11-12 20:18:09 | [CVE-2024-21963](https://nvd.nist.gov/vuln/detail/CVE-2024-21963) | Medium | 6.0 | An out-of-bounds read vulnerability in the IOMMU could allow a malicious guest to corrupt hypervisor (HV) pages and pot… |
+| 2026-11-12 20:18:12 | [CVE-2024-36344](https://nvd.nist.gov/vuln/detail/CVE-2024-36344) | Medium | 6.9 | Insufficient parameter sanitization in AMD Secure Processor (ASP) TEE DrvSys could allow an attacker with local access… |
+| 2026-11-12 20:18:13 | [CVE-2025-0043](https://nvd.nist.gov/vuln/detail/CVE-2025-0043) | High | 7.0 | Incorrect directory permissions within AMD Vivado™ Lab Solutions could allow a local user-privileged attacker to escala… |
+| 2026-11-12 20:18:14 | [CVE-2025-54507](https://nvd.nist.gov/vuln/detail/CVE-2025-54507) | Medium | 5.9 | Improper validation of consistency within input in AMD SEV (Secure Encrypted Virtualization) firmware could allow an at… |
+| 2026-11-12 20:18:14 | [CVE-2026-0455](https://nvd.nist.gov/vuln/detail/CVE-2026-0455) | Medium | 5.9 | The Versal™ AI Edge Series Gen 2 Peripheral Protection Unit (XPPU) for the inter-processor interrupt (IPI) buffers does… |
+| 2026-11-12 20:18:14 | [CVE-2026-0460](https://nvd.nist.gov/vuln/detail/CVE-2026-0460) | Low | 1.0 | Improper authentication in Bootgen could result in the use of a fixed salt value for RSA padding instead of a randomly… |
+| 2026-11-12 20:18:14 | [CVE-2026-107152](https://nvd.nist.gov/vuln/detail/CVE-2026-107152) | High | 7.1 | An improper authentication vulnerability has been found in the task console in the smart_proxy_dynflow package. The con… |
+| 2026-11-12 20:18:14 | [CVE-2026-107360](https://nvd.nist.gov/vuln/detail/CVE-2026-107360) | Critical | 9.6 | A flaw was found in rubygem-safemode. Compound assignment expressions in sandboxed code are evaluated without mediating… |
+| 2026-11-12 20:18:15 | [CVE-2026-107443](https://nvd.nist.gov/vuln/detail/CVE-2026-107443) | High | 7.7 | A flaw was found in Foreman. An authenticated user with view_hosts privileges can retrieve rendered provisioning templa… |
+| 2026-11-12 20:18:16 | [CVE-2026-111456](https://nvd.nist.gov/vuln/detail/CVE-2026-111456) | High | 7.1 | A missing authorization check has been found in ConsumerResource.setupOwner() function of consumer registration module… |
+| 2026-11-12 20:18:21 | [CVE-2026-124002](https://nvd.nist.gov/vuln/detail/CVE-2026-124002) | Critical | 9.3 | XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS command injection vulnerability that allo… |
+| 2026-11-12 20:18:21 | [CVE-2026-124003](https://nvd.nist.gov/vuln/detail/CVE-2026-124003) | High | 8.5 | XWEB EVO before 5.6.2 contains a command injection vulnerability where the setuid-root Lua CGI interpreter wlua execute… |
+| 2026-11-12 20:18:22 | [CVE-2026-124004](https://nvd.nist.gov/vuln/detail/CVE-2026-124004) | Critical | 9.3 | XWEB EVO before 5.6.2 contains a hardcoded backdoor password vulnerability that allows unauthenticated remote attackers… |
+| 2026-11-12 20:18:22 | [CVE-2026-124005](https://nvd.nist.gov/vuln/detail/CVE-2026-124005) | Critical | 9.2 | XWEB EVO 4.3.0 through 5.8.8 contains a weak password generation vulnerability that allows remote attackers to derive t… |
+| 2026-11-12 20:18:23 | [CVE-2026-124006](https://nvd.nist.gov/vuln/detail/CVE-2026-124006) | Critical | 9.2 | XWEB EVO through 5.8.8 contains a predictable credential generation vulnerability that allows attackers to derive the L… |
+| 2026-11-12 20:18:23 | [CVE-2026-124007](https://nvd.nist.gov/vuln/detail/CVE-2026-124007) | Critical | 9.2 | XWEB EVO before 5.6.2 contains a pre-authentication OS command injection vulnerability that allows unauthenticated remo… |
+| 2026-11-12 20:18:23 | [CVE-2026-124008](https://nvd.nist.gov/vuln/detail/CVE-2026-124008) | High | 8.6 | XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability in the devices.lua template h… |
+| 2026-11-12 20:18:23 | [CVE-2026-124009](https://nvd.nist.gov/vuln/detail/CVE-2026-124009) | High | 8.6 | XWEB EVO 5.2.3 through 5.8.8 contains an authenticated OS command injection vulnerability that allows authenticated att… |
+| 2026-11-12 20:18:24 | [CVE-2026-124010](https://nvd.nist.gov/vuln/detail/CVE-2026-124010) | Critical | 9.3 | XWEB EVO before 5.6.2 contains a command injection vulnerability that allows unauthenticated remote attackers to execut… |
+| 2026-11-12 20:18:24 | [CVE-2026-124011](https://nvd.nist.gov/vuln/detail/CVE-2026-124011) | Medium | 6.9 | XWEB EVO 5.6.2 through 5.8.8 contains an information disclosure vulnerability that allows unauthenticated attackers to… |
+| 2026-11-12 20:18:24 | [CVE-2026-124012](https://nvd.nist.gov/vuln/detail/CVE-2026-124012) | Critical | 9.2 | XWEB EVO 5.6.2 through 5.8.8 contains a hardcoded credential vulnerability where the Administrator web account is confi… |
+| 2026-11-12 20:18:25 | [CVE-2026-124013](https://nvd.nist.gov/vuln/detail/CVE-2026-124013) | High | 8.7 | XWEB EVO 5.6.2 through 5.8.8 contains an authenticated OS command injection vulnerability in the api.lua import_preconf… |
+| 2026-11-12 20:18:25 | [CVE-2026-124014](https://nvd.nist.gov/vuln/detail/CVE-2026-124014) | High | 8.8 | XWEB EVO 4.3.0 through 5.8.8 contains an unauthenticated arbitrary file write vulnerability that allows remote attacker… |
+| 2026-11-12 20:18:26 | [CVE-2026-124015](https://nvd.nist.gov/vuln/detail/CVE-2026-124015) | High | 8.2 | XWEB EVO 5.6.2 through 5.8.8 contains an authentication bypass vulnerability that allows unauthenticated attackers to s… |
+| 2026-11-12 20:18:34 | [CVE-2026-127120](https://nvd.nist.gov/vuln/detail/CVE-2026-127120) | Medium | 5.3 | A vulnerability was found in Governikus AusweisApp Mobile up to 2.5.5. This impacts an unknown function of the componen… |
+| 2026-11-12 20:18:38 | [CVE-2026-45265](https://nvd.nist.gov/vuln/detail/CVE-2026-45265) | High | 8.2 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4 and 1.5.1,… |
+| 2026-11-12 20:18:38 | [CVE-2026-45341](https://nvd.nist.gov/vuln/detail/CVE-2026-45341) | High | 7.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions 1.4.0 to before 1.4.4… |
+| 2026-11-12 20:18:39 | [CVE-2026-46674](https://nvd.nist.gov/vuln/detail/CVE-2026-46674) | High | 7.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4 and 1.5.1,… |
+| 2026-11-12 20:18:39 | [CVE-2026-46676](https://nvd.nist.gov/vuln/detail/CVE-2026-46676) | Medium | 5.3 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions 1.4.0 to before 1.4.4… |
+| 2026-11-12 20:18:39 | [CVE-2026-46677](https://nvd.nist.gov/vuln/detail/CVE-2026-46677) | Medium | 6.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4 and 1.5.1,… |
+| 2026-11-12 20:18:39 | [CVE-2026-47217](https://nvd.nist.gov/vuln/detail/CVE-2026-47217) | High | 7.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4 and 1.5.1,… |
+| 2026-11-12 20:18:40 | [CVE-2026-47257](https://nvd.nist.gov/vuln/detail/CVE-2026-47257) | High | 8.1 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. In versions 1.5.0 and 1.6.0-rc1, th… |
+| 2026-11-12 20:18:40 | [CVE-2026-47258](https://nvd.nist.gov/vuln/detail/CVE-2026-47258) | High | 8.2 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4, 1.5.1, and… |
+| 2026-11-12 20:18:40 | [CVE-2026-47259](https://nvd.nist.gov/vuln/detail/CVE-2026-47259) | High | 8.2 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4, 1.5.1, and… |
+| 2026-11-12 20:18:40 | [CVE-2026-47710](https://nvd.nist.gov/vuln/detail/CVE-2026-47710) | High | 8.2 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4, 1.5.1, and… |
+| 2026-11-12 20:18:41 | [CVE-2026-47711](https://nvd.nist.gov/vuln/detail/CVE-2026-47711) | High | 8.6 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.4, 1.5.1, and… |
+| 2026-11-12 20:18:42 | [CVE-2026-52786](https://nvd.nist.gov/vuln/detail/CVE-2026-52786) | High | 7.1 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.5, 1.5.1, and… |
+| 2026-11-12 20:18:51 | [CVE-2026-68548](https://nvd.nist.gov/vuln/detail/CVE-2026-68548) | Critical | 9.4 | Algernon is a small self-contained pure-Go web server. Prior to version 1.17.10, Algernon's URL-prefix authorization ga… |
 
 ## Data source
 
