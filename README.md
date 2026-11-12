@@ -9,23 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 12:21 UTC
+## Latest list — 2026-11-12 13:18 UTC
 
-New CVEs published between 2026-11-12 11:21 UTC and 2026-11-12 12:21 UTC.
+New CVEs published between 2026-11-12 12:21 UTC and 2026-11-12 13:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T12-21-20-03729Z.csv)
+[Full CSV](data/new-cves-2026-11-12T13-18-45-373562Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 12:18:19 | [CVE-2026-114369](https://nvd.nist.gov/vuln/detail/CVE-2026-114369) | Low | 2.7 | Resource exhaustion vulnerability in the Qt Framework QWebSocket and QWebSocketServer classes of the Qt WebSockets modu… |
-| 2026-11-12 12:18:22 | [CVE-2026-124705](https://nvd.nist.gov/vuln/detail/CVE-2026-124705) | High | 7.8 | In Progress® Telerik® UI for .NET MAUI prior to version 16.0.0, an untrusted URL redirection vulnerability in the RadRi… |
-| 2026-11-12 12:18:22 | [CVE-2026-127036](https://nvd.nist.gov/vuln/detail/CVE-2026-127036) | High | 8.6 | Improper neutralization of CRLF sequences ('CRLF injection') vulnerability in ibi WebFOCUS. This issue affects WebFOCUS… |
-| 2026-11-12 12:18:23 | [CVE-2026-127046](https://nvd.nist.gov/vuln/detail/CVE-2026-127046) | Critical | 9.2 | The MISP Modules website component contains an information disclosure vulnerability in the external tools management in… |
-| 2026-11-12 12:18:23 | [CVE-2026-13764](https://nvd.nist.gov/vuln/detail/CVE-2026-13764) | High | 8.8 | The Masterstudy - Education WordPress Theme theme for WordPress is vulnerable to Privilege Escalation in all versions u… |
-| 2026-11-12 12:18:23 | [CVE-2026-15309](https://nvd.nist.gov/vuln/detail/CVE-2026-15309) | High | 8.8 | The CourseCure Courses plugin for WordPress is vulnerable to Privilege Escalation in versions up to, and including, 1.5… |
-| 2026-11-12 12:18:24 | [CVE-2026-16135](https://nvd.nist.gov/vuln/detail/CVE-2026-16135) | High | 8.8 | The VibeBP plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 1.9.9.8.1.… |
-| 2026-11-12 12:18:24 | [CVE-2026-19421](https://nvd.nist.gov/vuln/detail/CVE-2026-19421) | High | 8.8 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by a PowerShell injection vulnerability due to insuff… |
-| 2026-11-12 12:18:24 | [CVE-2026-2982](https://nvd.nist.gov/vuln/detail/CVE-2026-2982) | Medium | 5.4 | The WP Table Builder – Drag & Drop Table Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via… |
+| 2026-11-12 13:17:08 | [CVE-2026-110951](https://nvd.nist.gov/vuln/detail/CVE-2026-110951) | High | 7.5 | Weak Password Recovery Mechanism for Forgotten Password vulnerability in Hyper Teknoloji Ltd. Şti. Hyper E-Commerce Inf… |
+| 2026-11-12 13:17:09 | [CVE-2026-111552](https://nvd.nist.gov/vuln/detail/CVE-2026-111552) | High | 7.1 | Use of single-factor authentication vulnerability in Hyper Teknoloji Ltd. Şti. Hyper E-Commerce Infrastructure, Hyper T… |
+| 2026-11-12 13:17:11 | [CVE-2026-123139](https://nvd.nist.gov/vuln/detail/CVE-2026-123139) | Medium | 5.8 | Improper verification of the source of a communication channel vulnerability in Opera Neon on macOS and Windows allows… |
+| 2026-11-12 13:17:15 | [CVE-2026-125285](https://nvd.nist.gov/vuln/detail/CVE-2026-125285) | High | 8.8 | Authentication bypass using an alternate path or channel vulnerability in TIBCO TIBCO Platform’s Self-Hosted Control Pl… |
+| 2026-11-12 13:17:15 | [CVE-2026-125870](https://nvd.nist.gov/vuln/detail/CVE-2026-125870) | Low | 2.3 | BookStack before 26.09.3 contains a missing authorization vulnerability in ImageController::checkImagePermission() that… |
+| 2026-11-12 13:17:15 | [CVE-2026-126993](https://nvd.nist.gov/vuln/detail/CVE-2026-126993) | Medium | 5.5 | A security flaw has been discovered in SiteServer SSCMS up to 7.2.2. Impacted is an unknown function of the file /api/v… |
+| 2026-11-12 13:17:15 | [CVE-2026-126994](https://nvd.nist.gov/vuln/detail/CVE-2026-126994) | Low | 2.1 | A vulnerability has been found in braindecode up to 1.8.1. Affected is the function resolve_type_kwargs of the file bra… |
+| 2026-11-12 13:17:16 | [CVE-2026-127050](https://nvd.nist.gov/vuln/detail/CVE-2026-127050) | High | 7.1 | Backup Migration before 2.1.8 for WordPress contains a path traversal vulnerability in its PclZip restore fallback that… |
+| 2026-11-12 13:17:16 | [CVE-2026-127056](https://nvd.nist.gov/vuln/detail/CVE-2026-127056) | High | 8.7 | PapaParse before 5.7.1 contains an inefficient algorithmic complexity vulnerability that allows remote unauthenticated… |
+| 2026-11-12 13:17:16 | [CVE-2026-19422](https://nvd.nist.gov/vuln/detail/CVE-2026-19422) | Critical | 9.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authentication bypass vulnerability in Windows… |
+| 2026-11-12 13:17:16 | [CVE-2026-75864](https://nvd.nist.gov/vuln/detail/CVE-2026-75864) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an improper authorization vulnerability that allow… |
+| 2026-11-12 13:17:16 | [CVE-2026-75867](https://nvd.nist.gov/vuln/detail/CVE-2026-75867) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass vulnerability that allowed… |
+| 2026-11-12 13:17:16 | [CVE-2026-75868](https://nvd.nist.gov/vuln/detail/CVE-2026-75868) | High | 8.1 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass vulnerability that allowed… |
+| 2026-11-12 13:17:16 | [CVE-2026-75869](https://nvd.nist.gov/vuln/detail/CVE-2026-75869) | High | 8.8 | Zohocorp ManageEngine DDI Central versions below 6301 is affected by an authorization bypass and PowerShell command inj… |
 
 ## Data source
 
