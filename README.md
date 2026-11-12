@@ -9,41 +9,46 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 03:18 UTC
+## Latest list — 2026-11-12 04:19 UTC
 
-New CVEs published between 2026-11-12 02:19 UTC and 2026-11-12 03:18 UTC.
+New CVEs published between 2026-11-12 03:18 UTC and 2026-11-12 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T03-18-41-523799Z.csv)
+[Full CSV](data/new-cves-2026-11-12T04-19-40-272038Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 03:17:08 | [CVE-2025-10935](https://nvd.nist.gov/vuln/detail/CVE-2025-10935) | High | 7.8 | libilbm ILBM File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows rem… |
-| 2026-11-12 03:17:08 | [CVE-2026-114556](https://nvd.nist.gov/vuln/detail/CVE-2026-114556) | High | 7.4 | MailEnable Save Directory Traversal Arbitrary File Creation Vulnerability. This vulnerability allows remote attackers t… |
-| 2026-11-12 03:17:08 | [CVE-2026-114558](https://nvd.nist.gov/vuln/detail/CVE-2026-114558) | High | 7.8 | OriginLab Origin Viewer OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability a… |
-| 2026-11-12 03:17:08 | [CVE-2026-114559](https://nvd.nist.gov/vuln/detail/CVE-2026-114559) | High | 7.8 | OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability al… |
-| 2026-11-12 03:17:08 | [CVE-2026-114560](https://nvd.nist.gov/vuln/detail/CVE-2026-114560) | High | 7.8 | OriginLab Origin Viewer OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability al… |
-| 2026-11-12 03:17:08 | [CVE-2026-114561](https://nvd.nist.gov/vuln/detail/CVE-2026-114561) | High | 7.8 | OriginLab Origin Viewer OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability a… |
-| 2026-11-12 03:17:08 | [CVE-2026-114562](https://nvd.nist.gov/vuln/detail/CVE-2026-114562) | High | 7.8 | OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability a… |
-| 2026-11-12 03:17:09 | [CVE-2026-114563](https://nvd.nist.gov/vuln/detail/CVE-2026-114563) | High | 7.8 | OriginLab Origin Viewer OGWU File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnera… |
-| 2026-11-12 03:17:09 | [CVE-2026-114564](https://nvd.nist.gov/vuln/detail/CVE-2026-114564) | High | 7.8 | OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability al… |
-| 2026-11-12 03:17:09 | [CVE-2026-114565](https://nvd.nist.gov/vuln/detail/CVE-2026-114565) | High | 7.8 | OriginLab Origin Viewer OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability al… |
-| 2026-11-12 03:17:09 | [CVE-2026-114566](https://nvd.nist.gov/vuln/detail/CVE-2026-114566) | High | 7.8 | OriginLab Origin Viewer OGM File Parsing Memory Corruption Remote Code Execution Vulnerability. This vulnerability allo… |
-| 2026-11-12 03:17:09 | [CVE-2026-114567](https://nvd.nist.gov/vuln/detail/CVE-2026-114567) | High | 7.8 | OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability a… |
-| 2026-11-12 03:17:09 | [CVE-2026-114568](https://nvd.nist.gov/vuln/detail/CVE-2026-114568) | High | 7.8 | OriginLab Origin Viewer OPJ File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerabi… |
-| 2026-11-12 03:17:09 | [CVE-2026-114569](https://nvd.nist.gov/vuln/detail/CVE-2026-114569) | High | 7.8 | OriginLab Origin Viewer OGWU File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerab… |
-| 2026-11-12 03:17:10 | [CVE-2026-118631](https://nvd.nist.gov/vuln/detail/CVE-2026-118631) | Low | 3.8 | Philips Hue Bridge Pro Argument Injection Restricted File Write Vulnerability. This vulnerability allows local attacker… |
-| 2026-11-12 03:17:10 | [CVE-2026-118632](https://nvd.nist.gov/vuln/detail/CVE-2026-118632) | High | 8.0 | Philips Hue Bridge Pro SQL Injection Remote Code Execution Vulnerability. This vulnerability allows network-adjacent at… |
-| 2026-11-12 03:17:10 | [CVE-2026-121741](https://nvd.nist.gov/vuln/detail/CVE-2026-121741) | High | 7.8 | Trimble SketchUp SKP File Parsing Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remote… |
-| 2026-11-12 03:17:10 | [CVE-2026-121742](https://nvd.nist.gov/vuln/detail/CVE-2026-121742) | High | 7.8 | Ashlar-Vellum Cobalt XE File Parsing Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remo… |
-| 2026-11-12 03:17:10 | [CVE-2026-121743](https://nvd.nist.gov/vuln/detail/CVE-2026-121743) | High | 7.8 | Ashlar-Vellum Cobalt AR File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability… |
-| 2026-11-12 03:17:10 | [CVE-2026-121744](https://nvd.nist.gov/vuln/detail/CVE-2026-121744) | High | 7.8 | Ashlar-Vellum Cobalt XE File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerabilit… |
-| 2026-11-12 03:17:10 | [CVE-2026-121752](https://nvd.nist.gov/vuln/detail/CVE-2026-121752) | High | 7.8 | Ashlar-Vellum Cobalt LI File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability… |
-| 2026-11-12 03:17:11 | [CVE-2026-121753](https://nvd.nist.gov/vuln/detail/CVE-2026-121753) | High | 7.8 | Ashlar-Vellum Cobalt XE File Parsing Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remo… |
-| 2026-11-12 03:17:11 | [CVE-2026-122044](https://nvd.nist.gov/vuln/detail/CVE-2026-122044) | High | 8.8 | Philips Hue Bridge Pro Protection Mechanism Failure Authentication Bypass Vulnerability. This vulnerability allows netw… |
-| 2026-11-12 03:17:11 | [CVE-2026-126795](https://nvd.nist.gov/vuln/detail/CVE-2026-126795) | Medium | 5.5 | A vulnerability was determined in ToolJet up to 3.20.256-lts/3.21.93-beta. The impacted element is the function activat… |
-| 2026-11-12 03:17:11 | [CVE-2026-126957](https://nvd.nist.gov/vuln/detail/CVE-2026-126957) | Medium | 6.9 | An integer underflow in Zephyr's IPv4 option handling allows a remote, unauthenticated attacker to read stack memory. W… |
-| 2026-11-12 03:17:11 | [CVE-2026-13269](https://nvd.nist.gov/vuln/detail/CVE-2026-13269) | High | 7.5 | Quest NetVault Backup StnzCreateKey Numeric Truncation Error Denial-of-Service Vulnerability. This vulnerability allows… |
-| 2026-11-12 03:17:11 | [CVE-2026-13270](https://nvd.nist.gov/vuln/detail/CVE-2026-13270) | High | 7.5 | Quest NetVault Backup nvpmgr Integer Underflow Denial-of-Service Vulnerability. This vulnerability allows remote attack… |
+| 2026-11-12 04:17:17 | [CVE-2026-111433](https://nvd.nist.gov/vuln/detail/CVE-2026-111433) | High | 8.6 | UNIX symbolic link (symlink) following vulnerability in openEuler iSulad on Linux. This vulnerability is associated wit… |
+| 2026-11-12 04:17:17 | [CVE-2026-111434](https://nvd.nist.gov/vuln/detail/CVE-2026-111434) | Medium | 5.6 | Use of Externally-Controlled format string vulnerability in openEuler iSulad on Linux. This vulnerability is associated… |
+| 2026-11-12 04:17:17 | [CVE-2026-111435](https://nvd.nist.gov/vuln/detail/CVE-2026-111435) | High | 7.4 | Relative path traversal vulnerability in openEuler iSulad on Linux. This vulnerability is associated with program file… |
+| 2026-11-12 04:17:17 | [CVE-2026-111436](https://nvd.nist.gov/vuln/detail/CVE-2026-111436) | Medium | 4.4 | Missing release of memory after effective lifetime vulnerability in openEuler iSulad on Linux. This vulnerability is as… |
+| 2026-11-12 04:17:17 | [CVE-2026-117687](https://nvd.nist.gov/vuln/detail/CVE-2026-117687) | Medium | 6.9 | Movable Type provided by Six Apart Ltd. contains a code injection vulnerability in its Dynamic Publishing functionality… |
+| 2026-11-12 04:17:17 | [CVE-2026-124993](https://nvd.nist.gov/vuln/detail/CVE-2026-124993) | Medium | 5.3 | An incorrect authorization vulnerability in the Security Advisor in Synology DiskStation Manager (DSM) before 7.3.2-860… |
+| 2026-11-12 04:17:18 | [CVE-2026-13656](https://nvd.nist.gov/vuln/detail/CVE-2026-13656) | Medium | 5.4 | An improper neutralization of input during web page generation vulnerability in the Audio Player in Synology DiskStatio… |
+| 2026-11-12 04:17:18 | [CVE-2026-13672](https://nvd.nist.gov/vuln/detail/CVE-2026-13672) | High | 8.8 | An authorization bypass through user-controlled key vulnerability in the SSOAuth in Synology DiskStation Manager (DSM)… |
+| 2026-11-12 04:17:18 | [CVE-2026-15198](https://nvd.nist.gov/vuln/detail/CVE-2026-15198) | Medium | 6.5 | A missing authentication for critical functionality vulnerability in the Webdav API in Synology DiskStation Manager (DS… |
+| 2026-11-12 04:17:18 | [CVE-2026-15201](https://nvd.nist.gov/vuln/detail/CVE-2026-15201) | Medium | 5.9 | An improper certificate validation vulnerability in the Support Form in Synology DiskStation Manager (DSM) before 7.3.2… |
+| 2026-11-12 04:17:18 | [CVE-2026-16550](https://nvd.nist.gov/vuln/detail/CVE-2026-16550) | Medium | 6.5 | An external control of file name or path vulnerability in the Media Parser in Synology DiskStation Manager (DSM) before… |
+| 2026-11-12 04:17:18 | [CVE-2026-18596](https://nvd.nist.gov/vuln/detail/CVE-2026-18596) | High | 8.1 | An authentication bypass using an alternate path or channel vulnerability in the OTP in Synology DiskStation Manager (D… |
+| 2026-11-12 04:17:19 | [CVE-2026-18633](https://nvd.nist.gov/vuln/detail/CVE-2026-18633) | High | 7.5 | An access of uninitialized pointer vulnerability in the nfsd in Synology DiskStation Manager (DSM) before 7.3.2-86009-5… |
+| 2026-11-12 04:17:19 | [CVE-2026-18792](https://nvd.nist.gov/vuln/detail/CVE-2026-18792) | High | 8.8 | An improper limitation of a pathname to a restricted directory vulnerability in the Sharing API in Synology DiskStation… |
+| 2026-11-12 04:17:19 | [CVE-2026-19048](https://nvd.nist.gov/vuln/detail/CVE-2026-19048) | High | 8.1 | An improper link resolution before file access vulnerability in the thumb in Synology DiskStation Manager (DSM) before… |
+| 2026-11-12 04:17:19 | [CVE-2026-19414](https://nvd.nist.gov/vuln/detail/CVE-2026-19414) | Medium | 4.3 | A missing authorization vulnerability in the Promotion API in Synology DiskStation Manager (DSM) before 7.3.2-86009-5 a… |
+| 2026-11-12 04:17:19 | [CVE-2026-19833](https://nvd.nist.gov/vuln/detail/CVE-2026-19833) | Medium | 5.4 | A missing authorization vulnerability in the ACL API in Synology DiskStation Manager (DSM) before 7.3.2-86009-5 and 7.4… |
+| 2026-11-12 04:17:19 | [CVE-2026-74850](https://nvd.nist.gov/vuln/detail/CVE-2026-74850) | Medium | 4.3 | An improper limitation of a pathname to a restricted directory vulnerability in the contentextract in Synology DiskStat… |
+| 2026-11-12 04:17:20 | [CVE-2026-74857](https://nvd.nist.gov/vuln/detail/CVE-2026-74857) | High | 8.8 | A missing critical step in authentication vulnerability in the Auth API in Synology DiskStation Manager (DSM) before 7.… |
+| 2026-11-12 04:17:20 | [CVE-2026-75785](https://nvd.nist.gov/vuln/detail/CVE-2026-75785) | High | 7.2 | An improper neutralization of special elements used in an OS command vulnerability in the VPN API in Synology DiskStati… |
+| 2026-11-12 04:17:20 | [CVE-2026-76954](https://nvd.nist.gov/vuln/detail/CVE-2026-76954) | Critical | 9.8 | An improper neutralization of special elements used in an SQL command vulnerability in the Auth API in Synology DiskSta… |
+| 2026-11-12 04:17:20 | [CVE-2026-77738](https://nvd.nist.gov/vuln/detail/CVE-2026-77738) | Medium | 4.3 | A server-side request forgery vulnerability in the Credential API in Synology DiskStation Manager (DSM) before 7.3.2-86… |
+| 2026-11-12 04:17:20 | [CVE-2026-81557](https://nvd.nist.gov/vuln/detail/CVE-2026-81557) | Medium | 5.4 | An improper neutralization of input during web page generation vulnerability in the DSMNotify in Synology DiskStation M… |
+| 2026-11-12 04:17:20 | [CVE-2026-81558](https://nvd.nist.gov/vuln/detail/CVE-2026-81558) | Medium | 4.3 | A missing authorization vulnerability in the SocketIo API in Synology DiskStation Manager (DSM) before 7.3.2-86009-5 an… |
+| 2026-11-12 04:17:21 | [CVE-2026-81559](https://nvd.nist.gov/vuln/detail/CVE-2026-81559) | Medium | 4.3 | A missing authorization vulnerability in the TaskScheduler API in Synology DiskStation Manager (DSM) before 7.3.2-86009… |
+| 2026-11-12 04:17:21 | [CVE-2026-81584](https://nvd.nist.gov/vuln/detail/CVE-2026-81584) | High | 8.1 | An improper neutralization of special elements used in an SQL command vulnerability in the User API in Synology DiskSta… |
+| 2026-11-12 04:17:21 | [CVE-2026-85098](https://nvd.nist.gov/vuln/detail/CVE-2026-85098) | Medium | 5.3 | A reachable assertion vulnerability in the synoscgi in Synology DiskStation Manager (DSM) before 7.3.2-86009-5 and 7.4.… |
+| 2026-11-12 04:17:21 | [CVE-2026-85101](https://nvd.nist.gov/vuln/detail/CVE-2026-85101) | High | 8.6 | An authentication bypass using an alternate path or channel vulnerability in the rsync in Synology DiskStation Manager… |
+| 2026-11-12 04:17:21 | [CVE-2026-86343](https://nvd.nist.gov/vuln/detail/CVE-2026-86343) | Medium | 6.8 | An improper neutralization of CRLF sequences vulnerability in the SNMP API in Synology DiskStation Manager (DSM) before… |
+| 2026-11-12 04:17:21 | [CVE-2026-87801](https://nvd.nist.gov/vuln/detail/CVE-2026-87801) | Medium | 6.5 | An insertion of sensitive information into sent data vulnerability in the API framework in Synology DiskStation Manager… |
+| 2026-11-12 04:17:22 | [CVE-2026-88266](https://nvd.nist.gov/vuln/detail/CVE-2026-88266) | Medium | 4.3 | An external control of system or configuration setting vulnerability in the synomount in Synology DiskStation Manager (… |
+| 2026-11-12 04:17:22 | [CVE-2026-92379](https://nvd.nist.gov/vuln/detail/CVE-2026-92379) | Medium | 5.4 | An improper neutralization of input during web page generation vulnerability in the Notification API in Synology DiskSt… |
 
 ## Data source
 
