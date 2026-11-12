@@ -9,27 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 16:20 UTC
+## Latest list — 2026-11-12 17:19 UTC
 
-New CVEs published between 2026-11-12 15:20 UTC and 2026-11-12 16:20 UTC.
+New CVEs published between 2026-11-12 16:20 UTC and 2026-11-12 17:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-12T16-20-55-351125Z.csv)
+[Full CSV](data/new-cves-2026-11-12T17-19-12-370325Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-12 16:19:04 | [CVE-2026-126329](https://nvd.nist.gov/vuln/detail/CVE-2026-126329) | High | 7.3 | Docker Sandboxes reuses existing state and configuration directories without verifying their ownership. If sbx or sandb… |
-| 2026-11-12 16:19:04 | [CVE-2026-126330](https://nvd.nist.gov/vuln/detail/CVE-2026-126330) | Low | 2.4 | Docker Sandboxes can silently republish a sandbox service after an operator removes its automatically assigned host-por… |
-| 2026-11-12 16:19:07 | [CVE-2026-127109](https://nvd.nist.gov/vuln/detail/CVE-2026-127109) |  |  | A code injection vulnerability in promzard’s template-loading functionality allows an attacker who can control property… |
-| 2026-11-12 16:19:07 | [CVE-2026-127111](https://nvd.nist.gov/vuln/detail/CVE-2026-127111) | Critical | 9.1 | SOGo before 5.12.13 contains an improper restriction of excessive authentication attempts vulnerability that allows una… |
-| 2026-11-12 16:19:07 | [CVE-2026-127121](https://nvd.nist.gov/vuln/detail/CVE-2026-127121) | High | 7.1 | SOGo before 5.12.13 contains an improper cryptographic signature verification vulnerability that allows remote attacker… |
-| 2026-11-12 16:19:07 | [CVE-2026-127131](https://nvd.nist.gov/vuln/detail/CVE-2026-127131) | Critical | 9.1 | SOGo before 5.12.13 contains a missing rate limiting vulnerability in its web login TOTP verification that allows attac… |
-| 2026-11-12 16:19:08 | [CVE-2026-127135](https://nvd.nist.gov/vuln/detail/CVE-2026-127135) | Medium | 5.3 | SOGo before 5.12.13 contains a Sieve script injection vulnerability that allows authenticated users to inject arbitrary… |
-| 2026-11-12 16:19:08 | [CVE-2026-127141](https://nvd.nist.gov/vuln/detail/CVE-2026-127141) | High | 7.1 | SOGo before 5.12.13 contains a denial of service vulnerability that allows authenticated attackers to exhaust all worke… |
-| 2026-11-12 16:19:08 | [CVE-2026-127145](https://nvd.nist.gov/vuln/detail/CVE-2026-127145) | Medium | 5.3 | SOGo before 5.12.13 contains a server-side request forgery vulnerability that allows authenticated users to make the se… |
-| 2026-11-12 16:19:08 | [CVE-2026-19809](https://nvd.nist.gov/vuln/detail/CVE-2026-19809) | Low | 3.3 | The user-mode system call verifier z_vrfy_charger_get_prop() in drivers/charger/charger_handlers.c declares an uninitia… |
-| 2026-11-12 16:19:12 | [CVE-2026-70641](https://nvd.nist.gov/vuln/detail/CVE-2026-70641) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority as a duplicate of CVE-2026-8… |
-| 2026-11-12 16:19:13 | [CVE-2026-70642](https://nvd.nist.gov/vuln/detail/CVE-2026-70642) | Medium | 5.3 | ToolJet before 3.21.94, fixed in commit e5f387a, contains an authorization bypass vulnerability in the app environments… |
-| 2026-11-12 16:19:21 | [CVE-2026-91007](https://nvd.nist.gov/vuln/detail/CVE-2026-91007) | High | 7.8 | The user-mode syscall verifiers for the charger driver API in drivers/charger/charger_handlers.c did not inspect the pr… |
+| 2026-11-12 17:17:20 | [CVE-2025-10698](https://nvd.nist.gov/vuln/detail/CVE-2025-10698) | Medium | 6.0 | Incorrect default permissions and Product released in Non-Release configuration vulnerability in OpenText Identity Cons… |
+| 2026-11-12 17:17:29 | [CVE-2026-121876](https://nvd.nist.gov/vuln/detail/CVE-2026-121876) | High | 7.9 | A flaw was found in the interaction between systemd-gpt-auto-generator and confidential computing guest VM images in Op… |
+| 2026-11-12 17:17:30 | [CVE-2026-124691](https://nvd.nist.gov/vuln/detail/CVE-2026-124691) | High | 7.1 | In Progress Kendo UI for jQuery Gantt, the task editor's Parent dropdown renders task titles as HTML. An attacker who c… |
+| 2026-11-12 17:17:30 | [CVE-2026-124695](https://nvd.nist.gov/vuln/detail/CVE-2026-124695) | High | 7.1 | In Progress Kendo UI for jQuery Form, the items[].hint option is documented as a string but is rendered as HTML. An att… |
+| 2026-11-12 17:17:30 | [CVE-2026-124696](https://nvd.nist.gov/vuln/detail/CVE-2026-124696) | High | 7.1 | In Progress Kendo UI for jQuery, Spreadsheet sheet names are inserted into the SheetsBar menu button's data-sheet-name… |
+| 2026-11-12 17:17:31 | [CVE-2026-124697](https://nvd.nist.gov/vuln/detail/CVE-2026-124697) | High | 7.1 | In Progress Kendo UI for jQuery, Chart shared-tooltip rendering treats bound category and series-name values as raw HTM… |
+| 2026-11-12 17:17:31 | [CVE-2026-124698](https://nvd.nist.gov/vuln/detail/CVE-2026-124698) | High | 7.1 | In Progress Kendo UI for jQuery, the Chart default tooltip renders point values as raw HTML. An attacker who can influe… |
+| 2026-11-12 17:17:32 | [CVE-2026-126189](https://nvd.nist.gov/vuln/detail/CVE-2026-126189) | Medium | 5.3 | Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4. Prior to 4.0.1, Soup Sieve repeatedly s… |
+| 2026-11-12 17:17:32 | [CVE-2026-126190](https://nvd.nist.gov/vuln/detail/CVE-2026-126190) | High | 7.5 | Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4. Prior to 4.0, Soup Sieve repeatedly wal… |
+| 2026-11-12 17:17:32 | [CVE-2026-126191](https://nvd.nist.gov/vuln/detail/CVE-2026-126191) | High | 7.5 | Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4. Prior to 3.0, the CSS_ESCAPES and IDENT… |
+| 2026-11-12 17:17:32 | [CVE-2026-126192](https://nvd.nist.gov/vuln/detail/CVE-2026-126192) | Medium | 6.3 | Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4. Prior to 2.10, matching a developer-aut… |
+| 2026-11-12 17:17:32 | [CVE-2026-126193](https://nvd.nist.gov/vuln/detail/CVE-2026-126193) | Medium | 5.3 | Soup Sieve is a CSS selector library for Beautiful Soup. From 0.4 until 3.0, deeply nested CSS pseudo-class selectors c… |
+| 2026-11-12 17:17:33 | [CVE-2026-126835](https://nvd.nist.gov/vuln/detail/CVE-2026-126835) | Medium | 5.9 | The MongoDB Node.js driver does not consistently enforce its permitted-host restriction during OIDC authentication. A b… |
+| 2026-11-12 17:17:33 | [CVE-2026-126837](https://nvd.nist.gov/vuln/detail/CVE-2026-126837) | Critical | 9.1 | A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may cause the driver to connect to a host… |
+| 2026-11-12 17:17:42 | [CVE-2026-127029](https://nvd.nist.gov/vuln/detail/CVE-2026-127029) | High | 7.5 | A flaw was found in freeradius's Extensible Authentication Protocol Method for Subscriber Identity Module (EAP-SIM) mod… |
+| 2026-11-12 17:17:43 | [CVE-2026-127030](https://nvd.nist.gov/vuln/detail/CVE-2026-127030) | High | 7.5 | A flaw was found in freeradius. An improper length validation in the EAP-FAST module allows a stack-based buffer overfl… |
+| 2026-11-12 17:17:43 | [CVE-2026-127202](https://nvd.nist.gov/vuln/detail/CVE-2026-127202) | Medium | 6.3 | MLflow before 3.18.0 using the FileStore backend contains a path traversal vulnerability that allows unauthenticated re… |
+| 2026-11-12 17:17:43 | [CVE-2026-127203](https://nvd.nist.gov/vuln/detail/CVE-2026-127203) | Medium | 5.1 | AppFlowy Cloud through 0.9.64 contains a stored cross-site scripting vulnerability that allows authenticated workspace… |
+| 2026-11-12 17:17:44 | [CVE-2026-16052](https://nvd.nist.gov/vuln/detail/CVE-2026-16052) | Low | 2.3 | The http.cookies.Morsel class allows separator semicolons in attribute values and includes them verbatim in all output… |
+| 2026-11-12 17:17:46 | [CVE-2026-82032](https://nvd.nist.gov/vuln/detail/CVE-2026-82032) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-12 17:17:46 | [CVE-2026-82977](https://nvd.nist.gov/vuln/detail/CVE-2026-82977) | High | 8.4 | The Plesk GoAccess statistics integration in Plesk Obsidian for Linux, versions 18.0.77 to 18.0.81.7, 18.0.82 to 18.0.8… |
 
 ## Data source
 
