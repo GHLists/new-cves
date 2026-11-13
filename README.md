@@ -9,68 +9,38 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:21 UTC
+## Latest list — 2026-11-13 19:20 UTC
 
-New CVEs published between 2026-11-13 17:21 UTC and 2026-11-13 18:21 UTC.
+New CVEs published between 2026-11-13 18:21 UTC and 2026-11-13 19:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-13T18-21-41-560251Z.csv)
+[Full CSV](data/new-cves-2026-11-13T19-20-30-362093Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-13 18:17:26 | [CVE-2026-107398](https://nvd.nist.gov/vuln/detail/CVE-2026-107398) | High | 7.1 | Indico is a feature-rich event management system. Prior to version 3.3.14, due to a path traversal vulnerability when b… |
-| 2026-11-13 18:17:30 | [CVE-2026-123177](https://nvd.nist.gov/vuln/detail/CVE-2026-123177) | High | 8.4 | A flaw was found in dnf5daemon-server. Unauthenticated D-Bus methods pass caller-controlled URL or .rpm path patterns i… |
-| 2026-11-13 18:17:30 | [CVE-2026-123965](https://nvd.nist.gov/vuln/detail/CVE-2026-123965) | Critical | 9.3 | A prompt injection vulnerability in all versions of Jet Admin Cloud Platform allows a remote attacker with a free accou… |
-| 2026-11-13 18:17:31 | [CVE-2026-124041](https://nvd.nist.gov/vuln/detail/CVE-2026-124041) | Medium | 6.9 | Catalis/Patriot Properties WebPro 5.0 allows a remote unauthenticated attacker to execute arbitrary SQL queries against… |
-| 2026-11-13 18:17:31 | [CVE-2026-124666](https://nvd.nist.gov/vuln/detail/CVE-2026-124666) | Medium | 6.4 | Authentication bypass by spoofing vulnerability in Apache APISIX. On a route where multi-auth falls back from wolf-rbac… |
-| 2026-11-13 18:17:31 | [CVE-2026-124679](https://nvd.nist.gov/vuln/detail/CVE-2026-124679) | High | 7.8 | Authentication bypass by spoofing vulnerability in Apache APISIX. On routes using jwe-decrypt with strict: false and a… |
-| 2026-11-13 18:17:31 | [CVE-2026-124680](https://nvd.nist.gov/vuln/detail/CVE-2026-124680) | High | 7.0 | Interpretation Conflict, resulting in (Incorrect Authorization) vulnerability in Apache APISIX. An unauthenticated clie… |
-| 2026-11-13 18:17:31 | [CVE-2026-124716](https://nvd.nist.gov/vuln/detail/CVE-2026-124716) | Medium | 6.4 | Incorrect Authorization vulnerability in Apache APISIX. An authenticated user who holds any one of a route's required p… |
-| 2026-11-13 18:17:31 | [CVE-2026-124719](https://nvd.nist.gov/vuln/detail/CVE-2026-124719) | Low | 2.3 | Authentication bypass by spoofing vulnerability in Apache APISIX. When a Route's configured headers carry a caller iden… |
-| 2026-11-13 18:17:31 | [CVE-2026-124723](https://nvd.nist.gov/vuln/detail/CVE-2026-124723) | Medium | 6.3 | Interpretation Conflict, leading to Incorrect Authorization vulnerability in Apache APISIX. With match_uri_encoded_slas… |
-| 2026-11-13 18:17:32 | [CVE-2026-124726](https://nvd.nist.gov/vuln/detail/CVE-2026-124726) | Medium | 6.9 | Relative Path Traversal, with Unintended Proxy vulnerability in Apache APISIX. A caller of the MCP endpoint can invoke… |
-| 2026-11-13 18:17:32 | [CVE-2026-126091](https://nvd.nist.gov/vuln/detail/CVE-2026-126091) | High | 8.7 | Dental practice sites hosted with iDentalSoft send a JSON response to any user who loads certain pages containing sensi… |
-| 2026-11-13 18:17:34 | [CVE-2026-128068](https://nvd.nist.gov/vuln/detail/CVE-2026-128068) | Medium | 5.3 | rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. From 1.0.3 through 1.7.1, Rail… |
-| 2026-11-13 18:17:34 | [CVE-2026-128069](https://nvd.nist.gov/vuln/detail/CVE-2026-128069) | Medium | 4.7 | rails-html-sanitizer is responsible for sanitizing HTML fragments in Rails applications. Before 1.7.2, the HTML4 and HT… |
-| 2026-11-13 18:17:34 | [CVE-2026-128070](https://nvd.nist.gov/vuln/detail/CVE-2026-128070) | Medium | 5.9 | Nuxt is an open-source web development framework for Vue.js. From 3.5.0 until 4.6.4, Nuxt can choose a parent directory… |
-| 2026-11-13 18:17:35 | [CVE-2026-128071](https://nvd.nist.gov/vuln/detail/CVE-2026-128071) | Medium | 6.5 | Nuxt is an open-source web development framework for Vue.js. Nuxt from 3.0.0 until 4.6.4, @nuxt/nitro-server from 3.20.… |
-| 2026-11-13 18:17:35 | [CVE-2026-128072](https://nvd.nist.gov/vuln/detail/CVE-2026-128072) | Low | 3.1 | Nuxt is an open-source web development framework for Vue.js. From @nuxt/webpack-builder 3.0.0 and @nuxt/rspack-builder… |
-| 2026-11-13 18:17:36 | [CVE-2026-128074](https://nvd.nist.gov/vuln/detail/CVE-2026-128074) | Medium | 6.9 | Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.4, _payload.json URL generation and t… |
-| 2026-11-13 18:17:36 | [CVE-2026-128075](https://nvd.nist.gov/vuln/detail/CVE-2026-128075) | Medium | 5.3 | Nuxt is an open-source web development framework for Vue.js. From 3.0.0 until 4.6.4, Nuxt wraps non-HTTP errors thrown… |
-| 2026-11-13 18:17:37 | [CVE-2026-128076](https://nvd.nist.gov/vuln/detail/CVE-2026-128076) | Low | 3.1 | Nuxt is an open-source web development framework for Vue.js. From 3.21.6 to before 4.0.0 and from 4.4.6 until 4.6.4, th… |
-| 2026-11-13 18:17:37 | [CVE-2026-128077](https://nvd.nist.gov/vuln/detail/CVE-2026-128077) | Medium | 6.5 | Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.4, Nuxt parses a request path beginni… |
-| 2026-11-13 18:17:37 | [CVE-2026-128078](https://nvd.nist.gov/vuln/detail/CVE-2026-128078) | Medium | 5.3 | GLPI is a free asset and IT management software package. From 9.5.0 until 10.0.27 and 11.0.9, authenticated users could… |
-| 2026-11-13 18:17:37 | [CVE-2026-128079](https://nvd.nist.gov/vuln/detail/CVE-2026-128079) | Medium | 6.8 | envd provides reproducible development environments for humans and agents. In versions starting with 0.3.38 and before… |
-| 2026-11-13 18:17:38 | [CVE-2026-129139](https://nvd.nist.gov/vuln/detail/CVE-2026-129139) | High | 8.8 | paicoding from commit b8206b9 through commit 903adce uses predictable credentials for accounts created via ZSXQ login,… |
-| 2026-11-13 18:17:38 | [CVE-2026-129140](https://nvd.nist.gov/vuln/detail/CVE-2026-129140) | Medium | 5.1 | paicoding 1.0.0 through 1.0.3 contains a stored cross-site scripting vulnerability in image upload because ImageService… |
-| 2026-11-13 18:17:38 | [CVE-2026-129141](https://nvd.nist.gov/vuln/detail/CVE-2026-129141) | Medium | 5.1 | paicoding 1.0.0 through 1.0.3 contains a stored cross-site scripting vulnerability because SeoInjectService embeds user… |
-| 2026-11-13 18:17:38 | [CVE-2026-129142](https://nvd.nist.gov/vuln/detail/CVE-2026-129142) | Medium | 5.1 | paicoding commit 766c48b through commit 903adce contains a stored cross-site scripting vulnerability in payment notific… |
-| 2026-11-13 18:17:39 | [CVE-2026-129143](https://nvd.nist.gov/vuln/detail/CVE-2026-129143) | High | 8.7 | paicoding 1.0.3 contains a missing authorization vulnerability in the ArticleRestController article detail endpoint tha… |
-| 2026-11-13 18:17:39 | [CVE-2026-129144](https://nvd.nist.gov/vuln/detail/CVE-2026-129144) | Medium | 5.3 | paicoding 1.0.3 contains a payment bypass vulnerability that allows authenticated attackers to unlock paid articles by… |
-| 2026-11-13 18:17:39 | [CVE-2026-129151](https://nvd.nist.gov/vuln/detail/CVE-2026-129151) | High | 8.7 | SurveyKing 1.13.2 contains a missing authorization vulnerability in result lookup: the anonymous survey view leaks the… |
-| 2026-11-13 18:17:39 | [CVE-2026-129152](https://nvd.nist.gov/vuln/detail/CVE-2026-129152) | Medium | 6.9 | SurveyKing 1.12.0 through 1.13.2 contains an authentication bypass vulnerability that allows unauthenticated attackers… |
-| 2026-11-13 18:17:39 | [CVE-2026-129153](https://nvd.nist.gov/vuln/detail/CVE-2026-129153) | High | 7.1 | SurveyKing 1.12.0 through 1.13.2 contains an authorization bypass in the linked survey feature that fails to verify the… |
-| 2026-11-13 18:17:39 | [CVE-2026-129154](https://nvd.nist.gov/vuln/detail/CVE-2026-129154) | Medium | 5.3 | SurveyKing 1.13.0 through 1.13.2 contains a stored cross-site scripting vulnerability because the server accepts a resp… |
-| 2026-11-13 18:17:40 | [CVE-2026-129155](https://nvd.nist.gov/vuln/detail/CVE-2026-129155) | Medium | 5.1 | DjangoBlog 2.0.0.0 through 2.1.0.0 contains a stored cross-site scripting vulnerability because the class_filter commen… |
-| 2026-11-13 18:17:40 | [CVE-2026-129156](https://nvd.nist.gov/vuln/detail/CVE-2026-129156) | Medium | 5.1 | DjangoBlog commit d186b1c through commit 6134ed6 contains a stored cross-site scripting vulnerability that allows authe… |
-| 2026-11-13 18:17:40 | [CVE-2026-129157](https://nvd.nist.gov/vuln/detail/CVE-2026-129157) | Medium | 5.3 | ragent 1.0.0 through 1.1.0 contains a missing authorization vulnerability in RagTraceController that allows any logged-… |
-| 2026-11-13 18:17:40 | [CVE-2026-129158](https://nvd.nist.gov/vuln/detail/CVE-2026-129158) | Medium | 5.1 | ragent 1.1.0 contains a stored cross-site scripting vulnerability that allows authenticated users to inject scripts by… |
-| 2026-11-13 18:17:40 | [CVE-2026-129160](https://nvd.nist.gov/vuln/detail/CVE-2026-129160) | High | 7.1 | free-fs 2.0.1 through 2.3.1 contains an SQL injection vulnerability in FileShareServiceImpl.getPages, which passes the… |
-| 2026-11-13 18:17:41 | [CVE-2026-129161](https://nvd.nist.gov/vuln/detail/CVE-2026-129161) | Critical | 9.1 | Dromara free-fs 2.0.1 through 2.3.1 contains an improper restriction of authentication attempts vulnerability that allo… |
-| 2026-11-13 18:17:41 | [CVE-2026-129162](https://nvd.nist.gov/vuln/detail/CVE-2026-129162) | High | 8.2 | Dromara free-fs 2.0.1 through 2.3.1 contains a missing authentication vulnerability in FileStreamController.preview tha… |
-| 2026-11-13 18:17:41 | [CVE-2026-129163](https://nvd.nist.gov/vuln/detail/CVE-2026-129163) | Medium | 5.1 | Dromara free-fs 2.0.1 through 2.3.1 contains a stored cross-site scripting vulnerability that allows registered users t… |
-| 2026-11-13 18:17:41 | [CVE-2026-129164](https://nvd.nist.gov/vuln/detail/CVE-2026-129164) | High | 8.2 | Dromara free-fs 2.0.1 through 2.3.1 contains an authorization bypass vulnerability that allows attackers to access code… |
-| 2026-11-13 18:17:41 | [CVE-2026-129165](https://nvd.nist.gov/vuln/detail/CVE-2026-129165) | Critical | 9.4 | Tactical RMM 0.17.0 through 1.6.1 contains an arbitrary file read in the /reporting/templates/preview/ endpoint because… |
-| 2026-11-13 18:17:41 | [CVE-2026-129166](https://nvd.nist.gov/vuln/detail/CVE-2026-129166) | High | 7.1 | Keep 0.34.10 through 0.55.0 contains a blind SQL injection vulnerability in its CEL-to-SQL converter, which inserts bra… |
-| 2026-11-13 18:17:41 | [CVE-2026-129167](https://nvd.nist.gov/vuln/detail/CVE-2026-129167) | Critical | 9.2 | Seafile SeaDoc converter 2.0.4 before 2.0.11 and 3.0.0 before 3.0.8 contains an absolute path traversal vulnerability t… |
-| 2026-11-13 18:17:42 | [CVE-2026-129168](https://nvd.nist.gov/vuln/detail/CVE-2026-129168) | Medium | 5.3 | PMail 2.9.1 through 2.9.8 contains a stored cross-site scripting vulnerability because the /attachments/{id}/{cid} endp… |
-| 2026-11-13 18:17:42 | [CVE-2026-129169](https://nvd.nist.gov/vuln/detail/CVE-2026-129169) | Medium | 5.1 | PMail 2.5.0 through 2.9.8 contains a stored cross-site scripting vulnerability that allows authenticated users to injec… |
-| 2026-11-13 18:17:42 | [CVE-2026-129170](https://nvd.nist.gov/vuln/detail/CVE-2026-129170) | Medium | 5.3 | FileCodeBox 2.2.1 through 2.8.4 contains a stored cross-site scripting vulnerability in renderMarkdownPreview, which re… |
-| 2026-11-13 18:17:42 | [CVE-2026-129171](https://nvd.nist.gov/vuln/detail/CVE-2026-129171) | Critical | 9.3 | NginxPulse 1.5.0 before 1.6.26 contains an unauthenticated sql injection vulnerability that allows remote attackers to… |
-| 2026-11-13 18:17:42 | [CVE-2026-129172](https://nvd.nist.gov/vuln/detail/CVE-2026-129172) | Medium | 5.1 | EdgeEver 1.9.0 before 2.13.0 contains a stored cross-site scripting vulnerability in the backup restore endpoint PUT /a… |
-| 2026-11-13 18:17:48 | [CVE-2026-63173](https://nvd.nist.gov/vuln/detail/CVE-2026-63173) | Medium | 5.3 | Omnispace Agora Project through 26.10.0 contains a broken access control vulnerability in which the isAutor() function… |
-| 2026-11-13 18:17:49 | [CVE-2026-97357](https://nvd.nist.gov/vuln/detail/CVE-2026-97357) | Medium | 6.9 | An Out-Of-Bounds Write due to missing input validation is possible in the autoprogramming interface of SpaceCom and Spa… |
-| 2026-11-13 18:17:50 | [CVE-2026-97358](https://nvd.nist.gov/vuln/detail/CVE-2026-97358) | High | 7.0 | An inclusion of web functionality from an untrusted source could allow remote code execution on SpaceCom |
-| 2026-11-13 18:17:50 | [CVE-2026-97361](https://nvd.nist.gov/vuln/detail/CVE-2026-97361) | High | 8.5 | There exists an improper privilege management vulnerability that could cause privilege escalation at the SpaceCom and S… |
+| 2026-11-13 19:17:36 | [CVE-2026-100403](https://nvd.nist.gov/vuln/detail/CVE-2026-100403) | High | 7.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
+| 2026-11-13 19:17:37 | [CVE-2026-102537](https://nvd.nist.gov/vuln/detail/CVE-2026-102537) | High | 7.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
+| 2026-11-13 19:17:37 | [CVE-2026-102612](https://nvd.nist.gov/vuln/detail/CVE-2026-102612) | High | 8.1 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
+| 2026-11-13 19:17:37 | [CVE-2026-104204](https://nvd.nist.gov/vuln/detail/CVE-2026-104204) | High | 8.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.6.1, there is a… |
+| 2026-11-13 19:19:30 | [CVE-2026-128080](https://nvd.nist.gov/vuln/detail/CVE-2026-128080) | Medium | 5.8 | OpenTelemetry JavaScript is the OpenTelemetry JavaScript client. From 0.204.0 until 0.222.0, @opentelemetry/instrumenta… |
+| 2026-11-13 19:19:30 | [CVE-2026-128081](https://nvd.nist.gov/vuln/detail/CVE-2026-128081) | High | 7.5 | AutoMapper is a convention-based object-object mapper in .NET. Prior to 15.1.4 and from 16.0.0 until 16.3.0, AutoMapper… |
+| 2026-11-13 19:19:30 | [CVE-2026-128082](https://nvd.nist.gov/vuln/detail/CVE-2026-128082) | High | 7.5 | AutoMapper is a convention-based object-object mapper in .NET. Prior to 15.1.4 and from 16.0.0 until 16.3.0, AutoMapper… |
+| 2026-11-13 19:19:30 | [CVE-2026-128083](https://nvd.nist.gov/vuln/detail/CVE-2026-128083) | Low | 2.3 | Laravel is a web application framework. Prior to 12.71.0 and 13.40.0, Laravel's Concurrency::run process driver can tre… |
+| 2026-11-13 19:19:31 | [CVE-2026-128084](https://nvd.nist.gov/vuln/detail/CVE-2026-128084) | Medium | 4.8 | sqlite3 provides Ruby bindings for the SQLite3 embedded database. Prior to 2.10.2, sqlite3-ruby casts Ruby string lengt… |
+| 2026-11-13 19:19:31 | [CVE-2026-128085](https://nvd.nist.gov/vuln/detail/CVE-2026-128085) | Medium | 5.3 | OpenTelemetry-Go is the Go implementation of OpenTelemetry. From SDK version 1.33.0, SDK log version 0.9.0, and trace v… |
+| 2026-11-13 19:19:31 | [CVE-2026-128086](https://nvd.nist.gov/vuln/detail/CVE-2026-128086) | Medium | 5.3 | OpenTelemetry-Go is the Go implementation of OpenTelemetry. From version 1.0.0-RC1 until version 1.47.0, baggage.Parse… |
+| 2026-11-13 19:19:31 | [CVE-2026-128087](https://nvd.nist.gov/vuln/detail/CVE-2026-128087) | Low | 3.7 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. From version 0.55.0 u… |
+| 2026-11-13 19:19:31 | [CVE-2026-128088](https://nvd.nist.gov/vuln/detail/CVE-2026-128088) | Low | 2.2 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to version 0.65… |
+| 2026-11-13 19:19:32 | [CVE-2026-129217](https://nvd.nist.gov/vuln/detail/CVE-2026-129217) | Medium | 6.0 | In FRRouting (FRR) 8.3 through 10.5.1, bgp_notify_decapsulate_hard_reset() in bgpd/bgp_packet.c does not validate the l… |
+| 2026-11-13 19:19:32 | [CVE-2026-43626](https://nvd.nist.gov/vuln/detail/CVE-2026-43626) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority, replacedby CVE-2026-70640. |
+| 2026-11-13 19:19:32 | [CVE-2026-62975](https://nvd.nist.gov/vuln/detail/CVE-2026-62975) | Medium | 6.9 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the RAMFS-b… |
+| 2026-11-13 19:19:33 | [CVE-2026-62976](https://nvd.nist.gov/vuln/detail/CVE-2026-62976) | High | 8.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the RAMFS-b… |
+| 2026-11-13 19:19:33 | [CVE-2026-62977](https://nvd.nist.gov/vuln/detail/CVE-2026-62977) | Medium | 6.9 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the BACnet… |
+| 2026-11-13 19:19:33 | [CVE-2026-64675](https://nvd.nist.gov/vuln/detail/CVE-2026-64675) | Medium | 5.3 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.5 and 1.5.1,… |
+| 2026-11-13 19:19:34 | [CVE-2026-67444](https://nvd.nist.gov/vuln/detail/CVE-2026-67444) | High | 7.1 | Hubleys is a dashboard for self-hosted services. Prior to version 0.5.2, any authenticated (non-admin) Hubleys user can… |
+| 2026-11-13 19:19:35 | [CVE-2026-68510](https://nvd.nist.gov/vuln/detail/CVE-2026-68510) | Medium | 6.9 | bit-vec is a compact vector of bits. Prior to version 0.10.0, there is undefined behavior if a user performs deserializ… |
+| 2026-11-13 19:19:35 | [CVE-2026-68541](https://nvd.nist.gov/vuln/detail/CVE-2026-68541) | Medium | 5.2 | PolicyPress is a compliance policy management tool for small and mid-size teams. Prior to version 1.4.1, sensitive cont… |
+| 2026-11-13 19:19:36 | [CVE-2026-82414](https://nvd.nist.gov/vuln/detail/CVE-2026-82414) | High | 8.8 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions 1.4.0 to before 1.4.6… |
+| 2026-11-13 19:20:03 | [CVE-2026-97692](https://nvd.nist.gov/vuln/detail/CVE-2026-97692) | High | 7.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
 
 ## Data source
 
