@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-13T12:17:03.21Z,CVE-2026-120221,HIGH,8.2,Received,CWE-415; CWE-416,1,"In FRRouting 8.4 and later, bgpd frees the same memory twice when dynamic BGP neighbors disconnect, if the peer-group used by a ""bgp listen range"" also has a Site-of-Origin configured (""neighbor PG soo""). Each dynamic neighbor shares the peer-group's SoO value instead of getting its own copy, but f…"

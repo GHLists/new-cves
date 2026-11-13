@@ -9,20 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:18 UTC
+## Latest list — 2026-11-13 12:18 UTC
 
-New CVEs published between 2026-11-13 10:18 UTC and 2026-11-13 11:18 UTC.
+New CVEs published between 2026-11-13 11:18 UTC and 2026-11-13 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-13T11-18-45-151219Z.csv)
+[Full CSV](data/new-cves-2026-11-13T12-18-43-710181Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-13 11:17:14 | [CVE-2026-109903](https://nvd.nist.gov/vuln/detail/CVE-2026-109903) | High | 7.8 | A buffer overread caused by casting a negative integer to CARD32 in XvQueryImageAttributes in X.Org X Server before 21.… |
-| 2026-11-13 11:17:15 | [CVE-2026-109904](https://nvd.nist.gov/vuln/detail/CVE-2026-109904) | Medium | 6.9 | A buffer overread caused by an integer-overflow in Proc/SProcXResQueryClientIds in X.Org xwayland before 24.1.15 and X… |
-| 2026-11-13 11:17:15 | [CVE-2026-112182](https://nvd.nist.gov/vuln/detail/CVE-2026-112182) | High | 8.7 | Unauthorization vulnerability in the management of workflow definitions in OpenKM Community Edition. The REST endpoints… |
-| 2026-11-13 11:17:16 | [CVE-2026-123274](https://nvd.nist.gov/vuln/detail/CVE-2026-123274) |  |  | Out-of-bounds Write vulnerability in Apache DataSketches C++. An application that deserializes a KLL sketch from an unt… |
-| 2026-11-13 11:17:16 | [CVE-2026-123338](https://nvd.nist.gov/vuln/detail/CVE-2026-123338) |  |  | Out-of-bounds Write vulnerability in Apache DataSketches C++. An application that deserializes a REQ sketch from an unt… |
-| 2026-11-13 11:17:16 | [CVE-2026-125659](https://nvd.nist.gov/vuln/detail/CVE-2026-125659) | Low | 2.1 | This vulnerability exists in the eMudhra emBridge due to missing authorization checks in the FileBrowser API endpoints.… |
+| 2026-11-13 12:17:03 | [CVE-2026-120221](https://nvd.nist.gov/vuln/detail/CVE-2026-120221) | High | 8.2 | In FRRouting 8.4 and later, bgpd frees the same memory twice when dynamic BGP neighbors disconnect, if the peer-group u… |
 
 ## Data source
 
