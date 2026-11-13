@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-13T07:17:20.61Z,CVE-2026-128424,MEDIUM,5.3,Awaiting Analysis,CWE-863,4,"A flaw was found in Kroxylicious. The ACL authorizer's rules-file parser unquotes `matching /…/` regular-expression literals using the string unquoting rules, which strips every backslash escape. As a result, an allow rule such as `matching /orders\.v1/` is compiled as the regex `orders.v1`, which…"
