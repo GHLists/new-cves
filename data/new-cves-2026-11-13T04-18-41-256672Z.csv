@@ -1,0 +1,5 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-13T04:17:36.417Z,CVE-2026-107415,CRITICAL,9.3,Received,,1,Memory overflow in Email OTP authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+2026-11-13T04:17:36.537Z,CVE-2026-111340,HIGH,8.7,Received,,1,Memory overflow in KBA (knowledge-based authentication) can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+2026-11-13T04:17:36.653Z,CVE-2026-111341,HIGH,8.7,Received,,1,Memory overflow in client-certificate authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+2026-11-13T04:17:36.777Z,CVE-2026-111342,HIGH,8.7,Received,,1,Memory overflow in LDAP authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler ADC and Citrix NetScaler Gateway.

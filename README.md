@@ -9,22 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 03:18 UTC
+## Latest list — 2026-11-13 04:18 UTC
 
-New CVEs published between 2026-11-13 02:21 UTC and 2026-11-13 03:18 UTC.
+New CVEs published between 2026-11-13 03:18 UTC and 2026-11-13 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-13T03-18-57-607931Z.csv)
+[Full CSV](data/new-cves-2026-11-13T04-18-41-256672Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-13 03:17:28 | [CVE-2026-107411](https://nvd.nist.gov/vuln/detail/CVE-2026-107411) | High | 8.7 | Memory overflow in RTSP ALG can lead to unpredictable or erroneous behavior or Denial of Service in Citrix NetScaler |
-| 2026-11-13 03:17:28 | [CVE-2026-107412](https://nvd.nist.gov/vuln/detail/CVE-2026-107412) | Critical | 9.5 | Multiple Memory overflow vulnerabilities can lead to unpredictable or erroneous behavior and Denial of Service in Citri… |
-| 2026-11-13 03:17:28 | [CVE-2026-107413](https://nvd.nist.gov/vuln/detail/CVE-2026-107413) | High | 8.7 | Memory overflow in SAML authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citrix N… |
-| 2026-11-13 03:17:29 | [CVE-2026-107414](https://nvd.nist.gov/vuln/detail/CVE-2026-107414) | High | 8.7 | Memory overflow in WebAuth authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citri… |
-| 2026-11-13 03:17:29 | [CVE-2026-127285](https://nvd.nist.gov/vuln/detail/CVE-2026-127285) | Low | 2.1 | A flaw has been found in Cairo-dock Glx-Dock 3.4.0. The affected element is an unknown function of the file bg_forum.ph… |
-| 2026-11-13 03:17:30 | [CVE-2026-127286](https://nvd.nist.gov/vuln/detail/CVE-2026-127286) | Medium | 5.5 | A vulnerability was identified in Zackriya-Solutions Meetily up to 0.4.1. Affected is an unknown function of the file b… |
-| 2026-11-13 03:17:30 | [CVE-2026-49747](https://nvd.nist.gov/vuln/detail/CVE-2026-49747) |  |  | Software installed and run as a non-privileged user may conduct GPU system calls to trigger an integer overflow and all… |
-| 2026-11-13 03:17:30 | [CVE-2026-74911](https://nvd.nist.gov/vuln/detail/CVE-2026-74911) |  |  | Software installed and run as a non-privileged user may conduct improper GPU system calls to the execution of an error… |
+| 2026-11-13 04:17:36 | [CVE-2026-107415](https://nvd.nist.gov/vuln/detail/CVE-2026-107415) | Critical | 9.3 | Memory overflow in Email OTP authentication can lead to unpredictable or erroneous behavior or Denial of Service in Cit… |
+| 2026-11-13 04:17:36 | [CVE-2026-111340](https://nvd.nist.gov/vuln/detail/CVE-2026-111340) | High | 8.7 | Memory overflow in KBA (knowledge-based authentication) can lead to unpredictable or erroneous behavior or Denial of Se… |
+| 2026-11-13 04:17:36 | [CVE-2026-111341](https://nvd.nist.gov/vuln/detail/CVE-2026-111341) | High | 8.7 | Memory overflow in client-certificate authentication can lead to unpredictable or erroneous behavior or Denial of Servi… |
+| 2026-11-13 04:17:36 | [CVE-2026-111342](https://nvd.nist.gov/vuln/detail/CVE-2026-111342) | High | 8.7 | Memory overflow in LDAP authentication can lead to unpredictable or erroneous behavior or Denial of Service in Citrix N… |
 
 ## Data source
 
