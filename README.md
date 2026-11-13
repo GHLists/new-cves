@@ -9,38 +9,47 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 19:20 UTC
+## Latest list — 2026-11-13 21:18 UTC
 
-New CVEs published between 2026-11-13 18:21 UTC and 2026-11-13 19:20 UTC.
+New CVEs published between 2026-11-13 20:18 UTC and 2026-11-13 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-13T19-20-30-362093Z.csv)
+[Full CSV](data/new-cves-2026-11-13T21-18-37-847975Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-13 19:17:36 | [CVE-2026-100403](https://nvd.nist.gov/vuln/detail/CVE-2026-100403) | High | 7.5 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
-| 2026-11-13 19:17:37 | [CVE-2026-102537](https://nvd.nist.gov/vuln/detail/CVE-2026-102537) | High | 7.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
-| 2026-11-13 19:17:37 | [CVE-2026-102612](https://nvd.nist.gov/vuln/detail/CVE-2026-102612) | High | 8.1 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
-| 2026-11-13 19:17:37 | [CVE-2026-104204](https://nvd.nist.gov/vuln/detail/CVE-2026-104204) | High | 8.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.6.1, there is a… |
-| 2026-11-13 19:19:30 | [CVE-2026-128080](https://nvd.nist.gov/vuln/detail/CVE-2026-128080) | Medium | 5.8 | OpenTelemetry JavaScript is the OpenTelemetry JavaScript client. From 0.204.0 until 0.222.0, @opentelemetry/instrumenta… |
-| 2026-11-13 19:19:30 | [CVE-2026-128081](https://nvd.nist.gov/vuln/detail/CVE-2026-128081) | High | 7.5 | AutoMapper is a convention-based object-object mapper in .NET. Prior to 15.1.4 and from 16.0.0 until 16.3.0, AutoMapper… |
-| 2026-11-13 19:19:30 | [CVE-2026-128082](https://nvd.nist.gov/vuln/detail/CVE-2026-128082) | High | 7.5 | AutoMapper is a convention-based object-object mapper in .NET. Prior to 15.1.4 and from 16.0.0 until 16.3.0, AutoMapper… |
-| 2026-11-13 19:19:30 | [CVE-2026-128083](https://nvd.nist.gov/vuln/detail/CVE-2026-128083) | Low | 2.3 | Laravel is a web application framework. Prior to 12.71.0 and 13.40.0, Laravel's Concurrency::run process driver can tre… |
-| 2026-11-13 19:19:31 | [CVE-2026-128084](https://nvd.nist.gov/vuln/detail/CVE-2026-128084) | Medium | 4.8 | sqlite3 provides Ruby bindings for the SQLite3 embedded database. Prior to 2.10.2, sqlite3-ruby casts Ruby string lengt… |
-| 2026-11-13 19:19:31 | [CVE-2026-128085](https://nvd.nist.gov/vuln/detail/CVE-2026-128085) | Medium | 5.3 | OpenTelemetry-Go is the Go implementation of OpenTelemetry. From SDK version 1.33.0, SDK log version 0.9.0, and trace v… |
-| 2026-11-13 19:19:31 | [CVE-2026-128086](https://nvd.nist.gov/vuln/detail/CVE-2026-128086) | Medium | 5.3 | OpenTelemetry-Go is the Go implementation of OpenTelemetry. From version 1.0.0-RC1 until version 1.47.0, baggage.Parse… |
-| 2026-11-13 19:19:31 | [CVE-2026-128087](https://nvd.nist.gov/vuln/detail/CVE-2026-128087) | Low | 3.7 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. From version 0.55.0 u… |
-| 2026-11-13 19:19:31 | [CVE-2026-128088](https://nvd.nist.gov/vuln/detail/CVE-2026-128088) | Low | 2.2 | russh is a Rust SSH client and server library that includes an SSH agent protocol implementation. Prior to version 0.65… |
-| 2026-11-13 19:19:32 | [CVE-2026-129217](https://nvd.nist.gov/vuln/detail/CVE-2026-129217) | Medium | 6.0 | In FRRouting (FRR) 8.3 through 10.5.1, bgp_notify_decapsulate_hard_reset() in bgpd/bgp_packet.c does not validate the l… |
-| 2026-11-13 19:19:32 | [CVE-2026-43626](https://nvd.nist.gov/vuln/detail/CVE-2026-43626) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority, replacedby CVE-2026-70640. |
-| 2026-11-13 19:19:32 | [CVE-2026-62975](https://nvd.nist.gov/vuln/detail/CVE-2026-62975) | Medium | 6.9 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the RAMFS-b… |
-| 2026-11-13 19:19:33 | [CVE-2026-62976](https://nvd.nist.gov/vuln/detail/CVE-2026-62976) | High | 8.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the RAMFS-b… |
-| 2026-11-13 19:19:33 | [CVE-2026-62977](https://nvd.nist.gov/vuln/detail/CVE-2026-62977) | Medium | 6.9 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to version 1.5.1, the BACnet… |
-| 2026-11-13 19:19:33 | [CVE-2026-64675](https://nvd.nist.gov/vuln/detail/CVE-2026-64675) | Medium | 5.3 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.5 and 1.5.1,… |
-| 2026-11-13 19:19:34 | [CVE-2026-67444](https://nvd.nist.gov/vuln/detail/CVE-2026-67444) | High | 7.1 | Hubleys is a dashboard for self-hosted services. Prior to version 0.5.2, any authenticated (non-admin) Hubleys user can… |
-| 2026-11-13 19:19:35 | [CVE-2026-68510](https://nvd.nist.gov/vuln/detail/CVE-2026-68510) | Medium | 6.9 | bit-vec is a compact vector of bits. Prior to version 0.10.0, there is undefined behavior if a user performs deserializ… |
-| 2026-11-13 19:19:35 | [CVE-2026-68541](https://nvd.nist.gov/vuln/detail/CVE-2026-68541) | Medium | 5.2 | PolicyPress is a compliance policy management tool for small and mid-size teams. Prior to version 1.4.1, sensitive cont… |
-| 2026-11-13 19:19:36 | [CVE-2026-82414](https://nvd.nist.gov/vuln/detail/CVE-2026-82414) | High | 8.8 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. From versions 1.4.0 to before 1.4.6… |
-| 2026-11-13 19:20:03 | [CVE-2026-97692](https://nvd.nist.gov/vuln/detail/CVE-2026-97692) | High | 7.7 | BACnet Stack is a BACnet open source protocol stack C library for embedded systems. Prior to versions 1.4.6, 1.5.2, and… |
+| 2026-11-13 20:18:55 | [CVE-2026-127213](https://nvd.nist.gov/vuln/detail/CVE-2026-127213) | Medium | 6.9 | LearnPress Course Wishlist Add-on before 4.1.2 contains an insecure direct object reference vulnerability that allows r… |
+| 2026-11-13 20:18:55 | [CVE-2026-127214](https://nvd.nist.gov/vuln/detail/CVE-2026-127214) | Medium | 6.3 | Flowise through 3.1.4 contains a server-side request forgery vulnerability that allows authenticated attackers with cha… |
+| 2026-11-13 20:18:55 | [CVE-2026-127215](https://nvd.nist.gov/vuln/detail/CVE-2026-127215) | High | 8.6 | Kanbanz by Softaculous plugin for WordPress before 1.0.3 contains a broken access control vulnerability that allows aut… |
+| 2026-11-13 20:18:55 | [CVE-2026-128089](https://nvd.nist.gov/vuln/detail/CVE-2026-128089) | High | 7.5 | dnspython is a DNS toolkit for Python. Prior to version 2.9.2, the from_text() parser for WKS records does not require… |
+| 2026-11-13 20:18:56 | [CVE-2026-128100](https://nvd.nist.gov/vuln/detail/CVE-2026-128100) | Medium | 6.5 | Vault Community Edition and Vault Enterprise did not apply explicit ACL policy deny rules to letter case variants of us… |
+| 2026-11-13 20:18:56 | [CVE-2026-128116](https://nvd.nist.gov/vuln/detail/CVE-2026-128116) | Medium | 5.3 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. Prior to versions 2.7… |
+| 2026-11-13 20:18:56 | [CVE-2026-128117](https://nvd.nist.gov/vuln/detail/CVE-2026-128117) | Medium | 5.9 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. Prior to versions 2.7… |
+| 2026-11-13 20:18:56 | [CVE-2026-128118](https://nvd.nist.gov/vuln/detail/CVE-2026-128118) | High | 7.5 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. From version 3.0.0 un… |
+| 2026-11-13 20:18:56 | [CVE-2026-128119](https://nvd.nist.gov/vuln/detail/CVE-2026-128119) | Medium | 5.9 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. From version 2.60.1 u… |
+| 2026-11-13 20:18:56 | [CVE-2026-128120](https://nvd.nist.gov/vuln/detail/CVE-2026-128120) | High | 7.5 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. From version 2.42.0 u… |
+| 2026-11-13 20:18:56 | [CVE-2026-128121](https://nvd.nist.gov/vuln/detail/CVE-2026-128121) | Medium | 5.9 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. Prior to @sveltejs/ad… |
+| 2026-11-13 20:18:57 | [CVE-2026-128122](https://nvd.nist.gov/vuln/detail/CVE-2026-128122) | Medium | 5.9 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. From version 4.7.0 un… |
+| 2026-11-13 20:18:57 | [CVE-2026-128123](https://nvd.nist.gov/vuln/detail/CVE-2026-128123) | Medium | 5.9 | SvelteKit is a framework for rapidly developing robust, performant web applications using Svelte. From version 5.5.7 un… |
+| 2026-11-13 20:19:00 | [CVE-2026-68551](https://nvd.nist.gov/vuln/detail/CVE-2026-68551) | High | 8.3 | Budget Board is an app for tracking monthly spending and working towards financial goals. Prior to version 3.6.2, Budge… |
+| 2026-11-13 20:19:00 | [CVE-2026-68905](https://nvd.nist.gov/vuln/detail/CVE-2026-68905) | High | 8.2 | Hugo Blog is a tech blog site. In commit 744ca15 and prior, the AI assistant proxy exposes three HTTP endpoints (POST /… |
+| 2026-11-13 21:17:35 | [CVE-2025-43867](https://nvd.nist.gov/vuln/detail/CVE-2025-43867) | High | 8.5 | - Dependency on Vulnerable Third-Party Component vulnerability in Johnson Controls FX Server, Johnson Controls FX80, an… |
+| 2026-11-13 21:17:43 | [CVE-2026-127216](https://nvd.nist.gov/vuln/detail/CVE-2026-127216) | High | 7.1 | Injection Guard plugin for WordPress before 1.4.0 contains a cross-site request forgery vulnerability that allows unaut… |
+| 2026-11-13 21:17:43 | [CVE-2026-127217](https://nvd.nist.gov/vuln/detail/CVE-2026-127217) | Medium | 5.3 | Post to Google My Business plugin for WordPress before 3.5.7 contains a blind server-side request forgery vulnerability… |
+| 2026-11-13 21:17:44 | [CVE-2026-128124](https://nvd.nist.gov/vuln/detail/CVE-2026-128124) | High | 8.2 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, Application.add_domain… |
+| 2026-11-13 21:17:44 | [CVE-2026-128125](https://nvd.nist.gov/vuln/detail/CVE-2026-128125) | Medium | 6.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, Set-Cookie parsing tre… |
+| 2026-11-13 21:17:44 | [CVE-2026-128126](https://nvd.nist.gov/vuln/detail/CVE-2026-128126) | High | 8.7 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, Request.post() does no… |
+| 2026-11-13 21:17:44 | [CVE-2026-128127](https://nvd.nist.gov/vuln/detail/CVE-2026-128127) | High | 8.7 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, BodyPartReader.read_ch… |
+| 2026-11-13 21:17:44 | [CVE-2026-128128](https://nvd.nist.gov/vuln/detail/CVE-2026-128128) | High | 7.5 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, the C WebSocket reader… |
+| 2026-11-13 21:17:44 | [CVE-2026-128129](https://nvd.nist.gov/vuln/detail/CVE-2026-128129) | High | 8.2 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, aiohttp buffers all ad… |
+| 2026-11-13 21:17:44 | [CVE-2026-128130](https://nvd.nist.gov/vuln/detail/CVE-2026-128130) | High | 8.3 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, when the pipelined req… |
+| 2026-11-13 21:17:45 | [CVE-2026-128131](https://nvd.nist.gov/vuln/detail/CVE-2026-128131) | High | 8.7 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, aiohttp decompresses e… |
+| 2026-11-13 21:17:45 | [CVE-2026-128132](https://nvd.nist.gov/vuln/detail/CVE-2026-128132) | High | 8.7 | AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.4, the WebSocket reader c… |
+| 2026-11-13 21:17:45 | [CVE-2026-128133](https://nvd.nist.gov/vuln/detail/CVE-2026-128133) |  |  | Rejected reason: This CVE is a duplicate of another CVE. |
+| 2026-11-13 21:17:45 | [CVE-2026-128885](https://nvd.nist.gov/vuln/detail/CVE-2026-128885) | Medium | 5.5 | A flaw was found in D-Bus. In configurations where the daemon falls back to using the Unix select() mechanism for event… |
+| 2026-11-13 21:17:45 | [CVE-2026-128987](https://nvd.nist.gov/vuln/detail/CVE-2026-128987) | Medium | 6.2 | A flaw was found in dbus. A local attacker can exploit this vulnerability by connecting to an affected service, request… |
+| 2026-11-13 21:17:48 | [CVE-2026-82504](https://nvd.nist.gov/vuln/detail/CVE-2026-82504) | Critical | 9.3 | VITEC EZ TV Platform Server before 8.5.0 contains an unrestricted file upload vulnerability in the upload handler that… |
+| 2026-11-13 21:17:48 | [CVE-2026-89037](https://nvd.nist.gov/vuln/detail/CVE-2026-89037) | High | 7.1 | Dolibarr before 24.0.2 contains an insecure direct object reference vulnerability in the REST Documents API for the tic… |
+| 2026-11-13 21:17:48 | [CVE-2026-92738](https://nvd.nist.gov/vuln/detail/CVE-2026-92738) | Medium | 6.8 | Vault's Login MFA feature did not consistently enforce the lifetime of pending two-phase login requests. This may allow… |
 
 ## Data source
 
