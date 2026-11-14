@@ -9,16 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 15:20 UTC
+## Latest list — 2026-11-14 16:18 UTC
 
-New CVEs published between 2026-11-14 14:18 UTC and 2026-11-14 15:20 UTC.
+New CVEs published between 2026-11-14 15:20 UTC and 2026-11-14 16:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T15-20-19-732897Z.csv)
+[Full CSV](data/new-cves-2026-11-14T16-18-18-14306Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 15:16:58 | [CVE-2026-129258](https://nvd.nist.gov/vuln/detail/CVE-2026-129258) | High | 8.5 | A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by this vulnerability i… |
-| 2026-11-14 15:16:58 | [CVE-2026-129259](https://nvd.nist.gov/vuln/detail/CVE-2026-129259) | Low | 2.0 | A weakness has been identified in Mereithhh VanBlog up to 0.54.0. This affects an unknown part of the file packages/ser… |
+| 2026-11-14 16:17:02 | [CVE-2026-110531](https://nvd.nist.gov/vuln/detail/CVE-2026-110531) | Medium | 6.4 | The FV Player 8 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'fv_player_videos' parameter… |
+| 2026-11-14 16:17:03 | [CVE-2026-116753](https://nvd.nist.gov/vuln/detail/CVE-2026-116753) | High | 7.2 | The Multi Step for Contact Form 7 plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'multipart… |
+| 2026-11-14 16:17:03 | [CVE-2026-120687](https://nvd.nist.gov/vuln/detail/CVE-2026-120687) | High | 7.2 | The Lightbox & Modal Popup WordPress Plugin – FooBox plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site… |
+| 2026-11-14 16:17:04 | [CVE-2026-127115](https://nvd.nist.gov/vuln/detail/CVE-2026-127115) | Medium | 5.4 | The BuddyForms plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'buddyforms_form_content' para… |
+| 2026-11-14 16:17:04 | [CVE-2026-129260](https://nvd.nist.gov/vuln/detail/CVE-2026-129260) | Low | 2.0 | A security vulnerability has been detected in Mereithhh VanBlog up to 0.54.0. This vulnerability affects the function f… |
+| 2026-11-14 16:17:04 | [CVE-2026-129261](https://nvd.nist.gov/vuln/detail/CVE-2026-129261) | Critical | 9.3 | A vulnerability was found in Kingston FURY CTRL RGB Control Software up to 2.0.66.0. The impacted element is an unknown… |
 
 ## Data source
 
