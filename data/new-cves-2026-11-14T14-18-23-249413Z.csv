@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-14T14:17:21.48Z,CVE-2011-10042,,,Received,CWE-93,2,"HTTP::Session versions before 0.43 for Perl allow memcached command injection via unfiltered session ids in HTTP::Session::Store::Memcached. The session id from the client's cookie reaches memcached unchanged as the cache key. A CR and LF in the session id end the cache command early, and the serve…"
