@@ -9,19 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:20 UTC
+## Latest list — 2026-11-14 06:19 UTC
 
-New CVEs published between 2026-11-13 22:19 UTC and 2026-11-13 23:20 UTC.
+New CVEs published between 2026-11-14 05:18 UTC and 2026-11-14 06:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-13T23-20-07-696638Z.csv)
+[Full CSV](data/new-cves-2026-11-14T06-19-02-330995Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-13 23:17:17 | [CVE-2026-128134](https://nvd.nist.gov/vuln/detail/CVE-2026-128134) | High | 7.8 | NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research… |
-| 2026-11-13 23:17:18 | [CVE-2026-129173](https://nvd.nist.gov/vuln/detail/CVE-2026-129173) | Medium | 6.9 | A security flaw has been discovered in Stirling-Tools Stirling-PDF up to 3.3.0. Affected is the function WorkflowPartic… |
-| 2026-11-13 23:17:19 | [CVE-2026-129180](https://nvd.nist.gov/vuln/detail/CVE-2026-129180) | Medium | 5.5 | A flaw has been found in projectworlds Visitor Management System 1.0. This vulnerability affects the function mysqli_qu… |
-| 2026-11-13 23:17:19 | [CVE-2026-71519](https://nvd.nist.gov/vuln/detail/CVE-2026-71519) | High | 8.6 | PrestaShop before 8.2.9 and 9.2.1 contains a broken access control vulnerability that allows an authenticated Webservic… |
-| 2026-11-13 23:17:19 | [CVE-2026-71531](https://nvd.nist.gov/vuln/detail/CVE-2026-71531) | High | 8.6 | PrestaShop before 8.2.9 and 9.2.1 contains an authorization flaw in the Webservice API that allows an attacker holding… |
+| 2026-11-14 05:18:32 | [CVE-2026-124969](https://nvd.nist.gov/vuln/detail/CVE-2026-124969) | High | 7.1 | The Optimole – Optimize Images \| Convert WebP & AVIF \| CDN & Lazy Load \| Image Optimization plugin for WordPress is vul… |
+| 2026-11-14 05:18:37 | [CVE-2026-126173](https://nvd.nist.gov/vuln/detail/CVE-2026-126173) | Critical | 9.8 | The AutomatorWP Pro plugin for WordPress' webhook addon is vulnerable to authorization bypass in all versions up to, an… |
 
 ## Data source
 
