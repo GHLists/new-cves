@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 08:18 UTC
+## Latest list — 2026-11-14 09:19 UTC
 
-New CVEs published between 2026-11-14 07:20 UTC and 2026-11-14 08:18 UTC.
+New CVEs published between 2026-11-14 08:18 UTC and 2026-11-14 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T08-18-29-784169Z.csv)
+[Full CSV](data/new-cves-2026-11-14T09-19-14-012129Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 08:17:18 | [CVE-2026-129181](https://nvd.nist.gov/vuln/detail/CVE-2026-129181) | Medium | 5.5 | A vulnerability has been found in projectworlds Visitor Management System 1.0. This issue affects the function mysqli_q… |
+| 2026-11-14 09:16:47 | [CVE-2026-18742](https://nvd.nist.gov/vuln/detail/CVE-2026-18742) | Medium | 6.4 | The Flatsome theme for WordPress is vulnerable to Stored Cross-Site Scripting via 'data-text-sec', 'data-title', and 't… |
 
 ## Data source
 
