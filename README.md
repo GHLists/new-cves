@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:18 UTC
+## Latest list — 2026-11-14 15:20 UTC
 
-New CVEs published between 2026-11-14 13:20 UTC and 2026-11-14 14:18 UTC.
+New CVEs published between 2026-11-14 14:18 UTC and 2026-11-14 15:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T14-18-23-249413Z.csv)
+[Full CSV](data/new-cves-2026-11-14T15-20-19-732897Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 14:17:21 | [CVE-2011-10042](https://nvd.nist.gov/vuln/detail/CVE-2011-10042) |  |  | HTTP::Session versions before 0.43 for Perl allow memcached command injection via unfiltered session ids in HTTP::Sessi… |
+| 2026-11-14 15:16:58 | [CVE-2026-129258](https://nvd.nist.gov/vuln/detail/CVE-2026-129258) | High | 8.5 | A vulnerability was identified in Tenda AC18 15.03.05.05_multi/15.03.05.19 Build 6318. Affected by this vulnerability i… |
+| 2026-11-14 15:16:58 | [CVE-2026-129259](https://nvd.nist.gov/vuln/detail/CVE-2026-129259) | Low | 2.0 | A weakness has been identified in Mereithhh VanBlog up to 0.54.0. This affects an unknown part of the file packages/ser… |
 
 ## Data source
 
