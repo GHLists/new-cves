@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 17:19 UTC
+## Latest list — 2026-11-14 18:18 UTC
 
-New CVEs published between 2026-11-14 16:18 UTC and 2026-11-14 17:19 UTC.
+New CVEs published between 2026-11-14 17:19 UTC and 2026-11-14 18:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T17-19-21-492178Z.csv)
+[Full CSV](data/new-cves-2026-11-14T18-18-23-784082Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 17:16:52 | [CVE-2026-129262](https://nvd.nist.gov/vuln/detail/CVE-2026-129262) | Medium | 5.5 | A weakness has been identified in Wuxi Wubang Security Software Wubang Five-in-One Safety Production Management Informa… |
-| 2026-11-14 17:16:53 | [CVE-2026-129264](https://nvd.nist.gov/vuln/detail/CVE-2026-129264) | Low | 2.0 | A security vulnerability has been detected in sox_ng up to 14.8.1. Affected by this issue is the function read_samples_… |
+| 2026-11-14 18:17:20 | [CVE-2026-129267](https://nvd.nist.gov/vuln/detail/CVE-2026-129267) | Low | 2.0 | A vulnerability was found in sergix44 XBackBone up to 3.8.2. Impacted is the function MediaController::getRawById of th… |
+| 2026-11-14 18:17:21 | [CVE-2026-129447](https://nvd.nist.gov/vuln/detail/CVE-2026-129447) | Medium | 5.3 | Kroki before 0.36.0 contains a reflected cross-site scripting vulnerability in the /dbml/svg endpoint that allows unaut… |
 
 ## Data source
 
