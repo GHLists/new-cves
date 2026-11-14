@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 18:18 UTC
+## Latest list — 2026-11-14 20:18 UTC
 
-New CVEs published between 2026-11-14 17:19 UTC and 2026-11-14 18:18 UTC.
+New CVEs published between 2026-11-14 19:18 UTC and 2026-11-14 20:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T18-18-23-784082Z.csv)
+[Full CSV](data/new-cves-2026-11-14T20-18-17-692514Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 18:17:20 | [CVE-2026-129267](https://nvd.nist.gov/vuln/detail/CVE-2026-129267) | Low | 2.0 | A vulnerability was found in sergix44 XBackBone up to 3.8.2. Impacted is the function MediaController::getRawById of th… |
-| 2026-11-14 18:17:21 | [CVE-2026-129447](https://nvd.nist.gov/vuln/detail/CVE-2026-129447) | Medium | 5.3 | Kroki before 0.36.0 contains a reflected cross-site scripting vulnerability in the /dbml/svg endpoint that allows unaut… |
+| 2026-11-14 20:17:39 | [CVE-2015-10149](https://nvd.nist.gov/vuln/detail/CVE-2015-10149) |  |  | Dancer versions before 1.3400 for Perl pass unvalidated session ids from the session cookie to the session engine. read… |
+| 2026-11-14 20:17:40 | [CVE-2026-129456](https://nvd.nist.gov/vuln/detail/CVE-2026-129456) | High | 7.7 | In FRRouting, bgpd accepts a Tunnel Encapsulation attribute (type 23) whose outer TLV length does not match the length… |
 
 ## Data source
 
