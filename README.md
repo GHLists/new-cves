@@ -9,16 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 20:18 UTC
+## Latest list — 2026-11-14 23:18 UTC
 
-New CVEs published between 2026-11-14 19:18 UTC and 2026-11-14 20:18 UTC.
+New CVEs published between 2026-11-14 22:18 UTC and 2026-11-14 23:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-14T20-18-17-692514Z.csv)
+[Full CSV](data/new-cves-2026-11-14T23-18-28-60011Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-14 20:17:39 | [CVE-2015-10149](https://nvd.nist.gov/vuln/detail/CVE-2015-10149) |  |  | Dancer versions before 1.3400 for Perl pass unvalidated session ids from the session cookie to the session engine. read… |
-| 2026-11-14 20:17:40 | [CVE-2026-129456](https://nvd.nist.gov/vuln/detail/CVE-2026-129456) | High | 7.7 | In FRRouting, bgpd accepts a Tunnel Encapsulation attribute (type 23) whose outer TLV length does not match the length… |
+| 2026-11-14 23:16:47 | [CVE-2026-129351](https://nvd.nist.gov/vuln/detail/CVE-2026-129351) | Critical | 9.3 | A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability affects the function sprin… |
+| 2026-11-14 23:16:48 | [CVE-2026-129352](https://nvd.nist.gov/vuln/detail/CVE-2026-129352) | High | 8.5 | A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown processing of the file /usr… |
 
 ## Data source
 
