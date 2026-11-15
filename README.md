@@ -9,16 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 01:18 UTC
+## Latest list — 2026-11-15 02:18 UTC
 
-New CVEs published between 2026-11-15 00:18 UTC and 2026-11-15 01:18 UTC.
+New CVEs published between 2026-11-15 01:18 UTC and 2026-11-15 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T01-18-17-174653Z.csv)
+[Full CSV](data/new-cves-2026-11-15T02-18-17-736618Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 01:18:03 | [CVE-2026-129354](https://nvd.nist.gov/vuln/detail/CVE-2026-129354) | Critical | 9.3 | A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main of the file htdocs/c… |
-| 2026-11-15 01:18:03 | [CVE-2026-129355](https://nvd.nist.gov/vuln/detail/CVE-2026-129355) | Medium | 6.9 | A vulnerability has been found in sigoden dufs up to 0.46.0. This affects an unknown part of the file src/server.rs of… |
+| 2026-11-15 02:17:20 | [CVE-2026-129356](https://nvd.nist.gov/vuln/detail/CVE-2026-129356) | Low | 1.3 | A vulnerability was found in vllm-project vllm 0.30.0/0.31.0. This vulnerability affects unknown code of the file singl… |
+| 2026-11-15 02:17:21 | [CVE-2026-129454](https://nvd.nist.gov/vuln/detail/CVE-2026-129454) | High | 7.1 | Zr.Admin.NET commit 85cff6a through commit eb9228a contains an insecure direct object reference vulnerability in GET /w… |
+| 2026-11-15 02:17:21 | [CVE-2026-129455](https://nvd.nist.gov/vuln/detail/CVE-2026-129455) | Medium | 5.3 | Zr.Admin.NET commit e6ceaf4 through commit eb9228a contains an insecure direct object reference vulnerability in FrontA… |
+| 2026-11-15 02:17:21 | [CVE-2026-129464](https://nvd.nist.gov/vuln/detail/CVE-2026-129464) | High | 8.7 | Zr.Admin.NET commit 0ee1ab8 through commit eb9228a contains a path traversal vulnerability that allows any logged-in us… |
+| 2026-11-15 02:17:21 | [CVE-2026-129465](https://nvd.nist.gov/vuln/detail/CVE-2026-129465) | High | 8.7 | Zr.Admin.NET commit af07ffc through commit eb9228a contains an insecure direct object reference vulnerability in SysPro… |
+| 2026-11-15 02:17:21 | [CVE-2026-129466](https://nvd.nist.gov/vuln/detail/CVE-2026-129466) | Medium | 5.3 | Zr.Admin.NET commit 1845017 through commit eb9228a contains a missing authorization vulnerability in TasksController.Ge… |
 
 ## Data source
 
