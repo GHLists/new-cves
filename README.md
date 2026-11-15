@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 08:18 UTC
+## Latest list — 2026-11-15 09:20 UTC
 
-New CVEs published between 2026-11-15 07:19 UTC and 2026-11-15 08:18 UTC.
+New CVEs published between 2026-11-15 08:18 UTC and 2026-11-15 09:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T08-18-43-268854Z.csv)
+[Full CSV](data/new-cves-2026-11-15T09-20-04-020173Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 08:17:21 | [CVE-2026-129443](https://nvd.nist.gov/vuln/detail/CVE-2026-129443) | Low | 2.1 | A vulnerability was determined in itsourcecode Airline Reservation System 1.0. The impacted element is an unknown funct… |
+| 2026-11-15 09:16:44 | [CVE-2026-129444](https://nvd.nist.gov/vuln/detail/CVE-2026-129444) | Critical | 9.3 | A vulnerability was identified in D-Link DSL-6740C 20131126. This affects an unknown function of the file /etc/template… |
 
 ## Data source
 
