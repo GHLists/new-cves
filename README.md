@@ -9,22 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 16:20 UTC
+## Latest list — 2026-11-15 19:18 UTC
 
-New CVEs published between 2026-11-15 15:19 UTC and 2026-11-15 16:20 UTC.
+New CVEs published between 2026-11-15 18:18 UTC and 2026-11-15 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T16-20-16-034082Z.csv)
+[Full CSV](data/new-cves-2026-11-15T19-18-46-207053Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 16:16:55 | [CVE-2025-71466](https://nvd.nist.gov/vuln/detail/CVE-2025-71466) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in m2tsdmx_update_sdt() in src/filters/dmx_m2ts.c… |
-| 2026-11-15 16:16:55 | [CVE-2025-71467](https://nvd.nist.gov/vuln/detail/CVE-2025-71467) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in gf_node_get_field_by_name() in src/scenegraph/… |
-| 2026-11-15 16:16:55 | [CVE-2025-71468](https://nvd.nist.gov/vuln/detail/CVE-2025-71468) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in gf_dash_group_get_audio_channels() in src/medi… |
-| 2026-11-15 16:16:56 | [CVE-2025-71470](https://nvd.nist.gov/vuln/detail/CVE-2025-71470) | Medium | 6.8 | MicroQuickJS (mquickjs) before commit 99eed3f contains an out-of-bounds read vulnerability because JS_Call() raises exc… |
-| 2026-11-15 16:16:56 | [CVE-2026-129484](https://nvd.nist.gov/vuln/detail/CVE-2026-129484) | Medium | 5.3 | Kroki before 0.36.0 contains a reflected cross-site scripting vulnerability that allows unauthenticated attackers to in… |
-| 2026-11-15 16:16:56 | [CVE-2026-129485](https://nvd.nist.gov/vuln/detail/CVE-2026-129485) | Medium | 6.9 | Kroki before 0.36.0 contains a server-side request forgery vulnerability in the BlockDiag family of engines that allows… |
-| 2026-11-15 16:16:56 | [CVE-2026-129490](https://nvd.nist.gov/vuln/detail/CVE-2026-129490) | Medium | 6.8 | littlefs through 2.11.3, when built with LFS_MIGRATE, contains a type confusion vulnerability in lfs_dir_traverse() tha… |
-| 2026-11-15 16:16:56 | [CVE-2025-71469](https://nvd.nist.gov/vuln/detail/CVE-2025-71469) | Medium | 6.8 | GPAC before 26.02.0 contains a type confusion vulnerability in ctxload_process() that passes non-object descriptors to… |
+| 2026-11-15 19:17:15 | [CVE-2026-125760](https://nvd.nist.gov/vuln/detail/CVE-2026-125760) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bit Apps Bit Assi… |
+| 2026-11-15 19:17:15 | [CVE-2026-125796](https://nvd.nist.gov/vuln/detail/CVE-2026-125796) | Medium | 6.5 | Missing Authorization vulnerability in Ahmad JS Help Desk js-support-ticket allows Exploiting Incorrectly Configured Ac… |
+| 2026-11-15 19:17:15 | [CVE-2026-125798](https://nvd.nist.gov/vuln/detail/CVE-2026-125798) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Zaytech Smart Onl… |
+| 2026-11-15 19:17:15 | [CVE-2026-125804](https://nvd.nist.gov/vuln/detail/CVE-2026-125804) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Meow Apps AI Engi… |
+| 2026-11-15 19:17:15 | [CVE-2026-125817](https://nvd.nist.gov/vuln/detail/CVE-2026-125817) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeisle Feedzy… |
+| 2026-11-15 19:17:15 | [CVE-2026-125818](https://nvd.nist.gov/vuln/detail/CVE-2026-125818) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in AdvancedCoding wp… |
+| 2026-11-15 19:17:16 | [CVE-2026-125822](https://nvd.nist.gov/vuln/detail/CVE-2026-125822) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Nickboss WordPres… |
+| 2026-11-15 19:17:16 | [CVE-2026-125823](https://nvd.nist.gov/vuln/detail/CVE-2026-125823) | High | 7.5 | Allocation of Resources Without Limits or Throttling vulnerability in Jegstudio Gutenverse gutenverse allows HTTP DoS.T… |
+| 2026-11-15 19:17:16 | [CVE-2026-125826](https://nvd.nist.gov/vuln/detail/CVE-2026-125826) | Medium | 5.0 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Blubrry Podcasting Powe… |
+| 2026-11-15 19:17:16 | [CVE-2026-125830](https://nvd.nist.gov/vuln/detail/CVE-2026-125830) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Belingo belingoGe… |
+| 2026-11-15 19:17:16 | [CVE-2026-129091](https://nvd.nist.gov/vuln/detail/CVE-2026-129091) | High | 8.1 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
 
 ## Data source
 
