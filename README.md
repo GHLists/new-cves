@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 11:18 UTC
+## Latest list — 2026-11-15 12:21 UTC
 
-New CVEs published between 2026-11-15 10:18 UTC and 2026-11-15 11:18 UTC.
+New CVEs published between 2026-11-15 11:18 UTC and 2026-11-15 12:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T11-18-51-383524Z.csv)
+[Full CSV](data/new-cves-2026-11-15T12-21-19-031166Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 11:17:10 | [CVE-2026-129449](https://nvd.nist.gov/vuln/detail/CVE-2026-129449) | High | 8.6 | A security vulnerability has been detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this vulnerability is the fu… |
+| 2026-11-15 12:17:20 | [CVE-2026-129450](https://nvd.nist.gov/vuln/detail/CVE-2026-129450) | High | 8.6 | A vulnerability was detected in DrayTek Vigor2960 1.5.1.6. Affected by this issue is the function sub_1E084 of the file… |
 
 ## Data source
 
