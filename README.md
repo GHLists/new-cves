@@ -9,25 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 19:18 UTC
+## Latest list — 2026-11-15 21:18 UTC
 
-New CVEs published between 2026-11-15 18:18 UTC and 2026-11-15 19:18 UTC.
+New CVEs published between 2026-11-15 20:20 UTC and 2026-11-15 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T19-18-46-207053Z.csv)
+[Full CSV](data/new-cves-2026-11-15T21-18-39-895786Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 19:17:15 | [CVE-2026-125760](https://nvd.nist.gov/vuln/detail/CVE-2026-125760) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Bit Apps Bit Assi… |
-| 2026-11-15 19:17:15 | [CVE-2026-125796](https://nvd.nist.gov/vuln/detail/CVE-2026-125796) | Medium | 6.5 | Missing Authorization vulnerability in Ahmad JS Help Desk js-support-ticket allows Exploiting Incorrectly Configured Ac… |
-| 2026-11-15 19:17:15 | [CVE-2026-125798](https://nvd.nist.gov/vuln/detail/CVE-2026-125798) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Zaytech Smart Onl… |
-| 2026-11-15 19:17:15 | [CVE-2026-125804](https://nvd.nist.gov/vuln/detail/CVE-2026-125804) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Meow Apps AI Engi… |
-| 2026-11-15 19:17:15 | [CVE-2026-125817](https://nvd.nist.gov/vuln/detail/CVE-2026-125817) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeisle Feedzy… |
-| 2026-11-15 19:17:15 | [CVE-2026-125818](https://nvd.nist.gov/vuln/detail/CVE-2026-125818) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in AdvancedCoding wp… |
-| 2026-11-15 19:17:16 | [CVE-2026-125822](https://nvd.nist.gov/vuln/detail/CVE-2026-125822) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Nickboss WordPres… |
-| 2026-11-15 19:17:16 | [CVE-2026-125823](https://nvd.nist.gov/vuln/detail/CVE-2026-125823) | High | 7.5 | Allocation of Resources Without Limits or Throttling vulnerability in Jegstudio Gutenverse gutenverse allows HTTP DoS.T… |
-| 2026-11-15 19:17:16 | [CVE-2026-125826](https://nvd.nist.gov/vuln/detail/CVE-2026-125826) | Medium | 5.0 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Blubrry Podcasting Powe… |
-| 2026-11-15 19:17:16 | [CVE-2026-125830](https://nvd.nist.gov/vuln/detail/CVE-2026-125830) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Belingo belingoGe… |
-| 2026-11-15 19:17:16 | [CVE-2026-129091](https://nvd.nist.gov/vuln/detail/CVE-2026-129091) | High | 8.1 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
+| 2026-11-15 21:16:53 | [CVE-2026-123006](https://nvd.nist.gov/vuln/detail/CVE-2026-123006) |  |  | The repository search used by the dashboard (`GET /repo/search`) returned the internal commit status object of each rep… |
+| 2026-11-15 21:16:54 | [CVE-2026-125423](https://nvd.nist.gov/vuln/detail/CVE-2026-125423) |  |  | A repository created with auto-init accepted pushes before its initialization had finished, and the initial commit was… |
 
 ## Data source
 
