@@ -9,22 +9,22 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 15:19 UTC
+## Latest list — 2026-11-15 16:20 UTC
 
-New CVEs published between 2026-11-15 14:20 UTC and 2026-11-15 15:19 UTC.
+New CVEs published between 2026-11-15 15:19 UTC and 2026-11-15 16:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-15T15-19-28-882762Z.csv)
+[Full CSV](data/new-cves-2026-11-15T16-20-16-034082Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-15 15:16:45 | [CVE-2026-125447](https://nvd.nist.gov/vuln/detail/CVE-2026-125447) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kaliforms Kali Fo… |
-| 2026-11-15 15:16:46 | [CVE-2026-125733](https://nvd.nist.gov/vuln/detail/CVE-2026-125733) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in DevItems ShopLent… |
-| 2026-11-15 15:16:46 | [CVE-2026-125765](https://nvd.nist.gov/vuln/detail/CVE-2026-125765) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in ShortPixel ShortP… |
-| 2026-11-15 15:16:46 | [CVE-2026-125771](https://nvd.nist.gov/vuln/detail/CVE-2026-125771) | High | 7.2 | Incorrect Privilege Assignment vulnerability in AtlasAiDev MCP Server for WordPress ai-workflow-automation-ai-agent-hub… |
-| 2026-11-15 15:16:47 | [CVE-2026-125793](https://nvd.nist.gov/vuln/detail/CVE-2026-125793) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in flexmls Flexmls®… |
-| 2026-11-15 15:16:47 | [CVE-2026-125795](https://nvd.nist.gov/vuln/detail/CVE-2026-125795) | Critical | 9.8 | Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion') vulnerability i… |
-| 2026-11-15 15:16:47 | [CVE-2026-125799](https://nvd.nist.gov/vuln/detail/CVE-2026-125799) | High | 7.5 | Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerability in Looks Awesome Flow-Flo… |
-| 2026-11-15 15:16:47 | [CVE-2026-128893](https://nvd.nist.gov/vuln/detail/CVE-2026-128893) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Marcin Wise Chat… |
+| 2026-11-15 16:16:55 | [CVE-2025-71466](https://nvd.nist.gov/vuln/detail/CVE-2025-71466) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in m2tsdmx_update_sdt() in src/filters/dmx_m2ts.c… |
+| 2026-11-15 16:16:55 | [CVE-2025-71467](https://nvd.nist.gov/vuln/detail/CVE-2025-71467) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in gf_node_get_field_by_name() in src/scenegraph/… |
+| 2026-11-15 16:16:55 | [CVE-2025-71468](https://nvd.nist.gov/vuln/detail/CVE-2025-71468) | Medium | 6.8 | GPAC before 26.02.0 contains a NULL pointer dereference vulnerability in gf_dash_group_get_audio_channels() in src/medi… |
+| 2026-11-15 16:16:56 | [CVE-2025-71470](https://nvd.nist.gov/vuln/detail/CVE-2025-71470) | Medium | 6.8 | MicroQuickJS (mquickjs) before commit 99eed3f contains an out-of-bounds read vulnerability because JS_Call() raises exc… |
+| 2026-11-15 16:16:56 | [CVE-2026-129484](https://nvd.nist.gov/vuln/detail/CVE-2026-129484) | Medium | 5.3 | Kroki before 0.36.0 contains a reflected cross-site scripting vulnerability that allows unauthenticated attackers to in… |
+| 2026-11-15 16:16:56 | [CVE-2026-129485](https://nvd.nist.gov/vuln/detail/CVE-2026-129485) | Medium | 6.9 | Kroki before 0.36.0 contains a server-side request forgery vulnerability in the BlockDiag family of engines that allows… |
+| 2026-11-15 16:16:56 | [CVE-2026-129490](https://nvd.nist.gov/vuln/detail/CVE-2026-129490) | Medium | 6.8 | littlefs through 2.11.3, when built with LFS_MIGRATE, contains a type confusion vulnerability in lfs_dir_traverse() tha… |
+| 2026-11-15 16:16:56 | [CVE-2025-71469](https://nvd.nist.gov/vuln/detail/CVE-2025-71469) | Medium | 6.8 | GPAC before 26.02.0 contains a type confusion vulnerability in ctxload_process() that passes non-object descriptors to… |
 
 ## Data source
 
