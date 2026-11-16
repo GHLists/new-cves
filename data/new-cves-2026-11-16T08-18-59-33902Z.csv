@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-16T08:16:48.18Z,CVE-2026-105925,HIGH,8.2,Received,CWE-776,5,A denial of service vulnerability in the Qt QXmlSimpleReader class of the Qt 5 Core Compatibility APIs module (Qt 6) and the Qt XML module (Qt 5).

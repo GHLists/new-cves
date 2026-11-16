@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 06:21 UTC
+## Latest list — 2026-11-16 08:18 UTC
 
-New CVEs published between 2026-11-16 05:19 UTC and 2026-11-16 06:21 UTC.
+New CVEs published between 2026-11-16 07:18 UTC and 2026-11-16 08:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-16T06-21-12-310425Z.csv)
+[Full CSV](data/new-cves-2026-11-16T08-18-59-33902Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-16 06:16:48 | [CVE-2026-121786](https://nvd.nist.gov/vuln/detail/CVE-2026-121786) |  |  | The Social Viral Downloader WordPress plugin through 2.0.3 does not have authorisation or nonce checks on a log export… |
-| 2026-11-16 06:16:49 | [CVE-2026-121787](https://nvd.nist.gov/vuln/detail/CVE-2026-121787) |  |  | The Social Viral Downloader WordPress plugin through 2.0.3 does not have authorisation or nonce checks on a log deletio… |
-| 2026-11-16 06:16:49 | [CVE-2026-129606](https://nvd.nist.gov/vuln/detail/CVE-2026-129606) | High | 7.1 | Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability in Samsung Open Source mTower allo… |
+| 2026-11-16 08:16:48 | [CVE-2026-105925](https://nvd.nist.gov/vuln/detail/CVE-2026-105925) | High | 8.2 | A denial of service vulnerability in the Qt QXmlSimpleReader class of the Qt 5 Core Compatibility APIs module (Qt 6) an… |
 
 ## Data source
 
