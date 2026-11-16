@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 08:18 UTC
+## Latest list — 2026-11-16 09:22 UTC
 
-New CVEs published between 2026-11-16 07:18 UTC and 2026-11-16 08:18 UTC.
+New CVEs published between 2026-11-16 08:18 UTC and 2026-11-16 09:22 UTC.
 
-[Full CSV](data/new-cves-2026-11-16T08-18-59-33902Z.csv)
+[Full CSV](data/new-cves-2026-11-16T09-22-05-065497Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-16 08:16:48 | [CVE-2026-105925](https://nvd.nist.gov/vuln/detail/CVE-2026-105925) | High | 8.2 | A denial of service vulnerability in the Qt QXmlSimpleReader class of the Qt 5 Core Compatibility APIs module (Qt 6) an… |
+| 2026-11-16 09:17:12 | [CVE-2026-114453](https://nvd.nist.gov/vuln/detail/CVE-2026-114453) | Low | 3.7 | The Kadence Memberships WordPress plugin before 4.0.6 does not check that the membership level submitted when renewing… |
+| 2026-11-16 09:17:13 | [CVE-2026-124672](https://nvd.nist.gov/vuln/detail/CVE-2026-124672) | High | 7.3 | The Burst Statistics WordPress plugin before 3.7.5 does not verify that a request is actually being routed to its own R… |
+| 2026-11-16 09:17:13 | [CVE-2026-129703](https://nvd.nist.gov/vuln/detail/CVE-2026-129703) | High | 7.8 | In the vulnerability-lookup web application, the authentication decorators for feed-key requests (auth_feedkey_func in… |
+| 2026-11-16 09:17:13 | [CVE-2026-129706](https://nvd.nist.gov/vuln/detail/CVE-2026-129706) | Medium | 5.3 | In the vulnerability-lookup web application, the Flask-Login session identifier was set to the bare numeric user ID (Us… |
 
 ## Data source
 
