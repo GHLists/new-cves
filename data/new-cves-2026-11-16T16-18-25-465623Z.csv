@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-16T16:17:53.197Z,CVE-2026-28731,MEDIUM,6.5,Received,CWE-457,1,"A memory corruption vulnerability exists in VideoLAN VLC 3.0.23. A specially crafted Interplay MVE file can trigger a condition that allows access to a variable that is not explicitly initialized, which under certain conditions can lead to code execution in the context of the current process."
+2026-11-16T16:17:53.347Z,CVE-2026-32789,MEDIUM,4.3,Received,CWE-125,2,"An out-of-bounds read vulnerability exists in VideoLAN VLC 3.0.23. By using a specially crafted NUV file, an attacker could exploit this vulnerability to perform an out-of-bounds read, potentially leading to the disclosure of sensitive information."
