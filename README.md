@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 04:18 UTC
+## Latest list — 2026-11-16 06:21 UTC
 
-New CVEs published between 2026-11-16 03:20 UTC and 2026-11-16 04:18 UTC.
+New CVEs published between 2026-11-16 05:19 UTC and 2026-11-16 06:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-16T04-18-50-783885Z.csv)
+[Full CSV](data/new-cves-2026-11-16T06-21-12-310425Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-16 04:16:44 | [CVE-2026-107520](https://nvd.nist.gov/vuln/detail/CVE-2026-107520) | Medium | 5.4 | Dell PowerStore contains a stored cross-site scripting (XSS) vulnerability. A low-privileged authenticated attacker cou… |
-| 2026-11-16 04:16:44 | [CVE-2026-82156](https://nvd.nist.gov/vuln/detail/CVE-2026-82156) | High | 8.8 | Dell PowerStore contains an authorization-bypass vulnerability. A low-privileged attacker could exploit it, potentially… |
+| 2026-11-16 06:16:48 | [CVE-2026-121786](https://nvd.nist.gov/vuln/detail/CVE-2026-121786) |  |  | The Social Viral Downloader WordPress plugin through 2.0.3 does not have authorisation or nonce checks on a log export… |
+| 2026-11-16 06:16:49 | [CVE-2026-121787](https://nvd.nist.gov/vuln/detail/CVE-2026-121787) |  |  | The Social Viral Downloader WordPress plugin through 2.0.3 does not have authorisation or nonce checks on a log deletio… |
+| 2026-11-16 06:16:49 | [CVE-2026-129606](https://nvd.nist.gov/vuln/detail/CVE-2026-129606) | High | 7.1 | Buffer Copy without Checking Size of Input ('Classic Buffer Overflow') vulnerability in Samsung Open Source mTower allo… |
 
 ## Data source
 
