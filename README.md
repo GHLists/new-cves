@@ -9,42 +9,48 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 19:18 UTC
+## Latest list — 2026-11-16 21:18 UTC
 
-New CVEs published between 2026-11-16 18:18 UTC and 2026-11-16 19:18 UTC.
+New CVEs published between 2026-11-16 20:18 UTC and 2026-11-16 21:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-16T19-18-19-008737Z.csv)
+[Full CSV](data/new-cves-2026-11-16T21-18-18-569228Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-16 19:17:23 | [CVE-2026-101327](https://nvd.nist.gov/vuln/detail/CVE-2026-101327) | High | 7.8 | A maliciously crafted DLL placed in a predictable, attacker-writable temporary directory used by the Autodesk Installer… |
-| 2026-11-16 19:17:26 | [CVE-2026-119346](https://nvd.nist.gov/vuln/detail/CVE-2026-119346) | Medium | 6.0 | Next.js is a React framework for building full-stack web applications. From 15.0.0 until 15.5.29 and 16.4.5, Next.js ap… |
-| 2026-11-16 19:17:26 | [CVE-2026-119347](https://nvd.nist.gov/vuln/detail/CVE-2026-119347) | Medium | 6.9 | Next.js is a React framework for building full-stack web applications. From 15.0.0 until 15.5.29 and 16.4.5, the /_next… |
-| 2026-11-16 19:17:26 | [CVE-2026-119348](https://nvd.nist.gov/vuln/detail/CVE-2026-119348) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. Prior to 15.5.29 and 16.4.5, self-hosted Next.js… |
-| 2026-11-16 19:17:27 | [CVE-2026-119349](https://nvd.nist.gov/vuln/detail/CVE-2026-119349) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.0.0 until 16.4.5, Next.js App Router app… |
-| 2026-11-16 19:17:27 | [CVE-2026-119350](https://nvd.nist.gov/vuln/detail/CVE-2026-119350) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.4.0 until 16.4.5, self-hosted Next.js ap… |
-| 2026-11-16 19:17:27 | [CVE-2026-119351](https://nvd.nist.gov/vuln/detail/CVE-2026-119351) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.2.0 until 16.4.5, Next.js applications w… |
-| 2026-11-16 19:17:27 | [CVE-2026-119790](https://nvd.nist.gov/vuln/detail/CVE-2026-119790) | Medium | 6.3 | Next.js is a React framework for building full-stack web applications. From 16.3.0 until 16.4.5, Next.js applications u… |
-| 2026-11-16 19:17:28 | [CVE-2026-125442](https://nvd.nist.gov/vuln/detail/CVE-2026-125442) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in PluginUs.Net HUSKY wooco… |
-| 2026-11-16 19:17:28 | [CVE-2026-125453](https://nvd.nist.gov/vuln/detail/CVE-2026-125453) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in ThimPress LearnPress lea… |
-| 2026-11-16 19:17:29 | [CVE-2026-125681](https://nvd.nist.gov/vuln/detail/CVE-2026-125681) | Medium | 5.3 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
-| 2026-11-16 19:17:30 | [CVE-2026-125739](https://nvd.nist.gov/vuln/detail/CVE-2026-125739) | Medium | 5.3 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
-| 2026-11-16 19:17:30 | [CVE-2026-125770](https://nvd.nist.gov/vuln/detail/CVE-2026-125770) | Medium | 4.3 | Missing Authorization vulnerability in ThimPress LearnPress learnpress allows Exploiting Incorrectly Configured Access… |
-| 2026-11-16 19:17:30 | [CVE-2026-125773](https://nvd.nist.gov/vuln/detail/CVE-2026-125773) | Medium | 5.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in VillaTheme Lucky Wheel f… |
-| 2026-11-16 19:17:30 | [CVE-2026-125797](https://nvd.nist.gov/vuln/detail/CVE-2026-125797) | Medium | 5.3 | Missing Authorization vulnerability in Arraytics Timetics timetics allows Exploiting Incorrectly Configured Access Cont… |
-| 2026-11-16 19:17:35 | [CVE-2026-127218](https://nvd.nist.gov/vuln/detail/CVE-2026-127218) | High | 8.7 | Axigen Mail Server 10.3.3.67 through 10.3.3.x, 10.4.42 through 10.4.x, 10.5.29 through 10.5.x, 10.6.x before 10.6.41, a… |
-| 2026-11-16 19:17:37 | [CVE-2026-128995](https://nvd.nist.gov/vuln/detail/CVE-2026-128995) | Medium | 5.4 | Missing Authorization vulnerability in Very Good Plugins WP Fusion Lite wp-fusion-lite allows Exploiting Incorrectly Co… |
-| 2026-11-16 19:17:37 | [CVE-2026-128998](https://nvd.nist.gov/vuln/detail/CVE-2026-128998) | Medium | 4.3 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Automattic WP Job Manage… |
-| 2026-11-16 19:17:37 | [CVE-2026-129018](https://nvd.nist.gov/vuln/detail/CVE-2026-129018) | Medium | 5.3 | Missing Authorization vulnerability in Gora Tech Cooked cooked allows Exploiting Incorrectly Configured Access Control… |
-| 2026-11-16 19:17:37 | [CVE-2026-129026](https://nvd.nist.gov/vuln/detail/CVE-2026-129026) | Medium | 5.3 | Missing Authorization vulnerability in YITH YITH WooCommerce Product Add-Ons yith-woocommerce-product-add-ons allows Ex… |
-| 2026-11-16 19:17:37 | [CVE-2026-129035](https://nvd.nist.gov/vuln/detail/CVE-2026-129035) | Medium | 5.3 | Missing Authorization vulnerability in weDevs WP User Frontend wp-user-frontend allows Exploiting Incorrectly Configure… |
-| 2026-11-16 19:17:37 | [CVE-2026-129038](https://nvd.nist.gov/vuln/detail/CVE-2026-129038) | Medium | 4.3 | Missing Authorization vulnerability in weDevs WP ERP erp allows Exploiting Incorrectly Configured Access Control Securi… |
-| 2026-11-16 19:17:38 | [CVE-2026-129046](https://nvd.nist.gov/vuln/detail/CVE-2026-129046) | Medium | 5.3 | Missing Authorization vulnerability in Crocoblock JetFormBuilder jetformbuilder allows Exploiting Incorrectly Configure… |
-| 2026-11-16 19:17:40 | [CVE-2026-129266](https://nvd.nist.gov/vuln/detail/CVE-2026-129266) | High | 8.7 | External control of a file path in Amazon Deep Java Library (DJL) versions 0.7.0 through 0.38.0 might allow a remote un… |
-| 2026-11-16 19:17:40 | [CVE-2026-129307](https://nvd.nist.gov/vuln/detail/CVE-2026-129307) | Medium | 5.3 | eml_parser serves as a python module for parsing eml files and returning various information found in the e-mail as wel… |
-| 2026-11-16 19:17:53 | [CVE-2026-83816](https://nvd.nist.gov/vuln/detail/CVE-2026-83816) | High | 8.1 | CodeWhale is a DeepSeek and MiMo coding agent for the terminal. Prior to 0.9.0, the ExecShellTool::approval_requirement… |
-| 2026-11-16 19:17:53 | [CVE-2026-83817](https://nvd.nist.gov/vuln/detail/CVE-2026-83817) | High | 7.5 | CodeWhale is a DeepSeek and MiMo coding agent for the terminal. Prior to 0.9.0, DEFAULT_AUTOMATION_AUTO_APPROVE caused… |
-| 2026-11-16 19:17:53 | [CVE-2026-87027](https://nvd.nist.gov/vuln/detail/CVE-2026-87027) | Medium | 5.6 | In EDB Postgres Extended Server and EDB Postgres Advanced Server versions 15 through 18 with Transparent Data Encryptio… |
+| 2026-11-16 20:18:55 | [CVE-2026-124019](https://nvd.nist.gov/vuln/detail/CVE-2026-124019) | High | 8.5 | VB-Audio VB-CABLE virtual audio device kernel streaming driver (vbaudio_cable64_win10.sys 10.0.10011.16384) contains ou… |
+| 2026-11-16 20:18:56 | [CVE-2026-124222](https://nvd.nist.gov/vuln/detail/CVE-2026-124222) | Medium | 6.5 | Improper authorization in Microsoft Office SharePoint allows an authorized attacker to elevate privileges over a networ… |
+| 2026-11-16 20:18:56 | [CVE-2026-124223](https://nvd.nist.gov/vuln/detail/CVE-2026-124223) | High | 8.8 | Deserialization of untrusted data in Microsoft Office SharePoint allows an authorized attacker to execute code over a n… |
+| 2026-11-16 20:19:00 | [CVE-2026-126526](https://nvd.nist.gov/vuln/detail/CVE-2026-126526) | High | 8.8 | Heap-based buffer overflow in Microsoft Office OneNote allows an unauthorized attacker to execute code over a network. |
+| 2026-11-16 20:19:00 | [CVE-2026-126816](https://nvd.nist.gov/vuln/detail/CVE-2026-126816) | Medium | 6.8 | Improper limitation of a pathname to a restricted directory in the cost report generation tool in AWS Pricing MCP Serve… |
+| 2026-11-16 20:19:01 | [CVE-2026-129302](https://nvd.nist.gov/vuln/detail/CVE-2026-129302) | High | 7.5 | Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 3.5.0 u… |
+| 2026-11-16 20:19:01 | [CVE-2026-129303](https://nvd.nist.gov/vuln/detail/CVE-2026-129303) | Low | 3.7 | Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 1.0.0 u… |
+| 2026-11-16 20:19:01 | [CVE-2026-129304](https://nvd.nist.gov/vuln/detail/CVE-2026-129304) | Medium | 5.4 | Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 1.0.0 u… |
+| 2026-11-16 20:19:04 | [CVE-2026-45016](https://nvd.nist.gov/vuln/detail/CVE-2026-45016) | Medium | 6.5 | EGroupware is a web-based groupware server written in PHP. Prior to 23.1.20260601 and 26.5.20260507, the processURL2Inl… |
+| 2026-11-16 20:19:06 | [CVE-2026-53998](https://nvd.nist.gov/vuln/detail/CVE-2026-53998) | Critical | 10.0 | Phoenix is an AI observability and evaluation platform. From 13.0.0 until 15.7.0, the applyChatTemplate GraphQL query p… |
+| 2026-11-16 20:19:07 | [CVE-2026-62336](https://nvd.nist.gov/vuln/detail/CVE-2026-62336) | High | 8.5 | qbee-agent is the device agent component of the qbee.io IoT device management platform. Prior to 2026.27, the privilege… |
+| 2026-11-16 20:19:08 | [CVE-2026-63672](https://nvd.nist.gov/vuln/detail/CVE-2026-63672) | Medium | 6.1 | EGroupware is a web-based groupware server written in PHP. Prior to 23.1.20260601 and 26.6.20260616, login() in api/src… |
+| 2026-11-16 20:19:10 | [CVE-2026-69221](https://nvd.nist.gov/vuln/detail/CVE-2026-69221) | Medium | 5.9 | Faust.js is a headless WordPress toolkit. Prior to 1.8.12, the FaustWP generateAuthorizationCode GraphQL mutation calle… |
+| 2026-11-16 20:19:10 | [CVE-2026-71512](https://nvd.nist.gov/vuln/detail/CVE-2026-71512) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-16 20:19:20 | [CVE-2026-95839](https://nvd.nist.gov/vuln/detail/CVE-2026-95839) | High | 7.1 | containerd is an open-source container runtime. From 2.2.0 until 2.2.10, 2.3.7, and 2.4.2, image manifest processing th… |
+| 2026-11-16 21:17:16 | [CVE-2026-102892](https://nvd.nist.gov/vuln/detail/CVE-2026-102892) | Medium | 5.3 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260416.… |
+| 2026-11-16 21:17:17 | [CVE-2026-104253](https://nvd.nist.gov/vuln/detail/CVE-2026-104253) | Medium | 5.2 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260715.… |
+| 2026-11-16 21:17:17 | [CVE-2026-104258](https://nvd.nist.gov/vuln/detail/CVE-2026-104258) | Medium | 5.5 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. In 7.260722.0 and… |
+| 2026-11-16 21:17:17 | [CVE-2026-104840](https://nvd.nist.gov/vuln/detail/CVE-2026-104840) | Critical | 9.2 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260428.… |
+| 2026-11-16 21:17:18 | [CVE-2026-111760](https://nvd.nist.gov/vuln/detail/CVE-2026-111760) | High | 8.0 | Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high… |
+| 2026-11-16 21:17:20 | [CVE-2026-114505](https://nvd.nist.gov/vuln/detail/CVE-2026-114505) | Medium | 6.3 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260722.… |
+| 2026-11-16 21:17:20 | [CVE-2026-115563](https://nvd.nist.gov/vuln/detail/CVE-2026-115563) | High | 7.5 | The Model Context Protocol Python SDK is the official Python SDK for Model Context Protocol servers and clients. From 1… |
+| 2026-11-16 21:17:20 | [CVE-2026-120699](https://nvd.nist.gov/vuln/detail/CVE-2026-120699) | Critical | 9.4 | CubeSandbox is an instant, concurrent, secure, and lightweight sandbox for AI agents. Prior to 0.5.1, any authenticated… |
+| 2026-11-16 21:17:21 | [CVE-2026-121708](https://nvd.nist.gov/vuln/detail/CVE-2026-121708) | High | 8.1 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260513.… |
+| 2026-11-16 21:17:21 | [CVE-2026-124017](https://nvd.nist.gov/vuln/detail/CVE-2026-124017) | High | 8.4 | Phison E12 and E18 PCIe SSD controllers contain a Secure Boot bypass vulnerability that allows a privileged local attac… |
+| 2026-11-16 21:17:25 | [CVE-2026-126681](https://nvd.nist.gov/vuln/detail/CVE-2026-126681) | Medium | 6.8 | Improper restriction of intended endpoints in the connection configuration handling of the AWS Labs Timestream for Infl… |
+| 2026-11-16 21:17:29 | [CVE-2026-57150](https://nvd.nist.gov/vuln/detail/CVE-2026-57150) | High | 8.7 | GLPI is a free asset and IT management software package. Prior to 10.0.28, 11.0.10, and 12.0.1, authenticated users can… |
+| 2026-11-16 21:17:29 | [CVE-2026-57151](https://nvd.nist.gov/vuln/detail/CVE-2026-57151) | Medium | 6.9 | GLPI is a free asset and IT management software package. From 11.0.0 until 11.0.10 and 12.0.1, an authenticated technic… |
+| 2026-11-16 21:17:29 | [CVE-2026-63477](https://nvd.nist.gov/vuln/detail/CVE-2026-63477) | High | 8.8 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260624.… |
+| 2026-11-16 21:17:29 | [CVE-2026-65683](https://nvd.nist.gov/vuln/detail/CVE-2026-65683) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-16 21:17:30 | [CVE-2026-71306](https://nvd.nist.gov/vuln/detail/CVE-2026-71306) | Medium | 5.8 | Mikochi is a minimalist file manager with streaming capabilities. Prior to 1.10.1, authenticated users of bare-metal in… |
+| 2026-11-16 21:17:31 | [CVE-2026-76822](https://nvd.nist.gov/vuln/detail/CVE-2026-76822) | Medium | 4.3 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260701.… |
+| 2026-11-16 21:17:31 | [CVE-2026-76823](https://nvd.nist.gov/vuln/detail/CVE-2026-76823) | High | 8.7 | OpenCTI is an open source platform for managing cyber threat intelligence knowledge and observables. Prior to 7.260706.… |
+| 2026-11-16 21:17:31 | [CVE-2026-77597](https://nvd.nist.gov/vuln/detail/CVE-2026-77597) | Low | 3.5 | iSponsorBlockTV is a SponsorBlock client for YouTube TV clients. Prior to 2.11.0, src/iSponsorBlockTV/dial_client.py tr… |
 
 ## Data source
 
