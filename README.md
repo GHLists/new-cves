@@ -9,43 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 16:21 UTC
+## Latest list — 2026-11-17 17:20 UTC
 
-New CVEs published between 2026-11-17 15:18 UTC and 2026-11-17 16:21 UTC.
+New CVEs published between 2026-11-17 16:21 UTC and 2026-11-17 17:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-17T16-21-20-433234Z.csv)
+[Full CSV](data/new-cves-2026-11-17T17-20-36-541798Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-17 16:17:33 | [CVE-2026-100963](https://nvd.nist.gov/vuln/detail/CVE-2026-100963) | High | 8.1 | NVIDIA TensorRT for Linux contains a vulnerability where a user could cause an integer overflow issue. A successful exp… |
-| 2026-11-17 16:17:33 | [CVE-2026-100970](https://nvd.nist.gov/vuln/detail/CVE-2026-100970) | Medium | 6.4 | NVIDIA OpenShell for Linux contains a vulnerability in the network policy hot-reload component where a local attacker w… |
-| 2026-11-17 16:17:34 | [CVE-2026-100971](https://nvd.nist.gov/vuln/detail/CVE-2026-100971) | High | 8.4 | NVIDIA OpenShell for Linux contains a vulnerability in the L7 path allowlist enforcement component where a local attack… |
-| 2026-11-17 16:17:34 | [CVE-2026-100972](https://nvd.nist.gov/vuln/detail/CVE-2026-100972) | High | 8.1 | NVIDIA OpenShell for Linux contains a vulnerability in resource-level authorization for create, read, update, and delet… |
-| 2026-11-17 16:17:34 | [CVE-2026-100973](https://nvd.nist.gov/vuln/detail/CVE-2026-100973) | Medium | 6.4 | NVIDIA OpenShell for Linux contains a vulnerability in L7 policy enforcement for HTTP CONNECT tunnels where a local att… |
-| 2026-11-17 16:17:34 | [CVE-2026-100974](https://nvd.nist.gov/vuln/detail/CVE-2026-100974) | Medium | 6.7 | NVIDIA OpenShell for Linux contains a vulnerability in the sandbox SSH authentication component where a remote attacker… |
-| 2026-11-17 16:17:34 | [CVE-2026-100975](https://nvd.nist.gov/vuln/detail/CVE-2026-100975) | High | 7.6 | NVIDIA OpenShell for Linux contains a vulnerability in the Kubernetes sandbox SSH authentication configuration where a… |
-| 2026-11-17 16:17:34 | [CVE-2026-100976](https://nvd.nist.gov/vuln/detail/CVE-2026-100976) | Medium | 5.2 | NVIDIA OpenShell for Linux contains a vulnerability in Kubernetes network policy enforcement where a local attacker wit… |
-| 2026-11-17 16:17:34 | [CVE-2026-100977](https://nvd.nist.gov/vuln/detail/CVE-2026-100977) | High | 7.5 | NVIDIA OpenShell for Linux contains a vulnerability in L7 REST policy enforcement where a local attacker with low privi… |
-| 2026-11-17 16:17:34 | [CVE-2026-100978](https://nvd.nist.gov/vuln/detail/CVE-2026-100978) | Medium | 6.4 | NVIDIA OpenShell for Linux contains a vulnerability in its gateway-to-sandbox transport where a network attacker positi… |
-| 2026-11-17 16:17:35 | [CVE-2026-100979](https://nvd.nist.gov/vuln/detail/CVE-2026-100979) | Medium | 6.6 | NVIDIA OpenShell for Linux contains a vulnerability in its gateway connection-proxy component where an attacker who can… |
-| 2026-11-17 16:17:35 | [CVE-2026-100980](https://nvd.nist.gov/vuln/detail/CVE-2026-100980) | High | 7.5 | NVIDIA OpenShell for Linux contains a vulnerability in its command-line diagnostic interface where an attacker could ca… |
-| 2026-11-17 16:17:35 | [CVE-2026-100981](https://nvd.nist.gov/vuln/detail/CVE-2026-100981) | Medium | 6.4 | NVIDIA OpenShell for Linux contains a vulnerability in its layer-7 REST proxy where a sandboxed actor could bypass the… |
-| 2026-11-17 16:17:35 | [CVE-2026-100982](https://nvd.nist.gov/vuln/detail/CVE-2026-100982) | Medium | 6.5 | NVIDIA OpenShell for Linux contains a vulnerability in its inference-interception request parser where a sandboxed acto… |
-| 2026-11-17 16:17:39 | [CVE-2026-121590](https://nvd.nist.gov/vuln/detail/CVE-2026-121590) | Medium | 6.5 | Mattermost Desktop App versions <=6.3 6.0.3 6.3.2.0 fail to validate the SiteURL value returned in a server's client co… |
-| 2026-11-17 16:17:39 | [CVE-2026-122055](https://nvd.nist.gov/vuln/detail/CVE-2026-122055) |  |  | ICRTouch PocketTouch version 1.700 build 2025.3726 contains a default socket password set to the literal value password… |
-| 2026-11-17 16:17:39 | [CVE-2026-122122](https://nvd.nist.gov/vuln/detail/CVE-2026-122122) |  |  | The order-tracking functionality in ICRTouch ByTable and TouchTakeaway does not adequately verify that a requester is a… |
-| 2026-11-17 16:17:40 | [CVE-2026-122125](https://nvd.nist.gov/vuln/detail/CVE-2026-122125) |  |  | ICRTouch ByTable and TouchTakeaway do not consistently implement anti-CSRF protections for state-changing web requests.… |
-| 2026-11-17 16:17:40 | [CVE-2026-122141](https://nvd.nist.gov/vuln/detail/CVE-2026-122141) |  |  | The wallet top-up functionality in ICRTouch ByTable and TouchTakeaway does not adequately protect state-changing reques… |
-| 2026-11-17 16:17:40 | [CVE-2026-122142](https://nvd.nist.gov/vuln/detail/CVE-2026-122142) |  |  | ICRTouch Commander administrative login interface does not adequately restrict repeated authentication attempts. The in… |
-| 2026-11-17 16:17:40 | [CVE-2026-122143](https://nvd.nist.gov/vuln/detail/CVE-2026-122143) |  |  | ICRTouch Commander administrative interface performs security-sensitive operations through HTTP GET requests and includ… |
-| 2026-11-17 16:17:40 | [CVE-2026-122145](https://nvd.nist.gov/vuln/detail/CVE-2026-122145) |  |  | ICRTouch PocketTouch version 1.700 build 2025.3726 transmits the POS socket password in plaintext XML over an unencrypt… |
-| 2026-11-17 16:17:40 | [CVE-2026-122147](https://nvd.nist.gov/vuln/detail/CVE-2026-122147) |  |  | ICRTouch PocketTouch version 1.700 build 2025.3726 defines hard-coded default values for multiple credential fields, in… |
-| 2026-11-17 16:17:40 | [CVE-2026-122149](https://nvd.nist.gov/vuln/detail/CVE-2026-122149) |  |  | The PocketTouch and TouchPoint POS protocol includes a `SAVECONFIG` command that appears capable of overwriting till co… |
-| 2026-11-17 16:17:40 | [CVE-2026-122150](https://nvd.nist.gov/vuln/detail/CVE-2026-122150) |  |  | The PocketTouch and TouchPoint POS `CHECKPAYMENT` workflow accepts a caller-supplied clerk number without adequately ve… |
-| 2026-11-17 16:17:40 | [CVE-2026-122152](https://nvd.nist.gov/vuln/detail/CVE-2026-122152) |  |  | The ICRTouch white-label TouchTakeaway Cordova applications do not implement certificate or public-key pinning for back… |
-| 2026-11-17 16:17:41 | [CVE-2026-122153](https://nvd.nist.gov/vuln/detail/CVE-2026-122153) |  |  | The TouchOffice API `clerkList` endpoint appears to return sensitive clerk authentication data, including clerk PINs an… |
-| 2026-11-17 16:17:52 | [CVE-2026-65106](https://nvd.nist.gov/vuln/detail/CVE-2026-65106) | High | 7.8 | NVIDIA Transformer Engine for Linux contains a vulnerability where a user could cause deserialization by loading untrus… |
-| 2026-11-17 16:17:52 | [CVE-2026-65167](https://nvd.nist.gov/vuln/detail/CVE-2026-65167) | Medium | 5.5 | NVIDIA TensorRT contains a vulnerability where a user could cause memory allocation with excessive size value by crafti… |
+| 2026-11-17 17:17:43 | [CVE-2026-100967](https://nvd.nist.gov/vuln/detail/CVE-2026-100967) | High | 7.8 | NVIDIA Megatron-LM contains a vulnerability where an attacker could cause deserialization of untrusted data. A successf… |
+| 2026-11-17 17:17:43 | [CVE-2026-100968](https://nvd.nist.gov/vuln/detail/CVE-2026-100968) | High | 7.8 | NVIDIA Megatron-LM contains a vulnerability in dataset loading where an attacker could cause deserialization of untrust… |
+| 2026-11-17 17:17:53 | [CVE-2026-119725](https://nvd.nist.gov/vuln/detail/CVE-2026-119725) | High | 8.2 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in PocketBook / Obreey Pro… |
+| 2026-11-17 17:17:53 | [CVE-2026-119726](https://nvd.nist.gov/vuln/detail/CVE-2026-119726) | High | 8.3 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in PocketBook / Obreey Pro… |
+| 2026-11-17 17:17:53 | [CVE-2026-120287](https://nvd.nist.gov/vuln/detail/CVE-2026-120287) | Medium | 6.9 | Allocation of Resources Without Limits or Throttling vulnerability in Plug.Parsers.MULTIPART in elixir-plug plug allows… |
+| 2026-11-17 17:17:58 | [CVE-2026-126547](https://nvd.nist.gov/vuln/detail/CVE-2026-126547) | High | 7.8 | Missing Authorization vulnerability in Broadcom AutoSys Workload Automation (Workload Control Center (WCC) modules) on… |
+| 2026-11-17 17:17:58 | [CVE-2026-126548](https://nvd.nist.gov/vuln/detail/CVE-2026-126548) | High | 7.1 | Server-Side Request Forgery (SSRF) vulnerability in Broadcom AutoSys Workload Automation (Workload Control Center (WCC)… |
+| 2026-11-17 17:17:58 | [CVE-2026-126549](https://nvd.nist.gov/vuln/detail/CVE-2026-126549) | Medium | 5.1 | Insertion of Sensitive Information into Log File vulnerability in Broadcom AutoSys Workload Automation (Workload Contro… |
+| 2026-11-17 17:17:59 | [CVE-2026-126550](https://nvd.nist.gov/vuln/detail/CVE-2026-126550) | High | 8.6 | Insertion of Sensitive Information into Log File, Insufficiently Protected Credentials vulnerability in Broadcom AutoSy… |
+| 2026-11-17 17:17:59 | [CVE-2026-126551](https://nvd.nist.gov/vuln/detail/CVE-2026-126551) | Critical | 9.3 | Use of Hard-coded Cryptographic Key vulnerability in Broadcom AutoSys Workload Automation (Workload Control Center (WCC… |
+| 2026-11-17 17:17:59 | [CVE-2026-126552](https://nvd.nist.gov/vuln/detail/CVE-2026-126552) | Critical | 9.3 | Missing Authentication for Critical Function, OS Command Injection vulnerability in Broadcom AutoSys Workload Automatio… |
+| 2026-11-17 17:17:59 | [CVE-2026-126553](https://nvd.nist.gov/vuln/detail/CVE-2026-126553) | Critical | 9.3 | Deserialization of Untrusted Data vulnerability in Broadcom AutoSys Workload Automation (Workload Control Center (WCC)… |
+| 2026-11-17 17:17:59 | [CVE-2026-126555](https://nvd.nist.gov/vuln/detail/CVE-2026-126555) | Medium | 5.3 | Missing Authorization, Hidden Functionality vulnerability in Broadcom AutoSys Workload Automation (Workload Control Cen… |
+| 2026-11-17 17:17:59 | [CVE-2026-126556](https://nvd.nist.gov/vuln/detail/CVE-2026-126556) | Medium | 5.1 | Invocation of Process Using Visible Sensitive Information, Insufficiently Protected Credentials vulnerability in Broadc… |
+| 2026-11-17 17:17:59 | [CVE-2026-126557](https://nvd.nist.gov/vuln/detail/CVE-2026-126557) | Medium | 4.8 | Out-of-bounds Write vulnerability in Broadcom AutoSys Workload Automation (AutoSys engine (AE) native clients modules)… |
+| 2026-11-17 17:18:00 | [CVE-2026-126558](https://nvd.nist.gov/vuln/detail/CVE-2026-126558) | High | 8.7 | OS Command Injection, Incomplete List of Disallowed Inputs vulnerability in Broadcom AutoSys Workload Automation (Workl… |
+| 2026-11-17 17:18:02 | [CVE-2026-129246](https://nvd.nist.gov/vuln/detail/CVE-2026-129246) | High | 7.8 | Due to a Debian-specific patch, the directory used to share data between the LightDM and the users logging in was writa… |
+| 2026-11-17 17:18:05 | [CVE-2026-130801](https://nvd.nist.gov/vuln/detail/CVE-2026-130801) |  |  | The device's command parser does not require asymmetric cryptographic signatures to validate incoming APDU packets. Thi… |
+| 2026-11-17 17:18:05 | [CVE-2026-130802](https://nvd.nist.gov/vuln/detail/CVE-2026-130802) |  |  | The NFC authentication handshake relies on a fixed, static challenge instead of a unique, random value for every sessio… |
+| 2026-11-17 17:18:05 | [CVE-2026-130803](https://nvd.nist.gov/vuln/detail/CVE-2026-130803) |  |  | The firmware and flash memory store critical cryptographic secrets, such as global AES keys and network master keys, in… |
+| 2026-11-17 17:18:05 | [CVE-2026-130804](https://nvd.nist.gov/vuln/detail/CVE-2026-130804) |  |  | The microcontroller lacks enabled debug lock bits, leaving the physical Single-Wire (SWS) debugging interface completel… |
+| 2026-11-17 17:18:08 | [CVE-2026-65132](https://nvd.nist.gov/vuln/detail/CVE-2026-65132) | High | 7.8 | NVIDIA Megatron-LM contains a vulnerability in checkpoint loading where an attacker could cause deserialization of untr… |
+| 2026-11-17 17:18:09 | [CVE-2026-67455](https://nvd.nist.gov/vuln/detail/CVE-2026-67455) | High | 8.8 | NVIDIA Model Optimizer for Linux and Windows contains a vulnerability where an attacker could cause a deserialization o… |
 
 ## Data source
 
