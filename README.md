@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 03:19 UTC
+## Latest list — 2026-11-17 04:18 UTC
 
-New CVEs published between 2026-11-17 02:21 UTC and 2026-11-17 03:19 UTC.
+New CVEs published between 2026-11-17 03:19 UTC and 2026-11-17 04:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-17T03-19-50-137242Z.csv)
+[Full CSV](data/new-cves-2026-11-17T04-18-29-063135Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-17 03:17:00 | [CVE-2026-125275](https://nvd.nist.gov/vuln/detail/CVE-2026-125275) | High | 8.2 | Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in device certificate verification in nerves-hub n… |
+| 2026-11-17 04:17:25 | [CVE-2026-107901](https://nvd.nist.gov/vuln/detail/CVE-2026-107901) | Medium | 6.8 | TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain an out-of-bounds read vulnerability. Opening a speci… |
+| 2026-11-17 04:17:26 | [CVE-2026-107902](https://nvd.nist.gov/vuln/detail/CVE-2026-107902) | High | 8.4 | TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain a use after free vulnerability. Opening a specially… |
 
 ## Data source
 

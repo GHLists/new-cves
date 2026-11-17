@@ -1,0 +1,3 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-17T04:17:25.93Z,CVE-2026-107901,MEDIUM,6.8,Received,CWE-125,2,"TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain an out-of-bounds read vulnerability. Opening a specially crafted V9 file may lead to information exposure or arbitrary code execution on the affected product."
+2026-11-17T04:17:26.497Z,CVE-2026-107902,HIGH,8.4,Received,CWE-416,2,"TELLUS and TELLUS Lite provided by FUJI ELECTRIC CO., LTD. contain a use after free vulnerability. Opening a specially crafted V9 file may lead to information exposure or arbitrary code execution on the affected product."
