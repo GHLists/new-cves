@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 07:18 UTC
+## Latest list — 2026-11-17 08:21 UTC
 
-New CVEs published between 2026-11-17 06:20 UTC and 2026-11-17 07:18 UTC.
+New CVEs published between 2026-11-17 07:18 UTC and 2026-11-17 08:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-17T07-18-18-745867Z.csv)
+[Full CSV](data/new-cves-2026-11-17T08-21-28-637758Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-17 07:17:23 | [CVE-2026-107904](https://nvd.nist.gov/vuln/detail/CVE-2026-107904) |  |  | Joomla Extension - valorapps.com - Unauthenticated Remote Code Execution in Easy File Uploader < 2.9.7 - An unauthentic… |
-| 2026-11-17 07:17:24 | [CVE-2026-128038](https://nvd.nist.gov/vuln/detail/CVE-2026-128038) | Medium | 6.4 | The All in One SEO – AI SEO Plugin to Boost SEO Rankings & Traffic (Schema, Local SEO, Sitemap & SEO Insights) plugin f… |
+| 2026-11-17 08:16:59 | [CVE-2026-129008](https://nvd.nist.gov/vuln/detail/CVE-2026-129008) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPExperts Gutena… |
+| 2026-11-17 08:16:59 | [CVE-2026-129012](https://nvd.nist.gov/vuln/detail/CVE-2026-129012) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in LeapWorx Premium… |
+| 2026-11-17 08:17:00 | [CVE-2026-129031](https://nvd.nist.gov/vuln/detail/CVE-2026-129031) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Cool Plugins Cond… |
 
 ## Data source
 
