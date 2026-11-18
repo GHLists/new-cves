@@ -9,33 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 02:19 UTC
+## Latest list — 2026-11-18 03:21 UTC
 
-New CVEs published between 2026-11-18 01:19 UTC and 2026-11-18 02:19 UTC.
+New CVEs published between 2026-11-18 02:19 UTC and 2026-11-18 03:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T02-19-36-091739Z.csv)
+[Full CSV](data/new-cves-2026-11-18T03-21-31-49247Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 02:17:38 | [CVE-2026-105929](https://nvd.nist.gov/vuln/detail/CVE-2026-105929) | High | 8.1 | A path traversal vulnerability (CWE-22) was found in ansible-core's ansible-galaxy role installation. An explicit role… |
-| 2026-11-18 02:17:39 | [CVE-2026-106096](https://nvd.nist.gov/vuln/detail/CVE-2026-106096) | Medium | 6.4 | A flaw was found in CRI-O. When the optional Linux LinkLogs feature is enabled, the host pod log directory is bind-moun… |
-| 2026-11-18 02:17:39 | [CVE-2026-110307](https://nvd.nist.gov/vuln/detail/CVE-2026-110307) | High | 7.4 | An incorrect authorization vulnerability was identified in GitHub Enterprise Server that allowed an authenticated user… |
-| 2026-11-18 02:17:39 | [CVE-2026-112115](https://nvd.nist.gov/vuln/detail/CVE-2026-112115) | High | 8.5 | An untrusted search path in ASUS Armoury Crate allows a local, low-privileged user to achieve privilege escalation by e… |
-| 2026-11-18 02:17:39 | [CVE-2026-112117](https://nvd.nist.gov/vuln/detail/CVE-2026-112117) | High | 7.3 | A Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in ASUS System Control Interface , all… |
-| 2026-11-18 02:17:39 | [CVE-2026-114202](https://nvd.nist.gov/vuln/detail/CVE-2026-114202) | Critical | 10.0 | Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to gain administrative privileg… |
-| 2026-11-18 02:17:39 | [CVE-2026-114204](https://nvd.nist.gov/vuln/detail/CVE-2026-114204) | Critical | 9.0 | Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to bypass authentication by for… |
-| 2026-11-18 02:17:39 | [CVE-2026-114205](https://nvd.nist.gov/vuln/detail/CVE-2026-114205) | Critical | 9.4 | Incorrect authorization in ASUS Control Center Express allows a remote authenticated user with a low-privileged role to… |
-| 2026-11-18 02:17:40 | [CVE-2026-116637](https://nvd.nist.gov/vuln/detail/CVE-2026-116637) | High | 8.6 | A site administrator could modify files on the appliance host with root privileges and disclose private repository data… |
-| 2026-11-18 02:17:40 | [CVE-2026-116643](https://nvd.nist.gov/vuln/detail/CVE-2026-116643) | High | 8.6 | An SSH certificate authentication bypass vulnerability in GitHub Enterprise Server allowed an authenticated organizatio… |
-| 2026-11-18 02:17:40 | [CVE-2026-119469](https://nvd.nist.gov/vuln/detail/CVE-2026-119469) | High | 7.0 | Incorrect default permissions in the ASUS DisplayWidget Center allow a local, low-privileged user to achieve arbitrary… |
-| 2026-11-18 02:17:40 | [CVE-2026-126574](https://nvd.nist.gov/vuln/detail/CVE-2026-126574) | Critical | 9.4 | Missing authorization vulnerability in ASUS Control Center Datacenter and Control Center Enterprise allows remote authe… |
-| 2026-11-18 02:17:41 | [CVE-2026-131647](https://nvd.nist.gov/vuln/detail/CVE-2026-131647) | Medium | 5.3 | A CRLF injection vulnerability was identified in GitHub Enterprise Server that allowed a user with write access to a re… |
-| 2026-11-18 02:17:41 | [CVE-2026-131820](https://nvd.nist.gov/vuln/detail/CVE-2026-131820) | High | 7.7 | A server-side request forgery vulnerability in GitHub Enterprise Server allowed an authenticated user with repository w… |
-| 2026-11-18 02:17:41 | [CVE-2026-19399](https://nvd.nist.gov/vuln/detail/CVE-2026-19399) | Medium | 6.1 | Improper Authentication and Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in ASUS Rout… |
-| 2026-11-18 02:17:41 | [CVE-2026-88711](https://nvd.nist.gov/vuln/detail/CVE-2026-88711) | High | 8.7 | Improper neutralization of special elements used in an OS command in certain ASUS Router firmware models allows an remo… |
-| 2026-11-18 02:17:41 | [CVE-2026-88760](https://nvd.nist.gov/vuln/detail/CVE-2026-88760) | Medium | 5.3 | Missing Authentication for Critical Function in certain ASUS Router firmware allows unauthenticated nearby users to obt… |
-| 2026-11-18 02:17:41 | [CVE-2026-93458](https://nvd.nist.gov/vuln/detail/CVE-2026-93458) | Medium | 6.1 | Insertion of sensitive information into sent data in certain ASUS Router firmware allows a remote attacker to obtain ro… |
-| 2026-11-18 02:17:42 | [CVE-2026-93459](https://nvd.nist.gov/vuln/detail/CVE-2026-93459) | High | 8.5 | Use of externally-controlled format string in certain ASUS Router firmware allows a nearby administrator to read or wri… |
+| 2026-11-18 03:17:39 | [CVE-2026-107949](https://nvd.nist.gov/vuln/detail/CVE-2026-107949) | Medium | 6.5 | A SQL injection vulnerability affects an administrative API in HCL Commerce versions 8, 9.0.1 and 9.1.0 - 9.1.21. A rem… |
+| 2026-11-18 03:17:40 | [CVE-2026-107950](https://nvd.nist.gov/vuln/detail/CVE-2026-107950) | High | 8.2 | An XML External Entity (XXE) vulnerability affects a Storefront REST API in HCL Commerce versions 8, 9.0.1 and 9.1.x. A… |
+| 2026-11-18 03:17:40 | [CVE-2026-117634](https://nvd.nist.gov/vuln/detail/CVE-2026-117634) | Medium | 6.9 | Pleasanter contains an incorrect authorization vulnerability in Publishing feature. If this vulnerability is exploited,… |
+| 2026-11-18 03:17:40 | [CVE-2026-120472](https://nvd.nist.gov/vuln/detail/CVE-2026-120472) | Medium | 5.9 | A flaw was found in OpenShift Hive. The ClusterClaim controller assigns hive-claim-owner RBAC based on a user-controlle… |
+| 2026-11-18 03:17:40 | [CVE-2026-121811](https://nvd.nist.gov/vuln/detail/CVE-2026-121811) | Medium | 5.3 | Pleasanter contains an issue with improper limitation of a pathname to a restricted directory ('Path Traversal') in the… |
+| 2026-11-18 03:17:40 | [CVE-2026-125276](https://nvd.nist.gov/vuln/detail/CVE-2026-125276) | High | 7.1 | Pleasanter contains an issue with insertion of sensitive information into sent data in the API. If the affected product… |
+| 2026-11-18 03:17:41 | [CVE-2026-125411](https://nvd.nist.gov/vuln/detail/CVE-2026-125411) | Medium | 5.3 | Pleasanter contains an incorrect authorization vulnerability in the access control of Items. If this vulnerability is e… |
+| 2026-11-18 03:17:41 | [CVE-2026-131800](https://nvd.nist.gov/vuln/detail/CVE-2026-131800) | High | 8.3 | A stored cross-site scripting vulnerability was identified in GitHub Enterprise Server that allowed an organization mem… |
+| 2026-11-18 03:17:41 | [CVE-2026-131871](https://nvd.nist.gov/vuln/detail/CVE-2026-131871) | High | 8.5 | WLA DX 9.7 through 10.7 contains a stack-based buffer overflow vulnerability in parse_data_blocks() in wlalink/analyze.… |
+| 2026-11-18 03:17:41 | [CVE-2026-131872](https://nvd.nist.gov/vuln/detail/CVE-2026-131872) | Medium | 6.8 | SOIL2 before 1.4.2 contains a NULL pointer dereference vulnerability in its DDS, PVR and PKM image loaders that write r… |
+| 2026-11-18 03:17:41 | [CVE-2026-131873](https://nvd.nist.gov/vuln/detail/CVE-2026-131873) | Medium | 6.9 | Gargoyle 2023.1 through 2026.1.1 contains a stack-based buffer overflow vulnerability in the bundled Plus interpreter's… |
+| 2026-11-18 03:17:42 | [CVE-2026-131874](https://nvd.nist.gov/vuln/detail/CVE-2026-131874) | Medium | 6.8 | Gargoyle 2023.1 through 2026.1.1 contains an infinite loop vulnerability in the bundled Plus interpreter's ReadString()… |
+| 2026-11-18 03:17:42 | [CVE-2026-131875](https://nvd.nist.gov/vuln/detail/CVE-2026-131875) | High | 8.7 | fqterm before 0.9.11 contains a heap out-of-bounds write vulnerability in FQTermDecode that allows malicious servers to… |
+| 2026-11-18 03:17:42 | [CVE-2026-131876](https://nvd.nist.gov/vuln/detail/CVE-2026-131876) | High | 7.1 | fqterm 0.9.9 before 0.9.11 contains an out-of-bounds memory access vulnerability in its SSH client that trusts unchecke… |
 
 ## Data source
 
