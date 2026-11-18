@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 04:18 UTC
+## Latest list — 2026-11-18 05:20 UTC
 
-New CVEs published between 2026-11-18 03:21 UTC and 2026-11-18 04:18 UTC.
+New CVEs published between 2026-11-18 04:18 UTC and 2026-11-18 05:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T04-18-59-544737Z.csv)
+[Full CSV](data/new-cves-2026-11-18T05-20-17-564016Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 04:17:12 | [CVE-2026-101113](https://nvd.nist.gov/vuln/detail/CVE-2026-101113) | High | 8.6 | Multiple ELECOM wireless LAN routers contain an OS command injection vulnerability that may cause an arbitrary OS comma… |
-| 2026-11-18 04:17:14 | [CVE-2026-130121](https://nvd.nist.gov/vuln/detail/CVE-2026-130121) | High | 7.2 | The AI Puffer - MCP Server for Claude & ChatGPT, with AI Chatbot plugin for WordPress is vulnerable to Stored Cross-Sit… |
-| 2026-11-18 04:17:14 | [CVE-2026-130644](https://nvd.nist.gov/vuln/detail/CVE-2026-130644) | High | 8.1 | A path traversal flaw was found in ansible-core. When installing a collection with ansible-galaxy collection install, t… |
+| 2026-11-18 05:19:01 | [CVE-2026-117657](https://nvd.nist.gov/vuln/detail/CVE-2026-117657) | Low | 2.3 | A Cleartext Transmission of Sensitive Information (CWE-319) vulnerability exists in the Android application "Imperial P… |
+| 2026-11-18 05:19:02 | [CVE-2026-118900](https://nvd.nist.gov/vuln/detail/CVE-2026-118900) | High | 8.4 | An OS command injection vulnerability exists in the Android application "Imperial Palaces Guide" provided by The Imperi… |
 
 ## Data source
 
