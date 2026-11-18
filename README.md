@@ -9,37 +9,70 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 13:19 UTC
+## Latest list — 2026-11-18 14:20 UTC
 
-New CVEs published between 2026-11-18 12:21 UTC and 2026-11-18 13:19 UTC.
+New CVEs published between 2026-11-18 13:19 UTC and 2026-11-18 14:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T13-19-16-408761Z.csv)
+[Full CSV](data/new-cves-2026-11-18T14-20-32-24744Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 13:17:23 | [CVE-2026-107517](https://nvd.nist.gov/vuln/detail/CVE-2026-107517) | Medium | 5.4 | Dell PowerStore contains a stored cross-site scripting (XSS) vulnerability. A low-privileged authenticated attacker cou… |
-| 2026-11-18 13:17:23 | [CVE-2026-107518](https://nvd.nist.gov/vuln/detail/CVE-2026-107518) | High | 8.7 | Dell PowerStore contains a Server-Side Request Forgery (SSRF) vulnerability. An authenticated user with limited privile… |
-| 2026-11-18 13:17:23 | [CVE-2026-107519](https://nvd.nist.gov/vuln/detail/CVE-2026-107519) | High | 8.1 | Dell PowerStore contains an integer underflow vulnerability. An attacker could exploit this vulnerability, potentially… |
-| 2026-11-18 13:17:23 | [CVE-2026-109857](https://nvd.nist.gov/vuln/detail/CVE-2026-109857) | Critical | 9.2 | CAST Imaging is vulnerable to authentication bypass in the TenantFilter class. The TenantFilter processes the X-ISSUER-… |
-| 2026-11-18 13:17:23 | [CVE-2026-109858](https://nvd.nist.gov/vuln/detail/CVE-2026-109858) | High | 8.3 | CAST Imaging has multiple path traversal vulnerabilities in various endpoints. The application does not properly valida… |
-| 2026-11-18 13:17:23 | [CVE-2026-109859](https://nvd.nist.gov/vuln/detail/CVE-2026-109859) | Medium | 6.9 | CAST Imaging has a missing authentication vulnerability in the "/api/auth/keycloak/users/{username}" endpoint. An unaut… |
-| 2026-11-18 13:17:24 | [CVE-2026-109860](https://nvd.nist.gov/vuln/detail/CVE-2026-109860) | High | 8.3 | CAST Imaging is vulnerable to Path Traversal vulnerability in "/api/server-folders" and "/api/server-folders/download"… |
-| 2026-11-18 13:17:24 | [CVE-2026-109861](https://nvd.nist.gov/vuln/detail/CVE-2026-109861) | High | 8.7 | CAST Imaging contains a hardcoded authentication token in the "KeyCloakController" class of auth-service.jar. An attack… |
-| 2026-11-18 13:17:24 | [CVE-2026-109862](https://nvd.nist.gov/vuln/detail/CVE-2026-109862) | Medium | 5.3 | CAST Imaging does not properly check whether a user is authorized to modify another user's notification settings in the… |
-| 2026-11-18 13:17:24 | [CVE-2026-109863](https://nvd.nist.gov/vuln/detail/CVE-2026-109863) | Medium | 5.3 | CAST Imaging allows authenticated, low-privileged users to access parts of the administrator panel. When a user navigat… |
-| 2026-11-18 13:17:24 | [CVE-2026-109864](https://nvd.nist.gov/vuln/detail/CVE-2026-109864) | Low | 2.3 | CAST Imaging has an access control flaw in the "/api/jobs/<uuid>/logs/download" endpoint. An authenticated low-privileg… |
-| 2026-11-18 13:17:24 | [CVE-2026-113699](https://nvd.nist.gov/vuln/detail/CVE-2026-113699) | High | 7.2 | Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in Aidata Bili… |
-| 2026-11-18 13:17:24 | [CVE-2026-125033](https://nvd.nist.gov/vuln/detail/CVE-2026-125033) | High | 7.2 | The Smash Balloon Social Post Feed – Simple Social Feeds for WordPress plugin for WordPress is vulnerable to Stored Cro… |
-| 2026-11-18 13:17:25 | [CVE-2026-127142](https://nvd.nist.gov/vuln/detail/CVE-2026-127142) | High | 8.7 | LMS (Lan Management System) is vulnerable to Remote Code Execution via unrestricted upload of dangerous file types in t… |
-| 2026-11-18 13:17:25 | [CVE-2026-127143](https://nvd.nist.gov/vuln/detail/CVE-2026-127143) | Critical | 9.4 | LMS (Lan Management System) is vulnerable to privilege escalation in the lmsd daemon. The daemon loads the libraries li… |
-| 2026-11-18 13:17:26 | [CVE-2026-129961](https://nvd.nist.gov/vuln/detail/CVE-2026-129961) | Critical | 9.5 | LMS (Lan Management System) is vulnerable to Remote Code Execution in its e-mail-based Helpdesk ticket intake. The mail… |
-| 2026-11-18 13:17:27 | [CVE-2026-130333](https://nvd.nist.gov/vuln/detail/CVE-2026-130333) | High | 7.2 | The SNORDIAN's H5PxAPIkatchu plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'xapi' parameter… |
-| 2026-11-18 13:17:27 | [CVE-2026-132121](https://nvd.nist.gov/vuln/detail/CVE-2026-132121) | High | 8.6 | Supergateway 2.4.0 through 4.2.2 contains a cross-site WebSocket hijacking vulnerability in stdio-to-WebSocket mode tha… |
-| 2026-11-18 13:17:27 | [CVE-2026-132122](https://nvd.nist.gov/vuln/detail/CVE-2026-132122) | Medium | 5.7 | agentic-radar 0.7.0 before 0.14.2 contains an untrusted configuration loading vulnerability that allows malicious repos… |
-| 2026-11-18 13:17:27 | [CVE-2026-132123](https://nvd.nist.gov/vuln/detail/CVE-2026-132123) | Medium | 4.8 | modified eCommerce Shopsoftware through 3.3.0 contains a stored cross-site scripting vulnerability that allows authenti… |
-| 2026-11-18 13:17:27 | [CVE-2026-132124](https://nvd.nist.gov/vuln/detail/CVE-2026-132124) | Medium | 4.8 | modified eCommerce Shopsoftware through 3.3.0 contains a stored cross-site scripting vulnerability that allows authenti… |
-| 2026-11-18 13:17:27 | [CVE-2026-132125](https://nvd.nist.gov/vuln/detail/CVE-2026-132125) | Low | 2.1 | Weblate 5.0 through 2026.11.2 contains a privilege escalation vulnerability where deleting a component list leaves stal… |
-| 2026-11-18 13:17:28 | [CVE-2026-132126](https://nvd.nist.gov/vuln/detail/CVE-2026-132126) | Medium | 5.3 | Weblate 2026.6 through 2026.11.2 contains an information disclosure vulnerability that allows authenticated users to en… |
+| 2026-11-18 14:17:21 | [CVE-2026-107515](https://nvd.nist.gov/vuln/detail/CVE-2026-107515) | High | 8.8 | Dell PowerStore contains an Improper Privilege Management vulnerability. An authenticated attacker could exploit this v… |
+| 2026-11-18 14:17:21 | [CVE-2026-107516](https://nvd.nist.gov/vuln/detail/CVE-2026-107516) | High | 7.2 | Dell PowerStore contains an OS command injection vulnerability. An authenticated user with limited privileges could pot… |
+| 2026-11-18 14:17:22 | [CVE-2026-107644](https://nvd.nist.gov/vuln/detail/CVE-2026-107644) | High | 7.4 | The Bizuno Accounting – ERP/Accounting/CRM (for WordPress) plugin for WordPress is vulnerable to Authentication Bypass… |
+| 2026-11-18 14:17:22 | [CVE-2026-108312](https://nvd.nist.gov/vuln/detail/CVE-2026-108312) | Medium | 6.5 | Tanium addressed an improper access controls vulnerability in Tanium Server. |
+| 2026-11-18 14:17:22 | [CVE-2026-108314](https://nvd.nist.gov/vuln/detail/CVE-2026-108314) | Medium | 5.4 | Tanium addressed an incorrect default permissions vulnerability in Tanium Server. |
+| 2026-11-18 14:17:22 | [CVE-2026-108315](https://nvd.nist.gov/vuln/detail/CVE-2026-108315) | Medium | 5.4 | Tanium addressed an improper access controls vulnerability in Tanium Server. |
+| 2026-11-18 14:17:23 | [CVE-2026-108317](https://nvd.nist.gov/vuln/detail/CVE-2026-108317) | Medium | 4.2 | Tanium addressed an information disclosure vulnerability in Tanium Server. |
+| 2026-11-18 14:17:23 | [CVE-2026-108318](https://nvd.nist.gov/vuln/detail/CVE-2026-108318) | Medium | 5.9 | Tanium addressed an uncontrolled recursion vulnerability in Tanium Server. |
+| 2026-11-18 14:17:24 | [CVE-2026-108319](https://nvd.nist.gov/vuln/detail/CVE-2026-108319) | Low | 2.0 | Tanium addressed a time-of-check time-of-use race condition vulnerability in Tanium Server. |
+| 2026-11-18 14:17:24 | [CVE-2026-108320](https://nvd.nist.gov/vuln/detail/CVE-2026-108320) | Medium | 5.3 | Tanium addressed an improper access controls vulnerability in Tanium Server. |
+| 2026-11-18 14:17:24 | [CVE-2026-108321](https://nvd.nist.gov/vuln/detail/CVE-2026-108321) | Low | 3.1 | Tanium addressed an improper access controls vulnerability in Tanium Server. |
+| 2026-11-18 14:17:24 | [CVE-2026-108323](https://nvd.nist.gov/vuln/detail/CVE-2026-108323) | Medium | 6.5 | Tanium addressed an uncontrolled resource consumption vulnerability in Tanium Client. |
+| 2026-11-18 14:17:24 | [CVE-2026-108761](https://nvd.nist.gov/vuln/detail/CVE-2026-108761) | High | 7.1 | The UpdraftPlus: WP Backup & Migration Plugin for WordPress is vulnerable to second-order SQL Injection via the user pr… |
+| 2026-11-18 14:17:25 | [CVE-2026-110009](https://nvd.nist.gov/vuln/detail/CVE-2026-110009) | Critical | 9.8 | The Unzer Payments plugin for WordPress is vulnerable to Authentication Bypass leading to Account Takeover in all versi… |
+| 2026-11-18 14:17:26 | [CVE-2026-110811](https://nvd.nist.gov/vuln/detail/CVE-2026-110811) | Critical | 9.8 | The Trust Payments Gateway for WooCommerce (JavaScript Library) plugin for WordPress is vulnerable to Authentication By… |
+| 2026-11-18 14:17:26 | [CVE-2026-115814](https://nvd.nist.gov/vuln/detail/CVE-2026-115814) | Medium | 4.7 | The Kirki – Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to Stored Cross-Site… |
+| 2026-11-18 14:17:26 | [CVE-2026-115815](https://nvd.nist.gov/vuln/detail/CVE-2026-115815) | High | 7.5 | The rus to lat advanced plugin for WordPress is vulnerable to blind SQL Injection via the 'name' parameter in all versi… |
+| 2026-11-18 14:17:26 | [CVE-2026-115826](https://nvd.nist.gov/vuln/detail/CVE-2026-115826) | High | 7.4 | The Multi Step for Contact Form 7 plugin for WordPress is vulnerable to Insecure Direct Object Reference in all version… |
+| 2026-11-18 14:17:26 | [CVE-2026-116519](https://nvd.nist.gov/vuln/detail/CVE-2026-116519) | High | 7.2 | The Geo Mashup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'author (comment form) / displ… |
+| 2026-11-18 14:17:27 | [CVE-2026-116594](https://nvd.nist.gov/vuln/detail/CVE-2026-116594) | Medium | 6.4 | The Jeg Kit for Elementor – Powerful Addons for Elementor, Widgets & Templates for WordPress plugin for WordPress is vu… |
+| 2026-11-18 14:17:27 | [CVE-2026-116758](https://nvd.nist.gov/vuln/detail/CVE-2026-116758) | High | 7.2 | The Advanced Country Blocker plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'REQUEST_URI' pa… |
+| 2026-11-18 14:17:27 | [CVE-2026-116764](https://nvd.nist.gov/vuln/detail/CVE-2026-116764) | High | 8.1 | The The GDPR Framework By Data443 plugin for WordPress is vulnerable to authorization bypass in all versions up to, and… |
+| 2026-11-18 14:17:28 | [CVE-2026-118068](https://nvd.nist.gov/vuln/detail/CVE-2026-118068) | Medium | 6.4 | The JobBoardWP – Job Board Listings and Submissions plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site S… |
+| 2026-11-18 14:17:28 | [CVE-2026-118521](https://nvd.nist.gov/vuln/detail/CVE-2026-118521) | Medium | 6.5 | The Toolbox for Asgaros Forum plugin for WordPress is vulnerable to arbitrary file deletion due to insufficient file pa… |
+| 2026-11-18 14:17:28 | [CVE-2026-119631](https://nvd.nist.gov/vuln/detail/CVE-2026-119631) | Medium | 5.9 | The Kirki - Freeform Page Builder, Website Builder & Customizer plugin for WordPress is vulnerable to Unauthorized Data… |
+| 2026-11-18 14:17:28 | [CVE-2026-120564](https://nvd.nist.gov/vuln/detail/CVE-2026-120564) | Medium | 6.5 | The Search Everything plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and inclu… |
+| 2026-11-18 14:17:29 | [CVE-2026-122042](https://nvd.nist.gov/vuln/detail/CVE-2026-122042) | High | 7.1 | WarehousePG (WHPG) 6.27.1 through 6.27.7 and 7.2.1 through 7.6.1 are affected by an out-of-bounds write vulnerability (… |
+| 2026-11-18 14:17:29 | [CVE-2026-123123](https://nvd.nist.gov/vuln/detail/CVE-2026-123123) | High | 7.5 | An attacker that is able to send a crafted network packet to the affected component may trigger an integer overflow dur… |
+| 2026-11-18 14:17:29 | [CVE-2026-123419](https://nvd.nist.gov/vuln/detail/CVE-2026-123419) | High | 8.1 | The immonex Kickstart plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including,… |
+| 2026-11-18 14:17:30 | [CVE-2026-125053](https://nvd.nist.gov/vuln/detail/CVE-2026-125053) | High | 7.2 | The WEB-Translation – eTranslation Multilingual plugin for WordPress is vulnerable to Stored Cross-Site Scripting via t… |
+| 2026-11-18 14:17:30 | [CVE-2026-125999](https://nvd.nist.gov/vuln/detail/CVE-2026-125999) | Medium | 6.4 | The Widget Manager Light plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'posts' parameter in… |
+| 2026-11-18 14:17:30 | [CVE-2026-126131](https://nvd.nist.gov/vuln/detail/CVE-2026-126131) | High | 7.2 | The WP Instant Feeds plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'data[images][][url]' pa… |
+| 2026-11-18 14:17:30 | [CVE-2026-126763](https://nvd.nist.gov/vuln/detail/CVE-2026-126763) |  |  | In Eclipse Mosquitto versions 1.6 to 2.0.22 and 2.1.0 to 2.1.2, an MQTT v5.0 client connecting with a will-delay-interv… |
+| 2026-11-18 14:17:33 | [CVE-2026-129323](https://nvd.nist.gov/vuln/detail/CVE-2026-129323) | Medium | 6.4 | The Masteriyo LMS – LMS Course Builder, Quizzes & Certificates plugin for WordPress is vulnerable to Stored Cross-Site… |
+| 2026-11-18 14:17:35 | [CVE-2026-130014](https://nvd.nist.gov/vuln/detail/CVE-2026-130014) | High | 7.5 | The Team VCard generator plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including… |
+| 2026-11-18 14:17:39 | [CVE-2026-130876](https://nvd.nist.gov/vuln/detail/CVE-2026-130876) | Low | 2.7 | Tanium addressed an uncontrolled recursion vulnerability. |
+| 2026-11-18 14:17:40 | [CVE-2026-130885](https://nvd.nist.gov/vuln/detail/CVE-2026-130885) | Low | 2.7 | Tanium addressed an uncontrolled recursion vulnerability. |
+| 2026-11-18 14:17:40 | [CVE-2026-130893](https://nvd.nist.gov/vuln/detail/CVE-2026-130893) | High | 7.8 | Tanium addressed an unauthorized code execution vulnerability. |
+| 2026-11-18 14:17:41 | [CVE-2026-130899](https://nvd.nist.gov/vuln/detail/CVE-2026-130899) | Low | 2.5 | Tanium addressed a time-of-check time-of-use race condition vulnerability. |
+| 2026-11-18 14:17:41 | [CVE-2026-131575](https://nvd.nist.gov/vuln/detail/CVE-2026-131575) | High | 7.5 | Tanium addressed an insertion of sensitive information into a log file vulnerability in TanOS. |
+| 2026-11-18 14:17:42 | [CVE-2026-131584](https://nvd.nist.gov/vuln/detail/CVE-2026-131584) | Medium | 5.9 | Tanium addressed an information disclosure vulnerability. |
+| 2026-11-18 14:17:42 | [CVE-2026-131652](https://nvd.nist.gov/vuln/detail/CVE-2026-131652) | Medium | 6.5 | Tanium addressed an information disclosure vulnerability. |
+| 2026-11-18 14:17:43 | [CVE-2026-131657](https://nvd.nist.gov/vuln/detail/CVE-2026-131657) | Medium | 6.0 | Tanium addressed an incorrect privilege assignment vulnerability. |
+| 2026-11-18 14:17:43 | [CVE-2026-131658](https://nvd.nist.gov/vuln/detail/CVE-2026-131658) | Low | 2.5 | Tanium addressed an uncontrolled recursion vulnerability in Integrity Monitor. |
+| 2026-11-18 14:17:43 | [CVE-2026-131685](https://nvd.nist.gov/vuln/detail/CVE-2026-131685) | Medium | 6.4 | Tanium addressed an improper signature validation vulnerability. |
+| 2026-11-18 14:17:43 | [CVE-2026-131694](https://nvd.nist.gov/vuln/detail/CVE-2026-131694) | Medium | 6.6 | Tanium addressed an improper check for certificate revocation vulnerability. |
+| 2026-11-18 14:17:43 | [CVE-2026-131697](https://nvd.nist.gov/vuln/detail/CVE-2026-131697) | Medium | 6.4 | Tanium addressed an improper access controls vulnerability. |
+| 2026-11-18 14:17:44 | [CVE-2026-131798](https://nvd.nist.gov/vuln/detail/CVE-2026-131798) | Medium | 4.3 | Tanium addressed a server-side request forgery vulnerability. |
+| 2026-11-18 14:17:44 | [CVE-2026-132138](https://nvd.nist.gov/vuln/detail/CVE-2026-132138) | Medium | 5.3 | A flaw was found in cyrus-sasl. When processing authentication requests using the Salted Challenge Response Authenticat… |
+| 2026-11-18 14:17:45 | [CVE-2026-92535](https://nvd.nist.gov/vuln/detail/CVE-2026-92535) | Medium | 5.3 | The Make Connector plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and incl… |
+| 2026-11-18 14:17:45 | [CVE-2026-95787](https://nvd.nist.gov/vuln/detail/CVE-2026-95787) | Critical | 10.0 | Vulnerabilities in the PAPI protocol of AOS-10 could allow an unauthenticated remote attacker to circumvent existing au… |
+| 2026-11-18 14:17:45 | [CVE-2026-95788](https://nvd.nist.gov/vuln/detail/CVE-2026-95788) | High | 7.1 | An unauthenticated buffer overflow vulnerability exists in the underlying operating system of AOS-10 or AOS-8 and could… |
+| 2026-11-18 14:17:45 | [CVE-2026-95789](https://nvd.nist.gov/vuln/detail/CVE-2026-95789) | High | 7.2 | Command injection vulnerability in the affected interface of AOS-10 or AOS-8 could allow an authenticated remote attack… |
+| 2026-11-18 14:17:45 | [CVE-2026-95790](https://nvd.nist.gov/vuln/detail/CVE-2026-95790) | Medium | 6.5 | A vulnerability in the web-based management interface of network device management systems of AOS-8 Mobility Controller… |
+| 2026-11-18 14:17:46 | [CVE-2026-96665](https://nvd.nist.gov/vuln/detail/CVE-2026-96665) | High | 7.2 | The SendPress Newsletters plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'sp_firstname' para… |
+| 2026-11-18 14:17:46 | [CVE-2026-96841](https://nvd.nist.gov/vuln/detail/CVE-2026-96841) | Medium | 6.4 | The ITRO Popup Plugin plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'custom_html' parameter… |
 
 ## Data source
 
