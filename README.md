@@ -9,18 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 07:19 UTC
+## Latest list — 2026-11-18 08:19 UTC
 
-New CVEs published between 2026-11-18 06:20 UTC and 2026-11-18 07:19 UTC.
+New CVEs published between 2026-11-18 07:19 UTC and 2026-11-18 08:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T07-19-00-390554Z.csv)
+[Full CSV](data/new-cves-2026-11-18T08-19-21-392974Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 07:17:22 | [CVE-2026-131920](https://nvd.nist.gov/vuln/detail/CVE-2026-131920) | Medium | 6.9 | In OpenStack Cinder before 29.1.1, by making an os-initialize_connection request with an IQN that includes a path trave… |
-| 2026-11-18 07:17:22 | [CVE-2026-131922](https://nvd.nist.gov/vuln/detail/CVE-2026-131922) | Medium | 4.3 | In OpenStack keystonemiddleware before 13.0.3, by supplying a malicious regular expression when creating an application… |
-| 2026-11-18 07:17:22 | [CVE-2026-1209](https://nvd.nist.gov/vuln/detail/CVE-2026-1209) | Medium | 4.3 | The BuddyPress plugin for WordPress is vulnerable to unauthorized modification of data due to a misconfigured capabilit… |
-| 2026-11-18 07:17:22 | [CVE-2026-2841](https://nvd.nist.gov/vuln/detail/CVE-2026-2841) | Medium | 4.3 | The Advanced Custom Fields (ACF) plugin for WordPress is vulnerable to incorrect authorization in all versions up to, a… |
+| 2026-11-18 08:17:18 | [CVE-2025-15716](https://nvd.nist.gov/vuln/detail/CVE-2025-15716) | High | 8.1 | An incorrect implementation of authentication algorithm vulnerability in the SSO API in Synology DiskStation Manager (D… |
+| 2026-11-18 08:17:19 | [CVE-2025-2235](https://nvd.nist.gov/vuln/detail/CVE-2025-2235) | High | 8.8 | Improper Verification of Cryptographic Signature vulnerability in OpenText™ Connected MX allows Privilege Escalation. T… |
+| 2026-11-18 08:17:19 | [CVE-2026-125820](https://nvd.nist.gov/vuln/detail/CVE-2026-125820) | High | 8.8 | Deserialization of Untrusted Data vulnerability in Rymera Web Co Product Feed PRO for WooCommerce woo-product-feed-pro… |
+| 2026-11-18 08:17:19 | [CVE-2026-125829](https://nvd.nist.gov/vuln/detail/CVE-2026-125829) | High | 7.7 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Rymera Web Co Product F… |
+| 2026-11-18 08:17:19 | [CVE-2026-131959](https://nvd.nist.gov/vuln/detail/CVE-2026-131959) | High | 7.8 | GNU Emacs 31.1 contains a code injection vulnerability in its handling of directory-local variables. A crafted .dir-loc… |
+| 2026-11-18 08:17:19 | [CVE-2026-1212](https://nvd.nist.gov/vuln/detail/CVE-2026-1212) | Medium | 5.4 | The BuddyPress plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions up to, and includ… |
 
 ## Data source
 
