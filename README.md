@@ -9,67 +9,37 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 21:22 UTC
+## Latest list — 2026-11-18 22:21 UTC
 
-New CVEs published between 2026-11-18 20:22 UTC and 2026-11-18 21:22 UTC.
+New CVEs published between 2026-11-18 21:22 UTC and 2026-11-18 22:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T21-22-17-878824Z.csv)
+[Full CSV](data/new-cves-2026-11-18T22-21-28-25104Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 21:17:44 | [CVE-2025-36441](https://nvd.nist.gov/vuln/detail/CVE-2025-36441) | Medium | 6.2 | IBM Financial Transaction Manager (FTM) 3.2.13.0 through 3.2.13.0 Interim Fix 006 stores potentially sensitive informat… |
-| 2026-11-18 21:17:44 | [CVE-2026-102434](https://nvd.nist.gov/vuln/detail/CVE-2026-102434) | Medium | 5.3 | IBM Engineering AI Hub 1.0.0 through 1.4.0 could allow a remote attacker to obtain sensitive information due to a Cross… |
-| 2026-11-18 21:17:45 | [CVE-2026-110521](https://nvd.nist.gov/vuln/detail/CVE-2026-110521) | Medium | 6.1 | IBM Engineering AI Hub 1.0.0 through 1.4.0 is vulnerable to cross-site scripting. This vulnerability allows an unauthen… |
-| 2026-11-18 21:17:46 | [CVE-2026-111513](https://nvd.nist.gov/vuln/detail/CVE-2026-111513) | High | 7.3 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain an Improper Verification of Cryptographic S… |
-| 2026-11-18 21:17:46 | [CVE-2026-111514](https://nvd.nist.gov/vuln/detail/CVE-2026-111514) | High | 7.3 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain an Incorrect Default Permissions vulnerabil… |
-| 2026-11-18 21:17:46 | [CVE-2026-111515](https://nvd.nist.gov/vuln/detail/CVE-2026-111515) | High | 7.1 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain an Improper Authorization in Handler for Cu… |
-| 2026-11-18 21:17:46 | [CVE-2026-111516](https://nvd.nist.gov/vuln/detail/CVE-2026-111516) | Medium | 6.6 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain a Least Privilege Violation vulnerability.… |
-| 2026-11-18 21:17:46 | [CVE-2026-111517](https://nvd.nist.gov/vuln/detail/CVE-2026-111517) | Medium | 4.4 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain a Deserialization of Untrusted Data vulnera… |
-| 2026-11-18 21:17:46 | [CVE-2026-111518](https://nvd.nist.gov/vuln/detail/CVE-2026-111518) | Low | 3.1 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain an Improper Restriction of Rendered UI Laye… |
-| 2026-11-18 21:17:46 | [CVE-2026-111519](https://nvd.nist.gov/vuln/detail/CVE-2026-111519) | Low | 2.0 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain an Improper Authorization in Handler for Cu… |
-| 2026-11-18 21:17:46 | [CVE-2026-111520](https://nvd.nist.gov/vuln/detail/CVE-2026-111520) | High | 7.3 | Dell Alienware Command Center (AWCC), versions prior to 6.14.105.0, contain a Time-of-check Time-of-use (TOCTOU) Race C… |
-| 2026-11-18 21:17:47 | [CVE-2026-114585](https://nvd.nist.gov/vuln/detail/CVE-2026-114585) | High | 7.6 | IBM Engineering AI Hub 1.0.0 through 1.4.0 could allow a remote authenticated attacker to obtain sensitive information… |
-| 2026-11-18 21:17:47 | [CVE-2026-122119](https://nvd.nist.gov/vuln/detail/CVE-2026-122119) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-122227. Reason: This candidate is… |
-| 2026-11-18 21:17:48 | [CVE-2026-127222](https://nvd.nist.gov/vuln/detail/CVE-2026-127222) | High | 8.7 | SGLang through 0.5.23, fixed in commit 7b5fb39, contains a missing authorization vulnerability in the POST /load_lora_a… |
-| 2026-11-18 21:17:48 | [CVE-2026-128974](https://nvd.nist.gov/vuln/detail/CVE-2026-128974) | Medium | 5.4 | Cleartext storage of the WhatsApp Noise static private key in the shared application container (cck.dat) in WhatsApp Me… |
-| 2026-11-18 21:17:48 | [CVE-2026-130089](https://nvd.nist.gov/vuln/detail/CVE-2026-130089) | High | 7.3 | A caller who can send requests to the temporal-proxy gRPC listener can obtain the static API key of an upstream whose a… |
-| 2026-11-18 21:17:49 | [CVE-2026-130090](https://nvd.nist.gov/vuln/detail/CVE-2026-130090) | Low | 2.3 | When two templated upstreams in temporal-proxy render the same address, a request routed to one upstream can be sent un… |
-| 2026-11-18 21:17:49 | [CVE-2026-130091](https://nvd.nist.gov/vuln/detail/CVE-2026-130091) | High | 7.1 | A caller with write permission in a namespace can terminate temporal-proxy through memory exhaustion by storing highly… |
-| 2026-11-18 21:17:49 | [CVE-2026-130092](https://nvd.nist.gov/vuln/detail/CVE-2026-130092) | High | 8.7 | A caller who can reach the temporal-proxy gRPC listener, with or without a valid credential, can grow the proxy's memor… |
-| 2026-11-18 21:17:55 | [CVE-2026-132137](https://nvd.nist.gov/vuln/detail/CVE-2026-132137) | Low | 2.1 | A vulnerability was identified in Relaticle up to 3.10.0. This affects the function mapToField of the file packages/Imp… |
-| 2026-11-18 21:17:55 | [CVE-2026-132139](https://nvd.nist.gov/vuln/detail/CVE-2026-132139) | High | 8.6 | A weakness has been identified in DrayTek Vigor2960 up to 1.5.1.6. Affected is the function setSWMProfile of the file /… |
-| 2026-11-18 21:17:56 | [CVE-2026-132140](https://nvd.nist.gov/vuln/detail/CVE-2026-132140) | High | 7.7 | A security vulnerability has been detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this vulnerability is an unk… |
-| 2026-11-18 21:17:56 | [CVE-2026-132144](https://nvd.nist.gov/vuln/detail/CVE-2026-132144) | High | 8.3 | MISP contains an authorization flaw in the user login-email change logic. When an external authentication backend is co… |
-| 2026-11-18 21:17:57 | [CVE-2026-132559](https://nvd.nist.gov/vuln/detail/CVE-2026-132559) | Low | 2.3 | When payload encryption is enabled, failure messages and stack traces that temporal-proxy is configured to keep from th… |
-| 2026-11-18 21:17:57 | [CVE-2026-132636](https://nvd.nist.gov/vuln/detail/CVE-2026-132636) | Medium | 5.3 | MISP contains an authorization bypass in its event search and filter functionality. When a user performed searches thro… |
-| 2026-11-18 21:17:57 | [CVE-2026-132637](https://nvd.nist.gov/vuln/detail/CVE-2026-132637) | Medium | 5.3 | MISP contains an authorization bypass in the correlations/eventCorrelations endpoint and the underlying correlation eng… |
-| 2026-11-18 21:17:58 | [CVE-2026-132641](https://nvd.nist.gov/vuln/detail/CVE-2026-132641) | Medium | 5.3 | MISP's EventDelegationsController delegateEvent method accepted a user-supplied sharing_group_id parameter without veri… |
-| 2026-11-18 21:17:58 | [CVE-2026-132642](https://nvd.nist.gov/vuln/detail/CVE-2026-132642) | Medium | 5.3 | MISP contains an access control flaw in its tag management endpoints: events/addTag (single and bulk), events/removeTag… |
-| 2026-11-18 21:17:58 | [CVE-2026-132643](https://nvd.nist.gov/vuln/detail/CVE-2026-132643) | Medium | 5.3 | MISP contains an information disclosure vulnerability in the Sighting model when the Sightings_anonymise setting is ena… |
-| 2026-11-18 21:17:59 | [CVE-2026-55169](https://nvd.nist.gov/vuln/detail/CVE-2026-55169) | High | 8.4 | Open OnDemand is an open-source high-performance computing portal. Prior to 4.1.6 and 4.2.3, the Open OnDemand dashboar… |
-| 2026-11-18 21:17:59 | [CVE-2026-55171](https://nvd.nist.gov/vuln/detail/CVE-2026-55171) | Critical | 9.1 | Open OnDemand is an open-source high-performance computing portal. Prior to Open OnDemand 4.1.6 and 4.2.3, and prior to… |
-| 2026-11-18 21:17:59 | [CVE-2026-55172](https://nvd.nist.gov/vuln/detail/CVE-2026-55172) | Medium | 5.4 | Open OnDemand is an open-source high-performance computing portal. Prior to 4.1.6 and 4.2.3, apps/dashboard/config/init… |
-| 2026-11-18 21:17:59 | [CVE-2026-55505](https://nvd.nist.gov/vuln/detail/CVE-2026-55505) | Medium | 4.9 | Wavelog is web-based amateur radio logging software. Prior to 3.2.4, the application/controllers/Lotw.php import() work… |
-| 2026-11-18 21:17:59 | [CVE-2026-55506](https://nvd.nist.gov/vuln/detail/CVE-2026-55506) | Critical | 9.6 | Wavelog is web-based amateur radio logging software. Prior to 2.5, the filename parameter accepted by POST /qsl/addQsoT… |
-| 2026-11-18 21:17:59 | [CVE-2026-55507](https://nvd.nist.gov/vuln/detail/CVE-2026-55507) | Medium | 6.0 | Wavelog is web-based amateur radio logging software. In 3.2.5 and earlier, the Hams of Note feature stores the administ… |
-| 2026-11-18 21:18:00 | [CVE-2026-55508](https://nvd.nist.gov/vuln/detail/CVE-2026-55508) | Critical | 9.4 | Wavelog is web-based amateur radio logging software. Prior to 2.5, the callsign parameter accepted by POST /oqrs/search… |
-| 2026-11-18 21:18:00 | [CVE-2026-59964](https://nvd.nist.gov/vuln/detail/CVE-2026-59964) | Medium | 5.9 | uftpd is a UNIX FTP and TFTP server. Prior to 2.16, uftpd's compose_path function in src/common.c can overflow the fixe… |
-| 2026-11-18 21:18:00 | [CVE-2026-59975](https://nvd.nist.gov/vuln/detail/CVE-2026-59975) | High | 7.5 | SharpIppNext is a .NET Standard library for building Internet Printing Protocol clients and servers. Prior to 4.1.0, se… |
-| 2026-11-18 21:18:01 | [CVE-2026-69131](https://nvd.nist.gov/vuln/detail/CVE-2026-69131) | Medium | 4.3 | django-filer is a file and image management application for Django. Prior to 3.5.0, the delete_files_or_folders action… |
-| 2026-11-18 21:18:01 | [CVE-2026-69138](https://nvd.nist.gov/vuln/detail/CVE-2026-69138) | Medium | 6.5 | djangocms-versioning is a general-purpose versioning package for django CMS 4 and later. Prior to 2.6.1, the check_disc… |
-| 2026-11-18 21:18:01 | [CVE-2026-71427](https://nvd.nist.gov/vuln/detail/CVE-2026-71427) | Medium | 5.3 | WPGraphQL Content Blocks is a WordPress plugin that extends WPGraphQL to support querying Gutenberg blocks as data. Pri… |
-| 2026-11-18 21:18:01 | [CVE-2026-73967](https://nvd.nist.gov/vuln/detail/CVE-2026-73967) | High | 8.7 | AnsibleForms is a self-hosted web application that turns automation into self-service forms. Prior to 6.2.1, AnsibleFor… |
-| 2026-11-18 21:18:01 | [CVE-2026-73968](https://nvd.nist.gov/vuln/detail/CVE-2026-73968) | High | 7.2 | AnsibleForms is a self-hosted web application that turns automation into self-service forms. Prior to 6.2.1, AnsibleFor… |
-| 2026-11-18 21:18:02 | [CVE-2026-73969](https://nvd.nist.gov/vuln/detail/CVE-2026-73969) | Critical | 9.8 | AnsibleForms is a self-hosted web application that turns automation into self-service forms. Prior to 6.2.1, AnsibleFor… |
-| 2026-11-18 21:18:02 | [CVE-2026-75506](https://nvd.nist.gov/vuln/detail/CVE-2026-75506) | Medium | 6.6 | OliveTin gives safe and simple access to predefined shell commands from a web interface. From 3000.0.0 until 3000.18.1,… |
-| 2026-11-18 21:18:02 | [CVE-2026-75522](https://nvd.nist.gov/vuln/detail/CVE-2026-75522) | High | 7.5 | OpenID4VP is an open-source credential parsing library for SD-JWT VC and mDOC/mDL formats. Prior to 0.8.1, src/trust/Ch… |
-| 2026-11-18 21:18:02 | [CVE-2026-76007](https://nvd.nist.gov/vuln/detail/CVE-2026-76007) | High | 8.1 | IBM Engineering AI Hub 1.0.0 through 1.4.0 could allow a remote attacker to obtain sensitive information and perform un… |
-| 2026-11-18 21:18:02 | [CVE-2026-76088](https://nvd.nist.gov/vuln/detail/CVE-2026-76088) | High | 7.5 | PGPainless is a simple-to-use OpenPGP API based on Bouncy Castle. Prior to 1.7.8 and from 2.0.0 until 2.0.4, pgpainless… |
-| 2026-11-18 21:18:02 | [CVE-2026-76100](https://nvd.nist.gov/vuln/detail/CVE-2026-76100) | High | 8.2 | OwnPay is a self-hosted open-source payment gateway automation platform. In 0.2.0 and earlier, modules/gateways/alipay/… |
-| 2026-11-18 21:18:03 | [CVE-2026-76913](https://nvd.nist.gov/vuln/detail/CVE-2026-76913) | High | 8.8 | NotrinosERP is an open-source web-based enterprise resource planning system written in PHP and MySQL. From 1.0.0 until… |
-| 2026-11-18 21:18:03 | [CVE-2026-77295](https://nvd.nist.gov/vuln/detail/CVE-2026-77295) | High | 8.7 | MyMangaDB is a self-hosted manga collection manager with automatic metadata, MyAnimeList import, Docker support, and co… |
-| 2026-11-18 21:18:03 | [CVE-2026-77296](https://nvd.nist.gov/vuln/detail/CVE-2026-77296) | Critical | 9.3 | MyMangaDB is a self-hosted manga collection manager with automatic metadata, MyAnimeList import, Docker support, and co… |
-| 2026-11-18 21:18:03 | [CVE-2026-77297](https://nvd.nist.gov/vuln/detail/CVE-2026-77297) | Critical | 9.3 | MyMangaDB is a self-hosted manga collection manager with automatic metadata, MyAnimeList import, Docker support, and co… |
+| 2026-11-18 22:17:15 | [CVE-2026-106094](https://nvd.nist.gov/vuln/detail/CVE-2026-106094) | High | 8.4 | Improper neutralization of special elements used in an OS command ('OS command injection') vulnerability in Westell Tec… |
+| 2026-11-18 22:17:17 | [CVE-2026-121720](https://nvd.nist.gov/vuln/detail/CVE-2026-121720) | High | 8.5 | OpenVPN 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 on Windows allows local authenticated users to execute arbitr… |
+| 2026-11-18 22:17:18 | [CVE-2026-129987](https://nvd.nist.gov/vuln/detail/CVE-2026-129987) | Critical | 9.9 | Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the database password validation used b… |
+| 2026-11-18 22:17:18 | [CVE-2026-129993](https://nvd.nist.gov/vuln/detail/CVE-2026-129993) | Medium | 6.5 | Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the settings.getWebServerSettings prote… |
+| 2026-11-18 22:17:19 | [CVE-2026-132141](https://nvd.nist.gov/vuln/detail/CVE-2026-132141) | High | 8.6 | A vulnerability was detected in DrayTek Vigor2960 up to 1.5.1.6. Affected by this issue is the function json_load_lock… |
+| 2026-11-18 22:17:20 | [CVE-2026-132142](https://nvd.nist.gov/vuln/detail/CVE-2026-132142) | High | 8.5 | A flaw has been found in DrayTek Vigor2960 up to 1.5.1.6. This affects the function dataflowstatus of the file /cgi-bin… |
+| 2026-11-18 22:17:20 | [CVE-2026-132143](https://nvd.nist.gov/vuln/detail/CVE-2026-132143) | High | 8.6 | A vulnerability has been found in DrayTek Vigor2960 up to 1.5.1.6. This vulnerability affects the function doWebBackup… |
+| 2026-11-18 22:17:20 | [CVE-2026-132252](https://nvd.nist.gov/vuln/detail/CVE-2026-132252) | Low | 1.2 | A vulnerability was found in October CMS up to 4.4.6. This affects the function validateExternalImageHost of the file m… |
+| 2026-11-18 22:17:21 | [CVE-2026-132644](https://nvd.nist.gov/vuln/detail/CVE-2026-132644) | Medium | 6.3 | MISP contains an authorization flaw in the GalaxyCluster model's captureCluster() function, which handles the import an… |
+| 2026-11-18 22:17:21 | [CVE-2026-132645](https://nvd.nist.gov/vuln/detail/CVE-2026-132645) | Medium | 6.3 | MISP contains an authorization bypass vulnerability in the Galaxy import/sync functionality (captureGalaxy in app/Model… |
+| 2026-11-18 22:17:22 | [CVE-2026-59961](https://nvd.nist.gov/vuln/detail/CVE-2026-59961) | High | 8.2 | mini-snmpd is a minimal SNMP agent implementation. Prior to 1.7, the ASN.1 BER parser in protocol.c does not verify tha… |
+| 2026-11-18 22:17:22 | [CVE-2026-62964](https://nvd.nist.gov/vuln/detail/CVE-2026-62964) | High | 7.8 | Gortex is a high-performance code-intelligence engine for AI agents and integrated development environments. Prior to 0… |
+| 2026-11-18 22:17:22 | [CVE-2026-63411](https://nvd.nist.gov/vuln/detail/CVE-2026-63411) | Critical | 9.3 | Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior… |
+| 2026-11-18 22:17:22 | [CVE-2026-63412](https://nvd.nist.gov/vuln/detail/CVE-2026-63412) | Critical | 9.3 | Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior… |
+| 2026-11-18 22:17:22 | [CVE-2026-63413](https://nvd.nist.gov/vuln/detail/CVE-2026-63413) | Critical | 9.3 | Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior… |
+| 2026-11-18 22:17:22 | [CVE-2026-63415](https://nvd.nist.gov/vuln/detail/CVE-2026-63415) | High | 7.0 | Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior… |
+| 2026-11-18 22:17:23 | [CVE-2026-68522](https://nvd.nist.gov/vuln/detail/CVE-2026-68522) | Medium | 6.9 | QPixel is a Q&A-based community knowledge-sharing software. Prior to 0.13.0, the unauthenticated comments#show action i… |
+| 2026-11-18 22:17:23 | [CVE-2026-69139](https://nvd.nist.gov/vuln/detail/CVE-2026-69139) | Medium | 4.3 | djangocms-moderation provides an approval workflow mechanism for organizations that require content approval before pub… |
+| 2026-11-18 22:17:23 | [CVE-2026-73971](https://nvd.nist.gov/vuln/detail/CVE-2026-73971) | High | 8.0 | Music Assistant is an open-source media library manager that integrates streaming services with connected speakers. Pri… |
+| 2026-11-18 22:17:24 | [CVE-2026-75518](https://nvd.nist.gov/vuln/detail/CVE-2026-75518) | Medium | 4.8 | DOMShell is a Chrome automation project whose MCP server exposes Unix-style tools for AI agents. Prior to 2.0.8, the DO… |
+| 2026-11-18 22:17:24 | [CVE-2026-75612](https://nvd.nist.gov/vuln/detail/CVE-2026-75612) | High | 7.5 | yt-mcp is a YouTrack MCP server for Claude Code. Prior to 1.18.1, add_attachment in src/yt_mcp/tools/attachments.py acc… |
+| 2026-11-18 22:17:24 | [CVE-2026-76101](https://nvd.nist.gov/vuln/detail/CVE-2026-76101) | High | 7.1 | keystore-go is a Go implementation of the Java KeyStore encoder and decoder. In 2.1.0 and earlier, keystore.Decode in d… |
+| 2026-11-18 22:17:24 | [CVE-2026-76818](https://nvd.nist.gov/vuln/detail/CVE-2026-76818) | High | 7.5 | Axon is an agent-agnostic context engine that gives AI coding agents continuous memory across sessions, tools, and mach… |
 
 ## Data source
 
