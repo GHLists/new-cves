@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-18T18:19:15.617Z,CVE-2026-132229,HIGH,8.1,Awaiting Analysis,CWE-732,1,"A flaw was found in hypershift-addon. Due to an overly permissive role-based access control (RBAC) configuration that grants permissions to all authenticated users rather than restricting them to the addon service, a low-privileged authenticated user can view, modify, or delete managed cluster reso…"
