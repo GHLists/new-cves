@@ -9,26 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 09:19 UTC
+## Latest list — 2026-11-18 10:22 UTC
 
-New CVEs published between 2026-11-18 08:19 UTC and 2026-11-18 09:19 UTC.
+New CVEs published between 2026-11-18 09:19 UTC and 2026-11-18 10:22 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T09-19-09-879451Z.csv)
+[Full CSV](data/new-cves-2026-11-18T10-22-16-785377Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 09:17:44 | [CVE-2026-113497](https://nvd.nist.gov/vuln/detail/CVE-2026-113497) | High | 8.7 | A low-privileged remote attacker can change the password of arbitrary users using the REST API, including administrativ… |
-| 2026-11-18 09:17:44 | [CVE-2026-128981](https://nvd.nist.gov/vuln/detail/CVE-2026-128981) |  |  | ** UNSUPPORTED WHEN ASSIGNED ** Improper Authentication in Apache SeaTunnel Web 1.0.2 allows a user whose account has b… |
-| 2026-11-18 09:17:44 | [CVE-2026-95643](https://nvd.nist.gov/vuln/detail/CVE-2026-95643) | Critical | 9.1 | Zohocorp Manageengine DDI Central build below 6500 are affected by a authenticated PowerShell command injection vulnera… |
-| 2026-11-18 09:17:44 | [CVE-2026-95645](https://nvd.nist.gov/vuln/detail/CVE-2026-95645) | Critical | 9.1 | Zohocorp Manageengine DDI Central build below 6500 are affected by a authenticated command injection vulnerability in t… |
-| 2026-11-18 09:17:45 | [CVE-2026-99312](https://nvd.nist.gov/vuln/detail/CVE-2026-99312) |  |  | In the Linux kernel, the following vulnerability has been resolved: KVM: x86: Unconditionally reset MMU context when em… |
-| 2026-11-18 09:17:45 | [CVE-2026-99313](https://nvd.nist.gov/vuln/detail/CVE-2026-99313) |  |  | In the Linux kernel, the following vulnerability has been resolved: HID: logitech-hidpp: fix race condition when access… |
-| 2026-11-18 09:17:45 | [CVE-2026-99314](https://nvd.nist.gov/vuln/detail/CVE-2026-99314) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: us122l: Add missing NULL check in usb_stream_… |
-| 2026-11-18 09:17:45 | [CVE-2026-99315](https://nvd.nist.gov/vuln/detail/CVE-2026-99315) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: us122l: Fix NULL dereference at hwdep open an… |
-| 2026-11-18 09:17:45 | [CVE-2026-99316](https://nvd.nist.gov/vuln/detail/CVE-2026-99316) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: usx2y: Initialize idle URBs before submitting… |
-| 2026-11-18 09:17:45 | [CVE-2026-99317](https://nvd.nist.gov/vuln/detail/CVE-2026-99317) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: hwdep: Serialize DSP load requests The check… |
-| 2026-11-18 09:17:45 | [CVE-2026-99318](https://nvd.nist.gov/vuln/detail/CVE-2026-99318) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: bcd2000: Fix use-after-free of MIDI URBs on f… |
-| 2026-11-18 09:17:46 | [CVE-2026-99319](https://nvd.nist.gov/vuln/detail/CVE-2026-99319) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: usx2y: Refuse a retried DSP load after a fail… |
+| 2026-11-18 10:16:52 | [CVE-2026-110513](https://nvd.nist.gov/vuln/detail/CVE-2026-110513) |  |  | Insufficient Session Expiration vulnerability in the Apache Iggy server HTTP transport. A self-issued JSON Web Token (J… |
+| 2026-11-18 10:16:53 | [CVE-2026-112213](https://nvd.nist.gov/vuln/detail/CVE-2026-112213) | Medium | 6.9 | Out-of-bounds read vulnerability in the pixReadMemJp2kCore() function in Leptonica, located in jp2kio.c. The function r… |
+| 2026-11-18 10:16:53 | [CVE-2026-120557](https://nvd.nist.gov/vuln/detail/CVE-2026-120557) | Medium | 6.4 | The WP Delicious – Recipe Plugin for Food Bloggers (formerly Delicious Recipes) plugin for WordPress is vulnerable to S… |
+| 2026-11-18 10:16:53 | [CVE-2026-120566](https://nvd.nist.gov/vuln/detail/CVE-2026-120566) | Medium | 6.4 | The WP Delicious – Recipe Plugin for Food Bloggers (formerly Delicious Recipes) plugin for WordPress is vulnerable to S… |
+| 2026-11-18 10:16:53 | [CVE-2026-120672](https://nvd.nist.gov/vuln/detail/CVE-2026-120672) | Medium | 4.9 | The Meow Gallery plugin for WordPress is vulnerable to generic SQL Injection via the 'limit' parameter in all versions… |
+| 2026-11-18 10:16:53 | [CVE-2026-123343](https://nvd.nist.gov/vuln/detail/CVE-2026-123343) | Medium | 6.5 | The BlockArt Blocks – Gutenberg Blocks, Page Builder Blocks ,WordPress Block Plugin, Sections & Template Library plugin… |
+| 2026-11-18 10:16:53 | [CVE-2026-125012](https://nvd.nist.gov/vuln/detail/CVE-2026-125012) | Medium | 6.4 | The Flying Images: Optimize and Lazy Load Images for Faster Page Speed plugin for WordPress is vulnerable to Stored Cro… |
+| 2026-11-18 10:16:54 | [CVE-2026-125058](https://nvd.nist.gov/vuln/detail/CVE-2026-125058) | Medium | 6.4 | The Image Source Control Lite – Show Image Credits and Captions plugin for WordPress is vulnerable to Stored Cross-Site… |
+| 2026-11-18 10:16:54 | [CVE-2026-126708](https://nvd.nist.gov/vuln/detail/CVE-2026-126708) |  |  | In Eclipse Mosquitto versions 2.0.0 to 2.0.22 and 2.1.0 to 2.1.2, the return value of password hash functions for sha51… |
+| 2026-11-18 10:16:54 | [CVE-2026-129509](https://nvd.nist.gov/vuln/detail/CVE-2026-129509) |  |  | In the Apache Airflow Microsoft Azure provider 10.2.0 through 15.3.0, `S3ToAzureBlobStorageOperator` turned off TLS cer… |
+| 2026-11-18 10:16:54 | [CVE-2026-129705](https://nvd.nist.gov/vuln/detail/CVE-2026-129705) |  |  | In Eclipse Mosquitto versions 2.1.0 to 2.1.2, a broker with a listener that is configured to use the PROXY protocol v2… |
+| 2026-11-18 10:16:54 | [CVE-2026-130491](https://nvd.nist.gov/vuln/detail/CVE-2026-130491) |  |  | In Eclipse versions 1.5-1.6.13, 2.0.0-2.0.22 and 2.1.0-2.1.2, the client library libmosquitto does not reject Will mess… |
+| 2026-11-18 10:16:55 | [CVE-2026-19707](https://nvd.nist.gov/vuln/detail/CVE-2026-19707) | Critical | 9.5 | A bug in the Airlock Gateway (8.5.2 and earlier, and 8.6.0) allows attacker-controlled HTML in a backend response to ex… |
+| 2026-11-18 10:16:55 | [CVE-2026-1214](https://nvd.nist.gov/vuln/detail/CVE-2026-1214) | Medium | 5.3 | The BuddyPress plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and includin… |
+| 2026-11-18 10:16:55 | [CVE-2026-58320](https://nvd.nist.gov/vuln/detail/CVE-2026-58320) |  |  | Missing Authorization vulnerability in the Apache Iggy server. The system snapshot command (GetSnapshot on the binary t… |
 
 ## Data source
 
