@@ -9,20 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 08:19 UTC
+## Latest list — 2026-11-18 09:19 UTC
 
-New CVEs published between 2026-11-18 07:19 UTC and 2026-11-18 08:19 UTC.
+New CVEs published between 2026-11-18 08:19 UTC and 2026-11-18 09:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T08-19-21-392974Z.csv)
+[Full CSV](data/new-cves-2026-11-18T09-19-09-879451Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 08:17:18 | [CVE-2025-15716](https://nvd.nist.gov/vuln/detail/CVE-2025-15716) | High | 8.1 | An incorrect implementation of authentication algorithm vulnerability in the SSO API in Synology DiskStation Manager (D… |
-| 2026-11-18 08:17:19 | [CVE-2025-2235](https://nvd.nist.gov/vuln/detail/CVE-2025-2235) | High | 8.8 | Improper Verification of Cryptographic Signature vulnerability in OpenText™ Connected MX allows Privilege Escalation. T… |
-| 2026-11-18 08:17:19 | [CVE-2026-125820](https://nvd.nist.gov/vuln/detail/CVE-2026-125820) | High | 8.8 | Deserialization of Untrusted Data vulnerability in Rymera Web Co Product Feed PRO for WooCommerce woo-product-feed-pro… |
-| 2026-11-18 08:17:19 | [CVE-2026-125829](https://nvd.nist.gov/vuln/detail/CVE-2026-125829) | High | 7.7 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Rymera Web Co Product F… |
-| 2026-11-18 08:17:19 | [CVE-2026-131959](https://nvd.nist.gov/vuln/detail/CVE-2026-131959) | High | 7.8 | GNU Emacs 31.1 contains a code injection vulnerability in its handling of directory-local variables. A crafted .dir-loc… |
-| 2026-11-18 08:17:19 | [CVE-2026-1212](https://nvd.nist.gov/vuln/detail/CVE-2026-1212) | Medium | 5.4 | The BuddyPress plugin for WordPress is vulnerable to Insecure Direct Object Reference in all versions up to, and includ… |
+| 2026-11-18 09:17:44 | [CVE-2026-113497](https://nvd.nist.gov/vuln/detail/CVE-2026-113497) | High | 8.7 | A low-privileged remote attacker can change the password of arbitrary users using the REST API, including administrativ… |
+| 2026-11-18 09:17:44 | [CVE-2026-128981](https://nvd.nist.gov/vuln/detail/CVE-2026-128981) |  |  | ** UNSUPPORTED WHEN ASSIGNED ** Improper Authentication in Apache SeaTunnel Web 1.0.2 allows a user whose account has b… |
+| 2026-11-18 09:17:44 | [CVE-2026-95643](https://nvd.nist.gov/vuln/detail/CVE-2026-95643) | Critical | 9.1 | Zohocorp Manageengine DDI Central build below 6500 are affected by a authenticated PowerShell command injection vulnera… |
+| 2026-11-18 09:17:44 | [CVE-2026-95645](https://nvd.nist.gov/vuln/detail/CVE-2026-95645) | Critical | 9.1 | Zohocorp Manageengine DDI Central build below 6500 are affected by a authenticated command injection vulnerability in t… |
+| 2026-11-18 09:17:45 | [CVE-2026-99312](https://nvd.nist.gov/vuln/detail/CVE-2026-99312) |  |  | In the Linux kernel, the following vulnerability has been resolved: KVM: x86: Unconditionally reset MMU context when em… |
+| 2026-11-18 09:17:45 | [CVE-2026-99313](https://nvd.nist.gov/vuln/detail/CVE-2026-99313) |  |  | In the Linux kernel, the following vulnerability has been resolved: HID: logitech-hidpp: fix race condition when access… |
+| 2026-11-18 09:17:45 | [CVE-2026-99314](https://nvd.nist.gov/vuln/detail/CVE-2026-99314) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: us122l: Add missing NULL check in usb_stream_… |
+| 2026-11-18 09:17:45 | [CVE-2026-99315](https://nvd.nist.gov/vuln/detail/CVE-2026-99315) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: us122l: Fix NULL dereference at hwdep open an… |
+| 2026-11-18 09:17:45 | [CVE-2026-99316](https://nvd.nist.gov/vuln/detail/CVE-2026-99316) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: usx2y: Initialize idle URBs before submitting… |
+| 2026-11-18 09:17:45 | [CVE-2026-99317](https://nvd.nist.gov/vuln/detail/CVE-2026-99317) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: hwdep: Serialize DSP load requests The check… |
+| 2026-11-18 09:17:45 | [CVE-2026-99318](https://nvd.nist.gov/vuln/detail/CVE-2026-99318) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: bcd2000: Fix use-after-free of MIDI URBs on f… |
+| 2026-11-18 09:17:46 | [CVE-2026-99319](https://nvd.nist.gov/vuln/detail/CVE-2026-99319) |  |  | In the Linux kernel, the following vulnerability has been resolved: ALSA: usx2y: Refuse a retried DSP load after a fail… |
 
 ## Data source
 
