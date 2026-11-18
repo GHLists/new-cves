@@ -9,29 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 10:22 UTC
+## Latest list — 2026-11-18 11:22 UTC
 
-New CVEs published between 2026-11-18 09:19 UTC and 2026-11-18 10:22 UTC.
+New CVEs published between 2026-11-18 10:22 UTC and 2026-11-18 11:22 UTC.
 
-[Full CSV](data/new-cves-2026-11-18T10-22-16-785377Z.csv)
+[Full CSV](data/new-cves-2026-11-18T11-22-48-453709Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-18 10:16:52 | [CVE-2026-110513](https://nvd.nist.gov/vuln/detail/CVE-2026-110513) |  |  | Insufficient Session Expiration vulnerability in the Apache Iggy server HTTP transport. A self-issued JSON Web Token (J… |
-| 2026-11-18 10:16:53 | [CVE-2026-112213](https://nvd.nist.gov/vuln/detail/CVE-2026-112213) | Medium | 6.9 | Out-of-bounds read vulnerability in the pixReadMemJp2kCore() function in Leptonica, located in jp2kio.c. The function r… |
-| 2026-11-18 10:16:53 | [CVE-2026-120557](https://nvd.nist.gov/vuln/detail/CVE-2026-120557) | Medium | 6.4 | The WP Delicious – Recipe Plugin for Food Bloggers (formerly Delicious Recipes) plugin for WordPress is vulnerable to S… |
-| 2026-11-18 10:16:53 | [CVE-2026-120566](https://nvd.nist.gov/vuln/detail/CVE-2026-120566) | Medium | 6.4 | The WP Delicious – Recipe Plugin for Food Bloggers (formerly Delicious Recipes) plugin for WordPress is vulnerable to S… |
-| 2026-11-18 10:16:53 | [CVE-2026-120672](https://nvd.nist.gov/vuln/detail/CVE-2026-120672) | Medium | 4.9 | The Meow Gallery plugin for WordPress is vulnerable to generic SQL Injection via the 'limit' parameter in all versions… |
-| 2026-11-18 10:16:53 | [CVE-2026-123343](https://nvd.nist.gov/vuln/detail/CVE-2026-123343) | Medium | 6.5 | The BlockArt Blocks – Gutenberg Blocks, Page Builder Blocks ,WordPress Block Plugin, Sections & Template Library plugin… |
-| 2026-11-18 10:16:53 | [CVE-2026-125012](https://nvd.nist.gov/vuln/detail/CVE-2026-125012) | Medium | 6.4 | The Flying Images: Optimize and Lazy Load Images for Faster Page Speed plugin for WordPress is vulnerable to Stored Cro… |
-| 2026-11-18 10:16:54 | [CVE-2026-125058](https://nvd.nist.gov/vuln/detail/CVE-2026-125058) | Medium | 6.4 | The Image Source Control Lite – Show Image Credits and Captions plugin for WordPress is vulnerable to Stored Cross-Site… |
-| 2026-11-18 10:16:54 | [CVE-2026-126708](https://nvd.nist.gov/vuln/detail/CVE-2026-126708) |  |  | In Eclipse Mosquitto versions 2.0.0 to 2.0.22 and 2.1.0 to 2.1.2, the return value of password hash functions for sha51… |
-| 2026-11-18 10:16:54 | [CVE-2026-129509](https://nvd.nist.gov/vuln/detail/CVE-2026-129509) |  |  | In the Apache Airflow Microsoft Azure provider 10.2.0 through 15.3.0, `S3ToAzureBlobStorageOperator` turned off TLS cer… |
-| 2026-11-18 10:16:54 | [CVE-2026-129705](https://nvd.nist.gov/vuln/detail/CVE-2026-129705) |  |  | In Eclipse Mosquitto versions 2.1.0 to 2.1.2, a broker with a listener that is configured to use the PROXY protocol v2… |
-| 2026-11-18 10:16:54 | [CVE-2026-130491](https://nvd.nist.gov/vuln/detail/CVE-2026-130491) |  |  | In Eclipse versions 1.5-1.6.13, 2.0.0-2.0.22 and 2.1.0-2.1.2, the client library libmosquitto does not reject Will mess… |
-| 2026-11-18 10:16:55 | [CVE-2026-19707](https://nvd.nist.gov/vuln/detail/CVE-2026-19707) | Critical | 9.5 | A bug in the Airlock Gateway (8.5.2 and earlier, and 8.6.0) allows attacker-controlled HTML in a backend response to ex… |
-| 2026-11-18 10:16:55 | [CVE-2026-1214](https://nvd.nist.gov/vuln/detail/CVE-2026-1214) | Medium | 5.3 | The BuddyPress plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and includin… |
-| 2026-11-18 10:16:55 | [CVE-2026-58320](https://nvd.nist.gov/vuln/detail/CVE-2026-58320) |  |  | Missing Authorization vulnerability in the Apache Iggy server. The system snapshot command (GetSnapshot on the binary t… |
+| 2026-11-18 11:17:35 | [CVE-2025-59906](https://nvd.nist.gov/vuln/detail/CVE-2025-59906) | Critical | 9.3 | Hardcoded credentials in the executable file. These can be extracted using the “Strings.exe” tool and could allow an at… |
+| 2026-11-18 11:17:36 | [CVE-2025-59907](https://nvd.nist.gov/vuln/detail/CVE-2025-59907) | Critical | 9.3 | Hardcoded credentials in the executable file. These can be extracted using the “Strings.exe” tool and could allow an at… |
+| 2026-11-18 11:17:37 | [CVE-2025-59908](https://nvd.nist.gov/vuln/detail/CVE-2025-59908) | High | 7.1 | Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows a user to view the names of… |
+| 2026-11-18 11:17:37 | [CVE-2025-59909](https://nvd.nist.gov/vuln/detail/CVE-2025-59909) | High | 7.1 | Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows a user to view the names of… |
+| 2026-11-18 11:17:37 | [CVE-2025-59910](https://nvd.nist.gov/vuln/detail/CVE-2025-59910) | High | 7.1 | Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows a user to view the names of… |
+| 2026-11-18 11:17:37 | [CVE-2025-59911](https://nvd.nist.gov/vuln/detail/CVE-2025-59911) | High | 7.1 | Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows a user to view the names of… |
+| 2026-11-18 11:17:37 | [CVE-2025-59912](https://nvd.nist.gov/vuln/detail/CVE-2025-59912) | High | 7.1 | Insecure Direct Object Reference (IDOR) vulnerability. Exploiting this vulnerability allows a user to view the names of… |
+| 2026-11-18 11:17:37 | [CVE-2026-110486](https://nvd.nist.gov/vuln/detail/CVE-2026-110486) | Critical | 9.8 | In Eclipse Mosquitto versions 2.1 through 2.1.2, a listener configured with `protocol websockets` mishandles empty WebS… |
+| 2026-11-18 11:17:38 | [CVE-2026-126706](https://nvd.nist.gov/vuln/detail/CVE-2026-126706) |  |  | In Eclipse Mosquitto versions 2.1.0 to 2.1.2, the mosquitto_ctrl utility would crash if attempting to interact with a h… |
+| 2026-11-18 11:17:38 | [CVE-2026-129149](https://nvd.nist.gov/vuln/detail/CVE-2026-129149) |  |  | In Eclipse Mosquitto versions 2.1.0 to 2.1.2, using the mosquitto_ctrl utility in interactive shell mode to interact wi… |
+| 2026-11-18 11:17:38 | [CVE-2026-132049](https://nvd.nist.gov/vuln/detail/CVE-2026-132049) | Medium | 4.3 | A flaw was found in lldpd. The service fails to verify that Link Layer Discovery Protocol - Media Endpoint Discovery (L… |
+| 2026-11-18 11:17:38 | [CVE-2026-132069](https://nvd.nist.gov/vuln/detail/CVE-2026-132069) | Medium | 6.3 | MISP (Malware Information Sharing Platform) contains an authorization bypass in the SharingGroup model's captureSGExist… |
+| 2026-11-18 11:17:39 | [CVE-2026-87850](https://nvd.nist.gov/vuln/detail/CVE-2026-87850) | Medium | 6.3 | nVision sends user's token via query parameters of GET requests. An attacker who obtains valid token can gain access to… |
 
 ## Data source
 
