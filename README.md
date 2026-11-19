@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 06:21 UTC
+## Latest list — 2026-11-19 07:20 UTC
 
-New CVEs published between 2026-11-19 05:19 UTC and 2026-11-19 06:21 UTC.
+New CVEs published between 2026-11-19 06:21 UTC and 2026-11-19 07:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T06-21-31-894747Z.csv)
+[Full CSV](data/new-cves-2026-11-19T07-20-50-899339Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 06:16:51 | [CVE-2026-108687](https://nvd.nist.gov/vuln/detail/CVE-2026-108687) |  |  | The SAML SSO Login WordPress plugin through 1.5.2 does not verify that the SAML assertion whose signature it validates… |
-| 2026-11-19 06:16:52 | [CVE-2026-109555](https://nvd.nist.gov/vuln/detail/CVE-2026-109555) | High | 8.0 | The WP STAGING and WP STAGING Pro plugins for WordPress are vulnerable to PHP Object Injection in all versions up to, a… |
-| 2026-11-19 06:16:53 | [CVE-2026-117678](https://nvd.nist.gov/vuln/detail/CVE-2026-117678) | Medium | 6.9 | Inefficient Algorithmic Complexity vulnerability in benoitc idna allows an attacker who controls a hostname passed to t… |
-| 2026-11-19 06:16:53 | [CVE-2026-121852](https://nvd.nist.gov/vuln/detail/CVE-2026-121852) |  |  | The AppPresser WordPress plugin before 5.0.0 does not properly escape the contents of its debug log when displaying it… |
-| 2026-11-19 06:16:53 | [CVE-2026-129446](https://nvd.nist.gov/vuln/detail/CVE-2026-129446) |  |  | The WPO365 \| SEAMLESS WORDPRESS + MICROSOFT INTEGRATION (WPO365 \| LOGIN) WordPress plugin before 45.4 does not ensure t… |
+| 2026-11-19 07:17:08 | [CVE-2026-110461](https://nvd.nist.gov/vuln/detail/CVE-2026-110461) | Critical | 9.3 | The Comelit 1456B Multi-User Gateway, in firmware versions up to and including 2.10.0, is configured with static defaul… |
+| 2026-11-19 07:17:09 | [CVE-2026-110462](https://nvd.nist.gov/vuln/detail/CVE-2026-110462) | High | 8.6 | The Comelit 1456B Multi-User Gateway, in firmware versions up to and including 2.10.0, allows a user authenticated to t… |
+| 2026-11-19 07:17:11 | [CVE-2026-132825](https://nvd.nist.gov/vuln/detail/CVE-2026-132825) | High | 7.4 | Ruby before 3.3.14, 3.4.13, and 4.0.10 has a heap-based buffer overflow during case conversion. One byte can be written… |
+| 2026-11-19 07:17:12 | [CVE-2026-19609](https://nvd.nist.gov/vuln/detail/CVE-2026-19609) | High | 8.6 | Cross-site scripting in the embedded co-browsing feature in Unblu inc. Unblu Spark 7.0 through 7.57.9 and 8.0 before 8.… |
 
 ## Data source
 
