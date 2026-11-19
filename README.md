@@ -9,19 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 03:18 UTC
+## Latest list — 2026-11-19 04:19 UTC
 
-New CVEs published between 2026-11-19 02:19 UTC and 2026-11-19 03:18 UTC.
+New CVEs published between 2026-11-19 03:18 UTC and 2026-11-19 04:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T03-18-51-324558Z.csv)
+[Full CSV](data/new-cves-2026-11-19T04-19-06-779173Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 03:17:20 | [CVE-2026-132603](https://nvd.nist.gov/vuln/detail/CVE-2026-132603) | Low | 2.1 | A flaw has been found in SEO Panel 6.0.0. Affected is an unknown function of the file controllers/siteauditor.ctrl.php… |
-| 2026-11-19 03:17:21 | [CVE-2026-132608](https://nvd.nist.gov/vuln/detail/CVE-2026-132608) | Low | 2.1 | A vulnerability was identified in SECUDOCX DMP up to 9.0.0 Build 1027. This affects an unknown function of the file /DM… |
-| 2026-11-19 03:17:22 | [CVE-2026-132609](https://nvd.nist.gov/vuln/detail/CVE-2026-132609) | Medium | 5.5 | A vulnerability was identified in SourceCodester Online Food Ordering System 1.0. The affected element is an unknown fu… |
-| 2026-11-19 03:17:22 | [CVE-2026-132610](https://nvd.nist.gov/vuln/detail/CVE-2026-132610) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Simple Form Builder Web App 1.0. The impacted element is the func… |
-| 2026-11-19 03:17:22 | [CVE-2026-2307](https://nvd.nist.gov/vuln/detail/CVE-2026-2307) | Medium | 6.5 | The Elementor Website Builder – More Than Just a Page Builder plugin for WordPress is vulnerable to Sensitive Informati… |
+| 2026-11-19 04:17:27 | [CVE-2026-132611](https://nvd.nist.gov/vuln/detail/CVE-2026-132611) | Medium | 5.5 | A security vulnerability has been detected in SourceCodester Simple Form Builder Web App 1.0. This impacts the function… |
+| 2026-11-19 04:17:27 | [CVE-2026-132621](https://nvd.nist.gov/vuln/detail/CVE-2026-132621) | High | 7.0 | A vulnerability has been found in GearUP Hyperev up to 20261020. This affects an unknown function. Such manipulation le… |
+| 2026-11-19 04:17:27 | [CVE-2026-132622](https://nvd.nist.gov/vuln/detail/CVE-2026-132622) | Critical | 9.4 | A vulnerability was found in GearUP Hyperev up to 20261020. This impacts the function get_wlan_sitesurvey of the file l… |
+| 2026-11-19 04:17:27 | [CVE-2026-132798](https://nvd.nist.gov/vuln/detail/CVE-2026-132798) | High | 8.2 | Improper Limitation of a Pathname to a Restricted Directory in the Como log viewer in Temenos Application Framework Jav… |
 
 ## Data source
 
