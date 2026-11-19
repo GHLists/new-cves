@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 01:19 UTC
+## Latest list — 2026-11-19 02:19 UTC
 
-New CVEs published between 2026-11-19 00:21 UTC and 2026-11-19 01:19 UTC.
+New CVEs published between 2026-11-19 01:19 UTC and 2026-11-19 02:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T01-19-00-134262Z.csv)
+[Full CSV](data/new-cves-2026-11-19T02-19-22-277319Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 01:16:49 | [CVE-2026-132286](https://nvd.nist.gov/vuln/detail/CVE-2026-132286) | Medium | 5.5 | A security vulnerability has been detected in yangzongzhuan RuoYi up to 4.8.3. The impacted element is an unknown funct… |
-| 2026-11-19 01:16:49 | [CVE-2026-132560](https://nvd.nist.gov/vuln/detail/CVE-2026-132560) | Low | 1.9 | A flaw has been found in MemTensor memmy-agent up to 1.1.1. This impacts an unknown function of the file /api/v1/memory… |
+| 2026-11-19 02:17:20 | [CVE-2026-131914](https://nvd.nist.gov/vuln/detail/CVE-2026-131914) | Critical | 9.3 | Deserialization of untrusted data in double-submit cookie vs. form field validation in Idunno.AntiCsrf versions through… |
+| 2026-11-19 02:17:20 | [CVE-2026-132601](https://nvd.nist.gov/vuln/detail/CVE-2026-132601) | Low | 2.1 | A security vulnerability has been detected in SEO Panel 6.0.0. This affects the function mime_content_type of the file… |
+| 2026-11-19 02:17:20 | [CVE-2026-132602](https://nvd.nist.gov/vuln/detail/CVE-2026-132602) | Low | 2.1 | A vulnerability was detected in SEO Panel 6.0.0. This impacts an unknown function of the file controllers/siteauditor.c… |
 
 ## Data source
 
