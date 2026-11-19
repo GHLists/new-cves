@@ -9,17 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 02:19 UTC
+## Latest list — 2026-11-19 03:18 UTC
 
-New CVEs published between 2026-11-19 01:19 UTC and 2026-11-19 02:19 UTC.
+New CVEs published between 2026-11-19 02:19 UTC and 2026-11-19 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T02-19-22-277319Z.csv)
+[Full CSV](data/new-cves-2026-11-19T03-18-51-324558Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 02:17:20 | [CVE-2026-131914](https://nvd.nist.gov/vuln/detail/CVE-2026-131914) | Critical | 9.3 | Deserialization of untrusted data in double-submit cookie vs. form field validation in Idunno.AntiCsrf versions through… |
-| 2026-11-19 02:17:20 | [CVE-2026-132601](https://nvd.nist.gov/vuln/detail/CVE-2026-132601) | Low | 2.1 | A security vulnerability has been detected in SEO Panel 6.0.0. This affects the function mime_content_type of the file… |
-| 2026-11-19 02:17:20 | [CVE-2026-132602](https://nvd.nist.gov/vuln/detail/CVE-2026-132602) | Low | 2.1 | A vulnerability was detected in SEO Panel 6.0.0. This impacts an unknown function of the file controllers/siteauditor.c… |
+| 2026-11-19 03:17:20 | [CVE-2026-132603](https://nvd.nist.gov/vuln/detail/CVE-2026-132603) | Low | 2.1 | A flaw has been found in SEO Panel 6.0.0. Affected is an unknown function of the file controllers/siteauditor.ctrl.php… |
+| 2026-11-19 03:17:21 | [CVE-2026-132608](https://nvd.nist.gov/vuln/detail/CVE-2026-132608) | Low | 2.1 | A vulnerability was identified in SECUDOCX DMP up to 9.0.0 Build 1027. This affects an unknown function of the file /DM… |
+| 2026-11-19 03:17:22 | [CVE-2026-132609](https://nvd.nist.gov/vuln/detail/CVE-2026-132609) | Medium | 5.5 | A vulnerability was identified in SourceCodester Online Food Ordering System 1.0. The affected element is an unknown fu… |
+| 2026-11-19 03:17:22 | [CVE-2026-132610](https://nvd.nist.gov/vuln/detail/CVE-2026-132610) | Medium | 5.5 | A security flaw has been discovered in SourceCodester Simple Form Builder Web App 1.0. The impacted element is the func… |
+| 2026-11-19 03:17:22 | [CVE-2026-2307](https://nvd.nist.gov/vuln/detail/CVE-2026-2307) | Medium | 6.5 | The Elementor Website Builder – More Than Just a Page Builder plugin for WordPress is vulnerable to Sensitive Informati… |
 
 ## Data source
 
