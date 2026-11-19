@@ -9,27 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 05:19 UTC
+## Latest list — 2026-11-19 06:21 UTC
 
-New CVEs published between 2026-11-19 04:19 UTC and 2026-11-19 05:19 UTC.
+New CVEs published between 2026-11-19 05:19 UTC and 2026-11-19 06:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T05-19-05-062587Z.csv)
+[Full CSV](data/new-cves-2026-11-19T06-21-31-894747Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 05:18:24 | [CVE-2026-104357](https://nvd.nist.gov/vuln/detail/CVE-2026-104357) | Medium | 4.8 | A flaw was found in libtirpc. The SunRPC UDP/datagram server transport reuses a single receive buffer across requests a… |
-| 2026-11-19 05:18:33 | [CVE-2026-130888](https://nvd.nist.gov/vuln/detail/CVE-2026-130888) | Medium | 6.1 | A flaw was found in nbdkit. The qcow2dec filter's zstd_compressed_cluster() function incorrectly sets the ZSTD input bu… |
-| 2026-11-19 05:18:37 | [CVE-2026-132625](https://nvd.nist.gov/vuln/detail/CVE-2026-132625) | Medium | 5.5 | A vulnerability was determined in SourceCodester Student Project Allocation and Management System 1.0. Affected is an u… |
-| 2026-11-19 05:18:38 | [CVE-2026-132626](https://nvd.nist.gov/vuln/detail/CVE-2026-132626) | Medium | 5.5 | A vulnerability was identified in SourceCodester Modern Ticket Reservation System 1.0. Affected by this vulnerability i… |
-| 2026-11-19 05:18:38 | [CVE-2026-132627](https://nvd.nist.gov/vuln/detail/CVE-2026-132627) | Medium | 5.5 | A security flaw has been discovered in SourceCodester E-Commerce Shopping Cart Web Application 1.0. Affected by this is… |
-| 2026-11-19 05:18:38 | [CVE-2026-132802](https://nvd.nist.gov/vuln/detail/CVE-2026-132802) | Critical | 9.9 | A malicious actor with access to the network and low privileges could exploit an Improper Link Resolution Before File A… |
-| 2026-11-19 05:18:38 | [CVE-2026-132803](https://nvd.nist.gov/vuln/detail/CVE-2026-132803) | Critical | 9.9 | A malicious actor with access to the network and low privileges could exploit a series of authenticated SQL Injection v… |
-| 2026-11-19 05:18:38 | [CVE-2026-132804](https://nvd.nist.gov/vuln/detail/CVE-2026-132804) | Critical | 9.9 | A malicious actor with access to the network and low privileges could exploit a Server-Side Request Forgery (SSRF) vuln… |
-| 2026-11-19 05:18:39 | [CVE-2026-132806](https://nvd.nist.gov/vuln/detail/CVE-2026-132806) | High | 8.8 | A malicious actor with access to the network and low privileges could exploit an authenticated SQL Injection vulnerabil… |
-| 2026-11-19 05:18:39 | [CVE-2026-132807](https://nvd.nist.gov/vuln/detail/CVE-2026-132807) | Critical | 9.0 | A malicious actor with access to the network and under certain conditions could exploit an Improper Certificate Validat… |
-| 2026-11-19 05:18:39 | [CVE-2026-132808](https://nvd.nist.gov/vuln/detail/CVE-2026-132808) | Critical | 9.9 | A malicious actor with access to the network and low privileges could exploit an Incorrect Authorization vulnerability… |
-| 2026-11-19 05:18:39 | [CVE-2026-132805](https://nvd.nist.gov/vuln/detail/CVE-2026-132805) | High | 8.3 | A malicious actor with access to the network could exploit a Server-Side Request Forgery (SSRF) vulnerability found in… |
-| 2026-11-19 05:18:40 | [CVE-2026-84998](https://nvd.nist.gov/vuln/detail/CVE-2026-84998) | High | 7.2 | The NextScripts: Social Networks Auto-Poster plugin for WordPress is vulnerable to Stored Cross-Site Scripting via 'com… |
+| 2026-11-19 06:16:51 | [CVE-2026-108687](https://nvd.nist.gov/vuln/detail/CVE-2026-108687) |  |  | The SAML SSO Login WordPress plugin through 1.5.2 does not verify that the SAML assertion whose signature it validates… |
+| 2026-11-19 06:16:52 | [CVE-2026-109555](https://nvd.nist.gov/vuln/detail/CVE-2026-109555) | High | 8.0 | The WP STAGING and WP STAGING Pro plugins for WordPress are vulnerable to PHP Object Injection in all versions up to, a… |
+| 2026-11-19 06:16:53 | [CVE-2026-117678](https://nvd.nist.gov/vuln/detail/CVE-2026-117678) | Medium | 6.9 | Inefficient Algorithmic Complexity vulnerability in benoitc idna allows an attacker who controls a hostname passed to t… |
+| 2026-11-19 06:16:53 | [CVE-2026-121852](https://nvd.nist.gov/vuln/detail/CVE-2026-121852) |  |  | The AppPresser WordPress plugin before 5.0.0 does not properly escape the contents of its debug log when displaying it… |
+| 2026-11-19 06:16:53 | [CVE-2026-129446](https://nvd.nist.gov/vuln/detail/CVE-2026-129446) |  |  | The WPO365 \| SEAMLESS WORDPRESS + MICROSOFT INTEGRATION (WPO365 \| LOGIN) WordPress plugin before 45.4 does not ensure t… |
 
 ## Data source
 
