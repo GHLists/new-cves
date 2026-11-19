@@ -9,17 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:22 UTC
+## Latest list — 2026-11-19 10:18 UTC
 
-New CVEs published between 2026-11-19 08:19 UTC and 2026-11-19 09:22 UTC.
+New CVEs published between 2026-11-19 09:22 UTC and 2026-11-19 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T09-22-38-128648Z.csv)
+[Full CSV](data/new-cves-2026-11-19T10-18-48-27253Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 09:17:37 | [CVE-2026-101167](https://nvd.nist.gov/vuln/detail/CVE-2026-101167) | Medium | 6.5 | Missing Authorization vulnerability in Dataprom Bilişim Teknolojileri LTD. ŞTİ. DataPer Access Control and Security Sys… |
-| 2026-11-19 09:17:43 | [CVE-2026-132043](https://nvd.nist.gov/vuln/detail/CVE-2026-132043) | Medium | 6.3 | In Eclipse Yasson versions 3.0 to 3.0.5, a race condition (CWE-362) exists in the handling of @JsonbNumberFormat. Yasso… |
-| 2026-11-19 09:18:18 | [CVE-2026-99320](https://nvd.nist.gov/vuln/detail/CVE-2026-99320) |  |  | In the Linux kernel, the following vulnerability has been resolved: ipv6: raw: fix use-after-free in rawv6_send_hdrinc(… |
+| 2026-11-19 10:17:26 | [CVE-2026-110728](https://nvd.nist.gov/vuln/detail/CVE-2026-110728) | Medium | 5.3 | The AIKTP plugin for WordPress is vulnerable to Authorization Bypass via Predictable Token in all versions up to, and i… |
+| 2026-11-19 10:17:28 | [CVE-2026-126631](https://nvd.nist.gov/vuln/detail/CVE-2026-126631) | High | 7.1 | A flaw was found in OpenSCAP. This vulnerability allows for information disclosure when performing offline scans of unt… |
+| 2026-11-19 10:17:28 | [CVE-2026-14491](https://nvd.nist.gov/vuln/detail/CVE-2026-14491) | High | 7.5 | The WP Duplicate – WordPress Migration Plugin plugin for WordPress is vulnerable to Directory Traversal in all versions… |
+| 2026-11-19 10:17:28 | [CVE-2026-14492](https://nvd.nist.gov/vuln/detail/CVE-2026-14492) | Critical | 9.8 | The WP Duplicate – WordPress Migration Plugin plugin for WordPress is vulnerable to Remote Code Execution in all versio… |
+| 2026-11-19 10:17:29 | [CVE-2026-85776](https://nvd.nist.gov/vuln/detail/CVE-2026-85776) | High | 7.5 | The WP Duplicate – WordPress Migration Plugin plugin for WordPress is vulnerable to Missing Authorization in versions u… |
+| 2026-11-19 10:17:29 | [CVE-2026-92613](https://nvd.nist.gov/vuln/detail/CVE-2026-92613) | Low | 1.0 | In Eclipse iceoryx-rs, versions 0.0.11 to 0.0.13 and 0.1.0 as well as on the latest main branch. `SampleReceiver::<T>::… |
 
 ## Data source
 
