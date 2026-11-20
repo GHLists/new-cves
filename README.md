@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:21 UTC
+## Latest list — 2026-11-20 00:18 UTC
 
-New CVEs published between 2026-11-19 22:21 UTC and 2026-11-19 23:21 UTC.
+New CVEs published between 2026-11-19 23:21 UTC and 2026-11-20 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-19T23-21-40-215613Z.csv)
+[Full CSV](data/new-cves-2026-11-20T00-18-46-507339Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-19 23:19:24 | [CVE-2026-122676](https://nvd.nist.gov/vuln/detail/CVE-2026-122676) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in PublishPress Publ… |
-| 2026-11-19 23:19:29 | [CVE-2026-133327](https://nvd.nist.gov/vuln/detail/CVE-2026-133327) | Low | 2.1 | A vulnerability was identified in Dolibarr ERP CRM up to 23.0.4. This affects the function dol_convert_file in the libr… |
-| 2026-11-19 23:19:29 | [CVE-2026-133435](https://nvd.nist.gov/vuln/detail/CVE-2026-133435) | Low | 3.7 | A flaw was found in Keycloak. When configured with a database that uses case-insensitive collation, Keycloak resolves r… |
+| 2026-11-20 00:17:26 | [CVE-2026-22062](https://nvd.nist.gov/vuln/detail/CVE-2026-22062) | Low | 2.3 | StorageGRID (formerly StorageGRID Webscale) versions 12.1.0 and higher are susceptible to an information exposure vulne… |
 
 ## Data source
 
