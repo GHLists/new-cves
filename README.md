@@ -9,21 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 04:20 UTC
+## Latest list — 2026-11-20 05:20 UTC
 
-New CVEs published between 2026-11-20 03:20 UTC and 2026-11-20 04:20 UTC.
+New CVEs published between 2026-11-20 04:20 UTC and 2026-11-20 05:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T04-20-47-44051Z.csv)
+[Full CSV](data/new-cves-2026-11-20T05-20-28-414321Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 04:17:09 | [CVE-2026-113347](https://nvd.nist.gov/vuln/detail/CVE-2026-113347) | High | 8.6 | Multiple products produced by Ruijie Networks Co., Ltd. contain an OS command injection vulnerability that may lead to… |
-| 2026-11-20 04:17:09 | [CVE-2026-133480](https://nvd.nist.gov/vuln/detail/CVE-2026-133480) | Low | 2.1 | A flaw has been found in hrshadhin CloudSchool up to 3.0.1. Affected by this issue is the function PublicController.che… |
-| 2026-11-20 04:17:09 | [CVE-2026-133482](https://nvd.nist.gov/vuln/detail/CVE-2026-133482) | Low | 1.9 | A vulnerability has been found in hrshadhin CloudSchool up to 3.0.1. This affects the function EventController@store of… |
-| 2026-11-20 04:17:09 | [CVE-2026-133536](https://nvd.nist.gov/vuln/detail/CVE-2026-133536) | Medium | 4.3 | A flaw was found in Keycloak. The OpenID Connect (OIDC) logout endpoint continues to honor post-logout redirect rules f… |
-| 2026-11-20 04:17:10 | [CVE-2026-133537](https://nvd.nist.gov/vuln/detail/CVE-2026-133537) | Medium | 6.8 | A flaw was found in Keycloak. When evaluating access permissions, Keycloak Authorization Services improperly matches re… |
-| 2026-11-20 04:17:10 | [CVE-2026-133553](https://nvd.nist.gov/vuln/detail/CVE-2026-133553) | High | 7.8 | A flaw was found in crun. When copying files onto a tmpfs mounted with tmpcopyup, crun opens the destination a second t… |
-| 2026-11-20 04:17:10 | [CVE-2026-15223](https://nvd.nist.gov/vuln/detail/CVE-2026-15223) | Medium | 5.1 | An improper export control defect in ChatEventDispatchActivity (com.vivo.agent.business.chatmode.activity.ChatEventDisp… |
+| 2026-11-20 05:18:53 | [CVE-2026-133484](https://nvd.nist.gov/vuln/detail/CVE-2026-133484) | Low | 1.9 | A vulnerability was found in ByteDance Lark Desktop 8.0.0.14. This vulnerability affects the function FUN_18001b770/FUN… |
+| 2026-11-20 05:18:54 | [CVE-2026-133486](https://nvd.nist.gov/vuln/detail/CVE-2026-133486) | Low | 2.1 | A vulnerability was identified in hasan-py Hayroo up to fd0fbe763153f72bfaa04ed1e1e4a1bb6f7c61df. Affected by this issu… |
+| 2026-11-20 05:18:54 | [CVE-2026-133487](https://nvd.nist.gov/vuln/detail/CVE-2026-133487) | Low | 2.1 | A security flaw has been discovered in nodejs undici up to 7.24.0. This affects the function Object.assign of the file… |
 
 ## Data source
 
