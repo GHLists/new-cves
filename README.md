@@ -9,48 +9,60 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 18:19 UTC
+## Latest list — 2026-11-20 19:21 UTC
 
-New CVEs published between 2026-11-20 17:19 UTC and 2026-11-20 18:19 UTC.
+New CVEs published between 2026-11-20 18:19 UTC and 2026-11-20 19:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T18-19-09-806895Z.csv)
+[Full CSV](data/new-cves-2026-11-20T19-21-16-783598Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 18:18:34 | [CVE-2026-103933](https://nvd.nist.gov/vuln/detail/CVE-2026-103933) | High | 7.7 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 2.1.0 until 4.5.2, get_eacon… |
-| 2026-11-20 18:18:34 | [CVE-2026-104184](https://nvd.nist.gov/vuln/detail/CVE-2026-104184) | High | 7.1 | LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, LinkController::update() in app/Http/Control… |
-| 2026-11-20 18:18:35 | [CVE-2026-104185](https://nvd.nist.gov/vuln/detail/CVE-2026-104185) | Medium | 4.3 | LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the HTML bookmark import action in app/Actio… |
-| 2026-11-20 18:18:35 | [CVE-2026-104186](https://nvd.nist.gov/vuln/detail/CVE-2026-104186) | Medium | 4.3 | LinkAce is a self-hosted archive to collect website links. Prior to 2.6.0, the authenticated GET /lists/{list}/feed and… |
-| 2026-11-20 18:18:35 | [CVE-2026-110779](https://nvd.nist.gov/vuln/detail/CVE-2026-110779) | Medium | 4.3 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.2, sl_create… |
-| 2026-11-20 18:18:35 | [CVE-2026-110780](https://nvd.nist.gov/vuln/detail/CVE-2026-110780) | Medium | 5.3 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.2, the Spotl… |
-| 2026-11-20 18:18:42 | [CVE-2026-127106](https://nvd.nist.gov/vuln/detail/CVE-2026-127106) | Medium | 5.3 | A flaw was found in the quarkus-rest-jsonb component of Quarkus. An unauthenticated remote attacker can cause a Denial… |
-| 2026-11-20 18:18:47 | [CVE-2026-133212](https://nvd.nist.gov/vuln/detail/CVE-2026-133212) | Critical | 9.0 | @fastify/reply-from is a Fastify plugin that forwards an incoming HTTP request to an upstream server. In versions befor… |
-| 2026-11-20 18:18:48 | [CVE-2026-133475](https://nvd.nist.gov/vuln/detail/CVE-2026-133475) | Medium | 5.7 | A heap-based buffer overflow was found in Corosync's Totem SRP membership commit token handling. The sanity check for m… |
-| 2026-11-20 18:18:52 | [CVE-2026-133730](https://nvd.nist.gov/vuln/detail/CVE-2026-133730) | Medium | 5.9 | A flaw was found in dnsmasq, where a memory handling issue exists in its Dynamic Host Configuration Protocol for IPv6 (… |
-| 2026-11-20 18:18:52 | [CVE-2026-45354](https://nvd.nist.gov/vuln/detail/CVE-2026-45354) | High | 7.5 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. Prior to 4.4.3, libatalk/dsi/dsi_… |
-| 2026-11-20 18:18:52 | [CVE-2026-45355](https://nvd.nist.gov/vuln/detail/CVE-2026-45355) | High | 7.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. Prior to 4.4.3, the afpd Spotligh… |
-| 2026-11-20 18:18:53 | [CVE-2026-45356](https://nvd.nist.gov/vuln/detail/CVE-2026-45356) | High | 7.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. Prior to 4.4.3, the afpd Spotligh… |
-| 2026-11-20 18:18:53 | [CVE-2026-49387](https://nvd.nist.gov/vuln/detail/CVE-2026-49387) | High | 7.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.0, the afpd… |
-| 2026-11-20 18:18:53 | [CVE-2026-49388](https://nvd.nist.gov/vuln/detail/CVE-2026-49388) | High | 7.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.0, sl_unpack… |
-| 2026-11-20 18:18:53 | [CVE-2026-49389](https://nvd.nist.gov/vuln/detail/CVE-2026-49389) | Low | 3.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 2.0.0 until 4.5.0, afp_catse… |
-| 2026-11-20 18:18:53 | [CVE-2026-49390](https://nvd.nist.gov/vuln/detail/CVE-2026-49390) | Low | 3.1 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.0.0 until 4.5.0, getoption… |
-| 2026-11-20 18:18:54 | [CVE-2026-55216](https://nvd.nist.gov/vuln/detail/CVE-2026-55216) | High | 8.1 | Logto is the modern, open-source auth infrastructure for SaaS and AI apps. Prior to 1.46.0, social account linking can… |
-| 2026-11-20 18:18:54 | [CVE-2026-58406](https://nvd.nist.gov/vuln/detail/CVE-2026-58406) | Medium | 6.5 | Avahi is a system which facilitates service discovery on a local network via the mDNS/DNS-SD protocol suite. In 0.9-rc4… |
-| 2026-11-20 18:18:54 | [CVE-2026-59968](https://nvd.nist.gov/vuln/detail/CVE-2026-59968) | Medium | 5.3 | LinkAce is a self-hosted archive to collect website links. Prior to 2.5.9, the authenticated GET /api/v2/lists/{list}/l… |
-| 2026-11-20 18:18:54 | [CVE-2026-59987](https://nvd.nist.gov/vuln/detail/CVE-2026-59987) | Medium | 5.5 | Avahi is a system which facilitates service discovery on a local network via the mDNS/DNS-SD protocol suite. In 0.9-rc4… |
-| 2026-11-20 18:18:54 | [CVE-2026-62318](https://nvd.nist.gov/vuln/detail/CVE-2026-62318) | Critical | 9.3 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 2.0.0 until 4.5.1, the DHX2… |
-| 2026-11-20 18:18:54 | [CVE-2026-62319](https://nvd.nist.gov/vuln/detail/CVE-2026-62319) | High | 7.2 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 1.5.0 until 4.5.1, dsi_strea… |
-| 2026-11-20 18:18:55 | [CVE-2026-62320](https://nvd.nist.gov/vuln/detail/CVE-2026-62320) | High | 8.8 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 1.5.0 until 4.5.1, dsi_tcp_o… |
-| 2026-11-20 18:18:55 | [CVE-2026-62321](https://nvd.nist.gov/vuln/detail/CVE-2026-62321) | High | 8.7 | Netatalk is a Free and Open Source file server suite for Unix-like operating systems. From 3.1.0 until 4.5.1, the afpd… |
-| 2026-11-20 18:18:55 | [CVE-2026-77309](https://nvd.nist.gov/vuln/detail/CVE-2026-77309) | High | 8.8 | AIT GUI provides a framework for building custom websites for real-time telemetry monitoring, commanding, and other mis… |
-| 2026-11-20 18:18:56 | [CVE-2026-77349](https://nvd.nist.gov/vuln/detail/CVE-2026-77349) | Medium | 5.0 | pmo-platform is a modular PMO and release-management platform for Claude Code. From 3.48 until 3.69.1, release/skills/p… |
-| 2026-11-20 18:18:56 | [CVE-2026-77350](https://nvd.nist.gov/vuln/detail/CVE-2026-77350) | High | 7.3 | pmo-platform is a modular PMO and release-management platform for Claude Code. Prior to 3.69.1, core/hooks/block-creden… |
-| 2026-11-20 18:18:56 | [CVE-2026-77389](https://nvd.nist.gov/vuln/detail/CVE-2026-77389) | Low | 2.0 | pmo-platform is a modular PMO and release-management platform for Claude Code. Prior to 3.73, core/hooks/block-fragile-… |
-| 2026-11-20 18:18:56 | [CVE-2026-77390](https://nvd.nist.gov/vuln/detail/CVE-2026-77390) | Medium | 5.9 | pmo-platform is a modular PMO and release-management platform for Claude Code. Prior to 3.73, release/skills/pmo-skill-… |
-| 2026-11-20 18:18:56 | [CVE-2026-84693](https://nvd.nist.gov/vuln/detail/CVE-2026-84693) | High | 8.1 | The WPvivid — Backup, Migration & Staging plugin for WordPress is vulnerable to Arbitrary File Deletion in version up t… |
-| 2026-11-20 18:18:57 | [CVE-2026-95825](https://nvd.nist.gov/vuln/detail/CVE-2026-95825) | Medium | 5.3 | net_if_ipv4_addr_rm() and net_if_ipv6_addr_rm() in subsys/net/ip/net_if.c unconditionally called net_if_addr_unref() on… |
-| 2026-11-20 18:18:57 | [CVE-2026-95826](https://nvd.nist.gov/vuln/detail/CVE-2026-95826) | High | 7.5 | The SMSC911x/LAN9220 Ethernet driver stages every outgoing frame in a fixed-size static buffer before pushing it to the… |
-| 2026-11-20 18:18:57 | [CVE-2026-95827](https://nvd.nist.gov/vuln/detail/CVE-2026-95827) | Medium | 6.5 | The IPv6 neighbour discovery code in subsys/net/ip/ipv6_nbr.c keeps packets that are waiting for address resolution on… |
+| 2026-11-20 19:18:34 | [CVE-2026-106075](https://nvd.nist.gov/vuln/detail/CVE-2026-106075) |  |  | Rocket.Chat's POST /api/v1/chat.sendMessage endpoint improperly validates nested message properties, allowing authentic… |
+| 2026-11-20 19:18:38 | [CVE-2026-124281](https://nvd.nist.gov/vuln/detail/CVE-2026-124281) | Medium | 5.3 | The affected products use an unprotected firmware-update channel, which may allow for unauthorized firmware modificatio… |
+| 2026-11-20 19:18:39 | [CVE-2026-125132](https://nvd.nist.gov/vuln/detail/CVE-2026-125132) | High | 8.8 | libumqtt is vulnerable to an integer underflow which may allow a remote attacker to cause a denial of service, memory c… |
+| 2026-11-20 19:18:39 | [CVE-2026-125273](https://nvd.nist.gov/vuln/detail/CVE-2026-125273) | High | 8.5 | No replay or command-integrity protection. Commands lack sequence numbers, nonces, or session tokens; captured commands… |
+| 2026-11-20 19:18:42 | [CVE-2026-129007](https://nvd.nist.gov/vuln/detail/CVE-2026-129007) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Knit Pay Knit Pay… |
+| 2026-11-20 19:18:42 | [CVE-2026-129029](https://nvd.nist.gov/vuln/detail/CVE-2026-129029) | High | 7.2 | Server-Side Request Forgery (SSRF) vulnerability in Brainstorm Force OttoKit suretriggers allows Server Side Request Fo… |
+| 2026-11-20 19:18:42 | [CVE-2026-129033](https://nvd.nist.gov/vuln/detail/CVE-2026-129033) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Ays Pro Quiz Make… |
+| 2026-11-20 19:18:43 | [CVE-2026-129037](https://nvd.nist.gov/vuln/detail/CVE-2026-129037) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Ahmad WP Job Port… |
+| 2026-11-20 19:18:43 | [CVE-2026-129042](https://nvd.nist.gov/vuln/detail/CVE-2026-129042) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Tribulant Softwar… |
+| 2026-11-20 19:18:43 | [CVE-2026-129054](https://nvd.nist.gov/vuln/detail/CVE-2026-129054) | High | 7.5 | Insertion of Sensitive Information Into Sent Data vulnerability in Datasolution AcyMailing SMTP Newsletter acymailing a… |
+| 2026-11-20 19:18:43 | [CVE-2026-129055](https://nvd.nist.gov/vuln/detail/CVE-2026-129055) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Codepeople Appoin… |
+| 2026-11-20 19:18:43 | [CVE-2026-129063](https://nvd.nist.gov/vuln/detail/CVE-2026-129063) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Brainstorm Force… |
+| 2026-11-20 19:18:44 | [CVE-2026-129995](https://nvd.nist.gov/vuln/detail/CVE-2026-129995) | High | 8.8 | mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted vault, and a live audi… |
+| 2026-11-20 19:18:44 | [CVE-2026-130601](https://nvd.nist.gov/vuln/detail/CVE-2026-130601) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Element… |
+| 2026-11-20 19:18:44 | [CVE-2026-130602](https://nvd.nist.gov/vuln/detail/CVE-2026-130602) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes Prime Sl… |
+| 2026-11-20 19:18:44 | [CVE-2026-130901](https://nvd.nist.gov/vuln/detail/CVE-2026-130901) | Medium | 5.8 | Improper limitation of a pathname to a restricted directory in the file access checks in Amazon awslabs.document-loader… |
+| 2026-11-20 19:18:51 | [CVE-2026-133949](https://nvd.nist.gov/vuln/detail/CVE-2026-133949) | Critical | 9.3 | pip prior to v26.2.2 the certifi bundled with pip contains the compromised eMudhra certificates. Upgrading to a secure… |
+| 2026-11-20 19:18:51 | [CVE-2026-133968](https://nvd.nist.gov/vuln/detail/CVE-2026-133968) | Critical | 9.8 | monailabel (aka MONAI Label) through 0.8.5 allows directory traversal, with resultant remote code execution, via the im… |
+| 2026-11-20 19:18:51 | [CVE-2026-48118](https://nvd.nist.gov/vuln/detail/CVE-2026-48118) | High | 8.2 | NukeViet CMS is a multi Content Management System. Prior to 4.5.09, the Comment module accepts attacker-controlled base… |
+| 2026-11-20 19:18:52 | [CVE-2026-49259](https://nvd.nist.gov/vuln/detail/CVE-2026-49259) | High | 8.7 | NukeViet CMS is a multi Content Management System. From the 4.x release line until 4.5.09, a low-privileged authenticat… |
+| 2026-11-20 19:18:52 | [CVE-2026-54064](https://nvd.nist.gov/vuln/detail/CVE-2026-54064) | High | 8.7 | NukeViet CMS is a multi Content Management System. Prior to 4.5.09, a user with news-posting permission can bypass Nuke… |
+| 2026-11-20 19:18:52 | [CVE-2026-54065](https://nvd.nist.gov/vuln/detail/CVE-2026-54065) | High | 8.7 | NukeViet CMS is a multi Content Management System. Prior to 4.5.09, an authenticated administrator can submit a crafted… |
+| 2026-11-20 19:18:52 | [CVE-2026-55372](https://nvd.nist.gov/vuln/detail/CVE-2026-55372) | High | 7.2 | NukeViet CMS is a multi Content Management System. Prior to 4.5.09, an unauthenticated attacker can submit the __server… |
+| 2026-11-20 19:18:52 | [CVE-2026-61832](https://nvd.nist.gov/vuln/detail/CVE-2026-61832) | High | 7.5 | NukeViet CMS is a multi Content Management System. Prior to 4.6.00, a network attacker who can alter outbound traffic t… |
+| 2026-11-20 19:18:53 | [CVE-2026-77323](https://nvd.nist.gov/vuln/detail/CVE-2026-77323) | Medium | 5.3 | MapServer is a system for developing web-based GIS applications. Prior to 8.6.5, an unauthenticated reflected cross-sit… |
+| 2026-11-20 19:18:53 | [CVE-2026-77324](https://nvd.nist.gov/vuln/detail/CVE-2026-77324) | High | 7.5 | MapServer is a system for developing web-based GIS applications. From 4.4.0 until 8.6.5, an unauthenticated remote atta… |
+| 2026-11-20 19:18:53 | [CVE-2026-77325](https://nvd.nist.gov/vuln/detail/CVE-2026-77325) | Medium | 6.1 | MapServer is a system for developing web-based GIS applications. From 6.0 until 8.6.5, MapServer's WMS OpenLayers outpu… |
+| 2026-11-20 19:18:54 | [CVE-2026-77326](https://nvd.nist.gov/vuln/detail/CVE-2026-77326) | High | 8.6 | MapServer is a system for developing web-based GIS applications. From 8.2.0 until 8.6.5, an unauthenticated attacker ca… |
+| 2026-11-20 19:18:54 | [CVE-2026-77327](https://nvd.nist.gov/vuln/detail/CVE-2026-77327) | Medium | 6.9 | MapServer is a system for developing web-based GIS applications. Prior to 8.6.5, MapServer's MySQL JOIN implementation… |
+| 2026-11-20 19:18:54 | [CVE-2026-77328](https://nvd.nist.gov/vuln/detail/CVE-2026-77328) | Medium | 6.9 | MapServer is a system for developing web-based GIS applications. Prior to 8.6.5, MapServer's PostgreSQL JOIN implementa… |
+| 2026-11-20 19:18:54 | [CVE-2026-77346](https://nvd.nist.gov/vuln/detail/CVE-2026-77346) | Medium | 6.3 | Pozeiden is a MermaidJS renderer written in Zig. Prior to 0.3.0, Pozeiden emits attacker-controlled Mermaid values into… |
+| 2026-11-20 19:18:54 | [CVE-2026-77347](https://nvd.nist.gov/vuln/detail/CVE-2026-77347) | High | 8.8 | Pozeiden is a MermaidJS renderer written in Zig. Prior to 0.3.0, src/renderers/c4.zig, src/renderers/class.zig, src/ren… |
+| 2026-11-20 19:18:54 | [CVE-2026-77355](https://nvd.nist.gov/vuln/detail/CVE-2026-77355) | High | 8.8 | isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.7, tree-entry validat… |
+| 2026-11-20 19:18:55 | [CVE-2026-77383](https://nvd.nist.gov/vuln/detail/CVE-2026-77383) | High | 8.7 | mcp-ssh-manager is an MCP server for managing servers over SSH with human approval, an encrypted vault, and a live audi… |
+| 2026-11-20 19:18:55 | [CVE-2026-86017](https://nvd.nist.gov/vuln/detail/CVE-2026-86017) | High | 8.0 | isomorphic-git is a pure JavaScript implementation of Git for Node.js and browsers. Prior to 1.38.8, git cherry-pick ap… |
+| 2026-11-20 19:18:55 | [CVE-2026-94561](https://nvd.nist.gov/vuln/detail/CVE-2026-94561) | High | 7.2 | NukeViet CMS is a multi Content Management System. In 4.6.00, an unauthenticated attacker can place the configured doma… |
+| 2026-11-20 19:18:56 | [CVE-2026-94562](https://nvd.nist.gov/vuln/detail/CVE-2026-94562) | High | 7.2 | NukeViet CMS is a multi Content Management System. Prior to 4.6.01, a super-administrator satisfying the NV_IS_SPADMIN… |
+| 2026-11-20 19:18:56 | [CVE-2026-94563](https://nvd.nist.gov/vuln/detail/CVE-2026-94563) | Medium | 6.0 | NukeViet CMS is a multi Content Management System. From 4.5.00 until 4.6.01, an authenticated settings-module administr… |
+| 2026-11-20 19:18:56 | [CVE-2026-94564](https://nvd.nist.gov/vuln/detail/CVE-2026-94564) | High | 8.2 | NukeViet CMS is a multi Content Management System. Prior to 4.6.01, an unauthenticated visitor can submit Contact modul… |
+| 2026-11-20 19:18:56 | [CVE-2026-94565](https://nvd.nist.gov/vuln/detail/CVE-2026-94565) | Critical | 9.3 | NukeViet CMS is a multi Content Management System. From the 3.x release line until 4.6.01, an unauthenticated visitor c… |
+| 2026-11-20 19:18:56 | [CVE-2026-94566](https://nvd.nist.gov/vuln/detail/CVE-2026-94566) | Medium | 5.3 | NukeViet CMS is a multi Content Management System. In 4.6.00, an unauthenticated attacker can rotate X-Forwarded-For be… |
+| 2026-11-20 19:18:56 | [CVE-2026-94567](https://nvd.nist.gov/vuln/detail/CVE-2026-94567) | Critical | 9.3 | NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker with access to an SVG upload… |
+| 2026-11-20 19:18:56 | [CVE-2026-94597](https://nvd.nist.gov/vuln/detail/CVE-2026-94597) | High | 7.5 | NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker who can reach an image-uploa… |
+| 2026-11-20 19:18:57 | [CVE-2026-94598](https://nvd.nist.gov/vuln/detail/CVE-2026-94598) | High | 8.2 | NukeViet CMS is a multi Content Management System. From 4.5.08 until 4.5.12 and 4.6.02, an attacker can place NukeViet'… |
+| 2026-11-20 19:18:57 | [CVE-2026-94599](https://nvd.nist.gov/vuln/detail/CVE-2026-94599) | Medium | 6.1 | NukeViet CMS is a multi Content Management System. From 4.5.00 until 4.5.13 and 4.6.02, an unauthenticated attacker can… |
+| 2026-11-20 19:18:58 | [CVE-2026-96805](https://nvd.nist.gov/vuln/detail/CVE-2026-96805) | High | 8.5 | The affected products have an unauthenticated command injection, which may allow an in-range BLE device to gain access… |
 
 ## Data source
 
