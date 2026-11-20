@@ -9,22 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:18 UTC
+## Latest list — 2026-11-20 03:20 UTC
 
-New CVEs published between 2026-11-20 01:18 UTC and 2026-11-20 02:18 UTC.
+New CVEs published between 2026-11-20 02:18 UTC and 2026-11-20 03:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T02-18-46-815437Z.csv)
+[Full CSV](data/new-cves-2026-11-20T03-20-58-920142Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 02:17:16 | [CVE-2026-102430](https://nvd.nist.gov/vuln/detail/CVE-2026-102430) | Medium | 6.9 | An uncontrolled recursion vulnerability exists in the LINE iOS app prior to version 26.19.0. The Flex Message processin… |
-| 2026-11-20 02:17:16 | [CVE-2026-133224](https://nvd.nist.gov/vuln/detail/CVE-2026-133224) | Medium | 5.4 | A flaw was found in Keycloak. When an administrator revokes tokens by setting a not-before revocation cutoff, Keycloak… |
-| 2026-11-20 02:17:16 | [CVE-2026-133225](https://nvd.nist.gov/vuln/detail/CVE-2026-133225) | Medium | 5.4 | A flaw was found in Keycloak. When processing token requests using the User-Managed Access (UMA) grant, Keycloak fails… |
-| 2026-11-20 02:17:16 | [CVE-2026-133226](https://nvd.nist.gov/vuln/detail/CVE-2026-133226) | Medium | 4.3 | A flaw was found in Keycloak. The Account API endpoint for sharing resources fails to verify whether owner-managed acce… |
-| 2026-11-20 02:17:17 | [CVE-2026-133228](https://nvd.nist.gov/vuln/detail/CVE-2026-133228) | Medium | 6.8 | A flaw was found in Keycloak. When a client application enforces step-up authentication or multi-factor authentication… |
-| 2026-11-20 02:17:17 | [CVE-2026-133413](https://nvd.nist.gov/vuln/detail/CVE-2026-133413) | Medium | 4.6 | A vulnerability was detected in smartalock wireguard-lwip up to cfba91666590e86bd67842c71cedf9a423be823a. This affects… |
-| 2026-11-20 02:17:17 | [CVE-2026-133414](https://nvd.nist.gov/vuln/detail/CVE-2026-133414) | Medium | 6.9 | A security flaw has been discovered in sofastack sofa-bolt up to 1.6.12. Affected by this issue is the function Hessian… |
-| 2026-11-20 02:17:17 | [CVE-2026-133415](https://nvd.nist.gov/vuln/detail/CVE-2026-133415) | Medium | 5.5 | A vulnerability has been found in sumiie24 School-Management-System up to d946d649c7c95e101fc5679ecd91999533bb10d7. The… |
+| 2026-11-20 03:17:34 | [CVE-2026-133477](https://nvd.nist.gov/vuln/detail/CVE-2026-133477) | Medium | 6.3 | A weakness has been identified in sofastack sofa-bolt up to 1.6.12. This impacts the function initSSLContext of the fil… |
+| 2026-11-20 03:17:34 | [CVE-2026-133478](https://nvd.nist.gov/vuln/detail/CVE-2026-133478) | Medium | 5.5 | A security vulnerability has been detected in rajesh2211 Doctor-Appointment-System up to ee974dcf4c50da85e6ea026e27f437… |
+| 2026-11-20 03:17:35 | [CVE-2026-133479](https://nvd.nist.gov/vuln/detail/CVE-2026-133479) | Low | 2.0 | A vulnerability was detected in WebKul QloApps up to 1.8.0. Affected by this vulnerability is the function postProcessD… |
+| 2026-11-20 03:17:35 | [CVE-2026-133534](https://nvd.nist.gov/vuln/detail/CVE-2026-133534) | High | 8.7 | PowerLink developed by Neotroni Lighting has a SQL Injection vulnerability, allowing unauthenticated remote attackers t… |
+| 2026-11-20 03:17:35 | [CVE-2026-133535](https://nvd.nist.gov/vuln/detail/CVE-2026-133535) | Medium | 4.3 | A flaw was found in Hawtio. An authenticated remote attacker can cause a Denial of Service (DoS) by sending a specially… |
+| 2026-11-20 03:17:35 | [CVE-2026-24205](https://nvd.nist.gov/vuln/detail/CVE-2026-24205) | Medium | 6.4 | NVIDIA TensorRT-LLM for any platform contains a vulnerability where a user may cause a race condition by running concur… |
+| 2026-11-20 03:17:36 | [CVE-2026-65094](https://nvd.nist.gov/vuln/detail/CVE-2026-65094) | Critical | 9.0 | NVIDIA VIRTIO-Net for Bluefield contains a vulnerability in Virtio-Net where a VM user may cause a Write-What-Where con… |
 
 ## Data source
 
