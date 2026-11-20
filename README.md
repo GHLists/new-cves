@@ -9,25 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:18 UTC
+## Latest list — 2026-11-20 22:21 UTC
 
-New CVEs published between 2026-11-20 20:18 UTC and 2026-11-20 21:18 UTC.
+New CVEs published between 2026-11-20 21:18 UTC and 2026-11-20 22:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T21-18-42-554875Z.csv)
+[Full CSV](data/new-cves-2026-11-20T22-21-05-810189Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 21:17:34 | [CVE-2026-127926](https://nvd.nist.gov/vuln/detail/CVE-2026-127926) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-125768. Reason: This candidate is… |
-| 2026-11-20 21:17:34 | [CVE-2026-131595](https://nvd.nist.gov/vuln/detail/CVE-2026-131595) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate is a reservation duplicate. Note… |
-| 2026-11-20 21:17:34 | [CVE-2026-131611](https://nvd.nist.gov/vuln/detail/CVE-2026-131611) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate is a reservation duplicate. Note… |
-| 2026-11-20 21:17:34 | [CVE-2026-132194](https://nvd.nist.gov/vuln/detail/CVE-2026-132194) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. This candidate is a reservation duplicate of an unpubli… |
-| 2026-11-20 21:17:35 | [CVE-2026-133694](https://nvd.nist.gov/vuln/detail/CVE-2026-133694) | Medium | 5.3 | A security vulnerability has been detected in continuedev continue 2.0.0/2.1.0. Affected by this vulnerability is the f… |
-| 2026-11-20 21:17:35 | [CVE-2026-133695](https://nvd.nist.gov/vuln/detail/CVE-2026-133695) | Low | 2.3 | A vulnerability was detected in continuedev continue 2.0.0/2.1.0. Affected by this issue is the function DocsCrawler of… |
-| 2026-11-20 21:17:35 | [CVE-2026-133696](https://nvd.nist.gov/vuln/detail/CVE-2026-133696) | Medium | 5.3 | A flaw has been found in continuedev continue up to 2.1.0. This affects the function DataLogger.logDevData of the file… |
-| 2026-11-20 21:17:35 | [CVE-2026-133697](https://nvd.nist.gov/vuln/detail/CVE-2026-133697) | Low | 2.4 | A vulnerability has been found in continuedev continue up to 2.1.0. This vulnerability affects the function LocalPlatfo… |
-| 2026-11-20 21:17:36 | [CVE-2026-134126](https://nvd.nist.gov/vuln/detail/CVE-2026-134126) | High | 7.1 | WPC Smart Messages for WooCommerce plugin before 4.3.6 contains a missing authorization vulnerability that allows authe… |
-| 2026-11-20 21:17:37 | [CVE-2026-54026](https://nvd.nist.gov/vuln/detail/CVE-2026-54026) | Medium | 6.5 | LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. Prior to 0.8.6, POST /api/messages/:convers… |
-| 2026-11-20 21:17:38 | [CVE-2026-54038](https://nvd.nist.gov/vuln/detail/CVE-2026-54038) | Medium | 6.5 | LibreChat is an enhanced ChatGPT clone that supports multiple AI providers. Prior to 0.8.9, GET /api/permissions/search… |
+| 2026-11-20 22:17:48 | [CVE-2026-128113](https://nvd.nist.gov/vuln/detail/CVE-2026-128113) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All… |
+| 2026-11-20 22:17:50 | [CVE-2026-133835](https://nvd.nist.gov/vuln/detail/CVE-2026-133835) | Medium | 5.5 | A flaw has been found in hankcs HanLP up to 2.1.6. Impacted is the function uncompress of the file hanlp/utils/io_util.… |
+| 2026-11-20 22:17:50 | [CVE-2026-133836](https://nvd.nist.gov/vuln/detail/CVE-2026-133836) | Low | 2.1 | A vulnerability has been found in hankcs HanLP up to 2.1.6. The affected element is the function RNNLanguageModel.load_… |
+| 2026-11-20 22:17:50 | [CVE-2026-133937](https://nvd.nist.gov/vuln/detail/CVE-2026-133937) | Medium | 5.5 | A flaw has been found in highlight highlight.js up to 11.12.0. The affected element is the function hljs.highlight of t… |
+| 2026-11-20 22:17:50 | [CVE-2026-134136](https://nvd.nist.gov/vuln/detail/CVE-2026-134136) | Medium | 4.8 | OceanWP WordPress Theme before 4.2.9 contains a stored cross-site scripting vulnerability in the oceanwp_edd_terms_list… |
 
 ## Data source
 
