@@ -9,21 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:20 UTC
+## Latest list — 2026-11-20 04:20 UTC
 
-New CVEs published between 2026-11-20 02:18 UTC and 2026-11-20 03:20 UTC.
+New CVEs published between 2026-11-20 03:20 UTC and 2026-11-20 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T03-20-58-920142Z.csv)
+[Full CSV](data/new-cves-2026-11-20T04-20-47-44051Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 03:17:34 | [CVE-2026-133477](https://nvd.nist.gov/vuln/detail/CVE-2026-133477) | Medium | 6.3 | A weakness has been identified in sofastack sofa-bolt up to 1.6.12. This impacts the function initSSLContext of the fil… |
-| 2026-11-20 03:17:34 | [CVE-2026-133478](https://nvd.nist.gov/vuln/detail/CVE-2026-133478) | Medium | 5.5 | A security vulnerability has been detected in rajesh2211 Doctor-Appointment-System up to ee974dcf4c50da85e6ea026e27f437… |
-| 2026-11-20 03:17:35 | [CVE-2026-133479](https://nvd.nist.gov/vuln/detail/CVE-2026-133479) | Low | 2.0 | A vulnerability was detected in WebKul QloApps up to 1.8.0. Affected by this vulnerability is the function postProcessD… |
-| 2026-11-20 03:17:35 | [CVE-2026-133534](https://nvd.nist.gov/vuln/detail/CVE-2026-133534) | High | 8.7 | PowerLink developed by Neotroni Lighting has a SQL Injection vulnerability, allowing unauthenticated remote attackers t… |
-| 2026-11-20 03:17:35 | [CVE-2026-133535](https://nvd.nist.gov/vuln/detail/CVE-2026-133535) | Medium | 4.3 | A flaw was found in Hawtio. An authenticated remote attacker can cause a Denial of Service (DoS) by sending a specially… |
-| 2026-11-20 03:17:35 | [CVE-2026-24205](https://nvd.nist.gov/vuln/detail/CVE-2026-24205) | Medium | 6.4 | NVIDIA TensorRT-LLM for any platform contains a vulnerability where a user may cause a race condition by running concur… |
-| 2026-11-20 03:17:36 | [CVE-2026-65094](https://nvd.nist.gov/vuln/detail/CVE-2026-65094) | Critical | 9.0 | NVIDIA VIRTIO-Net for Bluefield contains a vulnerability in Virtio-Net where a VM user may cause a Write-What-Where con… |
+| 2026-11-20 04:17:09 | [CVE-2026-113347](https://nvd.nist.gov/vuln/detail/CVE-2026-113347) | High | 8.6 | Multiple products produced by Ruijie Networks Co., Ltd. contain an OS command injection vulnerability that may lead to… |
+| 2026-11-20 04:17:09 | [CVE-2026-133480](https://nvd.nist.gov/vuln/detail/CVE-2026-133480) | Low | 2.1 | A flaw has been found in hrshadhin CloudSchool up to 3.0.1. Affected by this issue is the function PublicController.che… |
+| 2026-11-20 04:17:09 | [CVE-2026-133482](https://nvd.nist.gov/vuln/detail/CVE-2026-133482) | Low | 1.9 | A vulnerability has been found in hrshadhin CloudSchool up to 3.0.1. This affects the function EventController@store of… |
+| 2026-11-20 04:17:09 | [CVE-2026-133536](https://nvd.nist.gov/vuln/detail/CVE-2026-133536) | Medium | 4.3 | A flaw was found in Keycloak. The OpenID Connect (OIDC) logout endpoint continues to honor post-logout redirect rules f… |
+| 2026-11-20 04:17:10 | [CVE-2026-133537](https://nvd.nist.gov/vuln/detail/CVE-2026-133537) | Medium | 6.8 | A flaw was found in Keycloak. When evaluating access permissions, Keycloak Authorization Services improperly matches re… |
+| 2026-11-20 04:17:10 | [CVE-2026-133553](https://nvd.nist.gov/vuln/detail/CVE-2026-133553) | High | 7.8 | A flaw was found in crun. When copying files onto a tmpfs mounted with tmpcopyup, crun opens the destination a second t… |
+| 2026-11-20 04:17:10 | [CVE-2026-15223](https://nvd.nist.gov/vuln/detail/CVE-2026-15223) | Medium | 5.1 | An improper export control defect in ChatEventDispatchActivity (com.vivo.agent.business.chatmode.activity.ChatEventDisp… |
 
 ## Data source
 
