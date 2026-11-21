@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 19:19 UTC
+## Latest list — 2026-11-21 20:19 UTC
 
-New CVEs published between 2026-11-21 18:18 UTC and 2026-11-21 19:19 UTC.
+New CVEs published between 2026-11-21 19:19 UTC and 2026-11-21 20:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-21T19-19-58-84163Z.csv)
+[Full CSV](data/new-cves-2026-11-21T20-19-49-397883Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-21 19:16:31 | [CVE-2026-125294](https://nvd.nist.gov/vuln/detail/CVE-2026-125294) | Critical | 9.8 | The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including,… |
-| 2026-11-21 19:16:32 | [CVE-2026-134006](https://nvd.nist.gov/vuln/detail/CVE-2026-134006) | Low | 1.9 | A weakness has been identified in Moonshot AI Kimi Code up to 2.7.2. This vulnerability affects the function guardToolE… |
-| 2026-11-21 19:16:32 | [CVE-2026-134007](https://nvd.nist.gov/vuln/detail/CVE-2026-134007) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Banking Management System 1.0. This issue affects some unkno… |
+| 2026-11-21 20:16:34 | [CVE-2026-134009](https://nvd.nist.gov/vuln/detail/CVE-2026-134009) | Low | 2.1 | A vulnerability was detected in liukuo362573 YiShaAdmin up to ba04d5072885447553e372bb87e372b55a90780c. Impacted is the… |
+| 2026-11-21 20:16:35 | [CVE-2026-134533](https://nvd.nist.gov/vuln/detail/CVE-2026-134533) | Medium | 5.1 | A vulnerability was identified in Skyvern-AI Skyvern 1.0.56. Impacted is the function classify_url of the file skyvern/… |
 
 ## Data source
 
