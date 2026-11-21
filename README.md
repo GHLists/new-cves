@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:18 UTC
+## Latest list — 2026-11-21 19:19 UTC
 
-New CVEs published between 2026-11-21 17:20 UTC and 2026-11-21 18:18 UTC.
+New CVEs published between 2026-11-21 18:18 UTC and 2026-11-21 19:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-21T18-18-42-373492Z.csv)
+[Full CSV](data/new-cves-2026-11-21T19-19-58-84163Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-21 18:16:53 | [CVE-2026-133990](https://nvd.nist.gov/vuln/detail/CVE-2026-133990) | Low | 2.9 | A vulnerability was identified in Cockpit-HQ Cockpit up to 2.14.1. Affected by this issue is some unknown functionality… |
-| 2026-11-21 18:16:54 | [CVE-2026-133993](https://nvd.nist.gov/vuln/detail/CVE-2026-133993) | Critical | 9.3 | A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function FUN_0040efb0 of the file gena… |
+| 2026-11-21 19:16:31 | [CVE-2026-125294](https://nvd.nist.gov/vuln/detail/CVE-2026-125294) | Critical | 9.8 | The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including,… |
+| 2026-11-21 19:16:32 | [CVE-2026-134006](https://nvd.nist.gov/vuln/detail/CVE-2026-134006) | Low | 1.9 | A weakness has been identified in Moonshot AI Kimi Code up to 2.7.2. This vulnerability affects the function guardToolE… |
+| 2026-11-21 19:16:32 | [CVE-2026-134007](https://nvd.nist.gov/vuln/detail/CVE-2026-134007) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Banking Management System 1.0. This issue affects some unkno… |
 
 ## Data source
 
