@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:20 UTC
+## Latest list — 2026-11-21 05:20 UTC
 
-New CVEs published between 2026-11-21 03:19 UTC and 2026-11-21 04:20 UTC.
+New CVEs published between 2026-11-21 04:20 UTC and 2026-11-21 05:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-21T04-20-14-123773Z.csv)
+[Full CSV](data/new-cves-2026-11-21T05-20-04-76282Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-21 04:17:20 | [CVE-2026-131651](https://nvd.nist.gov/vuln/detail/CVE-2026-131651) | Medium | 6.4 | The rtMedia for WordPress, BuddyPress and bbPress plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scr… |
-| 2026-11-21 04:17:20 | [CVE-2026-19793](https://nvd.nist.gov/vuln/detail/CVE-2026-19793) | High | 8.8 | The WP Import Export Lite plugin for WordPress is vulnerable to Limited Code Injection in all versions up to, and inclu… |
+| 2026-11-21 05:18:22 | [CVE-2026-133958](https://nvd.nist.gov/vuln/detail/CVE-2026-133958) | Medium | 5.5 | A flaw was found in Quay. Insufficient validation of repository notification webhook URLs allows an authenticated admin… |
 
 ## Data source
 
