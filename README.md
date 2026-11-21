@@ -9,27 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 00:20 UTC
+## Latest list — 2026-11-21 04:20 UTC
 
-New CVEs published between 2026-11-20 23:18 UTC and 2026-11-21 00:20 UTC.
+New CVEs published between 2026-11-21 03:19 UTC and 2026-11-21 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-21T00-20-53-36734Z.csv)
+[Full CSV](data/new-cves-2026-11-21T04-20-14-123773Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-21 00:17:43 | [CVE-2026-112465](https://nvd.nist.gov/vuln/detail/CVE-2026-112465) |  |  | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 27.2 and iPadOS 27.2, mac… |
-| 2026-11-21 00:17:44 | [CVE-2026-112603](https://nvd.nist.gov/vuln/detail/CVE-2026-112603) |  |  | A logic issue was addressed with improved checks. This issue is fixed in Xcode 27.2. An app may be able to gain root pr… |
-| 2026-11-21 00:17:44 | [CVE-2026-112662](https://nvd.nist.gov/vuln/detail/CVE-2026-112662) |  |  | A race condition was addressed with additional validation. This issue is fixed in iOS 27.2 and iPadOS 27.2. An app may… |
-| 2026-11-21 00:17:44 | [CVE-2026-113953](https://nvd.nist.gov/vuln/detail/CVE-2026-113953) |  |  | An integer overflow was addressed with improved input validation. This issue is fixed in iOS 27.2 and iPadOS 27.2, macO… |
-| 2026-11-21 00:17:44 | [CVE-2026-113954](https://nvd.nist.gov/vuln/detail/CVE-2026-113954) |  |  | A use-after-free issue was addressed with improved memory management. This issue is fixed in iOS 27.2 and iPadOS 27.2.… |
-| 2026-11-21 00:17:44 | [CVE-2026-113955](https://nvd.nist.gov/vuln/detail/CVE-2026-113955) |  |  | A cross-origin issue was addressed with improved tracking of security origins. This issue is fixed in iOS 26.7.2 and iP… |
-| 2026-11-21 00:17:44 | [CVE-2026-114021](https://nvd.nist.gov/vuln/detail/CVE-2026-114021) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Golden Gate 27.2… |
-| 2026-11-21 00:17:45 | [CVE-2026-114022](https://nvd.nist.gov/vuln/detail/CVE-2026-114022) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Sequoia 15.8.2,… |
-| 2026-11-21 00:17:45 | [CVE-2026-114023](https://nvd.nist.gov/vuln/detail/CVE-2026-114023) |  |  | A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequ… |
-| 2026-11-21 00:17:45 | [CVE-2026-114024](https://nvd.nist.gov/vuln/detail/CVE-2026-114024) |  |  | This issue was addressed with improved checks. This issue is fixed in iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2,… |
-| 2026-11-21 00:17:45 | [CVE-2026-114025](https://nvd.nist.gov/vuln/detail/CVE-2026-114025) |  |  | An out-of-bounds write was addressed with improved input validation. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.… |
-| 2026-11-21 00:17:45 | [CVE-2026-114026](https://nvd.nist.gov/vuln/detail/CVE-2026-114026) |  |  | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 27.2 and iPadOS 27.2, mac… |
-| 2026-11-21 00:17:45 | [CVE-2026-132475](https://nvd.nist.gov/vuln/detail/CVE-2026-132475) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Golden Gate 27.2… |
+| 2026-11-21 04:17:20 | [CVE-2026-131651](https://nvd.nist.gov/vuln/detail/CVE-2026-131651) | Medium | 6.4 | The rtMedia for WordPress, BuddyPress and bbPress plugin for WordPress is vulnerable to Stored DOM-Based Cross-Site Scr… |
+| 2026-11-21 04:17:20 | [CVE-2026-19793](https://nvd.nist.gov/vuln/detail/CVE-2026-19793) | High | 8.8 | The WP Import Export Lite plugin for WordPress is vulnerable to Limited Code Injection in all versions up to, and inclu… |
 
 ## Data source
 
