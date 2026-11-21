@@ -9,29 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 23:18 UTC
+## Latest list — 2026-11-21 00:20 UTC
 
-New CVEs published between 2026-11-20 22:21 UTC and 2026-11-20 23:18 UTC.
+New CVEs published between 2026-11-20 23:18 UTC and 2026-11-21 00:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-20T23-18-45-656242Z.csv)
+[Full CSV](data/new-cves-2026-11-21T00-20-53-36734Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-20 23:16:57 | [CVE-2026-107942](https://nvd.nist.gov/vuln/detail/CVE-2026-107942) | Low | 3.1 | Improper Content Security Policy (CSP) nonce implementation in HCL BigFix MCM allows a remote attacker to reduce the ef… |
-| 2026-11-20 23:16:57 | [CVE-2026-124213](https://nvd.nist.gov/vuln/detail/CVE-2026-124213) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2026-125822. Reason: This candidate is… |
-| 2026-11-20 23:16:57 | [CVE-2026-134163](https://nvd.nist.gov/vuln/detail/CVE-2026-134163) | Medium | 6.9 | probe-image-size 7.4.0 contains a regular expression denial of service vulnerability in lib/common/svg_header.js that a… |
-| 2026-11-20 23:16:58 | [CVE-2026-134164](https://nvd.nist.gov/vuln/detail/CVE-2026-134164) | High | 8.7 | probe-image-size before 7.5.0 contains an algorithmic-complexity denial of service vulnerability in lib/exif_utils.js t… |
-| 2026-11-20 23:16:58 | [CVE-2026-134165](https://nvd.nist.gov/vuln/detail/CVE-2026-134165) | Medium | 6.9 | probe-image-size before 7.5.0 contains an unbounded memory allocation vulnerability in lib/parse_stream/avif.js that al… |
-| 2026-11-20 23:16:58 | [CVE-2026-134166](https://nvd.nist.gov/vuln/detail/CVE-2026-134166) | Medium | 6.9 | probe-image-size before 7.5.0 contains an unbounded memory buffering vulnerability in parseExif in lib/parse_stream/web… |
-| 2026-11-20 23:16:58 | [CVE-2026-134167](https://nvd.nist.gov/vuln/detail/CVE-2026-134167) | High | 8.7 | devpi-web before 5.2.0 contains an unauthenticated path traversal vulnerability in the +doc documentation route because… |
-| 2026-11-20 23:16:58 | [CVE-2026-134168](https://nvd.nist.gov/vuln/detail/CVE-2026-134168) | Medium | 5.3 | devpi-server before 6.21.0 contains a path traversal vulnerability that allows authenticated users to write files outsi… |
-| 2026-11-20 23:16:58 | [CVE-2026-134169](https://nvd.nist.gov/vuln/detail/CVE-2026-134169) | High | 8.7 | Qwik City before 1.20.3 (@builder.io/qwik-city) and @qwik.dev/router before 2.0.0-rc.4 contain an improperly controlled… |
-| 2026-11-20 23:16:59 | [CVE-2026-134170](https://nvd.nist.gov/vuln/detail/CVE-2026-134170) | High | 8.2 | Cesanta Mongoose 7.22 before 7.24 with the built-in TLS stack contains an out-of-bounds read in mg_timegm() that allows… |
-| 2026-11-20 23:16:59 | [CVE-2026-134171](https://nvd.nist.gov/vuln/detail/CVE-2026-134171) | Medium | 6.9 | Cesanta Mongoose 7.21 before 7.24 contains an out-of-bounds read vulnerability in rx_ip6() checksum validation that all… |
-| 2026-11-20 23:16:59 | [CVE-2026-134172](https://nvd.nist.gov/vuln/detail/CVE-2026-134172) | High | 8.5 | audio-separator before 0.47.2 contains an insecure deserialization vulnerability that allows attackers to execute code… |
-| 2026-11-20 23:16:59 | [CVE-2026-16132](https://nvd.nist.gov/vuln/detail/CVE-2026-16132) | Medium | 5.1 | A stored cross-site scripting (XSS) vulnerability exists in the Icon API: Menu submodule of the Drupal 7 Icon API modul… |
-| 2026-11-20 23:16:59 | [CVE-2026-19030](https://nvd.nist.gov/vuln/detail/CVE-2026-19030) | Medium | 6.9 | Observable Discrepancy vulnerability in Drupal CAPTCHA for Drupal 7 allows unauthenticated attackers to test login cred… |
-| 2026-11-20 23:16:59 | [CVE-2026-79790](https://nvd.nist.gov/vuln/detail/CVE-2026-79790) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-21 00:17:43 | [CVE-2026-112465](https://nvd.nist.gov/vuln/detail/CVE-2026-112465) |  |  | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 27.2 and iPadOS 27.2, mac… |
+| 2026-11-21 00:17:44 | [CVE-2026-112603](https://nvd.nist.gov/vuln/detail/CVE-2026-112603) |  |  | A logic issue was addressed with improved checks. This issue is fixed in Xcode 27.2. An app may be able to gain root pr… |
+| 2026-11-21 00:17:44 | [CVE-2026-112662](https://nvd.nist.gov/vuln/detail/CVE-2026-112662) |  |  | A race condition was addressed with additional validation. This issue is fixed in iOS 27.2 and iPadOS 27.2. An app may… |
+| 2026-11-21 00:17:44 | [CVE-2026-113953](https://nvd.nist.gov/vuln/detail/CVE-2026-113953) |  |  | An integer overflow was addressed with improved input validation. This issue is fixed in iOS 27.2 and iPadOS 27.2, macO… |
+| 2026-11-21 00:17:44 | [CVE-2026-113954](https://nvd.nist.gov/vuln/detail/CVE-2026-113954) |  |  | A use-after-free issue was addressed with improved memory management. This issue is fixed in iOS 27.2 and iPadOS 27.2.… |
+| 2026-11-21 00:17:44 | [CVE-2026-113955](https://nvd.nist.gov/vuln/detail/CVE-2026-113955) |  |  | A cross-origin issue was addressed with improved tracking of security origins. This issue is fixed in iOS 26.7.2 and iP… |
+| 2026-11-21 00:17:44 | [CVE-2026-114021](https://nvd.nist.gov/vuln/detail/CVE-2026-114021) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Golden Gate 27.2… |
+| 2026-11-21 00:17:45 | [CVE-2026-114022](https://nvd.nist.gov/vuln/detail/CVE-2026-114022) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Sequoia 15.8.2,… |
+| 2026-11-21 00:17:45 | [CVE-2026-114023](https://nvd.nist.gov/vuln/detail/CVE-2026-114023) |  |  | A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequ… |
+| 2026-11-21 00:17:45 | [CVE-2026-114024](https://nvd.nist.gov/vuln/detail/CVE-2026-114024) |  |  | This issue was addressed with improved checks. This issue is fixed in iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2,… |
+| 2026-11-21 00:17:45 | [CVE-2026-114025](https://nvd.nist.gov/vuln/detail/CVE-2026-114025) |  |  | An out-of-bounds write was addressed with improved input validation. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.… |
+| 2026-11-21 00:17:45 | [CVE-2026-114026](https://nvd.nist.gov/vuln/detail/CVE-2026-114026) |  |  | An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 27.2 and iPadOS 27.2, mac… |
+| 2026-11-21 00:17:45 | [CVE-2026-132475](https://nvd.nist.gov/vuln/detail/CVE-2026-132475) |  |  | An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in macOS Golden Gate 27.2… |
 
 ## Data source
 
