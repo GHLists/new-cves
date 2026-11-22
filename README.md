@@ -9,26 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 11:18 UTC
+## Latest list — 2026-11-22 14:21 UTC
 
-New CVEs published between 2026-11-22 10:20 UTC and 2026-11-22 11:18 UTC.
+New CVEs published between 2026-11-22 13:18 UTC and 2026-11-22 14:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-22T11-18-41-870203Z.csv)
+[Full CSV](data/new-cves-2026-11-22T14-21-11-692995Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-22 11:16:45 | [CVE-2026-109889](https://nvd.nist.gov/vuln/detail/CVE-2026-109889) | Medium | 6.8 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Elementor Image Optimiz… |
-| 2026-11-22 11:16:45 | [CVE-2026-131701](https://nvd.nist.gov/vuln/detail/CVE-2026-131701) | High | 8.5 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in JoomUnited WP Med… |
-| 2026-11-22 11:16:46 | [CVE-2026-131702](https://nvd.nist.gov/vuln/detail/CVE-2026-131702) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in NextScripts NextS… |
-| 2026-11-22 11:16:46 | [CVE-2026-131714](https://nvd.nist.gov/vuln/detail/CVE-2026-131714) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Kaliforms Kali Fo… |
-| 2026-11-22 11:16:46 | [CVE-2026-131718](https://nvd.nist.gov/vuln/detail/CVE-2026-131718) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
-| 2026-11-22 11:16:46 | [CVE-2026-131721](https://nvd.nist.gov/vuln/detail/CVE-2026-131721) | Medium | 6.5 | Missing Authorization vulnerability in WPMU DEV Forminator forminator allows Exploiting Incorrectly Configured Access C… |
-| 2026-11-22 11:16:46 | [CVE-2026-131722](https://nvd.nist.gov/vuln/detail/CVE-2026-131722) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BuddyPress BuddyP… |
-| 2026-11-22 11:16:46 | [CVE-2026-131724](https://nvd.nist.gov/vuln/detail/CVE-2026-131724) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
-| 2026-11-22 11:16:47 | [CVE-2026-131742](https://nvd.nist.gov/vuln/detail/CVE-2026-131742) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PluginUs.Net Acti… |
-| 2026-11-22 11:16:47 | [CVE-2026-131748](https://nvd.nist.gov/vuln/detail/CVE-2026-131748) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Boone Gorges Budd… |
-| 2026-11-22 11:16:47 | [CVE-2026-131773](https://nvd.nist.gov/vuln/detail/CVE-2026-131773) | Medium | 6.5 | Missing Authorization vulnerability in Wetail AB WooCommerce Fortnox Integration woocommerce-fortnox-integration allows… |
-| 2026-11-22 11:16:47 | [CVE-2026-131774](https://nvd.nist.gov/vuln/detail/CVE-2026-131774) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Wetail AB WooComm… |
+| 2026-11-22 14:17:28 | [CVE-2026-131780](https://nvd.nist.gov/vuln/detail/CVE-2026-131780) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themify Themify B… |
 
 ## Data source
 
