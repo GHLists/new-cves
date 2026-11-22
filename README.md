@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 04:20 UTC
+## Latest list — 2026-11-22 05:18 UTC
 
-New CVEs published between 2026-11-22 03:18 UTC and 2026-11-22 04:20 UTC.
+New CVEs published between 2026-11-22 04:20 UTC and 2026-11-22 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-22T04-20-49-021587Z.csv)
+[Full CSV](data/new-cves-2026-11-22T05-18-49-728315Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-22 04:17:11 | [CVE-2026-134616](https://nvd.nist.gov/vuln/detail/CVE-2026-134616) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Insurance Management System 1.0. The affected element is an… |
+| 2026-11-22 05:18:43 | [CVE-2026-134623](https://nvd.nist.gov/vuln/detail/CVE-2026-134623) | Medium | 5.5 | A flaw has been found in Microweber up to 2.0.20. This impacts the function UserManager::make_logged of the file src/Mi… |
+| 2026-11-22 05:18:43 | [CVE-2026-134651](https://nvd.nist.gov/vuln/detail/CVE-2026-134651) | Medium | 6.8 | A flaw was found in Quay. This vulnerability allows an authenticated remote attacker holding a restricted, short-lived… |
 
 ## Data source
 
