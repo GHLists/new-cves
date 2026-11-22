@@ -9,15 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 03:18 UTC
+## Latest list — 2026-11-22 04:20 UTC
 
-New CVEs published between 2026-11-22 02:19 UTC and 2026-11-22 03:18 UTC.
+New CVEs published between 2026-11-22 03:18 UTC and 2026-11-22 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-22T03-18-30-940847Z.csv)
+[Full CSV](data/new-cves-2026-11-22T04-20-49-021587Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-22 03:16:38 | [CVE-2026-134572](https://nvd.nist.gov/vuln/detail/CVE-2026-134572) | Low | 2.1 | A vulnerability was identified in itsourcecode Insurance Management System 1.0. Affected by this issue is some unknown… |
+| 2026-11-22 04:17:11 | [CVE-2026-134616](https://nvd.nist.gov/vuln/detail/CVE-2026-134616) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Insurance Management System 1.0. The affected element is an… |
 
 ## Data source
 
