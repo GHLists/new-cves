@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 00:21 UTC
+## Latest list — 2026-11-22 01:18 UTC
 
-New CVEs published between 2026-11-21 23:19 UTC and 2026-11-22 00:21 UTC.
+New CVEs published between 2026-11-22 00:21 UTC and 2026-11-22 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-22T00-21-28-020165Z.csv)
+[Full CSV](data/new-cves-2026-11-22T01-18-23-78344Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-22 00:16:59 | [CVE-2026-134541](https://nvd.nist.gov/vuln/detail/CVE-2026-134541) | Medium | 5.5 | A vulnerability was detected in Surya2Developer Online Shopping System 1.0. This impacts an unknown function of the fil… |
-| 2026-11-22 00:17:00 | [CVE-2026-134543](https://nvd.nist.gov/vuln/detail/CVE-2026-134543) | Low | 2.1 | A flaw has been found in jprocms up to 1.7.7. Affected is the function StrUtil.format of the component Database Backup… |
-| 2026-11-22 00:17:00 | [CVE-2026-134544](https://nvd.nist.gov/vuln/detail/CVE-2026-134544) | Low | 2.0 | A vulnerability has been found in jprocms up to 1.7.7. Affected by this vulnerability is the function validateParam of… |
-| 2026-11-22 00:17:00 | [CVE-2026-134545](https://nvd.nist.gov/vuln/detail/CVE-2026-134545) | Low | 2.1 | A vulnerability was found in Xinchen Technology Huangjintong Second-level System Third-generation Management Terminal S… |
+| 2026-11-22 01:16:52 | [CVE-2026-134553](https://nvd.nist.gov/vuln/detail/CVE-2026-134553) | Medium | 5.3 | A vulnerability was determined in wiroai Wiro-MCP up to 1.3.0. This affects the function upload_file of the file src/to… |
+| 2026-11-22 01:16:53 | [CVE-2026-134560](https://nvd.nist.gov/vuln/detail/CVE-2026-134560) | Medium | 4.8 | A weakness has been identified in twogood unshield up to 1.6.2. Impacted is the function unshield_get_cab_descriptor of… |
+| 2026-11-22 01:16:53 | [CVE-2026-134566](https://nvd.nist.gov/vuln/detail/CVE-2026-134566) | Low | 2.1 | A security vulnerability has been detected in itsourcecode Document Management System 1.0. The affected element is an u… |
+| 2026-11-22 01:16:53 | [CVE-2026-134567](https://nvd.nist.gov/vuln/detail/CVE-2026-134567) | Low | 2.1 | A vulnerability was detected in itsourcecode Document Management System 1.0. The impacted element is an unknown functio… |
 
 ## Data source
 
