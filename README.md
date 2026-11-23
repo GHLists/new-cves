@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:18 UTC
+## Latest list — 2026-11-23 01:18 UTC
 
-New CVEs published between 2026-11-22 23:19 UTC and 2026-11-23 00:18 UTC.
+New CVEs published between 2026-11-23 00:18 UTC and 2026-11-23 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T00-18-45-201274Z.csv)
+[Full CSV](data/new-cves-2026-11-23T01-18-23-116812Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 00:17:02 | [CVE-2026-134731](https://nvd.nist.gov/vuln/detail/CVE-2026-134731) | Low | 2.1 | A vulnerability was detected in itsourcecode Insurance Management System 1.0. The impacted element is an unknown functi… |
-| 2026-11-23 00:17:03 | [CVE-2026-134732](https://nvd.nist.gov/vuln/detail/CVE-2026-134732) | Low | 2.1 | A flaw has been found in Open Asset Import Library Assimp up to 6.0.5. This affects the function ASEImporter::InternRea… |
-| 2026-11-23 00:17:03 | [CVE-2026-134733](https://nvd.nist.gov/vuln/detail/CVE-2026-134733) | Low | 2.1 | A vulnerability has been found in itsourcecode Event Management System 1.0. This impacts an unknown function of the fil… |
-| 2026-11-23 00:17:03 | [CVE-2026-134734](https://nvd.nist.gov/vuln/detail/CVE-2026-134734) | Medium | 6.9 | A vulnerability was found in Webkul Bagisto up to 2.4.13. Affected is the function RazorpayController::paymentSuccess o… |
+| 2026-11-23 01:17:09 | [CVE-2026-134735](https://nvd.nist.gov/vuln/detail/CVE-2026-134735) | Medium | 6.9 | A vulnerability was determined in Webkul Bagisto up to 2.4.12. Affected by this vulnerability is the function Success o… |
+| 2026-11-23 01:17:10 | [CVE-2026-134779](https://nvd.nist.gov/vuln/detail/CVE-2026-134779) | Low | 2.1 | A weakness has been identified in Open Asset Import Library Assimp up to 6.0.6. The affected element is the function As… |
+| 2026-11-23 01:17:10 | [CVE-2026-134780](https://nvd.nist.gov/vuln/detail/CVE-2026-134780) | Low | 2.1 | A security vulnerability has been detected in Open Asset Import Library Assimp up to 6.0.6. The impacted element is the… |
+| 2026-11-23 01:17:10 | [CVE-2026-134781](https://nvd.nist.gov/vuln/detail/CVE-2026-134781) | Low | 2.1 | A vulnerability was detected in Open Asset Import Library Assimp up to 6.0.5. This affects the function Assimp::Pretran… |
 
 ## Data source
 
