@@ -9,21 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 09:18 UTC
+## Latest list — 2026-11-23 10:21 UTC
 
-New CVEs published between 2026-11-23 08:20 UTC and 2026-11-23 09:18 UTC.
+New CVEs published between 2026-11-23 09:18 UTC and 2026-11-23 10:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T09-18-32-360799Z.csv)
+[Full CSV](data/new-cves-2026-11-23T10-21-55-216422Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 09:17:04 | [CVE-2026-115873](https://nvd.nist.gov/vuln/detail/CVE-2026-115873) | High | 8.7 | A remote attacker must authenticate with Read Only (GroupRead) access to at least one Worker Group and reach the Leader… |
-| 2026-11-23 09:17:05 | [CVE-2026-115899](https://nvd.nist.gov/vuln/detail/CVE-2026-115899) | Critical | 9.3 | An attacker must control pagination data returned by an upstream API or service queried by an existing REST Collector.… |
-| 2026-11-23 09:17:05 | [CVE-2026-115900](https://nvd.nist.gov/vuln/detail/CVE-2026-115900) | High | 8.7 | An attacker must possess a valid Worker distribution credential, reach the Leader distribution listener, and send craft… |
-| 2026-11-23 09:17:05 | [CVE-2026-115901](https://nvd.nist.gov/vuln/detail/CVE-2026-115901) | High | 8.5 | Exploitation requires an identity admitted to a configured trusted IdP application, control of claims selected as the O… |
-| 2026-11-23 09:17:05 | [CVE-2026-115903](https://nvd.nist.gov/vuln/detail/CVE-2026-115903) | High | 7.1 | An authenticated attacker must reach the Edge file APIs through the Leader or directly on an Edge node. On affected man… |
-| 2026-11-23 09:17:05 | [CVE-2026-134882](https://nvd.nist.gov/vuln/detail/CVE-2026-134882) | Critical | 10.0 | A weakness has been identified in TOTOLINK A7100RU 7.4cu.2313_B20191024. This issue affects the function exportOvpn of… |
-| 2026-11-23 09:17:08 | [CVE-2026-93584](https://nvd.nist.gov/vuln/detail/CVE-2026-93584) | High | 8.6 | An SQL injection vulnerability in OTRS versions 2024.3.1 through 2026.8.1 allows unauthenticated remote attackers to in… |
+| 2026-11-23 10:17:15 | [CVE-2026-118888](https://nvd.nist.gov/vuln/detail/CVE-2026-118888) | Low | 3.3 | ZTE Z80 Ultra product has an improper access control vulnerability. Successful exploitation of this vulnerability may a… |
+| 2026-11-23 10:17:15 | [CVE-2026-121613](https://nvd.nist.gov/vuln/detail/CVE-2026-121613) | Critical | 9.3 | Missing authentication and authorization on an exposed interface allows an unauthenticated remote attacker to send arbi… |
+| 2026-11-23 10:17:15 | [CVE-2026-128979](https://nvd.nist.gov/vuln/detail/CVE-2026-128979) | Medium | 6.0 | Improper certificate validation vulnerability in Estonian Information System Authority (RIA) libdigidocpp, Estonian Inf… |
+| 2026-11-23 10:17:15 | [CVE-2026-134883](https://nvd.nist.gov/vuln/detail/CVE-2026-134883) | Medium | 5.1 | A security vulnerability has been detected in osCommerce 4.14.63493. Impacted is the function actionOrdersbatch of the… |
+| 2026-11-23 10:17:15 | [CVE-2026-134884](https://nvd.nist.gov/vuln/detail/CVE-2026-134884) | Medium | 5.1 | A vulnerability was detected in osCommerce 4.14.63493. The affected element is an unknown function of the component Bac… |
+| 2026-11-23 10:17:16 | [CVE-2026-134885](https://nvd.nist.gov/vuln/detail/CVE-2026-134885) | Medium | 6.9 | A flaw has been found in osCommerce up to 4.14.63493. The impacted element is the function actionSuccess of the file li… |
+| 2026-11-23 10:17:16 | [CVE-2026-80466](https://nvd.nist.gov/vuln/detail/CVE-2026-80466) | High | 8.7 | A vulnerability in the Web-Based Management (WBM) routing configuration allows a low-privileged remote attacker to inje… |
+| 2026-11-23 10:17:16 | [CVE-2026-88850](https://nvd.nist.gov/vuln/detail/CVE-2026-88850) | High | 7.2 | The Web-Based Management (WBM) authorization model does not properly enforce permissions for all PROFIBUS configuration… |
+| 2026-11-23 10:17:16 | [CVE-2026-94252](https://nvd.nist.gov/vuln/detail/CVE-2026-94252) | Medium | 4.9 | An unauthenticated stored and reflected cross-site scripting (XSS) vulnerability in the embedded web interface of Front… |
 
 ## Data source
 
