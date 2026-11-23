@@ -9,18 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 02:20 UTC
+## Latest list — 2026-11-23 03:18 UTC
 
-New CVEs published between 2026-11-23 01:18 UTC and 2026-11-23 02:20 UTC.
+New CVEs published between 2026-11-23 02:20 UTC and 2026-11-23 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T02-20-32-100443Z.csv)
+[Full CSV](data/new-cves-2026-11-23T03-18-49-115142Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 02:16:37 | [CVE-2026-134782](https://nvd.nist.gov/vuln/detail/CVE-2026-134782) | Low | 2.1 | A flaw has been found in Open Asset Import Library Assimp up to 6.0.6. This impacts the function Assimp::ColladaLoader:… |
-| 2026-11-23 02:16:37 | [CVE-2026-134783](https://nvd.nist.gov/vuln/detail/CVE-2026-134783) | Medium | 5.3 | A vulnerability has been found in xuxueli xxl-job 3.5.0/3.5.1-SNAPSHOT. Affected is the function difyWorkflowJobHandler… |
-| 2026-11-23 02:16:37 | [CVE-2026-134784](https://nvd.nist.gov/vuln/detail/CVE-2026-134784) | Medium | 6.9 | A vulnerability was found in DumbWareio DumbDrop up to ff8f813f493e89c7da056e7a3101ce2ef48e3960. Affected by this vulne… |
-| 2026-11-23 02:16:38 | [CVE-2026-134785](https://nvd.nist.gov/vuln/detail/CVE-2026-134785) | Medium | 6.9 | A vulnerability was identified in Bagisto MangoPay Payment Gateway up to c061edcc7973cb37a77a9f9ae523db170c3e28ed. Affe… |
+| 2026-11-23 03:17:07 | [CVE-2026-134786](https://nvd.nist.gov/vuln/detail/CVE-2026-134786) | Medium | 5.3 | A vulnerability has been found in Xuxueli xxl-job 3.5.0/3.5.1-SNAPSHOT. The affected element is an unknown function of… |
+| 2026-11-23 03:17:07 | [CVE-2026-134787](https://nvd.nist.gov/vuln/detail/CVE-2026-134787) | Medium | 5.5 | A vulnerability was identified in code-projects Intern Record System 1.0. This impacts an unknown function of the file… |
+| 2026-11-23 03:17:08 | [CVE-2026-134788](https://nvd.nist.gov/vuln/detail/CVE-2026-134788) | Medium | 5.5 | A security flaw has been discovered in warpdesign pcx-js up to 1.1.1. Affected is the function decode8bpp/decode4bpp of… |
+| 2026-11-23 03:17:08 | [CVE-2026-134789](https://nvd.nist.gov/vuln/detail/CVE-2026-134789) | Medium | 6.9 | A weakness has been identified in DumbWareio DumbAssets up to 1.0.11. Affected by this vulnerability is an unknown func… |
 
 ## Data source
 
