@@ -9,15 +9,18 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:19 UTC
+## Latest list — 2026-11-23 00:18 UTC
 
-New CVEs published between 2026-11-22 22:19 UTC and 2026-11-22 23:19 UTC.
+New CVEs published between 2026-11-22 23:19 UTC and 2026-11-23 00:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-22T23-19-52-44093Z.csv)
+[Full CSV](data/new-cves-2026-11-23T00-18-45-201274Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-22 23:16:50 | [CVE-2026-134730](https://nvd.nist.gov/vuln/detail/CVE-2026-134730) | Medium | 5.3 | A security vulnerability has been detected in xuxueli xxl-job 3.5.0/3.5.1-SNAPSHOT. The affected element is the functio… |
+| 2026-11-23 00:17:02 | [CVE-2026-134731](https://nvd.nist.gov/vuln/detail/CVE-2026-134731) | Low | 2.1 | A vulnerability was detected in itsourcecode Insurance Management System 1.0. The impacted element is an unknown functi… |
+| 2026-11-23 00:17:03 | [CVE-2026-134732](https://nvd.nist.gov/vuln/detail/CVE-2026-134732) | Low | 2.1 | A flaw has been found in Open Asset Import Library Assimp up to 6.0.5. This affects the function ASEImporter::InternRea… |
+| 2026-11-23 00:17:03 | [CVE-2026-134733](https://nvd.nist.gov/vuln/detail/CVE-2026-134733) | Low | 2.1 | A vulnerability has been found in itsourcecode Event Management System 1.0. This impacts an unknown function of the fil… |
+| 2026-11-23 00:17:03 | [CVE-2026-134734](https://nvd.nist.gov/vuln/detail/CVE-2026-134734) | Medium | 6.9 | A vulnerability was found in Webkul Bagisto up to 2.4.13. Affected is the function RazorpayController::paymentSuccess o… |
 
 ## Data source
 
