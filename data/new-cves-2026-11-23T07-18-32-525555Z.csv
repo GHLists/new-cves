@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-23T06:18:47.657Z,CVE-2026-121480,MEDIUM,5.3,Deferred,CWE-863,1,"Insufficient authorization in personal notification rules in Checkmk <2.5.0p20, <2.4.0p41 and 2.3.0 (EOL) allows authenticated users to receive notifications for hosts and services they are not a contact of by defining broad personal notification rules."

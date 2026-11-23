@@ -9,17 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:18 UTC
+## Latest list — 2026-11-23 07:18 UTC
 
-New CVEs published between 2026-11-23 04:20 UTC and 2026-11-23 05:18 UTC.
+New CVEs published between 2026-11-23 06:18 UTC and 2026-11-23 07:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T05-18-41-234162Z.csv)
+[Full CSV](data/new-cves-2026-11-23T07-18-32-525555Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 05:17:44 | [CVE-2026-134854](https://nvd.nist.gov/vuln/detail/CVE-2026-134854) | Medium | 5.5 | A vulnerability was found in andreasgal node-wav up to 0.0.2. Impacted is the function decode of the file index.js of t… |
-| 2026-11-23 05:17:45 | [CVE-2026-134855](https://nvd.nist.gov/vuln/detail/CVE-2026-134855) | Medium | 5.5 | A vulnerability was determined in kchapelier qoijs 1.0.0. The affected element is the function decode of the file src/d… |
-| 2026-11-23 05:17:49 | [CVE-2026-134856](https://nvd.nist.gov/vuln/detail/CVE-2026-134856) | Low | 1.9 | A vulnerability was identified in Snes9x up to 1.63. The impacted element is the function S9xUnfreezeFromStream of the… |
+| 2026-11-23 06:18:47 | [CVE-2026-121480](https://nvd.nist.gov/vuln/detail/CVE-2026-121480) | Medium | 5.3 | Insufficient authorization in personal notification rules in Checkmk <2.5.0p20, <2.4.0p41 and 2.3.0 (EOL) allows authen… |
 
 ## Data source
 
