@@ -9,19 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 04:20 UTC
+## Latest list — 2026-11-23 05:18 UTC
 
-New CVEs published between 2026-11-23 03:18 UTC and 2026-11-23 04:20 UTC.
+New CVEs published between 2026-11-23 04:20 UTC and 2026-11-23 05:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T04-20-35-097694Z.csv)
+[Full CSV](data/new-cves-2026-11-23T05-18-41-234162Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 04:17:58 | [CVE-2026-129830](https://nvd.nist.gov/vuln/detail/CVE-2026-129830) | Medium | 4.7 | When the rsyslog's `imuxsock` is parsing the TAG field from a message with a accepted shorter timestamp, the cursor use… |
-| 2026-11-23 04:17:58 | [CVE-2026-134850](https://nvd.nist.gov/vuln/detail/CVE-2026-134850) | Medium | 6.9 | A security vulnerability has been detected in aceberg WatchYourLAN up to 2.1.4. Affected by this issue is the function… |
-| 2026-11-23 04:17:59 | [CVE-2026-134851](https://nvd.nist.gov/vuln/detail/CVE-2026-134851) | Medium | 6.9 | A vulnerability was detected in leonkhoo123 self-hosting-file-uploader up to 473e38ff8fba494f33a485730c6d95c5d8c536ea.… |
-| 2026-11-23 04:17:59 | [CVE-2026-134852](https://nvd.nist.gov/vuln/detail/CVE-2026-134852) | Medium | 5.5 | A flaw has been found in shaozilee bmp-js up to 0.1.0. This vulnerability affects the function BmpDecoder.parseRGBA of… |
-| 2026-11-23 04:17:59 | [CVE-2026-134853](https://nvd.nist.gov/vuln/detail/CVE-2026-134853) | Medium | 5.5 | A vulnerability has been found in vthibault tga-js up to 1.1.1. This issue affects the function _decodeRLE of the file… |
+| 2026-11-23 05:17:44 | [CVE-2026-134854](https://nvd.nist.gov/vuln/detail/CVE-2026-134854) | Medium | 5.5 | A vulnerability was found in andreasgal node-wav up to 0.0.2. Impacted is the function decode of the file index.js of t… |
+| 2026-11-23 05:17:45 | [CVE-2026-134855](https://nvd.nist.gov/vuln/detail/CVE-2026-134855) | Medium | 5.5 | A vulnerability was determined in kchapelier qoijs 1.0.0. The affected element is the function decode of the file src/d… |
+| 2026-11-23 05:17:49 | [CVE-2026-134856](https://nvd.nist.gov/vuln/detail/CVE-2026-134856) | Low | 1.9 | A vulnerability was identified in Snes9x up to 1.63. The impacted element is the function S9xUnfreezeFromStream of the… |
 
 ## Data source
 
