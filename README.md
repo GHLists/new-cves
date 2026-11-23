@@ -9,20 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:20 UTC
+## Latest list — 2026-11-23 09:18 UTC
 
-New CVEs published between 2026-11-23 07:18 UTC and 2026-11-23 08:20 UTC.
+New CVEs published between 2026-11-23 08:20 UTC and 2026-11-23 09:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T08-20-28-450281Z.csv)
+[Full CSV](data/new-cves-2026-11-23T09-18-32-360799Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 08:17:13 | [CVE-2026-115232](https://nvd.nist.gov/vuln/detail/CVE-2026-115232) | Low | 2.1 | In iceoryx2 versions from 0.6.0 to 0.10.0, The C API getters that copy a service's hash into a caller-provided buffer (… |
-| 2026-11-23 08:17:14 | [CVE-2026-118887](https://nvd.nist.gov/vuln/detail/CVE-2026-118887) | Medium | 6.8 | ZTE Z80 Ultra is affected by an unauthorized access vulnerability. Successful exploitation of this vulnerability could… |
-| 2026-11-23 08:17:14 | [CVE-2026-120382](https://nvd.nist.gov/vuln/detail/CVE-2026-120382) | Critical | 9.8 | An improper neutralization of argument delimiters in a command vulnerability in the OAuth API in Synology DiskStation M… |
-| 2026-11-23 08:17:14 | [CVE-2026-121456](https://nvd.nist.gov/vuln/detail/CVE-2026-121456) | Medium | 5.8 | A privilege escalation vulnerability in the Axivion Suite ApiToken permission restriction for OIDC and SAML users of th… |
-| 2026-11-23 08:17:14 | [CVE-2026-134881](https://nvd.nist.gov/vuln/detail/CVE-2026-134881) | Low | 2.0 | A security flaw has been discovered in HuLaSpark HuLa up to 3.0.9. This vulnerability affects the function showMsg of t… |
-| 2026-11-23 08:17:14 | [CVE-2026-134935](https://nvd.nist.gov/vuln/detail/CVE-2026-134935) | High | 7.0 | The dell-xps-touchpad-haptics package before 1.0.0-4 for Omarchy allows local users to change ownership of a root-owned… |
+| 2026-11-23 09:17:04 | [CVE-2026-115873](https://nvd.nist.gov/vuln/detail/CVE-2026-115873) | High | 8.7 | A remote attacker must authenticate with Read Only (GroupRead) access to at least one Worker Group and reach the Leader… |
+| 2026-11-23 09:17:05 | [CVE-2026-115899](https://nvd.nist.gov/vuln/detail/CVE-2026-115899) | Critical | 9.3 | An attacker must control pagination data returned by an upstream API or service queried by an existing REST Collector.… |
+| 2026-11-23 09:17:05 | [CVE-2026-115900](https://nvd.nist.gov/vuln/detail/CVE-2026-115900) | High | 8.7 | An attacker must possess a valid Worker distribution credential, reach the Leader distribution listener, and send craft… |
+| 2026-11-23 09:17:05 | [CVE-2026-115901](https://nvd.nist.gov/vuln/detail/CVE-2026-115901) | High | 8.5 | Exploitation requires an identity admitted to a configured trusted IdP application, control of claims selected as the O… |
+| 2026-11-23 09:17:05 | [CVE-2026-115903](https://nvd.nist.gov/vuln/detail/CVE-2026-115903) | High | 7.1 | An authenticated attacker must reach the Edge file APIs through the Leader or directly on an Edge node. On affected man… |
+| 2026-11-23 09:17:05 | [CVE-2026-134882](https://nvd.nist.gov/vuln/detail/CVE-2026-134882) | Critical | 10.0 | A weakness has been identified in TOTOLINK A7100RU 7.4cu.2313_B20191024. This issue affects the function exportOvpn of… |
+| 2026-11-23 09:17:08 | [CVE-2026-93584](https://nvd.nist.gov/vuln/detail/CVE-2026-93584) | High | 8.6 | An SQL injection vulnerability in OTRS versions 2024.3.1 through 2026.8.1 allows unauthenticated remote attackers to in… |
 
 ## Data source
 
