@@ -9,51 +9,61 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 15:19 UTC
+## Latest list — 2026-11-23 16:19 UTC
 
-New CVEs published between 2026-11-23 14:18 UTC and 2026-11-23 15:19 UTC.
+New CVEs published between 2026-11-23 15:19 UTC and 2026-11-23 16:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T15-19-01-175136Z.csv)
+[Full CSV](data/new-cves-2026-11-23T16-19-54-363242Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 15:17:30 | [CVE-2026-126761](https://nvd.nist.gov/vuln/detail/CVE-2026-126761) |  |  | Authorization bypass through user-controlled key in the RDM folder duplication endpoint in Devolutions Server 2026.3.14… |
-| 2026-11-23 15:17:31 | [CVE-2026-12429](https://nvd.nist.gov/vuln/detail/CVE-2026-12429) |  |  | Rejected reason: This issue was not considered a security vulnerability. |
-| 2026-11-23 15:17:31 | [CVE-2026-12431](https://nvd.nist.gov/vuln/detail/CVE-2026-12431) |  |  | Rejected reason: This issue was not considered a security vulnerability. |
-| 2026-11-23 15:17:32 | [CVE-2026-12543](https://nvd.nist.gov/vuln/detail/CVE-2026-12543) |  |  | Rejected reason: This issue was not considered a security vulnerability. |
-| 2026-11-23 15:17:33 | [CVE-2026-133229](https://nvd.nist.gov/vuln/detail/CVE-2026-133229) |  |  | Improper authentication in the emergency login in Devolutions Server 2026.3.14.0 and earlier allows an attacker who hol… |
-| 2026-11-23 15:17:33 | [CVE-2026-133230](https://nvd.nist.gov/vuln/detail/CVE-2026-133230) |  |  | Improper access control in the PAM provider endpoint in Devolutions Server 2026.3.14.0 and earlier allows an authentica… |
-| 2026-11-23 15:17:33 | [CVE-2026-133231](https://nvd.nist.gov/vuln/detail/CVE-2026-133231) |  |  | Stored cross-site scripting in the documentation editor in Devolutions Server 2026.3.14.0 and earlier allows an authent… |
-| 2026-11-23 15:17:33 | [CVE-2026-133232](https://nvd.nist.gov/vuln/detail/CVE-2026-133232) |  |  | Improper access control in the repository access request endpoint in Devolutions Server 2026.3.14.0 and earlier allows… |
-| 2026-11-23 15:17:34 | [CVE-2026-133249](https://nvd.nist.gov/vuln/detail/CVE-2026-133249) |  |  | Improper access control in the access request approval endpoint in Devolutions Server 2026.3.14.0 and earlier allows an… |
-| 2026-11-23 15:17:42 | [CVE-2026-135154](https://nvd.nist.gov/vuln/detail/CVE-2026-135154) | Medium | 6.0 | Tolgee before 3.242.5 fails to enforce email verification on the TOTP enable and recovery-code regeneration endpoints,… |
-| 2026-11-23 15:17:43 | [CVE-2026-135155](https://nvd.nist.gov/vuln/detail/CVE-2026-135155) | Medium | 5.3 | PodFetch 5.2.0 before 5.3.1 contains a missing authorization vulnerability in the Audiobookshelf-compatible POST /api/p… |
-| 2026-11-23 15:17:43 | [CVE-2026-135156](https://nvd.nist.gov/vuln/detail/CVE-2026-135156) | Medium | 6.9 | The weDevs Subscribe2 WordPress plugin 10.35 before 10.50 contains a missing authorization vulnerability that allows un… |
-| 2026-11-23 15:17:43 | [CVE-2026-135157](https://nvd.nist.gov/vuln/detail/CVE-2026-135157) | High | 8.6 | Future AGI before 1.51.0 contains an authentication bypass vulnerability in ACSView.post that allows authenticated memb… |
-| 2026-11-23 15:17:43 | [CVE-2026-135158](https://nvd.nist.gov/vuln/detail/CVE-2026-135158) | Low | 2.3 | Windmill 1.607.0 before 1.819.0 contains an authorization bypass vulnerability that allows workspace members to resume… |
-| 2026-11-23 15:17:44 | [CVE-2026-135159](https://nvd.nist.gov/vuln/detail/CVE-2026-135159) | Medium | 5.3 | Windmill 1.664.0 before 1.819.0 contains an authorization bypass vulnerability that allows any workspace member to mint… |
-| 2026-11-23 15:17:44 | [CVE-2026-135160](https://nvd.nist.gov/vuln/detail/CVE-2026-135160) | High | 7.1 | Medplum server 5.1.4 before 5.1.42 contains an incorrect authorization vulnerability in the Binary $presigned-url opera… |
-| 2026-11-23 15:17:44 | [CVE-2026-135161](https://nvd.nist.gov/vuln/detail/CVE-2026-135161) | Critical | 9.2 | Interstellar before 6.3.0 contains a server-side request forgery vulnerability that allows unauthenticated attackers to… |
-| 2026-11-23 15:17:44 | [CVE-2026-135162](https://nvd.nist.gov/vuln/detail/CVE-2026-135162) | Medium | 5.3 | Sim 0.5.61 before 0.9.41 contains an incorrect authorization vulnerability that allows write-level workspace members to… |
-| 2026-11-23 15:17:45 | [CVE-2026-135164](https://nvd.nist.gov/vuln/detail/CVE-2026-135164) | High | 8.7 | Formance Ledger 2.2.0-beta.3 before 2.4.18 contains an SQL injection vulnerability that allows remote API callers to ex… |
-| 2026-11-23 15:17:45 | [CVE-2026-135165](https://nvd.nist.gov/vuln/detail/CVE-2026-135165) | Medium | 6.9 | CISO Assistant before 4.2.3 contains a denial of service vulnerability that allows unauthenticated attackers to block a… |
-| 2026-11-23 15:17:45 | [CVE-2026-135166](https://nvd.nist.gov/vuln/detail/CVE-2026-135166) | Medium | 6.9 | Umbraco CMS 17.4.0 before 17.8.2 and 18.0.0 before 18.3.2 contains an information disclosure vulnerability because Memb… |
-| 2026-11-23 15:17:45 | [CVE-2026-135167](https://nvd.nist.gov/vuln/detail/CVE-2026-135167) | Medium | 6.8 | LibRaw 0.22.0 through 0.22.3 contains a heap out-of-bounds read vulnerability in HuffTable::len() because parse_dht() s… |
-| 2026-11-23 15:17:45 | [CVE-2026-135168](https://nvd.nist.gov/vuln/detail/CVE-2026-135168) | Medium | 6.3 | msgpack-c C++ library cpp-3.0.0 through cpp-9.0.0, when built with MSGPACK_USE_X3_PARSE, contains an out-of-bounds heap… |
-| 2026-11-23 15:17:45 | [CVE-2026-135169](https://nvd.nist.gov/vuln/detail/CVE-2026-135169) | High | 8.3 | msgpack-c C++ library cpp-3.0.0 through cpp-9.0.0 contains a use-after-free vulnerability in the Boost.X3 parser in inc… |
-| 2026-11-23 15:17:45 | [CVE-2026-135163](https://nvd.nist.gov/vuln/detail/CVE-2026-135163) | Critical | 9.1 | Okou API before 1.762.0 contains a missing authentication vulnerability in its Microsoft Teams, legacy Slack, and GitHu… |
-| 2026-11-23 15:17:46 | [CVE-2026-135170](https://nvd.nist.gov/vuln/detail/CVE-2026-135170) | High | 7.7 | Wing FTP Server before 8.2.8 contains a Lua code injection vulnerability that allows LDAP-authenticated users to inject… |
-| 2026-11-23 15:17:46 | [CVE-2026-135171](https://nvd.nist.gov/vuln/detail/CVE-2026-135171) | Critical | 9.2 | Wing FTP Server before 8.2.8 contains a predictable session identifier vulnerability that allows unauthenticated attack… |
-| 2026-11-23 15:17:46 | [CVE-2026-135172](https://nvd.nist.gov/vuln/detail/CVE-2026-135172) | Medium | 5.1 | Question2Answer through 1.8.8 contains a server-side request forgery vulnerability in the qa-include/ajax/version.php a… |
-| 2026-11-23 15:17:46 | [CVE-2026-135173](https://nvd.nist.gov/vuln/detail/CVE-2026-135173) | High | 8.7 | PdfPig through 0.1.16 contains an uncontrolled recursion vulnerability that allows attackers to crash applications by s… |
-| 2026-11-23 15:17:46 | [CVE-2026-135174](https://nvd.nist.gov/vuln/detail/CVE-2026-135174) | Critical | 9.2 | Softaculous Virtualizor before 3.2.9 contains an SQL injection vulnerability in enduser/auth_callback.php that allows u… |
-| 2026-11-23 15:17:46 | [CVE-2026-135175](https://nvd.nist.gov/vuln/detail/CVE-2026-135175) | High | 8.6 | ZITADEL 4.19.5 before 4.20.3 contains a host header injection vulnerability that allows unauthenticated attackers to re… |
-| 2026-11-23 15:17:47 | [CVE-2026-135176](https://nvd.nist.gov/vuln/detail/CVE-2026-135176) | Medium | 5.8 | LibRaw 0.22.3 contains a heap out-of-bounds write vulnerability in LibRaw::xtrans_interpolate() that allows attackers t… |
-| 2026-11-23 15:17:47 | [CVE-2026-135177](https://nvd.nist.gov/vuln/detail/CVE-2026-135177) | Medium | 5.7 | LibRaw through 0.22.3 contains an out-of-bounds read vulnerability in LibRaw::pentax_4shot_load_raw() that allows attac… |
-| 2026-11-23 15:17:54 | [CVE-2026-60076](https://nvd.nist.gov/vuln/detail/CVE-2026-60076) |  |  | Allocation of resources without limits or throttling vulnerability in Apache IoTDB. Unbounded in-memory materialization… |
-| 2026-11-23 15:17:55 | [CVE-2026-60077](https://nvd.nist.gov/vuln/detail/CVE-2026-60077) |  |  | Allocation of resources without limits or throttling vulnerability in Apache IoTDB. Authenticated REST clients can bypa… |
-| 2026-11-23 15:17:55 | [CVE-2026-60078](https://nvd.nist.gov/vuln/detail/CVE-2026-60078) |  |  | Allocation of resources without limits or throttling vulnerability in Apache IoTDB. Authenticated Grafana clients can b… |
-| 2026-11-23 15:17:55 | [CVE-2026-60079](https://nvd.nist.gov/vuln/detail/CVE-2026-60079) |  |  | Allocation of resources without limits or throttling vulnerability in Apache IoTDB. Authenticated REST clients can inse… |
+| 2026-11-23 16:17:25 | [CVE-2026-101220](https://nvd.nist.gov/vuln/detail/CVE-2026-101220) | Medium | 5.4 | Dell Enterprise Sonic Distribution, versions prior to 4.6.1, contains an Out-of-bounds Read vulnerability. An unauthent… |
+| 2026-11-23 16:17:25 | [CVE-2026-103782](https://nvd.nist.gov/vuln/detail/CVE-2026-103782) | Critical | 9.9 | Dell Enterprise Sonic Distribution, versions prior to 4.6.1, contains an Argument Injection vulnerability. A low privil… |
+| 2026-11-23 16:17:25 | [CVE-2026-107784](https://nvd.nist.gov/vuln/detail/CVE-2026-107784) | Medium | 6.3 | On Windows, the tarfile "tar" and "data" extraction filters did not reject member names or link targets that have a dri… |
+| 2026-11-23 16:17:26 | [CVE-2026-129975](https://nvd.nist.gov/vuln/detail/CVE-2026-129975) | High | 8.1 | A flaw was found in gpgme. When processing crafted input, an early return following memory reallocation can leave inter… |
+| 2026-11-23 16:17:28 | [CVE-2026-132779](https://nvd.nist.gov/vuln/detail/CVE-2026-132779) | Medium | 6.9 | When NGINX Plus or NGINX Open Source is configured to use TLS 1.3 early data using the ssl_early_data on directive, an… |
+| 2026-11-23 16:17:29 | [CVE-2026-133632](https://nvd.nist.gov/vuln/detail/CVE-2026-133632) | High | 7.8 | In astro-airflow-mcp 0.5.0 through 0.9.1, the af CLI and the MCP server send telemetry from a Python subprocess that ca… |
+| 2026-11-23 16:17:31 | [CVE-2026-134465](https://nvd.nist.gov/vuln/detail/CVE-2026-134465) | Medium | 5.8 | In mcp-server-git before 2026.10.28, the --repository restriction can be bypassed through a nested directory that conta… |
+| 2026-11-23 16:17:32 | [CVE-2026-134492](https://nvd.nist.gov/vuln/detail/CVE-2026-134492) | Low | 2.3 | In mcp-server-fetch from 2026.10.10 and before 2026.11.11, the check that blocks requests to non-public addresses treat… |
+| 2026-11-23 16:17:36 | [CVE-2026-135078](https://nvd.nist.gov/vuln/detail/CVE-2026-135078) | Medium | 5.1 | A vulnerability has been found in KeudellCoding User Location Map up to 1.2.5. Affected by this vulnerability is an unk… |
+| 2026-11-23 16:17:37 | [CVE-2026-135206](https://nvd.nist.gov/vuln/detail/CVE-2026-135206) | High | 7.1 | ToDesktop Builder before 0.36.1 contains a path traversal vulnerability in the todesktop-fs custom protocol handler tha… |
+| 2026-11-23 16:17:38 | [CVE-2026-135207](https://nvd.nist.gov/vuln/detail/CVE-2026-135207) | Medium | 5.3 | Healthchecks before 4.4 contains a verification bypass vulnerability that allows project users to mark arbitrary email… |
+| 2026-11-23 16:17:38 | [CVE-2026-135208](https://nvd.nist.gov/vuln/detail/CVE-2026-135208) | Critical | 9.3 | Kerberos Agent before 3.14.4 contains an authentication bypass vulnerability that allows unauthenticated attackers to f… |
+| 2026-11-23 16:17:38 | [CVE-2026-135209](https://nvd.nist.gov/vuln/detail/CVE-2026-135209) | High | 7.1 | ServerOS Panel before 1.10.1 contains a decompression bomb vulnerability in DeploySourcePacker::extract() that allows a… |
+| 2026-11-23 16:17:38 | [CVE-2026-135210](https://nvd.nist.gov/vuln/detail/CVE-2026-135210) | Medium | 5.3 | Plane before 1.5.0 contains a missing authorization vulnerability in WorkspaceDraftIssueViewSet that allows authenticat… |
+| 2026-11-23 16:17:38 | [CVE-2026-135211](https://nvd.nist.gov/vuln/detail/CVE-2026-135211) | Critical | 9.2 | BISHENG before 3.0.0 contains a missing authentication vulnerability in the /api/v2/workflow/invoke and /api/v2/workflo… |
+| 2026-11-23 16:17:38 | [CVE-2026-135212](https://nvd.nist.gov/vuln/detail/CVE-2026-135212) | Medium | 6.0 | AiSOC before 23.6.1 contains a missing authorization vulnerability in the agents service that allows authenticated user… |
+| 2026-11-23 16:17:39 | [CVE-2026-135213](https://nvd.nist.gov/vuln/detail/CVE-2026-135213) | Medium | 5.3 | Worklenz before 3.4.3 contains an insecure direct object reference vulnerability in GET /api/v1/activity-logs/:id that… |
+| 2026-11-23 16:17:39 | [CVE-2026-135231](https://nvd.nist.gov/vuln/detail/CVE-2026-135231) | Medium | 5.3 | MISP contains an authorization bypass in the galaxy cluster detachment functionality. Users holding the sync role permi… |
+| 2026-11-23 16:17:39 | [CVE-2026-135232](https://nvd.nist.gov/vuln/detail/CVE-2026-135232) | Medium | 5.3 | MISP Collections retained a sharing group reference (sharing_group_id) even when the collection's distribution level wa… |
+| 2026-11-23 16:17:39 | [CVE-2026-135233](https://nvd.nist.gov/vuln/detail/CVE-2026-135233) | Medium | 5.3 | MISP's interactive CLI shell, when used to edit or disable a user account, did not update the user record's modificatio… |
+| 2026-11-23 16:17:40 | [CVE-2026-135234](https://nvd.nist.gov/vuln/detail/CVE-2026-135234) | Medium | 4.8 | MISP contains a cross-site scripting (XSS) vulnerability in the feed and server event preview pages. When a remote MISP… |
+| 2026-11-23 16:17:40 | [CVE-2026-135235](https://nvd.nist.gov/vuln/detail/CVE-2026-135235) | Medium | 4.8 | MISP contains a stored cross-site script (XSS) vulnerability in the event review page used for merge, import, and enric… |
+| 2026-11-23 16:17:40 | [CVE-2026-135236](https://nvd.nist.gov/vuln/detail/CVE-2026-135236) | Medium | 6.2 | MISP contains a stored cross-site scripting (XSS) vulnerability in its map attachment rendering. When a GPX or GeoJSON… |
+| 2026-11-23 16:17:41 | [CVE-2026-135237](https://nvd.nist.gov/vuln/detail/CVE-2026-135237) | Medium | 6.2 | MISP contains a DOM-based Cross-Site Scripting (XSS) vulnerability in the event report element rendering pipeline. The… |
+| 2026-11-23 16:17:41 | [CVE-2026-135238](https://nvd.nist.gov/vuln/detail/CVE-2026-135238) | Medium | 4.8 | MISP contains a cross-site scripting (XSS) vulnerability in the Overmind server preview's analyst data badge component.… |
+| 2026-11-23 16:17:42 | [CVE-2026-135239](https://nvd.nist.gov/vuln/detail/CVE-2026-135239) | High | 8.3 | MISP contains an authorization flaw in the data capture and import paths for events, galaxies, galaxy clusters, analyst… |
+| 2026-11-23 16:17:42 | [CVE-2026-135240](https://nvd.nist.gov/vuln/detail/CVE-2026-135240) | Medium | 5.3 | MISP contains an authorization bypass in its tag attachment functionality. The endpoints responsible for editing event… |
+| 2026-11-23 16:17:42 | [CVE-2026-135241](https://nvd.nist.gov/vuln/detail/CVE-2026-135241) | Medium | 5.3 | MISP contains an authorization bypass vulnerability in the handling of Galaxy and Galaxy Cluster publish/unpublish oper… |
+| 2026-11-23 16:17:42 | [CVE-2026-135242](https://nvd.nist.gov/vuln/detail/CVE-2026-135242) | Medium | 6.3 | MISP contains an authorization flaw in the Sharing Group Blueprint execution path. When a blueprint is executed, it rew… |
+| 2026-11-23 16:17:43 | [CVE-2026-135243](https://nvd.nist.gov/vuln/detail/CVE-2026-135243) | Medium | 5.3 | MISP contains an authorization bypass vulnerability in the handling of sightings during server synchronization and bulk… |
+| 2026-11-23 16:17:43 | [CVE-2026-135244](https://nvd.nist.gov/vuln/detail/CVE-2026-135244) | Medium | 6.9 | MISP trusted client-supplied forwarded IP headers (such as X-Forwarded-For) without verifying that the request originat… |
+| 2026-11-23 16:17:43 | [CVE-2026-135245](https://nvd.nist.gov/vuln/detail/CVE-2026-135245) | Medium | 5.3 | MISP's LDAP authentication components (LdapAuth plugin and Apache LDAP authentication) unconditionally re-enabled user… |
+| 2026-11-23 16:17:43 | [CVE-2026-135247](https://nvd.nist.gov/vuln/detail/CVE-2026-135247) | Medium | 6.3 | MISP's LinOTPAuth plugin, used for one-time-password authentication against a LinOTP server, did not enforce TLS server… |
+| 2026-11-23 16:17:43 | [CVE-2026-135248](https://nvd.nist.gov/vuln/detail/CVE-2026-135248) | Medium | 5.1 | MISP contains a vulnerability in its password reset (forgot password) functionality where the base URL used to construc… |
+| 2026-11-23 16:17:44 | [CVE-2026-135249](https://nvd.nist.gov/vuln/detail/CVE-2026-135249) | High | 8.7 | MISP accepted compressed HTTP request bodies (gzip, brotli, zstd) and decompressed them before authentication was perfo… |
+| 2026-11-23 16:17:44 | [CVE-2026-135250](https://nvd.nist.gov/vuln/detail/CVE-2026-135250) | High | 7.1 | MISP contains a denial-of-service vulnerability in its image processing pipeline. When generating attachment thumbnails… |
+| 2026-11-23 16:17:44 | [CVE-2026-135252](https://nvd.nist.gov/vuln/detail/CVE-2026-135252) | High | 7.1 | MISP contains a Server-Side Request Forgery (SSRF) vulnerability in its feed and sync HTTP request handling. When the a… |
+| 2026-11-23 16:17:44 | [CVE-2026-135253](https://nvd.nist.gov/vuln/detail/CVE-2026-135253) | Medium | 5.3 | MISP's NIDS rule export functionality for Snort and Suricata formats does not properly escape user-controlled data befo… |
+| 2026-11-23 16:17:44 | [CVE-2026-135254](https://nvd.nist.gov/vuln/detail/CVE-2026-135254) | Medium | 5.1 | MISP is vulnerable to Cross-Site Request Forgery (CSRF) in its correlation management functionality. The top-correlatio… |
+| 2026-11-23 16:17:45 | [CVE-2026-135256](https://nvd.nist.gov/vuln/detail/CVE-2026-135256) | High | 7.1 | MISP contains a Regular Expression Denial of Service (ReDoS) vulnerability in its Warninglist feature. Warninglist entr… |
+| 2026-11-23 16:17:45 | [CVE-2026-135257](https://nvd.nist.gov/vuln/detail/CVE-2026-135257) | Medium | 5.3 | MISP contains an improper output sanitization vulnerability in the Zeek (Bro) intelligence export functionality. The ex… |
+| 2026-11-23 16:17:45 | [CVE-2026-135258](https://nvd.nist.gov/vuln/detail/CVE-2026-135258) | High | 7.1 | MISP contains multiple related authorization and input-validation flaws in its object editing and attachment handling w… |
+| 2026-11-23 16:17:45 | [CVE-2026-135259](https://nvd.nist.gov/vuln/detail/CVE-2026-135259) | Medium | 5.3 | MISP contains a type confusion vulnerability in the authentication key creation endpoint. When a user submits a floatin… |
+| 2026-11-23 16:17:46 | [CVE-2026-135260](https://nvd.nist.gov/vuln/detail/CVE-2026-135260) | Medium | 6.9 | MISP contains multiple flaws in its login and one-time-password (OTP) brute-force lockout mechanism that collectively w… |
+| 2026-11-23 16:17:46 | [CVE-2026-135261](https://nvd.nist.gov/vuln/detail/CVE-2026-135261) | Medium | 6.9 | MISP's brute-force lockout mechanism for login and one-time-password (OTP) authentication is susceptible to bypass thro… |
+| 2026-11-23 16:17:46 | [CVE-2026-135262](https://nvd.nist.gov/vuln/detail/CVE-2026-135262) | Medium | 6.2 | MISP contains a DOM-based cross-site scripting (XSS) vulnerability in the Pivot Explorer component. The bundled pivotic… |
+| 2026-11-23 16:18:05 | [CVE-2026-96457](https://nvd.nist.gov/vuln/detail/CVE-2026-96457) | High | 7.7 | A flaw was found in the administrative interface of Keycloak, an identity and access management solution. The issue occ… |
 
 ## Data source
 
