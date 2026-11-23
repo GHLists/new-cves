@@ -9,24 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 13:19 UTC
+## Latest list — 2026-11-23 14:18 UTC
 
-New CVEs published between 2026-11-23 12:18 UTC and 2026-11-23 13:19 UTC.
+New CVEs published between 2026-11-23 13:19 UTC and 2026-11-23 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T13-19-41-564575Z.csv)
+[Full CSV](data/new-cves-2026-11-23T14-18-43-629654Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 13:17:02 | [CVE-2026-116001](https://nvd.nist.gov/vuln/detail/CVE-2026-116001) |  |  | NULL pointer dereference vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_04 through 2.0.13. Use… |
-| 2026-11-23 13:17:02 | [CVE-2026-116005](https://nvd.nist.gov/vuln/detail/CVE-2026-116005) |  |  | Fixed-size stack buffer overflow vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_01 through 2.0… |
-| 2026-11-23 13:17:02 | [CVE-2026-116032](https://nvd.nist.gov/vuln/detail/CVE-2026-116032) |  |  | Stack buffer overflow vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_01 through 2.0.13. Users… |
-| 2026-11-23 13:17:02 | [CVE-2026-116043](https://nvd.nist.gov/vuln/detail/CVE-2026-116043) |  |  | NULL pointer dereference, Out-of-bounds read vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_01… |
-| 2026-11-23 13:17:03 | [CVE-2026-116772](https://nvd.nist.gov/vuln/detail/CVE-2026-116772) |  |  | OOB read vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_07 through 2.0.13. Users are recommend… |
-| 2026-11-23 13:17:03 | [CVE-2026-116799](https://nvd.nist.gov/vuln/detail/CVE-2026-116799) |  |  | OOB read vulnerability in Apache Perl. This issue affects Apache Perl: from 1.99_01 through 2.0.13. Note: The over-read… |
-| 2026-11-23 13:17:03 | [CVE-2026-125651](https://nvd.nist.gov/vuln/detail/CVE-2026-125651) |  |  | Cleartext storage in encrypted parquet file vulnerability in Apache Arrow Rust (`parquet` crate), from version 55.0.0 t… |
-| 2026-11-23 13:17:05 | [CVE-2026-134925](https://nvd.nist.gov/vuln/detail/CVE-2026-134925) | Medium | 5.1 | A security flaw has been discovered in yangzongzhuan RuoYi up to 4.8.3. Affected is the function renderUserCards of the… |
-| 2026-11-23 13:17:05 | [CVE-2026-53672](https://nvd.nist.gov/vuln/detail/CVE-2026-53672) | Medium | 6.5 | A bug related to the Zookeeper HTTP endpoints in Apache Solr allows an authenticated attacker with zk-read permission t… |
-| 2026-11-23 13:17:06 | [CVE-2026-86312](https://nvd.nist.gov/vuln/detail/CVE-2026-86312) | High | 8.8 | Under some configurations a request to the ping endpoint could carry out more than a simple health check. In deployment… |
+| 2026-11-23 14:17:22 | [CVE-2026-119068](https://nvd.nist.gov/vuln/detail/CVE-2026-119068) | High | 8.4 | An rsync server can send diagnostic data to the client which is mirrored to stdout and collected by Routinator line by… |
+| 2026-11-23 14:17:22 | [CVE-2026-119069](https://nvd.nist.gov/vuln/detail/CVE-2026-119069) | High | 8.4 | When rejecting a publication point midway during processing amd falling back to the stored version of the publication p… |
+| 2026-11-23 14:17:23 | [CVE-2026-132856](https://nvd.nist.gov/vuln/detail/CVE-2026-132856) | High | 7.8 | A vulnerability was discovered in the ZoneAlarm client for Windows that allows a low-privileged local user to run code… |
+| 2026-11-23 14:17:25 | [CVE-2026-134927](https://nvd.nist.gov/vuln/detail/CVE-2026-134927) | Medium | 4.8 | A weakness has been identified in phpBB up to 3.3.19. Affected by this vulnerability is the function phpbb_get_user_ran… |
+| 2026-11-23 14:17:27 | [CVE-2026-93585](https://nvd.nist.gov/vuln/detail/CVE-2026-93585) | High | 8.8 | An improper authorization vulnerability in the EV Reach Client Agent allows authenticated users with low privileges to… |
 
 ## Data source
 
