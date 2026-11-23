@@ -9,18 +9,19 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 03:18 UTC
+## Latest list — 2026-11-23 04:20 UTC
 
-New CVEs published between 2026-11-23 02:20 UTC and 2026-11-23 03:18 UTC.
+New CVEs published between 2026-11-23 03:18 UTC and 2026-11-23 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-23T03-18-49-115142Z.csv)
+[Full CSV](data/new-cves-2026-11-23T04-20-35-097694Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-23 03:17:07 | [CVE-2026-134786](https://nvd.nist.gov/vuln/detail/CVE-2026-134786) | Medium | 5.3 | A vulnerability has been found in Xuxueli xxl-job 3.5.0/3.5.1-SNAPSHOT. The affected element is an unknown function of… |
-| 2026-11-23 03:17:07 | [CVE-2026-134787](https://nvd.nist.gov/vuln/detail/CVE-2026-134787) | Medium | 5.5 | A vulnerability was identified in code-projects Intern Record System 1.0. This impacts an unknown function of the file… |
-| 2026-11-23 03:17:08 | [CVE-2026-134788](https://nvd.nist.gov/vuln/detail/CVE-2026-134788) | Medium | 5.5 | A security flaw has been discovered in warpdesign pcx-js up to 1.1.1. Affected is the function decode8bpp/decode4bpp of… |
-| 2026-11-23 03:17:08 | [CVE-2026-134789](https://nvd.nist.gov/vuln/detail/CVE-2026-134789) | Medium | 6.9 | A weakness has been identified in DumbWareio DumbAssets up to 1.0.11. Affected by this vulnerability is an unknown func… |
+| 2026-11-23 04:17:58 | [CVE-2026-129830](https://nvd.nist.gov/vuln/detail/CVE-2026-129830) | Medium | 4.7 | When the rsyslog's `imuxsock` is parsing the TAG field from a message with a accepted shorter timestamp, the cursor use… |
+| 2026-11-23 04:17:58 | [CVE-2026-134850](https://nvd.nist.gov/vuln/detail/CVE-2026-134850) | Medium | 6.9 | A security vulnerability has been detected in aceberg WatchYourLAN up to 2.1.4. Affected by this issue is the function… |
+| 2026-11-23 04:17:59 | [CVE-2026-134851](https://nvd.nist.gov/vuln/detail/CVE-2026-134851) | Medium | 6.9 | A vulnerability was detected in leonkhoo123 self-hosting-file-uploader up to 473e38ff8fba494f33a485730c6d95c5d8c536ea.… |
+| 2026-11-23 04:17:59 | [CVE-2026-134852](https://nvd.nist.gov/vuln/detail/CVE-2026-134852) | Medium | 5.5 | A flaw has been found in shaozilee bmp-js up to 0.1.0. This vulnerability affects the function BmpDecoder.parseRGBA of… |
+| 2026-11-23 04:17:59 | [CVE-2026-134853](https://nvd.nist.gov/vuln/detail/CVE-2026-134853) | Medium | 5.5 | A vulnerability has been found in vthibault tga-js up to 1.1.1. This issue affects the function _decodeRLE of the file… |
 
 ## Data source
 
