@@ -9,26 +9,34 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 10:18 UTC
+## Latest list — 2026-11-24 11:18 UTC
 
-New CVEs published between 2026-11-24 09:20 UTC and 2026-11-24 10:18 UTC.
+New CVEs published between 2026-11-24 10:18 UTC and 2026-11-24 11:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-24T10-18-43-36283Z.csv)
+[Full CSV](data/new-cves-2026-11-24T11-18-32-218693Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-24 10:17:46 | [CVE-2026-118878](https://nvd.nist.gov/vuln/detail/CVE-2026-118878) | Medium | 5.5 | A logical flaw vulnerability exists in the ZTE Nubia RedMagic 9S Pro+. Successful exploitation of this vulnerability ma… |
-| 2026-11-24 10:17:46 | [CVE-2026-118879](https://nvd.nist.gov/vuln/detail/CVE-2026-118879) | Low | 3.3 | Z80 Ultra is affected by an information disclosure vulnerability in service interfaces related to application scenarios… |
-| 2026-11-24 10:17:46 | [CVE-2026-118880](https://nvd.nist.gov/vuln/detail/CVE-2026-118880) | Medium | 4.8 | Z80 Ultra product has an improper access control vulnerability in the game assistant module. Successful exploitation of… |
-| 2026-11-24 10:17:46 | [CVE-2026-118890](https://nvd.nist.gov/vuln/detail/CVE-2026-118890) | Medium | 4.4 | Z80 Ultra product has an improper modification control vulnerability. Successful exploitation of this vulnerability may… |
-| 2026-11-24 10:17:48 | [CVE-2026-120937](https://nvd.nist.gov/vuln/detail/CVE-2026-120937) | Medium | 5.1 | A reflected cross-site scripting (XSS) vulnerability exists in the initialization component of ADM. When the NAS is uni… |
-| 2026-11-24 10:17:48 | [CVE-2026-120938](https://nvd.nist.gov/vuln/detail/CVE-2026-120938) | Medium | 5.1 | Insufficient bounds checks in the Link Aggregation handler of ASUSTOR ADM allow an authenticated administrator to submi… |
-| 2026-11-24 10:17:48 | [CVE-2026-120939](https://nvd.nist.gov/vuln/detail/CVE-2026-120939) | Medium | 5.1 | A heap-based buffer overflow vulnerability in the Wi-Fi connection handler of ADM allows an authenticated administrator… |
-| 2026-11-24 10:17:49 | [CVE-2026-120949](https://nvd.nist.gov/vuln/detail/CVE-2026-120949) | High | 7.1 | An improper authorization vulnerability exists in the wallpaper component of ADM. An authenticated, low-privileged user… |
-| 2026-11-24 10:17:49 | [CVE-2026-124828](https://nvd.nist.gov/vuln/detail/CVE-2026-124828) | High | 7.1 | Authorization bypass using a user-controlled token (IDOR) on the GlobalEduca job portal. The GET endpoint ‘/attachments… |
-| 2026-11-24 10:17:49 | [CVE-2026-134894](https://nvd.nist.gov/vuln/detail/CVE-2026-134894) | High | 7.0 | An SQL injection vulnerability exists in the firewall management component of ADM Defender due to insufficient validati… |
-| 2026-11-24 10:17:49 | [CVE-2026-135125](https://nvd.nist.gov/vuln/detail/CVE-2026-135125) | Medium | 6.8 | In Eclipse BaSyx Java Server SDK versions 2.0.0-milestone-10 to 2.0.0-milestone-16, the destination validation of the O… |
-| 2026-11-24 10:17:50 | [CVE-2026-19881](https://nvd.nist.gov/vuln/detail/CVE-2026-19881) | High | 8.6 | Cross-site scripting in the conversation file-sharing feature of Unblu inc. Unblu Spark 7.0 through 7.57.10 and 8.0 bef… |
+| 2026-11-24 11:17:05 | [CVE-2026-108368](https://nvd.nist.gov/vuln/detail/CVE-2026-108368) |  |  | Missing authorization in the workflow compiling service of Apache Texera allows a logged-in user to read the column nam… |
+| 2026-11-24 11:17:06 | [CVE-2026-108765](https://nvd.nist.gov/vuln/detail/CVE-2026-108765) |  |  | Missing authorization in the workflow export service of Apache Texera allows a logged-in user to potentially read the r… |
+| 2026-11-24 11:17:06 | [CVE-2026-112788](https://nvd.nist.gov/vuln/detail/CVE-2026-112788) |  |  | Missing Authentication for Critical Function in Apache Texera (incubating). The Python virtual environment (PVE) manage… |
+| 2026-11-24 11:17:08 | [CVE-2026-124829](https://nvd.nist.gov/vuln/detail/CVE-2026-124829) | Medium | 6.3 | Stored Cross-Site Scripting (XSS) in 'carta_presentacion[contenido]' field in the POST request to '/personas/{persona_i… |
+| 2026-11-24 11:17:08 | [CVE-2026-124830](https://nvd.nist.gov/vuln/detail/CVE-2026-124830) | Medium | 6.3 | Uploading PDF files with active content to the languages form. The POST endpoint ‘/people/{person_id}/languages’ checks… |
+| 2026-11-24 11:17:08 | [CVE-2026-124831](https://nvd.nist.gov/vuln/detail/CVE-2026-124831) | Medium | 6.3 | Stored Cross-Site Scripting (XSS) in 'experiencia_laboral[descripcion]' field in the POST request to '/personas/{person… |
+| 2026-11-24 11:17:08 | [CVE-2026-124832](https://nvd.nist.gov/vuln/detail/CVE-2026-124832) | Medium | 6.3 | Stored Cross-Site Scripting (XSS) in 'activity[description]' field in the POST request to '/people/{person_id}/cvs/{cv_… |
+| 2026-11-24 11:17:09 | [CVE-2026-127180](https://nvd.nist.gov/vuln/detail/CVE-2026-127180) | Medium | 5.0 | The SUSE NeuVector image scanner before version 4.331 writes each per-scan task request to a temporary file on disk wit… |
+| 2026-11-24 11:17:09 | [CVE-2026-127182](https://nvd.nist.gov/vuln/detail/CVE-2026-127182) | High | 8.8 | A stack buffer overflow in DLP/WAF in the enforcer dataplane of SUSE NeuVector before 5.5, 5.5 before 5.5.6, 5.6.0 befo… |
+| 2026-11-24 11:17:09 | [CVE-2026-127183](https://nvd.nist.gov/vuln/detail/CVE-2026-127183) | High | 7.5 | Various memory-safety issues in dataplane of SUSE Neuvector before 5.5, 5.5.0 before 5.5.6, 5.6.0 before 5.6.5 could be… |
+| 2026-11-24 11:17:20 | [CVE-2026-59415](https://nvd.nist.gov/vuln/detail/CVE-2026-59415) | Critical | 10.0 | TypesenseVectorStore is vulnerable to a document ID injection in its delete operation that can cause unintended documen… |
+| 2026-11-24 11:17:20 | [CVE-2026-82442](https://nvd.nist.gov/vuln/detail/CVE-2026-82442) |  |  | Description `HostURLFilter.configure` reads the `ignoreOutsideDomain` parameter but tests the node belonging to `ignore… |
+| 2026-11-24 11:17:21 | [CVE-2026-82444](https://nvd.nist.gov/vuln/detail/CVE-2026-82444) |  |  | Description `CookieConverter.getCookies` decides which stored cookies to attach to an outbound request. The applicabili… |
+| 2026-11-24 11:17:21 | [CVE-2026-82445](https://nvd.nist.gov/vuln/detail/CVE-2026-82445) |  |  | Description The SQL status backend serialises per-URL metadata into a single column by concatenating a tabulation, the… |
+| 2026-11-24 11:17:21 | [CVE-2026-82446](https://nvd.nist.gov/vuln/detail/CVE-2026-82446) |  |  | Description When StormCrawler fetches a host's `/robots.txt` and receives a redirect, `HttpRobotRulesParser` resolves t… |
+| 2026-11-24 11:17:21 | [CVE-2026-96296](https://nvd.nist.gov/vuln/detail/CVE-2026-96296) |  |  | An API which can allow a user to delete any workflow execution results is missing authentication. This means that any w… |
+| 2026-11-24 11:17:21 | [CVE-2026-96298](https://nvd.nist.gov/vuln/detail/CVE-2026-96298) |  |  | Missing Authorization vulnerability in the computing unit workflow websocket of Apache Texera (incubating) allows an au… |
+| 2026-11-24 11:17:21 | [CVE-2026-96353](https://nvd.nist.gov/vuln/detail/CVE-2026-96353) |  |  | Missing Authorization vulnerability in the project REST API of Apache Texera (incubating). The project API did not chec… |
+| 2026-11-24 11:17:21 | [CVE-2026-96354](https://nvd.nist.gov/vuln/detail/CVE-2026-96354) |  |  | Missing Authorization vulnerability in the public project REST API of Apache Texera (incubating). The public project AP… |
+| 2026-11-24 11:17:22 | [CVE-2026-97893](https://nvd.nist.gov/vuln/detail/CVE-2026-97893) | Medium | 6.6 | A Denial of Service (DoS) vulnerability exists in the ARQ SPARQL Query Optimiser in Apache Jena ARQ prior to version 6.… |
 
 ## Data source
 
