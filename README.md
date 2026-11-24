@@ -9,36 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 09:20 UTC
+## Latest list — 2026-11-24 10:18 UTC
 
-New CVEs published between 2026-11-24 08:21 UTC and 2026-11-24 09:20 UTC.
+New CVEs published between 2026-11-24 09:20 UTC and 2026-11-24 10:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-24T09-20-27-913579Z.csv)
+[Full CSV](data/new-cves-2026-11-24T10-18-43-36283Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-24 09:17:05 | [CVE-2026-120933](https://nvd.nist.gov/vuln/detail/CVE-2026-120933) | High | 7.0 | A cleartext transmission of sensitive information vulnerability in the ADM Notifications allows network eavesdroppers o… |
-| 2026-11-24 09:17:06 | [CVE-2026-120941](https://nvd.nist.gov/vuln/detail/CVE-2026-120941) | High | 8.3 | An improper certificate validation vulnerability exists in ADM App Central, due to disabled peer verification within th… |
-| 2026-11-24 09:17:06 | [CVE-2026-120942](https://nvd.nist.gov/vuln/detail/CVE-2026-120942) | Medium | 6.7 | A path traversal vulnerability in the regional options of ADM allows attackers to read arbitrary files on the system. T… |
-| 2026-11-24 09:17:06 | [CVE-2026-120943](https://nvd.nist.gov/vuln/detail/CVE-2026-120943) | High | 7.7 | An improper TLS certificate validation vulnerability exists in the ADM online update service. An unauthenticated attack… |
-| 2026-11-24 09:17:06 | [CVE-2026-120944](https://nvd.nist.gov/vuln/detail/CVE-2026-120944) | High | 8.6 | A stack-based buffer overflow vulnerability in the ADM allows remote authenticated administrators to cause a denial of… |
-| 2026-11-24 09:17:06 | [CVE-2026-120945](https://nvd.nist.gov/vuln/detail/CVE-2026-120945) | High | 8.3 | A relative path traversal vulnerability in the FTP Backup of ADM, allows an attacker controlling a configured FTP serve… |
-| 2026-11-24 09:17:06 | [CVE-2026-120950](https://nvd.nist.gov/vuln/detail/CVE-2026-120950) | Medium | 5.1 | A stack-based buffer overflow vulnerability exists in the IP block management component of ADM due to insufficient inpu… |
-| 2026-11-24 09:17:06 | [CVE-2026-133774](https://nvd.nist.gov/vuln/detail/CVE-2026-133774) | Medium | 6.3 | A live component protected by #[IsGranted], on its class or on its default action, can be rendered by a caller who is n… |
-| 2026-11-24 09:17:07 | [CVE-2026-133775](https://nvd.nist.gov/vuln/detail/CVE-2026-133775) | Medium | 5.3 | The fix for CVE-2026-55877 (GHSA-6v8j-33hc-mv84) sanitizes the SVG of icons before they are rendered inline. It removes… |
-| 2026-11-24 09:17:07 | [CVE-2026-133776](https://nvd.nist.gov/vuln/detail/CVE-2026-133776) | Medium | 5.3 | The fix for CVE-2026-55877 (GHSA-6v8j-33hc-mv84) sanitizes the SVG of icons before they are rendered inline. When the s… |
-| 2026-11-24 09:17:07 | [CVE-2026-133777](https://nvd.nist.gov/vuln/detail/CVE-2026-133777) | Medium | 5.3 | The fix for CVE-2026-55877 (GHSA-6v8j-33hc-mv84) sanitizes the SVG of icons before they are rendered inline. Browsers p… |
-| 2026-11-24 09:17:07 | [CVE-2026-133778](https://nvd.nist.gov/vuln/detail/CVE-2026-133778) | Medium | 6.3 | #[AsLiveComponent(route: '...')] makes a live component send its requests to another route. The documentation suggests… |
-| 2026-11-24 09:17:07 | [CVE-2026-133779](https://nvd.nist.gov/vuln/detail/CVE-2026-133779) | Medium | 5.3 | The fix for CVE-2026-55877 (GHSA-6v8j-33hc-mv84) sanitizes the SVG of icons before they are rendered inline. The checks… |
-| 2026-11-24 09:17:07 | [CVE-2026-133780](https://nvd.nist.gov/vuln/detail/CVE-2026-133780) | High | 7.3 | The @symfony/stimulus-bridge npm package includes a Webpack loader called lazy-controller-loader that supports "magic c… |
-| 2026-11-24 09:17:07 | [CVE-2026-133781](https://nvd.nist.gov/vuln/detail/CVE-2026-133781) | High | 7.3 | The controllers.json loader of @symfony/stimulus-bridge loads the package.json file of each package listed in controlle… |
-| 2026-11-24 09:17:08 | [CVE-2026-134895](https://nvd.nist.gov/vuln/detail/CVE-2026-134895) | High | 8.2 | A path traversal vulnerability in the File Explorer share-link upload component allows a remote attacker with a folder-… |
-| 2026-11-24 09:17:08 | [CVE-2026-134898](https://nvd.nist.gov/vuln/detail/CVE-2026-134898) | High | 8.7 | A path traversal vulnerability in the File Explorer share-link folder-listing endpoint allows a remote attacker with a… |
-| 2026-11-24 09:17:08 | [CVE-2026-135801](https://nvd.nist.gov/vuln/detail/CVE-2026-135801) |  |  | Since the fix for CVE-2025-64500, Request::getPathInfo() strips the script name from the start of the URL. It does so e… |
-| 2026-11-24 09:17:08 | [CVE-2026-135802](https://nvd.nist.gov/vuln/detail/CVE-2026-135802) |  |  | When Request::getBaseUrl() does not find the script name at the start of the request URI, it looks for it further into… |
-| 2026-11-24 09:17:08 | [CVE-2026-135803](https://nvd.nist.gov/vuln/detail/CVE-2026-135803) |  |  | Most methods of Symfony\Component\Filesystem\Path rely on Path::split(), which takes everything before the first :// as… |
-| 2026-11-24 09:17:08 | [CVE-2026-135804](https://nvd.nist.gov/vuln/detail/CVE-2026-135804) |  |  | The fix for CVE-2026-45756 lowers pcre.backtrack_limit to 10000 around each preg_match() call of the match() and search… |
-| 2026-11-24 09:17:09 | [CVE-2026-78338](https://nvd.nist.gov/vuln/detail/CVE-2026-78338) | Medium | 6.3 | Missing authentication in the conversation session resource handling of Unblu inc. Unblu Spark 7.0 through 7.57.10 and… |
+| 2026-11-24 10:17:46 | [CVE-2026-118878](https://nvd.nist.gov/vuln/detail/CVE-2026-118878) | Medium | 5.5 | A logical flaw vulnerability exists in the ZTE Nubia RedMagic 9S Pro+. Successful exploitation of this vulnerability ma… |
+| 2026-11-24 10:17:46 | [CVE-2026-118879](https://nvd.nist.gov/vuln/detail/CVE-2026-118879) | Low | 3.3 | Z80 Ultra is affected by an information disclosure vulnerability in service interfaces related to application scenarios… |
+| 2026-11-24 10:17:46 | [CVE-2026-118880](https://nvd.nist.gov/vuln/detail/CVE-2026-118880) | Medium | 4.8 | Z80 Ultra product has an improper access control vulnerability in the game assistant module. Successful exploitation of… |
+| 2026-11-24 10:17:46 | [CVE-2026-118890](https://nvd.nist.gov/vuln/detail/CVE-2026-118890) | Medium | 4.4 | Z80 Ultra product has an improper modification control vulnerability. Successful exploitation of this vulnerability may… |
+| 2026-11-24 10:17:48 | [CVE-2026-120937](https://nvd.nist.gov/vuln/detail/CVE-2026-120937) | Medium | 5.1 | A reflected cross-site scripting (XSS) vulnerability exists in the initialization component of ADM. When the NAS is uni… |
+| 2026-11-24 10:17:48 | [CVE-2026-120938](https://nvd.nist.gov/vuln/detail/CVE-2026-120938) | Medium | 5.1 | Insufficient bounds checks in the Link Aggregation handler of ASUSTOR ADM allow an authenticated administrator to submi… |
+| 2026-11-24 10:17:48 | [CVE-2026-120939](https://nvd.nist.gov/vuln/detail/CVE-2026-120939) | Medium | 5.1 | A heap-based buffer overflow vulnerability in the Wi-Fi connection handler of ADM allows an authenticated administrator… |
+| 2026-11-24 10:17:49 | [CVE-2026-120949](https://nvd.nist.gov/vuln/detail/CVE-2026-120949) | High | 7.1 | An improper authorization vulnerability exists in the wallpaper component of ADM. An authenticated, low-privileged user… |
+| 2026-11-24 10:17:49 | [CVE-2026-124828](https://nvd.nist.gov/vuln/detail/CVE-2026-124828) | High | 7.1 | Authorization bypass using a user-controlled token (IDOR) on the GlobalEduca job portal. The GET endpoint ‘/attachments… |
+| 2026-11-24 10:17:49 | [CVE-2026-134894](https://nvd.nist.gov/vuln/detail/CVE-2026-134894) | High | 7.0 | An SQL injection vulnerability exists in the firewall management component of ADM Defender due to insufficient validati… |
+| 2026-11-24 10:17:49 | [CVE-2026-135125](https://nvd.nist.gov/vuln/detail/CVE-2026-135125) | Medium | 6.8 | In Eclipse BaSyx Java Server SDK versions 2.0.0-milestone-10 to 2.0.0-milestone-16, the destination validation of the O… |
+| 2026-11-24 10:17:50 | [CVE-2026-19881](https://nvd.nist.gov/vuln/detail/CVE-2026-19881) | High | 8.6 | Cross-site scripting in the conversation file-sharing feature of Unblu inc. Unblu Spark 7.0 through 7.57.10 and 8.0 bef… |
 
 ## Data source
 
