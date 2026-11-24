@@ -9,40 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:18 UTC
+## Latest list — 2026-11-24 01:19 UTC
 
-New CVEs published between 2026-11-23 23:20 UTC and 2026-11-24 00:18 UTC.
+New CVEs published between 2026-11-24 00:18 UTC and 2026-11-24 01:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-24T00-18-31-91105Z.csv)
+[Full CSV](data/new-cves-2026-11-24T01-19-42-734706Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-24 00:17:27 | [CVE-2026-120747](https://nvd.nist.gov/vuln/detail/CVE-2026-120747) | High | 8.8 | Tanium addressed a command injection vulnerability in Comply. |
-| 2026-11-24 00:17:28 | [CVE-2026-124851](https://nvd.nist.gov/vuln/detail/CVE-2026-124851) |  |  | An information disclosure vulnerability in Zstandard versions 1.5.1 through 1.5.7 allows specially crafted compressed d… |
-| 2026-11-24 00:17:28 | [CVE-2026-131650](https://nvd.nist.gov/vuln/detail/CVE-2026-131650) | Medium | 6.5 | Tanium addressed an information disclosure vulnerability. |
-| 2026-11-24 00:17:29 | [CVE-2026-131696](https://nvd.nist.gov/vuln/detail/CVE-2026-131696) | Low | 3.3 | Tanium addressed an uncontrolled resource consumption vulnerability in Index. |
-| 2026-11-24 00:17:29 | [CVE-2026-133863](https://nvd.nist.gov/vuln/detail/CVE-2026-133863) | High | 8.8 | Tanium addressed an improper access controls vulnerability in Tanium Server. |
-| 2026-11-24 00:17:29 | [CVE-2026-133864](https://nvd.nist.gov/vuln/detail/CVE-2026-133864) | High | 8.8 | Tanium addressed a command injection vulnerability in Default Content. |
-| 2026-11-24 00:17:29 | [CVE-2026-133877](https://nvd.nist.gov/vuln/detail/CVE-2026-133877) | Medium | 6.6 | Tanium addressed an insertion of sensitive information into log file vulnerability in Connect. |
-| 2026-11-24 00:17:29 | [CVE-2026-133880](https://nvd.nist.gov/vuln/detail/CVE-2026-133880) | High | 8.8 | Tanium addressed a command injection vulnerability in Threat Response. |
-| 2026-11-24 00:17:29 | [CVE-2026-133955](https://nvd.nist.gov/vuln/detail/CVE-2026-133955) | High | 7.1 | Tanium addressed an improper input validation vulnerability in Core Content. |
-| 2026-11-24 00:17:29 | [CVE-2026-133959](https://nvd.nist.gov/vuln/detail/CVE-2026-133959) | High | 8.8 | Tanium addressed a command injection vulnerability in Core Content - Enhanced Tags. |
-| 2026-11-24 00:17:29 | [CVE-2026-133960](https://nvd.nist.gov/vuln/detail/CVE-2026-133960) | High | 8.8 | Tanium addressed an unauthorized code execution vulnerability in the Tanium Default Content. |
-| 2026-11-24 00:17:30 | [CVE-2026-133961](https://nvd.nist.gov/vuln/detail/CVE-2026-133961) | High | 7.2 | Tanium addressed an unauthorized code execution vulnerability in the Tanium Default Content. |
-| 2026-11-24 00:17:30 | [CVE-2026-134178](https://nvd.nist.gov/vuln/detail/CVE-2026-134178) | Medium | 4.2 | Tanium addressed a server-side request forgery vulnerability in Partner Integration |
-| 2026-11-24 00:17:30 | [CVE-2026-134346](https://nvd.nist.gov/vuln/detail/CVE-2026-134346) | Medium | 5.5 | Tanium addressed an information disclosure vulnerability in Enforce Recovery Key Portal. |
-| 2026-11-24 00:17:30 | [CVE-2026-134401](https://nvd.nist.gov/vuln/detail/CVE-2026-134401) |  |  | Improper input validation in Variations in Google Chrome prior to 158.0.8127.88 allowed a remote attacker to potentiall… |
-| 2026-11-24 00:17:30 | [CVE-2026-134443](https://nvd.nist.gov/vuln/detail/CVE-2026-134443) | Medium | 5.3 | Tanium addressed an uncontrolled resource consumption vulnerability in Enforce Recovery Key Portal. |
-| 2026-11-24 00:17:30 | [CVE-2026-134493](https://nvd.nist.gov/vuln/detail/CVE-2026-134493) | High | 7.5 | Tanium addressed a path traversal vulnerability in Core Content. |
-| 2026-11-24 00:17:30 | [CVE-2026-134494](https://nvd.nist.gov/vuln/detail/CVE-2026-134494) | High | 8.0 | Tanium addressed an argument injection vulnerability in Core Content. |
-| 2026-11-24 00:17:31 | [CVE-2026-134496](https://nvd.nist.gov/vuln/detail/CVE-2026-134496) | High | 7.3 | Tanium addressed an improper input validation vulnerability in Core Content. |
-| 2026-11-24 00:17:31 | [CVE-2026-134618](https://nvd.nist.gov/vuln/detail/CVE-2026-134618) | High | 7.3 | Tanium addressed a local privilege escalation vulnerability in Emerging Issues Content. |
-| 2026-11-24 00:17:31 | [CVE-2026-134619](https://nvd.nist.gov/vuln/detail/CVE-2026-134619) | High | 7.3 | Tanium addressed a local privilege escalation vulnerability in Emerging Issues Content. |
-| 2026-11-24 00:17:31 | [CVE-2026-134620](https://nvd.nist.gov/vuln/detail/CVE-2026-134620) | High | 8.8 | Tanium addressed a command injection vulnerability in Engage. |
-| 2026-11-24 00:17:31 | [CVE-2026-134739](https://nvd.nist.gov/vuln/detail/CVE-2026-134739) | Medium | 6.5 | Tanium addressed a denial of service vulnerability in Tanium Server. |
-| 2026-11-24 00:17:31 | [CVE-2026-134740](https://nvd.nist.gov/vuln/detail/CVE-2026-134740) | Medium | 5.9 | Tanium addressed a denial of service vulnerability in Tanium Zone Server. |
-| 2026-11-24 00:17:31 | [CVE-2026-134746](https://nvd.nist.gov/vuln/detail/CVE-2026-134746) | Low | 2.4 | Tanium addressed a denial of service vulnerability in Tanium Zone Server. |
-| 2026-11-24 00:17:31 | [CVE-2026-135121](https://nvd.nist.gov/vuln/detail/CVE-2026-135121) | Medium | 5.0 | Tanium addressed an improper input validation vulnerability in Core Content - MSSQL. |
+| 2026-11-24 01:17:22 | [CVE-2026-132270](https://nvd.nist.gov/vuln/detail/CVE-2026-132270) | Medium | 4.3 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 01:17:23 | [CVE-2026-133448](https://nvd.nist.gov/vuln/detail/CVE-2026-133448) | High | 7.1 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 01:17:31 | [CVE-2026-135419](https://nvd.nist.gov/vuln/detail/CVE-2026-135419) | Low | 2.1 | A vulnerability was determined in itsourcecode Airline Reservation System 1.0. This affects an unknown part of the file… |
+| 2026-11-24 01:17:31 | [CVE-2026-135684](https://nvd.nist.gov/vuln/detail/CVE-2026-135684) | Low | 2.3 | SparkyFitness before 1.12.0 contains a missing ownership check in getNutritionixHeaders that allows authenticated users… |
+| 2026-11-24 01:17:31 | [CVE-2026-135685](https://nvd.nist.gov/vuln/detail/CVE-2026-135685) | Low | 2.3 | SparkyFitness before 1.12.0 contains a weak password change vulnerability that allows attackers with a victim's session… |
+| 2026-11-24 01:17:31 | [CVE-2026-135686](https://nvd.nist.gov/vuln/detail/CVE-2026-135686) | Critical | 9.1 | Trilium through 0.107.0 contains an sql injection vulnerability in updateNormalEntity() that allows malicious sync part… |
+| 2026-11-24 01:17:32 | [CVE-2026-135687](https://nvd.nist.gov/vuln/detail/CVE-2026-135687) | Low | 2.3 | Arcane before 3.0.0 fails to enforce the requiresPasswordChange account flag on the server, allowing attackers with ini… |
+| 2026-11-24 01:17:32 | [CVE-2026-135688](https://nvd.nist.gov/vuln/detail/CVE-2026-135688) | Medium | 6.9 | Idno through 1.6.4 contains an unauthenticated blind server-side request forgery vulnerability in the /webmention/ endp… |
+| 2026-11-24 01:17:32 | [CVE-2026-135689](https://nvd.nist.gov/vuln/detail/CVE-2026-135689) | High | 8.6 | Community Store for Concrete CMS before 2.8.0 contains a stored cross-site scripting vulnerability that allows unauthen… |
+| 2026-11-24 01:17:32 | [CVE-2026-135690](https://nvd.nist.gov/vuln/detail/CVE-2026-135690) | Medium | 6.3 | CivetWeb through 1.16 built with USE_HTTP2 and enable_http2 contains a heap out-of-bounds read vulnerability in hpack_d… |
+| 2026-11-24 01:17:32 | [CVE-2026-135691](https://nvd.nist.gov/vuln/detail/CVE-2026-135691) | High | 8.7 | Open5GS WebUI through 2.8.0 contains an incorrect authorization vulnerability in webui/server/routes/db.js that allows… |
+| 2026-11-24 01:17:32 | [CVE-2026-135692](https://nvd.nist.gov/vuln/detail/CVE-2026-135692) | High | 8.7 | rConfig Core 8.0.0 before 8.2.17 and rConfig Pro before 8.4.0 contain a PHP object injection vulnerability in app/Casts… |
+| 2026-11-24 01:17:33 | [CVE-2026-135693](https://nvd.nist.gov/vuln/detail/CVE-2026-135693) | Critical | 9.3 | rConfig Core 8.0.0 before 8.2.17 and rConfig Pro before 8.4.0 contain a stored cross-site scripting vulnerability in th… |
+| 2026-11-24 01:17:33 | [CVE-2026-135694](https://nvd.nist.gov/vuln/detail/CVE-2026-135694) | High | 7.1 | rConfig Core 8.1.0 before 8.2.20 and rConfig Pro before 8.4.0 contain a missing authorization vulnerability in ExportCo… |
+| 2026-11-24 01:17:33 | [CVE-2026-135695](https://nvd.nist.gov/vuln/detail/CVE-2026-135695) | High | 8.7 | rConfig Core 8.0.0 before 8.2.13 and rConfig Pro before 8.4.0 contain an authorization bypass vulnerability in the user… |
+| 2026-11-24 01:17:33 | [CVE-2026-135696](https://nvd.nist.gov/vuln/detail/CVE-2026-135696) | High | 7.7 | rConfig Core 8.2.19 before 8.2.22 contains a server-side request forgery vulnerability that allows authenticated users… |
+| 2026-11-24 01:17:33 | [CVE-2026-135697](https://nvd.nist.gov/vuln/detail/CVE-2026-135697) | Medium | 6.9 | CleverReach WP before 1.5.28 contains a missing authorization vulnerability in the Article_Search controller that allow… |
 
 ## Data source
 
