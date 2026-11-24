@@ -9,28 +9,35 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:22 UTC
+## Latest list — 2026-11-24 21:19 UTC
 
-New CVEs published between 2026-11-24 19:18 UTC and 2026-11-24 20:22 UTC.
+New CVEs published between 2026-11-24 20:22 UTC and 2026-11-24 21:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-24T20-22-08-080483Z.csv)
+[Full CSV](data/new-cves-2026-11-24T21-19-10-543942Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-24 20:18:21 | [CVE-2026-112732](https://nvd.nist.gov/vuln/detail/CVE-2026-112732) | Critical | 9.8 | Double free in Microsoft Office Visio allows an unauthorized attacker to execute code over a network. |
-| 2026-11-24 20:18:45 | [CVE-2026-123215](https://nvd.nist.gov/vuln/detail/CVE-2026-123215) | Critical | 9.3 | Copeland XWEB Pro contains a missing authentication vulnerability. Fixed in 1.16.1. |
-| 2026-11-24 20:18:46 | [CVE-2026-123216](https://nvd.nist.gov/vuln/detail/CVE-2026-123216) | High | 8.5 | Copeland XWEB Pro contains an OS command injection vulnerability that allows a remote, authenticated attacker to execut… |
-| 2026-11-24 20:18:46 | [CVE-2026-123217](https://nvd.nist.gov/vuln/detail/CVE-2026-123217) | Low | 2.3 | Copeland XWEB Pro allows a remote, authenticated attacker to inject additional arguments into the wireless interface co… |
-| 2026-11-24 20:18:47 | [CVE-2026-123340](https://nvd.nist.gov/vuln/detail/CVE-2026-123340) | High | 8.5 | Copeland XWEB Pro contains an OS command injection vulnerability that allows a remote, authenticated attacker to execut… |
-| 2026-11-24 20:18:48 | [CVE-2026-126695](https://nvd.nist.gov/vuln/detail/CVE-2026-126695) | High | 8.7 | Use of hard-coded password vulnerability in Tibco Control Plane and Tibco Control Tower. This issue affects Control Pla… |
-| 2026-11-24 20:18:52 | [CVE-2026-135046](https://nvd.nist.gov/vuln/detail/CVE-2026-135046) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in Rymera Web Co Store Exporter woocommerce-exporter allows Cross Site… |
-| 2026-11-24 20:18:52 | [CVE-2026-135414](https://nvd.nist.gov/vuln/detail/CVE-2026-135414) | Medium | 5.1 | Server-side request forgery in Amazon OpenSearch Service service software before R20260720 might allow an authenticated… |
-| 2026-11-24 20:18:52 | [CVE-2026-135799](https://nvd.nist.gov/vuln/detail/CVE-2026-135799) | Low | 2.0 | A vulnerability was detected in flowable flowable-engine 8.0.0. This impacts the function createElContext/importFunctio… |
-| 2026-11-24 20:18:53 | [CVE-2026-135800](https://nvd.nist.gov/vuln/detail/CVE-2026-135800) | Medium | 6.9 | A flaw has been found in hiyouga LLaMA-Factory up to 0.9.5. Affected is the function save_args/load_args of the file sr… |
-| 2026-11-24 20:18:53 | [CVE-2026-136328](https://nvd.nist.gov/vuln/detail/CVE-2026-136328) | High | 7.8 | A flaw was found in the file-psd plugin in GIMP. When processing a specially crafted PSD (Photoshop Document) image fil… |
-| 2026-11-24 20:18:53 | [CVE-2026-136452](https://nvd.nist.gov/vuln/detail/CVE-2026-136452) | Medium | 5.3 | browser-use before 1.0.0 contains a URL parser differential vulnerability in SecurityWatchdog that allows attackers to… |
-| 2026-11-24 20:18:53 | [CVE-2026-136453](https://nvd.nist.gov/vuln/detail/CVE-2026-136453) | High | 7.1 | browser-use before 1.0.0 contains an allowlist bypass vulnerability in the SecurityWatchdog's _is_url_match function th… |
-| 2026-11-24 20:18:53 | [CVE-2026-136455](https://nvd.nist.gov/vuln/detail/CVE-2026-136455) | High | 8.7 | borg-ui before 2.4.1 contains a privilege escalation vulnerability that allows a repository-scoped operator to escalate… |
+| 2026-11-24 21:18:10 | [CVE-2026-121725](https://nvd.nist.gov/vuln/detail/CVE-2026-121725) | Medium | 5.5 | A maliciously crafted IFCZIP file, when imported through Autodesk Revit or Autodesk IFC for Revit Add-in, can exploit a… |
+| 2026-11-24 21:18:16 | [CVE-2026-129969](https://nvd.nist.gov/vuln/detail/CVE-2026-129969) | Medium | 5.5 | A maliciously crafted PDF file, when imported into Autodesk Revit, can trigger a Memory Allocation with Excessive Size… |
+| 2026-11-24 21:18:17 | [CVE-2026-129970](https://nvd.nist.gov/vuln/detail/CVE-2026-129970) | Medium | 5.5 | A maliciously crafted PNG file, when imported into Autodesk Revit, can trigger a NULL Pointer Dereference vulnerability… |
+| 2026-11-24 21:18:17 | [CVE-2026-132254](https://nvd.nist.gov/vuln/detail/CVE-2026-132254) | Medium | 4.3 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 21:18:17 | [CVE-2026-132264](https://nvd.nist.gov/vuln/detail/CVE-2026-132264) | High | 8.1 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 21:18:17 | [CVE-2026-133449](https://nvd.nist.gov/vuln/detail/CVE-2026-133449) | Medium | 5.3 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 21:18:18 | [CVE-2026-133453](https://nvd.nist.gov/vuln/detail/CVE-2026-133453) | Critical | 9.1 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-24 21:18:19 | [CVE-2026-135809](https://nvd.nist.gov/vuln/detail/CVE-2026-135809) | Medium | 6.9 | A vulnerability has been found in javahuang SurveyKing up to 0.3.0-beta.3. Affected by this vulnerability is the functi… |
+| 2026-11-24 21:18:19 | [CVE-2026-135810](https://nvd.nist.gov/vuln/detail/CVE-2026-135810) | Medium | 5.5 | A vulnerability was identified in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. This vulnera… |
+| 2026-11-24 21:18:19 | [CVE-2026-135811](https://nvd.nist.gov/vuln/detail/CVE-2026-135811) | Medium | 5.5 | A security flaw has been discovered in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. This is… |
+| 2026-11-24 21:18:19 | [CVE-2026-135812](https://nvd.nist.gov/vuln/detail/CVE-2026-135812) | Medium | 5.3 | A weakness has been identified in GongShengyue OnlineBooks up to dfc5eacc08d3b0396c266049548618f6fb9587ea. Impacted is… |
+| 2026-11-24 21:18:20 | [CVE-2026-136522](https://nvd.nist.gov/vuln/detail/CVE-2026-136522) | High | 8.7 | CubeWP Forms before 1.1.13 contains an unauthenticated stored cross-site scripting vulnerability that allows attackers… |
+| 2026-11-24 21:18:20 | [CVE-2026-136534](https://nvd.nist.gov/vuln/detail/CVE-2026-136534) | High | 7.3 | Devin Desktop Uncontrolled Search Path Element Local Privilege Escalation Vulnerability. This vulnerability allows loca… |
+| 2026-11-24 21:18:20 | [CVE-2026-136535](https://nvd.nist.gov/vuln/detail/CVE-2026-136535) | High | 7.2 | LiteLLM MCP Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execut… |
+| 2026-11-24 21:18:20 | [CVE-2026-136536](https://nvd.nist.gov/vuln/detail/CVE-2026-136536) | Medium | 6.4 | LiteLLM is_request_body_safe Server-Side Request Forgery Information Disclosure Vulnerability. This vulnerability allow… |
+| 2026-11-24 21:18:20 | [CVE-2026-136537](https://nvd.nist.gov/vuln/detail/CVE-2026-136537) | Medium | 6.5 | LiteLLM key_management_endpoints Missing Authorization Security Feature Bypass Vulnerability. This vulnerability allows… |
+| 2026-11-24 21:18:21 | [CVE-2026-136538](https://nvd.nist.gov/vuln/detail/CVE-2026-136538) | Medium | 6.5 | LiteLLM Virtual Key Model Alias Incorrect Authorization Privilege Escalation Vulnerability. This vulnerability allows r… |
+| 2026-11-24 21:18:21 | [CVE-2026-136539](https://nvd.nist.gov/vuln/detail/CVE-2026-136539) | High | 7.2 | LiteLLM Pass-Through Endpoint Code Injection Remote Code Execution Vulnerability. This vulnerability allows remote atta… |
+| 2026-11-24 21:18:21 | [CVE-2026-136540](https://nvd.nist.gov/vuln/detail/CVE-2026-136540) | Medium | 5.3 | LiteLLM Secret Manager oidc Resolver Information Disclosure Vulnerability. This vulnerability allows remote attackers t… |
+| 2026-11-24 21:18:31 | [CVE-2026-61512](https://nvd.nist.gov/vuln/detail/CVE-2026-61512) | High | 7.3 | VeraCrypt before 1.26.30 on Linux contains a command injection vulnerability in CoreUnix::CheckFilesystem that allows a… |
+| 2026-11-24 21:18:31 | [CVE-2026-61513](https://nvd.nist.gov/vuln/detail/CVE-2026-61513) | High | 7.3 | VeraCrypt through 1.26.31 on Linux contains an improper path restriction vulnerability in the elevated CoreService, whi… |
 
 ## Data source
 
