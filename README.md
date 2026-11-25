@@ -9,20 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 05:18 UTC
+## Latest list — 2026-11-25 06:20 UTC
 
-New CVEs published between 2026-11-25 04:19 UTC and 2026-11-25 05:18 UTC.
+New CVEs published between 2026-11-25 05:18 UTC and 2026-11-25 06:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-25T05-18-45-285051Z.csv)
+[Full CSV](data/new-cves-2026-11-25T06-20-30-058128Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-25 05:18:27 | [CVE-2026-118898](https://nvd.nist.gov/vuln/detail/CVE-2026-118898) | High | 8.7 | Deserialization of Untrusted Data vulnerability in lasp-lang partisan allows an unauthenticated remote attacker to abor… |
-| 2026-11-25 05:18:29 | [CVE-2026-130336](https://nvd.nist.gov/vuln/detail/CVE-2026-130336) | High | 7.5 | Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') in the HWBridge custom methods c… |
-| 2026-11-25 05:18:30 | [CVE-2026-132145](https://nvd.nist.gov/vuln/detail/CVE-2026-132145) | Medium | 5.9 | A flaw was found in rsyslog. When using the Datagram Transport Layer Security (DTLS) output module (omdtls) configured… |
-| 2026-11-25 05:18:35 | [CVE-2026-136547](https://nvd.nist.gov/vuln/detail/CVE-2026-136547) | Critical | 9.3 | A vulnerability was determined in Tenda RX3 16.03.13.11_multi. Impacted is the function R7WebsSecurityHandler of the co… |
-| 2026-11-25 05:18:35 | [CVE-2026-136679](https://nvd.nist.gov/vuln/detail/CVE-2026-136679) | Low | 3.3 | NULL Pointer Dereference vulnerability in Samsung Open Source Walrus allows Input Data Manipulation. |
-| 2026-11-25 05:18:35 | [CVE-2026-136680](https://nvd.nist.gov/vuln/detail/CVE-2026-136680) | Medium | 5.5 | Reachable Assertion vulnerability in Samsung Open Source Walrus allows Input Data Manipulation. |
+| 2026-11-25 06:17:13 | [CVE-2026-136548](https://nvd.nist.gov/vuln/detail/CVE-2026-136548) | Critical | 9.3 | A vulnerability was identified in Tenda RX3 16.03.13.11. The affected element is an unknown function of the file /bin/a… |
+| 2026-11-25 06:17:15 | [CVE-2026-136549](https://nvd.nist.gov/vuln/detail/CVE-2026-136549) | Critical | 9.3 | A security flaw has been discovered in Tenda RX3 16.03.13.11_multi. The impacted element is the function formSetSafeWan… |
+| 2026-11-25 06:17:15 | [CVE-2026-136550](https://nvd.nist.gov/vuln/detail/CVE-2026-136550) | High | 8.5 | A weakness has been identified in Tenda RX3 16.03.13.11_multi. This affects the function fromAdvSetMacMtuWan of the fil… |
 
 ## Data source
 
