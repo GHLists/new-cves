@@ -9,24 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 01:18 UTC
+## Latest list — 2026-11-25 02:21 UTC
 
-New CVEs published between 2026-11-25 00:18 UTC and 2026-11-25 01:18 UTC.
+New CVEs published between 2026-11-25 01:18 UTC and 2026-11-25 02:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-25T01-18-52-171969Z.csv)
+[Full CSV](data/new-cves-2026-11-25T02-21-00-711005Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-25 01:16:48 | [CVE-2026-122093](https://nvd.nist.gov/vuln/detail/CVE-2026-122093) |  |  | Strong::Random versions through 0.96 for Perl allow every later rand output to be predicted from three earlier ones. Th… |
-| 2026-11-25 01:16:48 | [CVE-2026-132255](https://nvd.nist.gov/vuln/detail/CVE-2026-132255) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 01:16:48 | [CVE-2026-132256](https://nvd.nist.gov/vuln/detail/CVE-2026-132256) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 01:16:48 | [CVE-2026-132260](https://nvd.nist.gov/vuln/detail/CVE-2026-132260) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 01:16:48 | [CVE-2026-132271](https://nvd.nist.gov/vuln/detail/CVE-2026-132271) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 01:16:48 | [CVE-2026-133461](https://nvd.nist.gov/vuln/detail/CVE-2026-133461) | Medium | 5.1 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 01:16:49 | [CVE-2026-134875](https://nvd.nist.gov/vuln/detail/CVE-2026-134875) | Medium | 4.9 | An unencrypted RSA private key for a default HTTPS certificate is included in GeoVision GV-EBD4700 firmware V1.11 (A02-… |
-| 2026-11-25 01:16:49 | [CVE-2026-136146](https://nvd.nist.gov/vuln/detail/CVE-2026-136146) | Low | 1.9 | A security flaw has been discovered in vanna-ai vanna 2.0.0/2.0.1/2.0.2. Affected by this vulnerability is the function… |
-| 2026-11-25 01:16:49 | [CVE-2026-136147](https://nvd.nist.gov/vuln/detail/CVE-2026-136147) | Low | 2.1 | A weakness has been identified in DWS Antik Browser 1.17.0. Affected by this issue is some unknown functionality of the… |
-| 2026-11-25 01:16:49 | [CVE-2026-136444](https://nvd.nist.gov/vuln/detail/CVE-2026-136444) | Low | 2.1 | A vulnerability was detected in JaguarJack catch-admin up to 5.4.1. The affected element is the function Store/Update o… |
+| 2026-11-25 02:17:39 | [CVE-2026-126536](https://nvd.nist.gov/vuln/detail/CVE-2026-126536) | High | 7.0 | Akaunting 3.3.0 contains a stored cross-site scripting vulnerability in the XLSX tax-import workflow. An authenticated… |
+| 2026-11-25 02:17:41 | [CVE-2026-135768](https://nvd.nist.gov/vuln/detail/CVE-2026-135768) | Medium | 6.8 | A flaw was found in the keycloak-services component of Keycloak, which is used for managing authentication and authoriz… |
+| 2026-11-25 02:17:41 | [CVE-2026-136445](https://nvd.nist.gov/vuln/detail/CVE-2026-136445) | Low | 2.1 | A flaw has been found in JaguarJack catch-admin up to 5.4.1. The impacted element is the function store of the file mod… |
 
 ## Data source
 
