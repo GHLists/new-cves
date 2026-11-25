@@ -9,34 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 21:19 UTC
+## Latest list — 2026-11-25 22:20 UTC
 
-New CVEs published between 2026-11-25 20:21 UTC and 2026-11-25 21:19 UTC.
+New CVEs published between 2026-11-25 21:19 UTC and 2026-11-25 22:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-25T21-19-08-980693Z.csv)
+[Full CSV](data/new-cves-2026-11-25T22-20-00-619268Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-25 21:17:15 | [CVE-2026-102957](https://nvd.nist.gov/vuln/detail/CVE-2026-102957) | High | 7.7 | z_impl_pwm_capture_cycles() in drivers/pwm/pwm_capture.c stores its capture context (struct z_pwm_capture_cb_data, incl… |
-| 2026-11-25 21:17:15 | [CVE-2026-102959](https://nvd.nist.gov/vuln/detail/CVE-2026-102959) | Medium | 6.4 | The Grow R502-A fingerprint sensor driver (drivers/sensor/grow_r502a/grow_r502a.c) points drv_data->rx_buf.data at an r… |
-| 2026-11-25 21:17:16 | [CVE-2026-102960](https://nvd.nist.gov/vuln/detail/CVE-2026-102960) | Medium | 6.8 | The Grow R502-A fingerprint sensor driver (drivers/sensor/grow_r502a/grow_r502a.c) receives sensor responses in the UAR… |
-| 2026-11-25 21:17:16 | [CVE-2026-123879](https://nvd.nist.gov/vuln/detail/CVE-2026-123879) | High | 7.2 | In authd before 0.7.2, an improper access control vulnerability allows an authenticated remote attacker to complete a f… |
-| 2026-11-25 21:17:16 | [CVE-2026-131814](https://nvd.nist.gov/vuln/detail/CVE-2026-131814) | High | 7.8 | ChargePoint Home Flex dwnldlogsm tar Command Injection Local Privilege Escalation Vulnerability. This vulnerability all… |
-| 2026-11-25 21:17:16 | [CVE-2026-131815](https://nvd.nist.gov/vuln/detail/CVE-2026-131815) | High | 7.8 | ChargePoint Home Flex uploadsm filetype Link Following Local Privilege Escalation Vulnerability. This vulnerability all… |
-| 2026-11-25 21:17:16 | [CVE-2026-131816](https://nvd.nist.gov/vuln/detail/CVE-2026-131816) | Medium | 6.3 | ChargePoint Home Flex ssh Hard-coded Credentials Authentication Bypass Vulnerability. This vulnerability allows network… |
-| 2026-11-25 21:17:16 | [CVE-2026-131817](https://nvd.nist.gov/vuln/detail/CVE-2026-131817) | High | 8.8 | ChargePoint Home Flex wpa_passphrase Command Injection Remote Code Execution Vulnerability. This vulnerability allows n… |
-| 2026-11-25 21:17:16 | [CVE-2026-131818](https://nvd.nist.gov/vuln/detail/CVE-2026-131818) | High | 7.8 | ChargePoint Home Flex busybox Unnecessary Privileges Local Privilege Escalation Vulnerability. This vulnerability allow… |
-| 2026-11-25 21:17:17 | [CVE-2026-131819](https://nvd.nist.gov/vuln/detail/CVE-2026-131819) | Medium | 4.3 | ChargePoint Home Flex Debug Interface With Improper Access Control Authentication Bypass Vulnerability. This vulnerabil… |
-| 2026-11-25 21:17:17 | [CVE-2026-131827](https://nvd.nist.gov/vuln/detail/CVE-2026-131827) | High | 7.8 | RustDesk Client for Windows reg_recovery Missing Authorization Local Privilege Escalation Vulnerability. This vulnerabi… |
-| 2026-11-25 21:17:17 | [CVE-2026-132102](https://nvd.nist.gov/vuln/detail/CVE-2026-132102) | Medium | 5.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 14.4 before 19.4.11, 19.5 before 19.5.9, and… |
-| 2026-11-25 21:17:17 | [CVE-2026-132794](https://nvd.nist.gov/vuln/detail/CVE-2026-132794) | Medium | 4.3 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.10 before 19.4.11, 19.5 before 19.5.9, an… |
-| 2026-11-25 21:17:18 | [CVE-2026-133451](https://nvd.nist.gov/vuln/detail/CVE-2026-133451) | Medium | 4.3 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 21:17:19 | [CVE-2026-136821](https://nvd.nist.gov/vuln/detail/CVE-2026-136821) | High | 8.6 | A flaw has been found in D-Link R32 1.10B02. The affected element is the function SetTimeSettings of the component DHMA… |
-| 2026-11-25 21:17:19 | [CVE-2026-136822](https://nvd.nist.gov/vuln/detail/CVE-2026-136822) | High | 8.6 | A vulnerability has been found in D-Link R32 1.10B02. The impacted element is the function SetDeviceSettings of the fil… |
-| 2026-11-25 21:17:20 | [CVE-2026-67209](https://nvd.nist.gov/vuln/detail/CVE-2026-67209) | High | 7.1 | metasfresh through 5.175 contains a SQL injection vulnerability in the stressTest_massCacheInvalidation handler of Debu… |
-| 2026-11-25 21:17:20 | [CVE-2026-67210](https://nvd.nist.gov/vuln/detail/CVE-2026-67210) | Medium | 6.9 | diaspora* through 0.10.1, using the diaspora_federation gem through 1.2.0, contains a server-side request forgery vulne… |
-| 2026-11-25 21:17:20 | [CVE-2026-81336](https://nvd.nist.gov/vuln/detail/CVE-2026-81336) | Medium | 6.5 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 12.8 before 19.4.11, 19.5 before 19.5.9, and… |
-| 2026-11-25 21:17:20 | [CVE-2026-90592](https://nvd.nist.gov/vuln/detail/CVE-2026-90592) | Medium | 4.6 | The ITE it51xxx I2C driver, when operating as an I2C target (slave) in buffer mode (CONFIG_I2C_TARGET + CONFIG_I2C_TARG… |
+| 2026-11-25 22:17:16 | [CVE-2026-116681](https://nvd.nist.gov/vuln/detail/CVE-2026-116681) | High | 7.5 | NocoDB is software for building databases as spreadsheets. Prior to 2026.08.0, the row-scoped endpoints of a public sha… |
+| 2026-11-25 22:17:16 | [CVE-2026-127930](https://nvd.nist.gov/vuln/detail/CVE-2026-127930) | Medium | 5.8 | Incorrect authorization in affected versions of network-manager in Ubuntu allows a local attacker with code execution a… |
+| 2026-11-25 22:17:16 | [CVE-2026-133445](https://nvd.nist.gov/vuln/detail/CVE-2026-133445) | High | 7.3 | In gdm3 before 51.2, an improper privilege management vulnerability allows an unprivileged local attacker with an activ… |
+| 2026-11-25 22:17:20 | [CVE-2026-135153](https://nvd.nist.gov/vuln/detail/CVE-2026-135153) |  |  | Rejected reason: ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This candidate was issued in error. Notes: All… |
+| 2026-11-25 22:17:20 | [CVE-2026-136823](https://nvd.nist.gov/vuln/detail/CVE-2026-136823) | Critical | 9.3 | A vulnerability was found in D-Link R32 1.10B02. This affects an unknown function of the file /usr/bin/httpd of the com… |
+| 2026-11-25 22:17:20 | [CVE-2026-136831](https://nvd.nist.gov/vuln/detail/CVE-2026-136831) | Low | 2.1 | A vulnerability was determined in WPExperts New User Approve Plugin up to 3.3 on WordPress. Impacted is the function up… |
+| 2026-11-25 22:17:21 | [CVE-2026-66052](https://nvd.nist.gov/vuln/detail/CVE-2026-66052) | High | 8.7 | Comviva Revenue Plus (MobiLytix Customer Value Management) 3.0.0 contains an expression language injection vulnerabilit… |
+| 2026-11-25 22:17:21 | [CVE-2026-69695](https://nvd.nist.gov/vuln/detail/CVE-2026-69695) | High | 8.7 | Handesk through 1.5 contains an unrestricted file upload vulnerability in Attachment::storeAttachmentFromRequest() that… |
+| 2026-11-25 22:17:21 | [CVE-2026-69696](https://nvd.nist.gov/vuln/detail/CVE-2026-69696) | Medium | 6.3 | Handesk through 1.5 contains a missing authentication vulnerability in the POST /webhook/bitbucket route, which is excl… |
+| 2026-11-25 22:17:22 | [CVE-2026-69697](https://nvd.nist.gov/vuln/detail/CVE-2026-69697) | Medium | 6.9 | Faveo Helpdesk (Community) through 2.0.3 and 2.0.4.RC.1 contains a server-side request forgery vulnerability in ApiExce… |
+| 2026-11-25 22:17:22 | [CVE-2026-69698](https://nvd.nist.gov/vuln/detail/CVE-2026-69698) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-25 22:17:22 | [CVE-2026-71296](https://nvd.nist.gov/vuln/detail/CVE-2026-71296) | Medium | 6.8 | A flaw was found in maestro. A remote attacker could exploit a misconfiguration in the gRPC server where authentication… |
+| 2026-11-25 22:17:22 | [CVE-2026-74025](https://nvd.nist.gov/vuln/detail/CVE-2026-74025) | Medium | 6.9 | A flaw was found in ironic-image. The scripts responsible for constructing kernel parameters for CoreOS root file syste… |
 
 ## Data source
 
