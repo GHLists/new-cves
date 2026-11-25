@@ -9,23 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 00:18 UTC
+## Latest list — 2026-11-25 01:18 UTC
 
-New CVEs published between 2026-11-24 23:20 UTC and 2026-11-25 00:18 UTC.
+New CVEs published between 2026-11-25 00:18 UTC and 2026-11-25 01:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-25T00-18-50-503718Z.csv)
+[Full CSV](data/new-cves-2026-11-25T01-18-52-171969Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-25 00:17:10 | [CVE-2026-133459](https://nvd.nist.gov/vuln/detail/CVE-2026-133459) | Medium | 5.3 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 00:17:10 | [CVE-2026-133462](https://nvd.nist.gov/vuln/detail/CVE-2026-133462) | High | 8.7 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
-| 2026-11-25 00:17:10 | [CVE-2026-136136](https://nvd.nist.gov/vuln/detail/CVE-2026-136136) | Critical | 9.3 | A vulnerability was identified in Netis WF2409E up to 20261026. Affected by this issue is some unknown functionality of… |
-| 2026-11-25 00:17:10 | [CVE-2026-136139](https://nvd.nist.gov/vuln/detail/CVE-2026-136139) | Low | 2.1 | A vulnerability was determined in Zefan-Cai R-KV up to 6715468b9872442be72e5c97322e4d9c9a2abf55. This impacts the funct… |
-| 2026-11-25 00:17:10 | [CVE-2026-136141](https://nvd.nist.gov/vuln/detail/CVE-2026-136141) | Low | 2.1 | A vulnerability was identified in Backdrop CMS up to 1.35.2. Affected is the function get_argument of the file core/mod… |
-| 2026-11-25 00:17:11 | [CVE-2026-16666](https://nvd.nist.gov/vuln/detail/CVE-2026-16666) | Medium | 5.7 | When MCUboot resumes an interrupted image swap it takes the number of bytes to move straight from the flash-resident st… |
-| 2026-11-25 00:17:11 | [CVE-2026-16667](https://nvd.nist.gov/vuln/detail/CVE-2026-16667) | Medium | 6.2 | The Cypress/PSoC6 flash-map backend in boot/cypress/cy_flash_pal/cy_flash_map.c guards every flash access with assert()… |
-| 2026-11-25 00:17:11 | [CVE-2026-16669](https://nvd.nist.gov/vuln/detail/CVE-2026-16669) | Low | 2.0 | MCUboot's Espressif port omits zeroization of two sensitive stack buffers in boot/espressif/hal/src/flash_encrypt.c. In… |
-| 2026-11-25 00:17:12 | [CVE-2026-16670](https://nvd.nist.gov/vuln/detail/CVE-2026-16670) | Medium | 4.0 | MCUboot's PSA-crypto ECDSA adapter parses the RFC 5480 DER signature with parse_signature_from_rfc5480_encoding() in bo… |
+| 2026-11-25 01:16:48 | [CVE-2026-122093](https://nvd.nist.gov/vuln/detail/CVE-2026-122093) |  |  | Strong::Random versions through 0.96 for Perl allow every later rand output to be predicted from three earlier ones. Th… |
+| 2026-11-25 01:16:48 | [CVE-2026-132255](https://nvd.nist.gov/vuln/detail/CVE-2026-132255) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-25 01:16:48 | [CVE-2026-132256](https://nvd.nist.gov/vuln/detail/CVE-2026-132256) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-25 01:16:48 | [CVE-2026-132260](https://nvd.nist.gov/vuln/detail/CVE-2026-132260) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-25 01:16:48 | [CVE-2026-132271](https://nvd.nist.gov/vuln/detail/CVE-2026-132271) | Medium | 6.5 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-25 01:16:48 | [CVE-2026-133461](https://nvd.nist.gov/vuln/detail/CVE-2026-133461) | Medium | 5.1 | AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agen… |
+| 2026-11-25 01:16:49 | [CVE-2026-134875](https://nvd.nist.gov/vuln/detail/CVE-2026-134875) | Medium | 4.9 | An unencrypted RSA private key for a default HTTPS certificate is included in GeoVision GV-EBD4700 firmware V1.11 (A02-… |
+| 2026-11-25 01:16:49 | [CVE-2026-136146](https://nvd.nist.gov/vuln/detail/CVE-2026-136146) | Low | 1.9 | A security flaw has been discovered in vanna-ai vanna 2.0.0/2.0.1/2.0.2. Affected by this vulnerability is the function… |
+| 2026-11-25 01:16:49 | [CVE-2026-136147](https://nvd.nist.gov/vuln/detail/CVE-2026-136147) | Low | 2.1 | A weakness has been identified in DWS Antik Browser 1.17.0. Affected by this issue is some unknown functionality of the… |
+| 2026-11-25 01:16:49 | [CVE-2026-136444](https://nvd.nist.gov/vuln/detail/CVE-2026-136444) | Low | 2.1 | A vulnerability was detected in JaguarJack catch-admin up to 5.4.1. The affected element is the function Store/Update o… |
 
 ## Data source
 
