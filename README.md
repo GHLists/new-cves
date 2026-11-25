@@ -9,32 +9,24 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 07:18 UTC
+## Latest list — 2026-11-25 08:19 UTC
 
-New CVEs published between 2026-11-25 06:20 UTC and 2026-11-25 07:18 UTC.
+New CVEs published between 2026-11-25 07:18 UTC and 2026-11-25 08:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-25T07-18-45-439408Z.csv)
+[Full CSV](data/new-cves-2026-11-25T08-19-54-861377Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-25 07:17:16 | [CVE-2026-115280](https://nvd.nist.gov/vuln/detail/CVE-2026-115280) |  |  | The Print Invoice & Delivery Notes for WooCommerce WordPress plugin before 7.4.0 does not perform authorisation checks… |
-| 2026-11-25 07:17:16 | [CVE-2026-125896](https://nvd.nist.gov/vuln/detail/CVE-2026-125896) |  |  | The Synoptic Web Designer: best WordPress design tool WordPress plugin through 1.12 does not perform any capability, au… |
-| 2026-11-25 07:17:17 | [CVE-2026-128838](https://nvd.nist.gov/vuln/detail/CVE-2026-128838) |  |  | The ADDRESSYA WordPress plugin through 3.1.1 does not have authorisation and CSRF checks when saving its service creden… |
-| 2026-11-25 07:17:17 | [CVE-2026-128852](https://nvd.nist.gov/vuln/detail/CVE-2026-128852) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not validate the type or content of files uploaded th… |
-| 2026-11-25 07:17:17 | [CVE-2026-128853](https://nvd.nist.gov/vuln/detail/CVE-2026-128853) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not sanitise and escape a parameter before using it i… |
-| 2026-11-25 07:17:17 | [CVE-2026-128854](https://nvd.nist.gov/vuln/detail/CVE-2026-128854) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not validate URLs taken from the request before fetch… |
-| 2026-11-25 07:17:17 | [CVE-2026-128855](https://nvd.nist.gov/vuln/detail/CVE-2026-128855) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not validate a user-supplied file path before deletin… |
-| 2026-11-25 07:17:17 | [CVE-2026-128856](https://nvd.nist.gov/vuln/detail/CVE-2026-128856) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not restrict the file paths, extensions or contents w… |
-| 2026-11-25 07:17:17 | [CVE-2026-128857](https://nvd.nist.gov/vuln/detail/CVE-2026-128857) |  |  | The Web To Print Shop : uDraw WordPress plugin through 3.4.0 does not restrict the source URL, destination path or file… |
-| 2026-11-25 07:17:17 | [CVE-2026-132046](https://nvd.nist.gov/vuln/detail/CVE-2026-132046) |  |  | The WP Page Builder WordPress plugin through 1.2.8 does not sanitise and escape some of its layout settings before outp… |
-| 2026-11-25 07:17:18 | [CVE-2026-132047](https://nvd.nist.gov/vuln/detail/CVE-2026-132047) |  |  | The WP Page Builder WordPress plugin through 1.2.8 does not check capabilities or nonces in one of its AJAX actions, al… |
-| 2026-11-25 07:17:18 | [CVE-2026-132048](https://nvd.nist.gov/vuln/detail/CVE-2026-132048) |  |  | The WP Meta SEO WordPress plugin through 4.5.18 does not check that the user is allowed to edit the post or comment con… |
-| 2026-11-25 07:17:18 | [CVE-2026-132074](https://nvd.nist.gov/vuln/detail/CVE-2026-132074) |  |  | The WP Page Builder WordPress plugin through 1.2.8 does not check that the user has permission to edit the targeted pos… |
-| 2026-11-25 07:17:18 | [CVE-2026-134931](https://nvd.nist.gov/vuln/detail/CVE-2026-134931) | Medium | 4.9 | Buffer overflow vulnerabilities exist in some Uniview NVR products. An authenticated attacker could exploit these vulne… |
-| 2026-11-25 07:17:18 | [CVE-2026-136552](https://nvd.nist.gov/vuln/detail/CVE-2026-136552) | High | 8.5 | A security vulnerability has been detected in Tenda RX3 16.03.13.11_multi. This impacts the function formSetIPv6status… |
-| 2026-11-25 07:17:18 | [CVE-2026-136553](https://nvd.nist.gov/vuln/detail/CVE-2026-136553) | Critical | 9.3 | A vulnerability was detected in Tenda RX3 16.03.13.11_multi. Affected is an unknown function of the file /goform/fast_s… |
-| 2026-11-25 07:17:19 | [CVE-2026-136554](https://nvd.nist.gov/vuln/detail/CVE-2026-136554) | Low | 2.1 | A flaw has been found in Tenda RX3 16.03.13.11_multi. Affected by this vulnerability is the function fromSysToolRestore… |
-| 2026-11-25 07:17:19 | [CVE-2026-92367](https://nvd.nist.gov/vuln/detail/CVE-2026-92367) |  |  | Rejected reason: not a vulnerability |
+| 2026-11-25 08:16:43 | [CVE-2026-134473](https://nvd.nist.gov/vuln/detail/CVE-2026-134473) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC WP Social Ninja wp-social-reviews allows Cross Si… |
+| 2026-11-25 08:16:44 | [CVE-2026-134475](https://nvd.nist.gov/vuln/detail/CVE-2026-134475) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in WPManageNinja FluentCart fluent-cart allows Cross Site Request Forge… |
+| 2026-11-25 08:16:45 | [CVE-2026-134476](https://nvd.nist.gov/vuln/detail/CVE-2026-134476) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC Fluent Support fluent-support allows Cross Site R… |
+| 2026-11-25 08:16:45 | [CVE-2026-134478](https://nvd.nist.gov/vuln/detail/CVE-2026-134478) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in WP ManageNinja LLC Fluent CRM fluent-crm allows Cross Site Request F… |
+| 2026-11-25 08:16:45 | [CVE-2026-134942](https://nvd.nist.gov/vuln/detail/CVE-2026-134942) | High | 8.8 | Cross-Site Request Forgery (CSRF) vulnerability in 10up ElasticPress elasticpress allows Cross Site Request Forgery.Thi… |
+| 2026-11-25 08:16:45 | [CVE-2026-134995](https://nvd.nist.gov/vuln/detail/CVE-2026-134995) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Amauri.IO WPMobil… |
+| 2026-11-25 08:16:45 | [CVE-2026-135877](https://nvd.nist.gov/vuln/detail/CVE-2026-135877) | Medium | 6.5 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in BdThemes ZoloBloc… |
+| 2026-11-25 08:16:45 | [CVE-2026-135878](https://nvd.nist.gov/vuln/detail/CVE-2026-135878) | Medium | 4.3 | Missing Authorization vulnerability in BdThemes ZoloBlocks zoloblocks allows Exploiting Incorrectly Configured Access C… |
+| 2026-11-25 08:16:46 | [CVE-2026-80247](https://nvd.nist.gov/vuln/detail/CVE-2026-80247) | High | 8.4 | Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a Missing Authentication for… |
+| 2026-11-25 08:16:46 | [CVE-2026-80249](https://nvd.nist.gov/vuln/detail/CVE-2026-80249) | Medium | 5.1 | Dell Secure Connect Gateway (SCG) Virtual Edition, versions prior to 5.36.00.16, contains a Server-Side Request Forgery… |
 
 ## Data source
 
