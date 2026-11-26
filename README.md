@@ -9,25 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 02:18 UTC
+## Latest list — 2026-11-26 03:18 UTC
 
-New CVEs published between 2026-11-26 01:21 UTC and 2026-11-26 02:18 UTC.
+New CVEs published between 2026-11-26 02:18 UTC and 2026-11-26 03:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T02-18-15-548708Z.csv)
+[Full CSV](data/new-cves-2026-11-26T03-18-24-730016Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 02:16:59 | [CVE-2026-115576](https://nvd.nist.gov/vuln/detail/CVE-2026-115576) | High | 8.8 | NetBird is a zero-trust networking platform that connects people, machines, and AI agents across any network. From vers… |
-| 2026-11-26 02:17:00 | [CVE-2026-122263](https://nvd.nist.gov/vuln/detail/CVE-2026-122263) | Low | 2.6 | Kestra is an open-source control plane for workflows across data, infrastructure, and applications. Prior to version 2.… |
-| 2026-11-26 02:17:01 | [CVE-2026-136947](https://nvd.nist.gov/vuln/detail/CVE-2026-136947) | Medium | 5.5 | A security flaw has been discovered in msaifulcsse Ticket-Travel-Management-System 28b68cea41b3a9eb8d533db992e0b5ba2db6… |
-| 2026-11-26 02:17:01 | [CVE-2026-136949](https://nvd.nist.gov/vuln/detail/CVE-2026-136949) | Medium | 5.5 | A weakness has been identified in nliautaud pico-content-editor up to 02d5ad6c820c5050c542ab9505819b5e0a0ba1af. The aff… |
-| 2026-11-26 02:17:01 | [CVE-2026-136950](https://nvd.nist.gov/vuln/detail/CVE-2026-136950) | Medium | 5.3 | A security vulnerability has been detected in Ghostty up to 1.3.1. The impacted element is an unknown function of the c… |
-| 2026-11-26 02:17:02 | [CVE-2026-136990](https://nvd.nist.gov/vuln/detail/CVE-2026-136990) | Low | 1.3 | A vulnerability has been found in TAILG Feimeng up to 20261028. Affected is an unknown function of the component Wirele… |
-| 2026-11-26 02:17:02 | [CVE-2026-137305](https://nvd.nist.gov/vuln/detail/CVE-2026-137305) | High | 8.7 | Grav Form plugin before 9.2.4 contains a code injection vulnerability that allows page authors to write uploads into Tw… |
-| 2026-11-26 02:17:02 | [CVE-2026-137306](https://nvd.nist.gov/vuln/detail/CVE-2026-137306) | High | 7.6 | Grav Admin plugin before 1.10.65 contains a password reset poisoning vulnerability in LoginController::taskForgot() tha… |
-| 2026-11-26 02:17:02 | [CVE-2026-137307](https://nvd.nist.gov/vuln/detail/CVE-2026-137307) | Low | 2.3 | wpa_supplicant 2.7 through 2.12 with the wolfSSL backend contains an EAP-FAST server authentication bypass in tls_sess_… |
-| 2026-11-26 02:17:02 | [CVE-2026-137308](https://nvd.nist.gov/vuln/detail/CVE-2026-137308) | High | 8.3 | markdownify-mcp before 1.2.0 contains a server-side request forgery vulnerability that allows attackers to bypass URL v… |
-| 2026-11-26 02:17:02 | [CVE-2026-137309](https://nvd.nist.gov/vuln/detail/CVE-2026-137309) | High | 7.1 | Friendica through 2026.05-1 contains an incorrect authorization vulnerability in item_edit() that allows authenticated… |
+| 2026-11-26 03:16:33 | [CVE-2026-123679](https://nvd.nist.gov/vuln/detail/CVE-2026-123679) | High | 7.0 | An improper access control vulnerability exists in a privileged Unix domain socket of StellarProtect Linux and Stellar… |
+| 2026-11-26 03:16:34 | [CVE-2026-123680](https://nvd.nist.gov/vuln/detail/CVE-2026-123680) | High | 8.6 | An authenticated remote code execution vulnerability exists in the firmware update functionality of StellarOne. An atta… |
+| 2026-11-26 03:16:34 | [CVE-2026-123681](https://nvd.nist.gov/vuln/detail/CVE-2026-123681) | Low | 2.3 | An HTML injection vulnerability exists in the alert notification functionality of StellarOne due to improper sanitizati… |
+| 2026-11-26 03:16:35 | [CVE-2026-123682](https://nvd.nist.gov/vuln/detail/CVE-2026-123682) | High | 8.6 | An authenticated remote code execution vulnerability exists in the update functionality of StellarOne due to insufficie… |
+| 2026-11-26 03:16:35 | [CVE-2026-123683](https://nvd.nist.gov/vuln/detail/CVE-2026-123683) | Medium | 6.9 | A SQL injection vulnerability exists in an Accounts Manager service of StellarOne running inside a container due to imp… |
+| 2026-11-26 03:16:35 | [CVE-2026-123684](https://nvd.nist.gov/vuln/detail/CVE-2026-123684) | Medium | 6.7 | An improper version validation vulnerability exists in the product update mechanism of StellarProtect Linux and Stellar… |
+| 2026-11-26 03:16:35 | [CVE-2026-123685](https://nvd.nist.gov/vuln/detail/CVE-2026-123685) | High | 8.7 | A remote code execution vulnerability exists in the patch apply functionality of StellarProtect Linux and Stellar Agent… |
+| 2026-11-26 03:16:35 | [CVE-2026-123686](https://nvd.nist.gov/vuln/detail/CVE-2026-123686) | High | 8.4 | An OS command injection vulnerability exists in the vShell command-line interface of StellarOne due to improper validat… |
+| 2026-11-26 03:16:35 | [CVE-2026-123687](https://nvd.nist.gov/vuln/detail/CVE-2026-123687) | High | 8.6 | An arbitrary file write vulnerability exists in the patch upload functionality of StellarOne due to improper validation… |
+| 2026-11-26 03:16:38 | [CVE-2026-136991](https://nvd.nist.gov/vuln/detail/CVE-2026-136991) | Low | 2.1 | A weakness has been identified in Spotweb up to 1.5.8. This issue affects the function redirect of the file lib/SpotTem… |
+| 2026-11-26 03:16:39 | [CVE-2026-137043](https://nvd.nist.gov/vuln/detail/CVE-2026-137043) | Critical | 9.3 | A security vulnerability has been detected in TOTOLINK N350RT 9.3.5u.6468_B20250827/9.3.5u.6466_B20250825. The affected… |
+| 2026-11-26 03:16:39 | [CVE-2026-137046](https://nvd.nist.gov/vuln/detail/CVE-2026-137046) | Medium | 5.5 | A vulnerability was detected in mahmoudai1 school-management-system up to ecec9faaf2fb1a3c5cd096e063f8ef326d09cdfd. The… |
+| 2026-11-26 03:16:39 | [CVE-2026-137326](https://nvd.nist.gov/vuln/detail/CVE-2026-137326) | High | 7.3 | ICU4C through 79.1 contains a use-after-free and double free vulnerability in the x11-compound-text converter because c… |
+| 2026-11-26 03:16:39 | [CVE-2026-137327](https://nvd.nist.gov/vuln/detail/CVE-2026-137327) | Medium | 4.8 | GNU mtools through 4.0.50 contains a divide-by-zero vulnerability that allows attackers to crash mtools commands by sup… |
 
 ## Data source
 
