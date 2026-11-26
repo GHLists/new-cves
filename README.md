@@ -9,17 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 21:18 UTC
+## Latest list — 2026-11-26 22:20 UTC
 
-New CVEs published between 2026-11-26 20:19 UTC and 2026-11-26 21:18 UTC.
+New CVEs published between 2026-11-26 21:18 UTC and 2026-11-26 22:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T21-18-45-19127Z.csv)
+[Full CSV](data/new-cves-2026-11-26T22-20-47-911088Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 21:17:15 | [CVE-2026-126139](https://nvd.nist.gov/vuln/detail/CVE-2026-126139) | Medium | 5.3 | Docker Sandboxes re-resolves saved mount paths when replacing a sandbox container during kit changes or restarting a sa… |
-| 2026-11-26 21:17:15 | [CVE-2026-137618](https://nvd.nist.gov/vuln/detail/CVE-2026-137618) | Low | 1.9 | A vulnerability was identified in RT-Thread up to 5.3.0. This impacts the function hpm_adc_enabled of the file bsp/hpmi… |
-| 2026-11-26 21:17:16 | [CVE-2026-137620](https://nvd.nist.gov/vuln/detail/CVE-2026-137620) | Medium | 5.2 | A security flaw has been discovered in RT-Thread up to 5.3.0. Affected is the function davinci_spi_get_prescale of the… |
+| 2026-11-26 22:17:55 | [CVE-2026-137621](https://nvd.nist.gov/vuln/detail/CVE-2026-137621) | Medium | 4.8 | A weakness has been identified in RT-Thread up to 5.3.0. Affected by this vulnerability is the function bl_adc_get_valu… |
+| 2026-11-26 22:17:58 | [CVE-2026-4981](https://nvd.nist.gov/vuln/detail/CVE-2026-4981) | Medium | 5.4 | A flaw was found in Red Hat Advanced Cluster Security (ACS). An unauthenticated remote attacker can exploit a vulnerabi… |
 
 ## Data source
 
