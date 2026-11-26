@@ -9,28 +9,26 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 03:18 UTC
+## Latest list — 2026-11-26 04:20 UTC
 
-New CVEs published between 2026-11-26 02:18 UTC and 2026-11-26 03:18 UTC.
+New CVEs published between 2026-11-26 03:18 UTC and 2026-11-26 04:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T03-18-24-730016Z.csv)
+[Full CSV](data/new-cves-2026-11-26T04-20-22-168669Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 03:16:33 | [CVE-2026-123679](https://nvd.nist.gov/vuln/detail/CVE-2026-123679) | High | 7.0 | An improper access control vulnerability exists in a privileged Unix domain socket of StellarProtect Linux and Stellar… |
-| 2026-11-26 03:16:34 | [CVE-2026-123680](https://nvd.nist.gov/vuln/detail/CVE-2026-123680) | High | 8.6 | An authenticated remote code execution vulnerability exists in the firmware update functionality of StellarOne. An atta… |
-| 2026-11-26 03:16:34 | [CVE-2026-123681](https://nvd.nist.gov/vuln/detail/CVE-2026-123681) | Low | 2.3 | An HTML injection vulnerability exists in the alert notification functionality of StellarOne due to improper sanitizati… |
-| 2026-11-26 03:16:35 | [CVE-2026-123682](https://nvd.nist.gov/vuln/detail/CVE-2026-123682) | High | 8.6 | An authenticated remote code execution vulnerability exists in the update functionality of StellarOne due to insufficie… |
-| 2026-11-26 03:16:35 | [CVE-2026-123683](https://nvd.nist.gov/vuln/detail/CVE-2026-123683) | Medium | 6.9 | A SQL injection vulnerability exists in an Accounts Manager service of StellarOne running inside a container due to imp… |
-| 2026-11-26 03:16:35 | [CVE-2026-123684](https://nvd.nist.gov/vuln/detail/CVE-2026-123684) | Medium | 6.7 | An improper version validation vulnerability exists in the product update mechanism of StellarProtect Linux and Stellar… |
-| 2026-11-26 03:16:35 | [CVE-2026-123685](https://nvd.nist.gov/vuln/detail/CVE-2026-123685) | High | 8.7 | A remote code execution vulnerability exists in the patch apply functionality of StellarProtect Linux and Stellar Agent… |
-| 2026-11-26 03:16:35 | [CVE-2026-123686](https://nvd.nist.gov/vuln/detail/CVE-2026-123686) | High | 8.4 | An OS command injection vulnerability exists in the vShell command-line interface of StellarOne due to improper validat… |
-| 2026-11-26 03:16:35 | [CVE-2026-123687](https://nvd.nist.gov/vuln/detail/CVE-2026-123687) | High | 8.6 | An arbitrary file write vulnerability exists in the patch upload functionality of StellarOne due to improper validation… |
-| 2026-11-26 03:16:38 | [CVE-2026-136991](https://nvd.nist.gov/vuln/detail/CVE-2026-136991) | Low | 2.1 | A weakness has been identified in Spotweb up to 1.5.8. This issue affects the function redirect of the file lib/SpotTem… |
-| 2026-11-26 03:16:39 | [CVE-2026-137043](https://nvd.nist.gov/vuln/detail/CVE-2026-137043) | Critical | 9.3 | A security vulnerability has been detected in TOTOLINK N350RT 9.3.5u.6468_B20250827/9.3.5u.6466_B20250825. The affected… |
-| 2026-11-26 03:16:39 | [CVE-2026-137046](https://nvd.nist.gov/vuln/detail/CVE-2026-137046) | Medium | 5.5 | A vulnerability was detected in mahmoudai1 school-management-system up to ecec9faaf2fb1a3c5cd096e063f8ef326d09cdfd. The… |
-| 2026-11-26 03:16:39 | [CVE-2026-137326](https://nvd.nist.gov/vuln/detail/CVE-2026-137326) | High | 7.3 | ICU4C through 79.1 contains a use-after-free and double free vulnerability in the x11-compound-text converter because c… |
-| 2026-11-26 03:16:39 | [CVE-2026-137327](https://nvd.nist.gov/vuln/detail/CVE-2026-137327) | Medium | 4.8 | GNU mtools through 4.0.50 contains a divide-by-zero vulnerability that allows attackers to crash mtools commands by sup… |
+| 2026-11-26 04:17:09 | [CVE-2026-123688](https://nvd.nist.gov/vuln/detail/CVE-2026-123688) | Medium | 5.3 | An improper authorization vulnerability exists in the patch management functionality of StellarOne. An attacker with Vi… |
+| 2026-11-26 04:17:09 | [CVE-2026-123689](https://nvd.nist.gov/vuln/detail/CVE-2026-123689) | High | 8.6 | A SQL injection vulnerability exists in the Search Agents API of StellarOne due to improper sanitization of user-suppli… |
+| 2026-11-26 04:17:10 | [CVE-2026-133202](https://nvd.nist.gov/vuln/detail/CVE-2026-133202) | Medium | 5.4 | In Revive Adserver through 6.0.9, an authenticated manager with access to two advertisers can associate a conversion tr… |
+| 2026-11-26 04:17:10 | [CVE-2026-133203](https://nvd.nist.gov/vuln/detail/CVE-2026-133203) | Medium | 5.3 | In Revive Adserver through 6.0.9, the public conversion-variable endpoint does not verify that a caller-supplied conver… |
+| 2026-11-26 04:17:10 | [CVE-2026-133204](https://nvd.nist.gov/vuln/detail/CVE-2026-133204) | Medium | 4.3 | In Revive Adserver through 6.0.9, the zone-linking page can disclose campaign and banner names and identifiers belongin… |
+| 2026-11-26 04:17:10 | [CVE-2026-133205](https://nvd.nist.gov/vuln/detail/CVE-2026-133205) | Medium | 4.3 | In Revive Adserver through 6.0.9, an authenticated manager can supply another agency's advertiser or website identifier… |
+| 2026-11-26 04:17:11 | [CVE-2026-133206](https://nvd.nist.gov/vuln/detail/CVE-2026-133206) | Medium | 4.3 | In Revive Adserver through 6.0.9, an advertiser can put XML syntax in fields of its own video creative. Unescaped Media… |
+| 2026-11-26 04:17:11 | [CVE-2026-133207](https://nvd.nist.gov/vuln/detail/CVE-2026-133207) | Medium | 4.1 | In Revive Adserver through 6.0.9, user-controlled entity names in XLS report exports can be interpreted as spreadsheet… |
+| 2026-11-26 04:17:11 | [CVE-2026-133208](https://nvd.nist.gov/vuln/detail/CVE-2026-133208) | Medium | 6.1 | In Revive Adserver through 6.0.9, unauthenticated request parameters in ad delivery can cause reflected cross-site scri… |
+| 2026-11-26 04:17:11 | [CVE-2026-133209](https://nvd.nist.gov/vuln/detail/CVE-2026-133209) | Low | 3.1 | In Revive Adserver through 6.0.9, deleting an agency, advertiser, or publisher through affected API paths can leave the… |
+| 2026-11-26 04:17:11 | [CVE-2026-133210](https://nvd.nist.gov/vuln/detail/CVE-2026-133210) | Medium | 6.5 | In Revive Adserver through 6.0.9, the zone banner-linking page (zone-include.php) does not cast the keys of the include… |
+| 2026-11-26 04:17:11 | [CVE-2026-133211](https://nvd.nist.gov/vuln/detail/CVE-2026-133211) | Medium | 4.7 | In Revive Adserver through 6.0.9, the ct0 request parameter of the delivery scripts is only required to start with http… |
 
 ## Data source
 
