@@ -9,22 +9,29 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 09:18 UTC
+## Latest list — 2026-11-26 10:19 UTC
 
-New CVEs published between 2026-11-26 08:19 UTC and 2026-11-26 09:18 UTC.
+New CVEs published between 2026-11-26 09:18 UTC and 2026-11-26 10:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T09-18-45-644077Z.csv)
+[Full CSV](data/new-cves-2026-11-26T10-19-38-345308Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 09:17:08 | [CVE-2026-131916](https://nvd.nist.gov/vuln/detail/CVE-2026-131916) | Medium | 5.1 | GENAI Web provided by Digital Agency contains a server-side request forgery (SSRF) vulnerability. An attacker may be ab… |
-| 2026-11-26 09:17:09 | [CVE-2026-133339](https://nvd.nist.gov/vuln/detail/CVE-2026-133339) | High | 8.6 | Joomla Extension - vi-solutions - SQL injection via form IDs in administrative form export in Visforms extension 1.0.0-… |
-| 2026-11-26 09:17:09 | [CVE-2026-133340](https://nvd.nist.gov/vuln/detail/CVE-2026-133340) | Medium | 5.1 | Joomla Extension - vi-solutions - Missing data export permission check in administrative form export in Visforms extens… |
-| 2026-11-26 09:17:09 | [CVE-2026-133341](https://nvd.nist.gov/vuln/detail/CVE-2026-133341) | Medium | 6.9 | Joomla Extension - vi-solutions - Missing SQL statement permission check in Maxsubmissions plugin in Visforms extension… |
-| 2026-11-26 09:17:09 | [CVE-2026-136638](https://nvd.nist.gov/vuln/detail/CVE-2026-136638) | Medium | 5.9 | Pydantic AI Harness's PlaywrightBrowser applies an egress policy to the requests a page makes. It treated any URL conta… |
-| 2026-11-26 09:17:09 | [CVE-2026-137324](https://nvd.nist.gov/vuln/detail/CVE-2026-137324) | Medium | 5.5 | A flaw has been found in shemaikuzwe Attendance_Management_system up to b37dbeb5bf4d9eab07480e7b6213db889fc3ebf9. Affec… |
-| 2026-11-26 09:17:09 | [CVE-2026-137389](https://nvd.nist.gov/vuln/detail/CVE-2026-137389) | High | 8.7 | MailGates/MailAudit developed by Openfind has a Command Injection vulnerability.Authenticated remote attackers can inje… |
-| 2026-11-26 09:17:10 | [CVE-2026-137390](https://nvd.nist.gov/vuln/detail/CVE-2026-137390) | High | 8.7 | Mail2000 developed by Openfind has an OS Command Injection vulnerability.Authenticated remote attackers can inject arbi… |
+| 2026-11-26 10:17:06 | [CVE-2026-120493](https://nvd.nist.gov/vuln/detail/CVE-2026-120493) | Medium | 6.4 | The Widgets for Social Photo Feed plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'widget-id'… |
+| 2026-11-26 10:17:06 | [CVE-2026-120542](https://nvd.nist.gov/vuln/detail/CVE-2026-120542) | Medium | 6.4 | The theme for WordPress is vulnerable to Stored Cross-Site Scripting via the 'metavalue (via wp-admin/post.php add_meta… |
+| 2026-11-26 10:17:06 | [CVE-2026-122298](https://nvd.nist.gov/vuln/detail/CVE-2026-122298) | Medium | 6.4 | The Beautiful taxonomy filters plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'term_name (re… |
+| 2026-11-26 10:17:06 | [CVE-2026-124211](https://nvd.nist.gov/vuln/detail/CVE-2026-124211) | High | 7.5 | The Ninja Tables – Responsive Table Builder for Data, Pricing & Product Tables plugin for WordPress is vulnerable to SQ… |
+| 2026-11-26 10:17:07 | [CVE-2026-125933](https://nvd.nist.gov/vuln/detail/CVE-2026-125933) | Medium | 4.4 | The Funnelforms Free – Multi Step Form, Contact Form & Lead Funnel Builder plugin for WordPress is vulnerable to Stored… |
+| 2026-11-26 10:17:07 | [CVE-2026-127041](https://nvd.nist.gov/vuln/detail/CVE-2026-127041) | High | 8.8 | Bizum Pay for Android incorporates static values within the APK to authenticate and sign requests to its API, including… |
+| 2026-11-26 10:17:07 | [CVE-2026-130805](https://nvd.nist.gov/vuln/detail/CVE-2026-130805) | High | 8.1 | The Groundhogg plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 4.11… |
+| 2026-11-26 10:17:07 | [CVE-2026-131589](https://nvd.nist.gov/vuln/detail/CVE-2026-131589) | High | 7.2 | The AI Engine – MCP Server & AI Chatbot for WordPress, with Claude, ChatGPT & Gemini plugin for WordPress is vulnerable… |
+| 2026-11-26 10:17:07 | [CVE-2026-131687](https://nvd.nist.gov/vuln/detail/CVE-2026-131687) | Medium | 5.3 | The ShopMagic – email automation for WordPress plugin for WordPress is vulnerable to Improper Verification of Cryptogra… |
+| 2026-11-26 10:17:08 | [CVE-2026-133472](https://nvd.nist.gov/vuln/detail/CVE-2026-133472) | Medium | 5.4 | The CubeWP Framework plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 1… |
+| 2026-11-26 10:17:08 | [CVE-2026-135148](https://nvd.nist.gov/vuln/detail/CVE-2026-135148) | Medium | 6.4 | The Download Manager plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'file[files][]' paramete… |
+| 2026-11-26 10:17:08 | [CVE-2026-135149](https://nvd.nist.gov/vuln/detail/CVE-2026-135149) | Medium | 6.4 | The Download Manager plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'file[page_template], fi… |
+| 2026-11-26 10:17:08 | [CVE-2026-135151](https://nvd.nist.gov/vuln/detail/CVE-2026-135151) | High | 7.5 | The Download Manager plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 3… |
+| 2026-11-26 10:17:08 | [CVE-2026-135266](https://nvd.nist.gov/vuln/detail/CVE-2026-135266) | High | 7.5 | The Music Player for WooCommerce plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and i… |
+| 2026-11-26 10:17:08 | [CVE-2026-135899](https://nvd.nist.gov/vuln/detail/CVE-2026-135899) | Medium | 6.3 | JobRouter Premium, version 2025.1.11, has a stored Cross-Site Scripting (XSS) vulnerability in the Favorites feature. A… |
 
 ## Data source
 
