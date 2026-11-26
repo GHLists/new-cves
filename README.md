@@ -9,18 +9,28 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 18:18 UTC
+## Latest list — 2026-11-26 19:18 UTC
 
-New CVEs published between 2026-11-26 17:18 UTC and 2026-11-26 18:18 UTC.
+New CVEs published between 2026-11-26 18:18 UTC and 2026-11-26 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T18-18-44-391226Z.csv)
+[Full CSV](data/new-cves-2026-11-26T19-18-48-019357Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 18:17:17 | [CVE-2026-137412](https://nvd.nist.gov/vuln/detail/CVE-2026-137412) | Medium | 5.5 | A vulnerability was determined in projectworlds Online Jewellery Shopping System 1.0. The affected element is the funct… |
-| 2026-11-26 18:17:17 | [CVE-2026-137414](https://nvd.nist.gov/vuln/detail/CVE-2026-137414) | Medium | 5.5 | A vulnerability was identified in itsourcecode Event Management System 1.0. The impacted element is an unknown function… |
-| 2026-11-26 18:17:17 | [CVE-2026-137415](https://nvd.nist.gov/vuln/detail/CVE-2026-137415) | Medium | 6.9 | A security flaw has been discovered in Tencent RapidJSON up to 1.1.0. This affects the function Writer::WriteString in… |
-| 2026-11-26 18:17:18 | [CVE-2026-137416](https://nvd.nist.gov/vuln/detail/CVE-2026-137416) | Low | 0.9 | A weakness has been identified in sgl-project SpecForge 0.2.0. This impacts the function Eagle3DraftModel.load_embeddin… |
+| 2026-11-26 19:17:09 | [CVE-2026-120353](https://nvd.nist.gov/vuln/detail/CVE-2026-120353) |  |  | The Apache Airflow TaskFlow decorators @task.bash, @task.sql, @task.analytics, @task.kubernetes_cmd and the common.ai d… |
+| 2026-11-26 19:17:09 | [CVE-2026-134470](https://nvd.nist.gov/vuln/detail/CVE-2026-134470) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Host.it Fastcache… |
+| 2026-11-26 19:17:09 | [CVE-2026-134488](https://nvd.nist.gov/vuln/detail/CVE-2026-134488) | High | 7.5 | Missing Authorization vulnerability in Mamunur Rashid Radius Booking — Booking Calendar for Appointments &amp; Services… |
+| 2026-11-26 19:17:09 | [CVE-2026-134712](https://nvd.nist.gov/vuln/detail/CVE-2026-134712) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in DevItems ShopLent… |
+| 2026-11-26 19:17:09 | [CVE-2026-134713](https://nvd.nist.gov/vuln/detail/CVE-2026-134713) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in INTINITUM FORM Tr… |
+| 2026-11-26 19:17:09 | [CVE-2026-134714](https://nvd.nist.gov/vuln/detail/CVE-2026-134714) | High | 7.5 | Missing Authorization vulnerability in Webful Creations RepairBuddy computer-repair-shop allows Exploiting Incorrectly… |
+| 2026-11-26 19:17:09 | [CVE-2026-134955](https://nvd.nist.gov/vuln/detail/CVE-2026-134955) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in tychesoftwares Pr… |
+| 2026-11-26 19:17:10 | [CVE-2026-135037](https://nvd.nist.gov/vuln/detail/CVE-2026-135037) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Mohammed Kaludi A… |
+| 2026-11-26 19:17:10 | [CVE-2026-135038](https://nvd.nist.gov/vuln/detail/CVE-2026-135038) | High | 7.5 | Missing Authorization vulnerability in weDevs WP ERP erp allows Exploiting Incorrectly Configured Access Control Securi… |
+| 2026-11-26 19:17:10 | [CVE-2026-135039](https://nvd.nist.gov/vuln/detail/CVE-2026-135039) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Liquid Web / Stel… |
+| 2026-11-26 19:17:10 | [CVE-2026-137418](https://nvd.nist.gov/vuln/detail/CVE-2026-137418) | Low | 2.1 | A security vulnerability has been detected in Cerebras ModelZoo up to d76e028d6a5f784954b1329b3ae44721ca8da36a. Affecte… |
+| 2026-11-26 19:17:10 | [CVE-2026-137436](https://nvd.nist.gov/vuln/detail/CVE-2026-137436) | Medium | 5.5 | A vulnerability was found in SourceCodester Basic Hotel Online Reservation System 1.0. The affected element is an unkno… |
+| 2026-11-26 19:17:10 | [CVE-2026-137437](https://nvd.nist.gov/vuln/detail/CVE-2026-137437) | Medium | 5.5 | A vulnerability was determined in SourceCodester Basic Hotel Online Reservation System 1.0. The impacted element is an… |
+| 2026-11-26 19:17:11 | [CVE-2026-137440](https://nvd.nist.gov/vuln/detail/CVE-2026-137440) | Low | 2.1 | A vulnerability was identified in SourceCodester Basic Hotel Online Reservation System 1.0. This affects an unknown fun… |
 
 ## Data source
 
