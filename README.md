@@ -9,72 +9,25 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 01:21 UTC
+## Latest list — 2026-11-26 02:18 UTC
 
-New CVEs published between 2026-11-26 00:19 UTC and 2026-11-26 01:21 UTC.
+New CVEs published between 2026-11-26 01:21 UTC and 2026-11-26 02:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-26T01-21-02-625956Z.csv)
+[Full CSV](data/new-cves-2026-11-26T02-18-15-548708Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-26 01:17:04 | [CVE-2026-114507](https://nvd.nist.gov/vuln/detail/CVE-2026-114507) | Medium | 6.5 | LightRAG provides simple and fast retrieval-augmented generation. Prior to 1.5.5, query responses are cached under a ke… |
-| 2026-11-26 01:17:04 | [CVE-2026-118547](https://nvd.nist.gov/vuln/detail/CVE-2026-118547) |  |  | Deserialization of Untrusted Data vulnerability in Drupal Content Synchronizer allows Object Injection. This issue affe… |
-| 2026-11-26 01:17:05 | [CVE-2026-118566](https://nvd.nist.gov/vuln/detail/CVE-2026-118566) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Content Sy… |
-| 2026-11-26 01:17:05 | [CVE-2026-122057](https://nvd.nist.gov/vuln/detail/CVE-2026-122057) |  |  | Missing Authorization vulnerability in Drupal S3 File System CORS Upload allows Forceful Browsing. This issue affects S… |
-| 2026-11-26 01:17:05 | [CVE-2026-122058](https://nvd.nist.gov/vuln/detail/CVE-2026-122058) |  |  | Incorrect Authorization vulnerability in Drupal Simple OAuth (OAuth2) & OpenID Connect allows Forceful Browsing. This i… |
-| 2026-11-26 01:17:05 | [CVE-2026-122066](https://nvd.nist.gov/vuln/detail/CVE-2026-122066) |  |  | Missing Authorization vulnerability in Drupal Workflow Notifications allows Forceful Browsing. This issue affects Workf… |
-| 2026-11-26 01:17:05 | [CVE-2026-122067](https://nvd.nist.gov/vuln/detail/CVE-2026-122067) |  |  | Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal REST & JSON API Authentication for Dru… |
-| 2026-11-26 01:17:05 | [CVE-2026-122068](https://nvd.nist.gov/vuln/detail/CVE-2026-122068) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Highlight… |
-| 2026-11-26 01:17:05 | [CVE-2026-122069](https://nvd.nist.gov/vuln/detail/CVE-2026-122069) |  |  | Improper Verification of Cryptographic Signature vulnerability in Drupal AlternativeCommerce PayPal Checkout allows Sig… |
-| 2026-11-26 01:17:05 | [CVE-2026-122070](https://nvd.nist.gov/vuln/detail/CVE-2026-122070) |  |  | Missing Authorization vulnerability in Drupal Commerce Product Alternative allows Forceful Browsing. This issue affects… |
-| 2026-11-26 01:17:05 | [CVE-2026-122071](https://nvd.nist.gov/vuln/detail/CVE-2026-122071) |  |  | Improper Verification of Cryptographic Signature vulnerability in Drupal Commerce Escrow allows Signature Spoof. This i… |
-| 2026-11-26 01:17:06 | [CVE-2026-122072](https://nvd.nist.gov/vuln/detail/CVE-2026-122072) |  |  | Incorrect Authorization vulnerability in Drupal Forum Access allows Forceful Browsing. This issue affects Forum Access… |
-| 2026-11-26 01:17:06 | [CVE-2026-122073](https://nvd.nist.gov/vuln/detail/CVE-2026-122073) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Name Field… |
-| 2026-11-26 01:17:06 | [CVE-2026-122074](https://nvd.nist.gov/vuln/detail/CVE-2026-122074) |  |  | Incorrect Authorization vulnerability in Drupal Reset Password Email/SMS OTP allows Forceful Browsing. This issue affec… |
-| 2026-11-26 01:17:06 | [CVE-2026-122075](https://nvd.nist.gov/vuln/detail/CVE-2026-122075) |  |  | Incorrect Authorization vulnerability in Drupal Scheduler allows Forceful Browsing. This issue affects Scheduler versio… |
-| 2026-11-26 01:17:06 | [CVE-2026-122076](https://nvd.nist.gov/vuln/detail/CVE-2026-122076) |  |  | Unverified Password Change vulnerability in Drupal Password Separate Form allows Functionality Bypass. This issue affec… |
-| 2026-11-26 01:17:06 | [CVE-2026-122077](https://nvd.nist.gov/vuln/detail/CVE-2026-122077) |  |  | Incorrect Authorization vulnerability in Drupal Allowed Languages allows Forceful Browsing. This issue affects Allowed… |
-| 2026-11-26 01:17:06 | [CVE-2026-122078](https://nvd.nist.gov/vuln/detail/CVE-2026-122078) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Extended H… |
-| 2026-11-26 01:17:06 | [CVE-2026-122079](https://nvd.nist.gov/vuln/detail/CVE-2026-122079) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal htmLawed a… |
-| 2026-11-26 01:17:06 | [CVE-2026-122080](https://nvd.nist.gov/vuln/detail/CVE-2026-122080) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal htmLawed a… |
-| 2026-11-26 01:17:07 | [CVE-2026-122081](https://nvd.nist.gov/vuln/detail/CVE-2026-122081) |  |  | Incorrect Authorization vulnerability in Drupal Islandora allows Forceful Browsing. This issue affects Islandora versio… |
-| 2026-11-26 01:17:07 | [CVE-2026-122082](https://nvd.nist.gov/vuln/detail/CVE-2026-122082) |  |  | Insertion of Sensitive Information Into Sent Data vulnerability in Drupal Mime Mail allows Forceful Browsing. This issu… |
-| 2026-11-26 01:17:07 | [CVE-2026-122083](https://nvd.nist.gov/vuln/detail/CVE-2026-122083) |  |  | Privilege Defined With Unsafe Actions vulnerability in Drupal AdobeAnalytics allows Stored XSS. This issue affects Adob… |
-| 2026-11-26 01:17:07 | [CVE-2026-122084](https://nvd.nist.gov/vuln/detail/CVE-2026-122084) |  |  | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Drupal WordsOnlin… |
-| 2026-11-26 01:17:07 | [CVE-2026-126725](https://nvd.nist.gov/vuln/detail/CVE-2026-126725) |  |  | Incorrect Authorization vulnerability in Drupal GraphQL Core Schema allows Forceful Browsing. This issue affects GraphQ… |
-| 2026-11-26 01:17:07 | [CVE-2026-126726](https://nvd.nist.gov/vuln/detail/CVE-2026-126726) |  |  | Missing Authorization vulnerability in Drupal Paragraphs Edit allows Forceful Browsing. This issue affects Paragraphs E… |
-| 2026-11-26 01:17:07 | [CVE-2026-126727](https://nvd.nist.gov/vuln/detail/CVE-2026-126727) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Texts: key… |
-| 2026-11-26 01:17:07 | [CVE-2026-126728](https://nvd.nist.gov/vuln/detail/CVE-2026-126728) |  |  | Cross-Site Request Forgery (CSRF) vulnerability in Drupal Texts: key-based strings and translations allows Cross Site R… |
-| 2026-11-26 01:17:08 | [CVE-2026-126729](https://nvd.nist.gov/vuln/detail/CVE-2026-126729) |  |  | Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Authenticator Login Plus (2FA) allows… |
-| 2026-11-26 01:17:08 | [CVE-2026-126730](https://nvd.nist.gov/vuln/detail/CVE-2026-126730) |  |  | Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Authenticator Login Plus (2FA) allows… |
-| 2026-11-26 01:17:08 | [CVE-2026-126731](https://nvd.nist.gov/vuln/detail/CVE-2026-126731) |  |  | Authentication Bypass Using an Alternate Path or Channel vulnerability in Drupal Authenticator Login Plus (2FA) allows… |
-| 2026-11-26 01:17:08 | [CVE-2026-126732](https://nvd.nist.gov/vuln/detail/CVE-2026-126732) |  |  | Incorrect Authorization vulnerability in Drupal Commerce License allows Forceful Browsing. This issue affects Commerce… |
-| 2026-11-26 01:17:08 | [CVE-2026-126733](https://nvd.nist.gov/vuln/detail/CVE-2026-126733) |  |  | Incorrect Authorization vulnerability in Drupal Commerce License allows Forceful Browsing. This issue affects Commerce… |
-| 2026-11-26 01:17:08 | [CVE-2026-126734](https://nvd.nist.gov/vuln/detail/CVE-2026-126734) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Paragraphs… |
-| 2026-11-26 01:17:08 | [CVE-2026-126735](https://nvd.nist.gov/vuln/detail/CVE-2026-126735) |  |  | Cross-Site Request Forgery (CSRF) vulnerability in Drupal Campaign Monitor allows Cross Site Request Forgery. This issu… |
-| 2026-11-26 01:17:08 | [CVE-2026-126736](https://nvd.nist.gov/vuln/detail/CVE-2026-126736) |  |  | Insertion of Sensitive Information Into Sent Data vulnerability in Drupal Entity Print allows Forceful Browsing. This i… |
-| 2026-11-26 01:17:08 | [CVE-2026-126737](https://nvd.nist.gov/vuln/detail/CVE-2026-126737) |  |  | Incorrect Authorization vulnerability in Drupal Mollie for Drupal allows Forceful Browsing. This issue affects Mollie f… |
-| 2026-11-26 01:17:09 | [CVE-2026-126738](https://nvd.nist.gov/vuln/detail/CVE-2026-126738) |  |  | Insertion of Sensitive Information Into Sent Data vulnerability in Drupal Mollie for Drupal allows Forceful Browsing. T… |
-| 2026-11-26 01:17:09 | [CVE-2026-126739](https://nvd.nist.gov/vuln/detail/CVE-2026-126739) |  |  | Cross-Site Request Forgery (CSRF) vulnerability in Drupal Page Manager allows Cross Site Request Forgery. This issue af… |
-| 2026-11-26 01:17:09 | [CVE-2026-126740](https://nvd.nist.gov/vuln/detail/CVE-2026-126740) |  |  | Missing Authorization vulnerability in Drupal Download Count allows Forceful Browsing. This issue affects Download Coun… |
-| 2026-11-26 01:17:09 | [CVE-2026-126741](https://nvd.nist.gov/vuln/detail/CVE-2026-126741) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Smart Trim… |
-| 2026-11-26 01:17:09 | [CVE-2026-126742](https://nvd.nist.gov/vuln/detail/CVE-2026-126742) |  |  | Incorrect Authorization vulnerability in Drupal Commerce sermepa allows Forceful Browsing. This issue affects Commerce… |
-| 2026-11-26 01:17:09 | [CVE-2026-126743](https://nvd.nist.gov/vuln/detail/CVE-2026-126743) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal COOKiES Co… |
-| 2026-11-26 01:17:09 | [CVE-2026-126744](https://nvd.nist.gov/vuln/detail/CVE-2026-126744) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Layout Bui… |
-| 2026-11-26 01:17:09 | [CVE-2026-126745](https://nvd.nist.gov/vuln/detail/CVE-2026-126745) |  |  | Improper Neutralization of Special Elements Used in a Template Engine vulnerability in Drupal Real Name allows Code Inj… |
-| 2026-11-26 01:17:09 | [CVE-2026-126746](https://nvd.nist.gov/vuln/detail/CVE-2026-126746) |  |  | Incorrect Authorization vulnerability in Drupal S3 File System CORS Upload allows Forceful Browsing. This issue affects… |
-| 2026-11-26 01:17:10 | [CVE-2026-126747](https://nvd.nist.gov/vuln/detail/CVE-2026-126747) |  |  | Missing Authorization vulnerability in Drupal File Resumable Upload allows Forceful Browsing. This issue affects File R… |
-| 2026-11-26 01:17:10 | [CVE-2026-126760](https://nvd.nist.gov/vuln/detail/CVE-2026-126760) |  |  | Improper Neutralization of Input During Web Page Generation ("Cross-site Scripting") vulnerability in Drupal Data field… |
-| 2026-11-26 01:17:10 | [CVE-2026-132165](https://nvd.nist.gov/vuln/detail/CVE-2026-132165) |  |  | Missing Authentication for Critical Function vulnerability in Drupal Drupal core allows Exploiting Incorrectly Configur… |
-| 2026-11-26 01:17:10 | [CVE-2026-132166](https://nvd.nist.gov/vuln/detail/CVE-2026-132166) |  |  | Improperly Controlled Modification of Dynamically-Determined Object Attributes vulnerability in Drupal Drupal core allo… |
-| 2026-11-26 01:17:10 | [CVE-2026-136716](https://nvd.nist.gov/vuln/detail/CVE-2026-136716) |  |  | Improper Check for Unusual or Exceptional Conditions vulnerability in Drupal Drupal core allows Forceful Browsing. This… |
-| 2026-11-26 01:17:10 | [CVE-2026-136876](https://nvd.nist.gov/vuln/detail/CVE-2026-136876) | Medium | 6.9 | A weakness has been identified in GL.iNet GL-A1300, GL-AR300M, GL-AR300M16, GL-AX1800, GL-AXT1800, GL-B3000, GL-BE3600,… |
-| 2026-11-26 01:17:10 | [CVE-2026-136877](https://nvd.nist.gov/vuln/detail/CVE-2026-136877) | Medium | 6.9 | A security vulnerability has been detected in GL.iNet GL-A1300, GL-AR300M, GL-AR300M16, GL-AX1800, GL-AXT1800, GL-B3000… |
-| 2026-11-26 01:17:11 | [CVE-2026-136945](https://nvd.nist.gov/vuln/detail/CVE-2026-136945) | Low | 2.1 | A vulnerability was determined in FastStone Image Viewer up to 8.5. This vulnerability affects unknown code of the file… |
-| 2026-11-26 01:17:11 | [CVE-2026-136946](https://nvd.nist.gov/vuln/detail/CVE-2026-136946) | Medium | 5.5 | A vulnerability was identified in philipjscott simple-thumbnail up to 1.6.5. This issue affects the function ffmpegExec… |
-| 2026-11-26 01:17:11 | [CVE-2026-17194](https://nvd.nist.gov/vuln/detail/CVE-2026-17194) | Medium | 5.7 | GitLab has remediated an issue in GitLab CE/EE affecting all versions from 16.7.0 before 19.4.11, 19.5 before 19.5.9, a… |
-| 2026-11-26 01:17:11 | [CVE-2026-52803](https://nvd.nist.gov/vuln/detail/CVE-2026-52803) | High | 7.6 | Gogs is an open source self-hosted Git service. Prior to 0.15.0, Gogs does not regenerate the session ID after successf… |
-| 2026-11-26 01:17:11 | [CVE-2026-66784](https://nvd.nist.gov/vuln/detail/CVE-2026-66784) | High | 8.7 | A flaw was found in Submariner. In its default Pre-Shared Key (PSK) mode, all gateways within a broker set utilize the… |
+| 2026-11-26 02:16:59 | [CVE-2026-115576](https://nvd.nist.gov/vuln/detail/CVE-2026-115576) | High | 8.8 | NetBird is a zero-trust networking platform that connects people, machines, and AI agents across any network. From vers… |
+| 2026-11-26 02:17:00 | [CVE-2026-122263](https://nvd.nist.gov/vuln/detail/CVE-2026-122263) | Low | 2.6 | Kestra is an open-source control plane for workflows across data, infrastructure, and applications. Prior to version 2.… |
+| 2026-11-26 02:17:01 | [CVE-2026-136947](https://nvd.nist.gov/vuln/detail/CVE-2026-136947) | Medium | 5.5 | A security flaw has been discovered in msaifulcsse Ticket-Travel-Management-System 28b68cea41b3a9eb8d533db992e0b5ba2db6… |
+| 2026-11-26 02:17:01 | [CVE-2026-136949](https://nvd.nist.gov/vuln/detail/CVE-2026-136949) | Medium | 5.5 | A weakness has been identified in nliautaud pico-content-editor up to 02d5ad6c820c5050c542ab9505819b5e0a0ba1af. The aff… |
+| 2026-11-26 02:17:01 | [CVE-2026-136950](https://nvd.nist.gov/vuln/detail/CVE-2026-136950) | Medium | 5.3 | A security vulnerability has been detected in Ghostty up to 1.3.1. The impacted element is an unknown function of the c… |
+| 2026-11-26 02:17:02 | [CVE-2026-136990](https://nvd.nist.gov/vuln/detail/CVE-2026-136990) | Low | 1.3 | A vulnerability has been found in TAILG Feimeng up to 20261028. Affected is an unknown function of the component Wirele… |
+| 2026-11-26 02:17:02 | [CVE-2026-137305](https://nvd.nist.gov/vuln/detail/CVE-2026-137305) | High | 8.7 | Grav Form plugin before 9.2.4 contains a code injection vulnerability that allows page authors to write uploads into Tw… |
+| 2026-11-26 02:17:02 | [CVE-2026-137306](https://nvd.nist.gov/vuln/detail/CVE-2026-137306) | High | 7.6 | Grav Admin plugin before 1.10.65 contains a password reset poisoning vulnerability in LoginController::taskForgot() tha… |
+| 2026-11-26 02:17:02 | [CVE-2026-137307](https://nvd.nist.gov/vuln/detail/CVE-2026-137307) | Low | 2.3 | wpa_supplicant 2.7 through 2.12 with the wolfSSL backend contains an EAP-FAST server authentication bypass in tls_sess_… |
+| 2026-11-26 02:17:02 | [CVE-2026-137308](https://nvd.nist.gov/vuln/detail/CVE-2026-137308) | High | 8.3 | markdownify-mcp before 1.2.0 contains a server-side request forgery vulnerability that allows attackers to bypass URL v… |
+| 2026-11-26 02:17:02 | [CVE-2026-137309](https://nvd.nist.gov/vuln/detail/CVE-2026-137309) | High | 7.1 | Friendica through 2026.05-1 contains an incorrect authorization vulnerability in item_edit() that allows authenticated… |
 
 ## Data source
 
