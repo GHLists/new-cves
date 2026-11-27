@@ -9,30 +9,23 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 05:20 UTC
+## Latest list — 2026-11-27 06:18 UTC
 
-New CVEs published between 2026-11-27 04:20 UTC and 2026-11-27 05:20 UTC.
+New CVEs published between 2026-11-27 05:20 UTC and 2026-11-27 06:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T05-20-40-727003Z.csv)
+[Full CSV](data/new-cves-2026-11-27T06-18-55-510095Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 05:18:58 | [CVE-2026-105917](https://nvd.nist.gov/vuln/detail/CVE-2026-105917) | High | 8.8 | File Permission Vulnerability in RV3000 Log Monitor for VMware. This issue affects RV3000 Log Monitor for VMware(CIM):… |
-| 2026-11-27 05:18:59 | [CVE-2026-115283](https://nvd.nist.gov/vuln/detail/CVE-2026-115283) | High | 8.8 | Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02… |
-| 2026-11-27 05:18:59 | [CVE-2026-115284](https://nvd.nist.gov/vuln/detail/CVE-2026-115284) | High | 8.4 | Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02… |
-| 2026-11-27 05:18:59 | [CVE-2026-115285](https://nvd.nist.gov/vuln/detail/CVE-2026-115285) | High | 7.6 | DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02-02 through 02-76;… |
-| 2026-11-27 05:18:59 | [CVE-2026-115286](https://nvd.nist.gov/vuln/detail/CVE-2026-115286) | High | 7.3 | DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02-02 through 02-76;… |
-| 2026-11-27 05:19:00 | [CVE-2026-115287](https://nvd.nist.gov/vuln/detail/CVE-2026-115287) | High | 7.3 | DoS vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02-02 through 02-76;… |
-| 2026-11-27 05:19:00 | [CVE-2026-115288](https://nvd.nist.gov/vuln/detail/CVE-2026-115288) | High | 8.4 | Missing authentication vulnerability in BS2500/BS500 Virtage Firmware. This issue affects BladeSymphony BS2500: from 02… |
-| 2026-11-27 05:19:00 | [CVE-2026-119071](https://nvd.nist.gov/vuln/detail/CVE-2026-119071) | High | 8.1 | The W3 Total Cache plugin for WordPress is vulnerable to unauthorized File Deletion in all versions up to, and includin… |
-| 2026-11-27 05:19:00 | [CVE-2026-119072](https://nvd.nist.gov/vuln/detail/CVE-2026-119072) | Medium | 5.3 | The W3 Total Cache plugin for WordPress is vulnerable to Sensitive Information Exposure in all versions up to, and incl… |
-| 2026-11-27 05:19:01 | [CVE-2026-130318](https://nvd.nist.gov/vuln/detail/CVE-2026-130318) | Medium | 5.4 | The W3 Total Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'comment' parameter in all… |
-| 2026-11-27 05:19:01 | [CVE-2026-136995](https://nvd.nist.gov/vuln/detail/CVE-2026-136995) | High | 7.2 | The Upsell Funnel Builder for WooCommerce – Create Upsells, Cross-Sells, Order Bumps, Frequently Bought, and Popups. pl… |
-| 2026-11-27 05:19:01 | [CVE-2026-137680](https://nvd.nist.gov/vuln/detail/CVE-2026-137680) | Medium | 4.8 | A vulnerability has been found in RT-Thread up to 5.3.0. This issue affects the function ab32_get_adc_value of the file… |
-| 2026-11-27 05:19:02 | [CVE-2026-137681](https://nvd.nist.gov/vuln/detail/CVE-2026-137681) | Medium | 5.5 | A vulnerability was found in eosphoros-ai DB-GPT up to 0.8.2. Impacted is the function _react_agent_stream_impl of the… |
-| 2026-11-27 05:19:02 | [CVE-2026-137682](https://nvd.nist.gov/vuln/detail/CVE-2026-137682) | Medium | 5.5 | A vulnerability was determined in eosphoros-ai DB-GPT up to 0.8.2. The affected element is the function editor_sql_run… |
-| 2026-11-27 05:19:02 | [CVE-2026-137683](https://nvd.nist.gov/vuln/detail/CVE-2026-137683) | Medium | 5.5 | A vulnerability was identified in eosphoros-ai DB-GPT up to 0.8.3. The impacted element is the function get_editor_tabl… |
-| 2026-11-27 05:19:02 | [CVE-2026-137715](https://nvd.nist.gov/vuln/detail/CVE-2026-137715) | High | 7.7 | Webmin through 2.670 before 07d1949 does not escape a save_log.cgi log file path. This is relevant for code execution i… |
+| 2026-11-27 06:17:08 | [CVE-2026-124802](https://nvd.nist.gov/vuln/detail/CVE-2026-124802) |  |  | The Dilemma Lite WordPress plugin through 1.1.1 does not sanitise or escape the choices of dilemmas submitted by visito… |
+| 2026-11-27 06:17:08 | [CVE-2026-125627](https://nvd.nist.gov/vuln/detail/CVE-2026-125627) | Medium | 6.5 | A **NULL pointer dereference** flaw has been found in the vlv_value_compare() function in vlv_pagination.c of the Virtu… |
+| 2026-11-27 06:17:08 | [CVE-2026-137685](https://nvd.nist.gov/vuln/detail/CVE-2026-137685) | Low | 1.9 | A weakness has been identified in WazirX App up to 4.4.2 on Android. This impacts an unknown function. Executing a mani… |
+| 2026-11-27 06:17:09 | [CVE-2026-137687](https://nvd.nist.gov/vuln/detail/CVE-2026-137687) | Medium | 6.9 | A security vulnerability has been detected in WOW-CMS BlizzCMS up to 1.2.1. Affected is the function Home::setconfig of… |
+| 2026-11-27 06:17:09 | [CVE-2026-137689](https://nvd.nist.gov/vuln/detail/CVE-2026-137689) | Medium | 6.9 | A vulnerability was detected in bayang jelu up to 0.88.2. Affected by this vulnerability is the function addResourceHan… |
+| 2026-11-27 06:17:09 | [CVE-2026-137721](https://nvd.nist.gov/vuln/detail/CVE-2026-137721) | Critical | 10.0 | A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Manager could allow an attacker to… |
+| 2026-11-27 06:17:09 | [CVE-2026-137723](https://nvd.nist.gov/vuln/detail/CVE-2026-137723) | Critical | 9.6 | A vulnerability in the Platform component of Mitel OpenScape 4000 and OpenScape 4000 Manager could allow an attacker to… |
+| 2026-11-27 06:17:09 | [CVE-2026-137724](https://nvd.nist.gov/vuln/detail/CVE-2026-137724) | Critical | 10.0 | A vulnerability in the Platform component of Mitel OpenScape 4000, and OpenScape 4000 Manager could allow an unauthenti… |
+| 2026-11-27 06:17:09 | [CVE-2026-137738](https://nvd.nist.gov/vuln/detail/CVE-2026-137738) | Critical | 9.8 | In RealVNC Server before 7.19.1, UDP-based connections could potentially be exploited without authentication to execute… |
 
 ## Data source
 
