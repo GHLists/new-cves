@@ -9,21 +9,31 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 02:21 UTC
+## Latest list — 2026-11-27 03:19 UTC
 
-New CVEs published between 2026-11-27 01:19 UTC and 2026-11-27 02:21 UTC.
+New CVEs published between 2026-11-27 02:21 UTC and 2026-11-27 03:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T02-21-10-64139Z.csv)
+[Full CSV](data/new-cves-2026-11-27T03-19-06-642398Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 02:16:43 | [CVE-2026-106125](https://nvd.nist.gov/vuln/detail/CVE-2026-106125) | Critical | 9.8 | The Sneeit Framework plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 8.7… |
-| 2026-11-27 02:16:43 | [CVE-2026-113774](https://nvd.nist.gov/vuln/detail/CVE-2026-113774) | High | 8.8 | The Schema & Structured Data for WP & AMP plugin for WordPress is vulnerable to PHP Object Injection in versions up to,… |
-| 2026-11-27 02:16:43 | [CVE-2026-115867](https://nvd.nist.gov/vuln/detail/CVE-2026-115867) | Critical | 9.8 | The Database for Contact Form 7, WPforms, Elementor forms plugin for WordPress is vulnerable to Arbitrary File Upload i… |
-| 2026-11-27 02:16:43 | [CVE-2026-116494](https://nvd.nist.gov/vuln/detail/CVE-2026-116494) | Medium | 6.5 | The Forminator Forms plugin for WordPress is vulnerable to Account Approval Bypass in all versions up to, and including… |
-| 2026-11-27 02:16:44 | [CVE-2026-126717](https://nvd.nist.gov/vuln/detail/CVE-2026-126717) | High | 7.2 | The Translate WordPress with Weglot 2.0 – Multilingual AI Translation plugin for WordPress is vulnerable to Stored Cros… |
-| 2026-11-27 02:16:45 | [CVE-2026-135616](https://nvd.nist.gov/vuln/detail/CVE-2026-135616) | High | 7.5 | The W3 Total Cache plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 2.1… |
-| 2026-11-27 02:16:45 | [CVE-2026-137702](https://nvd.nist.gov/vuln/detail/CVE-2026-137702) | High | 8.1 | Exim before 4.100.2 allows attackers to send SMTP traffic that triggers a heap out-of-bounds write in expansion code ru… |
+| 2026-11-27 03:17:02 | [CVE-2026-130039](https://nvd.nist.gov/vuln/detail/CVE-2026-130039) | Medium | 6.1 | The LiteSpeed Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'REQUEST_URI' parameter i… |
+| 2026-11-27 03:17:02 | [CVE-2026-131578](https://nvd.nist.gov/vuln/detail/CVE-2026-131578) | Medium | 6.4 | The Simple Calendar – Google Calendar, Events, & ICS Feeds plugin for WordPress is vulnerable to Stored Cross-Site Scri… |
+| 2026-11-27 03:17:02 | [CVE-2026-131863](https://nvd.nist.gov/vuln/detail/CVE-2026-131863) | Medium | 6.4 | The Easy Google Maps by Supsystic – Custom Markers, Clustering & Map Themes plugin for WordPress is vulnerable to Store… |
+| 2026-11-27 03:17:02 | [CVE-2026-135618](https://nvd.nist.gov/vuln/detail/CVE-2026-135618) | Medium | 6.4 | The Extensions for Leaflet Map plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'extraclasses… |
+| 2026-11-27 03:17:02 | [CVE-2026-135622](https://nvd.nist.gov/vuln/detail/CVE-2026-135622) | Medium | 6.4 | The Extensions for Leaflet Map plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'overview-latl… |
+| 2026-11-27 03:17:02 | [CVE-2026-136206](https://nvd.nist.gov/vuln/detail/CVE-2026-136206) | Medium | 6.1 | The Export Products, Orders & Customers for WooCommerce plugin for WordPress is vulnerable to Reflected Cross-Site Scri… |
+| 2026-11-27 03:17:03 | [CVE-2026-136215](https://nvd.nist.gov/vuln/detail/CVE-2026-136215) | Medium | 6.4 | The All-in-One Video Gallery – Video Player & Galleries for YouTube, Vimeo & Self-Hosted Videos plugin for WordPress is… |
+| 2026-11-27 03:17:03 | [CVE-2026-136992](https://nvd.nist.gov/vuln/detail/CVE-2026-136992) | Medium | 6.4 | The All-in-One Video Gallery – Video Player & Galleries for YouTube, Vimeo & Self-Hosted Videos plugin for WordPress is… |
+| 2026-11-27 03:17:03 | [CVE-2026-137041](https://nvd.nist.gov/vuln/detail/CVE-2026-137041) | High | 7.2 | The E2Pdf – Export Pdf Tool for WordPress plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the 'yo… |
+| 2026-11-27 03:17:03 | [CVE-2026-137678](https://nvd.nist.gov/vuln/detail/CVE-2026-137678) | Medium | 5.5 | A security vulnerability has been detected in code-projects Online Job Portal 1.0. Affected by this issue is some unkno… |
+| 2026-11-27 03:17:03 | [CVE-2026-137703](https://nvd.nist.gov/vuln/detail/CVE-2026-137703) | Medium | 5.3 | Flask-AppBuilder before 5.3.1 contains a path traversal vulnerability in ImageManager.save_file that allows authenticat… |
+| 2026-11-27 03:17:03 | [CVE-2026-137704](https://nvd.nist.gov/vuln/detail/CVE-2026-137704) | High | 8.6 | D-Link DWM-222W developed by D-Link Corporation has a Use of Hard-coded Credentials vulnerability. Unauthenticated adja… |
+| 2026-11-27 03:17:04 | [CVE-2026-137705](https://nvd.nist.gov/vuln/detail/CVE-2026-137705) | High | 8.7 | Smart Portal developed by Direk Tech has an Arbitrary File Read vulnerability.Unauthenticated remote attackers can expl… |
+| 2026-11-27 03:17:04 | [CVE-2026-137706](https://nvd.nist.gov/vuln/detail/CVE-2026-137706) | Critical | 9.4 | Smart Portal developed by Direk Tech has a Missing Authorization vulnerability. Authenticated remote attackers can add… |
+| 2026-11-27 03:17:04 | [CVE-2026-137707](https://nvd.nist.gov/vuln/detail/CVE-2026-137707) | Medium | 5.1 | The Mail2000 developed by Openfind has a Reflected Cross-site Scripting vulnerability. Unauthenticated remote attackers… |
+| 2026-11-27 03:17:04 | [CVE-2026-89228](https://nvd.nist.gov/vuln/detail/CVE-2026-89228) | Medium | 6.9 | An improper path validation defect in AccessibilityEnhanceProvider (com.vivo.accessibilityenhance.catcher.Accessibility… |
+| 2026-11-27 03:17:04 | [CVE-2026-92549](https://nvd.nist.gov/vuln/detail/CVE-2026-92549) | Medium | 6.1 | The Easy Social Share Buttons for WordPress plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via th… |
 
 ## Data source
 
