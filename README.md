@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 21:18 UTC
+## Latest list — 2026-11-27 22:19 UTC
 
-New CVEs published between 2026-11-27 20:22 UTC and 2026-11-27 21:18 UTC.
+New CVEs published between 2026-11-27 21:18 UTC and 2026-11-27 22:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T21-18-58-668569Z.csv)
+[Full CSV](data/new-cves-2026-11-27T22-19-02-341847Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 21:17:14 | [CVE-2026-137941](https://nvd.nist.gov/vuln/detail/CVE-2026-137941) | High | 7.8 | A flaw was found in GIMP. The Levels configuration setter does not validate the channel enum before using it to index f… |
-| 2026-11-27 21:17:14 | [CVE-2026-137974](https://nvd.nist.gov/vuln/detail/CVE-2026-137974) | High | 7.0 | A flaw was found in tuned. This vulnerability allows local privilege escalation because the spindown-disk profile scrip… |
+| 2026-11-27 22:17:54 | [CVE-2026-138003](https://nvd.nist.gov/vuln/detail/CVE-2026-138003) | Critical | 9.0 | A weakness has been identified in TRENDnet TEW-751DR 1.03B01. This impacts the function FUN_0040ed90 of the file wfadev… |
 
 ## Data source
 
