@@ -1,0 +1,4 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-27T07:17:01.407Z,CVE-2025-3088,,,Rejected,,0,Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+2026-11-27T07:17:03.323Z,CVE-2026-77679,,,Received,CWE-22,4,"A path traversal (ZIP slip) vulnerability exists in Epiphany when installing WebExtension packages from .xpi files. In src/webextension/ephy-web-extension-manager.c, the decompress_xpi_thread() function extracts XPI archives (ZIP format) to disk using libarchive. For each archive entry, the output…"
+2026-11-27T07:17:03.603Z,CVE-2026-77682,,,Received,CWE-94,4,"A code injection vulnerability exists in Epiphany when the user invokes form autofill from the context menu on a page containing a malicious HTML form. In embed/web-process-extension/resources/js/ephy_autofill.js, getSelector() builds a CSS selector by directly interpolating an element's id attribu…"
