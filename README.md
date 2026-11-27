@@ -9,15 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 22:19 UTC
+## Latest list — 2026-11-27 23:19 UTC
 
-New CVEs published between 2026-11-27 21:18 UTC and 2026-11-27 22:19 UTC.
+New CVEs published between 2026-11-27 22:19 UTC and 2026-11-27 23:19 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T22-19-02-341847Z.csv)
+[Full CSV](data/new-cves-2026-11-27T23-19-07-588515Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 22:17:54 | [CVE-2026-138003](https://nvd.nist.gov/vuln/detail/CVE-2026-138003) | Critical | 9.0 | A weakness has been identified in TRENDnet TEW-751DR 1.03B01. This impacts the function FUN_0040ed90 of the file wfadev… |
+| 2026-11-27 23:16:36 | [CVE-2026-107967](https://nvd.nist.gov/vuln/detail/CVE-2026-107967) | Low | 0.9 | HCL Verse for Android included a decryption code for compatibility with locally stored values and attachment files crea… |
+| 2026-11-27 23:16:36 | [CVE-2026-138004](https://nvd.nist.gov/vuln/detail/CVE-2026-138004) | Critical | 9.3 | A security vulnerability has been detected in TRENDnet TEW-751DR and TEW-733GR 1.03B01. Affected is the function soapcg… |
 
 ## Data source
 
