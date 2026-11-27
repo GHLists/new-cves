@@ -9,19 +9,27 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 11:19 UTC
+## Latest list — 2026-11-27 12:18 UTC
 
-New CVEs published between 2026-11-27 10:20 UTC and 2026-11-27 11:19 UTC.
+New CVEs published between 2026-11-27 11:19 UTC and 2026-11-27 12:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T11-19-08-725167Z.csv)
+[Full CSV](data/new-cves-2026-11-27T12-18-48-250595Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 11:17:04 | [CVE-2025-41680](https://nvd.nist.gov/vuln/detail/CVE-2025-41680) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
-| 2026-11-27 11:17:05 | [CVE-2026-127118](https://nvd.nist.gov/vuln/detail/CVE-2026-127118) | High | 7.1 | RCDevs OpenOTP SMS integration connector does not validate the TLS certificate of the remote endpoint, and transmitted… |
-| 2026-11-27 11:17:06 | [CVE-2026-137742](https://nvd.nist.gov/vuln/detail/CVE-2026-137742) | Medium | 5.5 | A security flaw has been discovered in Free5GC up to 4.2.3. Affected is the function handleAssociationSetupRequest of t… |
-| 2026-11-27 11:17:06 | [CVE-2026-137826](https://nvd.nist.gov/vuln/detail/CVE-2026-137826) | Medium | 6.9 | Lookyloo is a web-based malware analysis and sandboxing platform. The pull-from-remote-instance feature allows a user t… |
-| 2026-11-27 11:17:06 | [CVE-2026-137888](https://nvd.nist.gov/vuln/detail/CVE-2026-137888) | Medium | 6.3 | Flowintel contains a Server-Side Request Forgery (SSRF) vulnerability in its HedgeDoc case-notes integration. When a us… |
+| 2026-11-27 12:17:03 | [CVE-2025-0102](https://nvd.nist.gov/vuln/detail/CVE-2025-0102) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-27 12:17:04 | [CVE-2025-41740](https://nvd.nist.gov/vuln/detail/CVE-2025-41740) |  |  | Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. |
+| 2026-11-27 12:17:04 | [CVE-2026-116397](https://nvd.nist.gov/vuln/detail/CVE-2026-116397) | Medium | 4.3 | Missing Authorization vulnerability in WPTasty Business Directory business-directory-plugin allows Exploiting Incorrect… |
+| 2026-11-27 12:17:05 | [CVE-2026-123706](https://nvd.nist.gov/vuln/detail/CVE-2026-123706) | Low | 1.7 | An out-of-bounds write vulnerability in the Qt VectorImage component of the Qt Quick module. |
+| 2026-11-27 12:17:05 | [CVE-2026-129052](https://nvd.nist.gov/vuln/detail/CVE-2026-129052) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Greg Winiarski WP… |
+| 2026-11-27 12:17:05 | [CVE-2026-135941](https://nvd.nist.gov/vuln/detail/CVE-2026-135941) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Booking Activitie… |
+| 2026-11-27 12:17:05 | [CVE-2026-135942](https://nvd.nist.gov/vuln/detail/CVE-2026-135942) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeum Tutor LMS… |
+| 2026-11-27 12:17:05 | [CVE-2026-135949](https://nvd.nist.gov/vuln/detail/CVE-2026-135949) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeisle MPG mul… |
+| 2026-11-27 12:17:06 | [CVE-2026-135951](https://nvd.nist.gov/vuln/detail/CVE-2026-135951) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Designinvento Dir… |
+| 2026-11-27 12:17:06 | [CVE-2026-135958](https://nvd.nist.gov/vuln/detail/CVE-2026-135958) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in jgwhite33 WP Revi… |
+| 2026-11-27 12:17:06 | [CVE-2026-135960](https://nvd.nist.gov/vuln/detail/CVE-2026-135960) | Medium | 6.5 | Insertion of Sensitive Information into Externally-Accessible File or Directory vulnerability in PayTR Ödeme ve Elektro… |
+| 2026-11-27 12:17:06 | [CVE-2026-135961](https://nvd.nist.gov/vuln/detail/CVE-2026-135961) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Nks Continuous Im… |
+| 2026-11-27 12:17:06 | [CVE-2026-137743](https://nvd.nist.gov/vuln/detail/CVE-2026-137743) | Medium | 5.7 | A weakness has been identified in Free5GC up to 4.2.3. Affected by this vulnerability is an unknown functionality of th… |
 
 ## Data source
 
