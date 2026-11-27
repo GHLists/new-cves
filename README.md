@@ -9,49 +9,59 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 13:18 UTC
+## Latest list — 2026-11-27 14:18 UTC
 
-New CVEs published between 2026-11-27 12:18 UTC and 2026-11-27 13:18 UTC.
+New CVEs published between 2026-11-27 13:18 UTC and 2026-11-27 14:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T13-18-44-476855Z.csv)
+[Full CSV](data/new-cves-2026-11-27T14-18-45-662415Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 13:17:21 | [CVE-2026-106169](https://nvd.nist.gov/vuln/detail/CVE-2026-106169) | Critical | 9.4 | A Deserialization of Untrusted Data vulnerability in the eventbus execution in Google Cloud Application Integration ver… |
-| 2026-11-27 13:17:21 | [CVE-2026-107189](https://nvd.nist.gov/vuln/detail/CVE-2026-107189) | Medium | 4.6 | GNU m4 contains an integer overflow vulnerability in reload_frozen_state() in src/freeze.c. When processing a malicious… |
-| 2026-11-27 13:17:21 | [CVE-2026-115743](https://nvd.nist.gov/vuln/detail/CVE-2026-115743) |  |  | Rejected reason: Not a separate vulnerability: dependency update. See GHSA-6q48-6c7w-9gw2. |
-| 2026-11-27 13:17:21 | [CVE-2026-123755](https://nvd.nist.gov/vuln/detail/CVE-2026-123755) | Medium | 4.3 | An attacker allowed to send AXFR or IXFR queries can cause an outgoing TCP connection to the backend to be stuck, causi… |
-| 2026-11-27 13:17:22 | [CVE-2026-123756](https://nvd.nist.gov/vuln/detail/CVE-2026-123756) | Medium | 4.3 | An attacker can cause a denial of service by sending crafted HTTP queries to the internal webserver. The webserver is n… |
-| 2026-11-27 13:17:22 | [CVE-2026-125633](https://nvd.nist.gov/vuln/detail/CVE-2026-125633) | Medium | 6.5 | A **Type Confusion** has been found in the dns_to_dnsp_convert() function in dnsdata.c of the DNS server RPC module in… |
-| 2026-11-27 13:17:22 | [CVE-2026-133720](https://nvd.nist.gov/vuln/detail/CVE-2026-133720) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Socio WP Teleg… |
-| 2026-11-27 13:17:22 | [CVE-2026-134717](https://nvd.nist.gov/vuln/detail/CVE-2026-134717) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in wp.insider Simple… |
-| 2026-11-27 13:17:22 | [CVE-2026-134939](https://nvd.nist.gov/vuln/detail/CVE-2026-134939) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in David Lingren Med… |
-| 2026-11-27 13:17:23 | [CVE-2026-134957](https://nvd.nist.gov/vuln/detail/CVE-2026-134957) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WP Chill Image Ph… |
-| 2026-11-27 13:17:23 | [CVE-2026-134961](https://nvd.nist.gov/vuln/detail/CVE-2026-134961) | Medium | 6.5 | Missing Authorization vulnerability in Cozy Vision Technologies Pvt. Ltd. SMS Alert Order Notifications sms-alert allow… |
-| 2026-11-27 13:17:23 | [CVE-2026-134963](https://nvd.nist.gov/vuln/detail/CVE-2026-134963) | Critical | 9.9 | Improper Control of Generation of Code ('Code Injection') vulnerability in Webdeclic WPMasterToolKit wpmastertoolkit al… |
-| 2026-11-27 13:17:23 | [CVE-2026-135016](https://nvd.nist.gov/vuln/detail/CVE-2026-135016) | Medium | 6.5 | Missing Authorization vulnerability in Ricardo Martins PagBank / PagSeguro Connect pagbank-connect allows Exploiting In… |
-| 2026-11-27 13:17:23 | [CVE-2026-135911](https://nvd.nist.gov/vuln/detail/CVE-2026-135911) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in PI Web Solution P… |
-| 2026-11-27 13:17:23 | [CVE-2026-135930](https://nvd.nist.gov/vuln/detail/CVE-2026-135930) | Critical | 9.1 | Authentication Bypass by Spoofing vulnerability in TMS Amelia ameliabooking allows Identity Spoofing.This issue affects… |
-| 2026-11-27 13:17:23 | [CVE-2026-135933](https://nvd.nist.gov/vuln/detail/CVE-2026-135933) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in Tobias WebinarIgnition webinar-ignition allows Privilege Escalation.Thi… |
-| 2026-11-27 13:17:24 | [CVE-2026-135948](https://nvd.nist.gov/vuln/detail/CVE-2026-135948) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Themeisle MPG mul… |
-| 2026-11-27 13:17:24 | [CVE-2026-135950](https://nvd.nist.gov/vuln/detail/CVE-2026-135950) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in fifu.app Featured… |
-| 2026-11-27 13:17:24 | [CVE-2026-137744](https://nvd.nist.gov/vuln/detail/CVE-2026-137744) | Medium | 5.5 | A security vulnerability has been detected in Free5GC up to 4.2.3. Affected by this issue is the function SecurityAssoc… |
-| 2026-11-27 13:17:24 | [CVE-2026-137745](https://nvd.nist.gov/vuln/detail/CVE-2026-137745) | Medium | 5.5 | A vulnerability was detected in Free5GC 4.3.0. This affects the function handleAssociationSetupRequest of the file inte… |
-| 2026-11-27 13:17:24 | [CVE-2026-137746](https://nvd.nist.gov/vuln/detail/CVE-2026-137746) | High | 7.7 | A flaw has been found in Free5GC 4.3.0. This vulnerability affects unknown code of the component SMF. This manipulation… |
-| 2026-11-27 13:17:25 | [CVE-2026-137905](https://nvd.nist.gov/vuln/detail/CVE-2026-137905) | Medium | 6.8 | FFmpeg 5.0 before 8.1.3 contains a NULL pointer dereference vulnerability in parse_imf_asset_map_from_xml_dom() in liba… |
-| 2026-11-27 13:17:25 | [CVE-2026-137906](https://nvd.nist.gov/vuln/detail/CVE-2026-137906) | Medium | 6.8 | FFmpeg 5.0 before 8.1.3 contains a NULL pointer dereference vulnerability in the IMF demuxer in libavformat/imfdec.c be… |
-| 2026-11-27 13:17:25 | [CVE-2026-137907](https://nvd.nist.gov/vuln/detail/CVE-2026-137907) | High | 8.5 | FFmpeg 3.0 before 8.1.3 contains a heap buffer overflow vulnerability in libavfilter/vf_boxblur.c because query_formats… |
-| 2026-11-27 13:17:25 | [CVE-2026-137908](https://nvd.nist.gov/vuln/detail/CVE-2026-137908) | Medium | 5.7 | FFmpeg 7.1 before 9.1 contains a memory leak vulnerability in eb_receive_packet() in libavcodec/libsvtav1.c that return… |
-| 2026-11-27 13:17:25 | [CVE-2026-137909](https://nvd.nist.gov/vuln/detail/CVE-2026-137909) | Medium | 5.7 | FFmpeg before 9.1 contains a NULL pointer dereference vulnerability in xsub_encode() in libavcodec/xsubenc.c that only… |
-| 2026-11-27 13:17:26 | [CVE-2026-137910](https://nvd.nist.gov/vuln/detail/CVE-2026-137910) | Medium | 5.8 | FFmpeg before 9.1 contains an out-of-bounds read vulnerability in pcx_encode_frame() in libavcodec/pcxenc.c that rounds… |
-| 2026-11-27 13:17:26 | [CVE-2026-137911](https://nvd.nist.gov/vuln/detail/CVE-2026-137911) | Medium | 5.8 | FFmpeg before 9.1 contains an out-of-bounds read vulnerability in xwd_encode_frame() in libavcodec/xwdenc.c that copies… |
-| 2026-11-27 13:17:26 | [CVE-2026-85561](https://nvd.nist.gov/vuln/detail/CVE-2026-85561) | Medium | 5.4 | When DNS over HTTPS is enabled and configured to trust incoming X-Forwarded-For headers, in addition to the use of the… |
-| 2026-11-27 13:17:26 | [CVE-2026-85562](https://nvd.nist.gov/vuln/detail/CVE-2026-85562) | Medium | 5.3 | When DNS over HTTPS is enabled and configured to trust incoming X-Forwarded-For headers, and the reverse proxy placed i… |
-| 2026-11-27 13:17:26 | [CVE-2026-85563](https://nvd.nist.gov/vuln/detail/CVE-2026-85563) | Medium | 4.2 | When DNS over HTTPS is enabled and a caching HTTP reverse proxy is used in front of DNSdist, it is possible to pollute… |
-| 2026-11-27 13:17:27 | [CVE-2026-85564](https://nvd.nist.gov/vuln/detail/CVE-2026-85564) | Medium | 4.3 | An attacker can trigger a large memory use by cancelling QUIC streams while DNSdist is retrieving the response from its… |
-| 2026-11-27 13:17:27 | [CVE-2026-85565](https://nvd.nist.gov/vuln/detail/CVE-2026-85565) | Low | 3.1 | An attacker can trigger a synchronization issue on outgoing TCP connections between DNSdist and its backend by sending… |
-| 2026-11-27 13:17:27 | [CVE-2026-85566](https://nvd.nist.gov/vuln/detail/CVE-2026-85566) | Medium | 4.8 | An attacker might be able to forge its own source IP, smuggle DNS records or bypass EDNS options filtering via a specia… |
-| 2026-11-27 13:17:27 | [CVE-2026-85567](https://nvd.nist.gov/vuln/detail/CVE-2026-85567) | Low | 3.1 | Setting an empty API key was not properly disabling access to the internal HTTP API, despite being documented as such.… |
+| 2026-11-27 14:17:01 | [CVE-2026-118968](https://nvd.nist.gov/vuln/detail/CVE-2026-118968) | Low | 1.0 | A denial-of-service vulnerability in the Qt WAV audio decoding of the Qt Multimedia module |
+| 2026-11-27 14:17:01 | [CVE-2026-123757](https://nvd.nist.gov/vuln/detail/CVE-2026-123757) | High | 7.4 | An attacker can send a notify request that causes the root zone to be added as a secondary domain to be added to the bi… |
+| 2026-11-27 14:17:01 | [CVE-2026-123758](https://nvd.nist.gov/vuln/detail/CVE-2026-123758) | Medium | 4.4 | A race condition in the handling of the forward notification requests queue can lead to a crash if too many UDP notify… |
+| 2026-11-27 14:17:01 | [CVE-2026-123759](https://nvd.nist.gov/vuln/detail/CVE-2026-123759) | Medium | 4.8 | A catalog zone provider can add a root zone as member and cause PowerDNS to provision it from the given source. |
+| 2026-11-27 14:17:01 | [CVE-2026-123760](https://nvd.nist.gov/vuln/detail/CVE-2026-123760) | Medium | 6.5 | When using the LMDB backend, performing zone rectification when the number of Empty Non-Terminal entries is larger than… |
+| 2026-11-27 14:17:01 | [CVE-2026-123761](https://nvd.nist.gov/vuln/detail/CVE-2026-123761) | High | 8.2 | Various logic errors in view processing can cause incorrect cached results to be returned. |
+| 2026-11-27 14:17:01 | [CVE-2026-123762](https://nvd.nist.gov/vuln/detail/CVE-2026-123762) | High | 7.6 | A catalog zone update introducing a new zone which already exists, but in a different backend than the one storing the… |
+| 2026-11-27 14:17:01 | [CVE-2026-123764](https://nvd.nist.gov/vuln/detail/CVE-2026-123764) | High | 7.5 | Incorrect sanitization of received data during zone AXFR to Bind backend can cause wrong or invalid data to be serializ… |
+| 2026-11-27 14:17:02 | [CVE-2026-124727](https://nvd.nist.gov/vuln/detail/CVE-2026-124727) | Medium | 6.5 | Incorrect handling of obsolete record types during zone AXFR to Bind backend will cause the zone to fail to load afterw… |
+| 2026-11-27 14:17:02 | [CVE-2026-124728](https://nvd.nist.gov/vuln/detail/CVE-2026-124728) | High | 7.5 | Incomplete GSS negotiation, as well as TKEY context deletion while a pending operation will need to be signed with that… |
+| 2026-11-27 14:17:02 | [CVE-2026-124981](https://nvd.nist.gov/vuln/detail/CVE-2026-124981) | Critical | 9.4 | A vulnerability has been identified in Mendix OIDC Provider (Mendix 10 compatible) (All versions < V6.0.0), Mendix OIDC… |
+| 2026-11-27 14:17:02 | [CVE-2026-134708](https://nvd.nist.gov/vuln/detail/CVE-2026-134708) | High | 8.6 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in VideoWhisper.com Video… |
+| 2026-11-27 14:17:02 | [CVE-2026-134956](https://nvd.nist.gov/vuln/detail/CVE-2026-134956) | Medium | 6.5 | Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Acato WP REST Cache wp-r… |
+| 2026-11-27 14:17:02 | [CVE-2026-134982](https://nvd.nist.gov/vuln/detail/CVE-2026-134982) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Amauri.IO WPMobil… |
+| 2026-11-27 14:17:02 | [CVE-2026-134983](https://nvd.nist.gov/vuln/detail/CVE-2026-134983) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Muralidharan Rama… |
+| 2026-11-27 14:17:03 | [CVE-2026-134987](https://nvd.nist.gov/vuln/detail/CVE-2026-134987) | High | 8.6 | Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Nickboss WordPress File… |
+| 2026-11-27 14:17:03 | [CVE-2026-134993](https://nvd.nist.gov/vuln/detail/CVE-2026-134993) | High | 7.5 | Path Traversal: '.../...//' vulnerability in Seraphinite Solutions Seraphinite Accelerator seraphinite-accelerator allo… |
+| 2026-11-27 14:17:03 | [CVE-2026-134994](https://nvd.nist.gov/vuln/detail/CVE-2026-134994) | Critical | 9.8 | Deserialization of Untrusted Data vulnerability in Nitramix Revertix &#8211; Backup, Migration, Staging &amp; Clone rev… |
+| 2026-11-27 14:17:03 | [CVE-2026-135009](https://nvd.nist.gov/vuln/detail/CVE-2026-135009) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in David Lingren Med… |
+| 2026-11-27 14:17:03 | [CVE-2026-135032](https://nvd.nist.gov/vuln/detail/CVE-2026-135032) | High | 7.5 | Missing Authorization vulnerability in Everest Forms Everest Forms everest-forms allows Exploiting Incorrectly Configur… |
+| 2026-11-27 14:17:03 | [CVE-2026-135048](https://nvd.nist.gov/vuln/detail/CVE-2026-135048) | High | 8.8 | Incorrect Privilege Assignment vulnerability in weDevs WP ERP erp allows Privilege Escalation.This issue affects WP ERP… |
+| 2026-11-27 14:17:03 | [CVE-2026-135278](https://nvd.nist.gov/vuln/detail/CVE-2026-135278) | Medium | 5.3 | A vulnerability has been identified in Mendix Runtime V10 (All versions < V10.24.29), Mendix Runtime V11 (All versions… |
+| 2026-11-27 14:17:04 | [CVE-2026-135923](https://nvd.nist.gov/vuln/detail/CVE-2026-135923) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WPTasty AWP Class… |
+| 2026-11-27 14:17:04 | [CVE-2026-135953](https://nvd.nist.gov/vuln/detail/CVE-2026-135953) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in WS Form WS Form L… |
+| 2026-11-27 14:17:04 | [CVE-2026-137936](https://nvd.nist.gov/vuln/detail/CVE-2026-137936) | Medium | 6.0 | Payload 3.25.0 before 3.90.0 and 4.0.0-canary.0 before 4.0.0-canary.34 contains an authorization bypass through a user-… |
+| 2026-11-27 14:17:04 | [CVE-2026-137937](https://nvd.nist.gov/vuln/detail/CVE-2026-137937) | Medium | 6.9 | PDFio before 1.6.5 contains an integer underflow in _pdfioCryptoAESDecrypt() in pdfio-aes.c, which strips PKCS#7 paddin… |
+| 2026-11-27 14:17:04 | [CVE-2026-137938](https://nvd.nist.gov/vuln/detail/CVE-2026-137938) | High | 7.3 | Sparkle before 2.9.6 contains a time-of-check time-of-use race condition in the installer's SPUInstallationData handlin… |
+| 2026-11-27 14:17:04 | [CVE-2026-137939](https://nvd.nist.gov/vuln/detail/CVE-2026-137939) | High | 7.3 | Sparkle 2.2.0 before 2.9.6 contains a link following vulnerability in -submitInstallerAtPath: in SUInstallerLauncher.m… |
+| 2026-11-27 14:17:05 | [CVE-2026-137940](https://nvd.nist.gov/vuln/detail/CVE-2026-137940) | Medium | 5.7 | Pillow through 13.1.0 contains an integer overflow in the ImageMath integer divide and modulo operators (DIV_I and MOD_… |
+| 2026-11-27 14:17:05 | [CVE-2026-137942](https://nvd.nist.gov/vuln/detail/CVE-2026-137942) | Medium | 5.3 | Roundcube Webmail before 1.6.19 and 1.7.x before 1.7.4 contains an authorization bypass in add_to_group() and remove_fr… |
+| 2026-11-27 14:17:05 | [CVE-2026-137943](https://nvd.nist.gov/vuln/detail/CVE-2026-137943) | Medium | 5.1 | Roundcube Webmail before 1.6.19 and 1.7.x before 1.7.4 contains a cross-site scripting vulnerability in compose_part_bo… |
+| 2026-11-27 14:17:05 | [CVE-2026-80480](https://nvd.nist.gov/vuln/detail/CVE-2026-80480) | Medium | 6.8 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Improper Certificate Validatio… |
+| 2026-11-27 14:17:05 | [CVE-2026-80481](https://nvd.nist.gov/vuln/detail/CVE-2026-80481) | Medium | 5.5 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Insertion of Sensitive Informa… |
+| 2026-11-27 14:17:05 | [CVE-2026-80482](https://nvd.nist.gov/vuln/detail/CVE-2026-80482) | Low | 3.3 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a J2EE Bad Practices: Use of Syst… |
+| 2026-11-27 14:17:05 | [CVE-2026-80483](https://nvd.nist.gov/vuln/detail/CVE-2026-80483) | High | 7.3 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Off-by-one Error vulnerability… |
+| 2026-11-27 14:17:06 | [CVE-2026-80484](https://nvd.nist.gov/vuln/detail/CVE-2026-80484) | Medium | 5.5 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a Use of Hard-coded Cryptographic… |
+| 2026-11-27 14:17:06 | [CVE-2026-80485](https://nvd.nist.gov/vuln/detail/CVE-2026-80485) | High | 8.4 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Improper Neutralization of Spe… |
+| 2026-11-27 14:17:06 | [CVE-2026-80498](https://nvd.nist.gov/vuln/detail/CVE-2026-80498) | High | 7.8 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a Use of Hard-coded Cryptographic… |
+| 2026-11-27 14:17:06 | [CVE-2026-80499](https://nvd.nist.gov/vuln/detail/CVE-2026-80499) | Medium | 6.1 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an External Control of File Name… |
+| 2026-11-27 14:17:06 | [CVE-2026-80500](https://nvd.nist.gov/vuln/detail/CVE-2026-80500) | High | 7.7 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Improper Authentication vulner… |
+| 2026-11-27 14:17:06 | [CVE-2026-80501](https://nvd.nist.gov/vuln/detail/CVE-2026-80501) | High | 7.8 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Incorrect Permission Assignmen… |
+| 2026-11-27 14:17:06 | [CVE-2026-80502](https://nvd.nist.gov/vuln/detail/CVE-2026-80502) | Medium | 6.8 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Improper Certificate Validatio… |
+| 2026-11-27 14:17:06 | [CVE-2026-80503](https://nvd.nist.gov/vuln/detail/CVE-2026-80503) | Medium | 6.1 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains an Insertion of Sensitive Informa… |
+| 2026-11-27 14:17:07 | [CVE-2026-80504](https://nvd.nist.gov/vuln/detail/CVE-2026-80504) | Medium | 5.3 | Dell Secure Connect Gateway - Virtual Edition, versions prior to 5.36.00.16, contains a Concurrent Execution using Shar… |
+| 2026-11-27 14:17:07 | [CVE-2026-85258](https://nvd.nist.gov/vuln/detail/CVE-2026-85258) | Critical | 9.3 | A Missing Authorization vulnerability in the private console API in Google Cloud Vertex AI (Vertex AI Assistant) versio… |
 
 ## Data source
 
