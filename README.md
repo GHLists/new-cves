@@ -9,15 +9,21 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 18:22 UTC
+## Latest list — 2026-11-27 19:18 UTC
 
-New CVEs published between 2026-11-27 17:19 UTC and 2026-11-27 18:22 UTC.
+New CVEs published between 2026-11-27 18:22 UTC and 2026-11-27 19:18 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T18-22-16-107223Z.csv)
+[Full CSV](data/new-cves-2026-11-27T19-18-59-817298Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 18:16:46 | [CVE-2026-132876](https://nvd.nist.gov/vuln/detail/CVE-2026-132876) | High | 7.7 | Dreamweaver Desktop is affected by a Dependency on Vulnerable Third-Party Component vulnerability that could result in… |
+| 2026-11-27 19:16:59 | [CVE-2026-134129](https://nvd.nist.gov/vuln/detail/CVE-2026-134129) | High | 8.7 | smalot/pdfparser before 2.14.0 contains an inefficient algorithmic complexity vulnerability that allows remote attacker… |
+| 2026-11-27 19:16:59 | [CVE-2026-136112](https://nvd.nist.gov/vuln/detail/CVE-2026-136112) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Amit Mittal Shipm… |
+| 2026-11-27 19:16:59 | [CVE-2026-136113](https://nvd.nist.gov/vuln/detail/CVE-2026-136113) | Critical | 9.3 | Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Hello Clever Pty… |
+| 2026-11-27 19:16:59 | [CVE-2026-136114](https://nvd.nist.gov/vuln/detail/CVE-2026-136114) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in e4jvikwp VikBooki… |
+| 2026-11-27 19:16:59 | [CVE-2026-136115](https://nvd.nist.gov/vuln/detail/CVE-2026-136115) | Critical | 9.8 | Incorrect Privilege Assignment vulnerability in expresstechsoftware MemberPress Discord Addon expresstechsoftwares-memb… |
+| 2026-11-27 19:16:59 | [CVE-2026-136116](https://nvd.nist.gov/vuln/detail/CVE-2026-136116) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Solid Plugins, LL… |
+| 2026-11-27 19:17:00 | [CVE-2026-136117](https://nvd.nist.gov/vuln/detail/CVE-2026-136117) | High | 7.1 | Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') vulnerability in Solid Plugins, LL… |
 
 ## Data source
 
