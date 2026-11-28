@@ -9,16 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 10:21 UTC
+## Latest list — 2026-11-28 12:20 UTC
 
-New CVEs published between 2026-11-28 09:19 UTC and 2026-11-28 10:21 UTC.
+New CVEs published between 2026-11-28 11:20 UTC and 2026-11-28 12:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-28T10-21-31-338579Z.csv)
+[Full CSV](data/new-cves-2026-11-28T12-20-30-812254Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-28 10:17:00 | [CVE-2026-138005](https://nvd.nist.gov/vuln/detail/CVE-2026-138005) | Critical | 9.3 | A vulnerability was detected in TRENDnet TEW-751DR 1.03B01. Affected by this vulnerability is the function gena.php::GE… |
-| 2026-11-28 10:17:00 | [CVE-2026-138036](https://nvd.nist.gov/vuln/detail/CVE-2026-138036) | Medium | 5.5 | A vulnerability was detected in Free5GC up to 4.3.0. The impacted element is the function PostPoliciesProcedure of the… |
+| 2026-11-28 12:17:41 | [CVE-2026-138037](https://nvd.nist.gov/vuln/detail/CVE-2026-138037) | Medium | 5.5 | A flaw has been found in Open5GS up to 2.8.0. This affects the function ogs_pfcp_handle_create_urr of the file lib/pfcp… |
+| 2026-11-28 12:17:41 | [CVE-2026-138038](https://nvd.nist.gov/vuln/detail/CVE-2026-138038) | Medium | 5.5 | A vulnerability has been found in Open5GS 2.8.0. This impacts the function nrf_nnrf_handle_nf_discover of the file src/… |
+| 2026-11-28 12:17:42 | [CVE-2026-5771](https://nvd.nist.gov/vuln/detail/CVE-2026-5771) | Medium | 4.3 | The Loco Translate plugin for WordPress is vulnerable to Arbitrary File Write/Overwrite via Path Traversal in all versi… |
 
 ## Data source
 
