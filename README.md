@@ -9,16 +9,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 23:19 UTC
+## Latest list — 2026-11-28 01:20 UTC
 
-New CVEs published between 2026-11-27 22:19 UTC and 2026-11-27 23:19 UTC.
+New CVEs published between 2026-11-28 00:20 UTC and 2026-11-28 01:20 UTC.
 
-[Full CSV](data/new-cves-2026-11-27T23-19-07-588515Z.csv)
+[Full CSV](data/new-cves-2026-11-28T01-20-09-552709Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-27 23:16:36 | [CVE-2026-107967](https://nvd.nist.gov/vuln/detail/CVE-2026-107967) | Low | 0.9 | HCL Verse for Android included a decryption code for compatibility with locally stored values and attachment files crea… |
-| 2026-11-27 23:16:36 | [CVE-2026-138004](https://nvd.nist.gov/vuln/detail/CVE-2026-138004) | Critical | 9.3 | A security vulnerability has been detected in TRENDnet TEW-751DR and TEW-733GR 1.03B01. Affected is the function soapcg… |
+| 2026-11-28 01:16:40 | [CVE-2026-107951](https://nvd.nist.gov/vuln/detail/CVE-2026-107951) | Low | 3.1 | Improper Content Security Policy (CSP) configuration in the BigFix MCM WebUI allowed the data: URI scheme as a source i… |
 
 ## Data source
 

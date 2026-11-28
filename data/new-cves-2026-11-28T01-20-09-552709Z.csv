@@ -1,0 +1,2 @@
+published_at,cve,severity,score,status,cwe,references,description
+2026-11-28T01:16:40.24Z,CVE-2026-107951,LOW,3.1,Received,CWE-693,1,Improper Content Security Policy (CSP) configuration in the BigFix MCM WebUI allowed the data: URI scheme as a source in the img-src directive of the CSP header. This potentially weakens the application's defense-in-depth security mechanism.
