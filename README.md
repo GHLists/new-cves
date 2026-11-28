@@ -9,20 +9,16 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 06:21 UTC
+## Latest list — 2026-11-28 10:21 UTC
 
-New CVEs published between 2026-11-28 05:21 UTC and 2026-11-28 06:21 UTC.
+New CVEs published between 2026-11-28 09:19 UTC and 2026-11-28 10:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-28T06-21-31-119779Z.csv)
+[Full CSV](data/new-cves-2026-11-28T10-21-31-338579Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-28 06:16:40 | [CVE-2026-112231](https://nvd.nist.gov/vuln/detail/CVE-2026-112231) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not sanitise or escape a custom styling value before storing it a… |
-| 2026-11-28 06:16:42 | [CVE-2026-112232](https://nvd.nist.gov/vuln/detail/CVE-2026-112232) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not properly sanitize and escape a popup shortcode attribute befo… |
-| 2026-11-28 06:16:42 | [CVE-2026-112233](https://nvd.nist.gov/vuln/detail/CVE-2026-112233) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not check the publish status or the visitor's capabilities before… |
-| 2026-11-28 06:16:42 | [CVE-2026-112234](https://nvd.nist.gov/vuln/detail/CVE-2026-112234) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not validate a user-supplied URL before requesting it server-side… |
-| 2026-11-28 06:16:42 | [CVE-2026-112235](https://nvd.nist.gov/vuln/detail/CVE-2026-112235) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not properly check authorization before allowing a user to store… |
-| 2026-11-28 06:16:42 | [CVE-2026-123654](https://nvd.nist.gov/vuln/detail/CVE-2026-123654) |  |  | Themify Base WordPress theme through 1.2.4 does not perform capability checks on its option save and read AJAX actions,… |
+| 2026-11-28 10:17:00 | [CVE-2026-138005](https://nvd.nist.gov/vuln/detail/CVE-2026-138005) | Critical | 9.3 | A vulnerability was detected in TRENDnet TEW-751DR 1.03B01. Affected by this vulnerability is the function gena.php::GE… |
+| 2026-11-28 10:17:00 | [CVE-2026-138036](https://nvd.nist.gov/vuln/detail/CVE-2026-138036) | Medium | 5.5 | A vulnerability was detected in Free5GC up to 4.3.0. The impacted element is the function PostPoliciesProcedure of the… |
 
 ## Data source
 
