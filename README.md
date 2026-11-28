@@ -9,17 +9,17 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 12:20 UTC
+## Latest list — 2026-11-28 13:21 UTC
 
-New CVEs published between 2026-11-28 11:20 UTC and 2026-11-28 12:20 UTC.
+New CVEs published between 2026-11-28 12:20 UTC and 2026-11-28 13:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-28T12-20-30-812254Z.csv)
+[Full CSV](data/new-cves-2026-11-28T13-21-21-831848Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-28 12:17:41 | [CVE-2026-138037](https://nvd.nist.gov/vuln/detail/CVE-2026-138037) | Medium | 5.5 | A flaw has been found in Open5GS up to 2.8.0. This affects the function ogs_pfcp_handle_create_urr of the file lib/pfcp… |
-| 2026-11-28 12:17:41 | [CVE-2026-138038](https://nvd.nist.gov/vuln/detail/CVE-2026-138038) | Medium | 5.5 | A vulnerability has been found in Open5GS 2.8.0. This impacts the function nrf_nnrf_handle_nf_discover of the file src/… |
-| 2026-11-28 12:17:42 | [CVE-2026-5771](https://nvd.nist.gov/vuln/detail/CVE-2026-5771) | Medium | 4.3 | The Loco Translate plugin for WordPress is vulnerable to Arbitrary File Write/Overwrite via Path Traversal in all versi… |
+| 2026-11-28 13:17:02 | [CVE-2026-138039](https://nvd.nist.gov/vuln/detail/CVE-2026-138039) | Medium | 5.5 | A vulnerability was found in Open5GS up to 2.8.0. Affected is the function smf_ue_find_by_imsi of the file src/smf/cont… |
+| 2026-11-28 13:17:03 | [CVE-2026-138047](https://nvd.nist.gov/vuln/detail/CVE-2026-138047) | Low | 2.0 | A vulnerability was identified in dcatadmin Dcat-Admin 2.2.2-beta. Affected by this issue is the function getDatabaseCo… |
+| 2026-11-28 13:17:03 | [CVE-2026-138049](https://nvd.nist.gov/vuln/detail/CVE-2026-138049) | Medium | 5.5 | A security flaw has been discovered in OpenAirInterface oai-cn5g-nrf up to 2.2.1. This affects the function notify_subs… |
 
 ## Data source
 
