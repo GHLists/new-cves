@@ -9,22 +9,20 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 03:20 UTC
+## Latest list — 2026-11-28 06:21 UTC
 
-New CVEs published between 2026-11-28 02:20 UTC and 2026-11-28 03:20 UTC.
+New CVEs published between 2026-11-28 05:21 UTC and 2026-11-28 06:21 UTC.
 
-[Full CSV](data/new-cves-2026-11-28T03-20-35-851327Z.csv)
+[Full CSV](data/new-cves-2026-11-28T06-21-31-119779Z.csv)
 
 | Published (UTC) | CVE | Severity | Score | Description |
 | :-------------- | :-- | :------- | ----: | :---------- |
-| 2026-11-28 03:17:06 | [CVE-2026-138154](https://nvd.nist.gov/vuln/detail/CVE-2026-138154) | Critical | 9.3 | POSTAL 2 before build 26810491 contains a sandbox escape vulnerability that allows malicious Steam Workshop mods to exe… |
-| 2026-11-28 03:17:07 | [CVE-2026-138158](https://nvd.nist.gov/vuln/detail/CVE-2026-138158) | High | 7.0 | libgphoto2 through 2.5.34 contains a stack buffer overflow in sierra_get_string_register() that lets a malicious sierra… |
-| 2026-11-28 03:17:07 | [CVE-2026-138159](https://nvd.nist.gov/vuln/detail/CVE-2026-138159) | High | 7.7 | edbrowse through 3.8.19 contains an integer overflow in stringAndBytes() that allows malicious servers to write past a… |
-| 2026-11-28 03:17:07 | [CVE-2026-138160](https://nvd.nist.gov/vuln/detail/CVE-2026-138160) | High | 8.5 | Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ReadBackupTextLen() that allows attackers t… |
-| 2026-11-28 03:17:08 | [CVE-2026-138161](https://nvd.nist.gov/vuln/detail/CVE-2026-138161) | High | 8.5 | Gammu before 1.45.2 contains a buffer overflow vulnerability in LoadBackup() that allows attackers to corrupt memory by… |
-| 2026-11-28 03:17:08 | [CVE-2026-138162](https://nvd.nist.gov/vuln/detail/CVE-2026-138162) | High | 7.3 | Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in ALCATEL_EncodeString() that allows attacker… |
-| 2026-11-28 03:17:08 | [CVE-2026-138163](https://nvd.nist.gov/vuln/detail/CVE-2026-138163) | High | 8.5 | Gammu before 1.45.2 contains a heap-based buffer overflow in ReadWAPSettingsEntry() that allows attackers to corrupt he… |
-| 2026-11-28 03:17:08 | [CVE-2026-138164](https://nvd.nist.gov/vuln/detail/CVE-2026-138164) | Medium | 4.8 | Gammu before 1.45.2 contains a stack-based buffer overflow vulnerability in SaveBackupText() in backtext.c that allows… |
+| 2026-11-28 06:16:40 | [CVE-2026-112231](https://nvd.nist.gov/vuln/detail/CVE-2026-112231) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not sanitise or escape a custom styling value before storing it a… |
+| 2026-11-28 06:16:42 | [CVE-2026-112232](https://nvd.nist.gov/vuln/detail/CVE-2026-112232) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not properly sanitize and escape a popup shortcode attribute befo… |
+| 2026-11-28 06:16:42 | [CVE-2026-112233](https://nvd.nist.gov/vuln/detail/CVE-2026-112233) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not check the publish status or the visitor's capabilities before… |
+| 2026-11-28 06:16:42 | [CVE-2026-112234](https://nvd.nist.gov/vuln/detail/CVE-2026-112234) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not validate a user-supplied URL before requesting it server-side… |
+| 2026-11-28 06:16:42 | [CVE-2026-112235](https://nvd.nist.gov/vuln/detail/CVE-2026-112235) |  |  | The Popup Builder WordPress plugin through 4.4.6 does not properly check authorization before allowing a user to store… |
+| 2026-11-28 06:16:42 | [CVE-2026-123654](https://nvd.nist.gov/vuln/detail/CVE-2026-123654) |  |  | Themify Base WordPress theme through 1.2.4 does not perform capability checks on its option save and read AJAX actions,… |
 
 ## Data source
 
